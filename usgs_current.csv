@@ -86,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T05:37:01.520Z,37.5784988,-118.8636703,3.58,1.05,md,11,219,0.02977,0.01,nc,nc73718136,2022-04-14T07:47:30.914Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.72,0.87,0.16,11,automatic,nc,nc
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:51:09.613Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:23:21.800Z,35.845,-117.671,5.35,0.78,ml,12,85,0.06647,0.08,ci,ci39991991,2022-04-14T13:05:01.881Z,"24km ESE of Little Lake, CA",earthquake,0.25,0.8,0.2,11,reviewed,ci,ci
+2022-04-14T05:15:24.650Z,34.1053333,-118.2316667,6.3,1.34,ml,48,81,0.03224,0.17,ci,ci39991983,2022-04-14T13:52:21.050Z,"3km ENE of Silver Lake, CA",earthquake,0.2,0.42,0.098,25,reviewed,ci,ci
 2022-04-14T05:04:13.970Z,38.8310013,-122.8183365,1.97,0.85,md,13,79,0.009967,0.02,nc,nc73718131,2022-04-14T05:33:18.090Z,"8km NW of The Geysers, CA",earthquake,0.35,0.69,,1,automatic,nc,nc
 2022-04-14T05:01:35.155Z,61.6063,-149.9469,27,1.5,ml,,,,0.49,ak,ak0224s2vjtj,2022-04-14T05:07:32.261Z,"7 km WSW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-14T05:00:51.430Z,33.9886667,-116.8123333,3.59,0.5,ml,7,113,0.1453,0.08,ci,ci39991975,2022-04-14T05:04:28.468Z,"8km NNW of Cabazon, CA",earthquake,0.34,31.61,0.162,10,automatic,ci,ci
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T01:08:59.320Z,35.5546684,-120.791832,6.26,1.99,md,24,61,0.1031,0.04,nc,nc73718081,2022-04-14T03:05:21.208Z,"8km W of Templeton, CA",earthquake,0.27,0.88,0.13,19,automatic,nc,nc
 2022-04-14T01:04:44.560Z,19.4873333333333,-155.571166666667,-1.99,1.74,ml,15,47,,0.16,hv,hv72983172,2022-04-14T01:58:39.270Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.24,0.31,0.202393988528017,4,reviewed,hv,hv
 2022-04-14T01:02:12.652Z,65.121,-149.4625,17.8,1.1,ml,,,,0.92,ak,ak0224s0hzdr,2022-04-14T01:13:30.362Z,"6 km WSW of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-14T01:02:07.610Z,34.6403333,-119.5231667,4.81,1.07,ml,12,69,0.1392,0.16,ci,ci39991871,2022-04-14T01:05:44.987Z,"25km NNE of Montecito, CA",earthquake,0.39,2.78,0.262,5,automatic,ci,ci
+2022-04-14T01:02:07.520Z,34.6396667,-119.5176667,2.27,0.82,ml,12,63,0.1362,0.2,ci,ci39991871,2022-04-14T13:57:58.092Z,"25km NNE of Montecito, CA",earthquake,0.41,1.5,0.158,4,reviewed,ci,ci
 2022-04-14T00:56:40.259Z,61.0847,-148.3123,0,1.4,ml,,,,1.37,ak,ak0224s086jx,2022-04-14T01:03:04.282Z,"40 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T00:51:49.990Z,38.7926674,-122.7613297,2.96,0.39,md,13,107,0.008046,0.01,nc,nc73718076,2022-04-14T01:17:24.522Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.93,0.31,2,automatic,nc,nc
 2022-04-14T00:51:29.881Z,60.8879,-150.7009,21.1,1.7,ml,,,,0.91,ak,ak0224s07361,2022-04-14T00:54:01.336Z,"3 km S of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
