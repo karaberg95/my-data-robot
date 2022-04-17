@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T14:24:07.580Z,38.8260002,-122.8118362,1.06,0.74,md,17,56,0.02086,0.04,nc,nc73718880,2022-04-17T14:30:46.270Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.39,3,automatic,nc,nc
+2022-04-17T14:41:27.147Z,62.986,-151.5982,4.7,1.4,ml,,,,0.77,ak,ak0224x731re,2022-04-17T14:45:17.121Z,"62 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T14:24:07.580Z,38.8260002,-122.8118362,1.06,0.74,md,17,56,0.02086,0.04,nc,nc73718880,2022-04-17T14:41:56.826Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.39,3,automatic,nc,nc
 2022-04-17T14:03:30.580Z,34.1453333,-117.4223333,3.91,0.94,ml,28,97,0.08935,0.22,ci,ci40239016,2022-04-17T14:08:03.579Z,"6km NNE of Fontana, CA",earthquake,0.39,1.01,0.17,29,automatic,ci,ci
 2022-04-17T13:58:45.464Z,63.9661,-150.3639,19,1.2,ml,,,,0.98,ak,ak0224x6laqm,2022-04-17T14:20:58.466Z,"61 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:32:35.480Z,35.9343333,-117.7128333,9.76,1.06,ml,14,59,0.05246,0.12,ci,ci40239000,2022-04-17T13:36:16.497Z,"18km E of Little Lake, CA",earthquake,0.31,0.58,0.408,8,automatic,ci,ci
