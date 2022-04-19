@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T11:42:58.830Z,38.841835,-122.878334,2.61,0.86,md,8,112,0.007804,0.01,nc,nc73720120,2022-04-19T11:47:49.370Z,"13km ENE of Cloverdale, CA",earthquake,0.42,0.81,0.02,2,automatic,nc,nc
+2022-04-19T11:39:41.050Z,33.6928333,-115.9218333,0.35,1.79,ml,8,224,0.3928,0.33,ci,ci40240944,2022-04-19T11:43:28.994Z,"18km N of North Shore, CA",earthquake,3.57,31.61,0.283,12,automatic,ci,ci
 2022-04-19T11:30:41.070Z,33.1775,-115.6145,1.86,1.19,ml,17,111,0.0009565,0.23,ci,ci40240936,2022-04-19T11:34:21.473Z,"11km WNW of Calipatria, CA",earthquake,0.73,0.36,0.17,18,automatic,ci,ci
 2022-04-19T11:12:06.100Z,32.684,-117.5925,16.68,1.53,ml,13,288,0.5505,0.2,ci,ci40240928,2022-04-19T11:15:43.834Z,"35km WSW of La Jolla, CA",earthquake,2.81,7.31,0.211,11,automatic,ci,ci
 2022-04-19T10:50:02.120Z,38.8193321,-122.805336,2.63,0.84,md,9,70,0.005492,0.01,nc,nc73720110,2022-04-19T11:30:54.964Z,"6km NW of The Geysers, CA",earthquake,0.4,1.26,,1,automatic,nc,nc
