@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-20T08:47:43.449Z,61.8692,-151.0623,28,1.5,ml,,,,0.36,ak,ak0225225t60,2022-04-20T08:55:30.391Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-20T08:34:34.570Z,19.2013339996338,-155.387161254883,32.0299987792969,1.83000004,md,45,161,,0.119999997,hv,hv72990217,2022-04-20T08:37:54.080Z,"9 km E of Pāhala, Hawaii",earthquake,0.55,0.790000021,0.529999971,13,automatic,hv,hv
 2022-04-20T08:20:06.476Z,39.3487,-119.235,0.1,1,ml,11,80.3,0.363,0.2155,nn,nn00837506,2022-04-20T08:23:32.136Z,"7 km S of Silver Springs, Nevada",earthquake,,51.1,0.31,8,automatic,nn,nn
 2022-04-20T08:17:41.420Z,38.8390007,-122.8099976,1.97,0.71,md,17,65,0.01536,0.02,nc,nc73720640,2022-04-20T08:20:14.930Z,"8km WNW of Cobb, CA",earthquake,0.26,0.66,0.14,2,automatic,nc,nc
