@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-21T23:40:42.230Z,38.803833,-122.8166656,2.9,0.35,md,11,119,0.01099,0.02,nc,nc73721450,2022-04-21T23:43:19.288Z,"6km WNW of The Geysers, CA",earthquake,0.5,0.82,,1,automatic,nc,nc
+2022-04-21T23:38:51.750Z,17.889,-66.685,6.9,2.69,md,7,256,,0.08,pr,pr71345448,2022-04-21T23:51:29.010Z,"12 km SSE of Tallaboa, Puerto Rico",earthquake,0.72,0.43,0.125652323790062,6,reviewed,pr,pr
 2022-04-21T22:58:35.480Z,38.7885017,-122.769165,1.63,1.18,md,13,82,0.01418,0.03,nc,nc73721440,2022-04-21T23:31:46.596Z,"2km NW of The Geysers, CA",earthquake,0.29,0.57,,1,automatic,nc,nc
 2022-04-21T22:41:05.010Z,19.2630004882812,-155.392669677734,1.58000004291534,2.1,ml,28,128,,0.180000007,hv,hv72991887,2022-04-21T22:46:38.790Z,"11 km NE of Pāhala, Hawaii",earthquake,0.5,1.13999999,0.08,3,automatic,hv,hv
 2022-04-21T22:39:15.190Z,52.3326666666667,-174.173833333333,3.72,-0.23,ml,6,160,,0.17,av,av91542736,2022-04-21T23:46:48.320Z,"15 km N of Atka, Alaska",earthquake,0.48,0.89,0.25408811125052,6,reviewed,av,av
@@ -19,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T21:32:46.410Z,36.5403333,-89.5671667,8.5,2.64,md,62,30,0.02031,0.09,nm,nm60391181,2022-04-21T23:11:50.261Z,"4 km SE of Howardville, Missouri",earthquake,0.13,0.24,0.096,50,reviewed,nm,nm
 2022-04-21T21:18:49.550Z,38.8063316,-122.8085022,1.23,0.95,md,13,93,0.01044,0.04,nc,nc73721405,2022-04-21T21:35:22.890Z,"6km NW of The Geysers, CA",earthquake,0.29,0.51,0.1,4,automatic,nc,nc
 2022-04-21T21:14:46.655Z,64.2053,-151.6712,16.7,1.3,ml,,,,0.61,ak,ak02253x8q52,2022-04-21T21:25:22.999Z,"47 km NE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-21T21:11:47.490Z,44.8318333,-112.7941667,4.66,1.58,ml,14,103,0.039,0.16,mb,mb80543759,2022-04-21T23:53:04.600Z,"26 km NW of Lima, Montana",earthquake,0.38,1.08,0.211,8,reviewed,mb,mb
 2022-04-21T20:53:41.320Z,44.3748333,-115.2036667,8.91,2.49,ml,14,83,0.835,0.19,mb,mb80543749,2022-04-21T22:32:46.592Z,"27 km NW of Stanley, Idaho",earthquake,0.46,0.88,0.277,12,reviewed,mb,mb
 2022-04-21T20:51:17.510Z,33.6383333,-116.689,13.48,0.62,ml,15,109,0.03302,0.08,ci,ci37496253,2022-04-21T22:09:40.153Z,"9km N of Anza, CA",earthquake,0.24,0.44,0.19,7,reviewed,ci,ci
 2022-04-21T20:50:59.710Z,33.6338333,-116.69,13.31,0.45,ml,12,108,0.0375,0.05,ci,ci37496261,2022-04-21T22:19:01.247Z,"9km N of Anza, CA",earthquake,0.21,0.37,0.219,5,reviewed,ci,ci
@@ -254,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T00:13:23.260Z,32.9241667,-115.5155,3.34,1.71,ml,23,81,0.04425,0.22,ci,ci40242768,2022-04-21T14:49:14.851Z,"6km SSE of Brawley, CA",earthquake,0.34,0.33,0.349,9,reviewed,ci,ci
 2022-04-21T00:12:03.450Z,33.8578333,-116.514,15.36,0.97,ml,20,79,0.1204,0.14,ci,ci40242760,2022-04-21T13:14:25.210Z,"4km NNE of Palm Springs, CA",earthquake,0.29,0.71,0.2,32,reviewed,ci,ci
 2022-04-21T00:04:31.600Z,32.9245,-115.5195,3.79,1.68,ml,15,80,0.04158,0.16,ci,ci40242752,2022-04-21T14:58:08.965Z,"6km S of Brawley, CA",earthquake,0.38,0.24,0.255,5,reviewed,ci,ci
-2022-04-20T23:55:24.080Z,32.9191667,-115.5185,3.68,2.27,ml,42,79,0.03965,0.23,ci,ci40242736,2022-04-21T19:15:20.586Z,"7km S of Brawley, CA",earthquake,0.21,0.31,0.226,19,reviewed,ci,ci
-2022-04-20T23:54:00.190Z,32.9191667,-115.522,3.46,2.48,ml,21,85,0.03704,0.15,ci,ci40242728,2022-04-21T17:27:33.092Z,"7km S of Brawley, CA",earthquake,0.17,0.22,0.066,7,reviewed,ci,ci
-2022-04-20T23:52:47.520Z,32.917,-115.5131667,11.34,3.27,ml,49,36,0.04289,0.28,ci,ci40242720,2022-04-21T19:20:30.260Z,"7km SSE of Brawley, CA",earthquake,0.29,0.54,0.154,76,reviewed,ci,ci
