@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-21T21:44:26.304Z,63.9235,-146.5816,0,1.3,ml,,,,1.31,ak,ak02253xf41u,2022-04-21T21:47:16.908Z,"41 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T21:32:46.420Z,36.5438347,-89.5651703,7.84,2.57,md,29,50,0.1065,0.13,nm,nm60391181,2022-04-21T21:48:55.295Z,"4 km SE of Howardville, Missouri",earthquake,0.3,0.79,0.27,29,reviewed,nm,nm
+2022-04-21T21:49:32.488Z,61.3792,-150.005,44.8,1.1,ml,,,,0.5,ak,ak02253xg740,2022-04-21T21:57:04.530Z,"2 km NNW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-21T21:44:26.304Z,63.9235,-146.5816,0,1.3,ml,,,,1.31,ak,ak02253xf41u,2022-04-21T21:56:39.195Z,"41 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-21T21:32:46.410Z,36.5403333,-89.5671667,8.5,2.64,md,62,30,0.02031,0.09,nm,nm60391181,2022-04-21T21:58:40.474Z,"southeastern Missouri",earthquake,0.13,0.24,0.096,50,reviewed,nm,nm
 2022-04-21T21:18:49.550Z,38.8063316,-122.8085022,1.23,0.95,md,13,93,0.01044,0.04,nc,nc73721405,2022-04-21T21:35:22.890Z,"6km NW of The Geysers, CA",earthquake,0.29,0.51,0.1,4,automatic,nc,nc
 2022-04-21T21:14:46.655Z,64.2053,-151.6712,16.7,1.3,ml,,,,0.61,ak,ak02253x8q52,2022-04-21T21:25:22.999Z,"47 km NE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-21T20:53:41.320Z,44.3748333,-115.2036667,8.91,2.49,ml,14,83,0.835,0.19,mb,mb80543749,2022-04-21T21:32:33.020Z,"27 km NW of Stanley, Idaho",earthquake,0.46,0.88,0.277,12,reviewed,mb,mb
@@ -153,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T08:20:59.481Z,11.7186,-86.9856,49.76,4.3,mb,,132,0.838,0.81,us,us6000hf7r,2022-04-21T13:39:06.729Z,"51 km W of Masachapa, Nicaragua",earthquake,4.1,10,0.142,14,reviewed,us,us
 2022-04-21T08:15:12.250Z,52.338,-174.135,4.86,0.46,ml,6,88,,0.11,av,av91542441,2022-04-21T20:51:26.000Z,"16 km NNE of Atka, Alaska",earthquake,0.35,0.74,0.154902507851394,6,reviewed,av,av
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T21:40:04.004Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
+2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T21:50:48.977Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
 2022-04-21T07:38:44.715Z,38.5463,-119.4186,6.3,1.5,ml,14,78.05,0.045,0.1245,nn,nn00837590,2022-04-21T16:56:16.169Z,"6 km NE of Walker, California",earthquake,,2,0.09,5,reviewed,nn,nn
 2022-04-21T07:18:03.050Z,38.8193321,-122.7633362,2.22,0.85,md,9,175,0.01225,0.02,nc,nc73721180,2022-04-21T07:43:16.955Z,"4km W of Cobb, CA",earthquake,0.46,0.97,,1,automatic,nc,nc
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T22:23:56.640Z,47.553,-120.27966666666667,-1.18,1.05,ml,5,164,0.06272,0.1,uw,uw61833156,2022-04-21T18:10:32.690Z,"9 km NNE of Sunnyslope, Washington",explosion,0.64,31.61,0.17104515620531724,3,reviewed,uw,uw
 2022-04-20T22:16:00.370Z,33.5926667,-116.803,7.75,0.71,ml,29,77,0.03249,0.09,ci,ci40242672,2022-04-21T13:55:17.167Z,"13km WNW of Anza, CA",earthquake,0.14,0.29,0.112,13,reviewed,ci,ci
 2022-04-20T22:12:05.340Z,43.733666666666664,-118.1765,-0.32,1.82,ml,4,183,0.4335,0.11,uw,uw61833151,2022-04-21T18:18:39.780Z,"7 km W of Juntura, Oregon",earthquake,1.05,0.5,0.02595377248080588,2,reviewed,uw,uw
-2022-04-20T21:57:44.343Z,6.9894,126.9322,27,6,mww,,45,1.345,1.15,us,us6000hf49,2022-04-21T04:33:18.706Z,"50 km ESE of Manay, Philippines",earthquake,7,3,0.044,50,reviewed,us,us
