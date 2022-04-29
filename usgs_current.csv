@@ -190,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T16:34:19.400Z,33.879,-116.8736667,13.3,0.82,ml,17,136,0.07799,0.11,ci,ci37496685,2022-04-28T18:12:21.583Z,"5km S of Banning, CA",earthquake,0.26,0.7,0.062,3,reviewed,ci,ci
 2022-04-28T16:33:55.724Z,46.0813,152.8135,10,4.5,mb,,134,6.992,0.71,us,us7000h5ne,2022-04-28T22:06:37.040Z,"Kuril Islands",earthquake,10.3,1.9,0.056,92,reviewed,us,us
 2022-04-28T16:33:53.720Z,33.6575,-116.7161667,14.9,0.37,ml,14,92,0.03712,0.08,ci,ci40247784,2022-04-28T18:02:45.047Z,"9km S of Idyllwild, CA",earthquake,0.24,0.4,0.075,6,reviewed,ci,ci
+2022-04-28T16:30:03.490Z,43.4826667,-110.3485,5.45,1.56,ml,13,126,0.226,0.18,mb,mb80544354,2022-04-29T14:29:55.140Z,"27 km SE of Kelly, Wyoming",earthquake,1.24,8.34,0.191,9,reviewed,mb,mb
 2022-04-28T16:18:55.880Z,40.388,-124.2735,27.82,2.44,md,23,122,0.06647,0.1,nc,nc73725741,2022-04-29T06:30:10.318Z,"7km N of Petrolia, CA",earthquake,0.35,0.46,0.299,23,reviewed,nc,nc
 2022-04-28T16:18:44.140Z,-21.238,-67.4296,188.13,4.2,mb,,94,1.776,1.07,us,us7000h5n6,2022-04-28T17:10:08.040Z,"106 km SW of Uyuni, Bolivia",earthquake,6,8.9,0.118,21,reviewed,us,us
 2022-04-28T16:18:38.660Z,38.7898331,-122.7251663,2.2,0.87,md,8,93,0.01118,0.01,nc,nc73725736,2022-04-28T16:37:15.203Z,"3km ENE of The Geysers, CA",earthquake,0.41,1.42,0.16,4,automatic,nc,nc
