@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:46:20.280Z,35.7853333,-117.6243333,9.4,1.66,ml,32,47,0.03736,0.14,ci,ci40251032,2022-05-03T15:23:22.000Z,"19km NNE of Ridgecrest, CA",earthquake,0.17,0.36,0.192,21,reviewed,ci,ci
 2022-05-03T07:44:15.304Z,-20.8427,-178.4796,596.21,4.5,mb,,127,4.496,0.89,us,us7000h6ru,2022-05-03T08:16:14.040Z,"Fiji region",earthquake,9.4,7.5,0.077,49,reviewed,us,us
 2022-05-03T07:43:02.290Z,17.9965,-66.8365,16.2,2.07,md,3,330,,0.08,pr,pr71347213,2022-05-03T07:54:21.540Z,"1 km W of Indios, Puerto Rico",earthquake,4.29,0.96,0.084652560184463,3,reviewed,pr,pr
-2022-05-03T07:37:06.660Z,44.4658333,-115.2043333,6.95,1.77,ml,10,82,0.839,0.17,mb,mb80544789,2022-05-03T14:58:53.950Z,"34 km NW of Stanley, Idaho",earthquake,0.48,1.46,0.228,10,reviewed,mb,mb
-2022-05-03T07:31:56.320Z,35.8768333,-117.6776667,6.5,1.05,ml,20,87,0.0743,0.07,ci,ci40251024,2022-05-03T15:14:43.267Z,"22km ESE of Little Lake, CA",earthquake,0.11,0.29,0.177,8,reviewed,ci,ci
