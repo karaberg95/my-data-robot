@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-06T14:48:26.453Z,61.5406,-147.184,17.8,1.3,ml,,,,0.84,ak,ak0225smc53p,2022-05-06T14:51:26.169Z,"38 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-06T14:48:26.453Z,61.5406,-147.184,17.8,1.3,ml,,,,0.84,ak,ak0225smc53p,2022-05-06T14:52:36.586Z,"38 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-06T14:43:11.725Z,63.12,-149.9195,81,1.1,ml,,,,0.37,ak,ak0225smb1dl,2022-05-06T14:46:51.499Z,"57 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-06T14:20:13.210Z,34.1745,-120.054,0.71,2.45,ml,21,248,0.3293,0.19,ci,ci40253632,2022-05-06T14:24:12.612Z,"16km NW of Santa Cruz Is. (NW end), CA",earthquake,1.03,31.61,0.114,28,automatic,ci,ci
 2022-05-06T14:04:03.227Z,-21.8151,170.5284,110.64,5,mb,,38,2.964,0.93,us,us7000h7jg,2022-05-06T14:19:31.040Z,"275 km E of Tadine, New Caledonia",earthquake,7.8,6.8,0.068,68,reviewed,us,us
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T15:15:25.980Z,33.6758333,-116.7815,17.36,1.3,ml,45,31,0.06628,0.11,ci,ci40252920,2022-05-05T19:26:42.820Z,"9km SW of Idyllwild, CA",earthquake,0.17,0.28,0.176,40,reviewed,ci,ci
 2022-05-05T15:14:33.470Z,38.809166,-122.8276672,0.81,0.39,md,13,63,0.001217,0.04,nc,nc73729746,2022-05-05T17:53:11.079Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.47,0.25,2,automatic,nc,nc
 2022-05-05T15:09:00.716Z,55.879,-159.428,88.8,1.9,ml,,,,0.3,ak,ak0225qz5tav,2022-05-05T15:11:27.751Z,"4 km SE of Ivanof Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-05-05T14:54:31.864Z,6.5741,126.9605,64.61,4.6,mb,,118,1.457,0.88,us,us7000h7ay,2022-05-05T15:18:37.040Z,"76 km SE of Lukatan, Philippines",earthquake,4.1,8.1,0.061,80,reviewed,us,us
