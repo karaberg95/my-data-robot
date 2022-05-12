@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-12T20:50:44.448Z,31.6483,-104.4014,5,3.2,ml,,109,0.087,0.73,us,us6000hkp4,2022-05-12T21:05:23.040Z,"58 km S of Whites City, New Mexico",earthquake,2.7,2,0.064,72,reviewed,us,us
 2022-05-12T20:49:08.080Z,19.3484992980957,-155.446166992188,6.21000003814697,1.94000006,md,30,74,,0.219999999,hv,hv73010617,2022-05-12T20:53:06.770Z,"16 km NNE of Pāhala, Hawaii",earthquake,0.43,0.980000019,0.600000024,15,automatic,hv,hv
 2022-05-12T20:48:55.833Z,63.4825,-151.2155,4.4,2.2,ml,,,,0.7,ak,ak02262n4vyk,2022-05-12T20:51:31.136Z,"26 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T20:47:01.750Z,33.3395,-116.2751667,9.95,0.83,ml,27,86,0.03675,0.22,ci,ci40016687,2022-05-12T20:50:33.772Z,"13km NE of Borrego Springs, CA",earthquake,0.38,0.61,0.096,16,automatic,ci,ci
@@ -124,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T07:30:14.390Z,38.795166,-122.7939987,2.89,1.09,md,27,66,0.005149,0.03,nc,nc73732531,2022-05-12T07:37:09.945Z,"4km WNW of The Geysers, CA",earthquake,0.23,0.48,0.09,4,automatic,nc,nc
 2022-05-12T07:28:51.970Z,48.6595,-123.02166666666666,18.97,0.5,md,13,172,0.08409,0.22,uw,uw61830677,2022-05-12T16:10:27.650Z,"8 km NW of Orcas, Washington",earthquake,0.79,0.89,0.32159936471635453,8,reviewed,uw,uw
 2022-05-12T07:22:12.194Z,-0.0483,123.3861,129.9,5.1,mww,,13,1.162,1,us,us6000hki3,2022-05-12T14:20:11.040Z,"74 km SSE of Gorontalo, Indonesia",earthquake,5.6,4.5,0.057,30,reviewed,us,us
+2022-05-12T07:17:29.807Z,36.5645,-116.3028,3.2,-0.2,ml,8,165.79,0.086,0.0732,nn,nn00838796,2022-05-12T21:04:20.091Z,"48 km NW of Pahrump, Nevada",earthquake,,5.7,1.06,3,reviewed,nn,nn
 2022-05-12T07:09:45.614Z,60.9248,-152.8154,131.3,2.9,ml,,,,0.7,ak,ak02262f5vb0,2022-05-12T07:26:42.040Z,"87 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-12T06:56:09.568Z,36.7406,-116.2897,8.2,-0.1,ml,15,83.14,0.054,0.1063,nn,nn00838752,2022-05-12T17:39:43.045Z,"45 km ESE of Beatty, Nevada",earthquake,,1.1,0.72,8,reviewed,nn,nn
 2022-05-12T06:50:14.998Z,60.7664,-149.0625,12.7,1.6,ml,,,,0.53,ak,ak02262et5rv,2022-05-12T06:52:35.153Z,"20 km SSE of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -136,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T06:05:53.243Z,58.4119,-152.8201,38.4,2.3,ml,,,,0.52,ak,ak02262ejli5,2022-05-12T06:17:45.076Z,"39 km N of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-05-12T06:03:47.830Z,38.8289986,-122.8156662,2.05,0.85,md,14,62,0.007099,0.02,nc,nc73732521,2022-05-12T06:12:10.372Z,"8km NW of The Geysers, CA",earthquake,0.28,0.68,,1,automatic,nc,nc
 2022-05-12T06:02:57.550Z,38.8286667,-122.8134995,2,2.21,md,38,42,0.005905,0.05,nc,nc73732516,2022-05-12T09:56:10.827Z,"8km NW of The Geysers, CA",earthquake,0.16,0.28,0.14,11,automatic,nc,nc
+2022-05-12T05:44:05.559Z,37.0986,-116.1974,4.5,-0.2,ml,4,215.65,0.103,0.0794,nn,nn00838795,2022-05-12T20:55:03.014Z,"54 km ENE of Beatty, Nevada",earthquake,,9.9,0.06,2,reviewed,nn,nn
 2022-05-12T05:39:52.649Z,61.6092,-150.7306,63.3,1.2,ml,,,,0.37,ak,ak02262e5g75,2022-05-12T05:47:23.441Z,"13 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-12T05:36:51.445Z,63.4685,-151.2501,3.1,1.9,ml,,,,1.03,ak,ak02262e4svz,2022-05-12T05:39:38.111Z,"24 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-12T05:34:22.720Z,-14.7118,167.9419,10,4.8,mb,,122,1.021,0.8,us,us6000hkhp,2022-05-12T05:55:42.040Z,"100 km ENE of Port-Olry, Vanuatu",earthquake,7.7,1.9,0.068,66,reviewed,us,us
@@ -223,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T21:21:03.170Z,38.8421669,-122.8766632,2.73,1.17,md,16,89,0.006605,0.03,nc,nc73732301,2022-05-11T23:34:11.123Z,"13km NW of The Geysers, CA",earthquake,0.31,0.63,0.04,3,automatic,nc,nc
 2022-05-11T21:13:52.580Z,19.3818333333333,-154.9415,5.67,2.04,md,36,226,,0.2,hv,hv73009757,2022-05-11T21:26:07.750Z,"10 km SSW of Leilani Estates, Hawaii",earthquake,0.76,0.55,0.118994278719756,15,reviewed,hv,hv
 2022-05-11T21:11:48.690Z,17.9873333333333,-66.9746666666667,3.31,1.98,md,3,178,,0.04,pr,pr71348453,2022-05-11T21:42:52.080Z,"6 km W of Fuig, Puerto Rico",earthquake,1.64,4.95,0.083938419155402,3,reviewed,pr,pr
-2022-05-11T21:02:02.844Z,61.5858,-148.0623,8.3,1.5,ml,,,,1.12,ak,ak02260zx01i,2022-05-11T21:13:39.923Z,"31 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
