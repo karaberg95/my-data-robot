@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-14T09:54:53.010Z,38.8356667,-122.8116684,1.84,0.36,md,11,99,0.01232,0.02,nc,nc73733576,2022-05-14T09:56:25.806Z,"8km W of Cobb, CA",earthquake,0.38,0.9,,1,automatic,nc,nc
 2022-05-14T09:36:32.720Z,38.833168,-122.8153305,1.88,1.66,md,26,74,0.01059,0.02,nc,nc73733571,2022-05-14T09:45:10.107Z,"8km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,6,automatic,nc,nc
 2022-05-14T09:28:04.986Z,31.6119,-103.9626,5,3,ml,,72,0.254,0.31,us,us6000hl34,2022-05-14T09:44:47.040Z,"35 km WSW of Mentone, Texas",earthquake,1.4,1.9,0.049,78,reviewed,us,us
 2022-05-14T09:27:04.259Z,62.4904,-149.2794,18.4,1.2,ml,,,,0.38,ak,ak02265rj7a3,2022-05-14T09:36:39.574Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -216,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T10:02:40.000Z,37.7818333,-112.9668333,6.94,2.14,ml,17,132,0.2093,0.28,uu,uu60498012,2022-05-13T16:14:35.270Z,"3 km SW of Summit, Utah",earthquake,0.94,1.82,0.112,14,reviewed,uu,uu
 2022-05-13T10:00:23.770Z,38.8055,-122.8154984,3.62,1.6,md,33,60,0.0112,0.04,nc,nc73733041,2022-05-13T12:58:10.672Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.38,0.15,8,automatic,nc,nc
 2022-05-13T10:00:13.300Z,38.7799988,-122.7129974,2.07,1.03,md,9,103,0.01595,0.02,nc,nc73733036,2022-05-13T10:06:10.756Z,"2km WNW of Anderson Springs, CA",earthquake,0.51,0.99,0.18,2,automatic,nc,nc
-2022-05-13T09:58:33.680Z,35.6383333,-117.5746667,8.06,0.99,ml,14,123,0.1052,0.13,ci,ci40017423,2022-05-13T15:18:19.901Z,"9km ENE of Ridgecrest, CA",earthquake,0.3,1.4,0.097,11,reviewed,ci,ci
-2022-05-13T09:57:50.380Z,38.7973328,-122.7403336,0.87,1.34,md,23,100,0.01549,0.05,nc,nc73733031,2022-05-13T12:32:11.503Z,"3km NNE of The Geysers, CA",earthquake,0.26,0.5,0.11,6,automatic,nc,nc
-2022-05-13T09:51:03.000Z,19.1338329315186,-155.388336181641,30.1900005340576,1.90999997,md,38,182,,0.129999995,hv,hv73011082,2022-05-13T09:54:16.060Z,"12 km SE of Pāhala, Hawaii",earthquake,0.71,0.920000017,1.84000003,6,automatic,hv,hv
