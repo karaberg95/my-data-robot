@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-15T10:46:04.361Z,61.7683,-150.7466,61.2,1.2,ml,,,,0.86,ak,ak02267fs1zy,2022-05-15T10:51:42.518Z,"27 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-05-15T11:03:19.175Z,61.5263,-146.367,26,1.9,ml,,,,0.64,ak,ak02267g4ay5,2022-05-15T11:04:51.004Z,"44 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-15T10:57:08.860Z,33.231,-116.7316667,11.21,0.47,ml,19,92,0.02324,0.19,ci,ci40019351,2022-05-15T11:00:50.419Z,"3km ESE of Lake Henshaw, CA",earthquake,0.38,0.58,0.202,10,automatic,ci,ci
+2022-05-15T10:46:04.361Z,61.7683,-150.7466,61.2,1.2,ml,,,,0.86,ak,ak02267fs1zy,2022-05-15T11:04:39.055Z,"27 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-05-15T10:39:56.306Z,60.7317,-152.1008,74.9,1.1,ml,,,,0.59,ak,ak02267fqnzi,2022-05-15T10:52:08.795Z,"44 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-15T10:22:45.720Z,19.208833694458,-155.400329589844,33.4700012207031,1.84000003,md,40,155,,0.109999999,hv,hv73012977,2022-05-15T10:26:10.460Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.07000005,1.83000004,10,automatic,hv,hv
 2022-05-15T10:12:07.530Z,19.2416667938232,-155.47233581543,33.2700004577637,2.26999998,md,37,134,,0.230000004,hv,hv73012972,2022-05-15T10:15:22.150Z,"4 km N of Pāhala, Hawaii",earthquake,0.84,1.33000004,0.00999999978,5,automatic,hv,hv
 2022-05-15T10:09:59.860Z,34.0331667,-117.2388333,15.42,1.33,ml,54,46,0.08798,0.17,ci,ci40019343,2022-05-15T10:21:12.690Z,"3km SE of Loma Linda, CA",earthquake,0.2,0.36,0.147,27,automatic,ci,ci
 2022-05-15T10:09:30.200Z,39.4116669,-122.8833313,4.94,1.64,md,10,129,0.1934,0.07,nc,nc73733951,2022-05-15T10:18:10.965Z,"6km E of Lake Pillsbury, CA",earthquake,0.45,2.22,0.13,4,automatic,nc,nc
-2022-05-15T09:54:45.940Z,36.4339981,-120.9720001,11.24,1.35,md,10,84,,0.14,nc,nc73733946,2022-05-15T10:05:10.882Z,"19km SE of Pinnacles, CA",earthquake,0.65,1.32,0.11,6,automatic,nc,nc
+2022-05-15T09:54:45.940Z,36.4339981,-120.9720001,11.24,1.35,md,10,84,,0.14,nc,nc73733946,2022-05-15T11:00:10.199Z,"19km SE of Pinnacles, CA",earthquake,0.65,1.32,0.11,6,automatic,nc,nc
 2022-05-15T09:32:18.711Z,63.2536,-149.4789,3.7,1.6,ml,,,,0.79,ak,ak02267f3ngq,2022-05-15T09:39:58.831Z,"30 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-15T09:22:44.420Z,-28.6884,-176.5663,10,4.9,mb,,70,1.316,0.45,us,us6000hla3,2022-05-15T09:52:38.040Z,"Kermadec Islands region",earthquake,11.1,1.9,0.046,147,reviewed,us,us
 2022-05-15T08:41:57.000Z,33.4288333,-116.5975,7.16,0.63,ml,28,66,0.06581,0.17,ci,ci40019335,2022-05-15T08:45:43.253Z,"16km SSE of Anza, CA",earthquake,0.31,0.55,0.111,18,automatic,ci,ci
