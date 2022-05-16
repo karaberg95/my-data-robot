@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-16T10:46:23.871Z,64.6007,-147.0109,12.2,0.6,ml,,,,0.43,ak,ak022693bfzn,2022-05-16T10:54:52.296Z,"7 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-16T11:03:20.644Z,59.9023,-151.6172,65.1,2.2,ml,,,,0.57,ak,ak022693nnid,2022-05-16T11:08:27.638Z,"8 km SE of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-16T10:58:17.040Z,62.2335,-148.8212,33.3,1,ml,,,,0.52,ak,ak022693e023,2022-05-16T11:08:26.812Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-16T10:46:23.871Z,64.6007,-147.0109,12.2,0.6,ml,,,,0.43,ak,ak022693bfzn,2022-05-16T11:02:01.451Z,"7 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-16T10:45:10.640Z,38.833168,-122.8176651,1.63,0.36,md,8,91,0.01142,0.02,nc,nc73734501,2022-05-16T10:53:11.540Z,"8km NW of The Geysers, CA",earthquake,0.37,1.14,,1,automatic,nc,nc
 2022-05-16T10:41:52.700Z,33.6668333,-116.7286667,14.25,0.92,ml,37,45,0.04584,0.14,ci,ci40020079,2022-05-16T10:52:35.020Z,"8km S of Idyllwild, CA",earthquake,0.2,0.33,0.201,27,automatic,ci,ci
 2022-05-16T10:31:07.280Z,36.0018333,-117.9273333,1.82,2.01,ml,27,68,0.03052,0.14,ci,ci40020071,2022-05-16T10:42:00.430Z,"5km SSE of Coso Junction, CA",earthquake,0.24,0.34,0.234,26,automatic,ci,ci
@@ -190,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T11:37:29.268Z,32.26593018,-101.9370474,7.067423503,2.3,ml,18,62,0.04358050164,0.1,tx,tx2022jlsk,2022-05-15T14:20:33.070Z,"20 km NW of Stanton, Texas",earthquake,1.149376795,1.336255805,0.2,14,reviewed,tx,tx
 2022-05-15T11:12:38.420Z,34.5188333,-118.8181667,-0.21,1.14,ml,18,208,0.1233,0.2,ci,ci40019359,2022-05-15T11:16:12.551Z,"12km N of Piru, CA",earthquake,0.71,31.61,0.207,28,automatic,ci,ci
 2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-16T05:20:03.024Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
-2022-05-15T11:03:19.364Z,61.5237,-146.3997,16.5,2,ml,,,,0.87,ak,ak02267g4ay5,2022-05-15T11:11:04.913Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-15T10:57:08.860Z,33.231,-116.7316667,11.21,0.47,ml,19,92,0.02324,0.19,ci,ci40019351,2022-05-15T11:00:50.419Z,"3km ESE of Lake Henshaw, CA",earthquake,0.38,0.58,0.202,10,automatic,ci,ci
