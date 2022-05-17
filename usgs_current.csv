@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-17T23:36:48.631Z,38.1246,-118.1086,4.1,2.4,ml,17,51.86,0.118,0.3287,nn,nn00839060,2022-05-17T23:42:15.372Z,"29 km S of Mina, Nevada",earthquake,,0.7,0.33,9,automatic,nn,nn
+2022-05-17T23:32:46.450Z,17.9341666666667,-66.9336666666667,12.01,1.64,md,3,238,,0.02,pr,pr71349198,2022-05-17T23:47:57.580Z,"4 km SSW of Guánica, Puerto Rico",earthquake,2.69,0.87,0.121089084322864,3,reviewed,pr,pr
 2022-05-17T23:17:22.733Z,61.7252,-150.4482,52.1,1.2,ml,,,,0.71,ak,ak0226ayf7dh,2022-05-17T23:21:19.435Z,"20 km N of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T23:13:35.020Z,35.0431667,-117.6596667,0.28,1.4,ml,15,75,0.1126,0.27,ci,ci40021519,2022-05-17T23:17:16.594Z,"5km N of Boron, CA",quarry blast,0.9,31.61,0.136,28,automatic,ci,ci
 2022-05-17T22:48:37.900Z,38.8424988,-122.8259964,1.7,0.86,md,10,130,0.008377,0.02,nc,nc73735146,2022-05-17T22:57:11.268Z,"9km WNW of Cobb, CA",earthquake,0.34,1.07,,1,automatic,nc,nc
