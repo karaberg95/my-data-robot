@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T22:11:37.083Z,63.2032,-150.468,112.4,1.1,ml,,,,0.29,ak,ak0226e8v7os,2022-05-19T22:34:14.671Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-19T22:10:48.208Z,62.6713,-149.9126,18,1,ml,,,,0.47,ak,ak0226e8v0tw,2022-05-19T22:23:39.888Z,"26 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T22:01:57.488Z,61.5965,-149.8182,51.7,1.7,ml,,,,0.34,ak,ak0226e8t43s,2022-05-19T22:14:21.055Z,"3 km S of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-19T21:53:54.140Z,38.8226662,-122.805336,3.18,0.96,md,19,52,0.003772,0.02,nc,nc73735811,2022-05-19T22:05:11.789Z,"7km NW of The Geysers, CA",earthquake,0.25,0.6,0.21,3,automatic,nc,nc
