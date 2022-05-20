@@ -16,7 +16,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T11:47:35.260Z,17.989,-66.87,12.09,2.25,md,6,196,,0.16,pr,pr71349563,2022-05-20T12:11:20.780Z,"2 km ENE of Maria Antonia, Puerto Rico",earthquake,0.91,0.87,0.0418316408675907,5,reviewed,pr,pr
 2022-05-20T11:46:13.400Z,38.8269997,-122.8048325,1.51,1.19,md,22,43,0.005451,0.03,nc,nc73735961,2022-05-20T13:06:10.241Z,"7km NW of The Geysers, CA",earthquake,0.19,0.45,0.26,2,automatic,nc,nc
 2022-05-20T11:38:16.700Z,36.1058333,-117.8836667,3.46,1.77,ml,18,63,0.02611,0.11,ci,ci40023063,2022-05-20T11:41:52.409Z,"9km NE of Coso Junction, CA",earthquake,0.18,0.37,0.219,27,automatic,ci,ci
-2022-05-20T11:38:06.140Z,36.3788333,-117.6518333,20.37,1.14,ml,9,314,0.1864,0.39,ci,ci40023055,2022-05-20T11:41:43.025Z,"33km ENE of Olancha, CA",earthquake,3.13,3.93,0.135,3,automatic,ci,ci
 2022-05-20T11:32:41.840Z,33.8416667,-116.7471667,9.36,0.43,ml,14,244,0.04256,0.18,ci,ci40023047,2022-05-20T11:36:19.265Z,"9km SSE of Cabazon, CA",earthquake,1.11,0.77,0.133,8,automatic,ci,ci
 2022-05-20T11:29:34.680Z,33.6056667,-116.6941667,2.46,0.45,ml,14,71,0.05394,0.26,ci,ci40023039,2022-05-20T11:33:14.610Z,"6km NNW of Anza, CA",earthquake,0.46,0.67,0.121,6,automatic,ci,ci
 2022-05-20T11:12:50.640Z,38.7898331,-122.7610016,0.59,1.67,md,25,76,0.01082,0.04,nc,nc73735951,2022-05-20T12:26:10.974Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.36,0.07,8,automatic,nc,nc
@@ -203,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T15:10:06.840Z,33.539,-116.6441667,12.17,0.55,ml,22,63,0.02911,0.11,ci,ci40022463,2022-05-19T18:13:00.061Z,"3km ESE of Anza, CA",earthquake,0.22,0.35,0.071,11,reviewed,ci,ci
 2022-05-19T15:06:45.380Z,38.8236656,-122.8068314,1.47,1.05,md,17,49,0.002547,0.02,nc,nc73735681,2022-05-19T15:41:10.607Z,"7km NW of The Geysers, CA",earthquake,0.23,0.49,0.15,2,automatic,nc,nc
 2022-05-19T14:56:55.870Z,32.9096667,-115.527,9.65,1.43,ml,20,92,0.02951,0.15,ci,ci40022455,2022-05-19T18:09:09.561Z,"8km S of Brawley, CA",earthquake,0.33,0.48,0.307,13,reviewed,ci,ci
-2022-05-19T14:34:50.630Z,33.5945,-118.2293333,1.04,1.88,ml,24,106,0.1295,0.24,ci,ci40022439,2022-05-19T18:05:30.603Z,"17km SSE of San Pedro, CA",earthquake,0.57,1.26,0.126,20,reviewed,ci,ci
-2022-05-19T14:29:16.929Z,36.3355,-116.8688,4.2,-0.3,ml,5,167.52,0.22,0.0451,nn,nn00839189,2022-05-20T02:39:03.005Z,"12 km S of Furnace Creek, California",earthquake,,13,0.63,2,reviewed,nn,nn
