@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T19:33:18.020Z,38.8378334,-122.7990036,2,0.85,md,6,122,0.006787,0.01,nc,nc73737856,2022-05-25T19:42:10.628Z,"7km WNW of Cobb, CA",earthquake,0.52,1.67,,1,automatic,nc,nc
 2022-05-25T19:27:26.380Z,19.4645004272461,-155.481338500977,4.25,2.05,ml,40,68,,0.180000007,hv,hv73023067,2022-05-25T19:32:56.920Z,"26 km W of Volcano, Hawaii",earthquake,0.38,1.19000006,3.49,14,automatic,hv,hv
 2022-05-25T19:10:10.162Z,38.5978,-118.1769,0,0.9,ml,8,137.24,0.176,0.2517,nn,nn00839598,2022-05-25T19:13:44.392Z,"23 km NNW of Mina, Nevada",earthquake,,9.3,0.31,5,automatic,nn,nn
 2022-05-25T18:58:38.675Z,11.5716,-86.9089,41.98,5,mb,,132,0.864,0.7,us,us7000hchh,2022-05-25T19:31:34.764Z,"49 km WSW of Masachapa, Nicaragua",earthquake,3.8,6.2,0.025,521,reviewed,us,us
 2022-05-25T18:51:29.510Z,33.6728333,-116.7656667,11.4,0.94,ml,36,48,0.05749,0.17,ci,ci40026551,2022-05-25T18:55:05.447Z,"9km SSW of Idyllwild, CA",earthquake,0.3,0.45,0.133,24,automatic,ci,ci
 2022-05-25T18:48:49.503Z,9.2622,-83.9349,6.31,4.3,mb,,149,0.481,0.78,us,us7000hchg,2022-05-25T19:13:22.040Z,"28 km WSW of San Isidro, Costa Rica",earthquake,2.5,6.9,0.306,3,reviewed,us,us
-2022-05-25T18:48:22.266Z,40.1119,-119.484,0,2,ml,13,188.59,0.408,0.2499,nn,nn00839594,2022-05-25T18:51:51.033Z,"20 km NNE of Sutcliffe, Nevada",earthquake,,5.6,0.31,11,automatic,nn,nn
+2022-05-25T18:48:23.658Z,40.0952,-119.4782,11.6,2,ml,12,147.05,0.208,0.1799,nn,nn00839594,2022-05-25T19:36:45.703Z,"19 km NNE of Sutcliffe, Nevada",earthquake,,2,0.12,9,reviewed,nn,nn
 2022-05-25T18:44:55.576Z,40.0958,-119.4653,6,2.2,ml,16,148.1,0.217,0.1334,nn,nn00839590,2022-05-25T19:30:26.812Z,"19 km NE of Sutcliffe, Nevada",earthquake,,2.5,0.21,9,reviewed,nn,nn
 2022-05-25T18:43:10.991Z,40.0958,-119.4697,11.2,1.4,ml,10,147.79,0.214,0.1627,nn,nn00839588,2022-05-25T19:11:43.380Z,"19 km NE of Sutcliffe, Nevada",earthquake,,2.4,0.16,8,reviewed,nn,nn
 2022-05-25T18:40:52.960Z,19.3348333333333,-155.181833333333,6.39,1.88,md,22,84,,0.06,hv,hv73023032,2022-05-25T19:29:51.000Z,"13 km SSE of Volcano, Hawaii",earthquake,0.36,0.68,0.0904796769228351,8,reviewed,hv,hv
