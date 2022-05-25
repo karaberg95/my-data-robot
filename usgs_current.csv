@@ -1,15 +1,18 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T19:10:10.162Z,38.5978,-118.1769,0,0.9,ml,8,137.24,0.176,0.2517,nn,nn00839598,2022-05-25T19:13:44.392Z,"23 km NNW of Mina, Nevada",earthquake,,9.3,0.31,5,automatic,nn,nn
+2022-05-25T18:58:38.664Z,11.5594,-86.9199,42.48,5,mb,,156,0.88,0.72,us,us7000hchh,2022-05-25T19:21:24.890Z,"50 km WSW of Masachapa, Nicaragua",earthquake,2.4,8.5,0.025,516,reviewed,us,us
 2022-05-25T18:51:29.510Z,33.6728333,-116.7656667,11.4,0.94,ml,36,48,0.05749,0.17,ci,ci40026551,2022-05-25T18:55:05.447Z,"9km SSW of Idyllwild, CA",earthquake,0.3,0.45,0.133,24,automatic,ci,ci
+2022-05-25T18:48:49.503Z,9.2622,-83.9349,6.31,4.3,mb,,149,0.481,0.78,us,us7000hchg,2022-05-25T19:13:22.040Z,"28 km WSW of San Isidro, Costa Rica",earthquake,2.5,6.9,0.306,3,reviewed,us,us
 2022-05-25T18:48:22.266Z,40.1119,-119.484,0,2,ml,13,188.59,0.408,0.2499,nn,nn00839594,2022-05-25T18:51:51.033Z,"20 km NNE of Sutcliffe, Nevada",earthquake,,5.6,0.31,11,automatic,nn,nn
 2022-05-25T18:44:55.035Z,40.1048,-119.4865,7,2.3,ml,17,149.31,0.199,0.3053,nn,nn00839590,2022-05-25T18:48:25.061Z,"19 km NNE of Sutcliffe, Nevada",earthquake,,0.7,0.25,14,automatic,nn,nn
-2022-05-25T18:43:10.920Z,40.0984,-119.4653,11.3,1.4,ml,8,148.81,0.216,0.1226,nn,nn00839588,2022-05-25T19:08:30.326Z,"20 km NE of Sutcliffe, Nevada",earthquake,,2.5,0.19,7,reviewed,nn,nn
+2022-05-25T18:43:10.991Z,40.0958,-119.4697,11.2,1.4,ml,10,147.79,0.214,0.1627,nn,nn00839588,2022-05-25T19:11:43.380Z,"19 km NE of Sutcliffe, Nevada",earthquake,,2.4,0.16,8,reviewed,nn,nn
 2022-05-25T18:40:34.835Z,62.1177,-148.3573,29.7,1.4,ml,,,,0.47,ak,ak0226o3vru1,2022-05-25T19:07:23.323Z,"36 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-25T18:27:05.580Z,19.193000793457,-155.386505126953,30.8600006103516,2.19,ml,39,163,,0.119999997,hv,hv73023022,2022-05-25T18:32:36.820Z,"9 km E of Pāhala, Hawaii",earthquake,0.65,0.889999986,5.33,3,automatic,hv,hv
 2022-05-25T18:22:28.690Z,35.7495,-117.553,8.53,1.37,ml,17,166,0.07536,0.18,ci,ci40026535,2022-05-25T18:33:20.610Z,"14km W of Searles Valley, CA",earthquake,0.56,0.98,0.188,17,automatic,ci,ci
 2022-05-25T18:05:22.831Z,62.1755,-148.0294,20.1,1.2,ml,,,,0.4,ak,ak0226o3o8u3,2022-05-25T18:06:53.242Z,"45 km NNW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-25T18:03:37.850Z,38.8296661,-122.7923355,1.75,0.98,md,20,44,0.008868,0.02,nc,nc73737826,2022-05-25T18:49:13.323Z,"6km W of Cobb, CA",earthquake,0.22,0.38,0.19,3,automatic,nc,nc
 2022-05-25T17:51:08.344Z,59.2704,-152.9825,94.6,1.8,ml,,,,0.56,ak,ak0226o3cmzb,2022-05-25T18:03:52.528Z,"61 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-25T17:29:55.450Z,34.38,-118.7211667,11.84,2.55,ml,65,51,0.06588,0.23,ci,ci40026471,2022-05-25T18:11:28.701Z,"8km ESE of Piru, CA",earthquake,0.29,0.73,0.183,26,automatic,ci,ci
+2022-05-25T17:29:55.450Z,34.38,-118.7211667,11.84,2.55,ml,65,51,0.06588,0.23,ci,ci40026471,2022-05-25T19:13:34.291Z,"8km ESE of Piru, CA",earthquake,0.29,0.73,0.183,26,automatic,ci,ci
 2022-05-25T17:21:40.470Z,33.5256667,-116.7421667,4.11,0.64,ml,23,68,0.03984,0.15,ci,ci40026463,2022-05-25T17:25:26.899Z,"7km WSW of Anza, CA",earthquake,0.21,0.45,0.17,18,automatic,ci,ci
 2022-05-25T17:16:51.020Z,37.6225014,-118.8065033,9.12,1.49,md,18,106,0.02468,0.01,nc,nc73737816,2022-05-25T18:17:17.266Z,"13km WNW of Toms Place, CA",earthquake,0.61,0.48,0.14,18,automatic,nc,nc
 2022-05-25T17:06:35.345Z,59.6848,-151.7355,31.9,1.5,ml,,,,0.38,ak,ak0226o331wu,2022-05-25T17:23:55.250Z,"10 km W of Diamond Ridge, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -182,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T02:47:06.670Z,33.6856667,-116.6853333,17.27,0.52,ml,26,83,0.01929,0.11,ci,ci40025815,2022-05-25T14:22:27.018Z,"7km SSE of Idyllwild, CA",earthquake,0.19,0.28,0.117,9,reviewed,ci,ci
 2022-05-25T02:39:42.020Z,34.3935,-119.5836667,11.88,1.08,ml,19,120,0.03679,0.21,ci,ci40025807,2022-05-25T14:15:30.609Z,"6km W of Carpinteria, CA",earthquake,0.5,0.83,0.118,4,reviewed,ci,ci
 2022-05-25T02:29:48.620Z,46.8705,-121.93866666666666,12.01,1.36,ml,33,52,0.01061,0.15,uw,uw61835142,2022-05-25T16:45:01.750Z,"14 km NNE of Ashford, Washington",earthquake,0.27,0.37,0.21090036811667412,15,reviewed,uw,uw
-2022-05-25T02:14:42.530Z,36.6073333,-121.2163333,8.9,1.93,md,44,66,0.04341,0.07,nc,nc73737636,2022-05-25T18:31:10.224Z,"11km NW of Pinnacles, CA",earthquake,0.19,0.32,0.236,50,reviewed,nc,nc
+2022-05-25T02:14:42.530Z,36.6073333,-121.2163333,8.9,1.93,md,44,66,0.04341,0.07,nc,nc73737636,2022-05-25T19:10:13.446Z,"11km NW of Pinnacles, CA",earthquake,0.19,0.32,0.236,50,reviewed,nc,nc
 2022-05-25T02:11:21.580Z,44.347,-110.7778333,2.79,1.21,md,13,85,0.07836,0.11,uu,uu60499517,2022-05-25T13:38:12.630Z,"43 km SE of West Yellowstone, Montana",earthquake,0.28,0.97,0.099,8,reviewed,uu,uu
 2022-05-25T02:11:18.649Z,64.4969,-149.2505,0.8,1.8,ml,,,,0.78,ak,ak0226nu6l4d,2022-05-25T02:14:01.393Z,"10 km SW of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-25T02:10:24.400Z,44.3548333,-110.7685,3.83,1.25,md,8,92,0.08771,0.09,uu,uu60499522,2022-05-25T15:38:06.390Z,"43 km SE of West Yellowstone, Montana",earthquake,0.34,0.68,0.386,5,reviewed,uu,uu
@@ -266,7 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T19:49:16.400Z,18.0205,-66.7488333333333,15.21,2.36,md,26,129,,0.19,pr,pr71350508,2022-05-24T20:09:06.570Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.33,0.5,0.146523510015233,9,reviewed,pr,pr
 2022-05-24T19:42:56.130Z,38.838,-122.8008333,2.22,0.3,md,12,67,0.008202,0.03,nc,nc73737531,2022-05-25T05:55:13.736Z,"7km WNW of Cobb, CA",earthquake,0.41,0.45,0.288,2,reviewed,nc,nc
 2022-05-24T19:25:44.890Z,53.9485,-166.745,6.61,-0.1,ml,6,150,,0.14,av,av91060003,2022-05-25T04:24:21.310Z,"14 km WNW of Dutch Harbor, Alaska",earthquake,0.45,0.8,0.171378280328674,6,reviewed,av,av
-2022-05-24T19:24:14.300Z,53.8515,-166.641666666667,8.02,-0.24,ml,6,154,,0.08,av,av91059998,2022-05-25T04:21:34.300Z,"7 km WSW of Unalaska, Alaska",earthquake,0.34,0.79,0.256427994336768,5,reviewed,av,av
-2022-05-24T19:22:33.410Z,19.4115,-155.243,4.55,2.1,md,15,130,,0.13,hv,hv73022062,2022-05-25T01:07:59.210Z,"3 km SSW of Volcano, Hawaii",earthquake,0.38,0.69,0.0208983584333939,4,reviewed,hv,hv
-2022-05-24T19:13:37.700Z,59.358,-153.428166666667,-0.95,0.3,ml,6,100,,0.07,av,av91572061,2022-05-25T03:46:44.620Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.14,0.28,0.430119256632786,6,reviewed,av,av
-2022-05-24T19:11:08.380Z,41.5148333,-112.1686667,7.72,1.37,ml,13,75,0.09691,0.11,uu,uu60499457,2022-05-24T20:40:51.220Z,"6 km SW of Corinne, Utah",earthquake,0.36,1.05,0.205,2,reviewed,uu,uu
