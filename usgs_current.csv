@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T17:43:37.210Z,19.2043342590332,-155.497161865234,32.4700012207031,2.28999996,md,38,69,,0.180000007,hv,hv73026002,2022-05-28T17:46:41.740Z,"1 km W of Pāhala, Hawaii",earthquake,0.72,1.04999995,1.57000005,23,automatic,hv,hv
+2022-05-28T17:37:01.311Z,63.1417,-150.6132,122.1,1.5,ml,,,,0.36,ak,ak0226t1vo0c,2022-05-28T17:39:42.146Z,"71 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-28T17:21:57.580Z,33.7245,-116.7758333,15.2,0.69,ml,15,148,0.05309,0.1,ci,ci40029399,2022-05-28T17:25:35.136Z,"6km WSW of Idyllwild, CA",earthquake,0.33,0.44,0.168,14,automatic,ci,ci
 2022-05-28T16:44:55.650Z,33.6813333,-116.7156667,15.05,0.76,ml,26,84,0.02978,0.21,ci,ci40029383,2022-05-28T16:48:37.293Z,"6km S of Idyllwild, CA",earthquake,0.39,0.55,0.094,17,automatic,ci,ci
 2022-05-28T16:32:12.620Z,19.191499710083,-155.473327636719,30.5100002288818,2.53,ml,48,90,,0.150000006,hv,hv73025957,2022-05-28T16:37:43.540Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.47,0.689999998,3.34,25,automatic,hv,hv
