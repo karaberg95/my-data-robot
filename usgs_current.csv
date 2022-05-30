@@ -163,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T18:15:57.576Z,61.5668,-147.8458,18.9,0.7,ml,,,,0.77,ak,ak0226upvunh,2022-05-29T18:36:07.550Z,"28 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-29T18:12:40.230Z,19.1935005187988,-155.403167724609,31.9599990844727,2.25999999,md,33,168,,0.100000001,hv,hv73027027,2022-05-29T18:15:51.070Z,"8 km E of Pāhala, Hawaii",earthquake,0.54,0.879999995,2.11999989,6,automatic,hv,hv
 2022-05-29T18:00:19.550Z,19.113166809082,-155.398498535156,33.0200004577637,1.84000003,md,39,188,,0.109999999,hv,hv73027017,2022-05-29T18:03:30.230Z,"13 km SE of Pāhala, Hawaii",earthquake,0.66,1.01999998,0.910000026,3,automatic,hv,hv
-2022-05-29T17:56:54.840Z,38.6195,-119.8153333,2.69,1.84,md,22,48,0.03771,0.12,nc,nc73739221,2022-05-30T02:08:15.175Z,"8km SSW of Markleeville, CA",earthquake,0.29,0.77,0.354,18,reviewed,nc,nc
-2022-05-29T17:53:07.133Z,63.0669,-151.3568,0,1.2,ml,,,,0.97,ak,ak0226upigcj,2022-05-29T18:05:30.335Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
