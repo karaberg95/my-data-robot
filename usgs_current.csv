@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-04T17:43:49.940Z,35.7808342,-117.6035004,8.19,1.01,ml,17,135,0.03517,0.16,ci,ci40033895,2022-06-04T17:46:01.071Z,"18km W of Searles Valley, CA",earthquake,0.52,0.93,0.087,6,automatic,ci,ci
+2022-06-04T17:43:49.990Z,35.7823333,-117.5996667,7.49,0.94,ml,13,140,0.03338,0.15,ci,ci40033895,2022-06-04T17:47:20.964Z,"18km W of Searles Valley, CA",earthquake,0.39,0.62,0.075,8,automatic,ci,ci
 2022-06-04T17:41:32.030Z,33.0378333,-116.427,10.08,0.99,ml,20,83,0.133,0.19,ci,ci40033887,2022-06-04T17:45:04.956Z,"17km ESE of Julian, CA",earthquake,0.37,0.96,0.118,19,automatic,ci,ci
 2022-06-04T17:40:44.558Z,34.8313446,-95.25723267,11.46003914,3.25,ml,39,201.4392653,0.159073323,1.323211288,ok,ok2022kwsl,2022-06-04T17:44:17.744Z,"10 km SSE of Wilburton, Oklahoma",earthquake,5.692347209,2.822201984,,29,automatic,ok,ok
 2022-06-04T17:31:45.720Z,19.1871662139893,-155.489501953125,33.2400016784668,2.3,ml,48,70,,0.109999999,hv,hv73033677,2022-06-04T17:37:16.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.639999986,4.13,18,automatic,hv,hv
@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T18:11:22.420Z,34.7335,-116.9518333,2.35,1.75,ml,44,40,0.1463,0.14,ci,ci40033343,2022-06-03T21:34:30.480Z,"20km SSE of Barstow, CA",earthquake,0.12,0.48,0.092,19,reviewed,ci,ci
 2022-06-03T18:07:21.350Z,36.8891667,-121.6138333,1.57,1.44,md,19,72,0.01815,0.05,nc,nc73740351,2022-06-03T20:11:04.385Z,"3km E of Aromas, CA",quarry blast,0.17,0.36,0.186,15,reviewed,nc,nc
 2022-06-03T18:01:07.650Z,33.061,-115.0056667,-0.16,1,ml,10,68,0.09152,0.19,ci,ci40033335,2022-06-03T19:07:34.110Z,"45km NE of Holtville, CA",quarry blast,0.59,31.61,0.078,4,reviewed,ci,ci
-2022-06-03T17:53:31.259Z,59.8825,-151.6049,44.4,1.1,ml,,,,0.34,ak,ak02272z78hn,2022-06-03T17:58:06.680Z,"7 km N of Nikolaevsk, Alaska",earthquake,,4.9,,,automatic,ak,ak
-2022-06-03T17:48:48.820Z,35.6333333,-117.5613333,6.89,1.35,ml,24,83,0.08338,0.11,ci,ci40033319,2022-06-03T21:21:18.358Z,"10km E of Ridgecrest, CA",earthquake,0.17,0.42,0.157,11,reviewed,ci,ci
