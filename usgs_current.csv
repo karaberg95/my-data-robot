@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T07:26:16.962Z,63.8192,-149.105,3.6,1.2,ml,,,,0.72,ak,ak02274gmfoj,2022-06-04T07:44:39.719Z,"8 km WSW of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-04T07:21:20.100Z,34.0355,-116.98,24.64,0.98,ml,14,181,0.143,0.27,ci,ci40033703,2022-06-04T07:25:03.610Z,"6km E of Yucaipa, CA",earthquake,1.4,2.3,0.159,24,automatic,ci,ci
 2022-06-04T07:20:27.740Z,19.4853324890137,-155.936660766602,7.8600001335144,2.2,ml,37,229,,0.209999993,hv,hv73033242,2022-06-04T07:32:36.040Z,"2 km SW of Captain Cook, Hawaii",earthquake,0.94,0.560000002,3.63,6,automatic,hv,hv
+2022-06-04T07:13:19.250Z,18.8516666666667,-65.176,50.64,3.22,md,10,296,,0.22,pr,pr71352263,2022-06-04T09:30:15.920Z,"62 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.25,4.15,0.111028808523545,4,reviewed,pr,pr
 2022-06-04T07:10:40.640Z,18.9651,-65.1925,19,3.85,md,23,279,0.6637,0.32,pr,pr2022155002,2022-06-04T08:24:38.162Z,"74 km N of Culebra, Puerto Rico",earthquake,5,9.94,0.11,15,reviewed,pr,pr
 2022-06-04T07:07:46.090Z,36.5703333,-121.1581667,9.12,2.11,md,59,95,0.02197,0.1,nc,nc73740446,2022-06-04T09:01:16.717Z,"4km NNW of Pinnacles, CA",earthquake,0.13,0.21,0.181,67,reviewed,nc,nc
 2022-06-04T07:06:41.440Z,19.224666595459,-155.375839233398,33.9599990844727,2.2,ml,41,154,,0.159999996,hv,hv73033237,2022-06-04T07:12:11.380Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.65,0.870000005,4.07,5,automatic,hv,hv
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T10:18:38.020Z,34.2966667,-116.8806667,6.05,1.16,ml,40,54,0.04772,0.12,ci,ci40032975,2022-06-03T19:22:30.590Z,"5km NW of Big Bear City, CA",earthquake,0.16,0.32,0.162,25,reviewed,ci,ci
 2022-06-03T09:56:40.700Z,37.416,-119.6656667,22.87,1.82,md,21,76,0.0623,0.12,nc,nc73740216,2022-06-04T09:21:17.829Z,"8km NE of Ahwahnee, CA",earthquake,0.33,0.34,0.244,18,reviewed,nc,nc
 2022-06-03T09:46:10.570Z,19.181999206543,-155.484832763672,33.3899993896484,1.84000003,md,36,73,,0.150000006,hv,hv73032267,2022-06-03T09:49:24.340Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.58,0.779999971,1.13999999,6,automatic,hv,hv
-2022-06-03T09:36:47.280Z,45.6735,-112.142,6.19,0.25,ml,5,190,0.231,0.1,mb,mb80547819,2022-06-03T21:23:18.640Z,"western Montana",earthquake,1.05,7.58,0.152,2,reviewed,mb,mb
