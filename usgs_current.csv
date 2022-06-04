@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T13:07:25.783Z,-17.9674,-174.9411,236.76,5.6,mb,,57,4.751,0.73,us,us7000hexp,2022-06-04T13:31:35.492Z,"126 km NW of Neiafu, Tonga",earthquake,8.5,6,0.022,758,reviewed,us,us
 2022-06-04T12:55:43.630Z,33.2351667,-116.6368333,12.01,0.64,ml,18,88,0.03697,0.16,ci,ci40033783,2022-06-04T12:59:29.851Z,"5km S of Warner Springs, CA",earthquake,0.34,0.59,0.162,14,automatic,ci,ci
 2022-06-04T12:32:13.220Z,33.6906667,-116.7071667,15.14,0.43,ml,18,107,0.02126,0.18,ci,ci40033775,2022-06-04T12:35:56.123Z,"6km S of Idyllwild, CA",earthquake,0.52,0.62,0.044,10,automatic,ci,ci
 2022-06-04T12:11:16.787Z,21.7456,121.0261,10,4.4,mb,,81,1.068,0.85,us,us7000hexj,2022-06-04T12:37:11.040Z,"40 km SE of Hengchun, Taiwan",earthquake,7,1.9,0.092,43,reviewed,us,us
@@ -180,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T13:58:05.103Z,64.2461,-146.0666,64.7,1,ml,,,,4.53,ak,ak02272wudrs,2022-06-03T17:43:45.767Z,"12 km NW of Whitestone, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2022-06-03T13:48:33.003Z,61.8749,-147.9701,35.8,1.1,ml,,,,0.74,ak,ak02272wsfti,2022-06-03T14:00:34.159Z,"18 km WNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-03T13:42:44.920Z,51.5016666666667,-177.161,-3.17,0.92,ml,8,298,,0.13,av,av91061383,2022-06-04T01:17:35.480Z,"55 km SW of Adak, Alaska",earthquake,0.94,1.18,0.263313500973925,8,reviewed,av,av
-2022-06-03T13:22:01.460Z,33.7111667,-116.7301667,18.17,0.73,ml,26,73,0.01334,0.13,ci,ci40033151,2022-06-03T18:39:37.931Z,"3km SSW of Idyllwild, CA",earthquake,0.25,0.36,0.204,14,reviewed,ci,ci
-2022-06-03T13:20:07.970Z,37.3436667,-121.704,8.37,1.19,md,30,35,0.049,0.08,nc,nc73740271,2022-06-03T20:47:22.346Z,"11km ESE of Alum Rock, CA",earthquake,0.23,0.32,0.156,29,reviewed,nc,nc
-2022-06-03T13:14:23.184Z,63.1308,-150.4612,98.3,1.5,ml,,,,0.53,ak,ak02272wl4q6,2022-06-03T13:24:35.057Z,"72 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
