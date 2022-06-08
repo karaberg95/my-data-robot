@@ -273,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T00:02:29.676Z,40.0387,-119.6109,11.5,0.7,ml,5,187.28,0.161,0.1222,nn,nn00840585,2022-06-08T20:38:13.566Z,"9 km N of Sutcliffe, Nevada",earthquake,,4.2,0.21,5,reviewed,nn,nn
 2022-06-07T23:59:47.815Z,51.0479,-173.3995,25.3,1.9,ml,,,,0.61,ak,ak02279oyk1f,2022-06-08T00:25:29.474Z,"139 km SSE of Atka, Alaska",earthquake,,14.2,,,reviewed,ak,ak
 2022-06-07T23:50:04.520Z,33.3261667,-116.3376667,11.1,0.91,ml,39,62,0.02468,0.19,ci,ci40035815,2022-06-08T00:29:12.071Z,"8km NNE of Borrego Springs, CA",earthquake,0.25,0.43,0.106,18,reviewed,ci,ci
-2022-06-07T23:43:30.120Z,31.6658107,-104.3953623,7.905419922,2.4,ml,12,86,0.08990827129,0.2,tx,tx2022lcqy,2022-06-08T21:10:18.752Z,"56 km S of Whites City, New Mexico",earthquake,1.440648949,2.388634196,0.1,7,reviewed,tx,tx
