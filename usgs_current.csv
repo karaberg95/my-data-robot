@@ -4,7 +4,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T18:07:53.500Z,38.8161659,-122.819664,2.49,0.82,md,20,52,0.0104,0.02,nc,nc73743371,2022-06-09T18:35:19.136Z,"7km NW of The Geysers, CA",earthquake,0.23,0.52,0.28,3,automatic,nc,nc
 2022-06-09T17:59:27.050Z,19.3896675109863,-155.464660644531,3,1.73000002,md,33,48,,0.180000007,hv,hv73039302,2022-06-09T18:02:40.440Z,"20 km N of Pāhala, Hawaii",earthquake,0.37,0.779999971,1.11000001,14,automatic,hv,hv
 2022-06-09T17:49:37.661Z,62.6331,-151.8408,0,1.3,ml,,,,1.09,ak,ak0227cwehae,2022-06-09T17:51:47.379Z,"57 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-09T17:42:34.485Z,35.8938,-114.876,16,1.7,ml,8,288.66,0.967,0.3119,nn,nn00840654,2022-06-09T17:47:39.181Z,"10 km SSW of Boulder City, Nevada",earthquake,,1.4,0.13,6,automatic,nn,nn
 2022-06-09T17:38:44.520Z,35.977,-117.8886667,3.3,1.09,ml,14,70,0.03071,0.12,ci,ci40037231,2022-06-09T18:16:38.843Z,"5km NNE of Little Lake, CA",earthquake,0.23,0.48,0.064,6,reviewed,ci,ci
 2022-06-09T17:28:37.481Z,32.4126,101.8379,14.05,5.9,mww,,20,11.196,0.57,us,us7000hg9p,2022-06-09T18:23:57.405Z,"254 km NW of Tianpeng, China",earthquake,7.6,4.2,0.055,32,reviewed,us,us
 2022-06-09T17:24:40.900Z,19.2238330841064,-155.380493164062,34.0299987792969,2.01999998,md,40,154,,0.140000001,hv,hv73039282,2022-06-09T17:27:52.960Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.769999981,0.100000001,17,automatic,hv,hv
