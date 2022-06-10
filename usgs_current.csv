@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T13:50:41.841Z,62.1097,-149.176,21.1,1.7,ml,,,,0.36,ak,ak0227ehkabc,2022-06-10T13:52:55.381Z,"35 km E of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-10T13:45:54.339Z,60.701,-147.4262,13.2,2.5,ml,,,,0.62,ak,ak0227ehj9s9,2022-06-10T13:47:46.509Z,"44 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-10T13:41:29.150Z,19.132833480835,-155.452667236328,29.3299999237061,1.98000002,md,42,214,,0.140000001,hv,hv73040052,2022-06-10T13:44:44.590Z,"8 km SSE of Pāhala, Hawaii",earthquake,0.56,0.75999999,0.709999979,9,automatic,hv,hv
 2022-06-10T13:33:27.930Z,33.241,-116.1061667,5.92,1.22,ml,36,54,0.09959,0.25,ci,ci40037943,2022-06-10T13:37:03.431Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.29,2.13,0.16,26,automatic,ci,ci
 2022-06-10T13:27:06.310Z,19.4675006866455,-155.609664916992,-0.930000007152557,2.02,ml,9,136,,0.340000004,hv,hv73040047,2022-06-10T13:32:37.640Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.36,0.800000012,3.9,6,automatic,hv,hv
@@ -39,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T08:26:03.200Z,19.1913333333333,-155.492833333333,32.75,3.55,ml,56,79,,0.1,hv,hv73039827,2022-06-10T11:02:53.580Z,"1 km SW of Pāhala, Hawaii",earthquake,0.44,0.57,0.165490030133127,39,reviewed,hv,hv
 2022-06-10T08:24:55.940Z,36.0775,-117.9136667,-0.2,1.03,ml,10,124,0.06219,0.19,ci,ci40037783,2022-06-10T08:29:13.524Z,"5km NE of Coso Junction, CA",earthquake,0.56,31.61,0.215,12,automatic,ci,ci
 2022-06-10T08:22:02.440Z,37.553,-118.7691667,5.59,0.51,md,19,183,0.06029,0.04,nc,nc73743571,2022-06-10T09:33:15.540Z,"8km W of Toms Place, CA",earthquake,0.63,0.84,0.17,17,reviewed,nc,nc
-2022-06-10T08:18:34.179Z,14.059,-91.3401,81.52,4.9,mwr,,136,0.942,1,us,us7000hger,2022-06-10T13:34:15.378Z,"16 km SSW of Nueva Concepción, Guatemala",earthquake,6.9,6.4,0.075,17,reviewed,us,us
+2022-06-10T08:18:34.179Z,14.059,-91.3401,81.52,4.9,mwr,,136,0.942,1,us,us7000hger,2022-06-10T13:51:14.272Z,"16 km SSW of Nueva Concepción, Guatemala",earthquake,6.9,6.4,0.075,17,reviewed,us,us
 2022-06-10T08:04:16.349Z,60.5775,-146.7986,20.5,2,ml,,,,0.48,ak,ak0227eeb8gy,2022-06-10T08:06:04.980Z,"32 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-10T08:01:34.940Z,38.7871666,-122.7689972,1.84,0.34,md,13,84,0.01596,0.04,nc,nc73743561,2022-06-10T08:35:21.147Z,"2km NW of The Geysers, CA",earthquake,0.33,0.58,0.19,3,automatic,nc,nc
 2022-06-10T07:35:38.250Z,32.29431152,-101.7966368,8.559163411,3.4,ml,15,61,0.0294898825,0.2,tx,tx2022lgxq,2022-06-10T08:17:47.357Z,"18 km N of Stanton, Texas",earthquake,0.8866380879,0.7615962415,0.2,12,reviewed,tx,tx
@@ -192,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T14:33:51.812Z,38.39,-118.3548,6.4,-0.1,ml,7,154.21,0.048,0.0897,nn,nn00840676,2022-06-10T02:38:31.397Z,"21 km W of Mina, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2022-06-09T14:24:35.970Z,38.4425,-118.3512,5,0,ml,8,120.91,0.013,0.1114,nn,nn00840674,2022-06-10T02:38:30.576Z,"21 km WNW of Mina, Nevada",earthquake,,2.7,0.12,2,reviewed,nn,nn
 2022-06-09T13:59:09.390Z,18.0293333333333,-66.7676666666667,13.03,2.38,md,6,174,,0.11,pr,pr71353188,2022-06-09T14:51:32.530Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.44,0.91,0.0701342134825556,5,reviewed,pr,pr
-2022-06-09T13:48:25.880Z,34.1275,-117.4561667,7.44,0.98,ml,34,78,0.06917,0.11,ci,ci40037055,2022-06-09T17:26:59.330Z,"3km N of Fontana, CA",earthquake,0.15,0.28,0.13,13,reviewed,ci,ci
