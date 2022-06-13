@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-13T06:35:30.100Z,38.831665,-122.809166,2.33,0.69,md,17,67,0.008288,0.01,nc,nc73744776,2022-06-13T06:44:10.354Z,"8km W of Cobb, CA",earthquake,0.24,0.7,0.48,3,automatic,nc,nc
-2022-06-13T06:16:38.080Z,35.5106667,-118.388,4.29,2.16,ml,36,31,0.1672,0.18,ci,ci40039215,2022-06-13T06:30:15.951Z,"13km SE of Bodfish, CA",earthquake,0.22,1.1,0.252,26,automatic,ci,ci
+2022-06-13T06:22:41.110Z,18.0878333333333,-66.8583333333333,5.47,2.07,md,5,129,,0.07,pr,pr71353878,2022-06-13T06:48:37.200Z,"5 km N of Yauco, Puerto Rico",earthquake,0.47,0.94,0.449266581319457,2,reviewed,pr,pr
+2022-06-13T06:16:38.080Z,35.5106667,-118.388,4.29,2.16,ml,36,31,0.1672,0.18,ci,ci40039215,2022-06-13T06:53:19.994Z,"13km SE of Bodfish, CA",earthquake,0.22,1.1,0.252,26,automatic,ci,ci
 2022-06-13T06:09:28.400Z,34.6958333,-116.2966667,6.59,1.76,ml,17,93,0.1204,0.14,ci,ci40039207,2022-06-13T06:20:34.450Z,"13km WSW of Ludlow, CA",earthquake,0.24,1.01,0.218,26,automatic,ci,ci
 2022-06-13T06:05:44.540Z,38.8300018,-122.7521667,-0.04,0.47,md,7,162,0.01387,0.01,nc,nc73744756,2022-06-13T06:44:16.528Z,"3km WNW of Cobb, CA",earthquake,0.57,0.86,0.08,2,automatic,nc,nc
 2022-06-13T06:04:55.530Z,38.8136673,-122.8208313,2.47,0.96,md,20,54,0.008093,0.03,nc,nc73744751,2022-06-13T06:34:17.296Z,"7km NW of The Geysers, CA",earthquake,0.23,0.6,0.05,3,automatic,nc,nc
