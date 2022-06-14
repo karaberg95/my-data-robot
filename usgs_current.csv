@@ -1,9 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-14T03:35:58.130Z,36.4481659,-121.0983353,11.37,1.07,md,5,230,0.1384,0.07,nc,nc73745151,2022-06-14T03:47:10.743Z,"10km SSE of Pinnacles, CA",earthquake,1.47,3.5,0.19,3,automatic,nc,nc
-2022-06-14T03:27:13.530Z,35.5548325,-120.8509979,7.07,1.29,md,7,151,0.08241,0.01,nc,nc73745146,2022-06-14T03:38:09.682Z,"13km NNE of Cayucos, CA",earthquake,0.58,0.83,0.06,4,automatic,nc,nc
-2022-06-14T03:23:45.290Z,37.8043327,-121.8446655,18.22,1.62,md,10,170,0.1219,0.02,nc,nc73745141,2022-06-14T03:41:18.704Z,"6km ESE of Blackhawk, CA",earthquake,0.47,3.13,0.12,9,automatic,nc,nc
+2022-06-14T04:07:12.970Z,18.0188333333333,-66.8748333333333,8.37,2.01,md,3,279,,0.09,pr,pr71353978,2022-06-14T04:21:00.930Z,"0 km NNW of Palomas, Puerto Rico",earthquake,2.71,2.29,0.06296831869394,3,reviewed,pr,pr
+2022-06-14T03:52:22.125Z,63.0663,-151.5686,0.9,1.5,ml,,,,0.85,ak,ak0227kxrr7m,2022-06-14T03:55:04.004Z,"53 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-14T03:49:00.170Z,33.4143333,-116.615,7.58,0.72,ml,28,68,0.07693,0.19,ci,ci40039799,2022-06-14T03:52:36.388Z,"15km N of Warner Springs, CA",earthquake,0.29,0.71,0.125,19,automatic,ci,ci
+2022-06-14T03:35:58.130Z,36.4481659,-121.0983353,11.37,1.07,md,5,230,0.1384,0.07,nc,nc73745151,2022-06-14T04:01:14.841Z,"10km SSE of Pinnacles, CA",earthquake,1.47,3.5,0.19,3,automatic,nc,nc
+2022-06-14T03:27:13.530Z,35.5548325,-120.8509979,7.07,1.29,md,7,151,0.08241,0.01,nc,nc73745146,2022-06-14T03:51:14.774Z,"13km NNE of Cayucos, CA",earthquake,0.58,0.83,0.06,4,automatic,nc,nc
+2022-06-14T03:23:45.290Z,37.8043327,-121.8446655,18.22,1.62,md,10,170,0.1219,0.02,nc,nc73745141,2022-06-14T04:15:10.920Z,"6km ESE of Blackhawk, CA",earthquake,0.47,3.13,0.12,9,automatic,nc,nc
+2022-06-14T03:21:49.490Z,17.9663,-66.9668,16,2.21,md,4,189,0.0775,0.07,pr,pr2022165000,2022-06-14T04:09:43.903Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.64,1.11,0.06,4,reviewed,pr,pr
 2022-06-14T03:04:49.807Z,63.0543,-149.3075,73.5,1.4,ml,,,,0.57,ak,ak0227kxhj04,2022-06-14T03:07:25.303Z,"41 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-14T02:47:12.090Z,38.7871666,-122.7683334,2.41,0.55,md,17,81,0.01503,0.04,nc,nc73745136,2022-06-14T03:03:14.467Z,"2km NW of The Geysers, CA",earthquake,0.28,0.58,0.35,4,automatic,nc,nc
+2022-06-14T02:47:12.090Z,38.7871666,-122.7683334,2.41,0.55,md,17,81,0.01503,0.04,nc,nc73745136,2022-06-14T03:50:09.765Z,"2km NW of The Geysers, CA",earthquake,0.28,0.58,0.35,4,automatic,nc,nc
+2022-06-14T02:41:08.529Z,32.0013,-103.816,10.14,2.7,ml,,79,0.096,0.47,us,us7000hh7x,2022-06-14T03:55:51.040Z,"34 km SE of Malaga, New Mexico",earthquake,1.2,5.1,0.071,26,reviewed,us,us
 2022-06-14T02:38:42.298Z,15.0983,53.5127,10,4.7,mb,,119,10.117,0.69,us,us7000hh7y,2022-06-14T03:17:08.040Z,"188 km SE of Al Ghayz̧ah, Yemen",earthquake,4.7,1.9,0.1,30,reviewed,us,us
 2022-06-14T02:17:50.383Z,33.4202,142.1941,10,4.5,mb,,153,2.017,0.85,us,us7000hh7v,2022-06-14T03:28:03.040Z,"258 km SE of Katsuura, Japan",earthquake,11.3,1.9,0.104,27,reviewed,us,us
 2022-06-14T02:17:40.340Z,38.8136673,-122.8221664,2.66,0.35,md,9,90,0.007278,0.02,nc,nc73745131,2022-06-14T03:24:10.587Z,"7km NW of The Geysers, CA",earthquake,0.5,1.11,,1,automatic,nc,nc
@@ -234,15 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T04:46:12.120Z,18.0718333333333,-66.8831666666667,18.03,2.37,md,19,60,,0.15,pr,pr71353868,2022-06-13T05:45:00.130Z,"4 km NNE of Lluveras, Puerto Rico",earthquake,0.29,0.51,0.0136611389730623,5,reviewed,pr,pr
 2022-06-13T04:40:41.759Z,58.9667,-151.4342,30.8,2.7,ml,,,,0.69,ak,ak0227jarb9r,2022-06-13T05:06:24.040Z,"48 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-13T04:39:32.300Z,44.8153333,-110.7586667,8.15,0.72,md,7,265,0.07073,0.06,uu,uu60501612,2022-06-13T18:22:54.110Z,"18 km SSW of Mammoth, Wyoming",earthquake,2.64,1,0.164,4,reviewed,uu,uu
-2022-06-13T04:35:45.960Z,44.818,-110.7475,7.87,0.76,md,8,273,0.0791,0.06,uu,uu60501607,2022-06-13T13:49:23.190Z,"17 km SSW of Mammoth, Wyoming",earthquake,2.42,0.7,0.158,4,reviewed,uu,uu
-2022-06-13T04:27:49.490Z,38.8146667,-122.8116684,2.92,0.84,md,9,104,0.008804,0.01,nc,nc73744711,2022-06-13T04:36:10.586Z,"6km NW of The Geysers, CA",earthquake,0.54,1.26,,1,automatic,nc,nc
-2022-06-13T04:27:38.079Z,61.6299,-149.9053,25,2.3,ml,,,,0.79,ak,ak0227jaoim6,2022-06-13T14:20:15.309Z,"4 km W of Houston, Alaska",earthquake,,1.9,,,reviewed,ak,ak
-2022-06-13T04:17:16.470Z,17.9115,-66.8871666666667,15.67,2.32,md,8,229,,0.1,pr,pr71353863,2022-06-13T04:51:34.100Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.71,0.56,0.0651587873810286,7,reviewed,pr,pr
-2022-06-13T04:13:22.013Z,36.9002,-116.5289,0,0.3,ml,3,208.77,0.244,0.2081,nn,nn00840841,2022-06-13T19:57:19.874Z,"20 km E of Beatty, Nevada",earthquake,,0,0.52,3,reviewed,nn,nn
-2022-06-13T04:13:03.841Z,63.6967,-152.6749,0,1.9,ml,,,,0.88,ak,ak0227jalg0g,2022-06-13T04:15:15.185Z,"27 km SW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-13T04:03:33.840Z,38.8330002,-122.8078308,2.53,0.85,md,8,97,0.00975,0.02,nc,nc73744696,2022-06-13T06:05:22.139Z,"7km W of Cobb, CA",earthquake,0.63,1.65,,1,automatic,nc,nc
-2022-06-13T03:57:22.066Z,58.4009,-151.0294,11.8,3.3,ml,,,,0.63,ak,ak0227ja9h8h,2022-06-13T04:15:05.040Z,"101 km ENE of Ouzinkie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-13T03:53:20.350Z,44.8243333,-110.7431667,8.56,1.35,ml,10,276,0.08446,0.08,uu,uu60501602,2022-06-13T14:07:54.130Z,"17 km S of Mammoth, Wyoming",earthquake,2.6,0.96,0.006,2,reviewed,uu,uu
-2022-06-13T03:53:09.660Z,35.8616667,-117.6936667,9.92,1.15,ml,16,108,0.07846,0.14,ci,ci40039175,2022-06-13T21:23:45.720Z,"21km ESE of Little Lake, CA",earthquake,0.23,0.45,0.148,9,reviewed,ci,ci
-2022-06-13T03:51:17.230Z,44.8193333,-110.754,8.3,1.63,ml,11,242,0.07537,0.1,uu,uu60501597,2022-06-13T15:14:43.440Z,"17 km SSW of Mammoth, Wyoming",earthquake,2,0.99,0.15,4,reviewed,uu,uu
-2022-06-13T03:49:41.670Z,44.794,-110.8025,7.81,2.44,ml,19,146,0.03465,0.16,uu,uu60501592,2022-06-13T13:26:31.610Z,"Wyoming",earthquake,0.62,0.43,0.224,5,reviewed,uu,uu
