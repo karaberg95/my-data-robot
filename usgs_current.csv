@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-15T17:27:26.320Z,33.1531667,-116.4183333,7.24,0.88,ml,19,67,0.1147,0.24,ci,ci40040735,2022-06-15T17:31:03.883Z,"12km SSW of Borrego Springs, CA",earthquake,0.56,1.27,0.186,17,automatic,ci,ci
 2022-06-15T17:20:29.340Z,19.1458339691162,-155.47233581543,33.7999992370605,1.95000005,md,25,169,,0.140000001,hv,hv73044732,2022-06-15T17:23:47.140Z,"6 km S of Pāhala, Hawaii",earthquake,0.86,1.08000004,1.17999995,8,automatic,hv,hv
+2022-06-15T17:12:43.190Z,38.5901667,-112.1831667,12.23,1.21,ml,7,185,0.08931,0.11,uu,uu60501947,2022-06-15T17:44:42.560Z,"4 km SE of Joseph, Utah",earthquake,0.86,1.42,0.317,2,reviewed,uu,uu
 2022-06-15T17:08:15.790Z,36.4729996,-121.0475006,6.53,1.9,md,16,107,0.0196,0.09,nc,nc73745751,2022-06-15T17:23:11.191Z,"11km SE of Pinnacles, CA",earthquake,0.45,0.83,0.11,16,automatic,nc,nc
 2022-06-15T16:51:04.000Z,38.795166,-122.7581635,2.15,1.77,md,4,136,0.005584,0.01,nc,nc73745736,2022-06-15T17:03:11.079Z,"2km N of The Geysers, CA",earthquake,1.28,3.59,0.92,2,automatic,nc,nc
 2022-06-15T16:26:09.600Z,38.7796669,-122.7553329,1.41,0.21,md,7,136,0.01497,0.01,nc,nc73745726,2022-06-15T17:12:26.129Z,"0km NNE of The Geysers, CA",earthquake,0.38,0.84,0.16,2,automatic,nc,nc
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T17:51:04.805Z,61.3445,-150.724,43.5,1.7,ml,,,,0.42,ak,ak0227l63knk,2022-06-14T17:53:20.038Z,"24 km SSW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-14T17:51:01.060Z,40.243,-124.1541667,12.76,1.32,md,14,136,0.01386,0.07,nc,nc73745331,2022-06-15T02:19:10.782Z,"14km SE of Petrolia, CA",earthquake,0.33,0.41,0.081,7,reviewed,nc,nc
 2022-06-14T17:46:04.990Z,38.7883339,-122.7653351,2.09,0.53,md,11,89,0.01304,0.04,nc,nc73745326,2022-06-14T18:14:13.983Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.78,0.38,2,automatic,nc,nc
-2022-06-14T17:42:49.770Z,38.7588333,-122.7173333,1.68,0.18,md,17,57,0.006498,0.04,nc,nc73745316,2022-06-15T00:02:19.978Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.33,0.141,6,reviewed,nc,nc
