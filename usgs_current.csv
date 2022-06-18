@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T18:25:02.653Z,38.248,-118.3521,8.9,0.6,ml,10,163.13,0.12,0.112,nn,nn00841109,2022-06-18T02:40:11.924Z,"26 km SW of Mina, Nevada",earthquake,,2.4,0.07,2,reviewed,nn,nn
 2022-06-17T18:21:16.249Z,38.1697,-117.8301,7.8,1.6,ml,17,112.12,0.106,0.1114,nn,nn00841091,2022-06-18T02:39:54.661Z,"34 km SE of Mina, Nevada",earthquake,,1.8,0.42,6,reviewed,nn,nn
 2022-06-17T18:09:20.416Z,-23.5236,-68.7374,103.78,4.3,mb,,83,0.766,1.01,us,us7000hi72,2022-06-17T18:35:03.040Z,"87 km SW of San Pedro de Atacama, Chile",earthquake,4.7,6.8,0.154,13,reviewed,us,us
-2022-06-17T18:08:06.540Z,37.3368333,-122.2048333,8.69,1.63,md,16,71,0.02642,0.09,nc,nc73746786,2022-06-18T04:19:11.578Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.55,0.132,16,reviewed,nc,nc
+2022-06-17T18:08:06.540Z,37.3368333,-122.2048333,8.69,1.63,md,16,71,0.02642,0.09,nc,nc73746786,2022-06-18T04:51:16.513Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.55,0.132,16,reviewed,nc,nc
 2022-06-17T18:04:50.296Z,38.1669,-117.8252,8.1,1,ml,14,144.94,0.109,0.1246,nn,nn00841089,2022-06-18T02:39:52.786Z,"35 km SE of Mina, Nevada",earthquake,,2.7,0.33,3,reviewed,nn,nn
 2022-06-17T18:00:22.316Z,38.2308,-118.334,4.6,0.3,ml,7,244.06,0.136,0.1022,nn,nn00841108,2022-06-18T02:40:10.382Z,"26 km SW of Mina, Nevada",earthquake,,14.5,0,1,reviewed,nn,nn
 2022-06-17T17:54:21.730Z,17.9866666666667,-66.8138333333333,13.43,2.98,md,24,151,,0.22,pr,pr71354668,2022-06-18T00:10:28.470Z,"1 km SE of Indios, Puerto Rico",earthquake,0.37,0.31,0.185623997843956,15,reviewed,pr,pr
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T17:20:42.210Z,34.8488333,-118.783,-1.09,1.49,ml,15,99,0.07215,0.28,ci,ci40286232,2022-06-17T17:45:19.938Z,"8km E of Lebec, CA",quarry blast,0.68,31.61,0.126,4,reviewed,ci,ci
 2022-06-17T17:12:30.400Z,19.2371673583984,-155.391830444336,30.3999996185303,2.04999995,md,41,142,,0.100000001,hv,hv73046937,2022-06-17T17:15:39.120Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.5,0.819999993,1.08000004,12,automatic,hv,hv
 2022-06-17T17:00:18.480Z,47.70033333333333,-123.58716666666666,35.82,1.3800000000000001,ml,14,85,0.141,0.15,uw,uw61852706,2022-06-18T03:20:37.830Z,"35 km NE of Amanda Park, Washington",earthquake,0.39,0.86,0.17267370756288747,5,reviewed,uw,uw
-2022-06-17T16:57:15.420Z,36.0001667,-120.557,1.58,0.55,md,18,89,0.01894,0.08,nc,nc73746776,2022-06-18T04:40:15.447Z,"16km NW of Parkfield, CA",earthquake,0.29,0.49,0.384,8,reviewed,nc,nc
+2022-06-17T16:57:15.420Z,36.0001667,-120.557,1.58,0.55,md,18,89,0.01894,0.08,nc,nc73746776,2022-06-18T04:46:10.483Z,"16km NW of Parkfield, CA",earthquake,0.29,0.49,0.384,8,reviewed,nc,nc
 2022-06-17T16:56:33.610Z,38.8166656,-122.7634964,1.99,0.85,md,9,188,0.01385,0.02,nc,nc73746771,2022-06-17T17:25:13.198Z,"4km W of Cobb, CA",earthquake,0.72,1.46,,1,automatic,nc,nc
 2022-06-17T16:50:36.810Z,38.7879982,-122.7501678,2.56,1.14,md,20,82,0.01153,0.03,nc,nc73746766,2022-06-17T19:26:10.874Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.56,0.04,4,automatic,nc,nc
 2022-06-17T16:48:05.781Z,38.4067,-118.3711,6.6,0.2,ml,6,128,0.04,0.1049,nn,nn00841107,2022-06-18T02:40:09.177Z,"22 km W of Mina, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
@@ -250,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T05:06:54.930Z,35.898,-117.6975,5.92,0.86,ml,21,71,0.08639,0.1,ci,ci40285800,2022-06-17T18:05:38.063Z,"19km ESE of Little Lake, CA",earthquake,0.14,0.44,0.144,5,reviewed,ci,ci
 2022-06-17T05:05:12.538Z,64.5972,-149.3769,20.1,1.3,ml,,,,0.74,ak,ak0227pxakj9,2022-06-17T05:08:34.663Z,"12 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-17T04:59:58.630Z,38.7903333,-122.768,2.96,0.13,md,18,77,0.01215,0.04,nc,nc73746566,2022-06-17T21:33:14.626Z,"2km NW of The Geysers, CA",earthquake,0.29,0.48,0.182,3,reviewed,nc,nc
-2022-06-17T04:44:28.030Z,32.6043333,-115.5278333,2.2,1.5,ml,16,138,0.07524,0.17,ci,ci40285680,2022-06-17T15:35:02.640Z,"6km ENE of Progreso, B.C., MX",earthquake,0.31,0.28,0.318,7,reviewed,ci,ci
