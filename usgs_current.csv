@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T04:00:19.500Z,37.5234985,-118.7835007,6.09,1.53,md,16,112,0.07566,0.02,nc,nc73747871,2022-06-20T06:43:14.526Z,"10km WSW of Toms Place, CA",earthquake,0.36,1.13,0.17,14,automatic,nc,nc
 2022-06-20T04:00:08.000Z,38.8291664,-122.7543335,0.62,1.25,md,11,155,0.01224,0.03,nc,nc73747866,2022-06-20T06:44:10.531Z,"3km WNW of Cobb, CA",earthquake,0.37,0.68,0.06,2,automatic,nc,nc
 2022-06-20T03:53:03.955Z,63.5046,-154.2578,11.4,2.4,ml,,,,0.64,ak,ak0227uv00ij,2022-06-20T04:13:46.040Z,"55 km N of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-20T03:40:29.510Z,32.4328346,-115.229332,28.74,3.75,mw,31,98,0.06536,0.29,ci,ci40287560,2022-06-20T05:44:15.223Z,"9km NNW of Delta, B.C., MX",earthquake,0.65,0.57,,4,reviewed,ci,ci
+2022-06-20T03:40:29.510Z,32.4328346,-115.229332,28.74,3.75,mw,31,98,0.06536,0.29,ci,ci40287560,2022-06-20T09:47:03.875Z,"9km NNW of Delta, B.C., MX",earthquake,0.65,0.57,,4,reviewed,ci,ci
 2022-06-20T03:40:29.140Z,17.9265,-66.8375,12.55,2.38,md,6,221,,0.13,pr,pr71355123,2022-06-20T04:42:51.670Z,"7 km SSW of Indios, Puerto Rico",earthquake,1.77,0.73,0.068561456109649,5,reviewed,pr,pr
 2022-06-20T03:33:18.180Z,17.9095,-66.9465,11.47,2.21,md,8,235,,0.13,pr,pr71355113,2022-06-20T04:39:00.830Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.84,0.52,0.116638252069345,5,reviewed,pr,pr
 2022-06-20T03:31:51.314Z,60.4861,-150.7295,28.4,1.4,ml,,,,0.39,ak,ak0227uuveez,2022-06-20T03:33:41.170Z,"2 km SE of Funny River, Alaska",earthquake,,0.5,,,automatic,ak,ak
