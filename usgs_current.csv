@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T21:05:23.549Z,60.3126,-144.5094,46,1.2,ml,,,,0.93,ak,ak0227wsywyo,2022-06-21T21:08:04.730Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-06-21T21:02:16.210Z,37.3303337,-121.6955032,7.64,1.12,md,8,84,0.04367,0.05,nc,nc73749191,2022-06-22T00:58:15.743Z,"12km ESE of Alum Rock, CA",earthquake,0.4,0.91,0.2,6,automatic,nc,nc
 2022-06-21T21:01:12.740Z,35.7648333,-117.5758333,6.78,1.1,ml,16,145,0.05377,0.12,ci,ci40288728,2022-06-21T22:23:03.349Z,"16km W of Searles Valley, CA",earthquake,0.27,0.4,0.087,5,reviewed,ci,ci
-2022-06-21T20:54:36.148Z,33.0924,69.5135,10,5.9,mwb,,16,1.496,0.89,us,us7000hj3u,2022-06-22T04:26:13.639Z,"46 km SW of Khōst, Afghanistan",earthquake,6.7,1.7,0.028,127,reviewed,us,us
+2022-06-21T20:54:36.148Z,33.0924,69.5135,10,5.9,mwb,,16,1.496,0.89,us,us7000hj3u,2022-06-22T05:57:22.457Z,"46 km SW of Khōst, Afghanistan",earthquake,6.7,1.7,0.028,127,reviewed,us,us
 2022-06-21T20:49:48.130Z,34.50616667,-97.22683333,0,1.78,ml,22,126,0.1214761622,0.35,ok,ok2022mcag,2022-06-21T21:23:14.221Z,"9 km W of Davis, Oklahoma",quarry blast,,0.7,0.16,4,reviewed,ok,ok
 2022-06-21T20:36:20.830Z,37.7853333,-113.1726667,8.52,1.07,ml,6,143,0.2013,0.08,uu,uu60503017,2022-06-21T22:12:31.060Z,"13 km W of Enoch, Utah",earthquake,0.51,2.15,0.137,2,reviewed,uu,uu
 2022-06-21T20:32:54.041Z,36.684,-116.3291,8.7,-0.4,ml,5,171.25,0.028,0.0919,nn,nn00841436,2022-06-22T02:40:05.916Z,"California-Nevada border region",earthquake,,4.1,0,1,reviewed,nn,nn
@@ -177,6 +177,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T10:03:05.490Z,38.8115005,-122.8236694,2.32,1.02,md,19,58,0.0146,0.02,nc,nc73748956,2022-06-21T10:27:13.545Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.6,0.15,3,automatic,nc,nc
 2022-06-21T10:03:04.256Z,62.0997,-149.7581,41.7,1.9,ml,,,,0.55,ak,ak0227wmeogp,2022-06-21T10:05:13.097Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-21T09:45:45.100Z,36.0391667,-117.5533333,0.79,0.91,ml,16,170,0.1792,0.14,ci,ci40288504,2022-06-21T14:01:24.000Z,"33km NNW of Searles Valley, CA",earthquake,0.53,1.05,0.198,6,reviewed,ci,ci
+2022-06-21T09:43:53.220Z,58.4443333333333,-154.455,5.38,0.74,ml,12,210,,0.26,av,av91604911,2022-06-22T05:54:38.920Z,"97 km N of Karluk, Alaska",earthquake,0.75,1.51,0.234977940408431,12,reviewed,av,av
+2022-06-21T09:36:21.630Z,58.43,-154.413666666667,2.7,-0.22,ml,5,297,,0.2,av,av91063638,2022-06-22T05:57:14.650Z,"95 km N of Karluk, Alaska",earthquake,1.33,1.26,0.195169558393085,5,reviewed,av,av
 2022-06-21T09:35:03.430Z,37.6353333,-118.8665,-0.29,0.89,md,8,183,0.01655,0.03,nc,nc73748941,2022-06-21T15:40:11.429Z,"10km E of Mammoth Lakes, CA",earthquake,0.56,0.4,0.309,7,reviewed,nc,nc
 2022-06-21T09:33:36.286Z,64.9491,-149.4018,0,1.4,ml,,,,1.06,ak,ak0227wlzqt8,2022-06-21T09:35:53.525Z,"22 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-21T09:24:48.050Z,38.8284988,-122.8001633,2.27,0.83,md,18,46,0.009268,0.02,nc,nc73748936,2022-06-21T09:52:13.257Z,"7km W of Cobb, CA",earthquake,0.26,0.67,0.45,2,automatic,nc,nc
@@ -240,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T06:09:36.730Z,38.1627,-118.1939,5.3,0.6,ml,13,159.33,0.186,0.1088,nn,nn00841358,2022-06-21T17:57:36.178Z,"26 km SSW of Mina, Nevada",earthquake,,4.7,0.12,5,reviewed,nn,nn
 2022-06-21T06:08:27.770Z,33.1463333,-116.4125,11.07,0.94,ml,54,47,0.07215,0.18,ci,ci40288440,2022-06-21T20:19:26.070Z,"13km SSW of Borrego Springs, CA",earthquake,0.15,0.32,0.167,18,reviewed,ci,ci
 2022-06-21T06:05:28.590Z,54.1933333333333,-165.983666666667,7.6,-0.32,ml,6,177,,0.05,av,av91063613,2022-06-22T01:09:29.210Z,"15 km WNW of Akutan, Alaska",earthquake,0.34,0.45,0.380624189651772,5,reviewed,av,av
-2022-06-21T05:54:17.170Z,37.3778333,-121.7568333,0.15,0.99,md,20,59,0.01079,0.11,nc,nc73748826,2022-06-21T17:39:11.559Z,"6km ENE of Alum Rock, CA",earthquake,0.27,0.47,0.23,20,reviewed,nc,nc
