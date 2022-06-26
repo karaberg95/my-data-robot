@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-26T18:44:14.940Z,38.7854996,-122.7378311,1.78,0.76,md,11,85,0.002419,0.02,nc,nc73751416,2022-06-26T18:45:48.294Z,"2km ENE of The Geysers, CA",earthquake,0.35,0.76,0.15,2,automatic,nc,nc
+2022-06-26T18:53:16.351Z,38.174,-117.8253,7.1,0.7,ml,9,181.54,0.111,0.0703,nn,nn00841768,2022-06-26T18:57:02.412Z,"34 km SE of Mina, Nevada",earthquake,,2.6,0.48,5,automatic,nn,nn
+2022-06-26T18:44:14.940Z,38.7854996,-122.7378311,1.78,0.76,md,11,85,0.002419,0.02,nc,nc73751416,2022-06-26T18:53:11.131Z,"2km ENE of The Geysers, CA",earthquake,0.35,0.76,0.15,2,automatic,nc,nc
 2022-06-26T18:35:51.600Z,38.762001,-122.7243347,1.88,0.33,md,10,135,0.000579,0.01,nc,nc73751411,2022-06-26T18:45:11.083Z,"3km WSW of Anderson Springs, CA",earthquake,0.63,0.76,0.06,3,automatic,nc,nc
 2022-06-26T18:20:14.188Z,64.4879,-150.6595,1.5,1,ml,,,,0.78,ak,ak022850yjpm,2022-06-26T18:22:25.016Z,"57 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-26T18:14:17.350Z,35.9729996,-120.5248337,10.51,2.12,md,38,59,0.02177,0.06,nc,nc73751401,2022-06-26T18:46:17.215Z,"12km NW of Parkfield, CA",earthquake,0.19,0.25,0.11,32,automatic,nc,nc
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T01:37:52.930Z,33.4788333,-116.5555,9.9,0.56,ml,26,81,0.04211,0.12,ci,ci40291472,2022-06-26T01:41:31.891Z,"14km SE of Anza, CA",earthquake,0.24,0.38,0.165,12,automatic,ci,ci
 2022-06-26T01:37:50.171Z,38.1188,-118.2124,1.4,1.6,ml,11,147.76,0.2,0.2843,nn,nn00841726,2022-06-26T01:41:35.748Z,"31 km SSW of Mina, Nevada",earthquake,,2.4,0.21,8,automatic,nn,nn
 2022-06-26T01:29:22.740Z,17.9656666666667,-66.8485,18,2.06,md,7,205,,0.2,pr,pr71356008,2022-06-26T01:41:09.890Z,"4 km SW of Indios, Puerto Rico",earthquake,1.52,1.14,0.0715839121074964,2,reviewed,pr,pr
-2022-06-26T01:21:21.390Z,39.3643333,-123.26,5.45,1.33,md,16,82,0.07674,0.08,nc,nc73751031,2022-06-26T17:22:15.582Z,"10km ESE of Willits, CA",earthquake,0.21,0.77,0.222,15,reviewed,nc,nc
+2022-06-26T01:21:21.390Z,39.3643333,-123.26,5.45,1.33,md,16,82,0.07674,0.08,nc,nc73751031,2022-06-26T18:56:11.147Z,"10km ESE of Willits, CA",earthquake,0.21,0.77,0.222,15,reviewed,nc,nc
 2022-06-26T01:16:44.540Z,19.1703338623047,-155.474334716797,30.9500007629395,2.19,ml,38,79,,0.170000002,hv,hv73055747,2022-06-26T01:22:14.820Z,"3 km S of Pāhala, Hawaii",earthquake,0.7,1.15999997,4.32,5,automatic,hv,hv
 2022-06-26T01:15:05.632Z,63.437,-145.9516,11.2,0.8,ml,,,,0.19,ak,ak02284qt36r,2022-06-26T01:17:27.247Z,"42 km NNW of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-26T01:14:44.840Z,17.9578333333333,-66.8461666666667,13.93,1.94,md,8,205,,0.12,pr,pr71355998,2022-06-26T01:40:14.530Z,"4 km SW of Indios, Puerto Rico",earthquake,0.55,0.53,0.227396449185652,7,reviewed,pr,pr
