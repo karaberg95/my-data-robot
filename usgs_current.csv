@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-30T22:52:52.920Z,38.7955017,-122.793663,2.94,0.9,md,24,65,0.005053,0.02,nc,nc73753026,2022-06-30T22:54:26.409Z,"4km WNW of The Geysers, CA",earthquake,0.27,0.48,0.26,4,automatic,nc,nc
+2022-06-30T22:50:28.480Z,38.809166,-122.7728348,1.2,1.18,md,23,79,0.00737,0.03,nc,nc73753021,2022-06-30T22:52:01.241Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.39,0.06,5,automatic,nc,nc
 2022-06-30T22:43:49.975Z,67.7035,-158.7381,6.2,1.4,ml,,,,0.9,ak,ak0228bpmoia,2022-06-30T22:46:46.437Z,"78 km NNW of Ambler, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-30T22:39:21.027Z,61.2621,-147.5074,15.1,1.3,ml,,,,0.67,ak,ak0228bplr8n,2022-06-30T22:42:05.342Z,"61 km S of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-30T22:33:10.982Z,65.0086,-147.1046,0,1.4,ml,,,,1.05,ak,ak0228bpkg61,2022-06-30T22:36:11.898Z,"15 km NNW of Two Rivers, Alaska",earthquake,,14.4,,,automatic,ak,ak
 2022-06-30T22:26:44.730Z,34.1578333,-117.4418333,9.51,1.31,ml,30,69,0.03668,0.2,ci,ci40294512,2022-06-30T22:41:35.753Z,"7km NNE of Fontana, CA",earthquake,0.35,0.77,0.27,32,automatic,ci,ci
+2022-06-30T22:14:26.850Z,35.7475,-117.5461667,7.74,0.69,ml,8,168,0.07987,0.1,ci,ci40294504,2022-06-30T22:57:06.909Z,"13km W of Searles Valley, CA",earthquake,0.49,0.69,0.124,2,reviewed,ci,ci
 2022-06-30T22:12:59.996Z,60.2742,-152.7868,118.2,1.1,ml,,,,0.43,ak,ak0228bpg1wv,2022-06-30T22:14:41.584Z,"66 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-30T22:09:38.710Z,-2.6884,110.2442,15,4.3,mb,24,107,4.336,0.79,us,us6000hyz4,2022-06-30T22:32:12.040Z,"91 km WSW of Manismata, Indonesia",earthquake,9.1,5.3,0.148,13,reviewed,us,us
 2022-06-30T22:03:06.380Z,19.0685005187988,-155.460830688477,32.8400001525879,1.97000003,md,22,196,,0.289999992,hv,hv73061177,2022-06-30T22:06:18.860Z,"Island of Hawaii, Hawaii",earthquake,1.08,1.84000003,1.83000004,6,automatic,hv,hv
