@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-02T07:45:33.100Z,33.6093333,-116.7366667,12.48,0.5,ml,18,73,0.02771,0.14,ci,ci40295280,2022-07-02T07:49:08.477Z,"8km NW of Anza, CA",earthquake,0.35,0.54,0.196,11,automatic,ci,ci
 2022-07-02T07:35:42.750Z,33.6056667,-116.7376667,11.85,0.94,ml,38,50,0.02509,0.18,ci,ci40295272,2022-07-02T07:39:22.004Z,"8km NW of Anza, CA",earthquake,0.23,0.43,0.182,25,automatic,ci,ci
 2022-07-02T07:26:48.840Z,34.0036667,-116.7616667,13.48,0.69,ml,18,97,0.04953,0.23,ci,ci40295264,2022-07-02T07:30:26.449Z,"10km NNE of Cabazon, CA",earthquake,0.41,0.81,0.083,17,automatic,ci,ci
 2022-07-02T07:22:42.310Z,33.0945,-116.5785,14.13,0.64,ml,17,151,0.1193,0.13,ci,ci40295256,2022-07-02T07:26:19.059Z,"3km NE of Julian, CA",earthquake,0.36,0.77,0.064,10,automatic,ci,ci
