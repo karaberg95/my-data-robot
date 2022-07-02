@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-02T10:56:19.890Z,33.608,-116.738,14.62,0.11,ml,16,69,0.04249,0.24,ci,ci40295368,2022-07-02T10:59:52.590Z,"8km NW of Anza, CA",earthquake,0.82,1.09,0.086,5,automatic,ci,ci
 2022-07-02T10:44:27.930Z,33.6041667,-116.7378333,12.54,0.84,ml,29,71,0.02429,0.16,ci,ci40295360,2022-07-02T10:48:08.609Z,"8km NW of Anza, CA",earthquake,0.26,0.47,0.148,27,automatic,ci,ci
 2022-07-02T10:32:42.720Z,38.8344994,-122.8040009,1.92,0.36,md,10,106,0.01136,0,nc,nc73753466,2022-07-02T10:40:10.677Z,"7km W of Cobb, CA",earthquake,0.34,0.92,,1,automatic,nc,nc
 2022-07-02T10:31:55.393Z,61.4767,-149.9025,34,1,ml,,,,0.21,ak,ak0228ethlw3,2022-07-02T10:33:36.188Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T10:37:10.661Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
+2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T11:03:15.820Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
 2022-07-02T10:28:05.770Z,33.7578333,-116.8213333,1.9,1.1,ml,17,138,0.07815,0.34,ci,ci40295352,2022-07-02T10:31:50.436Z,"7km E of Valle Vista, CA",earthquake,0.88,1.69,0.281,31,automatic,ci,ci
 2022-07-02T10:24:43.150Z,36.8134995,-121.5441666,5.53,2.3,md,39,47,0.03303,0.18,nc,nc73753456,2022-07-02T10:53:23.756Z,"4km S of San Juan Bautista, CA",earthquake,0.33,0.63,0.14,36,automatic,nc,nc
 2022-07-02T10:16:33.320Z,33.6065,-116.7395,12.04,0.15,ml,16,60,0.02418,0.16,ci,ci40295344,2022-07-02T10:20:07.079Z,"8km NW of Anza, CA",earthquake,0.44,0.61,0.1,6,automatic,ci,ci
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T11:15:34.270Z,19.2905006408691,-155.138000488281,37.2000007629395,1.87,md,30,139,,0.100000001,hv,hv73061612,2022-07-01T11:18:58.220Z,"19 km S of Fern Forest, Hawaii",earthquake,0.61,1.12,0.889999986,7,automatic,hv,hv
 2022-07-01T11:13:47.557Z,41.3971,-119.1041,17,3.2,ml,13,110.4,1.029,0.1687,nn,nn00842055,2022-07-02T02:39:59.648Z,"70 km N of Black Rock City, Nevada",earthquake,,2.3,0.22,9,reviewed,nn,nn
 2022-07-01T11:11:03.520Z,33.376,-116.8753333,7.39,0.36,ml,17,70,0.02472,0.19,ci,ci40294760,2022-07-01T11:14:45.508Z,"2km NNW of Palomar Observatory, CA",earthquake,0.39,0.72,0.127,7,automatic,ci,ci
-2022-07-01T10:53:54.480Z,19.2509994506836,-155.457672119141,32.9799995422363,2.25,md,41,100,,0.119999997,hv,hv73061602,2022-07-01T18:04:33.097Z,"5 km NNE of Pāhala, Hawaii",earthquake,0.61,0.930000007,0.360000014,17,automatic,hv,hv
