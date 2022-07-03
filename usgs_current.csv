@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T12:52:32.910Z,33.6908333,-116.728,15.43,1.02,ml,13,77,0.02333,0.14,ci,ci40295808,2022-07-03T12:56:02.574Z,"6km S of Idyllwild, CA",earthquake,0.48,0.55,0.348,11,automatic,ci,ci
 2022-07-03T12:35:35.329Z,61.836,-146.8836,29.2,1.4,ml,,,,0.73,ak,ak0228gi8mws,2022-07-03T12:37:24.356Z,"18 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-03T12:34:21.090Z,38.7885017,-122.7686691,2.55,0.46,md,10,98,0.01398,0.02,nc,nc73753871,2022-07-03T13:07:15.986Z,"2km NW of The Geysers, CA",earthquake,0.38,1,0.4,2,automatic,nc,nc
-2022-07-03T12:19:03.570Z,38.8221664,-122.7848358,1.7,1.17,md,12,81,0.009467,0.02,nc,nc73753861,2022-07-03T12:35:21.771Z,"5km W of Cobb, CA",earthquake,0.37,0.85,,1,automatic,nc,nc
+2022-07-03T12:19:03.570Z,38.8221664,-122.7848358,1.7,1.17,md,12,81,0.009467,0.02,nc,nc73753861,2022-07-03T14:16:11.381Z,"5km W of Cobb, CA",earthquake,0.37,0.85,,1,automatic,nc,nc
 2022-07-03T12:06:58.298Z,44.3274,-116.1776,9.84,2.6,ml,26,41,0.77,0.68,us,us6000hzja,2022-07-03T12:30:03.040Z,"7 km WNW of Smiths Ferry, Idaho",earthquake,2.3,8.5,0.048,58,reviewed,us,us
 2022-07-03T12:06:24.177Z,38.111,-118,8.2,0.8,ml,8,127.44,0.042,0.2386,nn,nn00842148,2022-07-03T12:10:24.816Z,"32 km SSE of Mina, Nevada",earthquake,,0.7,0.27,6,automatic,nn,nn
 2022-07-03T12:04:18.045Z,38.1384,-117.9832,10.9,0.3,ml,9,167.13,0.019,0.073,nn,nn00842146,2022-07-03T12:08:14.161Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.42,4,automatic,nn,nn
