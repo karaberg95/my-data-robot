@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-17T04:52:48.519Z,38.5434,-119.51,13.7,1,ml,10,224.84,0.043,0.1855,nn,nn00843077,2022-07-17T04:56:51.469Z,"2 km S of Coleville, California",earthquake,,1.2,0.36,6,automatic,nn,nn
 2022-07-17T04:37:31.230Z,34.3181667,-118.463,7.54,1.48,ml,29,55,0.02439,0.27,ci,ci40064951,2022-07-17T04:41:16.883Z,"2km NW of Sylmar, CA",earthquake,0.43,0.84,0.165,27,automatic,ci,ci
 2022-07-17T04:10:37.300Z,17.8988333333333,-66.8653333333333,13.21,2.18,md,7,272,,0.09,pr,pr71359923,2022-07-17T04:37:03.730Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.45,0.0368913240356212,5,reviewed,pr,pr
 2022-07-17T04:10:03.120Z,33.2788333,-115.9881667,1.66,0.85,ml,14,106,0.1054,0.24,ci,ci40064943,2022-07-17T04:16:49.388Z,"4km SW of Salton City, CA",earthquake,0.76,1.38,0.152,11,automatic,ci,ci
@@ -8,14 +9,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T03:39:55.854Z,62.1067,-145.104,20.3,1.1,ml,,,,0.51,ak,ak02293ifhtt,2022-07-17T03:42:06.143Z,"15 km NE of Silver Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-17T03:34:43.550Z,33.9936667,-117.1958333,11.14,1.33,ml,45,56,0.08087,0.22,ci,ci40064927,2022-07-17T03:38:30.321Z,"7km S of Redlands, CA",earthquake,0.26,0.51,0.14,27,automatic,ci,ci
 2022-07-17T03:33:57.880Z,33.4453333,-116.6363333,4.58,0.7,ml,26,59,0.0527,0.15,ci,ci40064919,2022-07-17T03:37:31.507Z,"13km SSE of Anza, CA",earthquake,0.2,0.32,0.166,20,automatic,ci,ci
-2022-07-17T03:22:54.780Z,38.8081665,-122.7361679,2.03,1.32,md,30,120,0.01988,0.03,nc,nc73759506,2022-07-17T03:40:12.705Z,"2km SW of Cobb, CA",earthquake,0.25,0.48,0.11,7,automatic,nc,nc
+2022-07-17T03:22:54.780Z,38.8081665,-122.7361679,2.03,1.32,md,30,120,0.01988,0.03,nc,nc73759506,2022-07-17T04:55:10.158Z,"2km SW of Cobb, CA",earthquake,0.25,0.48,0.11,7,automatic,nc,nc
 2022-07-17T03:18:39.590Z,35.66,-117.5116667,1.46,1.38,ml,16,100,0.08368,0.1,ci,ci40064911,2022-07-17T03:22:16.813Z,"15km SW of Searles Valley, CA",earthquake,0.31,0.44,0.152,17,automatic,ci,ci
 2022-07-17T03:13:54.355Z,-20.7031,-178.6136,593.61,4.3,mb,25,72,4.31,0.63,us,us6000i35w,2022-07-17T03:31:03.040Z,"Fiji region",earthquake,13,9.9,0.097,32,reviewed,us,us
 2022-07-17T03:11:49.380Z,19.1363334655762,-155.478332519531,30.6100006103516,1.75,md,18,231,,0.150000006,hv,hv73077507,2022-07-17T03:15:09.220Z,"7 km S of Pāhala, Hawaii",earthquake,1.11,1.67999995,0.479999989,5,automatic,hv,hv
 2022-07-17T03:10:42.610Z,33.1493333,-116.4126667,11.2,1.3,ml,30,53,0.1186,0.24,ci,ci40064903,2022-07-17T03:14:28.271Z,"12km SSW of Borrego Springs, CA",earthquake,0.37,0.62,0.286,22,automatic,ci,ci
 2022-07-17T03:03:18.380Z,33.7986667,-116.1133333,2.37,1.06,ml,30,77,0.09011,0.2,ci,ci40064895,2022-07-17T03:14:04.500Z,"13km NE of Indio, CA",earthquake,0.26,0.66,0.126,27,automatic,ci,ci
 2022-07-17T02:57:48.900Z,38.7866669,-122.7369995,1.67,0.97,md,16,86,0.003432,0.02,nc,nc73759496,2022-07-17T03:15:13.548Z,"2km ENE of The Geysers, CA",earthquake,0.27,0.48,0.12,4,automatic,nc,nc
-2022-07-17T02:41:47.240Z,37.6018333,-122.4531631,7.21,1.79,md,22,86,0.03277,0.08,nc,nc73759486,2022-07-17T04:27:09.989Z,"3km ESE of Pacifica, CA",earthquake,0.32,0.35,0.26,14,automatic,nc,nc
+2022-07-17T02:41:47.240Z,37.6018333,-122.4531631,7.21,1.79,md,22,86,0.03277,0.08,nc,nc73759486,2022-07-17T04:44:13.179Z,"3km ESE of Pacifica, CA",earthquake,0.32,0.35,0.26,14,automatic,nc,nc
 2022-07-17T02:37:54.321Z,-20.1384,-177.6392,488.05,4.1,mb,24,124,8.35,0.98,us,us6000i35t,2022-07-17T02:54:22.040Z,"276 km WNW of Haveluloto, Tonga",earthquake,10.9,9.3,0.068,61,reviewed,us,us
 2022-07-17T02:31:09.990Z,33.1468333,-116.419,8.26,2.26,ml,68,42,0.121,0.22,ci,ci40064887,2022-07-17T02:41:54.680Z,"13km SSW of Borrego Springs, CA",earthquake,0.21,1.06,0.175,25,automatic,ci,ci
 2022-07-17T02:25:56.430Z,33.7621667,-116.11,2.03,0.72,ml,12,92,0.09909,0.16,ci,ci40064871,2022-07-17T02:29:31.041Z,"11km ENE of Indio, CA",earthquake,0.34,0.55,0.106,11,automatic,ci,ci
