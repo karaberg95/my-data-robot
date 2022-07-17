@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T18:48:04.670Z,33.281,-115.9896667,1.04,0.86,ml,17,87,0.1077,0.34,ci,ci40065423,2022-07-17T18:51:40.451Z,"4km WSW of Salton City, CA",earthquake,0.89,31.61,0.188,12,automatic,ci,ci
 2022-07-17T18:47:03.740Z,38.8173332,-122.8239975,2.39,0.9,md,22,51,0.009372,0.02,nc,nc73759911,2022-07-17T19:25:12.594Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.2,4,automatic,nc,nc
 2022-07-17T18:46:47.950Z,38.8173332,-122.8246689,2.29,0.8,md,19,51,0.009158,0.03,nc,nc73759906,2022-07-17T19:13:12.505Z,"7km NW of The Geysers, CA",earthquake,0.27,0.44,0.31,4,automatic,nc,nc
-2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T18:44:36.781Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,automatic,ci,ci
+2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T19:51:27.141Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,reviewed,ci,ci
 2022-07-17T18:18:39.240Z,33.2726669,-115.9781647,6.18,3.38,ml,111,21,0.09891,0.23,ci,ci40065399,2022-07-17T19:08:19.292Z,"4km SW of Salton City, CA",earthquake,0.2,1.14,0.303,19,automatic,ci,ci
 2022-07-17T18:17:24.488Z,59.8282,-153.386,135.4,1.8,ml,,,,0.46,ak,ak02293r87qd,2022-07-17T18:20:51.213Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T18:03:21.000Z,33.9281667,-116.7528333,16.6,0.57,ml,20,100,0.1014,0.21,ci,ci40065391,2022-07-17T18:06:54.749Z,"3km ENE of Cabazon, CA",earthquake,0.58,1.38,0.113,14,automatic,ci,ci
@@ -106,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:22:02.645Z,40.1959,-118.2492,0,1,ml,8,163.78,0.414,0.2403,nn,nn00843120,2022-07-17T15:56:38.749Z,"19 km E of Lovelock, Nevada",earthquake,,0,0.3,3,reviewed,nn,nn
 2022-07-17T11:20:32.950Z,43.915,-110.1486667,12.23,1.78,ml,17,132,0.432,0.19,mb,mb80551709,2022-07-17T13:22:53.960Z,"50 km NE of Kelly, Wyoming",earthquake,0.54,2.04,0.175,10,reviewed,mb,mb
 2022-07-17T11:14:11.220Z,37.5558333,-118.9305,7.52,1.04,md,22,104,0.07348,0.07,nc,nc73759726,2022-07-17T16:14:10.483Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.23,0.92,0.126,17,reviewed,nc,nc
+2022-07-17T11:12:06.020Z,33.7883333,-116.9165,12.8,0.51,ml,22,83,0.1012,0.15,ci,ci40065167,2022-07-17T19:45:09.275Z,"4km E of San Jacinto, CA",earthquake,0.26,0.59,0.125,6,reviewed,ci,ci
 2022-07-17T11:05:36.590Z,18.8540000915527,-155.198333740234,7.51000022888184,2.53999996,md,20,265,,0.119999997,hv,hv73077832,2022-07-17T11:19:26.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.85,0.639999986,1.26999998,3,automatic,hv,hv
 2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
 2022-07-17T10:59:19.480Z,38.8193333,-122.8263333,2.37,0.43,md,12,114,0.007773,0.01,nc,nc73759711,2022-07-17T17:56:09.991Z,"8km NW of The Geysers, CA",earthquake,0.48,0.91,0.128,3,reviewed,nc,nc
