@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T20:42:51.460Z,35.7025,-117.5855,10.85,0.61,ml,7,141,0.1134,0.1,ci,ci40066447,2022-07-19T20:46:24.335Z,"12km NE of Ridgecrest, CA",earthquake,0.32,0.59,0.269,5,automatic,ci,ci
 2022-07-19T20:41:12.395Z,62.2406,-148.5206,31.9,1.7,ml,,,,0.44,ak,ak022973mw6f,2022-07-19T20:43:48.267Z,"49 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-19T20:32:42.487Z,64.4201,-147.156,0,1,ml,,,,0.35,ak,ak022973l120,2022-07-19T20:34:49.501Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-19T20:21:14.830Z,37.6595,-122.4996667,7.84,1.27,md,12,179,0.02329,0.05,nc,nc73760761,2022-07-19T23:58:08.478Z,"4km WSW of Colma, CA",earthquake,0.53,0.4,0.29,11,reviewed,nc,nc
 2022-07-19T20:17:23.850Z,39.427,-110.302,-1.38,1.59,ml,9,197,0.01812,0.15,uu,uu60506337,2022-07-19T21:35:44.970Z,"15 km SSE of Sunnyside, Utah",earthquake,1.05,0.66,0.066,4,reviewed,uu,uu
 2022-07-19T20:11:42.270Z,33.2708321,-115.9888306,3.29,1.42,ml,34,71,0.09752,0.25,ci,ci40066431,2022-07-19T20:22:18.640Z,"4km SW of Salton City, CA",earthquake,0.33,0.85,0.184,17,automatic,ci,ci
 2022-07-19T20:09:47.490Z,38.8283348,-122.802002,1.32,1.4,md,28,54,0.008005,0.18,nc,nc73760756,2022-07-19T23:50:14.401Z,"7km W of Cobb, CA",earthquake,0.34,0.58,0.08,7,automatic,nc,nc
