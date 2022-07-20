@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-20T07:41:15.350Z,37.6108322,-122.4974976,8.58,1.44,md,16,169,0.02463,0.05,nc,nc73760931,2022-07-20T07:42:53.154Z,"1km WSW of Pacifica, CA",earthquake,0.44,0.57,0.22,10,automatic,nc,nc
 2022-07-20T07:33:57.600Z,32.3481667,-116.7205,14.26,1.22,ml,12,210,0.05952,0.09,ci,ci40066607,2022-07-20T07:37:30.748Z,"23km NE of Primo Tapia, B.C., MX",earthquake,0.6,0.47,0.161,10,automatic,ci,ci
 2022-07-20T07:29:06.780Z,34.3223333,-119.2601667,12.68,1.46,ml,12,178,0.06374,0.25,ci,ci40066599,2022-07-20T07:32:56.217Z,"6km NNW of Ventura, CA",earthquake,0.73,1.08,0.198,23,automatic,ci,ci
 2022-07-20T07:19:29.260Z,38.8288345,-122.8151703,2.23,0.85,md,10,121,0.006734,0.01,nc,nc73760926,2022-07-20T07:36:12.334Z,"8km NW of The Geysers, CA",earthquake,0.4,0.73,,1,automatic,nc,nc
