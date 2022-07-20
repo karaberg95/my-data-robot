@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-20T11:22:42.960Z,34.0613327,-117.2464981,15.59,1.37,ml,51,71,0.05332,0.19,ci,ci40066655,2022-07-20T11:24:48.665Z,"2km NE of Loma Linda, CA",earthquake,0.28,0.57,0.221,8,automatic,ci,ci
 2022-07-20T11:09:02.601Z,65.2364,-149.3284,14.7,1.3,ml,,,,0.4,ak,ak02298lmgjy,2022-07-20T11:12:16.704Z,"9 km N of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-20T11:04:35.912Z,63.2443,-149.5616,73,1.1,ml,,,,1.69,ak,ak02298llgk4,2022-07-20T11:07:51.372Z,"34 km WSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-20T11:02:08.914Z,63.2335,-151.8724,1.3,1.2,ml,,,,0.6,ak,ak02298lkz17,2022-07-20T11:04:16.376Z,"35 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -235,8 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T11:38:36.800Z,51.9106666666667,-177.1225,5.67,-0.53,ml,6,129,,0.1,av,av91066463,2022-07-20T08:40:47.430Z,"33 km W of Adak, Alaska",earthquake,0.55,0.68,0.160739361172269,6,reviewed,av,av
 2022-07-19T11:37:47.480Z,51.9186666666667,-177.151666666667,7.07,-0.65,ml,5,140,,0.09,av,av91066458,2022-07-20T08:37:16.240Z,"35 km W of Adak, Alaska",earthquake,0.65,0.76,0.281490452864247,5,reviewed,av,av
 2022-07-19T11:27:25.910Z,38.7895012,-122.7693329,1.28,0.85,md,11,97,0.01341,0.02,nc,nc73760536,2022-07-19T12:01:10.228Z,"2km NW of The Geysers, CA",earthquake,0.28,0.66,,1,automatic,nc,nc
-2022-07-19T11:15:39.340Z,51.9208333333333,-177.159833333333,7.95,-0.49,ml,5,159,,0.03,av,av91066453,2022-07-20T08:30:38.170Z,"36 km W of Adak, Alaska",earthquake,0.6,0.6,0.233776681991729,5,reviewed,av,av
-2022-07-19T11:14:38.980Z,51.9201666666667,-177.157333333333,7.52,-0.39,ml,5,153,,0.07,av,av91066448,2022-07-20T08:27:35.330Z,"36 km W of Adak, Alaska",earthquake,0.66,0.68,0.240100856940301,6,reviewed,av,av
-2022-07-19T11:13:49.310Z,51.9148333333333,-177.145166666667,4.31,0.16,ml,6,117,,0.15,av,av91066438,2022-07-20T08:15:21.150Z,"35 km W of Adak, Alaska",earthquake,0.56,0.83,0.339016136867284,6,reviewed,av,av
-2022-07-19T11:13:35.660Z,51.919,-177.147,6.98,-0.45,ml,5,135,,0.05,av,av91066433,2022-07-20T08:12:50.030Z,"35 km W of Adak, Alaska",earthquake,0.52,0.66,0.160736029106649,5,reviewed,av,av
-2022-07-19T11:13:17.410Z,51.9183333333333,-177.142833333333,4.74,-0.16,ml,6,125,,0.16,av,av91638066,2022-07-20T08:10:12.120Z,"35 km W of Adak, Alaska",earthquake,0.61,0.57,0.383944225286696,6,reviewed,av,av
