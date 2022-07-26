@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-26T18:48:43.910Z,35.7738342,-117.6153336,10.33,0.95,ml,15,85,0.04426,0.13,ci,ci40070095,2022-07-26T18:50:48.576Z,"18km NNE of Ridgecrest, CA",earthquake,0.47,0.77,0.139,4,automatic,ci,ci
+2022-07-26T18:48:43.790Z,35.7763333,-117.6141667,11.06,0.82,ml,22,54,0.04159,0.18,ci,ci40070095,2022-07-26T18:58:35.967Z,"18km NNE of Ridgecrest, CA",earthquake,0.26,0.49,0.138,7,reviewed,ci,ci
 2022-07-26T18:39:36.524Z,38.993,-118.8675,3.6,1.2,ml,12,116.76,0.29,0.1808,nn,nn00843621,2022-07-26T18:44:24.152Z,"6 km NW of Schurz, Nevada",earthquake,,12.3,0.28,8,automatic,nn,nn
 2022-07-26T18:27:10.338Z,61.5994,-148.1609,16.2,0.9,ml,,,,0.25,ak,ak0229in4g97,2022-07-26T18:29:17.142Z,"27 km SE of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-07-26T18:23:34.940Z,38.8383331,-122.807663,2.06,0.85,md,12,58,0.01353,0,nc,nc73763056,2022-07-26T18:33:11.009Z,"8km WNW of Cobb, CA",earthquake,0.29,0.8,,1,automatic,nc,nc
@@ -178,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T22:01:00.920Z,35.9568333,-117.6866667,4.69,0.82,ml,11,139,0.1024,0.08,ci,ci40069639,2022-07-26T00:47:49.970Z,"20km E of Little Lake, CA",earthquake,0.24,0.47,0.081,5,reviewed,ci,ci
 2022-07-25T21:46:16.100Z,38.8419991,-122.807663,1.92,0.86,md,12,56,0.01399,0.01,nc,nc73762781,2022-07-25T23:19:11.050Z,"8km WNW of Cobb, CA",earthquake,0.31,0.91,,1,automatic,nc,nc
 2022-07-25T21:46:15.910Z,33.5545,-116.6596667,8.63,0.32,ml,16,103,0.02717,0.09,ci,ci40069631,2022-07-26T00:46:18.271Z,"1km E of Anza, CA",earthquake,0.22,0.55,0.123,9,reviewed,ci,ci
+2022-07-25T21:39:10.011Z,31.67897193,-104.420783,7.134179687,2,ml,12,69,0.06897503483,0.2,tx,tx2022omez,2022-07-26T18:58:41.680Z,"55 km S of Whites City, New Mexico",earthquake,1.450842469,1.587212429,0.1,6,reviewed,tx,tx
 2022-07-25T21:36:08.972Z,-45.0474,169.2465,13.3,3.3,ml,15,137,0.273,0.45,us,us7000htf6,2022-07-26T03:30:19.178Z,"3 km ESE of Cromwell, New Zealand",earthquake,3.1,5.3,0.128,8,reviewed,us,us
 2022-07-25T21:34:19.180Z,35.5051667,-118.394,7.81,1.29,ml,28,40,0.1703,0.11,ci,ci40069615,2022-07-26T00:41:59.259Z,"13km SE of Bodfish, CA",earthquake,0.15,0.8,0.094,12,reviewed,ci,ci
 2022-07-25T21:25:27.230Z,36.6635017,-121.0333328,-0.08,1.51,md,6,167,0.085,0.18,nc,nc73762776,2022-07-25T22:24:11.808Z,"18km NE of Pinnacles, CA",earthquake,3.51,13.97,0.17,7,automatic,nc,nc
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T19:06:32.520Z,38.8383331,-122.8068314,1.77,0.71,md,14,55,0.01288,0.04,nc,nc73762736,2022-07-25T19:29:22.661Z,"8km WNW of Cobb, CA",earthquake,0.27,0.64,0.14,2,automatic,nc,nc
 2022-07-25T19:05:05.840Z,34.0108333,-116.3276667,10.13,0.94,ml,10,88,0.07795,0.05,ci,ci40069503,2022-07-25T19:40:11.703Z,"14km S of Joshua Tree, CA",earthquake,0.2,0.39,0.276,11,reviewed,ci,ci
 2022-07-25T19:02:03.830Z,39.431,-110.3128333,-0.97,1.82,md,7,194,0.01174,0.06,uu,uu60030724,2022-07-26T16:30:29.280Z,"14 km SSE of Sunnyside, Utah",earthquake,0.85,0.36,0.147,6,reviewed,uu,uu
-2022-07-25T18:54:14.129Z,51.9296,174.916,35,3.5,ml,13,235,0.944,0.3,us,us7000hteb,2022-07-25T20:40:53.040Z,"155 km SE of Attu Station, Alaska",earthquake,8.3,2,0.115,10,reviewed,us,us
