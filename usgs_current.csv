@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-28T07:30:50.920Z,38.7801666,-122.7138367,2.88,0.94,md,12,101,0.01652,0.02,nc,nc73763666,2022-07-28T07:32:27.803Z,"2km WNW of Anderson Springs, CA",earthquake,0.39,0.82,0.22,3,automatic,nc,nc
+2022-07-28T07:38:01.630Z,33.5211667,-116.433,7.58,0.53,ml,15,104,0.006492,0.13,ci,ci40070967,2022-07-28T07:41:28.314Z,"20km SW of La Quinta, CA",earthquake,0.25,0.67,0.134,13,automatic,ci,ci
+2022-07-28T07:30:50.920Z,38.7801666,-122.7138367,2.88,0.94,md,12,101,0.01652,0.02,nc,nc73763666,2022-07-28T07:47:24.735Z,"2km WNW of Anderson Springs, CA",earthquake,0.39,0.82,0.22,3,automatic,nc,nc
 2022-07-28T07:19:50.220Z,19.1683330535889,-155.476837158203,37.2900009155273,1.78999996,md,38,151,,0.100000001,hv,hv73090327,2022-07-28T07:23:04.210Z,"3 km S of Pāhala, Hawaii",earthquake,0.69,0.879999995,1.58000004,7,automatic,hv,hv
 2022-07-28T07:17:36.163Z,55.8903,-159.0655,107.1,1.8,ml,,,,0.85,ak,ak0229lrlfpt,2022-07-28T07:23:59.831Z,"5 km ESE of Perryville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-28T07:16:47.510Z,33.498,-116.4911667,12.92,0.37,ml,18,104,0.06028,0.13,ci,ci40070951,2022-07-28T07:20:16.933Z,"18km ESE of Anza, CA",earthquake,0.36,0.45,0.203,8,automatic,ci,ci
@@ -207,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T07:56:47.770Z,38.7883333,-122.7543333,2.27,1.4,md,47,48,0.01297,0.09,nc,nc73763321,2022-07-28T02:28:10.660Z,"1km N of The Geysers, CA",earthquake,0.19,0.33,0.137,18,reviewed,nc,nc
 2022-07-27T07:52:15.340Z,38.7804985,-122.7645035,0.35,0.71,md,10,74,0.009811,0.04,nc,nc73763316,2022-07-27T08:43:15.132Z,"1km WNW of The Geysers, CA",earthquake,0.26,0.56,0.14,4,automatic,nc,nc
 2022-07-27T07:51:46.619Z,38.5382,-119.525,7.2,0.9,ml,18,73,0.048,0.1383,nn,nn00843656,2022-07-27T17:49:12.311Z,"3 km SSW of Coleville, California",earthquake,,1,0.14,6,reviewed,nn,nn
-2022-07-27T07:46:22.750Z,17.9161666666667,-66.9168333333333,14.73,1.78,md,6,263,,0.08,pr,pr71361223,2022-07-27T08:07:59.260Z,"6 km S of Guánica, Puerto Rico",earthquake,0.79,0.82,0.0624831763365883,5,reviewed,pr,pr
-2022-07-27T07:41:48.000Z,18.8523333333333,-155.219833333333,10.39,3.41,ml,49,262,,0.12,hv,hv73089282,2022-07-27T08:01:06.000Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.81,0.65,0.136098475662918,40,reviewed,hv,hv
-2022-07-27T07:41:44.120Z,35.8531667,-117.6901667,7.5,1.41,ml,27,57,0.07528,0.14,ci,ci40070399,2022-07-27T16:49:36.340Z,"22km ESE of Little Lake, CA",earthquake,0.19,0.53,0.222,15,reviewed,ci,ci
