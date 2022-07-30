@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T07:34:50.560Z,18.0278333333333,-66.7998333333333,16.34,2.67,md,14,119,,0.12,pr,pr71361588,2022-07-30T17:37:35.939Z,"1 km NW of Guayanilla, Puerto Rico",earthquake,0.31,0.51,0.202242500214208,6,reviewed,pr,pr
 2022-07-30T07:34:46.567Z,66.4471,-148.2573,0,1.6,ml,,,,1.15,ak,ak0229p2rndc,2022-07-30T07:38:05.305Z,"39 km WNW of Beaver, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-30T07:31:28.190Z,62.8683,-150.131,83.5,1,ml,,,,0.53,ak,ak0229p2qysz,2022-07-30T07:33:11.942Z,"46 km N of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2022-07-30T07:20:01.470Z,37.452,-118.5311667,10.47,2.29,md,32,89,0.1507,0.05,nc,nc73764306,2022-07-30T17:41:23.896Z,"7km NE of Round Valley, CA",earthquake,0.27,1.02,0.213,35,reviewed,nc,nc
+2022-07-30T07:20:01.470Z,37.452,-118.5311667,10.47,2.29,md,32,89,0.1507,0.05,nc,nc73764306,2022-07-30T18:42:10.289Z,"7km NE of Round Valley, CA",earthquake,0.27,1.02,0.213,35,reviewed,nc,nc
 2022-07-30T07:15:50.980Z,38.8253326,-122.8141632,0.97,0.85,md,9,77,0.003734,0.02,nc,nc73764301,2022-07-30T09:47:10.944Z,"7km NW of The Geysers, CA",earthquake,0.31,0.8,,1,automatic,nc,nc
 2022-07-30T07:04:22.250Z,46.197833333333335,-122.183,2.39,0.51,ml,18,85,0.002936,0.13,uw,uw61867136,2022-07-30T18:19:04.270Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.55,0.165973480436441,15,reviewed,uw,uw
 2022-07-30T07:01:26.151Z,-0.1513,124.2411,65.61,4.6,mb,53,42,1.715,0.58,us,us6000i6qx,2022-07-30T07:20:30.040Z,"151 km ESE of Gorontalo, Indonesia",earthquake,5.3,8.1,0.087,39,reviewed,us,us
