@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-31T10:40:57.948Z,63.2775,-151.37,5,1.5,ml,,,,0.35,ak,ak0229qs4luq,2022-07-31T10:42:30.297Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-31T10:23:44.770Z,38.8253326,-122.8583298,2.23,1.05,md,23,68,0.002485,0.03,nc,nc73764641,2022-07-31T10:39:18.170Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.36,0.13,5,automatic,nc,nc
 2022-07-31T10:19:31.000Z,34.0163333,-117.1026667,14.48,1.58,ml,62,29,0.02073,0.17,ci,ci40072775,2022-07-31T10:30:05.890Z,"6km NW of Calimesa, CA",earthquake,0.2,0.36,0.126,25,automatic,ci,ci
 2022-07-31T10:18:10.250Z,40.7130013,-122.2546692,17.27,2.23,md,7,182,0.182,0.13,nc,nc73764631,2022-07-31T10:26:16.091Z,"8km NNW of Bella Vista, CA",earthquake,1.54,2.04,0.12,8,automatic,nc,nc
