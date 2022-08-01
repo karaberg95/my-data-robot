@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-01T08:58:52.757Z,63.3497,-151.3473,0,1.7,ml,,,,0.87,ak,ak0229sekxmj,2022-08-01T09:01:20.518Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-01T08:57:34.440Z,46.18199920654297,-122.30982971191406,12.3000001907349,1.20000005,md,20,99,,0.159999996,uw,uw61868141,2022-08-01T08:59:35.430Z,"32 km NNE of Amboy, Washington",earthquake,0.82,1.72000003,0.400000006,3,automatic,uw,uw
+2022-08-01T08:56:01.078Z,63.0544,-149.3854,83.1,0.8,ml,,,,0.12,ak,ak0229seke7f,2022-08-01T08:57:58.076Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-08-01T08:51:56.350Z,36.0036659,-120.5693359,3.29,0.95,md,15,95,0.02715,0.04,nc,nc73765011,2022-08-01T08:53:33.813Z,"17km NW of Parkfield, CA",earthquake,0.33,0.52,0.11,5,automatic,nc,nc
+2022-08-01T08:50:54.826Z,62.3591,-148.6468,26.1,2.1,ml,,,,0.64,ak,ak0229sej827,2022-08-01T08:52:49.274Z,"63 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-01T08:37:01.963Z,61.0939,-148.3237,10.9,1.6,ml,,,,0.82,ak,ak0229segbo4,2022-08-01T08:38:51.461Z,"40 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-01T08:24:48.020Z,19.405834197998,-155.288162231445,0.620000004768372,1.79999995,md,10,76,,0.0399999991,hv,hv73094347,2022-08-01T08:27:39.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.370000005,0.949999988,7,automatic,hv,hv
 2022-08-01T08:16:52.640Z,39.3925,-119.7048,8.3,0.9,ml,8,187.86,0.046,0.2195,nn,nn00843924,2022-08-01T08:20:46.580Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.37,6,automatic,nn,nn
