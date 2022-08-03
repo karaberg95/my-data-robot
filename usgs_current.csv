@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-03T07:19:56.930Z,37.4921684,-118.8451691,7.4,1.32,md,14,147,0.09852,0.01,nc,nc73763455,2022-08-03T07:27:10.695Z,"16km WSW of Toms Place, CA",earthquake,0.4,1.55,0.17,11,automatic,nc,nc
+2022-08-03T07:23:47.470Z,37.49,-118.8451667,6.5,0.88,md,15,116,0.1007,0.02,nc,nc73763460,2022-08-03T07:44:22.083Z,"17km WSW of Toms Place, CA",earthquake,0.46,1.37,0.102,14,reviewed,nc,nc
+2022-08-03T07:19:56.930Z,37.4921684,-118.8451691,7.4,1.32,md,14,147,0.09852,0.01,nc,nc73763455,2022-08-03T07:41:22.788Z,"16km WSW of Toms Place, CA",earthquake,0.4,1.55,0.17,11,automatic,nc,nc
+2022-08-03T07:17:24.600Z,19.4526666666667,-155.602833333333,-1.1,1.52,md,11,93,,0.11,hv,hv73096997,2022-08-03T07:39:30.710Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.32,0.0443479549888962,6,reviewed,hv,hv
 2022-08-03T07:15:21.810Z,19.4676666666667,-155.602166666667,-1.5,1.43,md,11,84,,0.11,hv,hv73096987,2022-08-03T07:33:37.500Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.27,0.176889611899177,7,reviewed,hv,hv
 2022-08-03T06:54:41.050Z,19.4545,-155.601333333333,-0.94,1.64,md,10,92,,0.12,hv,hv73096932,2022-08-03T07:04:15.760Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.28,0.0193230002950643,4,reviewed,hv,hv
 2022-08-03T06:51:42.000Z,19.4858333333333,-155.589833333333,-1.06,1.42,md,14,56,,0.1,hv,hv73096922,2022-08-03T07:06:37.890Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.16,0.0303724529394155,4,reviewed,hv,hv
