@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-06T17:45:11.197Z,58.9663,-152.824,60.7,1.7,ml,,,,0.35,ak,ak022a0tjp0v,2022-08-06T17:47:15.322Z,"67 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-06T17:26:19.230Z,19.3246669769287,-155.294662475586,2.1800000667572,1.85000002,md,28,81,,0.150000006,hv,hv73100982,2022-08-06T17:29:31.370Z,"14 km SSW of Volcano, Hawaii",earthquake,0.33,0.579999983,1.05999994,12,automatic,hv,hv
 2022-08-06T17:19:52.355Z,64.3758,-149.6917,4.4,1.4,ml,,,,1.14,ak,ak022a0te7kz,2022-08-06T17:22:23.557Z,"24 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-06T17:06:00.620Z,17.9986666666667,-66.8771666666667,15.24,2.07,md,13,103,,0.16,pr,pr71363153,2022-08-06T17:18:10.200Z,"1 km SSW of Palomas, Puerto Rico",earthquake,0.56,0.42,0.115618223719519,6,reviewed,pr,pr
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T18:02:52.510Z,35.9971657,-120.5563354,0.99,0.81,md,9,88,0.02013,0.04,nc,nc73764615,2022-08-05T18:17:30.226Z,"16km NW of Parkfield, CA",earthquake,0.28,0.45,0.26,5,automatic,nc,nc
 2022-08-05T17:59:59.790Z,39.4301667,-110.3111667,-1,1.18,ml,8,179,0.01238,0.1,uu,uu60508607,2022-08-05T18:43:02.930Z,"14 km SSE of Sunnyside, Utah",earthquake,1.44,0.44,0.041,2,reviewed,uu,uu
 2022-08-05T17:54:42.229Z,34.4685,-96.826,0,1.49,ml,55,95,0.2771456146,0.48,ok,ok2022pgac,2022-08-05T18:07:17.640Z,"7 km N of Mill Creek, Oklahoma",quarry blast,,0.6,0.25,22,reviewed,ok,ok
-2022-08-05T17:43:31.840Z,32.8196667,-116.206,12.05,0.19,ml,6,130,0.09575,0.08,ci,ci40075935,2022-08-05T18:25:15.946Z,"22km WNW of Ocotillo, CA",earthquake,0.34,0.81,0.05,2,reviewed,ci,ci
