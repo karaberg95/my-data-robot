@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-06T14:02:37.410Z,19.2411670684814,-155.382339477539,32.1599998474121,1.95000005,md,41,147,,0.119999997,hv,hv73100812,2022-08-06T14:05:44.970Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.720000029,1.38,11,automatic,hv,hv
+2022-08-06T14:02:35.340Z,35.6959991,-117.5078354,1.68,1.16,ml,21,91,0.14,0.35,ci,ci40076487,2022-08-06T14:04:40.589Z,"12km SW of Searles Valley, CA",earthquake,0.56,1.32,0.106,6,automatic,ci,ci
+2022-08-06T13:53:08.480Z,33.503,-116.7801667,7.27,0.69,ml,25,66,0.0718,0.13,ci,ci40076479,2022-08-06T13:56:43.988Z,"10km NE of Aguanga, CA",earthquake,0.23,0.65,0.117,21,automatic,ci,ci
 2022-08-06T13:44:06.434Z,60.9721,-150.3412,40.4,1.5,ml,,,,0.64,ak,ak022a0r5qir,2022-08-06T13:45:51.909Z,"19 km ENE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-06T13:37:04.756Z,57.5277,-155.7022,3.1,3,ml,,,,0.5,ak,ak022a0r48dn,2022-08-06T13:39:34.109Z,"74 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-06T13:33:14.680Z,33.328,-116.6763333,29.13,0.79,ml,14,153,0.2411,0.3,ci,ci40076471,2022-08-06T13:36:50.440Z,"6km NW of Warner Springs, CA",earthquake,1.49,2.16,0.211,6,automatic,ci,ci
@@ -221,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T14:29:17.610Z,33.9348333,-116.7761667,13.84,1.05,ml,39,37,0.1035,0.12,ci,ci40075695,2022-08-05T21:52:32.450Z,"2km NNE of Cabazon, CA",earthquake,0.17,0.34,0.161,34,reviewed,ci,ci
 2022-08-05T14:17:23.339Z,57.9128,-153.6248,35.9,1.3,ml,,,,0.44,ak,ak0229z422lp,2022-08-05T14:19:39.147Z,"44 km W of Port Lions, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2022-08-05T14:10:36.100Z,18.0248333333333,-66.748,16.72,3.03,md,7,177,,0.12,pr,pr71362923,2022-08-05T16:29:35.969Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.53,1.17,0.144994786825493,6,reviewed,pr,pr
-2022-08-05T14:04:47.787Z,65.0706,-148.7249,13.5,0.6,ml,,,,0.19,ak,ak0229z3zc6l,2022-08-05T14:07:14.401Z,"30 km ESE of Minto, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-08-05T13:56:05.840Z,52.0261666666667,178.346833333333,7.52,0.43,ml,4,349,,0.11,av,av91067708,2022-08-06T02:38:41.850Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.63,3.06,0.187460044817341,4,reviewed,av,av
