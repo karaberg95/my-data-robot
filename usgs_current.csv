@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-06T04:07:14.318Z,60.9081,-149.7564,34.4,1.5,ml,,,,0.64,ak,ak022a0lkx6v,2022-08-06T04:09:13.362Z,"6 km W of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-06T04:04:25.580Z,35.517,-118.393,4.14,1.54,ml,28,37,0.1809,0.12,ci,ci40076263,2022-08-06T04:08:13.656Z,"12km SE of Bodfish, CA",earthquake,0.18,1.09,0.221,26,automatic,ci,ci
+2022-08-06T03:57:49.400Z,33.5986667,-116.8031667,8.06,0.63,ml,20,81,0.03298,0.12,ci,ci40076255,2022-08-06T04:01:18.442Z,"13km WNW of Anza, CA",earthquake,0.22,0.47,0.171,20,automatic,ci,ci
+2022-08-06T03:54:00.900Z,33.3246667,-116.3373333,9.6,0.65,ml,13,180,0.04419,0.15,ci,ci40076247,2022-08-06T03:57:29.600Z,"8km NNE of Borrego Springs, CA",earthquake,0.63,0.6,0.161,13,automatic,ci,ci
 2022-08-06T03:16:42.020Z,35.796,-117.553,9.14,0.95,ml,7,284,0.0412,0.16,ci,ci40076239,2022-08-06T03:20:14.529Z,"14km WNW of Searles Valley, CA",earthquake,1.84,0.67,0.16,9,automatic,ci,ci
-2022-08-06T03:15:07.323Z,24.5486,-109.1394,10,4.7,mb,48,98,1.131,1.04,us,us6000i8kr,2022-08-06T03:52:27.985Z,"111 km NNE of Los Barriles, Mexico",earthquake,4.67,1.924,0.037,230,reviewed,us,us
+2022-08-06T03:15:07.323Z,24.5486,-109.1394,10,4.7,mb,48,98,1.131,1.04,us,us6000i8kr,2022-08-06T04:12:46.924Z,"111 km NNE of Los Barriles, Mexico",earthquake,4.67,1.924,0.037,230,reviewed,us,us
 2022-08-06T03:14:59.800Z,34.1491667,-116.5546667,0.53,0.98,ml,13,144,0.1323,0.19,ci,ci40076231,2022-08-06T03:18:26.559Z,"12km NNE of Morongo Valley, CA",earthquake,0.43,0.59,0.097,21,automatic,ci,ci
 2022-08-06T03:14:15.560Z,35.8408333,-117.646,13.68,0.73,ml,9,124,0.04669,0.17,ci,ci40076223,2022-08-06T03:17:52.040Z,"23km WNW of Searles Valley, CA",earthquake,0.76,1.07,0.079,7,automatic,ci,ci
 2022-08-06T03:11:08.650Z,33.5789986,-116.8208313,9.36,0.67,ml,24,61,0.05562,0.19,ci,ci40076215,2022-08-06T03:14:38.361Z,"14km W of Anza, CA",earthquake,0.45,1.26,0.135,6,automatic,ci,ci
@@ -12,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T02:40:44.200Z,33.546,-116.4591667,8.07,0.7,ml,24,48,0.03591,0.2,ci,ci40076183,2022-08-06T02:44:14.172Z,"19km SW of La Quinta, CA",earthquake,0.33,0.61,0.154,16,automatic,ci,ci
 2022-08-06T02:38:45.514Z,-4.4903,138.257,10,4.8,mb,36,127,6.195,1.18,us,us6000i8km,2022-08-06T03:02:08.040Z,"Papua, Indonesia",earthquake,11.78,1.902,0.086,44,reviewed,us,us
 2022-08-06T02:33:18.200Z,19.2026672363281,-155.414505004883,37.2099990844727,2.32999992,md,36,158,,0.159999996,hv,hv73100332,2022-08-06T02:36:21.810Z,"6 km E of Pāhala, Hawaii",earthquake,0.73,0.939999998,1.39999998,8,automatic,hv,hv
-2022-08-06T02:22:19.570Z,38.7813339,-122.722168,0.89,0.47,md,8,108,0.01982,0.01,nc,nc73764750,2022-08-06T02:37:17.334Z,"3km WNW of Anderson Springs, CA",earthquake,0.83,2.11,0.07,2,automatic,nc,nc
+2022-08-06T02:22:19.570Z,38.7813339,-122.722168,0.89,0.47,md,8,108,0.01982,0.01,nc,nc73764750,2022-08-06T04:12:11.053Z,"3km WNW of Anderson Springs, CA",earthquake,0.83,2.11,0.07,2,automatic,nc,nc
 2022-08-06T01:41:31.681Z,25.3148,141.366,158.91,4.5,mb,37,114,7.89,0.82,us,us6000i8kj,2022-08-06T01:58:34.040Z,"Volcano Islands, Japan region",earthquake,10.78,7.432,0.069,62,reviewed,us,us
 2022-08-06T01:37:21.300Z,19.1338329315186,-155.374496459961,29.1900005340576,1.87,md,38,192,,0.109999999,hv,hv73100277,2022-08-06T01:40:33.700Z,"13 km SE of Pāhala, Hawaii",earthquake,0.86,1.16999996,0.519999981,7,automatic,hv,hv
 2022-08-06T01:31:21.410Z,34.1671667,-117.747,9.9,1.27,ml,35,31,0.09019,0.23,ci,ci40076167,2022-08-06T01:35:02.992Z,"8km NNE of La Verne, CA",earthquake,0.32,0.69,0.186,30,automatic,ci,ci
@@ -254,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T04:25:42.280Z,33.6548333,-116.717,5.7,0.1,ml,10,154,0.05624,0.18,ci,ci40075487,2022-08-05T04:29:09.141Z,"10km S of Idyllwild, CA",earthquake,0.57,0.85,0.081,5,automatic,ci,ci
 2022-08-05T04:24:22.650Z,39.4195,-110.2735,-3.41,1.61,ml,6,208,0.04023,0.18,uu,uu60508542,2022-08-05T15:53:39.350Z,"17 km SE of Sunnyside, Utah",earthquake,2.54,4.84,0.099,4,reviewed,uu,uu
 2022-08-05T04:19:51.130Z,18.0198333333333,-66.8095,15.92,2.34,md,6,162,,0.12,pr,pr71362708,2022-08-05T04:44:54.500Z,"1 km W of Guayanilla, Puerto Rico",earthquake,0.63,1.06,0.0153751366751156,4,reviewed,pr,pr
-2022-08-05T04:13:19.520Z,33.5021667,-116.4961667,11.78,0.67,ml,14,135,0.06257,0.16,ci,ci40075479,2022-08-05T04:16:51.065Z,"18km ESE of Anza, CA",earthquake,0.61,1.05,0.415,10,automatic,ci,ci
-2022-08-05T04:11:02.700Z,36.8198318,-121.5481644,5.13,1.13,md,12,103,0.03314,0.1,nc,nc73764425,2022-08-05T08:36:11.595Z,"3km SSW of San Juan Bautista, CA",earthquake,0.54,0.73,0.17,9,automatic,nc,nc
-2022-08-05T04:04:33.152Z,62.8336,-149.4855,74.8,1.4,ml,,,,0.44,ak,ak0229yy0z03,2022-08-05T04:06:38.312Z,"53 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-05T03:59:57.980Z,19.4905,-155.587833333333,-1.53,1.55,md,14,59,,0.15,hv,hv73099282,2022-08-05T04:16:03.750Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.28,0.0379159984760657,5,reviewed,hv,hv
