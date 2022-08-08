@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-08T22:37:43.000Z,38.5873337,-119.4543304,5.7,2.79,md,11,149,0.05138,0.09,nc,nc73765685,2022-08-08T22:39:18.574Z,"8km NNE of Walker, CA",earthquake,0.45,0.67,0.17,15,automatic,nc,nc
+2022-08-08T22:39:15.620Z,38.5921669,-119.4593353,6.04,2.65,md,8,120,0.04784,0.03,nc,nc73765690,2022-08-08T22:42:26.541Z,"9km NNE of Walker, CA",earthquake,0.43,0.61,0.22,10,automatic,nc,nc
+2022-08-08T22:37:43.000Z,38.5873337,-119.4543304,5.7,2.79,md,11,149,0.05138,0.09,nc,nc73765685,2022-08-08T22:43:09.801Z,"8km NNE of Walker, CA",earthquake,0.45,0.67,0.17,15,automatic,nc,nc
 2022-08-08T22:33:23.374Z,38.5754,-119.4489,3.8,1.4,ml,15,63.78,0.057,0.2523,nn,nn00844447,2022-08-08T22:36:32.915Z,"5 km E of Coleville, California",earthquake,,0.7,0.26,9,automatic,nn,nn
 2022-08-08T22:19:04.300Z,38.5904999,-119.4601669,5.96,2.48,md,8,145,0.047,0.02,nc,nc73765675,2022-08-08T22:25:10.682Z,"9km NNE of Walker, CA",earthquake,0.42,0.54,0.21,9,automatic,nc,nc
 2022-08-08T22:06:47.440Z,19.4113330841064,-155.337661743164,4.67000007629395,1.86000001,md,21,74,,0.150000006,hv,hv73103292,2022-08-08T22:10:03.780Z,"11 km WSW of Volcano, Hawaii",earthquake,0.32,1.32000005,1.19000006,10,automatic,hv,hv
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T21:36:04.472Z,42.607,-111.4719,5,2.6,ml,21,85,0.316,0.45,us,us6000i96z,2022-08-08T22:22:11.810Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.04,1.855,0.041,78,reviewed,us,us
 2022-08-08T21:23:25.283Z,61.8591,-149.265,20,1.2,ml,,,,0.64,ak,ak022a46vfrk,2022-08-08T21:25:15.719Z,"12 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-08T21:19:46.952Z,59.2952,-153.86,100,1.5,ml,,,,0.4,ak,ak022a46umkn,2022-08-08T21:31:14.401Z,"46 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-08-08T21:16:22.570Z,38.5898323,-119.4410019,4.29,2.58,md,9,93,0.06193,0.05,nc,nc73765630,2022-08-08T22:26:00.510Z,"9km NNE of Walker, CA",earthquake,0.47,0.97,0.29,11,automatic,nc,nc
+2022-08-08T21:16:22.570Z,38.5898323,-119.4410019,4.29,2.58,md,9,93,0.06193,0.05,nc,nc73765630,2022-08-08T22:43:12.649Z,"9km NNE of Walker, CA",earthquake,0.47,0.97,0.29,11,automatic,nc,nc
 2022-08-08T21:15:34.980Z,38.588665,-119.4558334,6.54,1.96,md,5,148,0.05025,0.02,nc,nc73765620,2022-08-08T22:30:41.184Z,"8km NNE of Walker, CA",earthquake,0.53,0.73,0.11,5,automatic,nc,nc
 2022-08-08T21:13:09.894Z,40.3799,-126.3451,10,3,ml,13,272,1.699,0.47,us,us6000i96u,2022-08-08T21:34:32.040Z,"177 km W of Ferndale, California",earthquake,4.48,2.024,0.039,86,reviewed,us,us
 2022-08-08T21:08:58.190Z,33.503,-116.7835,6.47,0.74,ml,28,63,0.07323,0.21,ci,ci40077719,2022-08-08T21:12:33.037Z,"10km NE of Aguanga, CA",earthquake,0.31,0.85,0.102,18,automatic,ci,ci
@@ -29,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T20:06:25.660Z,37.5663333,-118.9256667,9.38,1.71,md,26,101,0.04644,0.03,nc,nc73765550,2022-08-08T22:21:15.658Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.56,0.135,24,reviewed,nc,nc
 2022-08-08T20:03:46.110Z,17.8521666666667,-66.8976666666667,13.29,2.04,md,10,253,,0.07,pr,pr71364128,2022-08-08T20:11:14.710Z,"13 km S of Guánica, Puerto Rico",earthquake,0.55,0.35,0.0730950417141654,7,reviewed,pr,pr
 2022-08-08T20:02:16.224Z,38.5606,-119.5299,6.9,1.4,ml,14,70.67,0.027,0.1417,nn,nn00844412,2022-08-08T20:47:09.360Z,"2 km WSW of Coleville, California",earthquake,,1,0.36,6,reviewed,nn,nn
+2022-08-08T19:56:12.870Z,45.828,-123.61516666666667,-0.44,1.3800000000000001,ml,7,147,0.1283,0.38,uw,uw61861152,2022-08-08T22:46:19.060Z,"24 km ENE of Nehalem, Oregon",explosion,1.05,31.61,0.1423473406598117,4,reviewed,uw,uw
 2022-08-08T19:56:06.960Z,33.8418333,-116.1876667,7.34,0.82,ml,13,77,0.08424,0.21,ci,ci40077647,2022-08-08T19:59:30.681Z,"14km N of Indio, CA",earthquake,0.41,1.39,0.131,20,automatic,ci,ci
 2022-08-08T19:46:53.620Z,17.9758333333333,-66.979,6.56,2.23,md,11,172,,0.07,pr,pr71364118,2022-08-08T19:58:36.050Z,"6 km W of Fuig, Puerto Rico",earthquake,0.33,0.25,0.073710566859603,5,reviewed,pr,pr
 2022-08-08T19:42:19.920Z,17.9711666666667,-66.9783333333333,6.12,2.63,md,28,180,,0.1,pr,pr71364108,2022-08-08T20:02:12.580Z,"Puerto Rico region",earthquake,0.28,0.19,0.187232966540737,15,reviewed,pr,pr
