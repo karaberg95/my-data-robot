@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-10T04:46:56.377Z,38.5724,-119.4692,8.9,1,ml,8,128.49,0.042,0.1257,nn,nn00844631,2022-08-10T04:51:40.813Z,"California-Nevada border region",earthquake,,1.9,0.15,7,automatic,nn,nn
 2022-08-10T04:44:51.970Z,34.2873333,-118.4905,11.87,1.06,ml,18,72,0.01075,0.22,ci,ci40078823,2022-08-10T04:48:20.843Z,"2km NNE of Granada Hills, CA",earthquake,0.52,0.83,0.229,27,automatic,ci,ci
 2022-08-10T04:39:01.530Z,35.6176667,-117.5565,7.59,1.87,ml,20,81,0.1717,0.11,ci,ci40078815,2022-08-10T04:42:40.612Z,"11km E of Ridgecrest, CA",earthquake,0.23,1.47,0.076,26,automatic,ci,ci
 2022-08-10T04:38:42.370Z,38.8136673,-122.8221664,3.34,0.25,md,10,61,0.007278,0.02,nc,nc73766170,2022-08-10T04:47:11.941Z,"7km NW of The Geysers, CA",earthquake,0.39,1.34,0.11,2,automatic,nc,nc
@@ -51,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T23:38:51.670Z,33.2335,-116.7358333,11.24,1.55,ml,55,23,0.01937,0.19,ci,ci40078719,2022-08-09T23:42:34.785Z,"3km ESE of Lake Henshaw, CA",earthquake,0.21,0.53,0.146,26,automatic,ci,ci
 2022-08-09T23:34:42.900Z,17.9771666666667,-66.841,16.45,2.21,md,11,178,,0.11,pr,pr71364693,2022-08-09T23:45:34.590Z,"2 km SW of Indios, Puerto Rico",earthquake,0.4,0.53,0.136270070246405,9,reviewed,pr,pr
 2022-08-09T23:30:11.890Z,17.9231666666667,-67.024,14.28,1.81,md,5,247,,0.08,pr,pr71364683,2022-08-09T23:40:02.400Z,"6 km SSE of La Parguera, Puerto Rico",earthquake,0.8,0.91,0.0265604082867616,4,reviewed,pr,pr
+2022-08-09T23:29:14.320Z,45.86066666666667,-122.43433333333333,-1.03,1.52,ml,15,174,0.07261,0.18,uw,uw61861617,2022-08-10T04:53:22.420Z,"2 km WSW of Yacolt, Washington",explosion,0.76,31.61,0.15843936104877188,14,reviewed,uw,uw
 2022-08-09T23:26:46.342Z,44.2935,-115.1071,14.065,2.6,ml,24,65,0.886,0.71,us,us6000i9jl,2022-08-10T00:20:26.040Z,"15 km WNW of Stanley, Idaho",earthquake,2.55,8.585,0.041,78,reviewed,us,us
 2022-08-09T23:26:34.700Z,35.027,-117.6721667,0.28,1.32,ml,13,122,0.09449,0.26,ci,ci40078703,2022-08-09T23:30:14.994Z,"4km NNW of Boron, CA",quarry blast,0.88,31.61,0.106,16,automatic,ci,ci
 2022-08-09T23:15:22.690Z,38.7596664,-122.7336655,1.41,1.72,md,26,76,0.01096,0.05,nc,nc73766090,2022-08-10T03:26:17.191Z,"3km SE of The Geysers, CA",earthquake,0.33,0.46,0.03,9,automatic,nc,nc
