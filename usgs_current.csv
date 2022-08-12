@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-12T19:20:57.197Z,64.8625,-147.3714,16.3,1,ml,,,,0.2,ak,ak022aartduf,2022-08-12T19:23:26.925Z,"10 km NE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-12T19:18:09.181Z,64.7388,-147.3723,4.7,0.9,ml,,,,1.04,ak,ak022aarsupi,2022-08-12T19:20:19.484Z,"1 km SW of North Pole, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-08-12T19:16:13.250Z,33.2275,-116.7453333,2.44,0.83,ml,22,44,0.08693,0.18,ci,ci40324344,2022-08-12T19:19:41.164Z,"2km SE of Lake Henshaw, CA",earthquake,0.29,0.65,0.11,16,automatic,ci,ci
 2022-08-12T19:07:23.490Z,34.9905,-118.199,0.28,1.46,ml,21,57,0.114,0.32,ci,ci40324336,2022-08-12T19:11:03.120Z,"7km SSW of Mojave, CA",earthquake,0.55,31.61,0.19,34,automatic,ci,ci
@@ -8,7 +9,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T19:01:20.390Z,38.8149986,-122.8308334,2.36,0.74,md,14,64,0.006257,0.02,nc,nc73767375,2022-08-12T19:10:10.242Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.75,0.11,2,automatic,nc,nc
 2022-08-12T18:37:56.800Z,37.9888344,-122.4485016,1.56,1.45,md,9,116,0.02449,0.05,nc,nc73767370,2022-08-12T18:54:11.148Z,"7km E of Santa Venetia, CA",earthquake,0.36,0.55,0.17,8,automatic,nc,nc
 2022-08-12T18:35:18.980Z,38.8301659,-122.8131638,1.96,1.79,md,31,46,0.007179,0.02,nc,nc73767365,2022-08-12T19:21:14.308Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.07,9,automatic,nc,nc
+2022-08-12T18:28:42.453Z,53.6476,-164.8994,54.4,2.1,ml,,,,0.27,ak,ak022aar9ngc,2022-08-12T19:30:18.461Z,"79 km SE of Akutan, Alaska",earthquake,,3,,,reviewed,ak,ak
 2022-08-12T18:07:22.691Z,58.4251,-154.8633,91.6,1.4,ml,,,,0.64,ak,ak022aar53b9,2022-08-12T18:11:17.268Z,"98 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-12T18:02:17.960Z,51.7509,178.5566,95.6,3,ml,,,,0.37,ak,ak022aar40o4,2022-08-12T19:24:10.952Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-08-12T17:45:22.786Z,63.018,-151.1973,109.3,1.3,ml,,,,3.53,ak,ak022aaqrsvq,2022-08-12T17:47:28.529Z,"62 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-08-12T17:35:34.010Z,37.5201667,-118.8481667,6.89,0.59,md,13,158,0.07136,0.02,nc,nc73767360,2022-08-12T19:01:12.186Z,"16km WSW of Toms Place, CA",earthquake,0.7,0.86,0.103,10,reviewed,nc,nc
 2022-08-12T17:25:46.160Z,33.485,-116.4645,10.83,0.99,ml,33,59,0.05018,0.26,ci,ci40324272,2022-08-12T17:29:19.658Z,"21km ESE of Anza, CA",earthquake,0.34,0.71,0.175,29,automatic,ci,ci
@@ -262,5 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T19:54:13.530Z,39.4331667,-110.314,-1.09,1.28,ml,9,178,0.01249,0.12,uu,uu60509442,2022-08-11T20:04:53.260Z,"14 km SSE of Sunnyside, Utah",earthquake,1.07,0.33,0.069,3,reviewed,uu,uu
 2022-08-11T19:36:44.800Z,19.2434997558594,-155.397003173828,32.1699981689453,1.99000001,md,21,155,,0.119999997,hv,hv73106097,2022-08-11T19:40:01.830Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.8,0.860000014,1.74000001,6,automatic,hv,hv
 2022-08-11T19:31:46.590Z,39.4316667,-110.3146667,-0.99,1.43,ml,8,178,0.01106,0.07,uu,uu60509437,2022-08-11T20:00:44.190Z,"14 km SSE of Sunnyside, Utah",earthquake,0.93,0.24,0.113,4,reviewed,uu,uu
-2022-08-11T19:27:08.340Z,34.494,-118.6591667,1.09,1.48,ml,28,107,0.06971,0.22,ci,ci40323696,2022-08-12T16:18:59.132Z,"3km W of Castaic, CA",earthquake,0.24,0.41,0.118,10,reviewed,ci,ci
-2022-08-11T19:25:06.940Z,33.8463333,-117.4916667,1.93,1.17,ml,49,33,0.04837,0.15,ci,ci40323688,2022-08-12T14:42:20.462Z,"4km SE of Home Gardens, CA",quarry blast,0.2,0.31,0.108,18,reviewed,ci,ci
