@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T07:54:57.989Z,62.2431,-141.5951,6.5,1.5,ml,,,,0.38,ak,ak022ac8etgr,2022-08-13T07:57:05.024Z,"53 km SSW of Alcan Border, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-13T07:43:16.230Z,63.7467,-149.577,76.6,1.2,ml,,,,1.74,ak,ak022ac8cddz,2022-08-13T07:46:01.114Z,"32 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-13T07:38:06.086Z,38.5838,-119.4354,5.2,0.9,ml,13,90.27,0.066,0.0859,nn,nn00844887,2022-08-13T07:40:48.077Z,"6 km ENE of Coleville, California",earthquake,,1.2,0.23,9,automatic,nn,nn
-2022-08-13T07:34:38.400Z,35.803833,-120.3544998,9.1,1.27,md,20,115,0.02819,0.06,nc,nc73767585,2022-08-13T09:39:10.672Z,"10km NNW of Cholame, CA",earthquake,0.72,0.56,0.04,6,automatic,nc,nc
+2022-08-13T07:34:38.400Z,35.803833,-120.3544998,9.1,1.27,md,20,115,0.02819,0.06,nc,nc73767585,2022-08-13T09:44:15.550Z,"10km NNW of Cholame, CA",earthquake,0.72,0.56,0.04,6,automatic,nc,nc
 2022-08-13T07:25:36.240Z,41.132,-123.882,28.27,3.17,ml,60,56,0.1097,0.14,nc,nc73767575,2022-08-13T09:26:10.411Z,"16km WSW of Weitchpec, CA",earthquake,0.25,0.54,0.271,24,reviewed,nc,nc
 2022-08-13T07:12:30.490Z,38.8351669,-122.8011703,2.34,0.89,md,20,59,0.009054,0.02,nc,nc73767570,2022-08-13T09:02:12.336Z,"7km WNW of Cobb, CA",earthquake,0.24,0.52,0.18,4,automatic,nc,nc
 2022-08-13T07:10:06.959Z,8.6327,-71.5237,10,4.4,mb,28,152,3.084,0.73,us,us6000iaha,2022-08-13T07:40:29.199Z,"14 km E of El Vigía, Venezuela",earthquake,8.7,2,0.381,2,reviewed,us,us
@@ -240,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-12T10:05:50.600Z,64.5116,-149.3579,11.7,0.7,ml,,,,0.29,ak,ak022aamd95g,2022-08-12T10:07:40.171Z,"13 km WSW of Nenana, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-12T10:02:25.060Z,47.86216666666667,-123.25716666666666,43.45,2.56,ml,50,28,0.1952,0.21,uw,uw61862587,2022-08-12T18:58:32.100Z,"24 km SSW of River Road, Washington",earthquake,0.31,0.65,0.159937953294355,43,reviewed,uw,uw
 2022-08-12T09:53:39.456Z,43.9104,-129.6188,10,3.9,mb,53,214,4.033,0.37,us,us6000ia6p,2022-08-12T10:31:27.040Z,"off the coast of Oregon",earthquake,12.58,2.009,0.229,5,reviewed,us,us
-2022-08-12T09:49:32.490Z,35.2438333,-120.5513333,10.87,1.19,md,35,68,0.0969,0.15,nc,nc73767245,2022-08-12T21:20:14.044Z,"11km ESE of San Luis Obispo, CA",earthquake,0.22,0.56,0.153,14,reviewed,nc,nc
-2022-08-12T09:47:54.147Z,38.5974,-119.4422,0,1.1,ml,13,65.27,0.062,0.2791,nn,nn00844834,2022-08-12T09:51:01.478Z,"6 km ENE of Coleville, California",earthquake,,0.5,0.27,10,automatic,nn,nn
