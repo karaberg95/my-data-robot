@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-14T19:44:56.860Z,37.6071663,-118.9013367,2.47,0.67,md,8,204,0.01892,0.01,nc,nc73768100,2022-08-14T19:46:33.417Z,"8km ESE of Mammoth Lakes, CA",earthquake,0.79,0.85,0.16,7,automatic,nc,nc
+2022-08-14T19:53:22.200Z,38.7986679,-122.7774963,3.23,0.92,md,25,68,0.009816,0.03,nc,nc73768105,2022-08-14T19:54:58.534Z,"3km NW of The Geysers, CA",earthquake,0.26,0.5,0.11,4,automatic,nc,nc
+2022-08-14T19:44:56.860Z,37.6071663,-118.9013367,2.47,0.67,md,8,204,0.01892,0.01,nc,nc73768100,2022-08-14T19:54:09.876Z,"8km ESE of Mammoth Lakes, CA",earthquake,0.79,0.85,0.16,7,automatic,nc,nc
 2022-08-14T19:33:37.530Z,38.793335,-122.802002,2.98,0.63,md,19,46,0.005071,0.02,nc,nc73768095,2022-08-14T19:41:10.959Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.6,0.32,4,automatic,nc,nc
 2022-08-14T19:29:32.752Z,38.335,-118.8842,0,0.7,ml,8,185.91,0.309,0.1052,nn,nn00844972,2022-08-14T19:33:39.935Z,"30 km SW of Hawthorne, Nevada",earthquake,,81.5,0.3,5,automatic,nn,nn
 2022-08-14T19:24:23.350Z,38.795166,-122.7294998,2.36,0.86,md,11,103,0.01318,0.02,nc,nc73768090,2022-08-14T19:40:15.787Z,"3km S of Cobb, CA",earthquake,0.36,1.04,0.01,2,automatic,nc,nc
@@ -90,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T09:35:50.870Z,33.6861667,-116.7583333,14.66,0.47,ml,20,137,0.04447,0.16,ci,ci40325248,2022-08-14T14:17:28.581Z,"7km SSW of Idyllwild, CA",earthquake,0.5,0.4,0.091,10,reviewed,ci,ci
 2022-08-14T09:22:43.210Z,36.4575,-117.9715,5.29,1.83,ml,18,129,0.1644,0.21,ci,ci40325240,2022-08-14T09:32:57.070Z,"17km SSE of Lone Pine, CA",earthquake,0.66,3.47,0.229,18,automatic,ci,ci
 2022-08-14T09:18:45.217Z,60.9094,-150.7988,2.5,2,ml,,,,0.67,ak,ak022adwxafd,2022-08-14T17:31:33.405Z,"6 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-14T09:15:34.060Z,37.4353333,-118.5658333,13.09,1.52,md,18,185,0.1829,0.05,nc,nc73767940,2022-08-14T19:51:52.435Z,"4km NE of Round Valley, CA",earthquake,0.62,31.61,0.101,14,reviewed,nc,nc
+2022-08-14T09:15:34.060Z,37.4353333,-118.5658333,13.09,1.52,md,18,185,0.1829,0.05,nc,nc73767940,2022-08-14T19:58:10.906Z,"4km NE of Round Valley, CA",earthquake,0.62,31.61,0.101,14,reviewed,nc,nc
 2022-08-14T09:14:22.880Z,19.1455001831055,-155.357498168945,29.0100002288818,1.88,md,38,188,,0.129999995,hv,hv73108687,2022-08-14T09:17:35.100Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.65,0.910000026,0.939999998,3,automatic,hv,hv
 2022-08-14T09:10:11.860Z,33.6021667,-116.8093333,5.79,0.2,ml,10,101,0.03869,0.08,ci,ci40325232,2022-08-14T14:17:55.308Z,"14km WNW of Anza, CA",earthquake,0.29,0.53,0.113,5,reviewed,ci,ci
 2022-08-14T09:01:42.448Z,-30.7003,-71.4842,45.757,4.8,mb,58,98,0.133,0.62,us,us6000iaqm,2022-08-14T18:53:49.995Z,"29 km WSW of Ovalle, Chile",earthquake,4.39,5.845,0.043,165,reviewed,us,us
