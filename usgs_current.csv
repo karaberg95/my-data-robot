@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-15T15:26:57.240Z,36.5921669,-121.1906662,7.14,2.07,md,23,124,0.02086,0.09,nc,nc73768385,2022-08-15T15:33:14.142Z,"8km NNW of Pinnacles, CA",earthquake,0.33,1.15,0.16,23,automatic,nc,nc
-2022-08-15T15:23:38.060Z,64.333,-147.4653,0,1,ml,,,,0.21,ak,ak022afo2aku,2022-08-15T15:25:27.834Z,"34 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-15T15:00:32.000Z,38.7976685,-122.751503,2.19,0.46,md,11,95,0.007061,0.04,nc,nc73768380,2022-08-15T15:18:13.056Z,"2km N of The Geysers, CA",earthquake,0.33,0.89,0.41,2,automatic,nc,nc
+2022-08-15T15:23:38.060Z,64.333,-147.4653,0,1,ml,,,,0.21,ak,ak022afo2aku,2022-08-15T15:41:37.682Z,"34 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-08-15T15:00:32.000Z,38.7976685,-122.751503,2.19,0.46,md,11,95,0.007061,0.04,nc,nc73768380,2022-08-15T15:48:10.233Z,"2km N of The Geysers, CA",earthquake,0.33,0.89,0.41,2,automatic,nc,nc
 2022-08-15T14:59:50.932Z,61.8022,-151.2019,68.3,1.2,ml,,,,0.62,ak,ak022afnolqt,2022-08-15T15:02:00.113Z,"23 km SSE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-15T14:51:21.050Z,38.767334,-122.7391663,0.83,0.95,md,14,78,0.01257,0.05,nc,nc73768375,2022-08-15T15:23:17.082Z,"2km SE of The Geysers, CA",earthquake,0.26,0.48,0.14,4,automatic,nc,nc
 2022-08-15T14:20:14.770Z,33.6018333,-116.8061667,6.64,0.54,ml,22,78,0.03604,0.15,ci,ci40325832,2022-08-15T14:23:40.100Z,"13km WNW of Anza, CA",earthquake,0.27,0.53,0.235,13,automatic,ci,ci
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T11:50:46.053Z,63.6624,-149.4552,105.1,1.9,ml,,,,0.38,ak,ak022aflud3x,2022-08-15T11:52:56.157Z,"27 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-15T11:49:19.790Z,17.9818333333333,-66.8375,16.14,2.54,md,10,154,,0.08,pr,pr71366078,2022-08-15T13:19:20.500Z,"Puerto Rico region",earthquake,0.39,0.57,0.249765377103229,8,reviewed,pr,pr
 2022-08-15T11:49:19.079Z,60.0006,-151.9095,56.4,1.7,ml,,,,0.39,ak,ak022aflu3b7,2022-08-15T11:50:51.995Z,"11 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-15T11:48:08.830Z,61.5733,-147.0788,17.6,2.3,ml,,,,0.94,ak,ak022afltusj,2022-08-15T11:57:48.040Z,"40 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-08-15T11:48:08.830Z,61.5733,-147.0788,17.6,2.3,ml,,,,0.94,ak,ak022afltusj,2022-08-15T15:43:33.831Z,"40 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-15T11:10:05.752Z,-5.7194,110.3551,552.005,4.8,mb,74,26,1.324,0.61,us,us6000iaz4,2022-08-15T11:26:12.040Z,"93 km NNW of Batang, Indonesia",earthquake,9.77,3.181,0.052,117,reviewed,us,us
 2022-08-15T11:06:04.380Z,44.7768333,-110.8056667,6.05,2.32,ml,22,92,0.03393,0.17,uu,uu60509907,2022-08-15T13:14:26.880Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.36,0.82,0.226,6,reviewed,uu,uu
 2022-08-15T11:04:18.394Z,38.2114,-117.7487,9.6,2.2,ml,23,136.74,0.138,0.2023,nn,nn00845018,2022-08-15T11:07:39.488Z,"37 km ESE of Mina, Nevada",earthquake,,0.4,0.66,12,automatic,nn,nn
