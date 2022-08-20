@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T15:18:29.090Z,34.1548333,-117.4508333,9.44,0.74,ml,20,108,0.08037,0.11,ci,ci40328376,2022-08-19T17:54:03.963Z,"6km N of Fontana, CA",earthquake,0.25,0.46,0.126,9,reviewed,ci,ci
 2022-08-19T15:02:06.680Z,18.025,-66.8553333333333,16.14,2.48,md,11,107,,0.16,pr,pr71366998,2022-08-19T15:38:50.210Z,"1 km SSW of Yauco, Puerto Rico",earthquake,0.51,1.03,0.125807852843833,6,reviewed,pr,pr
 2022-08-19T15:01:01.092Z,62.9237,-151.0966,32,1.4,ml,,,,0.99,ak,ak022ama2vy5,2022-08-19T15:03:40.962Z,"50 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-19T14:56:39.930Z,33.1748333,-115.655,3.01,1.7,ml,47,42,0.02843,0.24,ci,ci40328368,2022-08-19T18:24:49.440Z,"14km WNW of Calipatria, CA",earthquake,0.27,0.36,0.158,25,reviewed,ci,ci
