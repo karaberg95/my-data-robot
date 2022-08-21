@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-21T21:17:42.030Z,38.8255005,-122.7973328,-0.78,2.06,md,33,56,0.01017,0.06,nc,nc73770495,2022-08-21T21:19:18.477Z,"6km NNW of The Geysers, CA",earthquake,0.14,0.37,0.07,8,automatic,nc,nc
+2022-08-21T21:17:42.030Z,38.8255005,-122.7973328,-0.78,2.06,md,33,56,0.01017,0.06,nc,nc73770495,2022-08-21T21:24:14.979Z,"6km NNW of The Geysers, CA",earthquake,0.14,0.37,0.07,8,automatic,nc,nc
 2022-08-21T21:15:02.360Z,34.1516667,-117.3176667,10.79,0.93,ml,18,79,0.06785,0.24,ci,ci40329392,2022-08-21T21:18:39.185Z,"2km E of Muscoy, CA",earthquake,0.42,0.89,0.22,22,automatic,ci,ci
 2022-08-21T21:12:32.280Z,33.8298333,-116.1838333,6.36,0.85,ml,18,111,0.04551,0.13,ci,ci40329384,2022-08-21T21:16:06.474Z,"12km NNE of Indio, CA",earthquake,0.29,0.72,0.149,22,automatic,ci,ci
 2022-08-21T20:27:39.120Z,19.1573333740234,-155.491668701172,30.5400009155273,1.83000004,md,24,245,,0.239999995,hv,hv73116917,2022-08-21T20:31:01.900Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.33,1.69000006,0.460000008,5,automatic,hv,hv
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T21:39:21.300Z,36.8048325,-121.5240021,9.03,1.37,md,9,76,0.02141,0.14,nc,nc73770185,2022-08-20T23:37:10.308Z,"5km SSE of San Juan Bautista, CA",earthquake,0.84,1.18,0.08,5,automatic,nc,nc
 2022-08-20T21:37:12.996Z,63.816,-148.5192,101,0.9,ml,,,,0.25,ak,ak022ao1ekrn,2022-08-20T21:39:34.386Z,"21 km ENE of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-20T21:32:07.560Z,19.1940002441406,-155.384674072266,32.5299987792969,2.22000003,md,37,172,,0.129999995,hv,hv73115897,2022-08-20T21:35:22.830Z,"9 km E of Pāhala, Hawaii",earthquake,0.72,0.860000014,1.32000005,11,automatic,hv,hv
-2022-08-20T21:30:59.290Z,36.1013333,-117.845,1.02,1.17,ml,17,92,0.09972,0.13,ci,ci40328936,2022-08-21T20:29:09.758Z,"11km NE of Coso Junction, CA",earthquake,0.2,0.34,0.256,9,reviewed,ci,ci
-2022-08-20T21:21:31.030Z,38.8221664,-122.7630005,1.36,0.7,md,9,124,0.009895,0.02,nc,nc73770180,2022-08-20T21:45:12.586Z,"4km W of Cobb, CA",earthquake,0.35,0.7,0.16,2,automatic,nc,nc
