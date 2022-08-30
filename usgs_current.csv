@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T21:53:23.030Z,38.7871666,-122.7493362,-0.09,1.58,md,21,126,0.01061,0.06,nc,nc73773555,2022-08-30T22:24:11.639Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.52,0.1,6,automatic,nc,nc
 2022-08-30T21:40:46.370Z,19.1191666666667,-66.4121666666667,24.76,3.32,md,25,243,,0.2,pr,pr71368798,2022-08-30T21:59:12.180Z,"72 km N of Brenas, Puerto Rico",earthquake,0.71,10.01,0.0735888016191744,14,reviewed,pr,pr
 2022-08-30T21:22:39.920Z,38.7989998,-122.7901688,-0.17,0.82,md,9,79,0.009813,0.03,nc,nc73773535,2022-08-30T22:03:12.515Z,"4km NW of The Geysers, CA",earthquake,0.27,0.82,0.45,2,automatic,nc,nc
-2022-08-30T21:14:52.933Z,40.8161,-74.5307,5,2.3,mb_lg,14,134,0.492,0.68,us,us7000i3ta,2022-08-30T22:32:14.390Z,"4 km W of Morris Plains, New Jersey",earthquake,1.44,1.823,0.132,16,reviewed,us,us
+2022-08-30T21:14:52.933Z,40.8161,-74.5307,5,2.3,mb_lg,14,134,0.492,0.68,us,us7000i3ta,2022-08-30T22:42:49.408Z,"4 km W of Morris Plains, New Jersey",earthquake,1.44,1.823,0.132,16,reviewed,us,us
 2022-08-30T21:14:18.710Z,60.5241,-147.329,10.6,1.4,ml,,,,0.53,ak,ak022b4kn4of,2022-08-30T21:16:33.540Z,"51 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-30T21:11:28.070Z,33.6951667,-116.752,18.6,0.47,ml,18,71,0.03535,0.1,ci,ci40334696,2022-08-30T22:06:23.374Z,"6km SSW of Idyllwild, CA",earthquake,0.32,0.46,0.176,9,reviewed,ci,ci
 2022-08-30T20:57:15.945Z,60.9442,-150.1485,41.6,2.4,ml,,,,0.19,ak,ak022b4kawne,2022-08-30T21:04:30.449Z,"27 km W of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T22:52:22.690Z,19.445,-155.617333333333,-0.49,2.65,ml,15,139,,0.12,hv,hv73125467,2022-08-30T17:49:09.420Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.46,0.14672705220242,25,reviewed,hv,hv
 2022-08-29T22:48:57.701Z,38.2861,-118.0094,10.1,0.9,ml,16,136.77,0.089,0.1613,nn,nn00846088,2022-08-30T02:39:28.965Z,"14 km SE of Mina, Nevada",earthquake,,1.7,0.2,6,reviewed,nn,nn
 2022-08-29T22:47:15.560Z,38.8111649,-122.8278351,0.49,0.85,md,9,88,0.002522,0.02,nc,nc73773270,2022-08-29T23:06:13.354Z,"7km WNW of The Geysers, CA",earthquake,0.29,0.57,,1,automatic,nc,nc
-2022-08-29T22:37:13.418Z,37.2211,-115.9544,9.2,-0.2,ml,4,271.44,0.062,0.0285,nn,nn00846098,2022-08-30T02:39:34.056Z,"50 km SSW of Rachel, Nevada",earthquake,,3.7,0.08,2,reviewed,nn,nn
