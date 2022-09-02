@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T13:32:09.380Z,35.5218333,-118.3773333,7.22,1.44,ml,15,97,0.1742,0.13,ci,ci40095071,2022-09-02T13:35:37.869Z,"13km SE of Bodfish, CA",earthquake,0.24,2.02,0.153,20,automatic,ci,ci
 2022-09-02T13:29:45.551Z,60.3929,-151.6867,60.8,1.3,ml,,,,0.52,ak,ak022b9ekz4r,2022-09-02T13:32:57.215Z,"21 km W of Cohoe, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-09-02T13:26:38.655Z,36.7345,-116.3209,9.4,-0.1,ml,10,109.67,0.042,0.1866,nn,nn00846309,2022-09-02T13:29:25.727Z,"43 km ESE of Beatty, Nevada",earthquake,,0.8,1.09,6,automatic,nn,nn
-2022-09-02T13:25:38.410Z,38.8231659,-122.8553314,2.33,0.86,md,17,66,0.004535,0.02,nc,nc73774690,2022-09-02T13:35:10.754Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.49,0.01,2,automatic,nc,nc
+2022-09-02T13:25:38.410Z,38.8231659,-122.8553314,2.33,0.86,md,17,66,0.004535,0.02,nc,nc73774690,2022-09-02T13:54:12.866Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.49,0.01,2,automatic,nc,nc
 2022-09-02T13:14:32.350Z,36.6899986,-121.3213348,4.37,1.77,md,16,142,0.0267,0.09,nc,nc73774685,2022-09-02T13:44:12.810Z,"11km S of Tres Pinos, CA",earthquake,0.43,0.84,0.22,17,automatic,nc,nc
 2022-09-02T13:09:27.570Z,38.8178329,-122.8079987,3.39,0.84,md,9,103,0.005786,0.01,nc,nc73774680,2022-09-02T13:33:13.742Z,"6km NW of The Geysers, CA",earthquake,0.59,1.19,,1,automatic,nc,nc
 2022-09-02T13:06:21.460Z,38.8251648,-122.80233,2.41,1.62,md,30,33,0.006302,0.02,nc,nc73774675,2022-09-02T13:23:16.672Z,"7km NW of The Geysers, CA",earthquake,0.19,0.39,0.02,7,automatic,nc,nc
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T09:08:54.796Z,38.5785,-119.4402,3.3,0.9,ml,13,96.82,0.063,0.1213,nn,nn00846286,2022-09-02T09:11:34.784Z,"5 km ENE of Coleville, California",earthquake,,0.9,0.1,7,automatic,nn,nn
 2022-09-02T08:43:06.380Z,36.7000008,-89.4921646,19,1.17,md,9,81,0.02275,0.07,nm,nm60406972,2022-09-02T11:12:11.610Z,"southeastern Missouri",earthquake,0.67,1.2,0.26,3,reviewed,nm,nm
 2022-09-02T08:39:17.990Z,33.5475,-116.6605,24.73,0.43,ml,9,202,0.03147,0.34,ci,ci40094927,2022-09-02T08:42:48.540Z,"2km SE of Anza, CA",earthquake,4.37,4.68,0.243,4,automatic,ci,ci
-2022-09-02T08:39:12.790Z,36.5585,-121.1023333,1.99,2.87,md,69,53,0.04342,0.21,nc,nc73774585,2022-09-02T13:42:10.797Z,"5km NE of Pinnacles, CA",earthquake,0.2,0.43,0.166,137,reviewed,nc,nc
+2022-09-02T08:39:12.790Z,36.5585,-121.1023333,1.99,2.87,md,69,53,0.04342,0.21,nc,nc73774585,2022-09-02T13:54:12.982Z,"5km NE of Pinnacles, CA",earthquake,0.2,0.43,0.166,137,reviewed,nc,nc
 2022-09-02T08:36:26.880Z,36.702,-89.495,21.23,2.59,md,67,39,0.02317,0.1,nm,nm60406967,2022-09-02T12:43:04.830Z,"10 km SE of Matthews, Missouri",earthquake,0.2,0.24,0.133,56,reviewed,nm,nm
 2022-09-02T08:33:53.330Z,38.8183327,-122.776001,0.61,0.45,md,8,123,0.01302,0.02,nc,nc73774580,2022-09-02T08:48:10.015Z,"5km W of Cobb, CA",earthquake,0.49,1.04,0.39,2,automatic,nc,nc
 2022-09-02T08:32:58.060Z,40.6366667,-121.824,9.1,1.44,md,20,52,0.09401,0.19,nc,nc73774575,2022-09-02T12:30:10.474Z,"17km NNE of Shingletown, CA",earthquake,0.42,1.53,0.323,18,reviewed,nc,nc
@@ -256,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T14:18:39.167Z,38.5602,-119.5145,5.8,1.1,ml,11,159.54,0.026,0.1599,nn,nn00846254,2022-09-01T22:52:19.077Z,"California-Nevada border region",earthquake,,1.2,0.14,6,reviewed,nn,nn
 2022-09-01T14:14:08.910Z,19.34983253479,-155.213668823242,2.91000008583069,1.85,ml,40,61,,0.189999998,hv,hv73128162,2022-09-01T14:19:40.200Z,"10 km SSE of Volcano, Hawaii",earthquake,0.37,0.790000021,3.08,8,automatic,hv,hv
 2022-09-01T14:08:47.340Z,33.6496667,-116.7051667,13.94,0.25,ml,16,72,0.03244,0.08,ci,ci40094271,2022-09-01T16:07:06.754Z,"10km S of Idyllwild, CA",earthquake,0.22,0.37,0.2,4,reviewed,ci,ci
-2022-09-01T13:56:06.230Z,34.1516667,-117.3681667,10.81,0.66,ml,23,98,0.1253,0.12,ci,ci40094263,2022-09-01T15:59:00.861Z,"2km W of Muscoy, CA",earthquake,0.22,0.37,0.09,10,reviewed,ci,ci
-2022-09-01T13:52:45.120Z,36.553,-121.1033333,1.91,2.22,md,45,62,0.03954,0.14,nc,nc73774305,2022-09-01T19:31:12.111Z,"4km ENE of Pinnacles, CA",earthquake,0.18,0.37,0.248,49,reviewed,nc,nc
-2022-09-01T13:50:36.000Z,35.079,-96.19,23.64,1.44,ml,50,65,0.2114585046,0.33,ok,ok2022rdaq,2022-09-01T14:01:27.615Z,"5 km E of Horntown, Oklahoma",earthquake,,1,0.19,17,reviewed,ok,ok
