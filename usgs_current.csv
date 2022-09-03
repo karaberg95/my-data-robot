@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-03T10:42:17.742Z,37.5466,-117.668,1,1.6,ml,22,140.33,0.273,0.2036,nn,nn00846346,2022-09-03T10:45:43.531Z,"23 km S of Silver Peak, Nevada",earthquake,,12.1,0.8,13,automatic,nn,nn
 2022-09-03T10:14:21.260Z,38.8376656,-122.8075027,2.02,1.02,md,25,53,0.01342,0.03,nc,nc73774935,2022-09-03T10:42:14.243Z,"8km WNW of Cobb, CA",earthquake,0.18,0.44,0.32,4,automatic,nc,nc
 2022-09-03T10:12:12.050Z,38.8388329,-122.8083344,2.14,0.85,md,8,171,0.01406,0.01,nc,nc73774930,2022-09-03T10:30:14.176Z,"8km WNW of Cobb, CA",earthquake,0.59,1.5,,1,automatic,nc,nc
 2022-09-03T10:00:36.101Z,38.7403,-119.7152,8,0.7,ml,8,190.26,0.32,0.2342,nn,nn00846344,2022-09-03T10:05:20.194Z,"7 km NE of Markleeville, California",earthquake,,2.3,0.37,4,automatic,nn,nn
@@ -216,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T11:25:02.649Z,-21.7966,-68.7057,144.36,4.3,mb,21,71,1.045,0.5,us,us7000i4lq,2022-09-02T11:48:38.040Z,"76 km NNE of Calama, Chile",earthquake,5.76,9.268,0.217,8,reviewed,us,us
 2022-09-02T11:21:31.140Z,36.7395,-121.3556667,9.57,0.59,md,10,150,0.03281,0.06,nc,nc73774630,2022-09-02T20:31:10.235Z,"6km SSW of Tres Pinos, CA",earthquake,0.31,0.51,0.41,8,reviewed,nc,nc
 2022-09-02T11:09:02.896Z,37.1313,-117.3817,0,0.1,ml,4,207.43,0.195,0.1306,nn,nn00846318,2022-09-03T02:39:45.056Z,"60 km WNW of Beatty, Nevada",earthquake,,0,0.31,3,reviewed,nn,nn
-2022-09-02T10:51:56.890Z,38.770668,-122.7381668,-0.52,0.54,md,8,94,0.0138,0.02,nc,nc73774625,2022-09-02T11:08:13.868Z,"2km ESE of The Geysers, CA",earthquake,0.29,1.47,0.21,3,automatic,nc,nc
-2022-09-02T10:51:27.390Z,32.9348333,-115.4978333,2.41,0.83,ml,16,136,0.06248,0.2,ci,ci40095015,2022-09-02T17:00:15.077Z,"6km SSE of Brawley, CA",earthquake,0.75,0.34,0.117,3,reviewed,ci,ci
-2022-09-02T10:44:47.530Z,58.2551666666667,-155.136833333333,26.17,0.39,ml,17,80,,0.15,av,av91673311,2022-09-03T10:00:07.200Z,"86 km NNW of Karluk, Alaska",earthquake,0.41,0.43,0.15950863315257,10,reviewed,av,av
