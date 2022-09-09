@@ -202,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-08T12:09:30.316Z,-19.8573,-178.3396,580.343,4.7,mb,79,44,3.216,0.86,us,us6000ii4h,2022-09-08T12:25:26.040Z,"Fiji region",earthquake,12.05,7.468,0.055,100,reviewed,us,us
 2022-09-08T12:05:50.689Z,35.10766667,-95.3865,7.05,2.29,ml,63,70,0.1160772217,0.24,ok,ok2022rprs,2022-09-08T12:20:34.050Z,"2 km SW of Quinton, Oklahoma",earthquake,,0.7,0.21,14,reviewed,ok,ok
 2022-09-08T12:04:03.510Z,19.239,-155.392,32.86,4.16,ml,50,140,,0.12,hv,hv73134327,2022-09-09T09:50:03.899Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.43,0.51,0.174038577854258,39,reviewed,hv,hv
-2022-09-08T11:55:35.048Z,37.1394,-115.5626,9.7,1,ml,23,173.45,0.312,0.1479,nn,nn00846588,2022-09-08T20:40:11.595Z,"43 km SW of Alamo, Nevada",earthquake,,4.7,0.37,12,reviewed,nn,nn
-2022-09-08T11:54:51.512Z,62.2206,-149.6597,44.1,1.9,ml,,,,0.53,ak,ak022bjark8v,2022-09-08T11:57:16.156Z,"11 km ENE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-08T11:54:45.071Z,38.5104,-118.7446,0,-0.1,ml,6,310.16,0.21,0.1494,nn,nn00846645,2022-09-09T02:38:59.284Z,"10 km W of Hawthorne, Nevada",earthquake,,0,0,1,reviewed,nn,nn
