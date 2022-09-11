@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-11T05:50:36.160Z,38.8188324,-122.8171692,2.35,0.85,md,9,82,0.007175,0.01,nc,nc73780346,2022-09-11T06:00:10.074Z,"7km NW of The Geysers, CA",earthquake,0.48,1.27,,1,automatic,nc,nc
+2022-09-11T05:45:50.254Z,35.9482,-116.0926,14.1,2.1,ml,26,111.65,0.156,0.319,nn,nn00846772,2022-09-11T05:50:27.338Z,"16 km E of Shoshone, California",earthquake,,0.6,0.85,16,automatic,nn,nn
 2022-09-11T05:43:52.170Z,34.1663333,-116.4405,8.22,0.83,ml,11,77,0.04183,0.18,ci,ci40098711,2022-09-11T05:47:24.744Z,"6km N of Yucca Valley, CA",earthquake,0.46,1.28,0.13,14,automatic,ci,ci
 2022-09-11T05:39:02.147Z,61.903,-151.1652,72.9,1.5,ml,,,,0.19,ak,ak022bo5pojq,2022-09-11T05:40:53.618Z,"15 km SE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-11T05:29:30.860Z,37.5358315,-121.8249969,4.72,1.45,md,21,63,0.02836,0.1,nc,nc73780341,2022-09-11T05:46:13.988Z,"10km SE of Sunol, CA",earthquake,0.26,0.54,0.18,15,automatic,nc,nc
@@ -107,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T16:05:28.660Z,33.3603333,-116.2261667,2.51,0.89,ml,23,78,0.1688,0.22,ci,ci40098583,2022-09-10T16:09:13.966Z,"17km SW of Oasis, CA",earthquake,0.35,1.3,0.122,20,automatic,ci,ci
 2022-09-10T16:00:00.197Z,64.7579,-149.1886,0,2.2,ml,,,,0.8,ak,ak022bmo92uq,2022-09-10T16:02:04.882Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-10T15:59:09.210Z,64.7385,-149.2069,17.9,1.4,ml,,,,0.84,ak,ak022bmo8yyx,2022-09-10T16:01:56.854Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-11T05:45:55.594Z,"Switzerland",earthquake,3.95,5.862,0.239,6,reviewed,us,us
+2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-11T05:53:01.087Z,"1 km ENE of Flaxlanden, France",earthquake,3.95,5.862,0.239,6,reviewed,us,us
 2022-09-10T15:54:31.031Z,47.8964,144.5202,476.807,4.5,mb,94,56,1.519,0.39,us,us6000iiqh,2022-09-10T16:12:35.040Z,"144 km ENE of Dolinsk, Russia",earthquake,10.25,7.265,0.03,331,reviewed,us,us
 2022-09-10T15:34:59.487Z,-22.2033,-66.2824,255.015,4.5,mb,40,43,1.905,0.66,us,us6000iiqa,2022-09-11T03:52:46.623Z,"71 km W of La Quiaca, Argentina",earthquake,8.43,7.652,0.101,29,reviewed,us,us
 2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:19:00.368Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
@@ -178,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T06:21:31.440Z,17.9915,-66.9853333333333,7.43,2.07,md,8,145,,0.09,pr,pr71370933,2022-09-10T06:38:29.310Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.35,0.34,0.0611865903411245,6,reviewed,pr,pr
 2022-09-10T06:07:36.012Z,62.3717,-151.0064,71.9,1.4,ml,,,,0.41,ak,ak022bmikzcx,2022-09-10T06:09:53.881Z,"18 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T06:03:14.425Z,-2.3376,100.6552,52.933,4.7,mb,41,163,2.674,0.41,us,us6000iimq,2022-09-10T06:28:18.040Z,"87 km WSW of Sungai Penuh, Indonesia",earthquake,7.93,8.229,0.11,26,reviewed,us,us
-2022-09-10T06:00:20.822Z,61.2334,-146.8981,33.8,1.5,ml,,,,0.5,ak,ak022bmijg6a,2022-09-10T06:02:25.804Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-10T05:51:10.001Z,46.1408,89.7017,10,4.1,mb,14,212,5.162,0.33,us,us6000iimp,2022-09-11T04:20:06.040Z,"224 km SSE of Altay, China",earthquake,6.29,2.016,0.261,4,reviewed,us,us
