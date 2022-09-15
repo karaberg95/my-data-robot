@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-15T08:41:11.160Z,17.9573333333333,-66.921,13.82,1.83,md,5,210,,0.06,pr,pr71371873,2022-09-15T08:54:59.490Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.63,0.74,0.0769485767082274,4,reviewed,pr,pr
 2022-09-15T08:40:20.660Z,19.0831661224365,-155.492340087891,40.8600006103516,2.29999995,md,25,186,,0.180000007,hv,hv73140432,2022-09-15T08:43:31.900Z,"Hawaii region, Hawaii",earthquake,0.71,1.66999996,1.13999999,3,automatic,hv,hv
 2022-09-15T08:25:41.449Z,38.1852,-117.755,9,0.9,ml,8,194.92,0.114,0.0651,nn,nn00847196,2022-09-15T08:29:13.306Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.23,5,automatic,nn,nn
 2022-09-15T08:19:18.954Z,38.7245,-118.7391,12,0.9,ml,9,112.8,0.195,0.0986,nn,nn00847195,2022-09-15T08:23:04.151Z,"California-Nevada border region",earthquake,,1.2,0.1,7,automatic,nn,nn
@@ -233,7 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T09:13:47.910Z,19.2815,-65.004,41,3.49,md,12,290,0.9291,0.92,pr,pr2022257004,2022-09-14T10:28:55.040Z,"104 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,6.49,26.99,0.06,6,reviewed,pr,pr
 2022-09-14T09:05:27.910Z,38.8131667,-122.8156667,0.67,0.2,md,13,79,0.01111,0.02,nc,nc73781406,2022-09-14T09:42:14.423Z,"6km NW of The Geysers, CA",earthquake,0.36,0.42,0.271,3,reviewed,nc,nc
 2022-09-14T09:05:11.770Z,53.8531666666667,-166.792,8.29,0.67,ml,8,129,,0.16,av,av91680236,2022-09-14T23:41:47.400Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.53,0.36,0.279405575550243,7,reviewed,av,av
-2022-09-14T09:01:40.179Z,60.9413,-151.7543,69.2,0.9,ml,,,,0.48,ak,ak022bt6he69,2022-09-14T09:03:32.754Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-14T08:56:08.220Z,19.4903335571289,-155.648330688477,-3.51999998092651,1.75,md,25,63,,0.300000012,hv,hv73139552,2022-09-14T09:01:39.520Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.270000011,0.800000012,11,automatic,hv,hv
-2022-09-14T08:52:34.100Z,38.8303337,-122.8795013,3.19,0.39,md,7,132,0.008461,0.02,nc,nc73781401,2022-09-14T08:54:11.788Z,"12km WNW of The Geysers, CA",earthquake,0.56,1.15,,1,automatic,nc,nc
-2022-09-14T08:47:39.097Z,38.2578,-118.3598,8.6,1.2,ml,16,60.12,0.114,0.1765,nn,nn00847116,2022-09-14T21:28:26.471Z,"26 km SW of Mina, Nevada",earthquake,,1.1,0.28,8,reviewed,nn,nn
