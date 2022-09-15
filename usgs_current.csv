@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-15T08:10:27.565Z,38.4668,-118.3903,0.7,0.9,ml,12,132.99,0.052,0.2759,nn,nn00847193,2022-09-15T08:13:34.282Z,"21 km ESE of Hawthorne, Nevada",earthquake,,2.6,0.11,7,automatic,nn,nn
+2022-09-15T08:07:23.641Z,38.7226,-118.7498,8.4,2.2,ml,26,60.98,0.201,0.283,nn,nn00847190,2022-09-15T08:10:29.106Z,"8 km N of Walker Lake, Nevada",earthquake,,0.7,0.21,19,automatic,nn,nn
+2022-09-15T08:00:23.720Z,38.8343315,-122.817337,1.82,1.06,md,18,60,0.01231,0.02,nc,nc73781836,2022-09-15T08:01:56.630Z,"8km NW of The Geysers, CA",earthquake,0.22,0.54,0.14,2,automatic,nc,nc
 2022-09-15T07:47:27.021Z,60.7756,-150.986,68.1,1.3,ml,,,,0.33,ak,ak022but3pdq,2022-09-15T07:49:06.422Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-15T07:38:04.374Z,63.1118,-149.0584,76.3,1.8,ml,,,,0.56,ak,ak022but1q5z,2022-09-15T07:40:07.777Z,"31 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-15T07:31:11.585Z,63.6362,-150.7725,0.2,2.1,ml,,,,0.94,ak,ak022but08po,2022-09-15T07:33:45.521Z,"48 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -238,17 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T08:27:46.810Z,36.103,-89.7566667,7.34,2.08,md,34,74,0.04741,0.05,nm,nm60408322,2022-09-14T18:38:59.847Z,"6 km ENE of Steele, Missouri",earthquake,0.27,0.74,0.1,26,reviewed,nm,nm
 2022-09-14T08:24:22.180Z,38.8305016,-122.8151703,2.5,0.87,md,20,49,0.008137,0.01,nc,nc73781391,2022-09-14T08:25:57.610Z,"8km NW of The Geysers, CA",earthquake,0.22,0.66,0.03,4,automatic,nc,nc
 2022-09-14T08:15:08.210Z,46.0535,-122.72783333333334,17.59,1,ml,29,59,0.09971,0.21,uw,uw61880136,2022-09-14T18:14:53.280Z,"Washington",earthquake,0.34,0.7,0.17215550481718056,18,reviewed,uw,uw
-2022-09-14T08:13:44.010Z,35.1998333,-92.1925,0.92,1.71,md,8,146,0.1197,0.2,nm,nm60161543,2022-09-14T12:16:55.200Z,"1 km ENE of Enola, Arkansas",earthquake,1.25,2.06,0.23,8,reviewed,nm,nm
-2022-09-14T08:11:27.840Z,53.8516666666667,-166.789666666667,7.2,-0.12,ml,5,131,,0.12,av,av91680216,2022-09-14T23:28:59.630Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.45,1.01,0.231088730847089,5,reviewed,av,av
-2022-09-14T08:11:11.260Z,44.7906667,-110.804,5.9,0.7,ml,6,224,0.03319,0.06,uu,uu60514942,2022-09-14T16:29:10.310Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.92,1.18,0.494,2,reviewed,uu,uu
-2022-09-14T08:07:09.430Z,19.0593,-65.1318,65,3.65,md,14,278,0.726,0.61,pr,pr2022257003,2022-09-14T08:47:24.840Z,"Virgin Islands region",earthquake,4.87,8.38,0.05,7,reviewed,pr,pr
-2022-09-14T08:04:15.620Z,53.8538333333333,-166.788333333333,7.58,-0.22,ml,5,130,,0.12,av,av91071183,2022-09-14T23:24:58.580Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.58,1.2,0.153386343921529,4,reviewed,av,av
-2022-09-14T08:00:36.910Z,53.8446666666667,-166.782333333333,7.55,-0.19,ml,5,140,,0.1,av,av91680211,2022-09-14T23:19:57.880Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.45,1.02,0.257750249651596,5,reviewed,av,av
-2022-09-14T07:58:36.750Z,53.8496666666667,-166.791833333333,7.37,-0.57,ml,5,132,,0.11,av,av91071173,2022-09-14T20:50:29.670Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.57,1.17,0.185283640134547,5,reviewed,av,av
-2022-09-14T07:58:22.280Z,18.0063333333333,-67.0901666666667,15.73,1.81,md,4,141,,0.03,pr,pr71371673,2022-09-14T08:17:50.330Z,"4 km SSW of Palmarejo, Puerto Rico",earthquake,0.93,0.72,0.0889078575804582,4,reviewed,pr,pr
-2022-09-14T07:58:15.280Z,53.8493333333333,-166.785333333333,7.27,0.59,ml,6,134,,0.12,av,av91680206,2022-09-14T20:48:08.160Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.44,1,0.252593466950674,6,reviewed,av,av
-2022-09-14T07:57:39.000Z,17.9653333333333,-65.9675,15.99,2.26,md,5,200,,0.08,pr,pr71371668,2022-09-14T09:08:21.720Z,"2 km SE of Lamboglia, Puerto Rico",earthquake,0.6,1.34,0.0961069409144977,5,reviewed,pr,pr
-2022-09-14T07:56:10.480Z,53.848,-166.788666666667,8.76,-0.05,ml,5,135,,0.15,av,av91680201,2022-09-14T20:41:51.240Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.57,1.09,0.110509073187835,5,reviewed,av,av
-2022-09-14T07:55:57.150Z,53.854,-166.794666666667,7.73,-0.61,ml,5,128,,0.09,av,av91071168,2022-09-14T20:43:56.340Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.44,0.93,0.19797461590199,5,reviewed,av,av
-2022-09-14T07:55:23.280Z,53.8473333333333,-166.778,5.23,0.4,ml,6,138,,0.13,av,av91071153,2022-09-14T19:31:09.320Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.43,1.15,0.270708682469478,6,reviewed,av,av
-2022-09-14T07:54:40.729Z,58.9505,-152.9051,63.7,1.5,ml,,,,0.44,ak,ak022bt5lvyg,2022-09-14T07:57:10.132Z,"72 km SW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
