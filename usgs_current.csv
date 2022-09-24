@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-24T10:58:27.610Z,37.8966675,-122.2218323,8.86,1.39,md,27,55,0.02313,0.07,nc,nc73785326,2022-09-24T11:15:13.060Z,"4km WNW of Orinda, CA",earthquake,0.21,0.51,0.19,20,automatic,nc,nc
+2022-09-24T11:27:33.180Z,32.94,-115.5443333,3.19,1.34,ml,14,94,0.04082,0.21,ci,ci40105535,2022-09-24T11:31:08.922Z,"4km SSW of Brawley, CA",earthquake,0.36,0.5,0.185,24,automatic,ci,ci
+2022-09-24T10:58:27.610Z,37.8966675,-122.2218323,8.86,1.39,md,27,55,0.02313,0.07,nc,nc73785326,2022-09-24T11:31:10.169Z,"4km WNW of Orinda, CA",earthquake,0.21,0.51,0.19,20,automatic,nc,nc
 2022-09-24T10:55:03.792Z,37.2253,-117.8171,0,0.9,ml,22,194.13,0.137,0.2286,nn,nn00847846,2022-09-24T10:58:24.495Z,"California-Nevada border region",earthquake,,8.8,1.13,8,automatic,nn,nn
 2022-09-24T10:39:41.420Z,34.0491667,-117.2485,15.98,1.72,ml,61,27,0.07154,0.18,ci,ci40105527,2022-09-24T10:50:18.310Z,"1km E of Loma Linda, CA",earthquake,0.2,0.46,0.134,25,automatic,ci,ci
 2022-09-24T10:26:26.587Z,35.24337006,-97.72457886,5.384104252,1.77,ml,14,48.20553589,0.09781773388,0.4634708213,ok,ok2022ssum,2022-09-24T10:29:05.798Z,"1 km NE of Bridge Creek, Oklahoma",earthquake,3.245946192,5.031186636,,12,automatic,ok,ok
@@ -274,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T12:16:10.835Z,62.0102,-151.1662,68.7,2,ml,,,,0.32,ak,ak022c846ywr,2022-09-23T12:17:56.386Z,"12 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-23T12:12:58.144Z,38.5451,-119.4928,9.3,0.6,ml,4,198.81,0.046,0.1042,nn,nn00847821,2022-09-24T02:40:13.319Z,"2 km SSE of Coleville, California",earthquake,,4.2,0.1,2,reviewed,nn,nn
 2022-09-23T11:44:52.126Z,62.3571,-149.1752,0,1.8,ml,,,,0.72,ak,ak022c83rmjg,2022-09-23T11:46:44.079Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-23T11:38:05.530Z,19.4528331756592,-155.601837158203,-2.27999997138977,1.9,ml,14,65,,0.330000013,hv,hv73149307,2022-09-23T11:43:36.420Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.330000013,4.23,5,automatic,hv,hv
-2022-09-23T11:37:37.378Z,64.7415,-149.0595,10.7,1.4,ml,,,,0.45,ak,ak022c83q3e1,2022-09-23T11:39:33.688Z,"15 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
