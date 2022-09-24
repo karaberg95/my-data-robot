@@ -274,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T12:34:26.361Z,-5.9957,148.6871,69.012,5.4,mww,60,43,3.899,0.56,us,us7000iaem,2022-09-23T14:37:28.872Z,"New Britain region, Papua New Guinea",earthquake,7.58,5.799,0.063,24,reviewed,us,us
 2022-09-23T12:16:10.835Z,62.0102,-151.1662,68.7,2,ml,,,,0.32,ak,ak022c846ywr,2022-09-23T12:17:56.386Z,"12 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-23T12:12:58.144Z,38.5451,-119.4928,9.3,0.6,ml,4,198.81,0.046,0.1042,nn,nn00847821,2022-09-24T02:40:13.319Z,"2 km SSE of Coleville, California",earthquake,,4.2,0.1,2,reviewed,nn,nn
-2022-09-23T11:44:52.126Z,62.3571,-149.1752,0,1.8,ml,,,,0.72,ak,ak022c83rmjg,2022-09-23T11:46:44.079Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
