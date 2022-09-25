@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-25T21:27:51.370Z,40.1296654,-122.7444992,11.7,2.03,md,7,117,0.05771,0.04,nc,nc73785801,2022-09-25T21:29:27.771Z,"32km WNW of Rancho Tehama Reserve, CA",earthquake,0.53,0.41,0.12,6,automatic,nc,nc
+2022-09-25T21:23:16.890Z,19.3374996185303,-155.127838134766,3.09999990463257,1.88,ml,33,123,,0.180000007,hv,hv73153187,2022-09-25T21:28:49.310Z,"14 km S of Fern Forest, Hawaii",earthquake,0.43,1.17999995,0.23,5,automatic,hv,hv
 2022-09-25T21:05:45.800Z,33.4959984,-116.5070038,10.76,0.71,ml,17,70,0.06453,0.11,ci,ci40106423,2022-09-25T21:09:13.483Z,"17km ESE of Anza, CA",earthquake,0.45,0.85,0.301,5,automatic,ci,ci
 2022-09-25T21:05:45.290Z,19.2456665039062,-155.391006469727,32.7900009155273,2.01999998,md,35,137,,0.140000001,hv,hv73153182,2022-09-25T21:08:57.900Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.61,0.920000017,0.660000026,9,automatic,hv,hv
 2022-09-25T20:37:25.393Z,61.5288,-149.8718,32.6,1.2,ml,,,,0.67,ak,ak022cbk5nwb,2022-09-25T20:39:02.832Z,"4 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T19:57:37.410Z,19.2395000457764,-155.393661499023,32.2200012207031,1.84000003,md,46,139,,0.129999995,hv,hv73153117,2022-09-25T20:00:51.040Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.779999971,1.25,18,automatic,hv,hv
 2022-09-25T19:54:15.539Z,62.3534,-149.1251,0,1.5,ml,,,,0.46,ak,ak022cbjnupd,2022-09-25T19:56:08.992Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-25T19:47:58.830Z,34.2901667,-116.8221667,2.92,0.97,ml,26,70,0.05788,0.26,ci,ci40106407,2022-09-25T19:51:29.936Z,"4km NNE of Big Bear City, CA",earthquake,0.38,1.27,0.228,19,automatic,ci,ci
-2022-09-25T19:43:26.371Z,-1.9235,118.9341,44.287,4.7,mb,30,126,2.185,0.94,us,us7000iaze,2022-09-25T20:14:45.040Z,"83 km N of Mamuju, Indonesia",earthquake,4.91,9.021,0.097,32,reviewed,us,us
+2022-09-25T19:43:26.371Z,-1.9235,118.9341,44.287,4.7,mb,30,126,2.185,0.94,us,us7000iaze,2022-09-25T20:14:45.040Z,"Makassar Strait, Indonesia",earthquake,4.91,9.021,0.097,32,reviewed,us,us
 2022-09-25T19:39:32.143Z,56.9197,-154.7041,2.6,1.8,ml,,,,0.61,ak,ak022cbjko8u,2022-09-25T19:41:41.294Z,"32 km W of Akhiok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-25T19:37:15.980Z,19.2066669464111,-155.375671386719,32.6300010681152,2.05,ml,48,160,,0.129999995,hv,hv73153092,2022-09-25T19:42:46.990Z,"10 km E of Pāhala, Hawaii",earthquake,0.61,0.889999986,3.69,10,automatic,hv,hv
 2022-09-25T19:24:17.310Z,35.5065,-118.3876667,8.61,1.39,ml,20,100,0.1711,0.09,ci,ci40106399,2022-09-25T19:53:40.988Z,"13km SE of Bodfish, CA",earthquake,0.16,0.68,0.126,20,reviewed,ci,ci
@@ -201,8 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T21:39:38.520Z,34.0493333,-116.4126667,6.9,1.15,ml,35,33,0.02745,0.2,ci,ci40105935,2022-09-24T21:43:10.853Z,"7km SSE of Yucca Valley, CA",earthquake,0.27,0.61,0.192,26,automatic,ci,ci
 2022-09-24T21:37:49.463Z,62.3053,-150.2874,18.3,1.4,ml,,,,0.34,ak,ak022c9x7sv6,2022-09-24T21:39:31.062Z,"3 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-24T21:32:26.780Z,33.3643333,-115.7891667,2.21,1.8,ml,39,53,0.04983,0.19,ci,ci40105927,2022-09-24T21:43:20.380Z,"5km WNW of Bombay Beach, CA",earthquake,0.34,0.87,0.134,27,automatic,ci,ci
-2022-09-24T21:26:56.790Z,19.458,-155.5965,-1.44,1.7,md,11,108,,0.1,hv,hv73151717,2022-09-24T21:50:09.590Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.14,0.016023301740473,5,reviewed,hv,hv
-2022-09-24T21:22:56.030Z,37.1331667,-121.5223333,7.83,0.93,md,26,47,0.06914,0.11,nc,nc73785531,2022-09-24T23:18:23.915Z,"10km NE of San Martin, CA",earthquake,0.25,0.57,0.115,19,reviewed,nc,nc
-2022-09-24T21:16:42.384Z,59.9161,-152.7211,98.1,1.7,ml,,,,0.59,ak,ak022c9x3aa5,2022-09-24T21:20:28.636Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-24T21:15:54.270Z,19.503,-155.6545,-1.16,2.13,ml,14,88,,0.14,hv,hv73151702,2022-09-24T21:45:48.330Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.47,0.0733291926646724,6,reviewed,hv,hv
-2022-09-24T21:11:41.164Z,4.0509,125.9029,148.377,4.5,mb,16,143,3.017,0.87,us,us7000iatf,2022-09-24T22:13:25.040Z,"157 km SSE of Sarangani, Philippines",earthquake,9.77,10.143,0.163,11,reviewed,us,us
