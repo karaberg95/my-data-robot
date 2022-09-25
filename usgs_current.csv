@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T19:13:00.560Z,37.4941667,-118.8711667,3.41,1.01,md,19,126,0.1014,0.04,nc,nc73785461,2022-09-24T22:23:19.370Z,"18km WSW of Toms Place, CA",earthquake,0.32,1.31,0.165,15,reviewed,nc,nc
 2022-09-24T18:58:37.850Z,33.641,-117.9838333,14.11,1.29,ml,30,202,0.05511,0.25,ci,ci40105823,2022-09-25T14:28:46.547Z,"6km WNW of Newport Beach, CA",earthquake,0.67,0.61,0.133,16,reviewed,ci,ci
 2022-09-24T18:56:32.036Z,61.2398,-150.0197,32.2,1.4,ml,,,,0.72,ak,ak022c9vjjb7,2022-09-24T18:58:52.746Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-24T18:51:13.129Z,31.68870187,-104.5387859,8.008251953,2.4,ml,27,81,0.03112926442,0.3,tx,tx2022stld,2022-09-24T23:56:53.935Z,"56 km SSW of Whites City, New Mexico",earthquake,2.146575922,1.395344799,0.1,21,reviewed,tx,tx
-2022-09-24T18:49:19.083Z,31.61567378,-104.1014422,7.93112793,2.1,ml,11,69,0.0817556648,0.1,tx,tx2022stlb,2022-09-25T09:44:22.993Z,"western Texas",earthquake,0.9183052526,2.041481922,0.2,6,reviewed,tx,tx
-2022-09-24T18:43:58.128Z,61.8535,-151.9036,120.1,1.5,ml,,,,0.54,ak,ak022c9vgt0k,2022-09-24T18:46:01.318Z,"30 km WSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
