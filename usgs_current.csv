@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-25T15:03:30.370Z,35.9093323,-117.7313309,3.81,1.6,ml,26,37,0.08069,0.19,ci,ci40106295,2022-09-25T15:06:58.105Z,"16km E of Little Lake, CA",earthquake,0.32,0.8,0.145,9,automatic,ci,ci
+2022-09-25T14:58:07.590Z,38.8288345,-122.8098297,1.4,0.85,md,10,78,0.005435,0.01,nc,nc73785756,2022-09-25T14:59:42.906Z,"7km NW of The Geysers, CA",earthquake,0.3,1.04,,1,automatic,nc,nc
 2022-09-25T14:51:03.948Z,61.3471,-141.1142,0,1.8,ml,,,,0.36,ak,ak022cbgo0my,2022-09-25T14:52:37.942Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T14:51:09.587Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
+2022-09-25T14:47:25.920Z,37.7393341,-122.5541687,8.96,2.25,md,48,100,0.08402,0.05,nc,nc73785751,2022-09-25T15:06:54.215Z,"4km W of San Francisco Zoo, CA",earthquake,0.19,0.48,0.19,47,automatic,nc,nc
 2022-09-25T14:45:39.660Z,33.784,-116.113,2.05,0.83,ml,17,94,0.09127,0.22,ci,ci40106287,2022-09-25T14:49:09.999Z,"12km NE of Indio, CA",earthquake,0.37,0.73,0.127,18,automatic,ci,ci
 2022-09-25T14:36:28.520Z,58.4493,-153.5277,25.9,0.8,ml,,,,0.69,ak,ak022cbgkvdj,2022-09-25T14:39:05.347Z,"56 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-25T14:36:00.846Z,36.6957,-116.2787,6.4,0.4,ml,17,128.54,0.062,0.191,nn,nn00847890,2022-09-25T14:38:39.277Z,"California-Nevada border region",earthquake,,0.8,0.94,10,automatic,nn,nn
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T11:32:11.210Z,19.2476673126221,-155.399673461914,29.0300006866455,1.74000001,md,35,135,,0.189999998,hv,hv73152617,2022-09-25T11:35:22.150Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,1.21000004,0.529999971,11,automatic,hv,hv
 2022-09-25T11:31:54.820Z,33.7816667,-116.1138333,2.19,0.86,ml,22,94,0.09094,0.17,ci,ci40106223,2022-09-25T11:35:20.682Z,"12km NE of Indio, CA",earthquake,0.27,0.45,0.087,19,automatic,ci,ci
 2022-09-25T11:28:47.090Z,33.7848333,-116.1215,0.59,0.74,ml,19,92,0.08414,0.25,ci,ci40106215,2022-09-25T11:32:18.009Z,"11km NE of Indio, CA",earthquake,0.41,31.61,0.078,12,automatic,ci,ci
-2022-09-25T11:18:53.000Z,36.5501671,-121.1104965,1.62,2.65,md,22,61,0.06372,0.08,nc,nc73785696,2022-09-25T14:31:54.650Z,"4km NE of Pinnacles, CA",earthquake,0.28,0.88,0.14,29,automatic,nc,nc
+2022-09-25T11:18:53.000Z,36.5501671,-121.1104965,1.62,2.65,md,22,61,0.06372,0.08,nc,nc73785696,2022-09-25T15:03:03.752Z,"4km NE of Pinnacles, CA",earthquake,0.28,0.88,0.14,29,automatic,nc,nc
 2022-09-25T11:18:42.906Z,63.3665,-145.1362,0,1.2,ml,,,,0.47,ak,ak022cbeoq76,2022-09-25T11:20:44.351Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-25T11:16:31.513Z,4.3296,126.1082,134.92,5.1,mww,102,79,2.773,0.82,us,us7000iax1,2022-09-25T11:41:02.326Z,"138 km SSE of Sarangani, Philippines",earthquake,7.48,5.73,0.071,19,reviewed,us,us
 2022-09-25T11:14:21.650Z,35.7091667,-117.4938333,1.69,0.45,ml,8,188,0.1357,0.23,ci,ci40106199,2022-09-25T11:17:55.840Z,"10km SW of Searles Valley, CA",earthquake,1.28,1.83,0.217,6,automatic,ci,ci
@@ -222,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T15:18:54.659Z,61.4946,-145.5801,39.1,4.8,ml,,,,0.6,ak,ak022c9tj4z7,2022-09-25T07:32:55.567Z,"28 km SW of Tonsina, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-09-24T15:13:49.670Z,33.325,-116.2061667,1.53,0.96,ml,25,68,0.09426,0.27,ci,ci40105655,2022-09-24T15:17:28.710Z,"18km ENE of Borrego Springs, CA",earthquake,0.37,0.75,0.181,20,automatic,ci,ci
 2022-09-24T15:07:25.530Z,35.6761667,-117.5465,7.84,1.52,ml,17,91,0.1453,0.09,ci,ci40105647,2022-09-25T13:43:49.831Z,"13km ENE of Ridgecrest, CA",earthquake,0.23,1.11,0.155,18,reviewed,ci,ci
-2022-09-24T14:58:08.880Z,40.6561667,-122.2308333,12.13,1.59,md,19,53,0.03724,0.18,nc,nc73785366,2022-09-24T18:55:12.783Z,"2km N of Bella Vista, CA",earthquake,0.42,0.65,0.126,19,reviewed,nc,nc
