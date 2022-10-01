@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-01T15:15:15.720Z,38.8318329,-122.8133316,2.46,0.85,md,9,148,0.008801,0.02,nc,nc73787991,2022-10-01T15:16:51.604Z,"8km NW of The Geysers, CA",earthquake,0.66,1.26,,1,automatic,nc,nc
+2022-10-01T14:56:26.380Z,38.8301659,-122.8131638,1.93,0.9,md,17,89,0.007179,0.02,nc,nc73787981,2022-10-01T14:58:01.335Z,"8km NW of The Geysers, CA",earthquake,0.27,0.52,0.15,3,automatic,nc,nc
 2022-10-01T14:50:40.831Z,61.753,-149.5703,7.3,1.3,ml,,,,0.52,ak,ak022cldvyqb,2022-10-01T14:52:31.730Z,"14 km N of Meadow Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-01T14:28:11.825Z,63.3058,-153.7699,6.5,2.8,ml,,,,0.95,ak,ak022cldr6lo,2022-10-01T14:52:38.040Z,"44 km NE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-01T14:26:27.791Z,63.459,-153.5665,7.2,1.6,ml,,,,0.31,ak,ak022cldqsjf,2022-10-01T14:29:33.763Z,"64 km NE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-01T14:26:18.670Z,39.4963341,-123.3116684,8.22,1.57,md,6,161,0.03386,0.02,nc,nc73787976,2022-10-01T14:44:10.425Z,"9km NE of Brooktrails, CA",earthquake,0.48,0.66,0.01,4,automatic,nc,nc
+2022-10-01T14:26:18.670Z,39.4963341,-123.3116684,8.22,1.57,md,6,161,0.03386,0.02,nc,nc73787976,2022-10-01T14:58:11.531Z,"9km NE of Brooktrails, CA",earthquake,0.48,0.66,0.01,4,automatic,nc,nc
 2022-10-01T14:24:28.346Z,58.3513,-133.2757,0,2.8,ml,,,,1.24,ak,ak022cldqd5c,2022-10-01T14:50:23.040Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-01T14:22:00.978Z,60.9423,-150.6013,36,1.1,ml,,,,0.5,ak,ak022cldpvlt,2022-10-01T14:23:47.643Z,"Kenai Peninsula, Alaska",earthquake,,5.8,,,automatic,ak,ak
 2022-10-01T14:17:29.471Z,60.9454,-150.603,34.7,1.4,ml,,,,0.39,ak,ak022cldov83,2022-10-01T14:18:59.765Z,"5 km ENE of Point Possession, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-01T10:25:02.034Z,63.1489,-150.4557,63.4,1.6,ml,,,,1.09,ak,ak022clbcsez,2022-10-01T10:27:38.980Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-01T10:04:57.886Z,61.7208,-150.738,54.3,1.4,ml,,,,0.55,ak,ak022clb8eos,2022-10-01T10:06:34.950Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-10-01T09:54:40.053Z,61.1353,-148.288,2.8,1.1,ml,,,,0.45,ak,ak022claxnid,2022-10-01T09:56:35.090Z,"45 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-01T09:42:00.630Z,17.9996666666667,-66.9985,13.43,2,md,14,172,,0.1,pr,pr71374058,2022-10-01T10:04:12.450Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.33,0.25,0.189740902676241,7,reviewed,pr,pr
+2022-10-01T09:42:00.630Z,17.9998333333333,-66.9985,13.44,2,md,14,172,,0.1,pr,pr71374058,2022-10-01T15:13:41.440Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.33,0.25,0.189822651217732,7,reviewed,pr,pr
 2022-10-01T09:33:05.930Z,33.9188333,-116.779,18.01,1.5,ml,56,24,0.08639,0.2,ci,ci40354064,2022-10-01T09:43:43.020Z,"1km E of Cabazon, CA",earthquake,0.21,0.46,0.136,27,automatic,ci,ci
 2022-10-01T09:28:38.822Z,38.1327,-118.0056,4.1,1.4,ml,12,124.63,0.037,0.0908,nn,nn00848358,2022-10-01T09:31:45.205Z,"California-Nevada border region",earthquake,,0.6,0.37,6,automatic,nn,nn
 2022-10-01T09:28:02.860Z,34.052,-117.2416667,12.94,0.78,ml,20,112,0.1255,0.16,ci,ci40354056,2022-10-01T09:31:29.406Z,"2km ENE of Loma Linda, CA",earthquake,0.29,0.71,0.101,17,automatic,ci,ci
@@ -271,12 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T15:26:13.930Z,38.797,-122.7505,1.65,0.2,md,7,134,0.008057,0.03,nc,nc73787641,2022-10-01T02:23:25.261Z,"2km NNE of The Geysers, CA",earthquake,0.39,0.69,0.389,2,reviewed,nc,nc
 2022-09-30T15:24:33.300Z,35.7693333,-117.5813333,7,1.37,ml,24,69,0.04814,0.11,ci,ci40353696,2022-09-30T22:59:14.840Z,"16km W of Searles Valley, CA",earthquake,0.19,0.4,0.173,18,reviewed,ci,ci
 2022-09-30T15:18:44.827Z,57.0993,-150.9759,8.8,2.1,ml,,,,0.88,ak,ak022cjqrccl,2022-09-30T17:46:09.651Z,"97 km SE of Chiniak, Alaska",earthquake,,2.5,,,reviewed,ak,ak
-2022-09-30T15:17:03.700Z,33.503,-116.4978333,14.09,0.51,ml,17,102,0.06101,0.1,ci,ci40353688,2022-09-30T22:53:47.577Z,"17km ESE of Anza, CA",earthquake,0.31,0.55,0.149,8,reviewed,ci,ci
-2022-09-30T15:09:03.500Z,60.0076666666667,-153.090333333333,0.45,-0.97,ml,4,108,,0.06,av,av91687206,2022-09-30T23:01:14.760Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.26,1.86,0.210308828322251,4,reviewed,av,av
-2022-09-30T15:03:04.710Z,58.3138333333333,-154.897,17.74,0.99,ml,14,148,,0.24,av,av91073273,2022-09-30T23:08:36.520Z,"86 km NNW of Karluk, Alaska",earthquake,0.76,0.98,0.289530679459328,14,reviewed,av,av
-2022-09-30T15:01:20.280Z,38.8284988,-122.8024979,1.87,0.33,md,9,74,0.00781,0,nc,nc73787636,2022-09-30T15:02:54.982Z,"7km W of Cobb, CA",earthquake,0.34,0.53,0.35,2,automatic,nc,nc
-2022-09-30T15:01:04.740Z,33.4871667,-116.4978333,10.08,0.99,ml,22,60,0.07027,0.11,ci,ci40353680,2022-09-30T22:51:33.565Z,"18km ESE of Anza, CA",earthquake,0.21,0.5,0.101,21,reviewed,ci,ci
-2022-09-30T15:00:39.890Z,33.4881667,-116.5003333,10.46,0.86,ml,11,113,0.07374,0.11,ci,ci40353672,2022-09-30T22:49:11.159Z,"18km ESE of Anza, CA",earthquake,0.29,0.78,0.141,6,reviewed,ci,ci
-2022-09-30T15:00:25.840Z,33.4883333,-116.497,10,0.87,ml,22,60,0.06908,0.12,ci,ci40353664,2022-09-30T22:40:35.402Z,"18km ESE of Anza, CA",earthquake,0.2,0.59,0.141,16,reviewed,ci,ci
-2022-09-30T14:58:28.140Z,33.4903333,-116.4995,10.72,0.55,ml,21,59,0.06993,0.11,ci,ci40353656,2022-09-30T22:35:16.601Z,"18km ESE of Anza, CA",earthquake,0.24,0.58,0.145,13,reviewed,ci,ci
-2022-09-30T14:58:18.730Z,38.8078346,-122.7468338,-0.89,0.54,md,7,120,0.01237,0.39,nc,nc73787631,2022-09-30T14:59:55.011Z,"3km SW of Cobb, CA",earthquake,2.9,10.11,,1,automatic,nc,nc
