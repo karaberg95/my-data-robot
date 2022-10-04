@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T07:57:17.450Z,34.4776649,-119.2525024,0.67,1.47,ml,11,100,0.1034,0.2,ci,ci40355368,2022-10-04T07:59:22.629Z,"3km NNW of Ojai, CA",earthquake,0.59,1.14,0.274,4,automatic,ci,ci
+2022-10-04T07:54:03.669Z,61.88,-149.3208,0,2.3,ml,,,,0.78,ak,ak022cq8cqy5,2022-10-04T07:55:52.915Z,"15 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-04T07:43:03.033Z,63.6117,-149.7493,119.7,2.2,ml,,,,0.39,ak,ak022cq8ae0k,2022-10-04T07:45:17.659Z,"43 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-04T07:40:45.351Z,60.1027,-152.2967,75.8,1.4,ml,,,,0.94,ak,ak022cq89u5z,2022-10-04T07:42:38.073Z,"35 km W of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-04T07:28:59.296Z,37.429,-117.0201,3.4,1,ml,18,147.03,0.231,0.2149,nn,nn00848503,2022-10-04T07:32:09.901Z,"California-Nevada border region",earthquake,,8.3,1,11,automatic,nn,nn
@@ -279,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T08:07:54.498Z,9.901,126.0103,69.444,5,mb,86,85,2.845,0.92,us,us6000iqdi,2022-10-03T11:29:13.435Z,"3 km ENE of Libas, Philippines",earthquake,9.58,6.462,0.04,197,reviewed,us,us
 2022-10-03T08:04:42.636Z,-22.7329,-70.4474,26.097,4.3,mb,50,141,0.809,0.69,us,us6000iqdh,2022-10-03T13:24:19.040Z,"75 km SSW of Tocopilla, Chile",earthquake,4.12,6.547,0.093,33,reviewed,us,us
 2022-10-03T08:03:09.280Z,60.4325,-152.765333333333,11.33,-0.15,ml,7,167,,0.09,av,av91688681,2022-10-03T22:51:37.000Z,"74 km NW of Ninilchik, Alaska",earthquake,0.62,0.46,0.207465342845215,7,reviewed,av,av
-2022-10-03T07:55:28.548Z,60.3236,-152.2128,84.4,1.5,ml,,,,0.28,ak,ak022cokto46,2022-10-03T07:57:10.929Z,"42 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-10-03T07:54:03.146Z,63.4643,-148.5545,14.4,1.7,ml,,,,1.14,ak,ak022coktefu,2022-10-03T07:56:33.791Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
