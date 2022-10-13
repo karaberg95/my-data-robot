@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-13T20:53:22.085Z,60.0884,-151.4083,56.9,1.8,ml,,,,0.41,ak,ak022d5bxbzk,2022-10-13T20:55:20.511Z,"15 km ENE of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-10-13T20:48:15.242Z,61.1689,-152.2544,10,0.9,ml,,,,0.25,ak,ak022d5bw8vo,2022-10-13T20:49:58.447Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-13T20:31:49.360Z,33.1375,-117.147,0.68,0.95,ml,17,97,0.07084,0.19,ci,ci40360560,2022-10-13T20:35:20.885Z,"2km ESE of San Marcos, CA",earthquake,0.52,31.61,0.133,12,automatic,ci,ci
 2022-10-13T20:27:12.094Z,55.5531,-158.0315,16,2.4,ml,,,,1.1,ak,ak022d5brqll,2022-10-13T20:29:30.227Z,"80 km ESE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-10-13T20:22:51.843Z,63.1676,-149.8883,76.8,1.8,ml,,,,0.64,ak,ak022d5bqr34,2022-10-13T20:25:19.948Z,"53 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -221,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T00:36:40.220Z,38.8255,-122.8556667,2.42,0.19,md,19,96,0.002249,0.02,nc,nc73792911,2022-10-13T03:18:44.175Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.4,0.33,3,reviewed,nc,nc
 2022-10-13T00:35:03.880Z,19.4703330993652,-155.591995239258,-1.26999998092651,1.75,md,11,79,,0.159999996,hv,hv73176337,2022-10-13T00:40:33.120Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.5,0.25,0.680000007,8,automatic,hv,hv
 2022-10-13T00:09:08.760Z,38.7878342,-122.7685013,1.96,1.64,md,29,80,0.0145,0.03,nc,nc73792901,2022-10-13T00:41:17.018Z,"2km NW of The Geysers, CA",earthquake,0.22,0.34,0.07,8,automatic,nc,nc
-2022-10-13T00:04:48.538Z,38.993,-118.1943,5.9,1.3,ml,10,101.01,0.091,0.1036,nn,nn00849137,2022-10-13T00:08:10.700Z,"California-Nevada border region",earthquake,,1.3,0.36,6,automatic,nn,nn
+2022-10-13T00:04:49.102Z,38.9928,-118.1883,7.6,1.1,ml,11,103.16,0.088,0.1064,nn,nn00849137,2022-10-13T20:43:45.949Z,"California-Nevada border region",earthquake,,2.4,0.41,6,reviewed,nn,nn
 2022-10-13T00:01:39.605Z,38.9999,-118.1834,9.5,1.4,ml,13,101.21,0.08,0.1395,nn,nn00849136,2022-10-13T17:01:25.705Z,"26 km WNW of Gabbs, Nevada",earthquake,,1.6,0.27,7,reviewed,nn,nn
 2022-10-13T00:00:50.779Z,39.0053,-118.2101,7.9,1.4,ml,13,124.22,0.095,0.1394,nn,nn00849167,2022-10-13T17:04:34.501Z,"29 km WNW of Gabbs, Nevada",earthquake,,1.6,0.36,6,reviewed,nn,nn
 2022-10-12T23:58:00.800Z,33.686,-116.7268333,16.02,0.7,ml,17,74,0.02723,0.18,ci,ci40360048,2022-10-13T00:19:53.096Z,"6km S of Idyllwild, CA",earthquake,0.5,0.58,0.18,14,reviewed,ci,ci
@@ -275,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-12T21:32:36.540Z,19.1415004730225,-155.516998291016,37.0200004577637,2.1099999,md,36,147,,0.109999999,hv,hv73176207,2022-10-12T21:35:49.290Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.63,1.21000004,1.66999996,14,automatic,hv,hv
 2022-10-12T21:18:18.370Z,38.8238335,-122.7669983,2.17,0.7,md,10,116,0.007008,0.01,nc,nc73792801,2022-10-12T21:19:56.037Z,"4km W of Cobb, CA",earthquake,0.37,0.85,0.15,2,automatic,nc,nc
 2022-10-12T21:08:44.278Z,36.9354,-117.5312,3.2,0.8,ml,14,149.65,0.311,0.1256,nn,nn00849101,2022-10-12T21:21:30.999Z,"58 km NNE of Keeler, California",earthquake,,4,0.92,7,reviewed,nn,nn
-2022-10-12T20:45:54.572Z,59.9059,-153.1371,114.3,1.6,ml,,,,0.3,ak,ak022d3occa5,2022-10-13T20:26:37.040Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-12T20:41:51.070Z,19.2561664581299,-155.390502929688,32.5800018310547,1.99000001,md,32,132,,0.119999997,hv,hv73176182,2022-10-12T20:45:04.200Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,1.00999999,0.5,5,automatic,hv,hv
