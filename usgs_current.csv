@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-13T09:55:30.134Z,66.0888,-150.5104,0,1.8,ml,,,,0.84,ak,ak022d55e0dx,2022-10-13T09:57:41.412Z,"64 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-13T09:29:23.940Z,35.037,-119.03,14.64,1.14,ml,13,170,0.1367,0.21,ci,ci40360304,2022-10-13T09:32:49.208Z,"14km NW of Grapevine, CA",earthquake,0.75,1.41,0.206,9,automatic,ci,ci
 2022-10-13T09:20:24.620Z,19.201000213623,-155.461502075195,34.3400001525879,2.01999998,md,41,107,,0.119999997,hv,hv73176887,2022-10-13T09:23:33.390Z,"1 km E of Pāhala, Hawaii",earthquake,0.55,0.939999998,0.779999971,11,automatic,hv,hv
 2022-10-13T09:14:44.510Z,31.819,-116.0613333,16.99,2.57,ml,7,126,0.2088,0.11,ci,ci40360296,2022-10-13T09:18:29.630Z,"49km ENE of Maneadero, B.C., MX",earthquake,0.37,1.15,0.142,25,automatic,ci,ci
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-12T15:10:18.218Z,62.5064,-151.4641,95.1,1.4,ml,,,,0.42,ak,ak022d3l5ldp,2022-10-12T15:12:20.299Z,"36 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-12T15:09:58.328Z,-30.7799,-71.4288,59.227,4.7,mb,45,58,0.207,0.43,us,us6000it1l,2022-10-12T16:03:33.040Z,"29 km SW of Ovalle, Chile",earthquake,5.45,5.359,0.104,30,reviewed,us,us
 2022-10-12T14:59:13.900Z,38.7946663,-122.810997,2.99,0.99,md,17,93,0.008858,0.02,nc,nc73792666,2022-10-12T15:00:50.036Z,"5km WNW of The Geysers, CA",earthquake,0.32,0.66,0.18,3,automatic,nc,nc
-2022-10-12T14:58:42.520Z,44.7986667,-110.809,8.35,0.77,ml,11,209,0.0313,0.12,uu,uu60520167,2022-10-12T16:13:11.730Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.7,1.48,0.35,2,reviewed,uu,uu
+2022-10-12T14:58:42.520Z,44.7986667,-110.809,8.35,0.77,ml,11,209,0.0313,0.12,uu,uu60520167,2022-10-12T16:13:11.730Z,"Yellowstone National Park, Wyoming",earthquake,0.7,1.48,0.35,2,reviewed,uu,uu
 2022-10-12T14:58:06.670Z,58.166,-155.372833333333,1.25,0.53,ml,7,87,,0.05,av,av91074468,2022-10-13T02:54:14.510Z,"85 km NW of Karluk, Alaska",earthquake,0.2,1.28,0.0984253879708439,7,reviewed,av,av
 2022-10-12T14:57:56.170Z,58.1683333333333,-155.374,2.5,0.37,ml,11,73,,0.08,av,av91694241,2022-10-13T02:51:27.830Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.4,0.160225869608229,11,reviewed,av,av
 2022-10-12T14:57:31.076Z,59.7454,-152.6595,87.3,1.7,ml,,,,0.36,ak,ak022d3ku9cu,2022-10-12T16:39:28.838Z,"46 km W of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -257,8 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-12T10:12:39.371Z,-53.1167,140.1022,10,4.7,mb,29,89,15.992,0.9,us,us6000it00,2022-10-12T10:30:18.040Z,"west of Macquarie Island",earthquake,13.65,1.909,0.106,27,reviewed,us,us
 2022-10-12T10:09:37.131Z,63.451,-149.5797,11.9,1.2,ml,,,,0.68,ak,ak022d3i693m,2022-10-12T10:12:41.941Z,"32 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-12T10:02:13.815Z,36.9412,95.8138,10,4.8,mb,28,101,13.388,0.49,us,us6000isz0,2022-10-12T10:22:26.040Z,"northern Qinghai, China",earthquake,9.46,1.764,0.127,19,reviewed,us,us
-2022-10-12T09:59:05.070Z,46.03366666666667,-119.7295,7.08,0.9,ml,14,153,0.1514,0.07,uw,uw61878477,2022-10-12T17:50:03.970Z,"19 km S of Prosser, Washington",earthquake,0.8,0.9,0.08427495948308833,11,reviewed,uw,uw
-2022-10-12T09:54:00.050Z,58.2315,-155.157666666667,2.28,-0.38,ml,4,220,,0.1,av,av91694086,2022-10-13T00:59:40.100Z,"84 km NNW of Karluk, Alaska",earthquake,0.6,0.78,0.299797458854781,4,reviewed,av,av
-2022-10-12T09:52:13.330Z,38.8226662,-122.8554993,2.42,1.2,md,27,55,0.004988,0.02,nc,nc73792566,2022-10-12T10:03:10.757Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.37,0.02,5,automatic,nc,nc
-2022-10-12T09:51:10.350Z,58.2403333333333,-155.163833333333,4.49,0.73,ml,15,68,,0.22,av,av91694081,2022-10-13T00:56:03.840Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,0.56,0.348326378739115,16,reviewed,av,av
-2022-10-12T09:50:46.190Z,35.5036667,-118.397,3.83,1.64,ml,29,50,0.1707,0.15,ci,ci40359648,2022-10-13T00:23:23.930Z,"13km SE of Bodfish, CA",earthquake,0.21,0.92,0.237,28,reviewed,ci,ci
