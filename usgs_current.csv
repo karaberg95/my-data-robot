@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T07:06:03.104Z,41.9619,144.7352,35.062,5.3,mww,90,99,1.178,1.04,us,us7000ikfi,2022-10-26T13:22:41.040Z,"116 km SSE of Kushiro, Japan",earthquake,8.13,5.828,0.071,19,reviewed,us,us
 2022-10-26T07:05:12.312Z,41.9912,144.7166,37.754,4.6,mb,27,176,1.163,0.38,us,us7000ikfl,2022-10-26T07:37:08.040Z,"112 km SSE of Kushiro, Japan",earthquake,10.59,9.156,0.164,15,reviewed,us,us
 2022-10-26T07:04:57.420Z,37.9553333,-118.6161667,9.99,2.34,md,38,71,0.2356,0.05,nc,nc73799346,2022-10-26T16:51:21.962Z,"40km SSW of Qualeys Camp, NV",earthquake,0.19,1.43,0.141,41,reviewed,nc,nc
-2022-10-26T06:58:53.602Z,37.3647,-117.1234,0,0.1,ml,6,210.9,0.127,0.0867,nn,nn00850116,2022-10-27T02:43:41.652Z,"39 km SSE of Goldfield, Nevada",earthquake,,0,1.07,3,reviewed,nn,nn
-2022-10-26T06:58:47.814Z,37.1245,-115.7586,0,0.1,ml,5,328.87,0.155,0.1033,nn,nn00850117,2022-10-27T02:43:50.681Z,"57 km S of Rachel, Nevada",earthquake,,0,0.2,4,reviewed,nn,nn
