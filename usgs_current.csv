@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-28T10:28:30.660Z,19.496000289917,-155.591339111328,-1.03999996185303,1.9,ml,20,59,,0.370000005,hv,hv73198177,2022-10-28T10:34:00.760Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.479999989,3.71,6,automatic,hv,hv
+2022-10-28T10:28:23.458Z,59.8613,-152.8172,111.3,1.6,ml,,,,0.12,ak,ak022dtyvujt,2022-10-28T10:29:44.523Z,"56 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-10-28T10:17:49.180Z,38.8336678,-122.8170013,1.34,0.8,md,16,69,0.0116,0.04,nc,nc73800231,2022-10-28T10:35:17.186Z,"8km NW of The Geysers, CA",earthquake,0.23,0.6,0.26,3,automatic,nc,nc
 2022-10-28T09:34:41.890Z,35.6173333,-117.5736667,9.58,0.88,ml,13,123,0.1623,0.19,ci,ci40126079,2022-10-28T09:38:15.857Z,"9km E of Ridgecrest, CA",earthquake,0.55,1.31,0.16,10,automatic,ci,ci
 2022-10-28T09:18:21.720Z,37.6118317,-118.8600006,1.99,0.97,md,12,139,0.007523,0.01,nc,nc73800211,2022-10-28T09:47:18.876Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.35,0.67,0.2,12,automatic,nc,nc
 2022-10-28T09:11:53.315Z,-14.5055,-76.2346,10.616,4.9,mb,45,161,2.572,0.85,us,us7000ikw8,2022-10-28T09:33:07.040Z,"66 km WSW of Santiago, Peru",earthquake,8.29,5.205,0.062,84,reviewed,us,us
@@ -6,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T09:07:43.236Z,34.52035904,-97.23336029,5,2.33,ml,26,101.2270279,0.112009421,0.7301669648,ok,ok2022vcuz,2022-10-28T09:11:19.265Z,"10 km W of Davis, Oklahoma",earthquake,3.5133632,,,19,automatic,ok,ok
 2022-10-28T09:05:09.340Z,19.3866672515869,-155.872833251953,9.67000007629395,1.84000003,md,18,160,,0.140000001,hv,hv73198107,2022-10-28T09:14:25.915Z,"7 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.57,0.639999986,1.52999997,6,automatic,hv,hv
 2022-10-28T08:58:02.264Z,63.1386,-150.4663,98.6,1.7,ml,,,,0.64,ak,ak022dtxvd6q,2022-10-28T09:00:24.715Z,"73 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-10-28T08:49:40.760Z,37.4295006,-118.8378296,5.22,1.1,md,9,224,0.1604,0.02,nc,nc73800196,2022-10-28T10:03:13.972Z,"20km SW of Toms Place, CA",earthquake,1.25,6.28,0.07,7,automatic,nc,nc
+2022-10-28T08:49:40.760Z,37.4295006,-118.8378296,5.22,1.1,md,9,224,0.1604,0.02,nc,nc73800196,2022-10-28T10:24:12.103Z,"20km SW of Toms Place, CA",earthquake,1.25,6.28,0.07,7,automatic,nc,nc
 2022-10-28T08:37:30.516Z,38.1447,-117.9562,5.1,1.1,ml,9,131.65,0.006,0.0802,nn,nn00850193,2022-10-28T08:40:39.987Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.35,3,automatic,nn,nn
 2022-10-28T08:20:17.736Z,38.1463,-117.9023,8,1.2,ml,8,159.52,0.046,0.0727,nn,nn00850192,2022-10-28T08:23:19.221Z,"Nevada",earthquake,,0.5,0.5,5,automatic,nn,nn
 2022-10-28T08:12:26.654Z,35.43352509,-97.91464233,5.269155979,1.92,ml,12,70.51290131,0.04310899973,0.8715374128,ok,ok2022vcte,2022-10-28T08:14:46.758Z,"Oklahoma",earthquake,3.660081125,3.865902697,,8,automatic,ok,ok
@@ -211,7 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T10:54:27.523Z,62.8354,-150.638,81.5,2,ml,,,,0.49,ak,ak022dsbi2zk,2022-10-27T10:56:46.470Z,"38 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-27T10:53:11.697Z,61.6091,-146.4408,34.7,1.9,ml,,,,0.55,ak,ak022dsbhu1t,2022-10-27T10:54:32.101Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-27T10:53:01.081Z,62.9418,-148.2708,0.1,1.4,ml,,,,0.71,ak,ak022dsbht87,2022-10-27T10:55:20.413Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-27T10:35:23.082Z,59.7842,-150.8387,51,1.9,ml,,,,0.39,ak,ak022dsbe01g,2022-10-27T10:37:44.006Z,"10 km SE of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-27T10:30:40.221Z,38.1916,-117.7622,5.3,0.8,ml,16,158.58,0.164,0.1226,nn,nn00850141,2022-10-27T17:02:30.525Z,"37 km SE of Mina, Nevada",earthquake,,5.7,0.08,2,reviewed,nn,nn
-2022-10-27T10:27:53.900Z,18.7713333333333,-66.1568333333333,44.93,3.29,md,14,216,0.4588,0.62,pr,pr71380018,2022-10-27T11:24:25.012Z,"34 km N of San Juan, Puerto Rico",earthquake,3.3,7.38,0.117648147224915,10,reviewed,pr,pr
-2022-10-27T10:19:40.100Z,34.034,-116.318,9.75,0.93,ml,35,61,0.06933,0.12,ci,ci40366616,2022-10-27T15:17:52.769Z,"11km S of Joshua Tree, CA",earthquake,0.15,0.33,0.118,14,reviewed,ci,ci
