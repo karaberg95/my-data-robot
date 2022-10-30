@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-30T23:50:50.281Z,66.1774,-149.5331,0.9,1.9,ml,,,,0.75,ak,ak022dxhty84,2022-10-30T23:53:15.237Z,"27 km NW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-30T23:45:34.942Z,59.8548,-150.9799,28.5,2.3,ml,,,,0.87,ak,ak022dxhsugm,2022-10-30T23:47:39.321Z,"1 km WSW of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-30T23:37:07.270Z,40.409668,-121.3593369,5.6,2.2,md,9,164,0.1328,0.08,nc,nc73801406,2022-10-30T23:43:13.046Z,"16km NW of Chester, CA",earthquake,0.56,1.89,0.05,6,automatic,nc,nc
 2022-10-30T23:26:16.480Z,19.4923324584961,-155.441833496094,-0.0500000007450581,2.17,ml,29,108,,0.189999998,hv,hv73201347,2022-10-30T23:31:45.550Z,"22 km WNW of Volcano, Hawaii",earthquake,0.43,0.790000021,0.22,3,automatic,hv,hv
@@ -99,12 +100,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T09:24:04.766Z,-11.462,163.3882,10,4.8,mb,51,45,3.936,0.47,us,us7000ilb1,2022-10-30T09:42:52.040Z,"195 km SE of Kirakira, Solomon Islands",earthquake,5.57,1.867,0.078,51,reviewed,us,us
 2022-10-30T08:59:23.758Z,36.6454,-116.136,0.4,0.1,ml,8,252.12,0.044,0.3158,nn,nn00850237,2022-10-30T09:01:47.988Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.25,3,automatic,nn,nn
 2022-10-30T08:49:08.614Z,37.5012,20.1285,10,4.2,mb,58,165,1.468,0.64,us,us7000ilb0,2022-10-30T09:47:35.040Z,"Ionian Sea",earthquake,6.18,1.947,0.137,17,reviewed,us,us
-2022-10-30T08:26:33.137Z,29.23736572,-97.47070313,3.986124674,3.5,ml,30,78,0.05465250937,0.2,tx,tx2022vgkq,2022-10-30T21:45:08.927Z,"southern Texas",earthquake,1.973825979,1.606423898,0.1,13,reviewed,tx,tx
+2022-10-30T08:26:33.137Z,29.23736572,-97.47070313,3.986124674,3.5,ml,30,78,0.05465250937,0.2,tx,tx2022vgkq,2022-10-30T23:54:00.147Z,"southern Texas",earthquake,1.973825979,1.606423898,0.1,13,reviewed,tx,tx
 2022-10-30T08:16:03.080Z,34.0463333,-117.2351667,15.17,2.85,ml,149,15,0.07098,0.2,ci,ci40127223,2022-10-30T22:31:34.275Z,"2km E of Loma Linda, CA",earthquake,0.11,0.19,0.128,202,reviewed,ci,ci
 2022-10-30T07:39:44.288Z,51.3544,-174.3627,14,3.5,ml,,,,0.5,ak,ak022dx88nix,2022-10-30T18:43:50.546Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-10-30T07:37:35.326Z,34.51392365,-97.23960876,1.846771359,1.94,ml,22,98.70868683,0.1086483523,0.6842742707,ok,ok2022vgja,2022-10-30T07:41:00.294Z,"11 km W of Davis, Oklahoma",earthquake,2.621009108,1.7402049,,18,automatic,ok,ok
 2022-10-30T07:34:13.630Z,35.6155,-117.4316667,11.02,0.81,ml,11,123,0.1056,0.19,ci,ci40127215,2022-10-30T07:37:39.547Z,"17km S of Searles Valley, CA",earthquake,0.52,1.07,0.077,7,automatic,ci,ci
-2022-10-30T07:33:50.970Z,33.2061667,-83.1976667,0.04,2.32,md,13,109,0.3042,0.36,se,se60164543,2022-10-30T22:31:49.951Z,"14 km NNE of Milledgeville, Georgia",earthquake,0.7,1.94,0.046,11,reviewed,se,se
+2022-10-30T07:33:50.970Z,33.2061667,-83.1976667,0.04,2.32,md,13,109,0.3042,0.36,se,se60164543,2022-10-30T23:48:18.951Z,"14 km NNE of Milledgeville, Georgia",earthquake,0.7,1.94,0.046,11,reviewed,se,se
 2022-10-30T07:19:24.897Z,36.10103607,-97.86860657,3.92218709,1.77,ml,23,47.0159874,0.1206526607,0.2079960735,ok,ok2022vgik,2022-10-30T07:22:06.903Z,"2 km ESE of Hennessey, Oklahoma",earthquake,2.289499078,2.279847152,,19,automatic,ok,ok
 2022-10-30T07:12:28.355Z,61.3472,-147.5443,34.3,2,ml,,,,0.1,ak,ak022dx82tn7,2022-10-30T07:13:33.137Z,"51 km S of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-30T07:03:12.060Z,35.8351667,-117.678,4.82,0.84,ml,13,105,0.06822,0.18,ci,ci40127207,2022-10-30T07:06:40.242Z,"24km ESE of Little Lake, CA",earthquake,0.36,0.65,0.2,9,automatic,ci,ci
