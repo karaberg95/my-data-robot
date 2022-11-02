@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-02T14:49:14.840Z,38.838665,-122.8759995,2.32,1.21,md,18,102,0.005838,0.02,nc,nc73802426,2022-11-02T14:50:48.887Z,"12km WNW of The Geysers, CA",earthquake,0.29,0.48,0.07,4,automatic,nc,nc
+2022-11-02T14:49:00.050Z,38.8414993,-122.8776703,2.25,0.67,md,9,104,0.005577,0.02,nc,nc73802421,2022-11-02T14:50:34.758Z,"13km NW of The Geysers, CA",earthquake,0.41,0.38,0.25,2,automatic,nc,nc
 2022-11-02T14:31:40.250Z,19.200834274292,-155.715667724609,-0.170000001788139,1.82000005,md,36,126,,0.230000004,hv,hv73204822,2022-11-02T14:34:58.400Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.52,0.569999993,,5,automatic,hv,hv
 2022-11-02T14:23:31.940Z,19.212833404541,-155.389495849609,36.0999984741211,2.04999995,md,40,158,,0.150000006,hv,hv73204802,2022-11-02T14:26:52.350Z,"9 km E of Pāhala, Hawaii",earthquake,0.75,0.660000026,1.62,10,automatic,hv,hv
 2022-11-02T14:19:45.644Z,57.7088,-156.1149,89.7,1.6,ml,,,,0.17,ak,ak022e2awfpg,2022-11-02T14:21:36.451Z,"79 km ENE of Ugashik, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-11-02T14:17:51.795Z,-60.7877,-25.7347,10,5.7,mb,53,54,8.707,0.66,us,us7000ilyk,2022-11-02T14:40:50.334Z,"South Sandwich Islands region",earthquake,9.86,1.856,0.053,130,reviewed,us,us
+2022-11-02T14:17:51.795Z,-60.7877,-25.7347,10,5.7,mb,53,54,8.707,0.66,us,us7000ilyk,2022-11-02T14:53:16.040Z,"South Sandwich Islands region",earthquake,9.86,1.856,0.053,130,reviewed,us,us
 2022-11-02T14:11:41.480Z,33.4658333,-116.5615,12.5,0.81,ml,24,96,0.04456,0.18,ci,ci40128351,2022-11-02T14:15:22.599Z,"14km SE of Anza, CA",earthquake,0.38,0.56,0.201,18,automatic,ci,ci
 2022-11-02T14:09:54.380Z,19.451000213623,-155.849502563477,10.6499996185303,2.1400001,md,43,114,,0.170000002,hv,hv73204787,2022-11-02T14:13:03.320Z,"1 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.349999994,1.50999999,15,automatic,hv,hv
 2022-11-02T14:03:10.090Z,38.1868,-117.8853,6.7,1.6,ml,19,135.64,0.075,0.1445,nn,nn00850455,2022-11-02T14:06:07.990Z,"29 km SE of Mina, Nevada",earthquake,,0.5,0.42,11,automatic,nn,nn
@@ -33,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T09:51:22.090Z,33.647,-116.7446667,14.05,2.03,ml,64,26,0.05559,0.19,ci,ci40128279,2022-11-02T13:12:29.260Z,"11km SSW of Idyllwild, CA",earthquake,0.18,0.31,0.208,27,reviewed,ci,ci
 2022-11-02T09:48:11.295Z,38.1113,-118.9129,0,0.9,ml,8,222.08,0.35,0.2404,nn,nn00850452,2022-11-02T09:52:48.693Z,"21 km ENE of Mono City, California",earthquake,,139.1,0.17,4,automatic,nn,nn
 2022-11-02T09:41:03.230Z,19.2066669464111,-155.380172729492,35.3600006103516,2.27999997,md,36,210,,0.159999996,hv,hv73204557,2022-11-02T09:44:15.130Z,"10 km E of Pāhala, Hawaii",earthquake,0.77,0.800000012,1.61000001,6,automatic,hv,hv
-2022-11-02T09:38:24.880Z,33.3139992,-116.2570038,11.1,2,ml,87,40,0.06531,0.19,ci,ci40128271,2022-11-02T09:49:16.340Z,"13km ENE of Borrego Springs, CA",earthquake,0.19,0.43,0.196,25,automatic,ci,ci
+2022-11-02T09:38:24.810Z,33.3118333,-116.2565,11.32,1.93,ml,89,23,0.0672,0.18,ci,ci40128271,2022-11-02T14:53:57.840Z,"13km ENE of Borrego Springs, CA",earthquake,0.12,0.28,0.163,72,reviewed,ci,ci
 2022-11-02T09:35:48.280Z,38.7949982,-122.754837,2.69,0.36,md,8,147,0.006788,0.01,nc,nc73802376,2022-11-02T11:49:14.104Z,"2km N of The Geysers, CA",earthquake,0.72,1.32,,1,automatic,nc,nc
 2022-11-02T09:21:40.770Z,60.446,-152.6984,14.8,2.8,ml,,,,0.41,ak,ak022e27xoql,2022-11-02T12:05:43.040Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-11-02T09:21:04.830Z,19.4204998016357,-155.384674072266,4.96999979019165,2.42,ml,43,51,,0.150000006,hv,hv73204542,2022-11-02T09:26:34.950Z,"16 km W of Volcano, Hawaii",earthquake,0.38,0.930000007,3.25,8,automatic,hv,hv
@@ -181,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-01T15:07:33.910Z,33.1593333,-116.594,9.37,0.9,ml,19,93,0.05977,0.15,ci,ci40128079,2022-11-01T16:56:56.375Z,"9km N of Julian, CA",earthquake,0.31,0.56,0.099,8,reviewed,ci,ci
 2022-11-01T15:05:52.480Z,19.1753330230713,-155.481170654297,31.8999996185303,2.20000005,md,41,146,,0.140000001,hv,hv73203612,2022-11-01T15:09:08.690Z,"3 km S of Pāhala, Hawaii",earthquake,0.51,0.74000001,1.08000004,16,automatic,hv,hv
 2022-11-01T15:04:25.370Z,61.2957,-146.813,17.7,2.3,ml,,,,0.7,ak,ak022e0nv9ia,2022-11-01T15:12:10.040Z,"31 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-01T14:51:29.639Z,61.2793,-146.7962,25.3,2.6,ml,,,,0.4,ak,ak022e0njww3,2022-11-01T15:00:14.040Z,"29 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
