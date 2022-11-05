@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-05T14:54:15.266Z,61.5626,-151.6051,79.6,1.6,ml,,,,0.38,ak,ak022e79pwwm,2022-11-05T14:55:56.765Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-05T14:50:41.740Z,34.4656667,-117.9596667,8.56,1.32,ml,17,56,0.01705,0.16,ci,ci40129271,2022-11-05T14:54:16.002Z,"6km SW of Pearblossom, CA",earthquake,0.29,0.57,0.188,31,automatic,ci,ci
+2022-11-05T14:50:33.500Z,34.1716667,-117.8076667,18.48,1.44,ml,10,112,0.2022,0.18,ci,ci40129279,2022-11-05T14:54:22.139Z,"7km NE of Glendora, CA",earthquake,0.56,1.32,0.423,9,automatic,ci,ci
 2022-11-05T14:39:04.300Z,33.5125,-116.559,4.85,0.29,ml,19,167,0.04023,0.19,ci,ci40129263,2022-11-05T14:42:40.377Z,"12km ESE of Anza, CA",earthquake,0.42,0.65,0.191,5,automatic,ci,ci
 2022-11-05T14:36:32.960Z,34.0761667,-117.2731667,13.95,1.17,ml,24,72,0.1184,0.2,ci,ci40129255,2022-11-05T14:40:07.794Z,"3km NNW of Loma Linda, CA",earthquake,0.37,1.19,0.214,32,automatic,ci,ci
 2022-11-05T14:28:59.180Z,38.8258324,-122.8538361,1.67,0.37,md,8,128,0.01826,0.02,nc,nc73803826,2022-11-05T14:47:17.701Z,"10km WNW of The Geysers, CA",earthquake,0.34,1.41,,1,automatic,nc,nc
@@ -49,10 +52,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T08:43:58.680Z,38.7879982,-122.7663345,1.94,0.21,md,13,93,0.01363,0.04,nc,nc73803751,2022-11-05T09:01:11.566Z,"2km NW of The Geysers, CA",earthquake,0.37,0.87,0.15,2,automatic,nc,nc
 2022-11-05T08:43:27.322Z,62.7098,-150.9455,8.5,1.7,ml,,,,0.34,ak,ak022e762zbw,2022-11-05T08:44:58.970Z,"25 km NNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-05T08:37:47.273Z,61.7171,-150.6999,34.2,1.7,ml,,,,0.39,ak,ak022e761qkn,2022-11-05T08:40:08.770Z,"21 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-05T08:32:00.670Z,-9.7629,159.4379,10,5.3,mb,64,58,0.597,0.76,us,us7000imnp,2022-11-05T09:11:37.119Z,"Solomon Islands",earthquake,5.93,1.769,0.085,46,reviewed,us,us
+2022-11-05T08:32:00.510Z,-9.7852,159.4466,10,5,mww,76,59,0.602,0.78,us,us7000imnp,2022-11-05T14:56:30.202Z,"31 km WSW of Malango, Solomon Islands",earthquake,6.7,1.801,0.086,13,reviewed,us,us
 2022-11-05T08:32:00.490Z,33.4181667,-116.3671667,12.03,1.04,ml,37,53,0.0736,0.25,ci,ci40129199,2022-11-05T08:35:31.277Z,"18km N of Borrego Springs, CA",earthquake,0.31,0.7,0.156,27,automatic,ci,ci
 2022-11-05T07:59:35.714Z,75.6973,-104.8233,2.739,4.8,mb,68,42,7.865,1.01,us,us7000imni,2022-11-05T08:17:20.040Z,"Bathurst Island region, Nunavut, Canada",earthquake,8.26,4.416,0.038,214,reviewed,us,us
-2022-11-05T07:57:19.393Z,-35.5533,-73.714,8.527,5,mww,67,100,1.265,0.59,us,us7000imnf,2022-11-05T08:12:34.040Z,"120 km WSW of Constitución, Chile",earthquake,5.87,4.02,0.056,31,reviewed,us,us
+2022-11-05T07:57:19.393Z,-35.5533,-73.714,8.527,5,mww,67,100,1.265,0.59,us,us7000imnf,2022-11-05T14:52:58.507Z,"120 km WSW of Constitución, Chile",earthquake,5.87,4.02,0.056,31,reviewed,us,us
 2022-11-05T07:51:11.712Z,62.003,-149.7901,41.2,1.5,ml,,,,0.44,ak,ak022e75j88z,2022-11-05T07:52:53.927Z,"17 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-11-05T07:49:09.662Z,64.7441,-148.9337,1.6,1.1,ml,,,,0.67,ak,ak022e75isnq,2022-11-05T07:52:11.731Z,"18 km NNE of Four Mile Road, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2022-11-05T07:42:09.812Z,4.1017,126.2786,85.208,5,mb,73,98,3.03,0.99,us,us7000imnc,2022-11-05T07:59:01.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,8.39,6.896,0.072,61,reviewed,us,us
