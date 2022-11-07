@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-07T10:10:36.465Z,36.75691605,-98.07701111,6.949675083,1.83,ml,19,153.315239,0.1082099006,0.2741944867,ok,ok2022vvec,2022-11-07T10:11:37.458Z,"6 km E of Nescatunga, Oklahoma",earthquake,4.108600592,6.997617913,,3,automatic,ok,ok
+2022-11-07T10:05:36.010Z,33.1398333,-116.5136667,11.46,1.49,ml,54,52,0.09166,0.21,ci,ci40129943,2022-11-07T10:09:11.447Z,"11km NE of Julian, CA",earthquake,0.26,0.75,0.152,26,automatic,ci,ci
+2022-11-07T10:03:38.340Z,61.1647,-149.7565,36.4,1.3,ml,,,,0.4,ak,ak022eai3zqi,2022-11-07T10:06:53.007Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-07T10:00:17.187Z,63.2156,-145.0924,8.2,1.4,ml,,,,0.46,ak,ak022eai3aye,2022-11-07T10:03:12.930Z,"29 km ENE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-07T09:56:40.090Z,19.4398326873779,-155.602493286133,-0.270000010728836,1.76,ml,12,92,,0.170000002,hv,hv73211507,2022-11-07T10:02:11.910Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.699999988,0.14,3,automatic,hv,hv
 2022-11-07T09:35:38.040Z,38.7843323,-122.7226639,1.9,0.34,md,6,223,0.01104,0.02,nc,nc73804641,2022-11-07T09:51:13.714Z,"3km WNW of Anderson Springs, CA",earthquake,0.95,0.71,,1,automatic,nc,nc
 2022-11-07T09:13:09.610Z,19.1585006713867,-155.499160766602,39.3800010681152,2.21000004,md,40,127,,0.189999998,hv,hv73211477,2022-11-07T09:16:28.840Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.79,1.30999994,1.22000003,15,automatic,hv,hv
 2022-11-07T09:12:29.450Z,33.7846667,-116.9446667,12.81,1.11,ml,44,40,0.03027,0.24,ci,ci40129935,2022-11-07T09:23:31.220Z,"1km E of San Jacinto, CA",earthquake,0.28,0.62,0.171,26,automatic,ci,ci
@@ -184,8 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T10:51:31.788Z,55.7403,-155.5432,10,3.5,ml,32,197,1.862,0.39,us,us7000imwn,2022-11-06T11:01:01.040Z,"158 km SSW of Akhiok, Alaska",earthquake,5.73,1.995,0.066,30,reviewed,us,us
 2022-11-06T10:43:11.300Z,33.8931667,-116.2306667,7.26,1.15,ml,50,49,0.05749,0.12,ci,ci40129591,2022-11-06T19:57:31.770Z,"17km ENE of Thousand Palms, CA",earthquake,0.11,0.29,0.12,34,reviewed,ci,ci
 2022-11-06T10:29:37.445Z,62.9186,-150.3136,14.5,1.6,ml,,,,0.44,ak,ak022e8uq7sg,2022-11-06T10:31:47.822Z,"52 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-06T10:12:24.690Z,33.6391667,-116.6995,12.61,0.63,ml,22,80,0.07045,0.12,ci,ci40129583,2022-11-06T14:30:12.469Z,"10km NNW of Anza, CA",earthquake,0.28,0.42,0.172,16,reviewed,ci,ci
-2022-11-06T10:05:28.035Z,60.4451,-152.8614,17.9,1.8,ml,,,,0.72,ak,ak022e8ul1vn,2022-11-06T21:25:35.850Z,"79 km WNW of Ninilchik, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-11-06T10:05:08.598Z,-20.8992,-70.2257,36.201,3.7,ml,15,171,0.519,0.47,us,us7000imwi,2022-11-06T23:08:47.673Z,"76 km S of Iquique, Chile",earthquake,3.02,24.077,0.071,26,reviewed,us,us
-2022-11-06T10:04:45.790Z,46.0753,-111.7894,5,1.3,ml,12,91,0.491,0.55,us,us7000imwj,2022-11-06T10:29:26.040Z,"18 km SW of Radersburg, Montana",earthquake,1.88,1.913,0.091,16,reviewed,us,us
-2022-11-06T10:02:04.832Z,51.5652,-175.9836,48.319,5.1,mww,118,135,0.397,0.7,us,us7000imwh,2022-11-07T04:12:17.057Z,"56 km SE of Adak, Alaska",earthquake,2.97,5.618,0.08,15,reviewed,us,us
