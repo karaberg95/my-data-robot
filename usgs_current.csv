@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T08:09:10.985Z,59.8004,-153.1884,125.8,2,ml,,,,0.36,ak,ak022eagycqc,2022-11-07T11:26:05.040Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-07T08:05:45.780Z,18.713,-64.4161,52,3.13,md,3,351,0.6497,0.17,pr,pr2022311006,2022-11-07T15:22:33.753Z,"58 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.69,3.09,0.06,2,reviewed,pr,pr
 2022-11-07T07:59:45.570Z,34.0458333,-116.967,14.52,1,ml,48,70,0.02238,0.13,ci,ci40129903,2022-11-07T17:47:41.911Z,"7km E of Yucaipa, CA",earthquake,0.15,0.36,0.136,26,reviewed,ci,ci
-2022-11-07T07:53:24.958Z,38.6697,-118.8951,9,1.7,ml,13,103.7,0.456,0.139,nn,nn00850721,2022-11-07T21:46:12.573Z,"12 km W of Walker Lake, Nevada",earthquake,,3.6,0.26,3,reviewed,nn,nn
-2022-11-07T07:50:20.070Z,60.429,-152.780166666667,11.37,0.4,ml,7,128,,0.13,av,av91711131,2022-11-08T03:33:31.350Z,"74 km NW of Ninilchik, Alaska",earthquake,0.94,0.6,0.201673926685467,7,reviewed,av,av
