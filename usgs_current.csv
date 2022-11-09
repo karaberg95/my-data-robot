@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-09T23:28:02.709Z,29.3886,81.1644,10,4.1,mb,19,186,3.949,0.52,us,us7000innz,2022-11-09T23:55:24.040Z,"Nepal",earthquake,9.8,1.977,0.185,8,reviewed,us,us
 2022-11-09T23:23:08.254Z,38.1144,-118.0244,7.1,1.9,ml,12,121.24,0.09,0.2545,nn,nn00850957,2022-11-09T23:26:20.612Z,"31 km SSE of Mina, Nevada",earthquake,,0.5,0.11,7,automatic,nn,nn
 2022-11-09T23:18:33.920Z,32.5401649,-117.1611633,11.98,1.71,ml,17,252,0.169,0.24,ci,ci40130559,2022-11-09T23:22:09.395Z,"7km SW of Imperial Beach, CA",earthquake,1.26,2.85,0.232,8,automatic,ci,ci
 2022-11-09T23:16:04.840Z,17.9415,-66.9756666666667,16.56,2.14,md,12,224,0.07073,0.09,pr,pr71381628,2022-11-09T23:30:58.440Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.5,0.68,0.0604039136693562,6,reviewed,pr,pr
