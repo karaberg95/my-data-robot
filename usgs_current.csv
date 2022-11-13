@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-13T21:51:58.530Z,38.8226662,-122.7651672,2.04,0.21,md,10,120,0.00863,0.01,nc,nc73804775,2022-11-13T21:53:37.018Z,"4km W of Cobb, CA",earthquake,0.31,0.73,0.16,2,automatic,nc,nc
-2022-11-13T21:49:32.580Z,35.6881676,-120.3391647,9.04,2.13,md,6,210,0.2116,0.11,nc,nc73804770,2022-11-13T21:56:11.834Z,"5km NE of Shandon, CA",earthquake,3.75,8.2,,1,automatic,nc,nc
+2022-11-13T22:03:22.927Z,61.1321,-150.87,34,3.1,ml,,,,0.58,ak,ak022ekmh8r3,2022-11-13T22:19:08.773Z,"11 km E of Beluga, Alaska",earthquake,,882.9,,,automatic,ak,ak
+2022-11-13T21:51:58.530Z,38.8226662,-122.7651672,2.04,0.21,md,10,120,0.00863,0.01,nc,nc73804775,2022-11-13T22:09:14.901Z,"4km W of Cobb, CA",earthquake,0.31,0.73,0.16,2,automatic,nc,nc
+2022-11-13T21:49:32.580Z,35.6881676,-120.3391647,9.04,2.13,md,6,210,0.2116,0.11,nc,nc73804770,2022-11-13T22:11:11.916Z,"5km NE of Shandon, CA",earthquake,3.75,8.2,,1,automatic,nc,nc
 2022-11-13T21:35:28.870Z,-20.0317,-177.8636,595.15,4.9,mb,21,77,2.736,0.96,us,us7000ipif,2022-11-13T21:47:04.040Z,"Fiji region",earthquake,8.88,26.157,0.145,15,reviewed,us,us
 2022-11-13T21:09:34.450Z,19.1801662445068,-155.504669189453,35.9199981689453,2.02,ml,41,97,,0.109999999,hv,hv73220312,2022-11-13T21:15:04.720Z,"3 km SW of Pāhala, Hawaii",earthquake,0.56,0.819999993,4.11,6,automatic,hv,hv
 2022-11-13T21:08:15.120Z,19.2268333435059,-155.435836791992,32.4199981689453,2.03999996,md,26,122,,0.119999997,hv,hv73220307,2022-11-13T21:12:32.720Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.66,0.829999983,1.36000001,3,automatic,hv,hv
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T09:47:05.150Z,38.821167,-122.7663345,1.83,1.38,md,24,111,0.009702,0.02,nc,nc73804610,2022-11-13T10:34:14.736Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.18,4,automatic,nc,nc
 2022-11-13T09:45:36.946Z,39.6462,-119.3895,11.1,0.7,ml,9,190.03,0.065,0.1831,nn,nn00851211,2022-11-13T15:59:17.547Z,"9 km W of Wadsworth, Nevada",earthquake,,2.1,0.42,6,reviewed,nn,nn
 2022-11-13T09:39:10.420Z,19.4343338012695,-155.266494750977,-0.330000013113022,1.88,ml,16,122,,0.170000002,hv,hv73219657,2022-11-13T09:45:08.832Z,"3 km WSW of Volcano, Hawaii",earthquake,0.28,0.409999996,0.12,3,automatic,hv,hv
-2022-11-13T09:20:48.548Z,50.988,-179.1199,35,4.5,mb,25,218,0.855,0.71,us,us7000ipg0,2022-11-13T09:35:40.040Z,"198 km WSW of Adak, Alaska",earthquake,5.2,2.009,0.144,14,reviewed,us,us
+2022-11-13T09:20:48.548Z,50.988,-179.1199,35,4.5,mb,25,218,0.855,0.71,us,us7000ipg0,2022-11-13T22:06:49.662Z,"198 km WSW of Adak, Alaska",earthquake,5.2,2.009,0.144,14,reviewed,us,us
 2022-11-13T09:12:45.145Z,14.244,-92.8614,58.728,4.3,mb,59,164,2.143,0.49,us,us7000ipfz,2022-11-13T10:38:36.040Z,"70 km SW of Puerto Madero, Mexico",earthquake,9.78,10.857,0.052,103,reviewed,us,us
 2022-11-13T09:06:43.165Z,35.29195023,-97.97845459,5.18159771,1.67,ml,14,63.81988525,0.1085046902,0.648434795,ok,ok2022wgba,2022-11-13T09:09:06.001Z,"3 km SW of Minco, Oklahoma",earthquake,3.671916974,4.082471146,,12,automatic,ok,ok
 2022-11-13T09:05:33.768Z,60.7477,-149.9671,39,1.8,ml,,,,0.53,ak,ak022eker268,2022-11-13T09:16:09.938Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -176,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-12T22:38:20.330Z,33.1091667,-115.5995,8.58,1.24,ml,26,41,0.02014,0.19,ci,ci40131647,2022-11-13T20:03:09.255Z,"8km WSW of Calipatria, CA",earthquake,0.23,0.5,0.283,15,reviewed,ci,ci
 2022-11-12T22:34:05.320Z,38.841835,-122.7884979,1,0.81,md,16,110,0.00948,0.02,nc,nc73804470,2022-11-13T00:37:14.129Z,"6km WNW of Cobb, CA",earthquake,0.24,0.44,0.21,3,automatic,nc,nc
 2022-11-12T22:22:13.667Z,38.8948,-119.6325,0.1,1.1,ml,8,106.34,0.196,0.3037,nn,nn00851194,2022-11-12T22:25:22.707Z,"3 km NNE of Carter Springs, Nevada",earthquake,,9.1,0.28,5,automatic,nn,nn
-2022-11-12T22:21:40.635Z,-36.9586,178.9975,22.733,4.7,mb,20,134,0.817,0.91,us,us7000ipd2,2022-11-12T23:13:50.040Z,"off the east coast of the North Island of New Zealand",earthquake,4.79,7.372,0.153,13,reviewed,us,us
-2022-11-12T22:11:24.970Z,35.3416667,-118.5083333,8.94,1.17,ml,19,76,0.08747,0.14,ci,ci40131639,2022-11-13T19:57:02.802Z,"24km NNW of Tehachapi, CA",earthquake,0.24,0.52,0.127,10,reviewed,ci,ci
-2022-11-12T22:07:09.978Z,36.0303,-115.0637,5.1,1.7,ml,21,238.8,0.48,0.3175,nn,nn00851193,2022-11-12T22:11:48.455Z,"7 km W of Henderson, Nevada",earthquake,,1.1,1.01,14,automatic,nn,nn
