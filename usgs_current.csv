@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-14T19:20:58.212Z,37.3479,-117.2519,4.9,1.2,ml,19,115.2,0.048,0.3163,nn,nn00851259,2022-11-14T19:23:54.754Z,"California-Nevada border region",earthquake,,0.9,0.78,12,automatic,nn,nn
 2022-11-14T19:05:37.869Z,62.2029,-150.3055,14,1.6,ml,,,,0.57,ak,ak022em88r16,2022-11-14T19:07:13.862Z,"13 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-14T19:02:53.570Z,38.8185005,-122.7955017,2.44,0.87,md,23,33,0.01052,0.01,nc,nc73805050,2022-11-14T19:12:11.564Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.29,5,automatic,nc,nc
 2022-11-14T18:43:20.710Z,17.9513333333333,-66.9568333333333,11.26,2.1,md,13,209,0.07752,0.07,pr,pr71382433,2022-11-14T19:01:10.390Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.35,0.45,0.108439680204286,8,reviewed,pr,pr
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T04:34:51.980Z,61.6759,-149.8873,27,1.9,ml,,,,0.65,ak,ak022elzhhta,2022-11-14T04:37:00.288Z,"6 km NW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-14T04:32:29.310Z,43.8835,-121.38816666666666,12.57,0.24,ml,8,165,0.06453,0.14,uw,uw61894231,2022-11-14T05:27:40.050Z,"Oregon",earthquake,0.61,0.64,0.058631923836100525,4,reviewed,uw,uw
 2022-11-14T04:29:12.956Z,33.1045,92.0731,10,4.1,mb,22,109,6.847,0.57,us,us7000ipk5,2022-11-14T05:03:55.040Z,"180 km N of Nagqu, China",earthquake,10.27,1.956,0.135,15,reviewed,us,us
-2022-11-14T04:21:41.030Z,37.3861667,-119.9953333,19.82,1.43,md,12,79,0.1843,0.12,nc,nc73804895,2022-11-14T18:18:11.095Z,"11km SSW of Mariposa, CA",earthquake,0.5,0.53,0.108,10,reviewed,nc,nc
+2022-11-14T04:21:41.030Z,37.3861667,-119.9953333,19.82,1.43,md,12,79,0.1843,0.12,nc,nc73804895,2022-11-14T19:24:13.474Z,"11km SSW of Mariposa, CA",earthquake,0.5,0.53,0.108,10,reviewed,nc,nc
 2022-11-14T04:20:45.491Z,56.3313,-34.7219,10,4.9,mb,79,74,7.371,0.64,us,us7000ipk4,2022-11-14T04:42:53.040Z,"Reykjanes Ridge",earthquake,10.22,1.888,0.037,233,reviewed,us,us
 2022-11-14T04:20:01.960Z,17.9488333333333,-66.987,9.43,3.07,md,24,203,0.05819,0.08,pr,pr71382223,2022-11-14T04:54:09.390Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.3,0.45,0.0984464994810073,11,reviewed,pr,pr
 2022-11-14T04:11:05.590Z,44.7996667,-110.8165,5.33,0.42,md,6,294,0.02673,0.06,uu,uu60524927,2022-11-14T15:17:01.310Z,"Wyoming",earthquake,3.52,1.82,0.277,4,reviewed,uu,uu
