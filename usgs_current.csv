@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-20T15:04:34.023Z,61.1513,-145.553,17,2,ml,,,,0.53,ak,ak022ew32vka,2022-11-20T15:06:25.494Z,"42 km E of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T14:51:25.219Z,58.3349,-154.6026,49.6,1.3,ml,,,,1,ak,ak022ew2rhxl,2022-11-20T14:53:05.983Z,"85 km N of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2022-11-20T14:50:48.230Z,33.1586667,-116.4603333,6.37,0.8,ml,21,123,0.1151,0.23,ci,ci40378504,2022-11-20T14:54:21.090Z,"13km SW of Borrego Springs, CA",earthquake,0.47,1.15,0.173,10,automatic,ci,ci
 2022-11-20T14:48:00.874Z,58.2517,-155.1397,9.1,0.2,ml,,,,0.66,ak,ak022ew2qsym,2022-11-20T14:50:58.920Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-20T14:47:34.766Z,58.2429,-155.2077,1.2,0.6,ml,,,,0.47,ak,ak022ew2qnt0,2022-11-20T14:49:11.502Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-11-20T14:35:33.974Z,58.2412,-155.2406,7.1,4.1,ml,,,,0.67,ak,ak022ew2o34l,2022-11-20T14:54:44.474Z,"Alaska Peninsula",earthquake,,0.2,,,reviewed,ak,ak
+2022-11-20T14:35:35.536Z,31.6542,-104.2756,5,2.5,ml,23,109,0.193,0.54,us,us7000ir60,2022-11-20T15:04:37.040Z,"58 km S of Whites City, New Mexico",earthquake,2,1.957,0.05,52,reviewed,us,us
+2022-11-20T14:35:33.974Z,58.2412,-155.2406,7.1,4.1,ml,,,,0.67,ak,ak022ew2o34l,2022-11-20T15:11:46.040Z,"Alaska Peninsula",earthquake,,0.2,,,reviewed,ak,ak
 2022-11-20T14:27:06.480Z,19.4368324279785,-155.601669311523,-0.970000028610229,1.92999995,md,13,90,,0.129999995,hv,hv73229417,2022-11-20T14:30:06.850Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.449999988,0.959999979,8,automatic,hv,hv
 2022-11-20T14:10:07.220Z,19.1135005950928,-155.432159423828,29.4300003051758,1.86000001,md,32,181,,0.159999996,hv,hv73229412,2022-11-20T14:13:19.840Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.61,1.07000005,1.48000002,10,automatic,hv,hv
 2022-11-20T14:05:15.300Z,35.5058333,-118.3936667,3.85,0.91,ml,13,177,0.1919,0.11,ci,ci40378496,2022-11-20T14:08:37.532Z,"13km SE of Bodfish, CA",earthquake,0.4,1.02,0.122,9,automatic,ci,ci
@@ -212,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T15:27:15.964Z,-19.356,-68.7669,141.502,4.2,mb,16,65,0.509,0.52,us,us7000ir01,2022-11-19T16:25:51.040Z,"168 km SSW of Curahuara de Carangas, Bolivia",earthquake,9.5,6.731,0.199,7,reviewed,us,us
 2022-11-19T15:25:36.380Z,38.8278351,-122.8215027,1.8,0.75,md,18,42,0.009967,0.01,nc,nc73809306,2022-11-19T16:37:14.662Z,"8km NW of The Geysers, CA",earthquake,0.24,0.52,0.11,2,automatic,nc,nc
 2022-11-19T15:17:20.400Z,37.4155,-118.6373333,12.78,1.14,md,11,115,0.08575,0.03,nc,nc73809296,2022-11-19T21:20:13.314Z,"4km W of Round Valley, CA",earthquake,1.44,2.58,0.293,9,reviewed,nc,nc
-2022-11-19T15:12:50.180Z,38.815834,-122.803833,-0.01,0.99,md,10,78,0.008987,0.02,nc,nc73809291,2022-11-19T16:09:14.466Z,"6km NW of The Geysers, CA",earthquake,0.22,0.6,0.23,2,automatic,nc,nc
-2022-11-19T15:03:04.560Z,38.6,-122.8046667,7.06,1.14,md,34,46,0.0554,0.08,nc,nc73809286,2022-11-19T20:54:15.314Z,"6km ESE of Healdsburg, CA",earthquake,0.13,0.33,0.2,14,reviewed,nc,nc
