@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-22T06:50:21.798Z,63.416,-148.2167,0.1,1.3,ml,,,,0.86,ak,ak022ez92huu,2022-11-22T06:52:30.658Z,"36 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-22T06:24:44.630Z,33.2158333,-116.748,10.98,0.6,ml,29,35,0.02202,0.15,ci,ci40379256,2022-11-22T06:28:17.467Z,"3km SSE of Lake Henshaw, CA",earthquake,0.27,0.58,0.078,11,automatic,ci,ci
-2022-11-22T06:21:50.771Z,62.1945,-149.9859,6.2,2.3,ml,,,,0.73,ak,ak022ez8wckl,2022-11-22T06:37:08.979Z,"7 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-22T06:21:50.771Z,62.1945,-149.9859,6.2,2.3,ml,,,,0.73,ak,ak022ez8wckl,2022-11-22T06:42:03.040Z,"7 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-22T06:17:13.310Z,34.0093333,-117.1825,13.95,1.91,ml,72,33,0.06378,0.19,ci,ci40379248,2022-11-22T06:27:55.800Z,"5km S of Redlands, CA",earthquake,0.19,0.46,0.201,25,automatic,ci,ci
 2022-11-22T06:17:08.730Z,33.6451667,-116.764,11.5,0.76,ml,15,107,0.05134,0.26,ci,ci40379240,2022-11-22T06:20:42.992Z,"11km SSW of Idyllwild, CA",earthquake,0.72,1.12,0.403,21,automatic,ci,ci
 2022-11-22T06:15:53.090Z,-9.8445,159.5979,9.174,4.8,mb,36,50,0.531,0.38,us,us7000irgr,2022-11-22T06:36:10.040Z,"21 km SW of Malango, Solomon Islands",earthquake,6.47,5.087,0.097,33,reviewed,us,us
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T07:00:26.030Z,38.784668,-122.7460022,0.78,0.21,md,7,85,0.00739,0.02,nc,nc73809896,2022-11-21T07:40:12.591Z,"1km NE of The Geysers, CA",earthquake,0.77,2.26,0.16,2,automatic,nc,nc
 2022-11-21T06:58:27.829Z,61.0223,-147.4081,93.4,1.7,ml,,,,0.4,ak,ak022exlkvsu,2022-11-21T07:00:20.270Z,"43 km WNW of Tatitlek, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-11-21T06:57:17.424Z,63.1031,-151.5036,0,1.4,ml,,,,0.55,ak,ak022exlkna6,2022-11-21T06:59:14.655Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-21T06:50:43.680Z,44.7776667,-110.8015,4.57,1.05,ml,15,95,0.03649,0.18,uu,uu60525877,2022-11-21T17:59:42.510Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.42,0.64,0.248,2,reviewed,uu,uu
