@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T03:50:19.740Z,38.8263321,-122.8544998,2.52,1.19,md,24,62,0.002214,0.02,nc,nc73811931,2022-11-27T03:52:58.501Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.02,4,automatic,nc,nc
 2022-11-27T03:41:54.893Z,38.5332,-119.5265,6,1.2,ml,13,100.11,0.053,0.1386,nn,nn00852106,2022-11-27T03:44:38.357Z,"California-Nevada border region",earthquake,,0.6,0.26,7,automatic,nn,nn
 2022-11-27T03:30:37.886Z,62.0457,-150.622,56.1,2.1,ml,,,,0.4,ak,ak022f7guooc,2022-11-27T03:32:32.152Z,"36 km SW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-27T02:50:52.597Z,-24.9252,-112.2414,10,5.6,mww,97,112,3.413,0.66,us,us7000isn8,2022-11-27T03:33:36.017Z,"Easter Island region",earthquake,7.57,1.57,0.089,12,reviewed,us,us
