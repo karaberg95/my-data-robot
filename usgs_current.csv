@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T15:29:25.796Z,34.50990677,-97.23053741,4.266564369,2.06,ml,11,174.7126732,0.1169862226,0.4479171127,ok,ok2022xgcr,2022-11-27T15:31:46.782Z,"10 km W of Davis, Oklahoma",earthquake,5.964079797,3.843026873,,9,automatic,ok,ok
 2022-11-27T15:10:33.234Z,60.447,-152.0309,88.9,1.5,ml,,,,0.15,ak,ak022f7nvl97,2022-11-27T15:11:55.657Z,"40 km WNW of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-11-27T14:47:54.310Z,38.8376656,-122.8083344,2.1,0.36,md,7,112,0.01407,0,nc,nc73812046,2022-11-27T15:14:12.556Z,"8km WNW of Cobb, CA",earthquake,0.57,1.2,,1,automatic,nc,nc
 2022-11-27T14:45:10.070Z,38.8376656,-122.8081665,2.03,0.85,md,9,81,0.01394,0,nc,nc73812041,2022-11-27T15:19:15.584Z,"8km WNW of Cobb, CA",earthquake,0.32,0.75,,1,automatic,nc,nc
@@ -173,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T16:07:26.064Z,31.68803839,-104.4049837,6.080151367,3,ml,29,44,0.03935489728,0.2,tx,tx2022xeij,2022-11-26T16:36:51.040Z,"western Texas",earthquake,0.7620549099,0.6724354489,0.1,18,reviewed,tx,tx
 2022-11-26T16:05:20.960Z,19.1458339691162,-155.44416809082,31.1000003814697,1.99000001,md,40,236,,0.140000001,hv,hv73236907,2022-11-26T16:08:39.500Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.72,1.12,0.270000011,5,automatic,hv,hv
 2022-11-26T15:51:38.850Z,38.831665,-122.8148346,0.75,0.36,md,9,60,0.009057,0.04,nc,nc73811791,2022-11-26T17:37:14.842Z,"8km NW of The Geysers, CA",earthquake,0.37,2.15,,1,automatic,nc,nc
-2022-11-26T15:30:15.727Z,38.3765,-115.7718,7,2.3,ml,12,127.59,0.733,0.2081,nn,nn00852075,2022-11-26T23:26:25.854Z,"81 km N of Rachel, Nevada",earthquake,,3.2,0.21,4,reviewed,nn,nn
-2022-11-26T15:28:34.390Z,38.8328323,-122.8166656,2.04,0.36,md,6,89,0.01074,0.02,nc,nc73811781,2022-11-26T17:10:13.674Z,"8km NW of The Geysers, CA",earthquake,0.52,2.18,,1,automatic,nc,nc
