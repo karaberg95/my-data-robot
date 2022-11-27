@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T19:48:15.765Z,59.8738,-151.9463,41.3,1.6,ml,,,,0.15,ak,ak022f7qhfjc,2022-11-27T19:49:24.365Z,"12 km NNW of Anchor Point, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2022-11-27T19:21:53.505Z,60.1086,-150.1112,33.2,1.9,ml,,,,0.46,ak,ak022f7qbq46,2022-11-27T19:23:47.312Z,"37 km W of Seward, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-27T19:11:29.170Z,35.6561667,-117.5585,6.83,1.02,ml,15,131,0.1048,0.19,ci,ci40381640,2022-11-27T19:14:53.104Z,"11km ENE of Ridgecrest, CA",earthquake,0.4,1.27,0.161,11,automatic,ci,ci
 2022-11-27T19:01:19.080Z,38.8390007,-122.8096695,2.03,0.73,md,18,56,0.0151,0.02,nc,nc73812091,2022-11-27T19:32:14.155Z,"8km WNW of Cobb, CA",earthquake,0.25,0.56,0.1,2,automatic,nc,nc
