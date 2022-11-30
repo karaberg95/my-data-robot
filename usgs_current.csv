@@ -8,10 +8,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T03:05:09.030Z,19.462833404541,-155.557327270508,-2.67000007629395,1.72000003,md,11,136,,0.170000002,hv,hv73246102,2022-11-30T03:08:20.890Z,"29 km NNW of Pāhala, Hawaii",earthquake,0.66,0.330000013,0.850000024,3,automatic,hv,hv
 2022-11-30T02:59:51.980Z,38.8361664,-122.8361664,1.67,1.18,md,23,66,0.002477,0.02,nc,nc73812951,2022-11-30T03:36:13.475Z,"10km NW of The Geysers, CA",earthquake,0.2,0.39,,1,automatic,nc,nc
 2022-11-30T02:56:39.610Z,38.836834,-122.8366699,1.59,0.92,md,16,78,0.001981,0.02,nc,nc73812946,2022-11-30T03:24:14.413Z,"10km NW of The Geysers, CA",earthquake,0.27,0.41,0.36,2,automatic,nc,nc
-2022-11-30T02:55:39.190Z,56.0842,-116.6628,9.194,4.5,mb,74,90,1.748,0.87,us,us6000j5p3,2022-11-30T03:44:07.572Z,"42 km ESE of Peace River, Canada",earthquake,3.32,4.792,0.03,319,reviewed,us,us
+2022-11-30T02:55:39.190Z,56.0842,-116.6628,9.194,4.5,mb,74,90,1.748,0.87,us,us6000j5p3,2022-11-30T03:58:52.110Z,"42 km ESE of Peace River, Canada",earthquake,3.32,4.792,0.03,319,reviewed,us,us
 2022-11-30T02:54:14.430Z,38.8291664,-122.8146667,1.81,0.57,md,18,46,0.006788,0.01,nc,nc73812941,2022-11-30T03:13:13.358Z,"8km NW of The Geysers, CA",earthquake,0.22,0.42,0.3,3,automatic,nc,nc
 2022-11-30T02:54:03.756Z,61.2794,-146.8932,18.8,1.5,ml,,,,0.44,ak,ak022fcf0d3r,2022-11-30T02:56:48.204Z,"33 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-30T02:53:08.070Z,19.4101657867432,-155.282165527344,1.25,2.33,ml,32,41,,0.25999999,hv,hv73246087,2022-11-30T02:58:40.140Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.310000002,1.91,14,automatic,hv,hv
+2022-11-30T02:53:07.980Z,19.4068333333333,-155.294,2.19,2.49,ml,31,50,,0.09,hv,hv73246087,2022-11-30T03:57:32.100Z,"7 km WSW of Volcano, Hawaii",earthquake,0.18,0.17,0.129923551872403,14,reviewed,hv,hv
 2022-11-30T02:36:11.677Z,53.6991,-164.429,64.061,3.3,ml,12,190,0.814,0.28,us,us6000j5nx,2022-11-30T02:50:19.440Z,"Unimak Island region, Alaska",earthquake,7.95,29.296,0.081,20,reviewed,us,us
 2022-11-30T02:21:12.760Z,10.5757,-62.5963,95.687,4.9,mb,60,92,1.802,0.81,us,us6000j5ns,2022-11-30T03:27:08.069Z,"32 km W of Güiria, Venezuela",earthquake,10.31,7.942,0.035,255,reviewed,us,us
 2022-11-30T02:20:32.380Z,38.7965012,-122.7646637,1.28,2.25,md,38,65,0.00565,0.03,nc,nc73812936,2022-11-30T02:27:15.069Z,"2km NNW of The Geysers, CA",earthquake,0.16,0.23,0.08,18,automatic,nc,nc
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T00:59:09.050Z,38.8153343,-122.8003311,1.87,0.5,md,13,63,0.008339,0.02,nc,nc73812921,2022-11-30T01:22:15.684Z,"6km NW of The Geysers, CA",earthquake,0.28,0.6,0.35,2,automatic,nc,nc
 2022-11-30T00:58:03.780Z,18.6803333333333,-65.0023333333333,10.27,3.12,md,14,248,0.3291,0.23,pr,pr71384653,2022-11-30T01:29:53.930Z,"38 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.88,0.74,0.12829919194896,11,reviewed,pr,pr
 2022-11-30T00:56:14.140Z,33.219,-116.7515,10.43,0.8,ml,26,52,0.01799,0.2,ci,ci40382528,2022-11-30T00:59:53.446Z,"3km SSE of Lake Henshaw, CA",earthquake,0.34,0.66,0.142,16,automatic,ci,ci
-2022-11-30T00:55:56.710Z,56.137,-116.5646,10,5.3,mww,114,47,1.815,0.71,us,us6000j5n4,2022-11-30T03:49:58.641Z,"46 km ESE of Peace River, Canada",earthquake,6.53,1.866,0.045,47,reviewed,us,us
+2022-11-30T00:55:56.710Z,56.137,-116.5646,10,5.3,mww,114,47,1.815,0.71,us,us6000j5n4,2022-11-30T03:55:09.853Z,"46 km ESE of Peace River, Canada",earthquake,6.53,1.866,0.045,47,reviewed,us,us
 2022-11-30T00:51:27.670Z,38.7876663,-122.7573318,0.05,0.9,md,12,113,0.01307,0.05,nc,nc73812916,2022-11-30T01:10:13.616Z,"1km N of The Geysers, CA",earthquake,0.25,0.59,0.37,2,automatic,nc,nc
 2022-11-30T00:35:32.391Z,-21.7025,-68.489,162.756,4.6,mb,23,53,0.706,0.44,us,us6000j5n0,2022-11-30T01:00:40.040Z,"94 km NNE of Calama, Chile",earthquake,7.47,11.036,0.182,9,reviewed,us,us
 2022-11-30T00:33:23.550Z,37.3084984,-121.6780014,6.33,1.4,md,16,81,0.0435,0.05,nc,nc73812906,2022-11-30T00:57:15.541Z,"14km E of Seven Trees, CA",earthquake,0.24,0.62,0.23,7,automatic,nc,nc
@@ -360,6 +360,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-29T04:16:31.630Z,19.474,-155.498166666667,3.7,2.21,ml,33,86,,0.14,hv,hv73243692,2022-11-29T04:33:18.850Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.92,0.0896930486650911,14,reviewed,hv,hv
 2022-11-29T04:09:34.786Z,60.7047,-146.6984,18.5,1.9,ml,,,,0.72,ak,ak022faseazq,2022-11-29T04:11:44.023Z,"17 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-29T04:00:54.679Z,35.49033333,-96.824,13.6,2.1,ml,93,46,0.16556751,0.15,ok,ok2022xiwz,2022-11-29T13:22:52.636Z,"7 km ESE of Meeker, Oklahoma",earthquake,,0.6,0.23,44,reviewed,ok,ok
-2022-11-29T03:58:18.907Z,40.2991,-125.4641,10,2.5,ml,15,290,1.033,0.53,us,us7000it66,2022-11-29T23:10:37.040Z,"106 km WSW of Ferndale, California",earthquake,7.39,2.023,0.069,28,reviewed,us,us
-2022-11-29T03:57:57.000Z,19.4975,-155.545333333333,-1.31,2.58,ml,33,80,,0.17,hv,hv73243657,2022-11-29T23:06:33.040Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.54,0.192526586914112,24,reviewed,hv,hv
-2022-11-29T03:54:21.994Z,65.571,-148.0101,11.7,1.4,ml,,,,0.56,ak,ak022fas2hq5,2022-11-29T03:58:52.460Z,"25 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
