@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-02T04:23:30.460Z,19.4496669769287,-155.59716796875,-0.800000011920929,1.75999999,md,7,165,,0.180000007,hv,hv73251152,2022-12-02T04:26:38.220Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.360000014,0.50999999,5,automatic,hv,hv
+2022-12-02T04:38:02.614Z,60.2394,-140.9801,4.2,1.8,ml,,,,0.45,ak,ak022ffr6hr9,2022-12-02T04:40:41.656Z,"104 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-12-02T04:31:06.930Z,19.4716666666667,-155.6,-1.61,1.86,md,9,88,,0.13,hv,hv73251157,2022-12-02T04:42:17.890Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.21,0.175839255982766,4,reviewed,hv,hv
+2022-12-02T04:23:30.350Z,19.4431666666667,-155.599833333333,-1.13,2.03,md,8,93,,0.1,hv,hv73251152,2022-12-02T04:39:41.950Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.4,0.11294987537807,6,reviewed,hv,hv
 2022-12-02T04:13:12.173Z,61.3316,-150.1447,32,1.6,ml,,,,0.69,ak,ak022ffr15ld,2022-12-02T04:15:07.811Z,"9 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-02T04:04:08.130Z,34.489,-118.966,14.09,1.54,ml,18,116,0.04181,0.24,ci,ci40383464,2022-12-02T04:07:44.752Z,"11km NNW of Fillmore, CA",earthquake,0.55,0.79,0.149,32,automatic,ci,ci
 2022-12-02T03:45:17.396Z,61.1537,-147.8655,8.4,1.4,ml,,,,0.51,ak,ak022ffqmlaz,2022-12-02T03:47:04.760Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -155,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T14:32:42.300Z,38.8048333,-122.8045,1.27,0.86,md,30,47,0.007838,0.04,nc,nc73813471,2022-12-01T19:19:10.773Z,"5km NW of The Geysers, CA",earthquake,0.14,0.23,0.046,4,reviewed,nc,nc
 2022-12-01T14:25:35.931Z,37.0564,-117.4148,9.1,0.3,ml,3,166.68,0.072,0.0001,nn,nn00852396,2022-12-01T21:09:12.171Z,"60 km WNW of Beatty, Nevada",earthquake,,22.7,0.15,2,reviewed,nn,nn
 2022-12-01T14:12:46.134Z,38.1485,-118.037,9.2,1.4,ml,13,124.56,0.062,0.0894,nn,nn00852359,2022-12-01T21:02:58.899Z,"27 km SSE of Mina, Nevada",earthquake,,1.8,0.16,3,reviewed,nn,nn
-2022-12-01T14:08:21.900Z,18.0225,-66.9388333333333,17.6,2.09,md,5,114,0.04378,0.39,pr,pr71384928,2022-12-01T18:10:43.700Z,"Puerto Rico region",earthquake,2.01,1.58,0.0486133806160578,3,reviewed,pr,pr
+2022-12-01T14:08:21.900Z,18.0225,-66.9388333333333,17.6,2.09,md,5,114,0.04378,0.39,pr,pr71384928,2022-12-01T18:10:43.700Z,"2 km S of Liborio Negron Torres, Puerto Rico",earthquake,2.01,1.58,0.0486133806160578,3,reviewed,pr,pr
 2022-12-01T14:01:43.440Z,34.0353333,-116.657,6.34,0.66,ml,20,61,0.00816,0.09,ci,ci40383176,2022-12-01T19:51:59.706Z,"7km W of Morongo Valley, CA",earthquake,0.15,0.28,0.123,13,reviewed,ci,ci
 2022-12-01T13:59:21.992Z,-22.8866,-68.6909,111.37,4.3,ml,20,87,0.477,0.65,us,us6000j61b,2022-12-01T15:34:56.040Z,"Antofagasta, Chile",earthquake,4.56,7.643,,,reviewed,us,guc
 2022-12-01T13:56:09.508Z,60.1708,-152.8566,99.5,2,ml,,,,0.64,ak,ak022fe93x4l,2022-12-01T13:59:10.873Z,"Southern Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -284,5 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T05:05:16.088Z,39.2583,-117.9571,6.4,0.2,ml,7,200.74,0.136,0.0899,nn,nn00852378,2022-12-01T18:12:22.466Z,"43 km N of Gabbs, Nevada",earthquake,,17.2,0,1,reviewed,nn,nn
 2022-12-01T04:54:42.505Z,40.5086,143.8366,24.814,4.9,mb,66,131,1.59,0.5,us,us6000j5xr,2022-12-01T06:13:18.040Z,"off the east coast of Honshu, Japan",earthquake,7.92,5.707,0.085,44,reviewed,us,us
 2022-12-01T04:47:33.730Z,36.037,-117.7806667,1.76,0.99,ml,21,112,0.059,0.13,ci,ci40382968,2022-12-01T17:05:18.430Z,"15km E of Coso Junction, CA",earthquake,0.18,0.21,0.19,11,reviewed,ci,ci
-2022-12-01T04:43:52.410Z,37.474,-118.8741667,2.48,0.4,md,6,298,0.1212,0.02,nc,nc73813341,2022-12-01T11:29:12.925Z,"20km WSW of Toms Place, CA",earthquake,1.81,2.23,0.16,6,reviewed,nc,nc
-2022-12-01T04:38:26.670Z,34.2236667,-117.5841667,6.8,0.95,ml,26,67,0.06344,0.13,ci,ci40382960,2022-12-01T16:52:13.407Z,"9km WSW of Lytle Creek, CA",earthquake,0.21,0.32,0.069,13,reviewed,ci,ci
