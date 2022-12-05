@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T15:50:09.980Z,34.0623333,-118.3035,9.93,1.45,ml,20,77,0.05575,0.31,ci,ci40142311,2022-12-05T15:53:52.096Z,"2km WNW of MacArthur Park, CA",earthquake,0.6,1.24,0.243,30,automatic,ci,ci
+2022-12-05T15:49:59.032Z,61.4745,-151.4089,61.8,1.6,ml,,,,0.21,ak,ak022fkwes4f,2022-12-05T15:51:17.372Z,"41 km NNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-05T15:35:03.870Z,33.4926667,-116.7553333,7.61,0.67,ml,23,49,0.07409,0.14,ci,ci40142303,2022-12-05T15:38:30.997Z,"10km SW of Anza, CA",earthquake,0.2,0.73,0.157,21,automatic,ci,ci
-2022-12-05T15:33:45.010Z,51.582,-175.304,25.7,4.9,ml,,,,0.68,ak,ak022fkwbbim,2022-12-05T15:44:37.495Z,"97 km ESE of Adak, Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2022-12-05T15:33:45.910Z,51.629,-175.3639,50.693,4.8,mb,80,132,0.499,0.54,us,us6000j715,2022-12-05T15:55:34.040Z,"91 km ESE of Adak, Alaska",earthquake,5,6.191,0.031,323,reviewed,us,us
 2022-12-05T15:29:15.824Z,58.162,-155.4037,0,0.7,ml,,,,0.79,ak,ak022fkwaegu,2022-12-05T15:31:20.225Z,"86 km NW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2022-12-05T15:17:16.547Z,58.1909,-155.2558,1.3,2,ml,,,,0.48,ak,ak022fkw7txi,2022-12-05T15:19:27.136Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-05T15:16:20.870Z,38.8353348,-122.7894974,1.97,1.04,md,12,65,0.00314,0.02,nc,nc73814811,2022-12-05T15:30:10.969Z,"6km WNW of Cobb, CA",earthquake,0.36,0.88,0.29,13,automatic,nc,nc
+2022-12-05T15:16:20.870Z,38.8353348,-122.7894974,1.97,1.04,md,12,65,0.00314,0.02,nc,nc73814811,2022-12-05T15:50:11.088Z,"6km WNW of Cobb, CA",earthquake,0.36,0.88,0.29,13,automatic,nc,nc
 2022-12-05T15:14:51.990Z,19.4281673431396,-155.27033996582,1.00999999046326,2.06999993,md,8,121,,0.180000007,hv,hv73260297,2022-12-05T15:17:39.340Z,"4 km WSW of Volcano, Hawaii",earthquake,0.5,0.340000004,1.13999999,6,automatic,hv,hv
 2022-12-05T15:09:56.100Z,38.8274994,-122.8538361,1.71,0.98,md,12,80,0.002373,0.02,nc,nc73814806,2022-12-05T15:38:12.013Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.5,0.18,13,automatic,nc,nc
 2022-12-05T15:08:35.320Z,38.8226662,-122.8000031,2.69,0.87,md,11,79,0.0079,0.02,nc,nc73814801,2022-12-05T15:40:11.026Z,"6km NW of The Geysers, CA",earthquake,0.35,0.83,0.28,11,automatic,nc,nc
