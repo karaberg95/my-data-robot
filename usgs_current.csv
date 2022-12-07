@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-07T08:03:05.570Z,33.2196655,-116.7473297,11.21,1.01,ml,34,35,0.01888,0.14,ci,ci40142911,2022-12-07T08:05:10.991Z,"3km SSE of Lake Henshaw, CA",earthquake,0.27,0.61,0.329,7,automatic,ci,ci
+2022-12-07T08:03:00.500Z,47.48283386230469,-121.95883178710938,13.3199996948242,1.6870622634887695,ml,62,56,,0.119999997,uw,uw61897806,2022-12-07T08:05:37.840Z,"Washington",earthquake,0.29,1.01999998,0.3469100892543793,33,automatic,uw,uw
+2022-12-07T07:54:22.110Z,37.2903328,-121.6650009,5.63,1.58,md,15,62,0.03196,0.03,nc,nc73815626,2022-12-07T07:55:59.514Z,"15km E of Seven Trees, CA",earthquake,0.21,0.55,0.12,10,automatic,nc,nc
+2022-12-07T07:46:59.647Z,61.9594,-148.9299,15.2,1.3,ml,,,,0.58,ak,ak022fo2pd62,2022-12-07T07:52:50.250Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T07:38:28.209Z,38.3802,-115.9781,8.1,2.6,ml,24,227.94,1.202,0.3198,nn,nn00852809,2022-12-07T07:41:39.191Z,"84 km NNW of Rachel, Nevada",earthquake,,1.2,0.84,12,automatic,nn,nn
 2022-12-07T07:28:05.173Z,38.1392,-118.0204,2.9,1.1,ml,14,142.4,0.048,0.1773,nn,nn00852806,2022-12-07T07:30:46.720Z,"28 km SSE of Mina, Nevada",earthquake,,0.9,0.23,8,automatic,nn,nn
 2022-12-07T07:24:24.701Z,57.835,-156.1738,11.6,1.6,ml,,,,0.24,ak,ak022fo2kkpy,2022-12-07T07:26:08.084Z,"81 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -268,6 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T08:19:00.538Z,61.6337,-148.1363,31.2,1,ml,,,,0.29,ak,ak022fmfljdx,2022-12-06T08:21:01.555Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-06T08:15:39.800Z,53.3495,-165.591,38,2.4,ml,,,,0.23,ak,ak022fmfkqlb,2022-12-06T22:05:58.046Z,"85 km SE of Unalaska, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2022-12-06T08:13:36.020Z,33.7711667,-116.0778333,2.31,0.98,ml,42,86,0.1202,0.15,ci,ci40142551,2022-12-06T19:13:42.944Z,"14km NE of Coachella, CA",earthquake,0.16,0.36,0.19,17,reviewed,ci,ci
-2022-12-06T08:04:58.720Z,32.36846924,-102.1085413,8.339070638,2.1,ml,32,56,0.05471605366,0.2,tx,tx2022xvzo,2022-12-06T19:57:45.969Z,"western Texas",earthquake,0.6987629013,0.7885297504,0,7,reviewed,tx,tx
-2022-12-06T08:01:30.714Z,-0.0121,123.1747,166.334,5,mb,60,52,2.64,0.96,us,us6000j79p,2022-12-06T08:18:41.040Z,"Sulawesi, Indonesia",earthquake,7.95,7.07,0.063,81,reviewed,us,us
-2022-12-06T07:52:58.459Z,61.4058,-150.9514,59.4,1.8,ml,,,,0.48,ak,ak022fmf7avp,2022-12-06T07:54:54.571Z,"27 km WSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
