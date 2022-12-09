@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T16:17:27.320Z,38.8359985,-122.8008347,1.87,1.02,md,16,63,0.008539,0.02,nc,nc73816211,2022-12-08T16:50:12.100Z,"7km WNW of Cobb, CA",earthquake,0.24,0.45,0.25,17,automatic,nc,nc
 2022-12-08T16:17:00.360Z,17.9613333333333,-66.9071666666667,9.4,1.97,md,11,200,0.0109,0.1,pr,pr71386153,2022-12-08T16:54:46.480Z,"1 km S of Guánica, Puerto Rico",earthquake,0.39,0.29,0.040270242797169,6,reviewed,pr,pr
 2022-12-08T16:05:32.470Z,35.8723333,-117.664,7.35,1.28,ml,12,144,0.07815,0.11,ci,ci40143567,2022-12-08T22:01:04.973Z,"23km ESE of Little Lake, CA",earthquake,0.3,0.64,0.161,11,reviewed,ci,ci
-2022-12-08T15:57:18.100Z,17.8458333333333,-66.909,5.88,2.36,md,6,257,0.1316,0.09,pr,pr71386148,2022-12-08T16:31:46.800Z,"13 km S of Guánica, Puerto Rico",earthquake,0.69,0.48,0.0243866563396504,5,reviewed,pr,pr
