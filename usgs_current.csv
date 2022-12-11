@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-11T20:34:59.530Z,38.7869987,-122.7513351,0.1,1.72,md,15,126,0.01202,0.03,nc,nc73817416,2022-12-11T20:36:33.182Z,"1km NNE of The Geysers, CA",earthquake,0.22,0.43,0.2,17,automatic,nc,nc
 2022-12-11T20:20:48.800Z,38.7885017,-122.7661667,2.11,1.07,md,19,81,0.01311,0.03,nc,nc73817401,2022-12-11T20:22:22.551Z,"2km NW of The Geysers, CA",earthquake,0.29,0.52,0.2,18,automatic,nc,nc
 2022-12-11T19:47:54.900Z,17.9421666666667,-66.8423333333333,12.57,2.58,md,14,214,0.04801,0.11,pr,pr71386678,2022-12-11T20:08:08.220Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.61,0.36,0.190054867453826,5,reviewed,pr,pr
 2022-12-11T19:43:58.430Z,34.1713333,-117.4355,9.81,1.59,ml,59,36,0.02224,0.21,ci,ci40144607,2022-12-11T19:47:37.184Z,"6km SSW of Devore, CA",earthquake,0.24,0.49,0.12,27,automatic,ci,ci
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T14:48:46.021Z,58.2452,-155.1036,0,0.8,ml,,,,0.2,ak,ak022fut16re,2022-12-11T14:50:30.274Z,"84 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-11T14:38:25.210Z,38.7663345,-122.7251663,2.63,1.17,md,6,136,0.004741,0.02,nc,nc73817286,2022-12-11T15:12:11.277Z,"3km ESE of The Geysers, CA",earthquake,4.45,4.58,0.36,6,automatic,nc,nc
 2022-12-11T14:34:48.665Z,-31.6726,125.8667,9.953,4.6,mb,23,47,2.079,0.34,us,us6000j8lq,2022-12-11T20:00:25.817Z,"Western Australia",earthquake,7.31,3.385,0.146,16,reviewed,us,us
-2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T20:25:35.823Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
+2022-12-11T14:31:29.648Z,17.2249,-100.4732,18.83,6,mww,98,119,1.851,0.73,us,us6000j8lp,2022-12-11T20:36:02.831Z,"3 km WNW of El Ticui, Mexico",earthquake,9.09,3.647,0.043,53,reviewed,us,us
 2022-12-11T14:29:13.436Z,37.2318,-97.9554,10,3.2,mb_lg,31,64,0.175,0.77,us,us6000j8ln,2022-12-11T16:18:16.263Z,"8 km SW of Danville, Kansas",earthquake,1.33,1.996,0.051,102,reviewed,us,us
 2022-12-11T14:24:44.369Z,60.0896,-152.539,98.7,1.8,ml,,,,0.36,ak,ak022fusw1g4,2022-12-11T14:26:52.241Z,"47 km WNW of Happy Valley, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-12-11T14:12:43.587Z,31.0228,141.7936,10,4.9,mb,53,122,2.679,0.78,us,us6000j8lk,2022-12-11T15:24:11.040Z,"Izu Islands, Japan region",earthquake,5.62,1.835,0.057,98,reviewed,us,us
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T12:03:26.090Z,33.1333333,-115.6045,9.17,1.24,ml,10,117,0.02378,0.26,ci,ci40144575,2022-12-11T12:06:56.045Z,"8km W of Calipatria, CA",earthquake,0.64,1.17,0.216,18,automatic,ci,ci
 2022-12-11T12:03:18.069Z,41.7642,144.3701,10,4.8,mb,50,133,0.94,0.53,us,us6000j8l0,2022-12-11T12:21:52.040Z,"134 km S of Kushiro, Japan",earthquake,6.56,1.879,0.095,34,reviewed,us,us
 2022-12-11T12:02:58.291Z,64.7214,-148.901,19.2,0.9,ml,,,,0.44,ak,ak022furkhlb,2022-12-11T12:05:00.342Z,"16 km NE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-11T11:42:07.354Z,61.5759,-150.5184,46.5,2.4,ml,,,,0.32,ak,ak022fur7inz,2022-12-11T11:50:28.040Z,"3 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-12-11T11:42:07.354Z,61.5759,-150.5184,46.5,2.4,ml,,,,0.32,ak,ak022fur7inz,2022-12-11T20:30:34.256Z,"3 km N of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-11T11:30:20.692Z,-7.822,104.2333,10,4.4,mb,23,182,3.406,0.35,us,us6000j8l3,2022-12-11T12:29:10.040Z,"237 km SW of Labuan, Indonesia",earthquake,8.08,1.966,0.162,11,reviewed,us,us
 2022-12-11T11:00:13.380Z,18.648,-66.7385,13.84,3.26,md,41,214,0.1762,0.2,pr,pr71386618,2022-12-11T11:45:15.720Z,"19 km NNE of Carrizales, Puerto Rico",earthquake,0.4,0.91,0.120503913078333,19,reviewed,pr,pr
 2022-12-11T10:58:21.550Z,62.0301,-155.3368,0.1,2.2,ml,,,,0.61,ak,ak022fuqpjm3,2022-12-11T11:00:59.096Z,"71 km ENE of Stony River, Alaska",earthquake,,1.7,,,automatic,ak,ak
