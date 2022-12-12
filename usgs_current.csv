@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T12:03:08.260Z,33.3258333,-116.3611667,11.93,1.41,ml,47,65,0.07418,0.21,ci,ci40144871,2022-12-12T12:19:51.224Z,"8km N of Borrego Springs, CA",earthquake,0.27,0.84,0.176,26,automatic,ci,ci
+2022-12-12T12:01:10.620Z,33.039,-115.906,4.13,1.62,ml,40,42,0.1042,0.29,ci,ci40144863,2022-12-12T12:11:32.320Z,"24km ESE of Ocotillo Wells, CA",earthquake,0.35,1.54,0.123,27,automatic,ci,ci
+2022-12-12T12:00:29.348Z,65.431,-148.2354,6.1,2.6,ml,,,,0.62,ak,ak022fwf3cf0,2022-12-12T12:08:00.040Z,"17 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-12T11:58:26.210Z,33.857,-118.4131667,11.72,2.09,ml,49,119,0.06904,0.27,ci,ci40144855,2022-12-12T12:23:40.474Z,"1km WSW of Hermosa Beach, CA",earthquake,0.41,0.52,0.274,26,automatic,ci,ci
+2022-12-12T11:56:50.188Z,50.3581,90.7723,10,4.7,mb,57,51,5.133,0.42,us,us6000j8rb,2022-12-12T12:18:46.040Z,"23 km E of Mugur-Aksy, Russia",earthquake,6.54,1.815,0.079,49,reviewed,us,us
 2022-12-12T11:39:51.590Z,19.2045001983643,-155.387161254883,31.6399993896484,2.43,ml,46,159,,0.129999995,hv,hv73267292,2022-12-12T11:47:33.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.730000019,2.94,9,automatic,hv,hv
 2022-12-12T11:24:10.050Z,33.3531667,-116.3448333,11.51,1.26,ml,35,55,0.1042,0.2,ci,ci40144847,2022-12-12T11:27:42.990Z,"11km NNE of Borrego Springs, CA",earthquake,0.3,1.11,0.144,27,automatic,ci,ci
 2022-12-12T11:21:00.930Z,34.253,-116.445,6.62,1.54,ml,25,79,0.0644,0.18,ci,ci40144839,2022-12-12T11:24:37.938Z,"16km N of Yucca Valley, CA",earthquake,0.28,0.71,0.132,28,automatic,ci,ci
@@ -9,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T10:52:36.220Z,34.2543333,-116.4381667,7.58,1.32,ml,17,60,0.05911,0.2,ci,ci40144815,2022-12-12T11:03:08.250Z,"16km N of Yucca Valley, CA",earthquake,0.34,1.05,0.163,29,automatic,ci,ci
 2022-12-12T10:39:16.559Z,60.9669,-150.6512,46.7,1.9,ml,,,,0.56,ak,ak022fwe4t47,2022-12-12T10:41:31.600Z,"5 km NNE of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-12T10:27:44.370Z,32.7136667,-115.3686667,13.33,1.81,ml,12,277,0.1126,0.22,ci,ci40144807,2022-12-12T10:31:21.488Z,"11km S of Holtville, CA",earthquake,1.31,1.31,0.176,23,automatic,ci,ci
-2022-12-12T10:19:31.140Z,35.5286667,-120.8256667,6.25,1.65,md,36,58,0.08868,0.06,nc,nc73817596,2022-12-12T11:42:13.627Z,"11km WSW of Templeton, CA",earthquake,0.19,0.44,0.22,27,reviewed,nc,nc
+2022-12-12T10:19:31.140Z,35.5286667,-120.8256667,6.25,1.65,md,36,58,0.08868,0.06,nc,nc73817596,2022-12-12T12:00:10.743Z,"11km WSW of Templeton, CA",earthquake,0.19,0.44,0.22,27,reviewed,nc,nc
 2022-12-12T10:15:19.780Z,33.3218333,-116.7548333,12.16,0.92,ml,37,43,0.08569,0.21,ci,ci40144791,2022-12-12T10:19:00.224Z,"9km N of Lake Henshaw, CA",earthquake,0.22,0.84,0.129,24,automatic,ci,ci
 2022-12-12T10:14:32.570Z,17.9413333333333,-66.9561666666667,9.35,2.13,md,20,216,0.05467,0.11,pr,pr71386763,2022-12-12T11:03:44.050Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.4,0.36,0.263332082137101,12,reviewed,pr,pr
 2022-12-12T10:10:02.390Z,38.7836685,-122.723999,2.02,1.09,md,6,194,0.009956,0.04,nc,nc73817591,2022-12-12T11:15:13.481Z,"3km ENE of The Geysers, CA",earthquake,1.11,0.83,0.15,7,automatic,nc,nc
@@ -81,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T23:07:59.720Z,37.6349983,-118.8379974,6.87,1.27,md,10,91,0.003402,0.05,nc,nc73817466,2022-12-12T00:42:11.790Z,"12km E of Mammoth Lakes, CA",earthquake,0.58,1.69,0.07,10,automatic,nc,nc
 2022-12-11T23:06:48.450Z,38.8370018,-122.810997,1.63,0.22,md,9,106,0.01361,0.02,nc,nc73817461,2022-12-12T00:14:12.624Z,"8km WNW of Cobb, CA",earthquake,0.41,0.75,0.13,10,automatic,nc,nc
 2022-12-11T23:04:59.340Z,33.5033333,-116.4338333,7.63,0.93,ml,26,91,0.02114,0.22,ci,ci40144655,2022-12-11T23:08:23.693Z,"21km SSW of La Quinta, CA",earthquake,0.35,0.79,0.09,15,automatic,ci,ci
-2022-12-11T23:00:51.200Z,38.8193333,-122.7635,1.95,0.35,md,12,172,0.0122,0.02,nc,nc73817451,2022-12-12T11:44:55.444Z,"4km W of Cobb, CA",earthquake,0.26,0.23,0.209,3,reviewed,nc,nc
+2022-12-11T23:00:51.200Z,38.8193333,-122.7635,1.95,0.35,md,12,172,0.0122,0.02,nc,nc73817451,2022-12-12T12:19:10.859Z,"4km W of Cobb, CA",earthquake,0.26,0.23,0.209,3,reviewed,nc,nc
 2022-12-11T23:00:14.718Z,62.0904,-149.3911,44.6,1.7,ml,,,,0.32,ak,ak022fuy3qf3,2022-12-12T00:07:44.500Z,"25 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-11T22:52:11.730Z,62.04,-155.6498,39.5,2.5,ml,,,,0.81,ak,ak022fuxtfth,2022-12-12T01:13:52.040Z,"57 km ENE of Stony River, Alaska",earthquake,,7.6,,,automatic,ak,ak
 2022-12-11T22:27:13.818Z,60.0294,-152.2924,74.1,2.6,ml,,,,0.2,ak,ak022fuxo32t,2022-12-12T08:48:57.277Z,"32 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -161,6 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T12:43:42.017Z,41.7604,144.4831,10,4.7,mb,54,136,1.022,0.56,us,us6000j8l7,2022-12-11T13:00:57.040Z,"Hokkaido, Japan region",earthquake,5.53,1.873,0.091,37,reviewed,us,us
 2022-12-11T12:42:46.750Z,19.5948333333333,-155.506,-2.75,1.85,md,15,78,,0.36,hv,hv73266377,2022-12-11T19:47:19.500Z,"33 km WNW of Volcano, Hawaii",earthquake,0.63,0.43,0.0505549065969788,2,reviewed,hv,hv
 2022-12-11T12:33:41.060Z,37.6448333,-118.8468333,4.81,0.21,md,7,113,0.01108,0.02,nc,nc73817271,2022-12-11T19:55:13.049Z,"12km E of Mammoth Lakes, CA",earthquake,0.61,2.03,0.045,5,reviewed,nc,nc
-2022-12-11T12:03:26.090Z,33.1333333,-115.6045,9.17,1.24,ml,10,117,0.02378,0.26,ci,ci40144575,2022-12-11T12:06:56.045Z,"8km W of Calipatria, CA",earthquake,0.64,1.17,0.216,18,automatic,ci,ci
-2022-12-11T12:03:18.069Z,41.7642,144.3701,10,4.8,mb,50,133,0.94,0.53,us,us6000j8l0,2022-12-11T12:21:52.040Z,"134 km S of Kushiro, Japan",earthquake,6.56,1.879,0.095,34,reviewed,us,us
-2022-12-11T12:02:58.291Z,64.7214,-148.901,19.2,0.9,ml,,,,0.44,ak,ak022furkhlb,2022-12-11T12:05:00.342Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
