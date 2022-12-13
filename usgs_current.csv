@@ -239,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T05:13:10.242Z,64.6527,-147.6391,0.2,0.8,ml,,,,0.42,ak,ak022fwb01zk,2022-12-12T05:14:53.675Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-12T05:08:39.720Z,51.834,-178.037333333333,-1.26,1.87,ml,6,130,,0.31,av,av91729706,2022-12-13T01:48:00.330Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.78,1.12,0.122329912393094,5,reviewed,av,av
 2022-12-12T04:51:42.792Z,30.3232,-9.5974,10,4.1,mb,13,196,3.5,0.94,us,us6000j8wr,2022-12-13T02:00:46.884Z,"10 km SSW of Dakhla, Morocco",earthquake,8.24,2.008,0.301,3,reviewed,us,us
-2022-12-12T04:37:34.510Z,17.9591666666667,-66.9775,11.99,2.38,md,6,200,0.06433,0.1,pr,pr71386708,2022-12-12T06:18:50.990Z,"7 km WSW of Fuig, Puerto Rico",earthquake,0.72,0.96,0.0237188605157559,4,reviewed,pr,pr
-2022-12-12T04:35:20.940Z,33.3206667,-116.3436667,12.3,1.14,ml,35,153,0.02056,0.18,ci,ci40144735,2022-12-13T00:39:29.683Z,"8km NNE of Borrego Springs, CA",earthquake,0.41,0.64,0.124,25,reviewed,ci,ci
