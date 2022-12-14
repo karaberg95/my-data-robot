@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-14T20:24:30.160Z,35.25133333,-98.04016667,6.97,2.12,ml,40,74,0.04409134777,0.31,ok,ok2022ylny,2022-12-14T20:50:28.165Z,"10 km NW of Pocasset, Oklahoma",earthquake,,0.6,0.19,5,reviewed,ok,ok
+2022-12-14T20:52:37.831Z,60.3919,-151.7767,68.3,1.6,ml,,,,0.68,ak,ak022fzv8o3r,2022-12-14T20:54:52.085Z,"26 km W of Cohoe, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2022-12-14T20:24:30.160Z,35.25133333,-98.04016667,6.97,2.12,ml,40,74,0.04409134777,0.31,ok,ok2022ylny,2022-12-14T20:55:42.020Z,"10 km NW of Pocasset, Oklahoma",earthquake,,0.6,0.19,5,reviewed,ok,ok
 2022-12-14T20:12:34.270Z,38.8354988,-122.7901688,1.84,0.56,md,9,75,0.002909,0,nc,nc73818696,2022-12-14T20:49:11.319Z,"6km WNW of Cobb, CA",earthquake,0.42,0.97,0.26,9,automatic,nc,nc
 2022-12-14T20:10:02.870Z,35.3646667,-117.8736667,11.08,0.83,ml,16,110,0.09967,0.17,ci,ci40145559,2022-12-14T20:13:32.215Z,"22km W of Johannesburg, CA",earthquake,0.38,0.72,0.153,8,automatic,ci,ci
 2022-12-14T19:50:41.218Z,61.1419,-152.3774,7.2,1.1,ml,,,,0.14,ak,ak022fzumtbt,2022-12-14T19:52:13.926Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
