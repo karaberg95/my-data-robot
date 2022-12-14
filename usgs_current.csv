@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-14T20:24:30.966Z,35.25449753,-97.99263763,0.6059376001,2.22,ml,13,82.15930176,0.07699608803,0.8146926559,ok,ok2022ylny,2022-12-14T20:34:27.615Z,"7 km NNW of Pocasset, Oklahoma",earthquake,3.423384509,2.724904774,,11,automatic,ok,ok
+2022-12-14T20:24:30.966Z,35.25449753,-97.99263763,0.6059376001,2.22,ml,13,82.15930176,0.07699608803,0.8146926559,ok,ok2022ylny,2022-12-14T20:39:46.907Z,"7 km NNW of Pocasset, Oklahoma",earthquake,3.423384509,2.724904774,,11,automatic,ok,ok
 2022-12-14T20:12:34.270Z,38.8354988,-122.7901688,1.84,0.56,md,9,75,0.002909,0,nc,nc73818696,2022-12-14T20:29:14.149Z,"6km WNW of Cobb, CA",earthquake,0.42,0.97,0.26,9,automatic,nc,nc
 2022-12-14T20:10:02.870Z,35.3646667,-117.8736667,11.08,0.83,ml,16,110,0.09967,0.17,ci,ci40145559,2022-12-14T20:13:32.215Z,"22km W of Johannesburg, CA",earthquake,0.38,0.72,0.153,8,automatic,ci,ci
 2022-12-14T19:50:41.218Z,61.1419,-152.3774,7.2,1.1,ml,,,,0.14,ak,ak022fzumtbt,2022-12-14T19:52:13.926Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-14T19:38:12.896Z,38.5504,-119.4982,6.9,1.5,ml,8,156.39,0.039,0.2328,nn,nn00853369,2022-12-14T19:41:53.300Z,"1 km SSE of Coleville, California",earthquake,,0.6,0.04,3,automatic,nn,nn
+2022-12-14T19:28:27.356Z,40.507,-127.4406,10,3,ml,23,267,2.534,0.61,us,us6000j98v,2022-12-14T20:41:20.040Z,"269 km W of Ferndale, California",earthquake,4.29,2.024,0.049,54,reviewed,us,us
 2022-12-14T19:15:57.597Z,63.3508,-149.3657,84.9,2.1,ml,,,,0.31,ak,ak022fzufcj3,2022-12-14T19:18:00.158Z,"21 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-14T19:10:07.230Z,19.3645000457764,-155.289169311523,1.37000000476837,1.82000005,md,17,65,,0.100000001,hv,hv73269522,2022-12-14T19:13:00.510Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.330000013,0.639999986,9,automatic,hv,hv
 2022-12-14T18:46:06.902Z,51.6171,178.7273,70.5,3.5,ml,,,,0.4,ak,ak022fzu0gfu,2022-12-14T19:14:38.931Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.8,,,reviewed,ak,ak
