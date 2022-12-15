@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T13:55:13.600Z,33.336834,-116.3806686,10.88,1.69,ml,59,32,0.07496,0.2,ci,ci40145735,2022-12-15T13:57:30.555Z,"9km N of Borrego Springs, CA",earthquake,0.24,0.5,0.196,27,automatic,ci,ci
 2022-12-15T13:12:40.630Z,33.1558333,-116.5908333,9,0.96,ml,29,53,0.06408,0.19,ci,ci40145727,2022-12-15T13:16:17.344Z,"9km N of Julian, CA",earthquake,0.3,0.62,0.193,26,automatic,ci,ci
 2022-12-15T12:58:07.450Z,38.848835,-122.7818298,1.11,0.97,md,12,181,0.007532,0.02,nc,nc73818951,2022-12-15T13:41:21.444Z,"6km WNW of Cobb, CA",earthquake,0.51,0.76,0.27,14,automatic,nc,nc
 2022-12-15T12:53:17.240Z,38.8448334,-122.7819977,1.29,2.17,md,35,76,,0.04,nc,nc73818946,2022-12-15T13:15:10.290Z,"6km WNW of Cobb, CA",earthquake,0.18,0.22,0.22,33,automatic,nc,nc
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T14:02:21.370Z,33.5066667,-116.4883333,13.26,0.47,ml,22,121,0.05492,0.16,ci,ci40145455,2022-12-14T14:57:36.375Z,"18km ESE of Anza, CA",earthquake,0.35,0.56,0.117,7,reviewed,ci,ci
 2022-12-14T14:00:59.479Z,64.8484,-150.5624,21.3,1.7,ml,,,,0.81,ak,ak022fzrcywr,2022-12-14T14:02:51.865Z,"17 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-14T14:00:28.050Z,34.1163333,-116.9615,9.83,1.02,ml,39,61,0.03112,0.12,ci,ci40145447,2022-12-14T18:40:54.923Z,"12km NE of Yucaipa, CA",earthquake,0.14,0.23,0.108,23,reviewed,ci,ci
-2022-12-14T13:52:32.341Z,56.4525,-149.2679,10,3.1,ml,24,253,2.247,0.2,us,us6000j96q,2022-12-15T12:39:18.040Z,"Gulf of Alaska",earthquake,8.2,2.012,0.046,62,reviewed,us,us
