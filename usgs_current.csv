@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T10:55:22.769Z,35.31265259,-98.01167297,4.408681393,1.58,ml,8,75.68023682,0.1081198305,0.3936943688,ok,ok2022ymqr,2022-12-15T10:56:25.550Z,"6 km W of Minco, Oklahoma",earthquake,4.908892681,3.649267028,,6,automatic,ok,ok
+2022-12-15T10:51:32.300Z,36.7713318,-121.2959976,5.26,1.37,md,9,199,0.07235,0.06,nc,nc73818941,2022-12-15T10:53:08.296Z,"3km SE of Tres Pinos, CA",earthquake,0.63,1.27,0.29,6,automatic,nc,nc
 2022-12-15T10:48:08.360Z,38.833168,-122.8093338,2.65,0.27,md,9,62,0.009776,0.01,nc,nc73818936,2022-12-15T10:49:42.244Z,"8km W of Cobb, CA",earthquake,0.49,1.94,0.17,10,automatic,nc,nc
 2022-12-15T10:44:05.950Z,33.911,-116.6196667,10.94,0.77,ml,22,66,0.04271,0.15,ci,ci40145703,2022-12-15T10:47:38.980Z,"7km W of Garnet, CA",earthquake,0.3,0.69,0.137,21,automatic,ci,ci
 2022-12-15T10:22:00.217Z,62.0781,-151.0391,60.9,1.5,ml,,,,0.2,ak,ak022g1cn65t,2022-12-15T10:24:28.888Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
