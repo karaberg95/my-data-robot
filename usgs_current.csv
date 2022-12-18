@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T22:19:21.630Z,35.3181667,-118.6215,3.8,1.47,ml,27,96,0.1029,0.2,ci,ci40391984,2022-12-18T22:22:48.350Z,"22km ENE of Arvin, CA",earthquake,0.29,1.15,0.175,26,automatic,ci,ci
+2022-12-18T22:14:46.950Z,39.1513,-117.6369,15.9,1.5,ml,13,219.54,0.375,0.3779,nn,nn00853674,2022-12-18T22:18:02.029Z,"Nevada",earthquake,,1,0.27,9,automatic,nn,nn
 2022-12-18T21:54:20.690Z,38.8414993,-122.8778305,2.75,0.2,md,10,91,0.005476,0.02,nc,nc73820446,2022-12-18T22:10:14.065Z,"13km NW of The Geysers, CA",earthquake,0.46,0.75,0.1,10,automatic,nc,nc
 2022-12-18T21:53:27.900Z,19.1758327484131,-155.492004394531,30.4500007629395,2.05,ml,35,149,,0.150000006,hv,hv73275462,2022-12-18T21:58:59.560Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.75,0.99000001,3.29,7,automatic,hv,hv
 2022-12-18T21:53:18.144Z,36.7683,-116.2257,3.7,-0.2,ml,8,181.84,0.026,0.2596,nn,nn00853673,2022-12-18T21:55:29.652Z,"50 km ESE of Beatty, Nevada",earthquake,,0.5,0.09,4,automatic,nn,nn
