@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T14:43:34.960Z,38.7849998,-122.7365036,1.51,1.06,md,16,83,0.02392,0.03,nc,nc73820301,2022-12-18T14:45:12.282Z,"2km ENE of The Geysers, CA",earthquake,0.27,0.67,0.06,15,automatic,nc,nc
 2022-12-18T14:04:20.570Z,38.8266678,-122.8556671,2.42,0.86,md,12,95,0.001286,0.03,nc,nc73820291,2022-12-18T14:05:56.800Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.67,0.22,12,automatic,nc,nc
 2022-12-18T13:59:27.490Z,38.8261681,-122.8580017,2.53,0.86,md,17,100,0.001633,0.02,nc,nc73820286,2022-12-18T14:01:01.788Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.53,0.22,20,automatic,nc,nc
 2022-12-18T13:50:06.190Z,19.2371673583984,-155.39582824707,33,2.22,ml,44,139,,0.140000001,hv,hv73275062,2022-12-18T13:55:37.360Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.889999986,2.99,16,automatic,hv,hv
