@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T06:31:28.910Z,33.2933333,-116.7438333,11.25,1.09,ml,48,26,0.05855,0.19,ci,ci40391656,2022-12-18T06:34:54.789Z,"6km NNE of Lake Henshaw, CA",earthquake,0.23,0.72,0.147,25,automatic,ci,ci
 2022-12-18T06:23:07.517Z,38.3355,-118.1774,12.3,0.5,ml,9,114.89,0.099,0.1985,nn,nn00853632,2022-12-18T06:26:23.638Z,"8 km SW of Mina, Nevada",earthquake,,0.8,0.67,5,automatic,nn,nn
 2022-12-18T06:20:12.430Z,61.3853,-151.2123,65.4,1.6,ml,,,,0.47,ak,ak022g68v2qj,2022-12-18T06:21:55.352Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-18T06:00:24.795Z,37.1943,-116.3642,7.9,1.2,ml,16,108.46,0.032,0.227,nn,nn00853629,2022-12-18T06:02:34.710Z,"47 km NE of Beatty, Nevada",earthquake,,0.6,0.98,8,automatic,nn,nn
@@ -159,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T12:01:51.330Z,35.6996667,-120.8938333,6.35,0.96,md,24,49,0.06649,0.07,nc,nc73819751,2022-12-17T22:41:16.543Z,"3km SSW of Lake Nacimiento, CA",earthquake,0.2,0.49,0.24,14,reviewed,nc,nc
 2022-12-17T11:59:28.416Z,65.2325,-149.6906,12.6,1.2,ml,,,,0.63,ak,ak022g4ojafd,2022-12-17T12:01:37.022Z,"18 km WNW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-17T11:53:48.568Z,62.1495,-150.0325,3.1,1.6,ml,,,,0.43,ak,ak022g4oi1oo,2022-12-17T11:55:54.442Z,"9 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-18T06:24:21.897Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
+2022-12-17T11:39:42.860Z,37.9181667,-122.304,5.48,3.57,mw,170,19,0.01598,0.15,nc,nc73819746,2022-12-18T06:34:40.817Z,"1km ENE of El Cerrito, CA",earthquake,0.1,0.17,,4,reviewed,nc,nc
 2022-12-17T11:32:20.440Z,33.8968333,-119.9468333,15.1,2.25,ml,8,261,0.1368,0.1,ci,ci40391472,2022-12-17T12:29:57.192Z,"16km ESE of Santa Rosa Is., CA",earthquake,2.34,1.49,0.111,26,automatic,ci,ci
 2022-12-17T11:09:39.724Z,37.5868,-117.7161,0.2,0.9,ml,11,204.88,0.287,0.1341,nn,nn00853588,2022-12-17T11:13:20.932Z,"19 km SSW of Silver Peak, Nevada",earthquake,,50,0.99,6,automatic,nn,nn
 2022-12-17T10:57:55.670Z,17.8483333333333,-65.661,12.27,2.77,md,5,276,0.2682,0.06,pr,pr71387748,2022-12-17T11:30:22.150Z,"Puerto Rico region",earthquake,0.67,0.75,0.062262958782811,3,reviewed,pr,pr
@@ -201,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T06:58:30.190Z,39.8502,-120.6928,9.4,1.1,ml,10,103.39,0.225,0.1811,nn,nn00853606,2022-12-17T17:31:38.520Z,"1 km S of Cromberg, California",earthquake,,4,0.43,5,reviewed,nn,nn
 2022-12-17T06:45:49.469Z,-10.158,118.8416,32.008,4.5,mb,20,90,1.689,0.53,us,us6000j9yh,2022-12-18T05:29:36.040Z,"south of Sumbawa, Indonesia",earthquake,7.65,7.096,0.204,7,reviewed,us,us
 2022-12-17T06:40:52.424Z,21.8168,-76.5034,10,4.8,mb,89,38,1.053,0.92,us,us6000j9yf,2022-12-17T06:59:08.040Z,"69 km N of Puerto Padre, Cuba",earthquake,5.15,1.875,0.038,215,reviewed,us,us
-2022-12-17T06:37:04.380Z,19.1886672973633,-155.391662597656,30.9699993133545,2.06999993,md,41,176,,0.140000001,hv,hv73273047,2022-12-17T06:40:22.550Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.790000021,1.60000002,19,automatic,hv,hv
-2022-12-17T06:33:41.560Z,19.4131660461426,-155.270660400391,7.57999992370605,1.78999996,md,26,44,,0.289999992,hv,hv73273042,2022-12-17T06:39:13.650Z,"5 km SW of Volcano, Hawaii",earthquake,0.78,0.540000021,1.63999999,9,automatic,hv,hv
-2022-12-17T06:28:49.870Z,33.5818333,-116.8085,7.15,1.33,ml,54,24,0.0389,0.19,ci,ci40391392,2022-12-17T06:40:11.630Z,"13km WNW of Anza, CA",earthquake,0.19,0.48,0.14,26,automatic,ci,ci
