@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-19T08:53:30.260Z,33.3821678,-116.875,9.95,1.61,ml,21,64,0.1314,0.13,ci,ci40392144,2022-12-19T08:55:37.821Z,"3km NNW of Palomar Observatory, CA",earthquake,0.37,1.54,0.487,11,automatic,ci,ci
+2022-12-19T09:10:20.360Z,63.2683,-149.1488,80.3,1.7,ml,,,,0.37,ak,ak022g7y4lhw,2022-12-19T09:11:58.967Z,"16 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-12-19T09:04:22.523Z,58.1196,-154.858,0,1.1,ml,,,,0.45,ak,ak022g7y3bd8,2022-12-19T09:06:34.582Z,"65 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
+2022-12-19T08:59:26.580Z,33.6566667,-118.2908333,1.33,1.66,ml,24,119,0.05588,0.29,ci,ci40392152,2022-12-19T09:03:02.271Z,"9km S of San Pedro, CA",earthquake,0.61,0.9,0.14,27,automatic,ci,ci
+2022-12-19T08:57:49.660Z,38.8301659,-122.8008347,1.73,0.7,md,6,111,0.009889,0.01,nc,nc73820611,2022-12-19T09:12:11.946Z,"7km W of Cobb, CA",earthquake,0.51,1.65,0.09,8,automatic,nc,nc
+2022-12-19T08:55:50.474Z,56.5923,-158.0961,124.4,2.1,ml,,,,1.06,ak,ak022g7xsvfr,2022-12-19T08:57:59.334Z,"38 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-12-19T08:53:30.400Z,33.3828333,-116.8658333,7.95,0.52,ml,19,71,0.1717,0.18,ci,ci40392144,2022-12-19T08:57:09.911Z,"3km N of Palomar Observatory, CA",earthquake,0.34,2.75,0.074,11,automatic,ci,ci
 2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T08:53:15.826Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
 2022-12-19T08:30:26.377Z,58.2308,-155.2111,0,0.6,ml,,,,0.47,ak,ak022g7xngod,2022-12-19T08:32:47.525Z,"Alaska Peninsula",earthquake,,131.9,,,automatic,ak,ak
 2022-12-19T08:21:23.300Z,38.8209991,-122.7888336,1.38,0.94,md,14,46,0.01001,0.01,nc,nc73820601,2022-12-19T08:38:12.735Z,"6km NNW of The Geysers, CA",earthquake,0.25,0.41,0.16,15,automatic,nc,nc
@@ -54,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T01:54:49.410Z,38.8326683,-122.7753296,0.74,0.65,md,7,108,0.004766,0.01,nc,nc73820516,2022-12-19T02:28:12.553Z,"5km WNW of Cobb, CA",earthquake,0.33,0.53,0.29,7,automatic,nc,nc
 2022-12-19T01:50:25.550Z,33.2961667,-116.7256667,11.15,0.35,ml,14,106,0.06612,0.25,ci,ci40392048,2022-12-19T01:53:57.978Z,"7km NNE of Lake Henshaw, CA",earthquake,0.83,1.41,0.085,6,automatic,ci,ci
 2022-12-19T01:22:38.839Z,44.2771,-116.1994,14.476,2.9,ml,16,62,0.823,0.62,us,us6000ja7t,2022-12-19T02:07:15.501Z,"9 km WSW of Smiths Ferry, Idaho",earthquake,1.85,6.729,0.04,84,reviewed,us,us
-2022-12-19T01:08:30.220Z,38.2123333,-119.1833333,4.71,1.97,md,14,105,0.1413,0.1,nc,nc73820501,2022-12-19T08:34:11.712Z,"6km SE of Bridgeport, CA",earthquake,0.46,5.59,0.268,12,reviewed,nc,nc
+2022-12-19T01:08:30.220Z,38.2123333,-119.1833333,4.71,1.97,md,14,105,0.1413,0.1,nc,nc73820501,2022-12-19T09:12:12.079Z,"6km SE of Bridgeport, CA",earthquake,0.46,5.59,0.268,12,reviewed,nc,nc
 2022-12-19T01:00:07.672Z,60.5069,-150.7731,48.8,1.6,ml,,,,0.34,ak,ak022g7tayin,2022-12-19T01:01:55.639Z,"0 km NW of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-19T00:57:04.782Z,-3.5069,-77.0225,104.594,5,mb,100,126,6.005,0.81,us,us6000ja7n,2022-12-19T02:48:26.441Z,"Peru-Ecuador border region",earthquake,9.44,6.96,0.025,521,reviewed,us,us
 2022-12-19T00:40:57.962Z,60.3314,-146.4389,20.1,2,ml,,,,0.63,ak,ak022g7sy7fo,2022-12-19T00:43:12.072Z,"44 km WSW of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
