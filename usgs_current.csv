@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-19T11:50:10.910Z,34.3258333,-116.8103333,2.65,0.9,ml,13,108,0.02628,0.21,ci,ci40392224,2022-12-19T11:53:41.405Z,"8km NNE of Big Bear City, CA",earthquake,0.41,0.92,0.217,19,automatic,ci,ci
+2022-12-19T11:47:00.090Z,34.681,-118.0311667,1.96,0.97,ml,25,46,0.1536,0.16,ci,ci40392216,2022-12-19T11:50:36.866Z,"11km E of Lancaster, CA",earthquake,0.25,0.51,0.165,25,automatic,ci,ci
 2022-12-19T11:42:03.940Z,38.788166,-122.7483368,1.99,1.05,md,13,84,0.01529,0.02,nc,nc73820661,2022-12-19T11:43:38.987Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.63,0.21,13,automatic,nc,nc
 2022-12-19T11:37:20.652Z,38.1591,-117.7917,11.1,2,ml,14,164.53,0.105,0.2856,nn,nn00853686,2022-12-19T11:40:14.582Z,"Nevada",earthquake,,0.3,0.35,8,automatic,nn,nn
 2022-12-19T11:35:12.640Z,33.0391667,-116.3991667,1.75,0.59,ml,12,109,0.1714,0.2,ci,ci40392208,2022-12-19T11:38:41.796Z,"19km ESE of Julian, CA",earthquake,0.43,1.01,0.062,7,automatic,ci,ci
