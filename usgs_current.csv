@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T12:14:35.430Z,38.8326683,-122.8184967,1.55,0.44,md,9,82,0.01136,0.01,nc,nc73823056,2022-12-22T12:31:11.420Z,"8km NW of The Geysers, CA",earthquake,0.4,0.84,0.24,9,automatic,nc,nc
 2022-12-22T12:05:01.810Z,19.2151666666667,-155.382,30.91,1.55,ml,22,164,,0.1,hv,hv73278247,2022-12-22T12:18:44.990Z,"10 km E of Pāhala, Hawaii",earthquake,0.72,1.08,,1,reviewed,hv,hv
 2022-12-22T12:01:29.250Z,19.2383327484131,-155.406005859375,31.8199996948242,2.25999999,md,43,134,,0.119999997,hv,hv73278242,2022-12-22T12:04:29.880Z,"Hawaii region, Hawaii",earthquake,0.56,0.709999979,1.5,19,automatic,hv,hv
-2022-12-22T11:49:55.990Z,40.3666649,-124.3268356,27.57,3.81,ml,15,213,,0.11,nc,nc73823036,2022-12-22T15:50:16.102Z,"6km NW of Petrolia, CA",earthquake,1.97,2,0.178,14,reviewed,nc,nc
+2022-12-22T11:49:55.990Z,40.3666649,-124.3268356,27.57,3.79,mw,15,213,,0.11,nc,nc73823036,2022-12-22T15:57:51.599Z,"6km NW of Petrolia, CA",earthquake,1.97,2,,3,reviewed,nc,nc
 2022-12-22T11:47:18.460Z,19.1616668701172,-155.494995117188,31.6200008392334,2.48,ml,44,153,,0.129999995,hv,hv73278227,2022-12-22T11:52:50.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,0.819999993,4,5,automatic,hv,hv
 2022-12-22T11:38:53.497Z,37.5864,-117.8856,0.1,1.1,ml,15,199.74,0.422,0.1951,nn,nn00853962,2022-12-22T11:41:46.422Z,"18 km ESE of Dyer, Nevada",earthquake,,4.3,0.89,8,automatic,nn,nn
 2022-12-22T11:35:42.950Z,19.613,-65.8076,54,3.88,md,15,284,1.3458,0.48,pr,pr2022356004,2022-12-22T14:34:17.536Z,"130 km NNE of San Juan, Puerto Rico",earthquake,4.12,16.23,0.16,8,reviewed,pr,pr
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T16:16:45.550Z,58.287,-154.987166666667,3.15,0.38,ml,5,148,,0.08,av,av91081478,2022-12-22T05:11:41.260Z,"85 km NNW of Karluk, Alaska",earthquake,0.33,0.77,0.425112502027793,5,reviewed,av,av
 2022-12-21T16:14:01.360Z,46.9025,-121.93283333333333,11.9,0.5,ml,21,105,0.007943,0.1,uw,uw61890762,2022-12-21T18:32:13.870Z,"17 km NNE of Ashford, Washington",earthquake,0.28,0.5,0.09295115449922858,7,reviewed,uw,uw
 2022-12-21T15:59:57.665Z,60.3557,-148.4988,14,1.9,ml,,,,0.56,ak,ak022gbd2h2u,2022-12-21T16:02:16.455Z,"42 km NW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-21T15:57:00.710Z,19.1835,-155.489,28.92,1.41,md,9,210,,0.07,hv,hv73277622,2022-12-21T23:05:01.110Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.55,2.14,0.017785749714524,7,reviewed,hv,hv
