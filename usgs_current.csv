@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T20:37:39.660Z,35.7015,-117.5493333,6.62,0.54,ml,11,149,0.1205,0.18,ci,ci40149215,2022-12-23T20:41:07.927Z,"14km NE of Ridgecrest, CA",earthquake,0.56,1.93,0.148,6,automatic,ci,ci
+2022-12-23T20:36:24.150Z,64.7526,-149.2014,12.3,1.4,ml,,,,1.18,ak,ak022geqzc2j,2022-12-23T20:38:45.743Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-23T20:03:52.231Z,-45.5518,-76.6975,10.596,5.3,mww,69,103,2.282,0.88,us,us6000jbc1,2022-12-23T20:28:29.040Z,"Off the coast of Aisen, Chile",earthquake,8.29,3.485,0.086,13,reviewed,us,us
 2022-12-23T19:12:42.100Z,40.4980011,-124.3826675,17.48,2.11,md,6,315,0.1912,0.03,nc,nc73823781,2022-12-23T19:28:14.569Z,"13km SW of Ferndale, CA",earthquake,5.2,1.05,0.18,2,automatic,nc,nc
 2022-12-23T19:11:43.140Z,38.8263321,-122.8071671,0.08,0.27,md,8,98,0.003709,0.01,nc,nc73823776,2022-12-23T19:28:13.458Z,"7km NW of The Geysers, CA",earthquake,0.28,0.69,0.19,8,automatic,nc,nc
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T15:16:00.935Z,62.9239,-148.1682,113,2.3,ml,,,,0.99,ak,ak022genvq03,2022-12-23T15:26:56.596Z,"65 km SE of Cantwell, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-12-23T15:11:12.849Z,57.2645,-154.6886,209,3.1,ml,,,,1.01,ak,ak022genus8k,2022-12-23T15:14:20.544Z,"36 km SSW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-23T15:11:09.133Z,57.844,-157.8264,216.9,3,ml,,,,1.23,ak,ak022genusly,2022-12-23T15:15:25.017Z,"34 km NNW of Pilot Point, Alaska",earthquake,,3.3,,,automatic,ak,ak
-2022-12-23T14:47:26.965Z,61.5008,-149.9017,33.4,2.3,ml,,,,0.28,ak,ak022genh3i0,2022-12-23T14:48:59.748Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-23T14:47:26.965Z,61.5008,-149.9017,33.4,2.3,ml,,,,0.28,ak,ak022genh3i0,2022-12-23T20:43:40.021Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-23T14:45:01.320Z,58.2495,-155.065333333333,3.16,0.25,ml,4,155,,0.08,av,av91736961,2022-12-23T16:06:33.850Z,"83 km NNW of Karluk, Alaska",earthquake,1,1.57,0.109292260708458,4,reviewed,av,av
 2022-12-23T14:42:56.580Z,38.8263321,-122.7988358,2.71,0.27,md,12,75,0.009255,0.01,nc,nc73823711,2022-12-23T15:09:13.937Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.15,13,automatic,nc,nc
 2022-12-23T14:37:00.340Z,19.4163333333333,-155.262833333333,1.9,2.43,ml,27,69,,0.11,hv,hv73279387,2022-12-23T17:57:48.399Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.2,0.152457874024926,14,reviewed,hv,hv
@@ -213,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T20:57:25.960Z,40.5266667,-124.3858333,18.11,1.83,md,16,247,0.06297,0.12,nc,nc73823246,2022-12-23T19:16:10.379Z,"12km WSW of Ferndale, CA",earthquake,0.89,0.34,0.096,11,reviewed,nc,nc
 2022-12-22T20:52:19.320Z,19.1883335113525,-155.464828491211,35.1800003051758,1.99000001,md,20,103,,0.100000001,hv,hv73278562,2022-12-22T20:55:28.370Z,"2 km SE of Pāhala, Hawaii",earthquake,0.65,1,2.03999996,4,automatic,hv,hv
 2022-12-22T20:48:07.070Z,51.8738333333333,-177.967333333333,3.38,1.17,ml,5,145,,0.22,av,av91736406,2022-12-23T00:55:48.440Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,1.48,0.114563514176869,5,reviewed,av,av
-2022-12-22T20:43:59.970Z,17.9991666666667,-66.9365,10.71,2.17,md,6,141,0.05952,0.09,pr,pr71388583,2022-12-22T21:00:27.470Z,"Puerto Rico",earthquake,0.33,0.59,0.0413318483684182,5,reviewed,pr,pr
