@@ -217,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T14:45:08.660Z,37.6016667,-118.8085,3.83,0.32,md,10,238,0.02007,0.03,nc,nc73823131,2022-12-22T17:52:11.330Z,"12km WNW of Toms Place, CA",earthquake,0.56,0.74,0.274,9,reviewed,nc,nc
 2022-12-22T14:31:49.386Z,52.4272,-168.508,10,3.2,ml,11,217,0.824,0.25,us,us6000jb4s,2022-12-22T21:11:25.040Z,"61 km SSE of Nikolski, Alaska",earthquake,3.96,1.991,0.137,9,reviewed,us,us
 2022-12-22T14:30:09.790Z,51.8411666666667,-178.023666666667,-1.8,1.01,ml,4,116,,0.29,av,av91081558,2022-12-22T23:02:00.170Z,"95 km W of Adak, Alaska",earthquake,0.73,2.27,0.470489174560018,4,reviewed,av,av
-2022-12-22T14:25:50.150Z,33.9483333,-116.9031667,12.39,0.85,ml,33,60,0.1174,0.09,ci,ci40148839,2022-12-22T17:31:33.390Z,"4km NW of Banning, CA",earthquake,0.14,0.5,0.148,26,reviewed,ci,ci
-2022-12-22T14:24:15.880Z,38.8233337,-122.7611694,1.93,1.03,md,17,129,0.009871,0.04,nc,nc73823126,2022-12-22T15:22:12.456Z,"3km W of Cobb, CA",earthquake,0.28,0.51,0.17,18,automatic,nc,nc
