@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T18:56:15.245Z,60.5575,-152.1672,84.8,1.7,ml,,,,0.46,ak,ak022ggdg2yc,2022-12-24T18:58:18.757Z,"46 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-12-24T18:50:29.581Z,36.5934,-115.9889,13.8,0.1,ml,11,300.86,0.135,0.1673,nn,nn00854123,2022-12-24T18:52:58.619Z,"Nevada",earthquake,,1.8,0.29,6,automatic,nn,nn
 2022-12-24T18:42:33.230Z,58.1719,-155.4045,0,1.7,ml,,,,0.91,ak,ak022ggdd4bf,2022-12-24T18:44:27.674Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-12-24T18:37:47.280Z,19.429500579834,-155.263671875,0.230000004172325,1.89,ml,17,138,,0.119999997,hv,hv73281182,2022-12-24T18:43:17.820Z,"3 km WSW of Volcano, Hawaii",earthquake,0.18,0.219999999,2.23,10,automatic,hv,hv
 2022-12-24T18:24:27.210Z,33.6725,-116.7221667,15.82,1.77,ml,61,29,0.03914,0.22,ci,ci40149463,2022-12-24T18:35:25.690Z,"8km S of Idyllwild, CA",earthquake,0.2,0.4,0.236,26,automatic,ci,ci
