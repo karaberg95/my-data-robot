@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T11:35:06.136Z,39.4698,-118.0798,1.8,1.7,ml,18,168.56,0.332,0.1359,nn,nn00854201,2022-12-26T11:37:55.564Z,"Nevada",earthquake,,3.4,0.16,10,automatic,nn,nn
 2022-12-26T11:18:53.120Z,38.7943344,-122.7646637,0.93,1.05,md,12,67,0.007378,0.02,nc,nc73825226,2022-12-26T11:20:29.207Z,"2km NNW of The Geysers, CA",earthquake,0.21,0.43,0.17,12,automatic,nc,nc
 2022-12-26T11:15:28.020Z,33.5936667,-116.8065,7.8,0.45,ml,17,103,0.03539,0.13,ci,ci40150207,2022-12-26T11:19:01.420Z,"13km WNW of Anza, CA",earthquake,0.35,0.51,0.184,9,automatic,ci,ci
 2022-12-26T11:11:17.210Z,36.0968333,-117.8696667,3.92,1.69,ml,20,82,0.02393,0.11,ci,ci40150199,2022-12-26T11:14:57.736Z,"9km NE of Coso Junction, CA",earthquake,0.22,0.37,0.293,22,automatic,ci,ci
