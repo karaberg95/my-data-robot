@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T16:12:27.530Z,38.7591667,-122.7320023,2.08,1.23,md,14,107,0.006086,0.03,nc,nc73825316,2022-12-26T16:14:04.989Z,"3km SE of The Geysers, CA",earthquake,0.28,0.47,0.12,16,automatic,nc,nc
+2022-12-26T16:38:20.690Z,38.8278351,-122.8034973,1.49,0.49,md,10,110,0.006786,0.01,nc,nc73825321,2022-12-26T16:39:55.285Z,"7km NW of The Geysers, CA",earthquake,0.39,1.37,0.29,10,automatic,nc,nc
+2022-12-26T16:12:27.530Z,38.7591667,-122.7320023,2.08,1.23,md,14,107,0.006086,0.03,nc,nc73825316,2022-12-26T16:29:17.156Z,"3km SE of The Geysers, CA",earthquake,0.28,0.47,0.12,16,automatic,nc,nc
 2022-12-26T16:06:14.770Z,35.8843333,-117.6761667,2.73,0.68,ml,11,135,0.09364,0.08,ci,ci40150287,2022-12-26T16:09:56.719Z,"22km ESE of Little Lake, CA",earthquake,0.29,0.53,0.108,7,automatic,ci,ci
 2022-12-26T15:44:37.267Z,36.53104782,-98.97278595,4.407438278,2.38,ml,22,77.3136158,0.04460015148,0.5851800394,ok,ok2022zhct,2022-12-26T15:54:46.040Z,"10 km SW of Waynoka, Oklahoma",earthquake,3.366806849,2.058122995,,13,automatic,ok,ok
 2022-12-26T15:30:34.700Z,38.8310013,-122.8051682,1.55,0.75,md,14,46,0.008507,0.02,nc,nc73825311,2022-12-26T16:26:14.136Z,"7km W of Cobb, CA",earthquake,0.28,0.84,0.23,16,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T15:12:00.721Z,59.5679,-153.9851,9,2.4,ml,,,,1.22,ak,ak022gjmh0i0,2022-12-26T15:14:08.429Z,"25 km SSE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-26T15:10:52.329Z,-65.351,-179.6032,10,4.7,mb,22,124,13.209,0.41,us,us6000jbt6,2022-12-26T15:46:04.040Z,"Pacific-Antarctic Ridge",earthquake,8.83,1.909,0.134,21,reviewed,us,us
 2022-12-26T15:10:50.020Z,33.6648333,-116.7685,13.78,1.01,ml,36,66,0.06471,0.16,ci,ci40150279,2022-12-26T15:14:17.838Z,"10km SSW of Idyllwild, CA",earthquake,0.25,0.38,0.208,27,automatic,ci,ci
-2022-12-26T14:52:09.120Z,18.0265,-66.8456666666667,11.9,2.07,md,8,112,0.06033,0.13,pr,pr71389133,2022-12-26T16:21:26.790Z,"Puerto Rico region",earthquake,0.66,1.14,0.0689203825428089,8,reviewed,pr,pr
+2022-12-26T14:52:09.120Z,18.0265,-66.8456666666667,11.9,2.07,md,8,112,0.06033,0.13,pr,pr71389133,2022-12-26T16:21:26.790Z,"1 km SSE of Yauco, Puerto Rico",earthquake,0.66,1.14,0.0689203825428089,8,reviewed,pr,pr
 2022-12-26T14:42:19.142Z,58.1665,-155.4067,0,2.3,ml,,,,0.59,ak,ak022gjm21sq,2022-12-26T14:49:52.040Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T14:32:32.530Z,19.2471675872803,-155.38200378418,32.6199989318848,1.95000005,md,42,177,,0.119999997,hv,hv73283647,2022-12-26T14:35:38.130Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.519999981,17,automatic,hv,hv
 2022-12-26T14:32:28.010Z,62.038,-150.6141,45.9,2,ml,,,,0.37,ak,ak022gjlzxbl,2022-12-26T14:34:01.420Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
