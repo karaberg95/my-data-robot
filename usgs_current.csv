@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T06:45:47.970Z,38.6049995,-122.3199997,-0.37,1.77,md,8,89,0.06248,0.39,nc,nc73825566,2022-12-27T06:47:22.775Z,"12km ENE of Angwin, CA",earthquake,1.53,7.44,0.16,7,automatic,nc,nc
 2022-12-27T06:26:22.960Z,35.675,-117.5618333,7.16,1.36,ml,21,143,0.1199,0.13,ci,ci40150487,2022-12-27T06:29:54.559Z,"12km ENE of Ridgecrest, CA",earthquake,0.29,0.8,0.149,19,automatic,ci,ci
-2022-12-27T06:25:21.480Z,36.9188347,-121.4296646,7.64,1.69,md,26,48,0.06025,0.05,nc,nc73825561,2022-12-27T06:28:20.460Z,"8km NNW of Hollister, CA",earthquake,0.21,0.8,0.17,26,automatic,nc,nc
+2022-12-27T06:25:21.480Z,36.9188347,-121.4296646,7.64,1.69,md,26,48,0.06025,0.05,nc,nc73825561,2022-12-27T06:47:15.363Z,"8km NNW of Hollister, CA",earthquake,0.21,0.8,0.17,26,automatic,nc,nc
 2022-12-27T06:15:33.175Z,61.4073,-146.4177,27.4,1.9,ml,,,,0.57,ak,ak022gl4o679,2022-12-27T06:17:21.762Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-27T06:07:56.720Z,38.8333321,-122.8141632,1.79,1.19,md,13,147,0.01042,0.02,nc,nc73825551,2022-12-27T06:39:10.316Z,"8km W of Cobb, CA",earthquake,0.34,0.7,0.24,15,automatic,nc,nc
+2022-12-27T06:07:56.720Z,38.8333321,-122.8141632,1.79,1.19,md,13,147,0.01042,0.02,nc,nc73825551,2022-12-27T06:47:15.487Z,"8km W of Cobb, CA",earthquake,0.34,0.7,0.24,15,automatic,nc,nc
 2022-12-27T06:04:20.258Z,58.2287,-155.1195,1.1,0.7,ml,,,,0.11,ak,ak022gl4lsbt,2022-12-27T06:06:33.582Z,"83 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2022-12-27T05:38:48.350Z,33.1631667,-115.9323333,5.6,1.69,ml,44,40,0.03945,0.27,ci,ci40150479,2022-12-27T05:42:16.861Z,"15km S of Salton City, CA",earthquake,0.36,0.73,0.139,26,automatic,ci,ci
 2022-12-27T05:37:23.822Z,-7.5157,126.9128,246.792,4.3,mb,27,46,3.434,0.43,us,us6000jbxf,2022-12-27T06:16:22.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.84,5.055,0.142,14,reviewed,us,us
