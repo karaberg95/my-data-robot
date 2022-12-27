@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-27T11:09:57.790Z,38.8358345,-122.8089981,2.15,1.41,md,20,55,0.01245,0.04,nc,nc73825616,2022-12-27T11:11:32.469Z,"8km WNW of Cobb, CA",earthquake,0.26,0.62,0.18,23,automatic,nc,nc
+2022-12-27T11:27:02.200Z,34.0296667,-117.2356667,18.48,0.86,ml,24,88,0.0973,0.19,ci,ci40150535,2022-12-27T11:30:39.701Z,"3km SE of Loma Linda, CA",earthquake,0.35,0.75,0.091,20,automatic,ci,ci
+2022-12-27T11:25:07.730Z,38.8351669,-122.810997,2.27,1.19,md,11,77,0.01178,0.01,nc,nc73825626,2022-12-27T11:26:44.223Z,"8km W of Cobb, CA",earthquake,0.39,1.01,0.29,11,automatic,nc,nc
+2022-12-27T11:23:31.360Z,38.7888336,-122.7618332,1.51,1.46,md,22,64,0.01189,0.02,nc,nc73825621,2022-12-27T11:25:08.590Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.36,0.16,24,automatic,nc,nc
+2022-12-27T11:09:57.790Z,38.8358345,-122.8089981,2.15,1.41,md,20,55,0.01245,0.04,nc,nc73825616,2022-12-27T11:27:14.104Z,"8km WNW of Cobb, CA",earthquake,0.26,0.62,0.18,23,automatic,nc,nc
 2022-12-27T11:06:51.950Z,33.1996667,-116.0406667,8.39,0.92,ml,21,60,0.05887,0.33,ci,ci40150527,2022-12-27T11:10:22.533Z,"10km NE of Ocotillo Wells, CA",earthquake,0.63,1.74,0.109,15,automatic,ci,ci
 2022-12-27T10:49:36.090Z,36.4793319702148,-89.5721664428711,8.21000003814697,2.20000005,md,14,68,0.05369,0.0500000007,nm,nm60503606,2022-12-27T10:53:18.980Z,"5 km SE of Marston, Missouri",earthquake,0.34,1.46000004,0.800000012,7,reviewed,nm,nm
 2022-12-27T10:22:16.536Z,62.2293,-145.2945,25.1,1.5,ml,,,,0.45,ak,ak022gl73dcl,2022-12-27T10:24:31.488Z,"6 km SE of Gulkana, Alaska",earthquake,,0.3,,,automatic,ak,ak
