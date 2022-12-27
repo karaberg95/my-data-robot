@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-27T07:10:02.630Z,33.158165,-115.93367,6.41,1.55,ml,58,51,0.04,0.22,ci,ci40150495,2022-12-27T07:12:08.699Z,"16km S of Salton City, CA",earthquake,0.27,1,0.215,7,automatic,ci,ci
+2022-12-27T07:10:02.630Z,33.1643333,-115.932,6.6,1.6,ml,44,53,0.03944,0.27,ci,ci40150495,2022-12-27T07:20:52.480Z,"15km S of Salton City, CA",earthquake,0.36,0.96,0.159,28,automatic,ci,ci
 2022-12-27T07:01:27.580Z,19.2573337554932,-155.397506713867,31.5400009155273,1.90999997,md,38,129,,0.150000006,hv,hv73284417,2022-12-27T07:04:46.980Z,"10 km NE of Pāhala, Hawaii",earthquake,0.67,0.959999979,0.709999979,17,automatic,hv,hv
 2022-12-27T06:45:47.970Z,38.6049995,-122.3199997,-0.37,1.77,md,8,89,0.06248,0.39,nc,nc73825566,2022-12-27T07:02:12.449Z,"12km ENE of Angwin, CA",earthquake,1.53,7.44,0.16,7,automatic,nc,nc
 2022-12-27T06:26:22.960Z,35.675,-117.5618333,7.16,1.36,ml,21,143,0.1199,0.13,ci,ci40150487,2022-12-27T06:29:54.559Z,"12km ENE of Ridgecrest, CA",earthquake,0.29,0.8,0.149,19,automatic,ci,ci
@@ -192,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T07:50:13.130Z,19.230167388916,-155.40950012207,31.6900005340576,2.1500001,md,31,152,,0.119999997,hv,hv73283272,2022-12-26T07:53:18.500Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.69,0.699999988,1.30999994,8,automatic,hv,hv
 2022-12-26T07:49:24.360Z,58.1636666666667,-155.331333333333,1.2,0.01,ml,6,121,,0.06,av,av91738376,2022-12-26T23:35:30.650Z,"Alaska Peninsula",earthquake,0.28,1.2,0.159800859572465,6,reviewed,av,av
 2022-12-26T07:44:43.350Z,33.3295,-116.3526667,13.91,0.7,ml,16,120,0.08158,0.16,ci,ci40150143,2022-12-26T07:48:16.048Z,"8km NNE of Borrego Springs, CA",earthquake,0.47,0.77,0.146,12,automatic,ci,ci
-2022-12-26T07:14:56.300Z,33.9353333,-116.3195038,7.03,1.25,ml,31,58,0.0744,0.17,ci,ci40150135,2022-12-26T07:18:17.672Z,"14km NNE of Thousand Palms, CA",earthquake,0.25,0.56,0.118,7,automatic,ci,ci
-2022-12-26T07:14:40.050Z,17.8945,-66.8795,14.24,2.52,md,6,282,0.08012,0.08,pr,pr71389108,2022-12-26T07:28:47.720Z,"Puerto Rico region",earthquake,0.81,0.72,0.0948452941367908,5,reviewed,pr,pr
-2022-12-26T07:14:14.250Z,35.5026667,-118.3888333,8.08,1.55,ml,31,37,0.1742,0.11,ci,ci40150127,2022-12-26T07:25:21.400Z,"13km SE of Bodfish, CA",earthquake,0.16,0.83,0.232,27,automatic,ci,ci
