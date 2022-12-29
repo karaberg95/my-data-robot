@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T21:49:55.220Z,36.0475006,-121.0458298,8.89,1.54,md,17,104,0.1043,0.06,nc,nc73826551,2022-12-29T21:51:33.036Z,"9km SSW of San Lucas, CA",earthquake,0.39,0.95,0.34,8,automatic,nc,nc
+2022-12-29T21:49:22.576Z,63.034,-150.3858,86,1.8,ml,,,,0.33,ak,ak022goovmsh,2022-12-29T21:51:26.677Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-29T21:44:44.226Z,62.9629,-148.7264,68.3,1.8,ml,,,,0.9,ak,ak022gooulvq,2022-12-29T21:46:37.009Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-29T21:41:37.100Z,38.8051682,-122.7789993,1.93,0.76,md,8,91,0.008186,0.02,nc,nc73826546,2022-12-29T21:43:12.763Z,"4km NNW of The Geysers, CA",earthquake,0.53,1,0.03,9,automatic,nc,nc
 2022-12-29T21:33:50.560Z,36.1874,-115.2115,8.7,1.8,ml,17,255.96,0.825,0.3287,nn,nn00854325,2022-12-29T21:38:03.793Z,"6 km WNW of Las Vegas, Nevada",earthquake,,1.2,0.86,11,automatic,nn,nn
