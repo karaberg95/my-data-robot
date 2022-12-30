@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T21:11:57.336Z,36.3191,22.0976,10,4.1,mwr,103,40,0.869,0.67,us,us7000j0x4,2022-12-29T21:57:17.040Z,"54 km SSE of Koróni, Greece",earthquake,4.52,1.843,0.052,36,reviewed,us,us
 2022-12-29T21:08:59.580Z,38.4775,-112.8463333,-0.13,0.05,md,11,111,0.0221,0.05,uu,uu60528872,2022-12-29T21:58:53.460Z,"Utah",earthquake,0.26,0.22,0.35,4,reviewed,uu,uu
 2022-12-29T21:00:22.550Z,32.8178333,-117.0725,4.35,0.92,ml,17,111,0.0647,0.21,ci,ci40151207,2022-12-29T21:03:55.887Z,"7km NW of La Mesa, CA",earthquake,0.5,1.59,0.108,4,automatic,ci,ci
-2022-12-29T20:33:14.560Z,33.6166667,-116.4441667,0.38,0.65,ml,14,232,0.1281,0.22,ci,ci40151199,2022-12-29T20:36:47.930Z,"13km SSW of Palm Desert, CA",earthquake,1.3,1.14,0.318,7,automatic,ci,ci
