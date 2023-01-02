@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-02T14:45:17.090Z,38.7568321,-122.720665,1.74,1.09,md,11,116,0.005776,0.05,nc,nc73827981,2023-01-02T14:46:53.565Z,"3km SW of Anderson Springs, CA",earthquake,0.5,0.39,0.21,11,automatic,nc,nc
+2023-01-02T15:22:14.737Z,61.7444,-148.1635,6.4,2.3,ml,,,,0.66,ak,ak0233k4xy9,2023-01-02T15:24:17.567Z,"16 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-02T15:17:42.900Z,38.8214989,-122.8525009,2.58,1.07,md,18,64,0.006936,0.01,nc,nc73827991,2023-01-02T15:19:18.811Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.56,0.16,20,automatic,nc,nc
+2023-01-02T14:46:16.517Z,-19.9258,-174.3748,70.368,4.8,mb,15,136,1.461,0.46,us,us7000j1m9,2023-01-02T15:20:47.040Z,"12 km S of Pangai, Tonga",earthquake,10.45,9.557,0.185,9,reviewed,us,us
+2023-01-02T14:45:17.090Z,38.7568321,-122.720665,1.74,1.09,md,11,116,0.005776,0.05,nc,nc73827981,2023-01-02T15:14:12.410Z,"3km SW of Anderson Springs, CA",earthquake,0.5,0.39,0.21,11,automatic,nc,nc
 2023-01-02T14:40:44.450Z,34.4961667,-120.5393333,0.97,1.88,ml,11,270,0.2085,0.31,ci,ci40153031,2023-01-02T14:44:28.301Z,"18km SSW of Lompoc, CA",earthquake,3.07,31.61,0.148,13,automatic,ci,ci
 2023-01-02T14:36:42.940Z,38.7861671,-122.7496643,0.64,0.79,md,9,89,0.01053,0.01,nc,nc73827976,2023-01-02T15:03:14.348Z,"1km NNE of The Geysers, CA",earthquake,0.24,0.68,0.16,9,automatic,nc,nc
 2023-01-02T14:35:16.180Z,38.8183327,-122.7591629,1.88,0.75,md,8,175,0.01756,0.03,nc,nc73827971,2023-01-02T14:52:13.285Z,"3km W of Cobb, CA",earthquake,0.47,0.77,0.06,7,automatic,nc,nc
