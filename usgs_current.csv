@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-03T08:38:34.620Z,33.3908348,-116.3584976,9.77,1.05,ml,17,156,0.06434,0.15,ci,ci40153247,2023-01-03T08:40:51.471Z,"15km N of Borrego Springs, CA",earthquake,0.51,1.27,0.195,7,automatic,ci,ci
-2023-01-03T08:36:42.140Z,34.3576667,-116.9246667,4.8,1.84,ml,53,51,0.081,0.16,ci,ci40153239,2023-01-03T08:40:25.554Z,"10km SSE of Lucerne Valley, CA",earthquake,0.2,0.8,0.134,26,automatic,ci,ci
+2023-01-03T08:38:34.840Z,33.3965,-116.3678333,3.5,0.65,ml,17,130,0.1345,0.17,ci,ci40153247,2023-01-03T08:42:06.163Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.2,0.118,14,automatic,ci,ci
+2023-01-03T08:36:42.140Z,34.3576667,-116.9246667,4.8,1.84,ml,53,51,0.081,0.16,ci,ci40153239,2023-01-03T08:47:29.060Z,"10km SSE of Lucerne Valley, CA",earthquake,0.2,0.8,0.134,26,automatic,ci,ci
 2023-01-03T08:31:10.030Z,38.7873344,-122.7476654,1.68,1.03,md,8,97,0.009479,0.01,nc,nc73828291,2023-01-03T08:32:46.663Z,"1km NE of The Geysers, CA",earthquake,0.33,0.98,0.1,7,automatic,nc,nc
 2023-01-03T08:25:38.694Z,63.083,-150.9811,133.3,1.8,ml,,,,0.27,ak,ak02353iy7h,2023-01-03T08:28:00.565Z,"63 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-03T08:18:01.200Z,19.1871662139893,-155.455169677734,35.4599990844727,1.83000004,md,35,153,,0.119999997,hv,hv73292952,2023-01-03T08:21:20.610Z,"3 km SE of Pāhala, Hawaii",earthquake,0.64,0.899999976,1.84000003,4,automatic,hv,hv
@@ -74,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T01:01:04.090Z,35.5048333,-118.382,5.61,2.87,ml,45,29,0.1745,0.18,ci,ci40153151,2023-01-03T04:12:20.040Z,"14km SE of Bodfish, CA",earthquake,0.22,1.36,0.259,25,automatic,ci,ci
 2023-01-03T00:55:23.205Z,18.9478,145.085,566.525,4.3,mb,67,126,17.828,0.39,us,us7000j1qj,2023-01-03T05:18:47.040Z,"Pagan region, Northern Mariana Islands",earthquake,13.57,11.045,0.054,95,reviewed,us,us
 2023-01-03T00:27:26.197Z,31.72723056,-104.5184535,5.10324707,2.6,ml,17,100,0.01219018969,0.2,tx,tx2023adrx,2023-01-03T00:41:23.040Z,"51 km SSW of Whites City, New Mexico",earthquake,0.7784245507,0.5224746521,0.2,13,reviewed,tx,tx
+2023-01-03T00:09:24.240Z,19.4821666666667,-155.431,0.57,0.84,md,12,120,,0.14,hv,hv73292497,2023-01-03T08:47:48.830Z,"21 km WNW of Volcano, Hawaii",earthquake,0.5,1.2,0.111695595244232,7,reviewed,hv,hv
 2023-01-02T23:55:18.432Z,-8.1052,107.9821,59.739,4.6,mb,43,115,2.524,0.43,us,us7000j1q7,2023-01-03T06:17:41.889Z,"Java, Indonesia",earthquake,10.34,6.107,0.094,34,reviewed,us,us
 2023-01-02T23:53:26.359Z,62.7915,-149.2861,53.2,1.7,ml,,,,0.53,ak,ak0233p32vv,2023-01-02T23:55:26.899Z,"56 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-02T23:36:52.540Z,63.5485,-147.5031,3,1.9,ml,,,,0.71,ak,ak0233ozhqe,2023-01-02T23:38:57.358Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T09:04:29.455Z,60.3063,-149.9586,29.8,2,ml,,,,0.34,ak,ak0233ggikh,2023-01-02T09:06:18.245Z,"21 km SSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-02T08:59:42.014Z,-6.6864,144.5568,45.287,4.9,mb,46,50,7.968,0.87,us,us7000j1kp,2023-01-02T09:19:28.040Z,"76 km SE of Ialibu, Papua New Guinea",earthquake,9.87,8.338,0.096,34,reviewed,us,us
 2023-01-02T08:59:41.890Z,40.5400009,-124.3971634,17.72,2.44,md,10,273,0.07882,0.06,nc,nc73827871,2023-01-02T10:34:14.517Z,"12km WSW of Ferndale, CA",earthquake,1.59,0.5,0.04,7,automatic,nc,nc
-2023-01-02T08:43:05.820Z,33.4018333,-116.3788333,1.74,0.87,ml,23,90,0.1371,0.19,ci,ci40152943,2023-01-02T08:46:41.538Z,"16km N of Borrego Springs, CA",earthquake,0.31,0.61,0.099,17,automatic,ci,ci
