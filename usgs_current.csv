@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T09:53:50.030Z,33.397,-116.3796667,4.25,0.82,ml,27,96,0.1318,0.23,ci,ci40153543,2023-01-04T09:57:25.106Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.86,0.106,16,automatic,ci,ci
+2023-01-04T09:52:31.920Z,35.8673333,-117.4905,8.27,1.03,ml,14,82,0.101,0.15,ci,ci40153535,2023-01-04T09:56:02.419Z,"14km NW of Searles Valley, CA",earthquake,0.35,0.97,0.157,7,automatic,ci,ci
+2023-01-04T09:52:08.700Z,32.1753333,-116.945,14.09,2.44,ml,16,244,0.2752,0.23,ci,ci40153527,2023-01-04T09:55:40.138Z,"6km SSW of Primo Tapia, B.C., MX",earthquake,1.31,1.57,0.139,26,automatic,ci,ci
 2023-01-04T09:28:42.877Z,58.4476,-153.5622,67.8,1.7,ml,,,,0.28,ak,ak0236rodsh,2023-01-04T09:30:13.439Z,"57 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-04T09:21:09.880Z,36.1876667,-118.0226667,2.44,1.09,ml,13,127,0.1528,0.18,ci,ci40153519,2023-01-04T09:24:45.436Z,"11km S of Olancha, CA",earthquake,0.37,1.88,0.192,11,automatic,ci,ci
+2023-01-04T09:19:05.880Z,18.175,-67.0045,25,3.09,md,31,43,0.02359,0.18,pr,pr71390863,2023-01-04T09:56:11.010Z,"2 km WSW of Maricao, Puerto Rico",earthquake,0.26,0.6,0.118250309125588,17,reviewed,pr,pr
 2023-01-04T09:16:44.204Z,58.3417,-154.7623,11.7,1.1,ml,,,,0.65,ak,ak0236rltac,2023-01-04T09:18:52.231Z,"87 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-04T09:12:07.190Z,38.8160019,-122.8001633,3.33,1.08,md,21,56,0.008875,0.01,nc,nc73828691,2023-01-04T09:35:17.082Z,"6km NW of The Geysers, CA",earthquake,0.24,0.53,0.15,22,automatic,nc,nc
 2023-01-04T09:07:24.145Z,62.3266,-150.2937,61,1.7,ml,,,,0.59,ak,ak0236rjuam,2023-01-04T09:09:10.651Z,"3 km WNW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -217,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T10:41:23.640Z,19.1176662445068,-155.396331787109,30.0699996948242,1.89,ml,41,186,,0.129999995,hv,hv73293152,2023-01-03T13:44:41.650Z,"12 km SE of Pāhala, Hawaii",earthquake,0.63,0.970000029,3.62,3,automatic,hv,hv
 2023-01-03T10:23:13.130Z,41.7975,-111.9203333,-3.27,1.93,ml,13,94,0.1115,0.22,uu,uu60529062,2023-01-03T14:25:01.760Z,"1 km NE of Benson, Utah",earthquake,0.85,9.02,0.168,5,reviewed,uu,uu
 2023-01-03T10:17:34.546Z,39.8053,-120.7321,13.5,1.6,ml,13,176.96,0.186,0.1976,nn,nn00854458,2023-01-03T17:09:35.303Z,"5 km NNW of Plumas Eureka (historical), California",earthquake,,1.7,0.39,6,reviewed,nn,nn
-2023-01-03T09:58:25.140Z,-40.9373,-88.1001,10,4.8,mb,72,211,10.365,0.45,us,us7000j1sw,2023-01-03T10:37:16.040Z,"West Chile Rise",earthquake,8.05,1.968,0.069,65,reviewed,us,us
