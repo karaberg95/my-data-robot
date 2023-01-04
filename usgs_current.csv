@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T23:45:55.648Z,58.1586,-155.4014,1.4,0.4,ml,,,,0.21,ak,ak0237044ek,2023-01-04T23:46:55.647Z,"86 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-01-04T23:36:10.600Z,19.4624996185303,-155.683166503906,6.15000009536743,1.92999995,md,21,82,,0.170000002,hv,hv73295212,2023-01-04T23:39:10.610Z,"19 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.819999993,1.73000002,6,automatic,hv,hv
 2023-01-04T23:23:46.328Z,-19.1894,-69.0508,132.229,5.2,mww,73,71,0.495,1.2,us,us7000j25w,2023-01-04T23:37:58.040Z,"Tarapaca, Chile",earthquake,5.56,5.098,0.054,33,reviewed,us,us
 2023-01-04T23:13:14.490Z,17.9483333333333,-66.9653333333333,10.7,1.74,md,6,215,0.07797,0.09,pr,pr71390973,2023-01-04T23:21:30.170Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.85,0.173103970598206,4,reviewed,pr,pr
