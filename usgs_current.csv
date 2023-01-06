@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T20:40:55.990Z,44.1401667,-110.5013333,7.87,1.73,md,12,138,0.1253,0.13,uu,uu60529212,2023-01-05T21:40:38.340Z,"58 km N of Kelly, Wyoming",earthquake,0.41,0.85,0.124,7,reviewed,uu,uu
 2023-01-05T20:38:24.820Z,33.306,-116.3275,11.13,1.36,ml,29,50,0.05818,0.23,ci,ci40153959,2023-01-05T20:42:09.874Z,"7km NE of Borrego Springs, CA",earthquake,0.32,0.56,0.181,28,automatic,ci,ci
 2023-01-05T20:37:39.670Z,44.1485,-110.5126667,8.29,1.13,md,11,136,0.116,0.18,uu,uu60529207,2023-01-05T22:26:26.140Z,"59 km N of Kelly, Wyoming",earthquake,0.57,2.65,0.188,6,reviewed,uu,uu
-2023-01-05T20:29:57.382Z,62.9724,-149.169,6.5,1.9,ml,,,,0.33,ak,ak0238lrqre,2023-01-05T20:31:26.766Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
