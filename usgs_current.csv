@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-06T13:39:13.160Z,62.14,-148.9347,26.9,2.1,ml,,,,0.47,ak,ak023a573ro,2023-01-06T13:41:00.579Z,"41 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-06T13:28:04.312Z,31.64781465,-104.2937553,2.789526367,3.4,ml,11,68,0.1133003242,0.2,tx,tx2023akeh,2023-01-06T13:42:21.013Z,"western Texas",earthquake,1.05048518,1.793213882,0.1,9,reviewed,tx,tx
 2023-01-06T13:27:43.726Z,31.6518,-104.2989,5,3.3,ml,24,109,0.173,0.36,us,us7000j2it,2023-01-06T13:37:22.040Z,"58 km S of Whites City, New Mexico",earthquake,1.65,1.346,0.05,52,reviewed,us,us
 2023-01-06T13:15:43.710Z,38.7866669,-122.7501678,3.09,1.15,md,12,136,0.01105,0.14,nc,nc73829336,2023-01-06T13:30:10.486Z,"1km NNE of The Geysers, CA",earthquake,0.82,1.33,0.11,10,automatic,nc,nc
 2023-01-06T13:14:43.094Z,60.1126,-152.9441,103.3,1.8,ml,,,,0.86,ak,ak023a51t6d,2023-01-06T13:16:56.337Z,"70 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
