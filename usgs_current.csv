@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-06T14:26:25.650Z,33.3538333,-116.3485,9.55,1.16,ml,28,69,0.103,0.22,ci,ci40154103,2023-01-06T14:29:55.506Z,"11km NNE of Borrego Springs, CA",earthquake,0.32,1.05,0.186,28,automatic,ci,ci
-2023-01-06T14:22:49.840Z,38.8330002,-122.7941666,1.68,1.87,md,10,96,0.006171,0.02,nc,nc73829346,2023-01-06T14:24:23.830Z,"6km W of Cobb, CA",earthquake,0.37,0.85,0.24,14,automatic,nc,nc
+2023-01-06T14:22:49.840Z,38.8330002,-122.7941666,1.68,1.87,md,10,96,0.006171,0.02,nc,nc73829346,2023-01-06T14:38:11.038Z,"6km W of Cobb, CA",earthquake,0.37,0.85,0.24,14,automatic,nc,nc
 2023-01-06T14:17:17.830Z,19.4063339233398,-155.278335571289,-1.08000004291534,1.98000002,md,7,139,,0.170000002,hv,hv73298052,2023-01-06T14:20:06.740Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.790000021,0.589999974,6,automatic,hv,hv
 2023-01-06T13:51:45.470Z,33.4446667,-116.5903333,8.09,1.46,ml,41,74,0.05088,0.18,ci,ci40154095,2023-01-06T14:03:30.380Z,"14km SSE of Anza, CA",earthquake,0.2,0.49,0.177,27,automatic,ci,ci
 2023-01-06T13:50:29.724Z,64.9766,-147.0379,1.5,1,ml,,,,0.51,ak,ak023a59hwj,2023-01-06T13:53:30.727Z,"11 km N of Two Rivers, Alaska",earthquake,,5.8,,,automatic,ak,ak
