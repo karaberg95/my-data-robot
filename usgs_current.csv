@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-08T09:22:41.290Z,58.1783,-155.3787,0,0.3,ml,,,,0.27,ak,ak023ddshc1,2023-01-08T09:25:31.033Z,"87 km NW of Karluk, Alaska",earthquake,,81.9,,,automatic,ak,ak
 2023-01-08T09:04:51.860Z,33.8856667,-117.0356667,16.88,0.75,ml,18,86,0.1431,0.19,ci,ci40154647,2023-01-08T09:08:23.173Z,"7km SW of Beaumont, CA",earthquake,0.39,0.94,0.104,20,automatic,ci,ci
 2023-01-08T08:57:55.980Z,35.6661667,-117.5003333,1.27,1.28,ml,19,168,0.1689,0.21,ci,ci40154639,2023-01-08T09:01:19.140Z,"14km SW of Searles Valley, CA",earthquake,0.74,1.08,0.228,14,automatic,ci,ci
 2023-01-08T08:52:28.170Z,32.977,-115.8956667,7.04,1.29,ml,24,53,0.08659,0.25,ci,ci40154631,2023-01-08T08:55:59.377Z,"26km WSW of Westmorland, CA",earthquake,0.38,1.42,0.106,23,automatic,ci,ci
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T09:56:14.313Z,61.6926,-146.5026,45.1,0.9,ml,,,,0.34,ak,ak023bqg8ol,2023-01-08T00:40:50.026Z,"36 km SSE of Nelchina, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-01-07T09:52:03.893Z,62.2794,-151.3586,87.1,1.1,ml,,,,0.24,ak,ak023bqfhfp,2023-01-07T09:53:58.513Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-07T09:28:07.226Z,60.175,-151.5165,67,1.6,ml,,,,0.14,ak,ak023bqacia,2023-01-07T09:29:22.801Z,"9 km SW of Clam Gulch, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-01-07T09:20:53.870Z,19.0106666666667,-65.4886666666667,20.16,3.17,md,11,252,0.8057,0.28,pr,pr71391453,2023-01-07T12:45:59.860Z,"Puerto Rico region",earthquake,1.33,24.73,0.00917913854891372,3,reviewed,pr,pr
