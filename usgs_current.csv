@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T11:58:47.459Z,-10.0489,161.8872,121.188,4.6,mb,20,101,2.006,0.61,us,us7000j2sp,2023-01-07T13:41:40.880Z,"45 km N of Kirakira, Solomon Islands",earthquake,14.92,15.02,0.129,18,reviewed,us,us
 2023-01-07T11:43:41.119Z,61.0213,-149.3956,28.5,1.6,ml,,,,0.45,ak,ak023brki2n,2023-01-07T11:45:43.725Z,"15 km N of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-07T11:42:13.230Z,33.0375,-116.401,4.12,0.93,ml,34,65,0.1693,0.21,ci,ci40154279,2023-01-07T11:45:52.409Z,"19km ESE of Julian, CA",earthquake,0.36,1.01,0.098,18,automatic,ci,ci
-2023-01-07T11:21:25.214Z,23.5066,121.4108,27.01,4.2,mwr,20,95,0.154,0.64,us,us7000j2sk,2023-01-07T11:56:42.071Z,"55 km SSW of Hualien City, Taiwan",earthquake,3.23,5.41,0.063,24,reviewed,us,us
