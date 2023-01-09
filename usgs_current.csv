@@ -157,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T10:06:27.790Z,18.016,-66.9048333333333,14.93,2.06,md,9,103,0.04744,0.16,pr,pr71391653,2023-01-08T10:35:58.270Z,"Puerto Rico",earthquake,0.7,0.56,0.238152562752495,5,reviewed,pr,pr
 2023-01-08T10:00:42.480Z,19.2146,-155.4858,36.322,2.6,ml,24,180,0.036,0.36,us,us7000j2ya,2023-01-08T10:26:56.040Z,"1 km NNW of Pāhala, Hawaii",earthquake,3.29,3.051,0.056,42,reviewed,us,us
 2023-01-08T10:00:31.054Z,-18.2202,-177.8804,507.318,4.3,mb,49,82,3.869,0.66,us,us7000j2yb,2023-01-08T10:22:07.040Z,"297 km E of Levuka, Fiji",earthquake,13.29,7.928,0.068,60,reviewed,us,us
-2023-01-08T09:43:42.900Z,38.8344994,-122.7884979,2.03,0.97,md,7,130,0.004162,0.01,nc,nc73829931,2023-01-08T10:00:12.150Z,"6km WNW of Cobb, CA",earthquake,0.47,1.23,0.3,7,automatic,nc,nc
