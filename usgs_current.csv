@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-09T10:37:17.660Z,35.1435013,-118.2338333,7.8,1.36,ml,16,73,0.1763,0.09,ci,ci40154911,2023-01-09T10:39:23.636Z,"12km NNW of Mojave, CA",earthquake,0.31,2.06,0.072,2,automatic,ci,ci
 2023-01-09T10:21:00.220Z,19.1673336029053,-155.492004394531,35.7400016784668,2.00999999,md,41,109,,0.119999997,hv,hv73299902,2023-01-09T10:24:21.640Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.68,0.879999995,0.800000012,13,automatic,hv,hv
 2023-01-09T10:19:31.755Z,59.6009,-152.6602,80.8,1.7,ml,,,,0.65,ak,ak023f1wljr,2023-01-09T10:21:25.801Z,"49 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-09T10:07:40.350Z,33.4078333,-116.3825,0.91,0.78,ml,26,100,0.1423,0.2,ci,ci40154903,2023-01-09T10:11:13.807Z,"17km N of Borrego Springs, CA",earthquake,0.33,0.6,0.111,17,automatic,ci,ci
 2023-01-09T10:03:59.520Z,38.8251648,-122.8523331,1.77,1.36,md,8,130,0.004269,0.01,nc,nc73830236,2023-01-09T10:21:12.580Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.79,0.4,9,automatic,nc,nc
 2023-01-09T09:57:39.890Z,34.0611667,-116.9843333,13.88,0.98,ml,21,84,0.05158,0.16,ci,ci40154895,2023-01-09T10:01:08.237Z,"6km ENE of Yucaipa, CA",earthquake,0.31,0.61,0.141,25,automatic,ci,ci
 2023-01-09T09:55:34.570Z,19.1641674041748,-155.49983215332,28.1499996185303,2.03999996,md,37,155,,0.170000002,hv,hv73299877,2023-01-09T09:58:53.210Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1.22000003,1.77999997,10,automatic,hv,hv
-2023-01-09T09:47:20.900Z,37.6471672,-119.4358368,2.58,1.61,md,7,210,0.3188,0.09,nc,nc73830231,2023-01-09T10:09:12.516Z,"16km SE of Yosemite Valley, CA",earthquake,2.39,10.49,0.01,3,automatic,nc,nc
+2023-01-09T09:47:20.900Z,37.6471672,-119.4358368,2.58,1.61,md,7,210,0.3188,0.09,nc,nc73830231,2023-01-09T10:30:11.632Z,"16km SE of Yosemite Valley, CA",earthquake,2.39,10.49,0.01,3,automatic,nc,nc
 2023-01-09T09:43:36.417Z,38.211,-116.0908,10.4,1.5,ml,12,182.89,1.139,0.2211,nn,nn00854639,2023-01-09T09:46:26.193Z,"Nevada",earthquake,,1.4,1.16,4,automatic,nn,nn
 2023-01-09T09:21:59.346Z,59.5505,-153.0293,96.8,2.1,ml,,,,0.3,ak,ak023f1bni6,2023-01-09T09:24:19.756Z,"66 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-09T08:56:31.430Z,19.179500579834,-155.498001098633,32.189998626709,1.70000005,md,42,94,,0.119999997,hv,hv73299847,2023-01-09T08:59:45.750Z,"3 km SW of Pāhala, Hawaii",earthquake,0.67,0.839999974,0.639999986,9,automatic,hv,hv
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T00:38:31.750Z,36.5561676,-121.1173325,0.25,1.56,md,13,107,0.06645,0.22,nc,nc73830121,2023-01-09T00:59:17.450Z,"4km NE of Pinnacles, CA",earthquake,0.85,15.02,0.1,11,automatic,nc,nc
 2023-01-09T00:33:16.440Z,35.0546667,-118.3481667,3.61,1.17,ml,18,50,0.06415,0.17,ci,ci40154791,2023-01-09T00:36:53.454Z,"13km SE of Tehachapi, CA",earthquake,0.29,0.89,0.184,23,automatic,ci,ci
 2023-01-09T00:28:28.670Z,38.8224983,-122.8050003,1.62,1.17,md,20,40,0.004063,0.02,nc,nc73830116,2023-01-09T01:02:11.344Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,22,automatic,nc,nc
-2023-01-09T00:22:01.982Z,61.1005,-150.762,13.1,1.6,ml,,,,0.56,ak,ak023evyucm,2023-01-09T00:23:31.344Z,"17 km ESE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-09T00:22:01.982Z,61.1005,-150.762,13.1,1.6,ml,,,,0.56,ak,ak023evyucm,2023-01-09T00:23:31.344Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-09T00:21:24.180Z,19.1746673583984,-155.498992919922,35.689998626709,2.01999998,md,34,148,,0.119999997,hv,hv73299542,2023-01-09T00:24:41.930Z,"3 km SW of Pāhala, Hawaii",earthquake,0.7,1.21000004,0.579999983,5,automatic,hv,hv
 2023-01-09T00:20:56.490Z,38.7741661,-122.7478333,0.45,0.96,md,11,69,0.01255,0.02,nc,nc73830111,2023-01-09T00:38:13.204Z,"1km ESE of The Geysers, CA",earthquake,0.28,0.6,0.18,10,automatic,nc,nc
 2023-01-09T00:16:08.510Z,35.0453333,-117.669,0.28,1.74,ml,17,71,0.1129,0.24,ci,ci40154775,2023-01-09T00:19:59.089Z,"5km NNW of Boron, CA",quarry blast,0.68,31.61,0.186,29,automatic,ci,ci
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T19:35:55.290Z,17.8228333333333,-66.907,12.23,2.51,md,12,263,0.1537,0.15,pr,pr71391708,2023-01-08T20:18:23.440Z,"Puerto Rico region",earthquake,0.74,0.73,0.0570219273196515,7,reviewed,pr,pr
 2023-01-08T19:31:29.176Z,60.4553,-152.0158,82.8,2.7,ml,,,,0.55,ak,ak023djspu9,2023-01-08T20:43:05.040Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-08T19:28:46.932Z,-33.0125,-71.3504,52.528,4.3,mwr,31,86,0.25,0.3,us,us7000j30u,2023-01-09T01:04:14.988Z,"3 km NNE of Villa Alemana, Chile",earthquake,3.81,6.88,0.065,23,reviewed,us,us
-2023-01-08T19:22:15.860Z,37.475,-119.3953333,15.7,1.83,md,13,83,0.1981,0.19,nc,nc73830051,2023-01-09T10:26:09.610Z,"28km NE of Oakhurst, CA",earthquake,0.6,2.15,0.152,11,reviewed,nc,nc
+2023-01-08T19:22:15.860Z,37.475,-119.3953333,15.7,1.83,md,13,83,0.1981,0.19,nc,nc73830051,2023-01-09T10:33:11.652Z,"28km NE of Oakhurst, CA",earthquake,0.6,2.15,0.152,11,reviewed,nc,nc
 2023-01-08T19:21:14.878Z,63.0866,-150.861,24.5,1.8,ml,,,,1.17,ak,ak023djqjmn,2023-01-08T19:23:24.726Z,"65 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-08T19:05:26.220Z,19.1668338775635,-155.473007202148,32.4099998474121,1.87,md,15,211,,0.109999999,hv,hv73299312,2023-01-08T19:08:32.440Z,"4 km S of Pāhala, Hawaii",earthquake,1.14,1.75999999,0.930000007,3,automatic,hv,hv
 2023-01-08T19:04:55.670Z,38.7878342,-122.7683334,2.36,1.6,md,24,80,0.01444,0.03,nc,nc73830046,2023-01-08T19:26:13.390Z,"2km NW of The Geysers, CA",earthquake,0.22,0.47,0.18,24,automatic,nc,nc
