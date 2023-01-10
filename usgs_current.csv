@@ -181,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T11:39:03.310Z,61.0989,-150.728,58.6,1.5,ml,,,,0.34,ak,ak023f2m9a3,2023-01-09T11:40:54.549Z,"Southern Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-01-09T11:31:48.858Z,23.4009,121.3509,17.209,4.2,mwr,20,96,0.05,0.73,us,us7000j344,2023-01-09T11:52:55.040Z,"68 km SSW of Hualien City, Taiwan",earthquake,2.07,2.469,0.066,22,reviewed,us,us
 2023-01-09T11:12:21.298Z,-4.4396,149.9622,550.25,4.3,mb,35,93,2.209,0.67,us,us7000j342,2023-01-10T05:49:34.040Z,"124 km N of Kimbe, Papua New Guinea",earthquake,13.21,10.153,0.104,26,reviewed,us,us
-2023-01-09T11:05:28.493Z,-6.8093,129.5281,149.654,4.4,mb,16,88,2.108,0.4,us,us7000j33z,2023-01-10T05:47:17.040Z,"Banda Sea",earthquake,9.21,12.237,0.178,9,reviewed,us,us
-2023-01-09T10:58:41.120Z,38.8274994,-122.8538361,2.32,1.78,md,23,72,0.002373,0.02,nc,nc73830256,2023-01-09T12:35:13.346Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.36,0.2,23,automatic,nc,nc
