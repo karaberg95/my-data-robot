@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-10T18:32:14.730Z,40.9459991,-124.0223312,21.52,3.49,ml,22,160,0.2308,0.14,nc,nc73830791,2023-01-10T19:14:50.891Z,"7km E of McKinleyville, CA",earthquake,0.62,1.1,0.257,13,automatic,nc,nc
+2023-01-10T19:14:17.730Z,38.8186684,-122.8156662,3.38,0.88,md,7,132,0.01576,0.02,nc,nc73830801,2023-01-10T19:15:51.549Z,"7km NW of The Geysers, CA",earthquake,0.63,1.78,0.12,8,automatic,nc,nc
+2023-01-10T18:32:14.730Z,40.9459991,-124.0223312,21.52,3.49,ml,22,160,0.2308,0.14,nc,nc73830791,2023-01-10T19:20:28.348Z,"7km E of McKinleyville, CA",earthquake,0.62,1.1,0.257,13,automatic,nc,nc
+2023-01-10T18:32:14.400Z,46.84583333333333,-121.75116666666666,1.65,0.4,ml,11,168,0.01612,0.08,uw,uw61901836,2023-01-10T19:16:51.320Z,"Washington",earthquake,0.3,0.45,0.2532846019416163,4,reviewed,uw,uw
 2023-01-10T18:30:50.760Z,38.7798347,-122.7638321,0.62,1.07,md,12,72,0.009223,0.02,nc,nc73830786,2023-01-10T18:48:14.266Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.46,0.21,11,automatic,nc,nc
 2023-01-10T18:20:52.861Z,61.6484,-146.4891,27.3,1.6,ml,,,,1.23,ak,ak023gu7o86,2023-01-10T18:24:10.607Z,"41 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-10T18:06:46.410Z,33.8126667,-117.4826667,1.98,1.65,ml,36,56,0.03172,0.22,ci,ci40400776,2023-01-10T18:33:25.260Z,"8km SSE of Home Gardens, CA",earthquake,0.34,0.46,0.202,33,reviewed,ci,ci
@@ -190,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T19:42:50.560Z,38.8273315,-122.7873306,1.6,1.23,md,23,47,0.01131,0.04,nc,nc73830411,2023-01-09T21:12:12.478Z,"6km W of Cobb, CA",earthquake,0.2,0.38,0.16,24,automatic,nc,nc
 2023-01-09T19:40:06.980Z,36.1105003,-120.6880035,5.21,1.5,md,13,134,0.04941,0.05,nc,nc73830406,2023-01-09T21:35:16.599Z,"22km ENE of San Ardo, CA",earthquake,0.34,0.75,0.11,10,automatic,nc,nc
 2023-01-09T19:23:51.014Z,31.65021489,-104.4256303,6.131567383,2.4,ml,18,77,0.0081067598,0.3,tx,tx2023aqck,2023-01-09T23:14:23.175Z,"western Texas",earthquake,1.248285837,1.097202862,0.1,24,reviewed,tx,tx
-2023-01-09T19:22:03.300Z,44.7683333,-111.2016667,9.59,0.47,md,9,202,0.01796,0.19,uu,uu60529407,2023-01-09T19:50:31.530Z,"0 km W of Hebgen Lake Estates, Montana",earthquake,1.17,1.56,0.17,8,reviewed,uu,uu
