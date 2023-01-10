@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T07:50:11.821Z,61.645,-148.1027,18.8,1.2,ml,,,,0.63,ak,ak023gnu8vy,2023-01-10T07:52:10.702Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-01-10T07:44:44.930Z,59.4172,-153.0201,71,2.1,ml,,,,0.49,ak,ak023gnt159,2023-01-10T07:46:40.641Z,"62 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-10T07:42:58.395Z,38.1589,74.1477,171.45,4.4,mb,34,87,2.258,0.54,us,us7000j3cu,2023-01-10T08:16:51.040Z,"15 km E of Murghob, Tajikistan",earthquake,7.2,7.355,0.091,35,reviewed,us,us
-2023-01-10T07:38:31.473Z,39.455,26.2697,10,4.9,mb,68,37,1.439,0.95,us,us7000j3cr,2023-01-10T08:16:04.270Z,"6 km SW of Behram, Turkey",earthquake,5.41,1.875,0.101,31,reviewed,us,us
+2023-01-10T07:38:31.473Z,39.455,26.2697,10,4.9,mb,68,37,1.439,0.95,us,us7000j3cr,2023-01-10T12:03:15.883Z,"6 km SW of Behram, Turkey",earthquake,5.41,1.875,0.101,31,reviewed,us,us
 2023-01-10T07:33:01.750Z,17.9695,-66.7271666666667,10.64,1.98,md,8,216,0.05928,0.1,pr,pr71392003,2023-01-10T07:54:28.900Z,"Puerto Rico region",earthquake,0.78,0.63,0.0955508111669545,4,reviewed,pr,pr
 2023-01-10T07:29:12.740Z,17.99,-66.8935,13.8,1.81,md,10,125,0.02012,0.13,pr,pr71392013,2023-01-10T08:39:13.170Z,"1 km NNW of Maria Antonia, Puerto Rico",earthquake,0.66,0.37,0.220311830364549,10,reviewed,pr,pr
 2023-01-10T07:28:39.780Z,17.9903333333333,-66.8851666666667,14.56,2.13,md,13,104,0.0162,0.17,pr,pr71391993,2023-01-10T07:44:56.230Z,"1 km NNE of Maria Antonia, Puerto Rico",earthquake,0.51,0.55,0.108737624609815,10,reviewed,pr,pr
@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T12:32:45.190Z,18.9173333333333,-65.144,23.52,3.14,md,7,265,0.5894,0.21,pr,pr71391783,2023-01-09T13:18:10.000Z,"67 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.43,17.73,0.0702242233035277,6,reviewed,pr,pr
 2023-01-09T12:26:31.350Z,-9.057,111.1211,55.39,5.2,mww,78,124,1.282,0.65,us,us7000j34c,2023-01-10T03:14:44.400Z,"126 km SSW of Trenggalek, Indonesia",earthquake,6.16,6.458,0.089,12,reviewed,us,us
 2023-01-09T12:14:18.140Z,19.1611671447754,-155.488998413086,31.8299999237061,1.78999996,md,35,241,,0.119999997,hv,hv73299967,2023-01-09T12:17:28.030Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.72,1.14999998,1.78999996,4,automatic,hv,hv
-2023-01-09T11:54:04.060Z,14.7007,145.5852,124.461,4.6,mb,54,70,1.305,0.44,us,us7000j349,2023-01-09T20:56:25.993Z,"29 km S of San Jose Village, Northern Mariana Islands",earthquake,10.69,7.412,0.051,113,reviewed,us,us
