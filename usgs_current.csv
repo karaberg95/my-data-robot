@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-11T06:20:08.930Z,38.793335,-122.729332,1.24,1.36,md,18,96,0.02483,0.03,nc,nc73830976,2023-01-11T06:35:11.617Z,"3km NE of The Geysers, CA",earthquake,0.28,0.51,0.16,18,automatic,nc,nc
+2023-01-11T06:20:08.930Z,38.793335,-122.729332,1.24,1.36,md,18,96,0.02483,0.03,nc,nc73830976,2023-01-11T06:37:11.628Z,"3km NE of The Geysers, CA",earthquake,0.28,0.51,0.16,18,automatic,nc,nc
 2023-01-11T06:00:28.103Z,38.1972,-117.7889,6.3,1.4,ml,10,156.84,0.136,0.1775,nn,nn00854720,2023-01-11T06:03:47.894Z,"Nevada",earthquake,,1.5,0.45,5,automatic,nn,nn
 2023-01-11T05:24:00.630Z,34.064,-117.832,12.44,1.5,ml,46,77,0.0346,0.21,ci,ci40401344,2023-01-11T05:27:32.482Z,"4km NNW of Diamond Bar, CA",earthquake,0.31,0.58,0.163,29,automatic,ci,ci
 2023-01-11T05:22:05.610Z,19.2525005340576,-155.407165527344,27.6700000762939,1.98000002,md,12,151,,0.119999997,hv,hv73301317,2023-01-11T05:25:27.550Z,"9 km NE of Pāhala, Hawaii",earthquake,0.87,1.21000004,0.660000026,3,automatic,hv,hv
