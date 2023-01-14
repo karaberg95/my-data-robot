@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-14T17:14:08.690Z,38.8339996,-122.7886658,1.28,0.64,md,7,89,0.004594,0.01,nc,nc73831911,2023-01-14T17:15:42.776Z,"6km WNW of Cobb, CA",earthquake,0.38,1.08,0.48,8,automatic,nc,nc
+2023-01-14T17:30:13.630Z,33.9355,-116.9993333,16.56,1.21,ml,32,54,0.1662,0.18,ci,ci40402584,2023-01-14T17:33:59.762Z,"2km WNW of Beaumont, CA",earthquake,0.26,0.83,0.206,27,automatic,ci,ci
+2023-01-14T17:27:58.770Z,35.506,-118.3861667,4.24,0.98,ml,13,100,0.1721,0.15,ci,ci40402576,2023-01-14T17:31:32.329Z,"13km SE of Bodfish, CA",earthquake,0.34,0.92,0.127,7,automatic,ci,ci
+2023-01-14T17:14:08.690Z,38.8339996,-122.7886658,1.28,0.64,md,7,89,0.004594,0.01,nc,nc73831911,2023-01-14T17:30:13.447Z,"6km WNW of Cobb, CA",earthquake,0.38,1.08,0.48,8,automatic,nc,nc
 2023-01-14T17:01:42.477Z,61.7702,-149.5286,1.1,2.1,ml,,,,0.69,ak,ak023nfnjag,2023-01-14T17:04:06.819Z,"15 km W of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-14T16:53:11.291Z,19.98,145.7505,90.19,4.9,mb,46,130,6.411,0.56,us,us7000j4eg,2023-01-14T17:09:26.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.27,8.091,0.059,91,reviewed,us,us
 2023-01-14T16:39:30.410Z,19.3899993896484,-155.283004760742,2.23000001907349,1.82,ml,29,71,,0.300000012,hv,hv73303637,2023-01-14T16:45:01.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.25999999,0.27,3,automatic,hv,hv
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T16:16:23.860Z,33.4023333,-116.378,4.31,0.89,ml,24,97,0.1272,0.2,ci,ci40402560,2023-01-14T16:20:01.012Z,"16km N of Borrego Springs, CA",earthquake,0.31,0.85,0.17,23,automatic,ci,ci
 2023-01-14T16:14:51.870Z,38.8216667,-122.8133316,3.09,1.14,md,11,74,0.003075,0.02,nc,nc73831906,2023-01-14T17:14:10.366Z,"7km NW of The Geysers, CA",earthquake,0.36,0.92,0.28,12,automatic,nc,nc
 2023-01-14T16:11:30.770Z,38.8283348,-122.8151703,1.73,1.24,md,17,75,0.006339,0.02,nc,nc73831896,2023-01-14T16:46:10.194Z,"8km NW of The Geysers, CA",earthquake,0.23,0.57,0.33,18,automatic,nc,nc
-2023-01-14T16:05:27.500Z,19.2303333282471,-155.403167724609,28.0699996948242,2.21000004,md,43,140,,0.150000006,hv,hv73303632,2023-01-14T16:08:49.540Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.699999988,1.11000001,16,automatic,hv,hv
+2023-01-14T16:05:27.500Z,19.2303333282471,-155.403167724609,28.0699996948242,2.21000004,md,43,140,,0.150000006,hv,hv73303632,2023-01-14T16:08:49.540Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.11000001,16,automatic,hv,hv
 2023-01-14T15:48:11.565Z,63.5099,-148.0822,16.4,1.2,ml,,,,0.38,ak,ak023neqo90,2023-01-14T15:49:41.497Z,"45 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-14T15:25:38.765Z,60.9546,-147.7335,5,1.6,ml,,,,0.82,ak,ak023nelsvo,2023-01-14T15:27:35.902Z,"55 km ENE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-14T15:22:14.390Z,19.4069995880127,-155.276168823242,5.75,1.82,ml,32,39,,0.340000004,hv,hv73303602,2023-01-14T15:27:44.110Z,"5 km SW of Volcano, Hawaii",earthquake,0.52,0.660000026,0.18,4,automatic,hv,hv
@@ -173,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T17:41:52.640Z,58.235,-155.177333333333,3.84,0.16,ml,9,78,,0.15,av,av91746821,2023-01-14T00:36:57.450Z,"85 km NNW of Karluk, Alaska",earthquake,0.35,0.69,0.238064355815238,9,reviewed,av,av
 2023-01-13T17:41:05.160Z,51.8585,-177.863666666667,10.4,0.99,ml,4,206,,0.14,av,av91084388,2023-01-14T00:46:09.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.77,1.54,0.252879120381033,4,reviewed,av,av
 2023-01-13T17:37:27.924Z,-20.7406,-70.337,41.509,4.2,mb,17,172,0.506,1.03,us,us7000j488,2023-01-14T04:35:54.835Z,"61 km SSW of Iquique, Chile",earthquake,4.33,15.927,0.371,2,reviewed,us,us
-2023-01-13T17:32:35.710Z,51.8626666666667,-177.829833333333,6.38,1.21,ml,5,238,,0.1,av,av91084383,2023-01-14T00:40:03.690Z,"82 km W of Adak, Alaska",earthquake,0.65,1,0.357512245760807,5,reviewed,av,av
