@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T16:32:24.004Z,60.3311,-151.5335,52.9,1.4,ml,,,,0.45,ak,ak023p2s1uo,2023-01-15T16:34:03.757Z,"13 km WSW of Cohoe, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-01-15T16:27:10.710Z,32.9566667,-116.3596667,8.9,1.19,ml,18,79,0.04737,0.14,ci,ci40402848,2023-01-15T16:30:44.269Z,"22km NE of Pine Valley, CA",earthquake,0.29,0.59,0.139,16,automatic,ci,ci
+2023-01-15T16:27:01.140Z,19.2355003356934,-155.390335083008,32.0699996948242,2.43,ml,45,143,,0.140000001,hv,hv73304377,2023-01-15T16:32:35.490Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.709999979,3.4,12,automatic,hv,hv
 2023-01-15T16:06:06.744Z,63.6939,-148.7355,89.1,1.4,ml,,,,0.04,ak,ak023p2mfwi,2023-01-15T16:07:58.438Z,"9 km ESE of Denali Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-01-15T15:59:02.840Z,38.8255005,-122.8538361,2.54,0.95,md,17,112,0.00313,0.02,nc,nc73832376,2023-01-15T16:00:39.795Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.22,19,automatic,nc,nc
 2023-01-15T15:57:28.631Z,59.9836,-140.318,0,2.1,ml,,,,0.71,ak,ak023p2bzi7,2023-01-15T15:59:30.614Z,"Southeastern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -8,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T15:14:42.840Z,38.8128319,-122.7959976,1.27,0.86,md,15,61,0.004887,0.02,nc,nc73832346,2023-01-15T15:50:12.372Z,"5km NW of The Geysers, CA",earthquake,0.25,0.47,0.16,15,automatic,nc,nc
 2023-01-15T15:11:50.480Z,34.1555,-117.4536667,8.23,1.93,ml,83,23,0.04292,0.21,ci,ci40402832,2023-01-15T15:22:45.310Z,"6km N of Fontana, CA",earthquake,0.19,0.49,0.158,25,automatic,ci,ci
 2023-01-15T15:05:53.100Z,38.8263321,-122.815834,-0.86,0.71,md,8,144,0.01963,0.12,nc,nc73832341,2023-01-15T15:40:13.314Z,"8km NW of The Geysers, CA",earthquake,0.45,4.15,0.06,10,automatic,nc,nc
-2023-01-15T14:58:13.420Z,38.8118324,-122.7939987,1.22,1.45,md,19,39,0.003991,0.02,nc,nc73832336,2023-01-15T16:20:11.654Z,"5km NW of The Geysers, CA",earthquake,0.2,0.37,0.15,19,automatic,nc,nc
+2023-01-15T14:58:13.420Z,38.8118324,-122.7939987,1.22,1.45,md,19,39,0.003991,0.02,nc,nc73832336,2023-01-15T16:24:10.533Z,"5km NW of The Geysers, CA",earthquake,0.2,0.37,0.15,19,automatic,nc,nc
 2023-01-15T14:57:33.110Z,38.828167,-122.7921677,1.23,0.69,md,10,89,0.01033,0.02,nc,nc73832331,2023-01-15T15:19:13.204Z,"6km W of Cobb, CA",earthquake,0.34,0.55,0.18,10,automatic,nc,nc
 2023-01-15T14:55:35.203Z,65.8328,-150.5514,0,2.1,ml,,,,1.04,ak,ak023p1q4z4,2023-01-15T14:57:24.073Z,"40 km NNW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-15T14:45:56.310Z,38.8274994,-122.7925034,1.32,0.75,md,10,66,0.01102,0.02,nc,nc73832326,2023-01-15T15:09:15.148Z,"6km W of Cobb, CA",earthquake,0.39,0.81,0.31,10,automatic,nc,nc
@@ -172,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T17:01:42.477Z,61.7702,-149.5286,1.1,2.1,ml,,,,0.69,ak,ak023nfnjag,2023-01-14T17:04:06.819Z,"15 km W of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-14T16:53:11.291Z,19.98,145.7505,90.19,4.9,mb,46,130,6.411,0.56,us,us7000j4eg,2023-01-14T17:09:26.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.27,8.091,0.059,91,reviewed,us,us
 2023-01-14T16:39:30.410Z,19.3899993896484,-155.283004760742,2.23000001907349,1.82,ml,29,71,,0.300000012,hv,hv73303637,2023-01-14T16:45:01.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.43,0.25999999,0.27,3,automatic,hv,hv
-2023-01-14T16:36:11.184Z,60.9766,-146.9962,23.3,1.5,ml,,,,0.42,ak,ak023nf9j8e,2023-01-14T16:38:04.439Z,"21 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
