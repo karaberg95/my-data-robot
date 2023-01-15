@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T13:15:58.100Z,38.7588348,-122.7148361,1.17,1.68,md,14,73,,0.07,nc,nc73832281,2023-01-15T13:17:35.104Z,"3km SW of Anderson Springs, CA",earthquake,0.28,0.32,0.09,17,automatic,nc,nc
+2023-01-15T13:13:09.940Z,33.7585,-116.1783333,1.29,1.14,ml,24,90,0.05246,0.24,ci,ci40402816,2023-01-15T13:16:33.289Z,"5km NE of Indio, CA",earthquake,0.43,0.59,0.157,29,automatic,ci,ci
+2023-01-15T13:13:01.800Z,38.831501,-122.8183365,1.72,0.72,md,14,57,0.01035,0.01,nc,nc73832276,2023-01-15T13:14:34.931Z,"8km NW of The Geysers, CA",earthquake,0.27,0.64,0.11,14,automatic,nc,nc
+2023-01-15T12:49:19.076Z,64.8867,-147.2825,16.5,0.9,ml,,,,0.31,ak,ak023p0hyav,2023-01-15T13:00:43.149Z,"11 km W of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-15T12:28:15.040Z,11.4334,124.6663,10,4.8,mb,52,82,4.429,0.54,us,us7000j4it,2023-01-15T12:52:00.040Z,"9 km SE of Bunga, Philippines",earthquake,6.66,1.75,0.087,41,reviewed,us,us
-2023-01-15T12:09:29.860Z,38.8371658,-122.8363342,1.45,1.45,md,25,78,0.001568,0.02,nc,nc73832266,2023-01-15T12:26:15.156Z,"10km NW of The Geysers, CA",earthquake,0.18,0.33,0.15,26,automatic,nc,nc
+2023-01-15T12:09:29.860Z,38.8371658,-122.8363342,1.45,1.45,md,25,78,0.001568,0.02,nc,nc73832266,2023-01-15T13:10:11.439Z,"10km NW of The Geysers, CA",earthquake,0.18,0.33,0.15,26,automatic,nc,nc
 2023-01-15T12:08:58.420Z,19.216833114624,-155.380004882812,34.3400001525879,1.86000001,md,41,157,,0.159999996,hv,hv73304232,2023-01-15T12:12:07.610Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.850000024,,5,automatic,hv,hv
 2023-01-15T12:05:26.140Z,20.2433338165283,-155.575332641602,9.05000019073486,2.47,ml,48,193,,0.219999999,hv,hv73304227,2023-01-15T12:58:08.040Z,"13 km N of Kukuihaele, Hawaii",earthquake,2.54,3.43000007,5.14,5,automatic,hv,hv
 2023-01-15T12:04:17.860Z,-15.0013,166.8796,32.418,5.6,mww,94,25,8.744,0.69,us,us7000j4ij,2023-01-15T12:29:47.235Z,"21 km WNW of Port-Olry, Vanuatu",earthquake,9.55,4.688,0.063,24,reviewed,us,us
@@ -165,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T13:35:40.812Z,63.9035,-148.8253,53,1.6,ml,,,,0.79,ak,ak023ndh2zl,2023-01-14T13:37:32.170Z,"8 km NE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-14T13:21:19.230Z,33.7173333,-116.8236667,17.44,0.8,ml,18,62,0.08878,0.17,ci,ci40402536,2023-01-14T13:25:06.636Z,"7km ESE of Valle Vista, CA",earthquake,0.44,0.57,0.175,18,automatic,ci,ci
 2023-01-14T13:18:42.370Z,19.224666595459,-155.391326904297,31.1200008392334,2.0999999,md,43,149,,0.129999995,hv,hv73303517,2023-01-14T13:21:48.120Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.75999999,1.36000001,15,automatic,hv,hv
-2023-01-14T13:03:23.180Z,19.2373332977295,-155.394165039062,32.7099990844727,2.03999996,md,45,140,,0.140000001,hv,hv73303512,2023-01-14T13:06:26.310Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.5,0.680000007,0.639999986,13,automatic,hv,hv
-2023-01-14T13:02:07.677Z,62.8704,-149.7874,80.7,1,ml,,,,0.42,ak,ak023nd9xpv,2023-01-14T13:04:09.180Z,"49 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
