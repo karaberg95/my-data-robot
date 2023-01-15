@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-15T09:08:55.891Z,61.6343,-151.8413,101.6,3,ml,,,,0.59,ak,ak023oygxu7,2023-01-15T09:10:49.074Z,"46 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-01-15T09:27:05.848Z,57.9808,-155.5561,105.5,1.6,ml,,,,0.76,ak,ak023oykwmw,2023-01-15T09:29:02.599Z,"79 km NW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2023-01-15T09:08:55.891Z,61.6343,-151.8413,101.6,3,ml,,,,0.59,ak,ak023oygxu7,2023-01-15T09:22:33.040Z,"46 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-15T09:03:54.430Z,33.9775,-116.3935,8.2,1.29,ml,28,74,0.03885,0.18,ci,ci40402760,2023-01-15T09:07:23.777Z,"10km E of Desert Hot Springs, CA",earthquake,0.34,0.56,0.207,28,automatic,ci,ci
-2023-01-15T08:52:37.150Z,37.8306656,-121.9848328,7.32,1.96,md,17,99,0.0288,0.1,nc,nc73832191,2023-01-15T09:09:10.935Z,"2km NE of Danville, CA",earthquake,0.31,0.49,0.16,14,automatic,nc,nc
+2023-01-15T08:52:37.150Z,37.8306656,-121.9848328,7.32,1.96,md,17,99,0.0288,0.1,nc,nc73832191,2023-01-15T09:25:10.050Z,"2km NE of Danville, CA",earthquake,0.31,0.49,0.16,14,automatic,nc,nc
 2023-01-15T08:39:15.910Z,38.7939987,-122.7508316,2.11,1.03,md,11,91,0.009588,0.03,nc,nc73832181,2023-01-15T09:21:14.023Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.77,0.3,12,automatic,nc,nc
 2023-01-15T08:38:28.390Z,38.7944984,-122.7488327,2.12,0.91,md,11,92,0.01047,0.02,nc,nc73832176,2023-01-15T09:11:16.953Z,"2km NNE of The Geysers, CA",earthquake,0.31,0.68,0.17,12,automatic,nc,nc
 2023-01-15T08:37:35.200Z,38.8066673,-122.8026657,1,0.86,md,9,161,0.005897,0.02,nc,nc73832171,2023-01-15T09:00:12.869Z,"5km NW of The Geysers, CA",earthquake,0.49,0.83,0.24,10,automatic,nc,nc
