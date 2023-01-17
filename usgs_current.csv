@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T07:50:32.314Z,-21.8061,-68.5563,80.783,5,mb,47,124,5.297,0.79,us,us7000j4na,2023-01-17T01:27:53.946Z,"81 km NNE of Calama, Chile",earthquake,8.5,7.715,0.038,228,reviewed,us,us
 2023-01-16T07:46:44.347Z,38.1099,-118.0313,7,2.6,ml,15,131.94,0.096,0.375,nn,nn00854887,2023-01-16T07:48:46.755Z,"31 km SSE of Mina, Nevada",earthquake,,0.5,0.79,11,automatic,nn,nn
 2023-01-16T07:46:17.755Z,38.167,-117.9695,2.2,2,ml,13,123.03,0.034,0.2244,nn,nn00854886,2023-01-16T07:48:06.035Z,"27 km SSE of Mina, Nevada",earthquake,,0.8,0.81,8,automatic,nn,nn
-2023-01-16T07:29:48.430Z,35.6891667,-117.5186667,2.18,1.79,ml,19,80,0.1417,0.21,ci,ci40403056,2023-01-16T07:33:20.025Z,"14km SW of Searles Valley, CA",earthquake,0.35,0.83,0.175,26,automatic,ci,ci
