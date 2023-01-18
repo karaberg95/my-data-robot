@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-18T07:24:20.180Z,35.8084984,-120.3583298,7.91,2.01,md,35,110,0.03847,0.06,nc,nc73833496,2023-01-18T07:27:11.242Z,"11km NNW of Cholame, CA",earthquake,0.3,0.41,0.23,29,automatic,nc,nc
+2023-01-18T07:28:50.880Z,35.3241667,-118.5661667,3.24,2.56,ml,53,35,0.1233,0.21,ci,ci40403560,2023-01-18T07:37:06.815Z,"24km NNW of Tehachapi, CA",earthquake,0.26,1.51,0.179,26,automatic,ci,ci
+2023-01-18T07:24:20.180Z,35.8084984,-120.3583298,7.91,2.01,md,35,110,0.03847,0.06,nc,nc73833496,2023-01-18T07:32:08.327Z,"11km NNW of Cholame, CA",earthquake,0.3,0.41,0.23,29,automatic,nc,nc
 2023-01-18T07:13:00.490Z,34.0406667,-116.818,18.62,1.23,ml,29,116,0.1112,0.23,ci,ci40403544,2023-01-18T07:16:38.712Z,"14km NNE of Banning, CA",earthquake,0.38,0.82,0.125,29,automatic,ci,ci
 2023-01-18T07:12:39.950Z,38.8348351,-122.7898331,1.92,0.75,md,14,85,0.003591,0.02,nc,nc73833491,2023-01-18T07:14:14.993Z,"6km WNW of Cobb, CA",earthquake,0.26,0.47,0.14,14,automatic,nc,nc
 2023-01-18T07:12:30.280Z,63.1006,-150.7482,114.7,2.1,ml,,,,0.52,ak,ak023tvwx1w,2023-01-18T07:15:11.243Z,"67 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T07:48:12.968Z,58.1229,-155.5891,12.4,1.1,ml,,,,0.37,ak,ak023s8l900,2023-01-17T07:57:16.424Z,"88 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-17T07:47:00.272Z,58.1714,-155.4045,0,0.9,ml,,,,1.08,ak,ak023s8l0ad,2023-01-17T07:49:41.599Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-17T07:38:45.110Z,19.3998336791992,-155.261001586914,0.0900000035762787,2.41000009,md,19,54,,0.119999997,hv,hv73305667,2023-01-17T07:41:48.760Z,"5 km SSW of Volcano, Hawaii",earthquake,0.14,0.25999999,1.26999998,11,automatic,hv,hv
-2023-01-17T07:32:18.550Z,38.8321648,-122.8183365,1.48,0.71,md,12,56,0.01088,0.01,nc,nc73833046,2023-01-17T07:50:12.327Z,"8km NW of The Geysers, CA",earthquake,0.3,0.72,0.31,14,automatic,nc,nc
