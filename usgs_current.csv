@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T18:19:17.390Z,38.8283348,-122.854332,2.21,0.76,md,17,61,0.002136,0.03,nc,nc73833631,2023-01-18T18:46:12.918Z,"10km NW of The Geysers, CA",earthquake,0.25,0.47,0.15,17,automatic,nc,nc
 2023-01-18T18:19:06.940Z,38.8274994,-122.8533325,2.1,0.26,md,7,142,0.002766,0.01,nc,nc73833626,2023-01-18T18:36:11.863Z,"10km WNW of The Geysers, CA",earthquake,0.51,0.89,0.15,8,automatic,nc,nc
 2023-01-18T18:19:06.329Z,62.2092,-123.921,7.001,4.1,mb,47,57,3.163,1.1,us,us7000j5aj,2023-01-18T20:38:23.040Z,"Northwest Territories, Canada",earthquake,7.08,3.863,0.145,13,reviewed,us,us
-2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"Molucca Sea",earthquake,8.83,8.529,0.098,31,reviewed,us,us
+2023-01-18T18:15:37.184Z,2.7083,126.929,51.999,4.6,mb,36,134,1.973,0.47,us,us7000j5ak,2023-01-18T20:21:47.040Z,"161 km NW of Tobelo, Indonesia",earthquake,8.83,8.529,0.098,31,reviewed,us,us
 2023-01-18T18:05:15.092Z,59.7876,-151.842,69,1.6,ml,,,,0.31,ak,ak023u2f5it,2023-01-18T18:07:55.190Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-18T18:04:35.722Z,60.766,-147.311,13.5,2.1,ml,,,,0.76,ak,ak023u2ezec,2023-01-18T18:06:35.307Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T18:03:50.266Z,62.1545,-149.4294,47.6,1.8,ml,,,,0.38,ak,ak023u2essy,2023-01-18T18:05:19.413Z,"21 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T23:51:40.353Z,60.7055,-151.2352,46.3,1.7,ml,,,,0.38,ak,ak023si4vxp,2023-01-17T23:53:56.041Z,"3 km ENE of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-01-17T23:40:24.199Z,35.05833333,-97.41416667,4.31,2.11,ml,97,39,0.08908251897,0.28,ok,ok2023bfax,2023-01-18T15:39:22.598Z,"6 km E of Washington, Oklahoma",earthquake,,0.6,0.33,12,reviewed,ok,ok
 2023-01-17T23:37:13.370Z,33.7868333,-116.9381667,12.4,0.89,ml,22,71,0.09461,0.13,ci,ci40403424,2023-01-18T01:32:41.139Z,"2km E of San Jacinto, CA",earthquake,0.27,0.52,0.173,13,reviewed,ci,ci
-2023-01-17T23:31:13.180Z,34.2715,-118.478,10.98,0.91,ml,14,58,0.01049,0.19,ci,ci40403416,2023-01-18T01:28:22.912Z,"2km E of Granada Hills, CA",earthquake,0.51,0.6,0.206,8,reviewed,ci,ci
