@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T00:09:32.720Z,38.5405006,-122.645668,3.89,1.93,md,9,232,0.2256,0.12,nc,nc73833366,2023-01-18T01:22:12.841Z,"7km SW of Calistoga, CA",earthquake,4.89,10.33,,1,automatic,nc,nc
 2023-01-18T00:08:39.460Z,46.36866666666667,-122.817,-0.61,1.62,ml,8,236,0.2223,0.08,uw,uw61893892,2023-01-18T19:58:00.060Z,"8 km SSE of Toledo, Washington",explosion,1.77,31.61,0.2240436428719783,6,reviewed,uw,uw
 2023-01-18T00:00:24.290Z,38.8313332,-122.81633,1.87,0.54,md,10,92,0.009312,0.02,nc,nc73833356,2023-01-18T00:59:14.701Z,"8km NW of The Geysers, CA",earthquake,0.3,0.8,0.32,9,automatic,nc,nc
-2023-01-17T23:51:40.353Z,60.7055,-151.2352,46.3,1.7,ml,,,,0.38,ak,ak023si4vxp,2023-01-17T23:53:56.041Z,"3 km ENE of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
