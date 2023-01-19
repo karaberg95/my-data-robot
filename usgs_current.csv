@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-19T04:28:15.672Z,60.5941,-143.1386,16.9,1.9,ml,,,,0.42,ak,ak023vhrd27,2023-01-19T04:29:34.861Z,"94 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-19T04:17:44.847Z,61.7435,-149.54,31.7,1.6,ml,,,,0.53,ak,ak023vhp2fo,2023-01-19T04:19:15.090Z,"13 km NNE of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-19T04:00:30.280Z,38.8455009,-122.8166656,1.4,1.25,md,17,81,0.01053,0.02,nc,nc73833806,2023-01-19T04:20:10.468Z,"8km WNW of Cobb, CA",earthquake,0.24,0.67,0.15,24,automatic,nc,nc
+2023-01-19T04:00:30.280Z,38.8455009,-122.8166656,1.4,1.25,md,17,81,0.01053,0.02,nc,nc73833806,2023-01-19T04:44:13.620Z,"8km WNW of Cobb, CA",earthquake,0.24,0.67,0.15,24,automatic,nc,nc
 2023-01-19T03:42:57.210Z,38.7895012,-122.7758331,0.42,1.4,md,8,108,0.01013,0.01,nc,nc73833791,2023-01-19T04:20:10.600Z,"2km NW of The Geysers, CA",earthquake,0.28,0.69,0.2,8,automatic,nc,nc
 2023-01-19T03:25:34.756Z,34.4363,137.161,71.823,4.5,mb,21,182,0.877,0.68,us,us7000j5ep,2023-01-19T04:15:04.040Z,"near the south coast of Honshu, Japan",earthquake,6.23,3.142,0.205,7,reviewed,us,us
 2023-01-19T03:16:41.650Z,33.4918333,-116.419,6.29,0.75,ml,24,117,0.03198,0.21,ci,ci40403808,2023-01-19T03:20:13.753Z,"22km SSW of La Quinta, CA",earthquake,0.3,0.61,0.204,17,automatic,ci,ci
