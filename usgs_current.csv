@@ -58,12 +58,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T09:17:32.670Z,38.5988333,-122.804,4.83,1.23,md,33,46,0.05625,0.11,nc,nc71129749,2023-01-20T11:35:11.272Z,"6km ESE of Healdsburg, CA",earthquake,0.26,0.63,0.199,16,reviewed,nc,nc
 2023-01-20T09:17:29.450Z,36.7703333,-121.2936667,7.23,1.08,md,21,157,0.07068,0.12,nc,nc73834466,2023-01-20T10:40:13.940Z,"3km SE of Tres Pinos, CA",earthquake,0.3,0.66,0.241,18,reviewed,nc,nc
 2023-01-20T08:58:08.696Z,3.5756,128.5755,9.826,4.9,mb,47,110,3.036,0.82,us,us7000j5qh,2023-01-20T09:38:01.040Z,"213 km NNE of Tobelo, Indonesia",earthquake,7.47,4.596,0.088,40,reviewed,us,us
-2023-01-20T08:41:13.672Z,38.1966,-117.8636,9.5,1.4,ml,14,146.66,0.095,0.1629,nn,nn00855069,2023-01-20T08:43:25.425Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.25,10,automatic,nn,nn
+2023-01-20T08:41:14.013Z,38.1883,-117.8611,11.9,1.4,ml,14,145.08,0.092,0.142,nn,nn00855069,2023-01-20T18:45:25.353Z,"Nevada",earthquake,,1.6,0.16,5,reviewed,nn,nn
 2023-01-20T08:32:25.900Z,40.5099983,-124.3958359,19.16,2.1,md,8,305,0.05624,0.05,nc,nc73834456,2023-01-20T10:25:12.866Z,"13km WSW of Ferndale, CA",earthquake,3.52,1.15,0.09,4,automatic,nc,nc
 2023-01-20T08:28:49.040Z,38.8313332,-122.8146667,1.71,1.33,md,23,49,,0.02,nc,nc73834451,2023-01-20T09:19:13.447Z,"8km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,23,automatic,nc,nc
 2023-01-20T08:13:03.741Z,61.8025,-144.9031,62,1.6,ml,,,,0.68,ak,ak023x7l7ba,2023-01-20T08:14:51.679Z,"9 km NNE of Kenny Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-20T08:10:35.930Z,38.8286667,-122.8156662,2.93,0.76,md,9,94,0.00684,0.03,nc,nc73834446,2023-01-20T08:12:09.007Z,"8km NW of The Geysers, CA",earthquake,0.47,1.36,0.29,9,automatic,nc,nc
-2023-01-20T08:01:14.570Z,41.128,-123.8753333,25.27,4.26,mw,80,89,0.2208,0.17,nc,nc73834441,2023-01-20T18:44:31.642Z,"16km WSW of Weitchpec, CA",earthquake,0.31,1.29,,4,reviewed,nc,nc
+2023-01-20T08:01:14.570Z,41.128,-123.8753333,25.27,4.26,mw,80,89,0.2208,0.17,nc,nc73834441,2023-01-20T18:50:30.697Z,"16km WSW of Weitchpec, CA",earthquake,0.31,1.29,,4,reviewed,nc,nc
 2023-01-20T07:55:05.300Z,37.329,-117.1222,10.3,1.5,ml,22,134.74,0.369,0.1555,nn,nn00855065,2023-01-20T18:29:39.794Z,"California-Nevada border region",earthquake,,1.3,0.93,14,reviewed,nn,nn
 2023-01-20T07:51:31.280Z,32.9655,-116.2981667,12.09,0.95,ml,20,72,0.09476,0.17,ci,ci40404352,2023-01-20T07:55:09.433Z,"25km SW of Ocotillo Wells, CA",earthquake,0.34,0.8,0.169,11,automatic,ci,ci
 2023-01-20T07:50:21.680Z,37.3322,-117.126,10.8,1.6,ml,20,125.38,0.373,0.16,nn,nn00855062,2023-01-20T18:13:55.747Z,"42 km SSE of Goldfield, Nevada",earthquake,,1.5,0.93,14,reviewed,nn,nn
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T03:07:20.200Z,35.7943333,-117.5795,7.34,1.43,ml,14,189,0.0259,0.13,ci,ci40404288,2023-01-20T03:10:56.476Z,"16km W of Searles Valley, CA",earthquake,0.69,0.78,0.196,17,automatic,ci,ci
 2023-01-20T03:04:05.633Z,63.014,-150.7003,105.3,1.8,ml,,,,0.26,ak,ak023x4k3zn,2023-01-20T03:06:16.389Z,"57 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-20T02:45:32.624Z,59.7879,-150.2718,16.9,2.5,ml,,,,0.53,ak,ak023x47itq,2023-01-20T02:53:54.040Z,"39 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-20T02:43:08.400Z,33.2598333,-116.2761667,9.44,1.03,ml,28,67,0.06949,0.17,ci,ci40404280,2023-01-20T02:46:49.558Z,"9km E of Borrego Springs, CA",earthquake,0.34,0.8,0.128,23,automatic,ci,ci
+2023-01-20T02:43:08.260Z,33.2558333,-116.2745,10.85,1.03,ml,41,86,0.06528,0.14,ci,ci40404280,2023-01-20T18:51:10.003Z,"9km E of Borrego Springs, CA",earthquake,0.2,0.37,0.138,22,reviewed,ci,ci
 2023-01-20T02:39:28.480Z,38.8293343,-122.8103333,8.81,0.76,md,9,80,0.005934,0.03,nc,nc73834271,2023-01-20T03:35:16.879Z,"7km NW of The Geysers, CA",earthquake,0.96,8.29,0.5,10,automatic,nc,nc
 2023-01-20T02:13:06.023Z,62.1494,-152.086,103.5,2.6,ml,,,,0.6,ak,ak023x40ltz,2023-01-20T02:22:01.040Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-20T02:11:00.260Z,38.7514992,-122.6998367,1.13,1.42,md,10,134,,0.02,nc,nc73834261,2023-01-20T03:18:12.787Z,"3km SSW of Anderson Springs, CA",earthquake,0.24,0.44,0.23,12,automatic,nc,nc
@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T19:13:50.778Z,38.7384,-119.605,12,1,ml,4,160.35,0.167,0.1062,nn,nn00855045,2023-01-20T02:03:22.946Z,"7 km NW of Topaz Lake, Nevada",earthquake,,8.1,0,1,reviewed,nn,nn
 2023-01-19T19:07:51.410Z,19.2521667480469,-155.411331176758,31.6000003814697,2.16,ml,43,125,,0.119999997,hv,hv73307897,2023-01-19T19:13:22.630Z,"8 km NE of Pāhala, Hawaii",earthquake,0.6,0.769999981,3.4,7,automatic,hv,hv
 2023-01-19T18:54:27.650Z,38.7568333,-122.7158333,1.91,0.2,md,18,72,0.008509,0.03,nc,nc73834076,2023-01-20T05:25:54.232Z,"3km SW of Anderson Springs, CA",earthquake,0.26,0.27,0.038,4,reviewed,nc,nc
-2023-01-19T18:51:38.143Z,2.6331,126.8351,65.929,4.5,mb,44,112,1.924,0.63,us,us7000j5kz,2023-01-19T22:30:16.040Z,"164 km NW of Tobelo, Indonesia",earthquake,10.39,8.052,0.087,39,reviewed,us,us
-2023-01-19T18:51:25.900Z,34.3308333,-116.8358333,-1.7,1.16,ml,14,155,0.01849,0.13,ci,ci40404144,2023-01-19T20:24:25.291Z,"8km N of Big Bear City, CA",quarry blast,0.46,31.61,0.353,8,reviewed,ci,ci
