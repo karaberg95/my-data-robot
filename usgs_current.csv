@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T11:11:37.275Z,60.7717,-150.8716,44.9,2.1,ml,,,,0.21,ak,ak02310kfu9r,2023-01-22T11:13:07.741Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-22T11:04:28.537Z,61.7452,-149.6034,29,1.7,ml,,,,0.66,ak,ak02310kebl1,2023-01-22T11:06:10.931Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-22T10:57:25.445Z,64.8565,-148.7196,14.9,2,ml,,,,0.56,ak,ak02310k48ow,2023-01-22T10:59:09.857Z,"33 km W of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-22T10:46:59.590Z,34.1398333,-118.4431667,8.91,1.08,ml,19,90,0.03499,0.32,ci,ci40404872,2023-01-22T20:39:28.989Z,"1km SSE of Sherman Oaks, CA",earthquake,0.67,1.24,0.156,23,automatic,ci,ci
+2023-01-22T10:46:59.590Z,34.1398333,-118.4431667,8.91,1.08,ml,19,90,0.03499,0.32,ci,ci40404872,2023-01-22T21:41:10.154Z,"1km SSE of Sherman Oaks, CA",earthquake,0.67,1.24,0.156,23,automatic,ci,ci
 2023-01-22T10:43:02.910Z,32.8293333,-115.4723333,6.64,1.57,ml,20,80,0.1035,0.32,ci,ci40404864,2023-01-22T10:54:16.620Z,"9km WNW of Holtville, CA",earthquake,0.67,2.62,0.248,24,automatic,ci,ci
 2023-01-22T10:37:42.691Z,31.6516,-104.4203,6.383,2.5,ml,24,102,0.415,0.33,us,us7000j67n,2023-01-22T11:32:49.040Z,"58 km S of Whites City, New Mexico",earthquake,1.9,5.092,0.05,52,reviewed,us,us
 2023-01-22T10:29:55.030Z,38.8351669,-122.810997,1.99,0.23,md,8,101,0.01178,0.01,nc,nc73835731,2023-01-22T11:02:14.286Z,"8km W of Cobb, CA",earthquake,0.4,0.99,0.12,9,automatic,nc,nc
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T22:29:55.117Z,36.92842865,-97.64608765,2.359464169,2.19,ml,24,72.49800873,0.1589636207,0.4077556383,ok,ok2023bmgp,2023-01-21T22:33:19.637Z,"Oklahoma",earthquake,2.42067162,2.096815033,,18,automatic,ok,ok
 2023-01-21T21:56:59.449Z,-48.9243,-8.375,10,4.9,mb,23,113,27.399,0.28,us,us7000j64j,2023-01-21T22:25:47.040Z,"southern Mid-Atlantic Ridge",earthquake,12.57,1.892,0.126,20,reviewed,us,us
 2023-01-21T21:50:17.099Z,-15.1354,-72.0068,122.588,4.3,mb,15,123,3.441,1.9,us,us7000j64i,2023-01-22T02:33:19.040Z,"38 km ENE of Orcopampa, Peru",earthquake,7.3,12.344,0.154,12,reviewed,us,us
-2023-01-21T21:36:26.305Z,60.2602,-150.9304,61.2,2.5,ml,,,,0.34,ak,ak023z305vq,2023-01-22T02:24:10.040Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
