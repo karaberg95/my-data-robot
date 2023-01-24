@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T03:20:26.120Z,36.1678333,-118.0845,2.26,1.28,ml,10,86,0.1925,0.12,ci,ci40405184,2023-01-24T03:23:51.460Z,"14km SSW of Olancha, CA",earthquake,0.28,1.17,0.082,9,automatic,ci,ci
 2023-01-24T02:30:05.380Z,2.9295,127.1164,35,5.3,mb,74,75,2.158,0.94,us,us6000jitx,2023-01-24T02:45:12.040Z,"Molucca Sea",earthquake,9.02,1.89,0.067,74,reviewed,us,us
 2023-01-24T02:25:24.115Z,2.8614,126.8256,35,4.6,mb,22,125,2.145,0.56,us,us6000jitw,2023-01-24T02:51:52.040Z,"Molucca Sea",earthquake,14.01,1.939,0.141,15,reviewed,us,us
 2023-01-24T02:14:47.260Z,38.8160019,-122.8314972,1.1,0.59,md,10,65,0.00735,0.02,nc,nc73836511,2023-01-24T03:07:12.517Z,"8km WNW of The Geysers, CA",earthquake,0.27,0.85,0.32,12,automatic,nc,nc
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T14:01:53.532Z,3.0087,127.0747,35,4.7,mb,78,109,2.241,0.62,us,us7000j6cb,2023-01-23T15:24:28.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,8.23,1.874,0.072,59,reviewed,us,us
 2023-01-23T14:01:37.370Z,37.1071663,-121.5123367,6.14,1.76,md,24,47,0.05137,0.14,nc,nc73836271,2023-01-23T15:36:07.205Z,"9km ENE of San Martin, CA",earthquake,0.28,0.8,0.15,19,automatic,nc,nc
 2023-01-23T14:00:50.710Z,19.2923336029053,-155.407836914062,32.4099998474121,2,md,34,151,,0.100000001,hv,hv73310832,2023-01-23T14:04:11.420Z,"12 km NE of Pāhala, Hawaii",earthquake,0.68,0.810000002,0.680000007,7,automatic,hv,hv
-2023-01-23T13:58:02.950Z,37.1093333,-121.5168333,5.65,3.62,ml,105,31,0.05538,0.1,nc,nc73836266,2023-01-24T00:52:31.869Z,"9km ENE of San Martin, CA",earthquake,0.1,0.35,0.149,160,reviewed,nc,nc
+2023-01-23T13:58:02.950Z,37.1093333,-121.5168333,5.65,3.62,ml,105,31,0.05538,0.1,nc,nc73836266,2023-01-24T03:16:59.278Z,"9km ENE of San Martin, CA",earthquake,0.1,0.35,0.149,160,reviewed,nc,nc
 2023-01-23T13:55:40.715Z,36.7613,-116.0066,2.7,0.6,ml,12,206.91,0.027,0.1487,nn,nn00855147,2023-01-23T17:06:57.784Z,"36 km NW of Indian Springs, Nevada",earthquake,,1.7,0.2,5,reviewed,nn,nn
 2023-01-23T13:44:58.200Z,46.37283333333333,-119.23866666666666,4.44,0.29,ml,5,318,0.1629,0.36,uw,uw61894457,2023-01-24T00:40:26.540Z,"Washington",earthquake,6.18,22.79,0.2500938020251943,4,reviewed,uw,uw
 2023-01-23T13:42:03.274Z,24.8127,93.0266,10,5.1,mb,84,47,5.465,0.72,us,us7000j6c8,2023-01-24T01:26:04.791Z,"2 km NE of Lakhipur, India",earthquake,7.8,1.837,0.046,156,reviewed,us,us
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T08:10:37.610Z,57.7218,-153.1781,52.7,3,ml,,,,0.43,ak,ak0231266o9d,2023-01-23T14:52:54.040Z,"23 km SW of Port Lions, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-23T08:10:36.960Z,44.7816667,-110.7876667,5.02,0.58,md,10,185,0.04524,0.07,uu,uu60530092,2023-01-23T14:37:22.960Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.79,1.16,0.254,6,reviewed,uu,uu
 2023-01-23T08:09:04.269Z,-23.0448,171.6843,10,4.9,mb,48,57,3.933,0.46,us,us7000j6bp,2023-01-23T08:34:56.040Z,"southeast of the Loyalty Islands",earthquake,6.48,1.892,0.089,40,reviewed,us,us
-2023-01-23T08:06:18.497Z,39.2607,-120.1161,9.7,0.4,ml,5,111.7,0.054,0.0369,nn,nn00855169,2023-01-24T00:13:13.029Z,"Northern California",earthquake,,1.6,0.2,3,reviewed,nn,nn
+2023-01-23T08:06:18.497Z,39.2607,-120.1161,9.7,0.4,ml,5,111.7,0.054,0.0369,nn,nn00855169,2023-01-24T00:13:13.029Z,"4 km NW of Carnelian Bay, California",earthquake,,1.6,0.2,3,reviewed,nn,nn
 2023-01-23T07:54:58.660Z,18.007,-67.1566,7,3.52,md,18,213,0.047,0.12,pr,pr2023023004,2023-01-23T12:24:37.886Z,"Puerto Rico",earthquake,0.78,0.28,0.11,15,reviewed,pr,pr
 2023-01-23T07:13:35.180Z,40.49,-111.9681667,9.04,1.02,md,18,57,0.03687,0.14,uu,uu60530087,2023-01-23T14:49:15.240Z,"Utah",earthquake,0.36,0.82,0.372,9,reviewed,uu,uu
 2023-01-23T07:11:56.782Z,39.2612,-120.1168,9.7,0.1,ml,5,112.33,0.054,0.0179,nn,nn00855168,2023-01-24T00:03:56.612Z,"4 km NW of Carnelian Bay, California",earthquake,,2,0.31,3,reviewed,nn,nn
