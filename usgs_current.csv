@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T15:09:05.885Z,60.4651,-150.7148,47.2,2.1,ml,,,,0.64,ak,ak02313xvrto,2023-01-24T15:11:35.600Z,"4 km SSE of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-24T14:49:37.240Z,38.828167,-122.7968369,0.9,0.73,md,10,85,0.01138,0.01,nc,nc73836696,2023-01-24T15:06:13.659Z,"6km W of Cobb, CA",earthquake,0.27,0.84,0.16,11,automatic,nc,nc
 2023-01-24T14:16:44.626Z,38.5022,-119.502,1.8,1.6,ml,13,96.1,0.085,0.2615,nn,nn00855181,2023-01-24T14:18:05.910Z,"2 km WSW of Walker, California",earthquake,,2.3,0.24,6,automatic,nn,nn
-2023-01-24T13:59:48.540Z,19.2084999084473,-155.388168334961,35.8800010681152,2.29,ml,46,158,,0.170000002,hv,hv73311677,2023-01-24T14:05:19.600Z,"9 km E of Pāhala, Hawaii",earthquake,0.58,0.870000005,2.87,6,automatic,hv,hv
+2023-01-24T13:59:48.540Z,19.2084999084473,-155.388168334961,35.8800010681152,2.29,ml,46,158,,0.170000002,hv,hv73311677,2023-01-24T15:43:26.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.58,0.870000005,2.87,6,automatic,hv,hv
 2023-01-24T13:55:02.028Z,60.815,-151.6609,71.9,2.6,ml,,,,0.48,ak,ak02313wyr96,2023-01-24T15:08:17.040Z,"24 km NW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-24T13:40:39.160Z,19.0510005950928,-155.407501220703,34.5299987792969,2.36,ml,46,203,,0.119999997,hv,hv73311667,2023-01-24T15:02:03.040Z,"18 km E of Naalehu, Hawaii",earthquake,0.56,0.970000029,0.31,5,automatic,hv,hv
 2023-01-24T13:27:46.170Z,33.9661667,-116.6755,16.02,0.79,ml,18,93,0.1297,0.19,ci,ci40405296,2023-01-24T13:31:17.469Z,"12km ENE of Cabazon, CA",earthquake,0.39,0.98,0.176,19,automatic,ci,ci
@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T15:49:48.549Z,34.42233333,-97.066,0,1.43,ml,16,119,0.2762457912,0.42,ok,ok2023bpkk,2023-01-24T14:46:27.117Z,"2 km NNW of Dougherty, Oklahoma",quarry blast,,1,0.34,4,reviewed,ok,ok
 2023-01-23T15:47:59.540Z,34.2891667,-116.8465,8.95,1.48,ml,47,43,0.06079,0.14,ci,ci40405040,2023-01-23T17:28:52.726Z,"3km N of Big Bear City, CA",earthquake,0.16,0.29,0.135,28,reviewed,ci,ci
 2023-01-23T15:47:01.680Z,40.6665,-111.5826667,5.98,0.41,md,12,86,0.08683,0.17,uu,uu60530127,2023-01-23T17:54:15.360Z,"4 km SW of Snyderville, Utah",earthquake,0.48,1.8,0.484,6,reviewed,uu,uu
-2023-01-23T15:41:05.450Z,38.8261681,-122.7639999,2.02,0.98,md,8,202,0.006308,0.01,nc,nc73836316,2023-01-23T16:38:12.929Z,"4km W of Cobb, CA",earthquake,0.69,1.39,0.29,10,automatic,nc,nc
-2023-01-23T15:38:36.453Z,2.7595,127.0544,49.772,4.6,mb,70,122,1.999,0.81,us,us7000j6cn,2023-01-23T17:13:38.040Z,"155 km NW of Tobelo, Indonesia",earthquake,9.71,6.68,0.071,60,reviewed,us,us
