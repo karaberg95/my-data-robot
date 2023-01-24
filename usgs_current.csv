@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T05:01:34.300Z,33.472,-116.5706667,8.17,0.98,ml,36,77,0.03474,0.15,ci,ci40405216,2023-01-24T05:05:06.844Z,"13km SE of Anza, CA",earthquake,0.19,0.38,0.125,27,automatic,ci,ci
 2023-01-24T04:40:25.420Z,35.6788333,-117.5366667,9.41,1.35,ml,14,148,0.1103,0.17,ci,ci40405200,2023-01-24T04:43:53.951Z,"14km ENE of Ridgecrest, CA",earthquake,0.43,1.11,0.153,16,automatic,ci,ci
 2023-01-24T04:39:27.857Z,60.244,-150.9873,55.3,2.4,ml,,,,0.41,ak,ak02313rihch,2023-01-24T04:41:48.055Z,"18 km ESE of Kasilof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-24T04:19:41.430Z,18.0026666666667,-66.8861666666667,16.56,2.34,md,4,165,0.02824,0.06,pr,pr71394178,2023-01-24T04:41:11.840Z,"1 km SW of Palomas, Puerto Rico",earthquake,2.96,1.17,0.112881287974235,4,reviewed,pr,pr
@@ -160,6 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T05:25:34.330Z,33.3998333,-116.3806667,5.02,0.91,ml,35,73,0.07378,0.18,ci,ci40405008,2023-01-23T17:15:11.609Z,"16km N of Borrego Springs, CA",earthquake,0.24,0.56,0.157,20,reviewed,ci,ci
 2023-01-23T05:18:32.420Z,38.7993317,-122.805336,1.29,1.07,md,20,57,0.01113,0.03,nc,nc73836151,2023-01-23T05:36:13.040Z,"5km WNW of The Geysers, CA",earthquake,0.21,0.39,0.16,19,automatic,nc,nc
 2023-01-23T05:11:29.414Z,41.9486,-119.7525,10.6,0.6,ml,4,204.55,0.412,0.1928,nn,nn00855166,2023-01-23T23:54:37.804Z,"34 km ENE of Fort Bidwell, California",earthquake,,4.6,0.95,2,reviewed,nn,nn
-2023-01-23T05:04:47.724Z,62.9504,-148.587,2.1,2,ml,,,,0.89,ak,ak023124d3xg,2023-01-23T05:07:22.476Z,"52 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-23T04:58:20.230Z,46.193333333333335,-119.563,5.09,0.78,ml,10,249,0.08811,0.07,uw,uw61894442,2023-01-23T14:55:47.950Z,"Washington",earthquake,0.46,0.78,0.18993306366710216,8,reviewed,uw,uw
-2023-01-23T04:56:05.850Z,18.99049949646,-155.432662963867,33.4199981689453,1.82000005,md,29,259,,0.129999995,hv,hv73310557,2023-01-23T04:59:26.700Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.9,1.79999995,1.91999996,4,automatic,hv,hv
