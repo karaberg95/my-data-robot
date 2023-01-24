@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T17:53:49.697Z,64.9757,-149.0265,31.1,1,ml,,,,0.32,ak,ak02313zc5x5,2023-01-24T17:55:50.644Z,"24 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-24T17:22:51.262Z,62.8453,-149.6072,77.5,1.6,ml,,,,0.57,ak,ak02313z5iue,2023-01-24T17:24:43.757Z,"50 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-24T17:19:10.760Z,32.9571667,-117.0738333,15.24,0.78,ml,7,116,0.1185,0.37,ci,ci40405360,2023-01-24T17:22:54.763Z,"4km W of Poway, CA",earthquake,1.7,3.98,0.067,4,automatic,ci,ci
 2023-01-24T17:17:12.290Z,38.8338318,-122.8043365,1.57,1.02,md,16,66,0.01134,0.03,nc,nc73836741,2023-01-24T17:39:14.590Z,"7km W of Cobb, CA",earthquake,0.23,0.5,0.13,16,automatic,nc,nc
@@ -166,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T23:11:16.830Z,38.8199997,-122.7884979,1.64,1.08,md,9,100,0.009086,0.04,nc,nc73836451,2023-01-24T00:08:12.470Z,"6km NNW of The Geysers, CA",earthquake,0.43,1.11,0.16,9,automatic,nc,nc
 2023-01-23T22:55:19.763Z,-5.4748,104.3869,81.614,4.5,mb,36,155,1.805,0.82,us,us6000jit5,2023-01-23T23:09:44.040Z,"90 km SW of Kotabumi, Indonesia",earthquake,9.59,3.283,0.102,28,reviewed,us,us
 2023-01-23T22:53:42.545Z,63.0665,-150.7124,116.7,2.1,ml,,,,0.31,ak,ak02312eryun,2023-01-23T22:56:29.696Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-23T22:50:37.050Z,37.5533333,-121.8261667,13.94,1.62,md,10,115,0.03862,0.07,nc,nc73836446,2023-01-24T17:36:10.571Z,"8km SE of Sunol, CA",earthquake,0.54,0.9,0.038,9,reviewed,nc,nc
+2023-01-23T22:50:37.050Z,37.5533333,-121.8261667,13.94,1.62,md,10,115,0.03862,0.07,nc,nc73836446,2023-01-24T17:49:13.641Z,"8km SE of Sunol, CA",earthquake,0.54,0.9,0.038,9,reviewed,nc,nc
 2023-01-23T22:35:21.368Z,-30.5569,-71.8736,26.391,3.9,mwr,27,181,0.236,0.59,us,us6000jisz,2023-01-23T22:46:37.040Z,"64 km W of Ovalle, Chile",earthquake,4.58,7.113,0.048,41,reviewed,us,us
 2023-01-23T22:34:17.116Z,-22.6311,-66.3455,256.607,4.2,mb,18,98,1.722,0.56,us,us6000jisy,2023-01-23T22:53:26.040Z,"67 km W of Abra Pampa, Argentina",earthquake,10.65,9.585,0.372,2,reviewed,us,us
 2023-01-23T22:31:24.940Z,38.5993347,-122.7900009,7.47,1.49,md,10,129,0.1141,0.03,nc,nc73836441,2023-01-24T01:40:10.013Z,"6km NNE of Windsor, CA",earthquake,0.57,1.53,0.12,10,automatic,nc,nc
