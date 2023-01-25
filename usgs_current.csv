@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-25T02:41:22.510Z,36.7044983,-121.3793335,-0.44,1.53,md,13,125,0.02654,0.13,nc,nc73836876,2023-01-25T02:42:58.465Z,"11km SSW of Tres Pinos, CA",earthquake,0.49,1.76,0.22,9,automatic,nc,nc
+2023-01-25T02:46:21.110Z,38.8343315,-122.8180008,2.07,0.72,md,11,61,0.01255,0.01,nc,nc73836881,2023-01-25T02:47:58.456Z,"8km NW of The Geysers, CA",earthquake,0.32,0.84,0.1,12,automatic,nc,nc
+2023-01-25T02:41:22.510Z,36.7044983,-121.3793335,-0.44,1.53,md,13,125,0.02654,0.13,nc,nc73836876,2023-01-25T02:54:10.877Z,"11km SSW of Tres Pinos, CA",earthquake,0.49,1.76,0.22,9,automatic,nc,nc
 2023-01-25T02:10:27.870Z,35.9576667,-117.7086667,2.66,1.52,ml,20,140,0.08496,0.17,ci,ci40161047,2023-01-25T02:20:57.590Z,"18km E of Little Lake, CA",earthquake,0.33,0.46,0.203,16,automatic,ci,ci
 2023-01-25T01:47:20.340Z,40.5881653,-124.2278366,4.73,2.71,md,12,215,0.1401,0.04,nc,nc73836866,2023-01-25T02:35:04.565Z,"3km ENE of Ferndale, CA",earthquake,0.55,0.98,0.11,13,automatic,nc,nc
 2023-01-25T01:43:11.780Z,38.8248329,-122.7914963,1.38,0.98,md,15,48,0.01359,0.02,nc,nc73836861,2023-01-25T02:08:13.574Z,"6km W of Cobb, CA",earthquake,0.27,0.56,0.25,15,automatic,nc,nc
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T20:08:18.600Z,35.0325,-97.64,7,1.83,ml,50,42,0.1052793406,0.3,ok,ok2023brol,2023-01-24T21:20:09.347Z,"0 km W of Dibble, Oklahoma",earthquake,,0.6,0.15,5,reviewed,ok,ok
 2023-01-24T20:07:18.470Z,35.963665,-120.5276642,9.43,0.82,md,13,114,0.02164,0.06,nc,nc73836781,2023-01-24T20:32:11.725Z,"11km NW of Parkfield, CA",earthquake,0.52,0.69,0.21,6,automatic,nc,nc
 2023-01-24T20:04:40.690Z,62.3089,-150.2987,1.6,2.1,ml,,,,1,ak,ak023140txyd,2023-01-24T20:06:57.929Z,"3 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-24T19:57:04.304Z,31.68080381,-104.3866137,6.337231444999999,3.5,ml,29,56,0.04589796927,0.2,tx,tx2023brob,2023-01-24T22:01:21.565Z,"54 km S of Whites City, New Mexico",earthquake,0.8537348643,0.7658737152,0.1,18,reviewed,tx,tx
+2023-01-24T19:57:04.304Z,31.68080381,-104.3866137,6.337231444999999,3.5,ml,29,56,0.04589796927,0.2,tx,tx2023brob,2023-01-24T22:01:21.565Z,"western Texas",earthquake,0.8537348643,0.7658737152,0.1,18,reviewed,tx,tx
 2023-01-24T19:36:32.980Z,19.0391674041748,-155.397338867188,35.8300018310547,2.27999997,md,27,271,,0.109999999,hv,hv73311867,2023-01-24T19:39:40.670Z,"19 km E of Naalehu, Hawaii",earthquake,0.85,1.52999997,2.27999997,4,automatic,hv,hv
 2023-01-24T19:26:38.430Z,33.3231667,-116.7575,12.11,0.77,ml,28,75,0.08696,0.12,ci,ci40160911,2023-01-24T21:33:39.445Z,"9km N of Lake Henshaw, CA",earthquake,0.21,0.69,0.093,14,reviewed,ci,ci
 2023-01-24T19:25:40.572Z,2.999,127.0786,52.052,4.4,mb,48,108,2.231,1.05,us,us6000jizd,2023-01-24T22:16:41.040Z,"Molucca Sea",earthquake,6.48,7.356,0.094,37,reviewed,us,us
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T03:38:37.033Z,2.9666,127.1382,35,4.5,mb,23,185,2.192,0.88,us,us6000jiua,2023-01-24T23:12:36.040Z,"167 km NW of Tobelo, Indonesia",earthquake,5.42,1.964,0.14,15,reviewed,us,us
 2023-01-24T03:20:26.100Z,36.166,-118.0833333,2.34,1.31,ml,16,75,0.1911,0.13,ci,ci40405184,2023-01-24T16:41:09.814Z,"15km SSW of Olancha, CA",earthquake,0.18,0.86,0.091,9,reviewed,ci,ci
 2023-01-24T03:17:51.375Z,36.7075,-116.0922,4.5,-0.2,ml,7,165.22,0.013,0.0467,nn,nn00855190,2023-01-24T18:46:32.445Z,"Nevada",earthquake,,1.4,0.07,3,reviewed,nn,nn
-2023-01-24T02:53:31.197Z,2.9174,127.1702,35,4.6,mb,33,127,2.14,0.72,us,us6000jiu4,2023-01-24T22:57:21.040Z,"161 km NW of Tobelo, Indonesia",earthquake,11.19,1.94,0.105,27,reviewed,us,us
