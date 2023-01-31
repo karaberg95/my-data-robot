@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-31T10:36:17.550Z,34.0435,-117.2466667,15.94,1.57,ml,60,46,0.1138,0.22,ci,ci40164471,2023-01-31T10:40:09.240Z,"1km ESE of Loma Linda, CA",earthquake,0.25,0.6,0.158,25,automatic,ci,ci
 2023-01-31T10:15:50.300Z,34.1806667,-119.4508333,9.06,1.8,ml,16,217,0.2082,0.15,ci,ci40164463,2023-01-31T10:19:37.986Z,"18km NNE of Santa Cruz Is. (E end), CA",earthquake,0.65,1.64,0.17,27,automatic,ci,ci
 2023-01-31T10:01:52.699Z,67.0967,-142.1857,3.7,3.1,ml,,,,0.56,ak,ak0231ffmf51,2023-01-31T10:07:06.415Z,"83 km NE of Chalkyitsik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-31T10:00:45.480Z,59.8218,-152.7591,89.9,1.2,ml,,,,0.77,ak,ak0231ffm6vu,2023-01-31T10:02:57.603Z,"52 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T08:26:38.450Z,33.8826667,-116.5726667,10.96,1.21,ml,37,44,0.05335,0.15,ci,ci40164439,2023-01-31T08:37:34.930Z,"3km SW of Garnet, CA",earthquake,0.19,0.42,0.152,26,automatic,ci,ci
 2023-01-31T08:17:00.393Z,60.6023,-142.7618,13.1,0.9,ml,,,,0.18,ak,ak0231feivcn,2023-01-31T08:18:26.801Z,"93 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-31T08:13:00.840Z,19.1700000762939,-155.499496459961,34.9700012207031,2.68000007,md,45,109,,0.119999997,hv,hv73316302,2023-01-31T08:23:54.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.48,0.730000019,0.720000029,27,automatic,hv,hv
-2023-01-31T08:11:38.290Z,38.7900009,-122.7450027,0.91,0.96,md,6,161,0.009352,0.02,nc,nc73840096,2023-01-31T10:10:11.088Z,"2km NE of The Geysers, CA",earthquake,0.47,0.79,0.22,6,automatic,nc,nc
+2023-01-31T08:11:38.290Z,38.7900009,-122.7450027,0.91,0.96,md,6,161,0.009352,0.02,nc,nc73840096,2023-01-31T10:37:13.263Z,"2km NE of The Geysers, CA",earthquake,0.47,0.79,0.22,6,automatic,nc,nc
 2023-01-31T08:02:50.660Z,19.2068333333333,-155.388333333333,31.45,3.25,ml,52,158,,0.14,hv,hv73316297,2023-01-31T10:04:36.283Z,"9 km E of Pāhala, Hawaii",earthquake,0.46,0.56,0.149751579751209,36,reviewed,hv,hv
 2023-01-31T07:58:44.895Z,65.1008,-149.9832,9.9,1.2,ml,,,,0.67,ak,ak0231fe6bjd,2023-01-31T08:00:24.695Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-31T07:57:31.504Z,-17.7487,-178.5411,562.65,4.4,mb,30,61,3.445,0.72,us,us6000jkhq,2023-01-31T08:16:44.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,10.277,0.112,24,reviewed,us,us
