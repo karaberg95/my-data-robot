@@ -51,7 +51,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T06:50:31.095Z,61.1837,-142.6301,14.8,1.6,ml,,,,0.61,ak,ak0231fdj5d5,2023-01-31T06:57:13.893Z,"31 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T09:29:14.829Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
 2023-01-31T06:17:52.610Z,38.8115005,-122.8123322,3.24,1.05,md,17,63,0.01201,0.02,nc,nc73840066,2023-01-31T07:03:12.835Z,"6km NW of The Geysers, CA",earthquake,0.31,0.99,0.19,18,automatic,nc,nc
-2023-01-31T06:12:30.610Z,38.8366661,-122.80867,1.9,0.69,md,10,90,0.0133,0.01,nc,nc73840061,2023-01-31T08:11:12.303Z,"8km WNW of Cobb, CA",earthquake,0.36,1.12,0.52,12,automatic,nc,nc
 2023-01-31T06:08:08.372Z,61.0644,-152.3274,101.2,2,ml,,,,0.68,ak,ak0231fda38v,2023-01-31T06:10:35.693Z,"64 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-31T06:06:18.890Z,17.9245,-66.852,14.47,2.64,md,16,188,0.05658,0.15,pr,pr71394928,2023-01-31T06:20:58.470Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.44,0.39,0.0356054981994474,5,reviewed,pr,pr
 2023-01-31T06:04:26.217Z,59.9818,-150.5823,39.5,2,ml,,,,0.69,ak,ak0231fd99tp,2023-01-31T06:06:59.296Z,"25 km ENE of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -67,7 +66,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T04:39:53.460Z,19.2038326263428,-155.417007446289,31.7399997711182,2.17000008,md,26,155,,0.129999995,hv,hv73316192,2023-01-31T04:42:58.840Z,"6 km E of Pāhala, Hawaii",earthquake,0.78,0.779999971,1.08000004,3,automatic,hv,hv
 2023-01-31T04:34:50.750Z,5.9324,126.0209,86.301,4.6,mb,57,109,1.212,0.6,us,us6000jkgx,2023-01-31T04:51:54.040Z,"38 km ESE of Mangili, Philippines",earthquake,8.69,7.382,0.085,42,reviewed,us,us
 2023-01-31T04:22:54.880Z,36.0378333,-121.5136667,8.16,1.64,md,25,173,0.08668,0.08,nc,nc73840026,2023-01-31T09:03:13.644Z,"5km ENE of Lopez Point, CA",earthquake,0.35,0.46,0.191,20,reviewed,nc,nc
-2023-01-31T04:13:05.026Z,38.5545,44.889,10,4,mb,26,82,1.458,0.47,us,us6000jkgv,2023-01-31T04:40:58.040Z,"Turkey-Iran border region",earthquake,4.76,1.766,0.156,11,reviewed,us,us
 2023-01-31T03:57:50.540Z,41.4863333,-112.1823333,-2.76,2.87,ml,38,59,0.1161,0.36,uu,uu60530617,2023-01-31T05:07:33.420Z,"9 km SW of Corinne, Utah",earthquake,0.53,7.3,0.088,19,reviewed,uu,uu
 2023-01-31T03:54:21.320Z,19.195499420166,-155.38883972168,30.4599990844727,1.92999995,md,30,170,,0.119999997,hv,hv73316177,2023-01-31T03:57:26.690Z,"Island of Hawaii, Hawaii",earthquake,0.78,1.26999998,1.13,10,automatic,hv,hv
 2023-01-31T03:39:02.392Z,61.8812,-149.3167,1.1,2.1,ml,,,,0.65,ak,ak0231fbof8f,2023-01-31T03:40:54.892Z,"15 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -198,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T14:06:45.870Z,33.4983333,-116.5041667,13.98,0.77,ml,23,79,0.06312,0.2,ci,ci40164199,2023-01-30T14:10:13.868Z,"17km ESE of Anza, CA",earthquake,0.36,0.44,0.128,19,automatic,ci,ci
 2023-01-30T13:49:10.220Z,33.4801667,-116.502,14.12,0.53,ml,16,137,0.07697,0.14,ci,ci40164191,2023-01-30T13:52:43.661Z,"18km ESE of Anza, CA",earthquake,0.51,0.64,0.05,9,automatic,ci,ci
 2023-01-30T13:42:52.890Z,37.8003349,-122.1866684,4.11,1.32,md,10,110,0.02073,0.06,nc,nc73839791,2023-01-30T22:58:59.425Z,"4km E of Oakland, CA",earthquake,0.36,0.68,0.16,8,automatic,nc,nc
-2023-01-30T13:39:10.617Z,63.2051,-151.3382,3.5,1.4,ml,,,,0.49,ak,ak0231du3ff9,2023-01-30T13:41:15.961Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
