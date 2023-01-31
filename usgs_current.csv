@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-31T20:16:12.640Z,37.3344994,-122.2013321,9.05,1.87,md,26,76,0.04156,0.1,nc,nc73840251,2023-01-31T20:24:02.246Z,"6km SSE of Portola Valley, CA",earthquake,0.27,0.59,0.1,22,automatic,nc,nc
+2023-01-31T20:25:13.032Z,64.4259,-148.074,6.3,1.4,ml,,,,0.83,ak,ak0231flptbb,2023-01-31T20:27:07.495Z,"44 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-31T20:16:12.640Z,37.3344994,-122.2013321,9.05,1.87,md,26,76,0.04156,0.1,nc,nc73840251,2023-01-31T20:28:10.976Z,"6km SSE of Portola Valley, CA",earthquake,0.27,0.59,0.1,22,automatic,nc,nc
 2023-01-31T20:13:12.230Z,32.7905,-115.5643333,3.36,1.67,ml,14,68,0.1001,0.3,ci,ci40164711,2023-01-31T20:16:52.283Z,"1km WNW of El Centro, CA",earthquake,0.62,1.15,0.235,24,automatic,ci,ci
 2023-01-31T20:06:47.680Z,34.9151667,-119.5706667,7.29,1.08,ml,15,100,0.0892,0.22,ci,ci40164703,2023-01-31T20:10:25.494Z,"22km SW of Maricopa, CA",earthquake,0.46,1.35,0.093,6,automatic,ci,ci
 2023-01-31T20:06:29.642Z,58.1477,-151.6257,4.9,2.3,ml,,,,0.63,ak,ak0231fllrzo,2023-01-31T20:09:33.775Z,"57 km ENE of Ouzinkie, Alaska",earthquake,,0.5,,,automatic,ak,ak
