@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T05:23:35.420Z,33.4018333,-116.3915,3.15,1.29,ml,47,26,0.1246,0.26,ci,ci40164391,2023-01-31T05:34:45.170Z,"16km N of Borrego Springs, CA",earthquake,0.3,0.97,0.181,26,automatic,ci,ci
 2023-01-31T05:20:11.140Z,53.3971666666667,-168.165833333333,3.35,0.63,ml,5,184,,0.08,av,av91753356,2023-01-31T23:51:32.570Z,"69 km NE of Nikolski, Alaska",earthquake,0.44,0.59,0.533453519565436,5,reviewed,av,av
 2023-01-31T05:14:12.403Z,65.4461,-148.2362,10.3,1.1,ml,,,,0.22,ak,ak0231fcpybc,2023-01-31T05:16:08.838Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-01-31T05:12:14.700Z,58.208,-155.214833333333,4.34,-0.17,ml,10,108,,0.09,av,av91753351,2023-01-31T23:55:37.830Z,"84 km NNW of Karluk, Alaska",earthquake,0.24,0.61,0.125686096460323,10,reviewed,av,av
 2023-01-31T05:07:17.231Z,62.2168,-148.4631,33.9,1.5,ml,,,,0.22,ak,ak0231fcogob,2023-01-31T05:08:29.089Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-31T05:00:14.930Z,38.795166,-122.7659988,4.01,0.78,md,11,78,0.007338,0.01,nc,nc73840046,2023-01-31T07:46:12.265Z,"2km NNW of The Geysers, CA",earthquake,0.45,0.98,0.25,11,automatic,nc,nc
 2023-01-31T04:53:43.376Z,-17.5789,-178.3855,548.545,4.4,mb,34,85,3.262,0.56,us,us6000jkh2,2023-01-31T05:11:16.040Z,"249 km ENE of Levuka, Fiji",earthquake,15.57,12.064,0.106,26,reviewed,us,us
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T00:27:17.240Z,19.2695,-155.418333333333,31.31,2.79,ml,48,62,,0.12,hv,hv73315997,2023-01-31T03:32:43.510Z,"9 km NE of Pāhala, Hawaii",earthquake,0.44,0.52,0.183210676291611,33,reviewed,hv,hv
 2023-01-31T00:10:54.070Z,47.8995,-122.75433333333334,-0.03,1.51,ml,9,94,0.09304,0.54,uw,uw61904616,2023-01-31T03:59:05.890Z,"6 km WSW of Port Ludlow, Washington",explosion,1.03,31.61,0.19739859126884873,6,reviewed,uw,uw
 2023-01-31T00:05:01.179Z,59.8235,-152.6416,86.3,1.5,ml,,,,0.5,ak,ak0231f9otz9,2023-01-31T00:10:42.935Z,"45 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-01-30T23:58:53.750Z,48.409166666666664,-123.56283333333333,-0.25,1.3800000000000001,ml,7,71,0.1584,0.38,uw,uw61904611,2023-01-31T04:16:33.920Z,"3 km NW of Metchosin, Canada",explosion,0.96,31.61,0.12494204470421466,5,reviewed,uw,uw
