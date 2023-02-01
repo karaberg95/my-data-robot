@@ -48,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T22:09:53.919Z,31.68644928,-104.2886755,7.416967772999999,2.5,ml,22,64,0.02513951532,0.2,tx,tx2023cena,2023-01-31T22:35:57.551Z,"54 km S of Whites City, New Mexico",earthquake,0.7307156758,0.7164661961,0.2,18,reviewed,tx,tx
 2023-01-31T22:06:56.851Z,63.1892,-151.1284,0,1.6,ml,,,,0.72,ak,ak0231fmspat,2023-01-31T22:08:55.971Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T22:06:23.765Z,60.1172,-152.5251,94.1,1.4,ml,,,,0.29,ak,ak0231fmsmwq,2023-01-31T23:43:22.812Z,"48 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2023-01-31T22:04:09.740Z,58.24,-155.162,4.55,0.07,ml,10,85,,0.13,av,av91753636,2023-02-01T04:47:27.370Z,"Alaska Peninsula",earthquake,0.29,0.59,0.209022010929872,10,reviewed,av,av
 2023-01-31T22:04:03.770Z,43.1005,-123.4195,-0.73,1.37,ml,5,146,0.04453,0.14,uw,uw61904776,2023-02-01T01:02:20.040Z,"0 km ESE of Dillard, Oregon",explosion,0.63,31.61,0.05317639281098563,3,reviewed,uw,uw
 2023-01-31T21:59:55.860Z,47.115,-123.11866666666667,-0.23,1.61,ml,10,142,0.06555,0.17,uw,uw61904771,2023-02-01T01:12:23.180Z,"11 km S of Shelton, Washington",explosion,0.6,31.61,0.25957946816610056,8,reviewed,uw,uw
 2023-01-31T21:59:22.668Z,38.1494,-117.9408,12.4,0.3,ml,12,142.27,0.018,0.132,nn,nn00855513,2023-01-31T22:44:33.134Z,"30 km SSE of Mina, Nevada",earthquake,,2.4,0.14,2,reviewed,nn,nn
@@ -200,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T07:58:44.895Z,65.1008,-149.9832,9.9,1.2,ml,,,,0.67,ak,ak0231fe6bjd,2023-01-31T08:00:24.695Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-31T07:57:31.504Z,-17.7487,-178.5411,562.65,4.4,mb,30,61,3.445,0.72,us,us6000jkhq,2023-01-31T08:16:44.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,10.277,0.112,24,reviewed,us,us
 2023-01-31T07:42:03.261Z,60.1192,-151.1114,58.1,1.9,ml,,,,0.69,ak,ak0231fe2suv,2023-01-31T07:44:46.980Z,"20 km SE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-01-31T07:23:52.030Z,53.854,-166.898,4.75,0,ml,6,197,,0.15,av,av91086253,2023-02-01T00:21:48.840Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.71,1.59,0.182614860025249,6,reviewed,av,av
+2023-01-31T07:23:52.030Z,53.854,-166.898,4.75,0,ml,6,197,,0.15,av,av91086253,2023-02-01T00:21:48.840Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.71,1.59,0.182614860025249,6,reviewed,av,av
 2023-01-31T07:19:39.140Z,34.4651667,-117.9643333,8.49,0.64,ml,13,55,0.01779,0.19,ci,ci40164431,2023-01-31T07:23:10.148Z,"6km SSE of Littlerock, CA",earthquake,0.45,0.73,0.286,9,automatic,ci,ci
 2023-01-31T07:19:28.520Z,38.8339996,-122.7929993,2,0.69,md,9,84,0.004867,0.01,nc,nc73840086,2023-01-31T07:57:12.203Z,"6km WNW of Cobb, CA",earthquake,0.48,1.26,0.11,10,automatic,nc,nc
 2023-01-31T07:13:43.200Z,35.5018333,-118.3953333,4.63,2.13,ml,35,32,0.1729,0.21,ci,ci40164423,2023-01-31T07:24:14.100Z,"13km SE of Bodfish, CA",earthquake,0.25,2.61,0.261,26,automatic,ci,ci
