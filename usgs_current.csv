@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-03T11:05:28.310Z,38.8074989,-122.8263321,2.31,1.08,md,12,87,0.00261,0.03,nc,nc73841376,2023-02-03T11:07:03.674Z,"7km WNW of The Geysers, CA",earthquake,0.46,0.87,0.13,13,automatic,nc,nc
+2023-02-03T11:05:28.310Z,38.8074989,-122.8263321,2.31,1.08,md,12,87,0.00261,0.03,nc,nc73841376,2023-02-03T11:16:10.509Z,"7km WNW of The Geysers, CA",earthquake,0.46,0.87,0.13,13,automatic,nc,nc
 2023-02-03T10:48:10.486Z,58.2174,-155.2194,1.1,0.3,ml,,,,0.17,ak,ak0231keig0o,2023-02-03T10:49:36.493Z,"85 km NNW of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-02-03T10:36:38.308Z,55.918,-157.8217,34.8,3.7,ml,,,,0.52,ak,ak0231kefxlc,2023-02-03T10:56:12.040Z,"55 km SE of Chignik, Alaska",earthquake,,197.3,,,automatic,ak,ak
 2023-02-03T10:17:19.210Z,33.5878333,-116.6101667,12.96,0.64,ml,23,40,0.01569,0.11,ci,ci40165775,2023-02-03T10:21:00.657Z,"7km ENE of Anza, CA",earthquake,0.2,0.34,0.114,17,automatic,ci,ci
