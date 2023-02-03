@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-03T08:48:16.640Z,38.8373337,-122.8089981,2.18,0.39,md,7,117,0.01394,0.01,nc,nc73841346,2023-02-03T08:49:52.184Z,"8km WNW of Cobb, CA",earthquake,0.53,1.78,0.19,8,automatic,nc,nc
 2023-02-03T07:48:08.050Z,61.4712,-148.0009,7.8,1.1,ml,,,,0.9,ak,ak0231kcq50l,2023-02-03T08:41:12.318Z,"41 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-03T07:25:03.770Z,38.841835,-122.87883,2.51,1,md,14,159,0.005103,0.02,nc,nc73841331,2023-02-03T07:43:15.239Z,"13km ENE of Cloverdale, CA",earthquake,0.41,0.58,0.24,15,automatic,nc,nc
 2023-02-03T07:24:13.497Z,64.8138,-149.4045,32.1,1,ml,,,,0.56,ak,ak0231kcl091,2023-02-03T07:26:13.455Z,"27 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T09:02:33.730Z,36.7745,-121.4911667,4.83,1.77,md,50,49,0.02092,0.18,nc,nc73840916,2023-02-03T03:06:15.547Z,"9km SSE of San Juan Bautista, CA",earthquake,0.21,0.29,0.103,43,reviewed,nc,nc
 2023-02-02T08:56:45.465Z,61.5199,-140.6548,0.473,2.8,ml,17,92,0.671,0.62,us,us6000jkxn,2023-02-02T09:48:57.040Z,"121 km E of McCarthy, Alaska",earthquake,1.29,11.121,0.043,72,reviewed,us,us
 2023-02-02T08:53:16.710Z,58.1655,-155.327333333333,1.1,-0.03,ml,8,181,,0.05,av,av91754046,2023-02-03T00:00:52.230Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.09,0.315548815216916,9,reviewed,av,av
-2023-02-02T08:46:02.510Z,58.2506666666667,-155.0735,4.56,-0.14,ml,11,105,,0.2,av,av91086698,2023-02-03T00:09:29.890Z,"84 km NNW of Karluk, Alaska",earthquake,0.31,0.67,0.219147941747814,11,reviewed,av,av
-2023-02-02T08:42:44.420Z,58.2475,-154.9625,2.53,-0.15,ml,7,153,,0.17,av,av91086693,2023-02-03T00:08:28.400Z,"81 km NNW of Karluk, Alaska",earthquake,0.42,0.64,0.233635658370526,7,reviewed,av,av
