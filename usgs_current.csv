@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-03T07:25:03.770Z,38.841835,-122.87883,2.51,1,md,14,159,0.005103,0.02,nc,nc73841331,2023-02-03T07:26:38.455Z,"13km ENE of Cloverdale, CA",earthquake,0.41,0.58,0.24,15,automatic,nc,nc
+2023-02-03T07:25:03.770Z,38.841835,-122.87883,2.51,1,md,14,159,0.005103,0.02,nc,nc73841331,2023-02-03T07:35:12.193Z,"13km ENE of Cloverdale, CA",earthquake,0.41,0.58,0.24,15,automatic,nc,nc
 2023-02-03T07:24:13.497Z,64.8138,-149.4045,32.1,1,ml,,,,0.56,ak,ak0231kcl091,2023-02-03T07:26:13.455Z,"27 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-03T07:21:27.740Z,33.4026667,-116.3823333,2.31,0.54,ml,8,147,0.1372,0.09,ci,ci40165735,2023-02-03T07:25:13.249Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.51,0.05,9,automatic,ci,ci
 2023-02-03T07:19:24.790Z,58.281,-154.9872,1.6,0.9,ml,,,,0.27,ak,ak0231kcjyjj,2023-02-03T07:21:58.988Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
