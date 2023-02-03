@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-03T14:37:00.900Z,39.0548325,-123.37883,-0.42,1.23,md,7,106,0.07133,0.05,nc,nc73841441,2023-02-03T14:38:34.576Z,"5km NNW of Boonville, CA",earthquake,0.34,3.32,0.08,5,automatic,nc,nc
+2023-02-03T14:37:00.900Z,39.0548325,-123.37883,-0.42,1.23,md,7,106,0.07133,0.05,nc,nc73841441,2023-02-03T14:47:11.756Z,"5km NNW of Boonville, CA",earthquake,0.34,3.32,0.08,5,automatic,nc,nc
 2023-02-03T14:32:05.664Z,62.1449,-151.2338,78.8,1.8,ml,,,,0.43,ak,ak0231kgsqly,2023-02-03T14:34:15.566Z,"19 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-03T14:28:15.480Z,38.8133316,-122.8271637,1.41,0.33,md,7,85,0.004727,0.02,nc,nc73841436,2023-02-03T14:37:10.688Z,"7km WNW of The Geysers, CA",earthquake,0.67,0.92,0.12,7,automatic,nc,nc
 2023-02-03T14:13:28.720Z,33.9756667,-116.8476667,14.39,0.7,ml,15,101,0.06796,0.14,ci,ci40165807,2023-02-03T14:16:54.571Z,"6km NNE of Banning, CA",earthquake,0.38,0.73,0.117,15,automatic,ci,ci
