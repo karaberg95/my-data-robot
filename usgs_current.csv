@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-04T18:29:17.325Z,62.3107,-148.7514,38.8,1.4,ml,,,,0.32,ak,ak0231m6p79w,2023-02-04T18:31:40.631Z,"59 km NNW of Chickaloon, Alaska",earthquake,,3.1,,,automatic,ak,ak
-2023-02-04T18:26:04.560Z,38.8061676,-122.7806702,-0.1,0.79,md,5,185,0.007081,0.02,nc,nc73841941,2023-02-04T18:27:42.467Z,"4km NNW of The Geysers, CA",earthquake,0.71,0.96,0.22,8,automatic,nc,nc
+2023-02-04T18:26:04.560Z,38.8061676,-122.7806702,-0.1,0.79,md,5,185,0.007081,0.02,nc,nc73841941,2023-02-04T18:39:10.846Z,"4km NNW of The Geysers, CA",earthquake,0.71,0.96,0.22,8,automatic,nc,nc
 2023-02-04T18:26:00.990Z,19.2241668701172,-155.418670654297,31.8199996948242,1.82000005,md,25,139,,0.170000002,hv,hv73319302,2023-02-04T18:29:17.480Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.97,0.959999979,0.870000005,7,automatic,hv,hv
 2023-02-04T18:20:31.686Z,37.1382,-116.6005,0.8,1.5,ml,26,114.01,0.097,0.258,nn,nn00855697,2023-02-04T18:21:58.399Z,"Nevada",earthquake,,6.6,0.18,17,automatic,nn,nn
 2023-02-04T18:18:04.757Z,63.4582,-151.5233,0,1.7,ml,,,,1.18,ak,ak0231m6mtff,2023-02-04T18:20:37.263Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T18:56:36.006Z,39.7363,-120.0475,8.7,0.2,ml,3,145.91,0.145,0.104,nn,nn00855677,2023-02-03T23:43:42.087Z,"8 km NW of Cold Springs, Nevada",earthquake,,14.9,0.21,2,reviewed,nn,nn
 2023-02-03T18:52:36.650Z,19.4275,-155.334,6.85,2,md,35,77,,0.11,hv,hv73318652,2023-02-03T21:03:49.780Z,"10 km W of Volcano, Hawaii",earthquake,0.3,0.46,0.192037466159126,12,reviewed,hv,hv
 2023-02-03T18:52:17.770Z,17.9686666666667,-66.8306666666667,12.4,2.3,md,7,205,0.04668,0.1,pr,pr71395308,2023-02-03T19:03:29.570Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.67,0.38,0.129139868382801,7,reviewed,pr,pr
-2023-02-03T18:35:12.990Z,46.1965,-122.18666666666667,1.23,0.61,ml,12,133,0.004386,0.08,uw,uw61905251,2023-02-03T18:56:42.120Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.34,0.41530815852021413,6,reviewed,uw,uw
