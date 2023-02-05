@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-05T00:40:01.366Z,-32.7538,117.5406,10,4.5,mb,30,111,0.307,0.54,us,us6000jlhb,2023-02-05T06:35:51.846Z,"39 km ENE of Narrogin, Australia",earthquake,4.34,1.954,0.121,20,reviewed,us,us
 2023-02-05T00:35:54.080Z,38.7511673,-122.7269974,0.77,1.48,md,7,184,0.01054,0.01,nc,nc73842026,2023-02-05T02:16:13.739Z,"4km SE of The Geysers, CA",earthquake,0.72,0.51,0.39,7,automatic,nc,nc
 2023-02-05T00:35:17.590Z,38.7509995,-122.7276688,0.88,1.13,md,6,185,0.0108,0.03,nc,nc73842021,2023-02-05T02:16:11.740Z,"4km SE of The Geysers, CA",earthquake,0.49,0.5,0.19,5,automatic,nc,nc
-2023-02-05T00:23:12.430Z,34.4466667,-119.1911697,10.07,2.1,ml,45,60,0.04541,0.32,ci,ci40411064,2023-02-05T00:26:58.153Z,"5km E of Ojai, CA",earthquake,0.35,0.77,0.238,27,automatic,ci,ci
+2023-02-05T00:23:12.430Z,34.4466667,-119.1911697,10.07,2.1,ml,45,60,0.04541,0.32,ci,ci40411064,2023-02-05T06:55:00.931Z,"5km E of Ojai, CA",earthquake,0.35,0.77,0.238,27,automatic,ci,ci
 2023-02-05T00:20:13.310Z,38.8144989,-122.8291702,1.63,1.33,md,14,59,0.005623,0.02,nc,nc73842011,2023-02-05T00:54:17.234Z,"8km WNW of The Geysers, CA",earthquake,0.26,0.58,0.14,16,automatic,nc,nc
 2023-02-05T00:07:31.260Z,33.9791667,-116.8286667,18.11,1.24,ml,39,40,0.05848,0.19,ci,ci40411056,2023-02-05T00:11:01.412Z,"7km NE of Banning, CA",earthquake,0.24,0.56,0.173,27,automatic,ci,ci
 2023-02-05T00:03:19.589Z,32.6723,141.7624,10,5.8,mww,176,72,1.698,0.85,us,us6000jlh9,2023-02-05T05:37:19.572Z,"Izu Islands, Japan region",earthquake,6.05,1.813,0.058,29,reviewed,us,us
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T07:10:07.291Z,63.3405,-151.6919,5.7,1.8,ml,,,,0.41,ak,ak0231m01c8p,2023-02-04T07:12:03.748Z,"22 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-04T07:00:30.240Z,32.9841667,-115.585,4.33,1,ml,11,89,0.05401,0.19,ci,ci40410776,2023-02-04T07:14:13.557Z,"5km W of Brawley, CA",earthquake,0.44,1.26,0.115,12,automatic,ci,ci
 2023-02-04T06:57:43.140Z,38.8428345,-122.8414993,2.04,0.25,md,5,147,0.006326,0.01,nc,nc73841721,2023-02-04T07:51:13.578Z,"10km NW of The Geysers, CA",earthquake,0.48,1.44,0.14,6,automatic,nc,nc
-2023-02-04T06:54:10.082Z,61.2723,-149.9298,36.5,1.6,ml,,,,0.45,ak,ak0231lzpccw,2023-02-04T21:36:11.935Z,"6 km NNW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
