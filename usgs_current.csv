@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T21:03:51.948Z,-17.558,-178.5865,545.131,4.3,mb,34,107,3.209,0.69,us,us6000jlgj,2023-02-04T21:37:41.040Z,"229 km ENE of Levuka, Fiji",earthquake,15.23,9.898,0.116,21,reviewed,us,us
 2023-02-04T20:49:49.678Z,63.5688,-151.9713,32.1,1.7,ml,,,,1.12,ak,ak0231m80fav,2023-02-04T20:52:00.500Z,"12 km WNW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-04T20:41:51.430Z,33.52,-116.5223333,11.82,0.59,ml,22,73,0.0381,0.14,ci,ci40410992,2023-02-04T20:45:20.211Z,"15km ESE of Anza, CA",earthquake,0.27,0.46,0.176,16,automatic,ci,ci
+2023-02-04T20:26:30.830Z,48.428,-123.55983333333333,-0.25,1.26,ml,8,114,0.1571,0.16,uw,uw61905316,2023-02-05T04:52:07.540Z,"4 km WSW of Langford, Canada",explosion,0.56,31.61,0.10146988469690887,4,reviewed,uw,uw
 2023-02-04T19:52:24.711Z,59.9665,-149.1825,18.8,1.4,ml,,,,0.58,ak,ak0231m7fkx3,2023-02-04T19:54:21.454Z,"18 km SE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-04T19:49:37.680Z,33.5223333,-116.524,11.81,0.95,ml,36,40,0.03556,0.21,ci,ci40410976,2023-02-04T20:00:04.580Z,"14km ESE of Anza, CA",earthquake,0.28,0.46,0.196,24,automatic,ci,ci
 2023-02-04T19:40:20.272Z,31.62083591,-103.9802855,7.018493652,3.7,ml,22,52,0.01408549174,0.1,tx,tx2023clqb,2023-02-04T21:44:20.240Z,"37 km WSW of Mentone, Texas",earthquake,0.6114518333999999,0.4077145666,0.3,19,reviewed,tx,tx
@@ -93,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T16:33:49.656Z,60.739,-153.8016,78.9,1.8,ml,,,,0.55,ak,ak0231m5jdd5,2023-02-04T19:34:18.798Z,"Southern Alaska",earthquake,,12.7,,,reviewed,ak,ak
 2023-02-04T16:33:48.927Z,60.8303,-155.1725,54.1,1.3,ml,,,,0.48,ak,ak0231m5j9d8,2023-02-04T19:34:45.197Z,"60 km SSE of Lime Village, Alaska",earthquake,,77.1,,,reviewed,ak,ak
 2023-02-04T16:29:11.550Z,35.785,-117.617,6.84,0.6,ml,10,114,0.03452,0.22,ci,ci40410952,2023-02-04T16:32:51.570Z,"19km NNE of Ridgecrest, CA",earthquake,0.63,1.07,0.074,7,automatic,ci,ci
+2023-02-04T16:27:13.420Z,46.1885,-122.35266666666666,12.36,0.44,ml,9,251,0.007765,0.17,uw,uw61905311,2023-02-05T04:57:34.770Z,"31 km NNE of Amboy, Washington",earthquake,0.79,0.84,0.23594023857719842,4,reviewed,uw,uw
 2023-02-04T16:26:51.213Z,61.6932,-149.903,38.5,1.2,ml,,,,0.38,ak,ak0231m5hrj5,2023-02-04T16:28:53.202Z,"8 km NNW of Houston, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-02-04T16:19:50.500Z,38.7978325,-122.7511673,2.09,0.78,md,9,95,0.007236,0.02,nc,nc73841861,2023-02-04T18:49:13.911Z,"2km N of The Geysers, CA",earthquake,0.35,0.85,0.19,10,automatic,nc,nc
 2023-02-04T16:10:37.940Z,38.8440018,-122.8778305,2.24,0.68,md,10,94,0.007251,0.02,nc,nc73841856,2023-02-04T18:22:13.872Z,"13km ENE of Cloverdale, CA",earthquake,0.47,0.57,0.19,11,automatic,nc,nc
