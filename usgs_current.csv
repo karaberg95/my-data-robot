@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-05T15:17:14.110Z,38.8271675,-122.8089981,1.45,0.95,md,9,92,0.00386,0.02,nc,nc73842276,2023-02-05T15:32:10.787Z,"7km NW of The Geysers, CA",earthquake,0.34,1.07,0.14,10,automatic,nc,nc
+2023-02-05T15:17:14.110Z,38.8271675,-122.8089981,1.45,0.95,md,9,92,0.00386,0.02,nc,nc73842276,2023-02-05T15:38:12.824Z,"7km NW of The Geysers, CA",earthquake,0.34,1.07,0.14,10,automatic,nc,nc
 2023-02-05T15:05:30.684Z,58.1867,-155.3683,0,1.9,ml,,,,0.64,ak,ak0231nsb4t4,2023-02-05T15:07:40.427Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-05T14:58:42.110Z,38.8445015,-122.8164978,1.02,1.12,md,9,137,0.01147,0.02,nc,nc73842266,2023-02-05T15:16:13.693Z,"8km WNW of Cobb, CA",earthquake,0.36,1.05,0.31,13,automatic,nc,nc
 2023-02-05T14:47:04.493Z,36.10709763,-97.85192108,3.727963448,1.85,ml,8,122.2092972,0.1130472347,0.7983141918,ok,ok2023cnbw,2023-02-05T14:48:49.837Z,"4 km E of Hennessey, Oklahoma",earthquake,4.37253871,3.65311311,,6,automatic,ok,ok
@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T16:19:50.500Z,38.7978325,-122.7511673,2.09,0.78,md,9,95,0.007236,0.02,nc,nc73841861,2023-02-04T18:49:13.911Z,"2km N of The Geysers, CA",earthquake,0.35,0.85,0.19,10,automatic,nc,nc
 2023-02-04T16:10:37.940Z,38.8440018,-122.8778305,2.24,0.68,md,10,94,0.007251,0.02,nc,nc73841856,2023-02-04T18:22:13.872Z,"13km ENE of Cloverdale, CA",earthquake,0.47,0.57,0.19,11,automatic,nc,nc
 2023-02-04T15:51:48.528Z,58.9689,-154.4167,133.2,1.6,ml,,,,0.57,ak,ak0231m51olx,2023-02-04T15:54:16.309Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
-2023-02-04T15:37:05.110Z,33.8876667,-116.2585,3.11,0.98,ml,23,60,0.08018,0.22,ci,ci40410944,2023-02-04T15:40:34.624Z,"14km ENE of Thousand Palms, CA",earthquake,0.35,0.77,0.16,25,automatic,ci,ci
