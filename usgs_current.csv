@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-08T10:46:01.780Z,38.8213348,-122.8531647,2.57,1.09,md,24,92,0.006844,0.01,nc,nc73843491,2023-02-08T10:47:38.647Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.16,25,automatic,nc,nc
+2023-02-08T10:41:40.100Z,19.0349998474121,-155.411163330078,35.8800010681152,2.74,ml,47,208,,0.129999995,hv,hv73321302,2023-02-08T10:50:07.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.52,1.03999996,2.13,18,automatic,hv,hv
+2023-02-08T10:26:23.732Z,37.0457,37.0143,10,4.5,mb,68,115,0.201,0.89,us,us6000jmg9,2023-02-08T10:44:59.040Z,"19 km NNE of Musabeyli, Turkey",earthquake,4.59,1.867,0.09,36,reviewed,us,us
 2023-02-08T10:12:48.260Z,33.6738333,-116.7603333,12.43,0.5,ml,14,106,0.05355,0.18,ci,ci40412208,2023-02-08T10:16:23.972Z,"8km SSW of Idyllwild, CA",earthquake,0.58,0.85,0.189,9,automatic,ci,ci
 2023-02-08T10:06:23.280Z,38.7931671,-122.7473297,2.45,1.1,md,15,147,0.01221,0.03,nc,nc73843481,2023-02-08T10:17:11.743Z,"2km NNE of The Geysers, CA",earthquake,0.37,0.67,0.22,15,automatic,nc,nc
 2023-02-08T09:57:27.020Z,38.831501,-122.8161697,1.78,1.06,md,21,51,0.009391,0.01,nc,nc73843476,2023-02-08T10:40:11.868Z,"8km NW of The Geysers, CA",earthquake,0.18,0.44,0.08,20,automatic,nc,nc
