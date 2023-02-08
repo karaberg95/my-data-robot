@@ -107,6 +107,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T02:44:12.408Z,30.3499,138.3154,436.037,4,mb,47,108,3.038,0.38,us,us6000jmep,2023-02-08T04:49:59.040Z,"Izu Islands, Japan region",earthquake,10.77,7.318,0.098,28,reviewed,us,us
 2023-02-08T02:40:52.229Z,37.2996,-116.4035,0,-0.2,ml,8,258.09,0.106,0.5588,nn,nn00855827,2023-02-08T02:42:27.170Z,"53 km NE of Beatty, Nevada",earthquake,,15.4,0.88,3,automatic,nn,nn
 2023-02-08T02:38:33.456Z,61.1847,-149.5145,39.5,1.6,ml,,,,0.64,ak,ak0231sjdm9d,2023-02-08T02:41:36.154Z,"10 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-08T02:33:20.270Z,44.7945,-110.963,8.62,1.35,ml,11,164,0.04671,0.15,uu,uu60530461,2023-02-08T14:31:48.980Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.57,0.86,0.232,2,reviewed,uu,uu
+2023-02-08T02:32:37.840Z,44.791,-110.9628333,8.7,0.77,md,7,160,0.04422,0.14,uu,uu60032634,2023-02-08T14:28:41.710Z,"18 km NE of West Yellowstone, Montana",earthquake,0.58,1.41,0.261,4,reviewed,uu,uu
 2023-02-08T02:32:20.320Z,44.793,-110.9653333,9.45,2.46,ml,24,116,0.04449,0.17,uu,uu60530456,2023-02-08T14:23:01.270Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.42,0.69,0.117,3,reviewed,uu,uu
 2023-02-08T02:25:12.711Z,37.8719,38.1216,10,4.3,mb,44,101,1.007,0.62,us,us6000jmem,2023-02-08T04:36:20.040Z,"18 km NW of Adıyaman, Turkey",earthquake,4.59,1.761,0.13,17,reviewed,us,us
 2023-02-08T02:24:16.693Z,15.227,-94.7031,35,4.6,mb,59,163,2.684,0.72,us,us6000jmen,2023-02-08T04:31:53.040Z,"111 km S of San Francisco del Mar Viejo, Mexico",earthquake,8.23,1.948,0.035,246,reviewed,us,us
