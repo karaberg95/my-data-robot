@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-09T19:35:42.540Z,38.2501678,-122.2583313,8.52,1.8,md,5,218,0.3008,0.05,nc,nc73844181,2023-02-09T19:37:17.246Z,"6km SSE of Napa, CA",earthquake,2.27,1.47,0.03,3,automatic,nc,nc
 2023-02-09T19:30:28.650Z,60.0247,-152.6655,105.3,1.8,ml,,,,0.61,ak,ak0231ugzlxt,2023-02-09T19:32:28.183Z,"52 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-09T19:29:07.460Z,38.8361664,-122.8050003,2.06,0.72,md,10,63,0.01166,0.03,nc,nc73844176,2023-02-09T19:30:42.732Z,"7km WNW of Cobb, CA",earthquake,0.35,1.31,0.18,11,automatic,nc,nc
+2023-02-09T19:29:07.460Z,38.8361664,-122.8050003,2.06,0.72,md,10,63,0.01166,0.03,nc,nc73844176,2023-02-09T19:39:11.071Z,"7km WNW of Cobb, CA",earthquake,0.35,1.31,0.18,11,automatic,nc,nc
 2023-02-09T19:05:34.320Z,33.7543333,-117.3833333,8.86,1.29,ml,26,45,0.01213,0.29,ci,ci40412776,2023-02-09T19:09:08.956Z,"11km W of Good Hope, CA",earthquake,0.53,0.86,0.269,32,automatic,ci,ci
 2023-02-09T18:52:10.635Z,58.1745,-155.2749,0,0.8,ml,,,,0.89,ak,ak0231ugiup3,2023-02-09T19:04:14.322Z,"83 km NW of Karluk, Alaska",earthquake,,60.8,,,automatic,ak,ak
 2023-02-09T18:38:56.580Z,38.8230019,-122.7634964,1.67,1.89,md,35,58,0.008986,0.04,nc,nc73844151,2023-02-09T19:02:10.845Z,"4km W of Cobb, CA",earthquake,0.19,0.29,0.17,37,automatic,nc,nc
-2023-02-09T18:38:03.990Z,38.8318329,-122.8161697,2.09,0.69,md,10,73,0.009678,0.01,nc,nc73844146,2023-02-09T18:53:11.779Z,"8km NW of The Geysers, CA",earthquake,0.34,0.99,0.37,12,automatic,nc,nc
+2023-02-09T18:38:03.990Z,38.8318329,-122.8161697,2.09,0.69,md,10,73,0.009678,0.01,nc,nc73844146,2023-02-09T19:36:14.052Z,"8km NW of The Geysers, CA",earthquake,0.34,0.99,0.37,12,automatic,nc,nc
 2023-02-09T18:37:51.730Z,38.8323326,-122.815834,1.87,0.77,md,14,54,0.009994,0.02,nc,nc73844141,2023-02-09T19:25:13.980Z,"8km NW of The Geysers, CA",earthquake,0.31,0.67,0.14,15,automatic,nc,nc
 2023-02-09T18:28:51.060Z,33.3641667,-116.8385,8.24,1.42,ml,49,36,0.1442,0.2,ci,ci40412768,2023-02-09T18:39:26.360Z,"2km ENE of Palomar Observatory, CA",earthquake,0.21,1.19,0.155,26,automatic,ci,ci
 2023-02-09T18:13:47.770Z,38.7944984,-122.76017,2.68,0.8,md,16,68,0.006128,0.02,nc,nc73844116,2023-02-09T18:52:14.773Z,"2km N of The Geysers, CA",earthquake,0.28,0.64,0.27,14,automatic,nc,nc
