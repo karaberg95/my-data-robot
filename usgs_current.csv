@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-10T21:15:29.090Z,33.9268333,-117.4985,2.42,0.84,ml,16,63,0.1178,0.31,ci,ci40413200,2023-02-10T21:18:58.555Z,"5km E of Norco, CA",earthquake,0.65,1.96,0.103,12,automatic,ci,ci
 2023-02-10T20:43:59.780Z,19.0383338928223,-155.425338745117,36.3699989318848,2.25999999,md,26,205,,0.239999995,hv,hv73322617,2023-02-10T20:47:10.720Z,"16 km ESE of Naalehu, Hawaii",earthquake,1.07,1.57000005,0.0500000007,9,automatic,hv,hv
 2023-02-10T20:28:52.810Z,38.7798347,-122.7651672,0.98,0.98,md,15,112,0.009112,0.03,nc,nc73844671,2023-02-10T20:45:14.428Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.53,0.28,15,automatic,nc,nc
 2023-02-10T20:16:32.761Z,-5.2049,153.4008,38.511,5.2,mb,121,96,7.465,0.88,us,us6000jn5s,2023-02-10T20:36:28.040Z,"New Ireland region, Papua New Guinea",earthquake,5.36,6.83,0.056,110,reviewed,us,us
@@ -211,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T21:40:53.057Z,61.6185,-147.8906,31.4,2.2,ml,,,,0.23,ak,ak0231ui8o6x,2023-02-09T21:42:07.451Z,"24 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-09T21:32:34.170Z,46.10733333333334,-122.10333333333334,7.68,0.12,ml,9,227,0.04086,0.22,uw,uw61896962,2023-02-10T18:30:27.260Z,"34 km NE of Amboy, Washington",earthquake,1.22,0.87,0.055919209914153556,5,reviewed,uw,uw
 2023-02-09T21:30:12.170Z,36.02,-117.7038333,-0.37,1.51,ml,20,91,0.09302,0.25,ci,ci40412832,2023-02-09T21:33:59.147Z,"20km ENE of Little Lake, CA",earthquake,0.38,31.61,0.138,16,automatic,ci,ci
-2023-02-09T21:20:49.025Z,-55.6193,-27.0447,10,5,mb,57,54,5.605,0.48,us,us6000jmvf,2023-02-09T21:39:50.040Z,"South Sandwich Islands region",earthquake,11.44,1.886,0.075,56,reviewed,us,us
-2023-02-09T21:17:20.650Z,38.7501667,-122.7263333,1.52,0.55,md,14,83,0.01147,0.01,nc,nc73844226,2023-02-10T00:57:15.150Z,"4km SE of The Geysers, CA",earthquake,0.21,0.36,0.299,9,reviewed,nc,nc
-2023-02-09T21:16:42.090Z,38.7524986,-122.7269974,2.88,2.36,md,54,34,0.009233,0.04,nc,nc73844221,2023-02-10T00:30:15.986Z,"4km SE of The Geysers, CA",earthquake,0.15,0.27,0.15,61,automatic,nc,nc
