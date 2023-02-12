@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-12T10:47:50.640Z,34.1693333,-117.6356667,9.85,0.84,ml,22,68,0.04855,0.13,ci,ci40413768,2023-02-12T10:51:28.346Z,"7km NW of Rancho Cucamonga, CA",earthquake,0.24,0.47,0.188,19,automatic,ci,ci
+2023-02-12T10:43:51.997Z,-1.5944,134.1926,44.092,4.5,mb,34,125,2.346,0.42,us,us6000jnf9,2023-02-12T11:00:12.040Z,"82 km S of Manokwari, Indonesia",earthquake,11.21,8.08,0.106,26,reviewed,us,us
 2023-02-12T10:30:37.313Z,14.7842,-87.3097,12.57,4.2,mb,20,86,0.724,0.64,us,us6000jnf8,2023-02-12T10:47:59.040Z,"4 km ESE of Minas de Oro, Honduras",earthquake,2.48,6.318,0.199,7,reviewed,us,us
 2023-02-12T10:27:37.450Z,18.0003333333333,-66.8491666666667,12.49,2.08,md,9,150,0.03811,0.09,pr,pr71396013,2023-02-12T10:50:28.840Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.48,0.59,0.0969265898953742,5,reviewed,pr,pr
 2023-02-12T10:25:30.835Z,36.2045,-115.6293,9,1.4,ml,12,217.44,0.485,0.2701,nn,nn00855993,2023-02-12T10:26:46.244Z,"5 km SSE of Mount Charleston, Nevada",earthquake,,2.9,0.87,7,automatic,nn,nn
@@ -181,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T11:20:57.330Z,46.816833333333335,-121.93583333333333,7.81,0.21,ml,22,171,0.02646,0.11,uw,uw61906121,2023-02-11T22:54:26.440Z,"9 km NE of Ashford, Washington",earthquake,0.28,0.4,0.2286018475997884,8,reviewed,uw,uw
 2023-02-11T11:17:07.174Z,61.1936,-147.4049,19.9,2.8,ml,,,,0.53,ak,ak0231xn804d,2023-02-11T12:36:13.040Z,"53 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-11T11:05:16.816Z,38.0828,36.6437,10,4.4,mb,51,48,0.99,0.37,us,us6000jnai,2023-02-11T11:48:54.040Z,"14 km ENE of Göksun, Turkey",earthquake,4.6,1.891,0.11,24,reviewed,us,us
-2023-02-11T10:54:17.893Z,62.4049,-151.2521,81.5,2.1,ml,,,,0.39,ak,ak0231xmuiu5,2023-02-11T10:56:19.415Z,"27 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
