@@ -1,14 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-12T17:20:08.250Z,19.1866664886475,-155.384674072266,29.8099994659424,1.73000002,md,22,166,,0.159999996,hv,hv73323337,2023-02-12T17:23:18.810Z,"Hawaii region, Hawaii",earthquake,0.79,1.29999995,0.689999998,3,automatic,hv,hv
-2023-02-12T17:11:33.320Z,38.7873344,-122.7646637,1.62,0.98,md,15,79,0.01382,0.03,nc,nc73845371,2023-02-12T17:13:08.715Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.48,0.24,15,automatic,nc,nc
+2023-02-12T17:17:24.092Z,62.3221,-150.8284,65.6,1.7,ml,,,,0.61,ak,ak0231zebul3,2023-02-12T17:29:41.515Z,"19 km S of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-12T17:11:33.320Z,38.7873344,-122.7646637,1.62,0.98,md,15,79,0.01382,0.03,nc,nc73845371,2023-02-12T17:25:11.077Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.48,0.24,15,automatic,nc,nc
 2023-02-12T16:58:15.420Z,32.5788333,-115.6826667,8.93,2.03,ml,23,86,0.07939,0.19,ci,ci40413864,2023-02-12T17:09:22.190Z,"9km W of Progreso, B.C., MX",earthquake,0.42,0.97,0.201,27,automatic,ci,ci
 2023-02-12T16:46:28.020Z,38.8058319,-122.867836,2.51,0.53,md,8,165,0.007761,0.04,nc,nc73845361,2023-02-12T17:07:10.948Z,"10km WNW of The Geysers, CA",earthquake,1.35,0.84,0.4,10,automatic,nc,nc
 2023-02-12T16:43:55.090Z,38.8166656,-122.8203354,2.41,1.33,md,25,49,0.01041,0.04,nc,nc73845356,2023-02-12T17:00:09.900Z,"7km NW of The Geysers, CA",earthquake,0.2,0.42,0.22,28,automatic,nc,nc
 2023-02-12T16:42:56.260Z,63.6793,-149.7629,7.7,2.3,ml,,,,0.61,ak,ak0231zdvzbu,2023-02-12T16:54:19.040Z,"42 km W of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-12T16:37:24.460Z,33.6048333,-116.6806667,4.92,0.38,ml,9,82,0.05655,0.34,ci,ci40413856,2023-02-12T16:40:52.164Z,"6km N of Anza, CA",earthquake,0.93,2.53,0.111,8,automatic,ci,ci
-2023-02-12T16:29:49.720Z,38.8053,38.015,10,4.9,mb,41,65,0.381,1.02,us,us6000jngk,2023-02-12T16:56:07.167Z,"7 km E of Hekimhan, Turkey",earthquake,5.93,1.918,0.078,52,reviewed,us,us
+2023-02-12T16:29:49.720Z,38.8053,38.015,10,4.9,mb,41,65,0.381,1.02,us,us6000jngk,2023-02-12T17:26:07.765Z,"7 km E of Hekimhan, Turkey",earthquake,5.93,1.918,0.078,52,reviewed,us,us
 2023-02-12T16:27:34.350Z,33.4705,-116.457,7.23,0.82,ml,30,82,0.05889,0.22,ci,ci40413848,2023-02-12T16:31:15.113Z,"22km ESE of Anza, CA",earthquake,0.27,0.79,0.09,23,automatic,ci,ci
-2023-02-12T16:18:20.270Z,38.8183327,-122.7655029,1.43,0.75,md,8,184,0.0126,0.02,nc,nc73845346,2023-02-12T16:52:10.843Z,"4km W of Cobb, CA",earthquake,0.57,1.33,0.17,9,automatic,nc,nc
+2023-02-12T16:18:20.270Z,38.8183327,-122.7655029,1.43,0.75,md,8,184,0.0126,0.02,nc,nc73845346,2023-02-12T17:27:14.096Z,"4km W of Cobb, CA",earthquake,0.57,1.33,0.17,9,automatic,nc,nc
 2023-02-12T16:13:26.830Z,38.8178329,-122.8238297,3.23,0.76,md,13,56,0.009879,0.02,nc,nc73845341,2023-02-12T17:15:12.001Z,"7km NW of The Geysers, CA",earthquake,0.34,0.71,0.15,14,automatic,nc,nc
 2023-02-12T16:12:25.659Z,62.0134,-147.1762,42.7,1.9,ml,,,,0.85,ak,ak0231zdphhh,2023-02-12T16:14:32.489Z,"8 km N of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-12T16:12:05.060Z,38.800499,-122.7764969,0.06,1.28,md,19,70,0.01154,0.04,nc,nc73845336,2023-02-12T17:03:14.923Z,"3km NW of The Geysers, CA",earthquake,0.17,0.42,0.19,20,automatic,nc,nc
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T17:50:17.060Z,38.1803,38.729,5.649,4.2,mb,49,104,0.962,0.64,us,us6000jnbi,2023-02-11T20:02:19.040Z,"eastern Turkey",earthquake,3.41,5.021,0.104,28,reviewed,us,us
 2023-02-11T17:45:25.447Z,58.2583,-154.9802,0.8,1.4,ml,,,,0.48,ak,ak0231xqyn7h,2023-02-11T17:47:49.861Z,"82 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-11T17:35:47.901Z,59.9646,-153.569,119.9,2.4,ml,,,,0.49,ak,ak0231xqwjs6,2023-02-11T17:38:03.806Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-11T17:26:03.280Z,46.272333333333336,-122.4835,15.8,0.5700000000000001,ml,16,201,0.1035,0.16,uw,uw61906146,2023-02-11T23:16:33.870Z,"28 km S of Mossyrock, Washington",earthquake,1.09,1.05,0.15007737504045687,9,reviewed,uw,uw
