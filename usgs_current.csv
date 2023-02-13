@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-13T21:08:43.220Z,33.9486656,-117.8205032,14.43,1.78,ml,71,45,0.02514,0.19,ci,ci40414336,2023-02-13T21:10:53.782Z,"7km N of Yorba Linda, CA",earthquake,0.26,0.43,0.271,29,automatic,ci,ci
+2023-02-13T21:08:43.220Z,33.9525,-117.8141667,15.25,1.79,ml,42,43,0.09134,0.21,ci,ci40414336,2023-02-13T21:19:53.800Z,"7km SW of Chino Hills, CA",earthquake,0.3,0.5,0.177,28,automatic,ci,ci
 2023-02-13T20:52:30.350Z,19.2463340759277,-155.407165527344,32.7700004577637,1.84000003,md,25,132,,0.119999997,hv,hv73323927,2023-02-13T20:55:43.470Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.81,1.50999999,1,7,automatic,hv,hv
 2023-02-13T20:45:33.740Z,19.0471668243408,-155.40983581543,35.6599998474121,1.79999995,md,21,245,,0.180000007,hv,hv73323922,2023-02-13T20:48:48.290Z,"18 km E of Naalehu, Hawaii",earthquake,1.01,2.08999991,1.88,4,automatic,hv,hv
 2023-02-13T20:36:48.523Z,61.2155,-150.7085,61,1.9,ml,,,,0.84,ak,ak023213rrck,2023-02-13T20:39:49.155Z,"21 km ENE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T17:27:28.280Z,38.8236656,-122.8516693,1.43,1.22,md,18,126,0.005615,0.05,nc,nc73845816,2023-02-13T20:25:14.822Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.44,0.28,19,automatic,nc,nc
 2023-02-13T17:25:21.280Z,38.7908325,-122.7258301,1.75,1.09,md,12,96,0.0114,0.01,nc,nc73845811,2023-02-13T19:59:19.541Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.66,0.16,13,automatic,nc,nc
 2023-02-13T17:03:42.010Z,61.7236,-146.3517,33,1.7,ml,,,,1.04,ak,ak023211sdeh,2023-02-13T17:05:56.167Z,"37 km SE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-13T16:59:46.900Z,20.1883335113525,-155.784164428711,4.15999984741211,2.88000011,md,22,306,,0.319999993,hv,hv73323822,2023-02-13T18:05:57.491Z,"5 km SSE of Kapaau, Hawaii",earthquake,2.54,1.34000003,2.88000011,4,automatic,hv,hv
+2023-02-13T16:59:46.900Z,20.1883335113525,-155.784164428711,4.15999984741211,2.88000011,md,22,306,,0.319999993,hv,hv73323822,2023-02-13T21:15:53.040Z,"5 km SSE of Kapaau, Hawaii",earthquake,2.54,1.34000003,2.88000011,4,automatic,hv,hv
 2023-02-13T16:55:55.140Z,-52.4217,26.5001,10,4.7,mb,15,115,20.452,0.73,us,us6000jnly,2023-02-13T21:06:22.040Z,"south of Africa",earthquake,8.43,1.908,0.159,12,reviewed,us,us
 2023-02-13T16:49:04.680Z,37.3730011,-121.7321701,6.35,1.63,md,10,112,0.02924,0.01,nc,nc73845801,2023-02-13T19:07:17.325Z,"8km E of Alum Rock, CA",earthquake,0.29,0.56,0.14,6,automatic,nc,nc
 2023-02-13T16:41:22.757Z,58.1912,-155.3787,0,0.6,ml,,,,0.74,ak,ak023211f1ir,2023-02-13T16:43:34.573Z,"88 km NW of Karluk, Alaska",earthquake,,5.8,,,automatic,ak,ak
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T21:32:06.670Z,38.8343315,-122.8164978,1.77,0.27,md,7,93,0.01202,0.01,nc,nc73845451,2023-02-12T22:27:13.991Z,"8km W of Cobb, CA",earthquake,0.41,1.35,0.16,8,automatic,nc,nc
 2023-02-12T21:30:50.640Z,38.8058319,-122.8208313,2.35,1.49,md,25,57,0.007192,0.03,nc,nc73845446,2023-02-12T23:53:18.492Z,"6km WNW of The Geysers, CA",earthquake,0.2,0.39,0.16,26,automatic,nc,nc
 2023-02-12T21:26:18.592Z,20.4266,121.9572,120.976,4.4,mb,49,121,2.516,0.52,us,us6000jnhw,2023-02-12T22:54:35.040Z,"2 km SSW of Basco, Philippines",earthquake,11.01,8.422,0.095,32,reviewed,us,us
-2023-02-12T21:23:37.760Z,33.4715,-116.5676667,8.59,0.73,ml,26,61,0.03699,0.18,ci,ci40413944,2023-02-12T21:27:03.935Z,"14km SE of Anza, CA",earthquake,0.29,0.57,0.179,17,automatic,ci,ci
