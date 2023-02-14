@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T19:25:51.224Z,63.2503,-150.6654,128.5,2,ml,,,,0.36,ak,ak0232133z2q,2023-02-13T19:28:07.545Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-13T19:23:31.080Z,48.395,-122.93116666666667,47.1,2.3000000000000003,ml,45,31,0.05096,0.21,uw,uw61906346,2023-02-14T05:40:31.673Z,"16 km SSE of Friday Harbor, Washington",earthquake,0.36,0.55,0.15721909847124227,38,reviewed,uw,uw
 2023-02-13T19:23:13.890Z,38.8356667,-122.7893295,1.91,1.23,md,19,72,0.002851,0.03,nc,nc73845861,2023-02-13T23:09:11.742Z,"6km WNW of Cobb, CA",earthquake,0.23,0.42,0.21,19,automatic,nc,nc
-2023-02-13T19:20:27.585Z,38.0201,36.4179,4.929,4.8,mb,81,55,0.944,0.74,us,us6000jnmc,2023-02-14T04:17:36.723Z,"Central Turkey",earthquake,5.35,4.487,0.058,92,reviewed,us,us
+2023-02-13T19:20:27.585Z,38.0201,36.4179,4.929,4.8,mb,81,55,0.944,0.74,us,us6000jnmc,2023-02-14T04:17:36.723Z,"6 km W of Göksun, Turkey",earthquake,5.35,4.487,0.058,92,reviewed,us,us
 2023-02-13T19:20:02.550Z,38.8349991,-122.80233,2.05,0.88,md,13,64,0.009961,0.02,nc,nc73845851,2023-02-13T19:38:10.401Z,"7km WNW of Cobb, CA",earthquake,0.29,0.7,0.28,14,automatic,nc,nc
 2023-02-13T19:12:16.092Z,58.693,-154.3131,81.3,1.6,ml,,,,0.69,ak,ak0232131421,2023-02-13T19:15:11.590Z,"87 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-13T19:08:19.860Z,18.1691666666667,-67.3615,6.24,3.05,md,15,137,0.2115,0.39,pr,pr71396208,2023-02-13T19:32:03.040Z,"20 km SW of Stella, Puerto Rico",earthquake,0.74,1.08,0.0959753177153846,8,reviewed,pr,pr
@@ -176,9 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T11:46:02.750Z,38.8078333,-122.8151667,3.31,0.19,md,22,59,0.011,0.02,nc,nc73845721,2023-02-13T20:08:10.894Z,"6km WNW of The Geysers, CA",earthquake,0.2,0.41,0.3,20,reviewed,nc,nc
 2023-02-13T11:39:46.060Z,38.8068352,-122.8153305,3.2,1.09,md,21,59,0.01101,0.02,nc,nc73845716,2023-02-13T12:32:13.866Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.51,0.24,23,automatic,nc,nc
 2023-02-13T11:39:27.260Z,38.8061676,-122.8160019,3.27,1.69,md,37,59,0.01064,0.04,nc,nc73845711,2023-02-13T14:15:15.467Z,"6km WNW of The Geysers, CA",earthquake,0.18,0.32,0.14,36,automatic,nc,nc
-2023-02-13T11:20:39.014Z,61.77,-149.5437,35.4,1.5,ml,,,,0.41,ak,ak02320ybepp,2023-02-13T11:22:30.668Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-13T11:19:10.370Z,37.5061684,-118.7941666,9.17,2.71,md,23,59,0.0882,0.03,nc,nc73845701,2023-02-13T17:12:06.579Z,"12km WSW of Toms Place, CA",earthquake,0.35,1.06,0.17,33,automatic,nc,nc
-2023-02-13T11:18:10.240Z,34.1343333,-117.4713333,13.04,1.65,ml,58,32,0.07688,0.21,ci,ci40414120,2023-02-13T14:34:35.050Z,"4km NNW of Fontana, CA",earthquake,0.25,0.56,0.156,25,reviewed,ci,ci
-2023-02-13T11:17:51.910Z,37.5911674,-118.8116684,0.83,1.68,md,13,195,0.0139,0.18,nc,nc73845696,2023-02-13T13:31:14.200Z,"12km WNW of Toms Place, CA",earthquake,1.02,0.7,0.09,17,automatic,nc,nc
-2023-02-13T11:12:07.742Z,63.0302,-149.7344,98.3,2.9,ml,,,,0.53,ak,ak02320y9mk3,2023-02-13T11:19:30.040Z,"56 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-13T11:11:01.600Z,38.828167,-122.8550034,2.08,1.08,md,12,62,0.001587,0.01,nc,nc73845686,2023-02-13T12:36:12.888Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.75,0.19,15,automatic,nc,nc
