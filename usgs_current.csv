@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-14T04:46:29.230Z,33.694,-117.5933333,8.03,1.14,ml,17,85,0.02389,0.28,ci,ci40414488,2023-02-14T04:49:57.726Z,"4km NNW of Trabuco Canyon, CA",earthquake,0.58,1.03,0.401,26,automatic,ci,ci
+2023-02-14T04:50:31.850Z,37.4803352,-121.7839966,7.42,1.11,md,6,139,0.1018,0.05,nc,nc73846161,2023-02-14T04:52:09.095Z,"12km ENE of Milpitas, CA",earthquake,0.63,1.4,0.13,4,automatic,nc,nc
+2023-02-14T04:46:29.230Z,33.694,-117.5933333,8.03,1.14,ml,17,85,0.02389,0.28,ci,ci40414488,2023-02-14T04:55:09.950Z,"4km NNW of Trabuco Canyon, CA",earthquake,0.58,1.03,0.401,26,automatic,ci,ci
 2023-02-14T04:32:59.060Z,33.4961667,-116.4946667,12.37,1.26,ml,43,73,0.0637,0.21,ci,ci40414480,2023-02-14T04:43:40.770Z,"18km ESE of Anza, CA",earthquake,0.27,0.48,0.167,27,automatic,ci,ci
 2023-02-14T04:20:40.260Z,37.5648346,-118.9266663,7.82,1.81,md,14,155,0.04805,0.04,nc,nc73846136,2023-02-14T04:48:10.923Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.45,0.87,0.07,14,automatic,nc,nc
 2023-02-14T04:20:02.670Z,38.8306656,-122.8183365,1.63,1.25,md,16,49,0.009714,0.01,nc,nc73846131,2023-02-14T04:44:10.898Z,"8km NW of The Geysers, CA",earthquake,0.23,0.81,0.14,17,automatic,nc,nc
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T01:52:43.880Z,38.7961655,-122.7434998,1.33,1.09,md,14,97,0.01343,0.03,nc,nc73846021,2023-02-14T02:41:17.096Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.5,0.12,15,automatic,nc,nc
 2023-02-14T01:45:16.038Z,67.8008,-18.5972,10,4.6,mb,39,106,8.238,0.97,us,us6000jnpb,2023-02-14T02:05:08.040Z,"184 km N of Siglufjörður, Iceland",earthquake,11.2,1.917,0.094,34,reviewed,us,us
 2023-02-14T01:43:02.483Z,67.6134,-18.673,10,4.5,mb,26,81,3.073,0.8,us,us6000jnpa,2023-02-14T01:57:09.040Z,"163 km N of Siglufjörður, Iceland",earthquake,9.57,1.92,0.106,26,reviewed,us,us
-2023-02-14T01:42:45.530Z,37.1083336,-121.5163345,6.35,1.7,md,22,70,0.05592,0.06,nc,nc73846016,2023-02-14T04:38:10.868Z,"9km ENE of San Martin, CA",earthquake,0.26,0.59,0.21,17,automatic,nc,nc
+2023-02-14T01:42:45.530Z,37.1083336,-121.5163345,6.35,1.7,md,22,70,0.05592,0.06,nc,nc73846016,2023-02-14T04:54:18.963Z,"9km ENE of San Martin, CA",earthquake,0.26,0.59,0.21,17,automatic,nc,nc
 2023-02-14T01:34:01.470Z,37.1103325,-121.5134964,6.53,2,md,35,69,0.05422,0.07,nc,nc73846011,2023-02-14T04:26:13.782Z,"9km ENE of San Martin, CA",earthquake,0.19,0.53,0.17,29,automatic,nc,nc
 2023-02-14T01:32:46.252Z,64.6131,-147.0055,18.5,1.2,ml,,,,0.28,ak,ak02322fz0b5,2023-02-14T01:34:38.335Z,"6 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-14T01:31:53.263Z,67.5411,-18.4353,10,4.5,mb,29,86,3.042,0.81,us,us6000jnp9,2023-02-14T01:51:07.040Z,"156 km N of Siglufjörður, Iceland",earthquake,11.05,1.817,0.115,22,reviewed,us,us
