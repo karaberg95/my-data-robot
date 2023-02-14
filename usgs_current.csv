@@ -193,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T04:12:31.620Z,38.8264999,-122.788002,1.65,2.21,md,44,37,0.01203,0.05,nc,nc73845566,2023-02-13T06:48:11.944Z,"6km W of Cobb, CA",earthquake,0.15,0.23,0.14,48,automatic,nc,nc
 2023-02-13T04:11:37.780Z,38.8366661,-122.7835007,1.49,1.06,md,7,103,0.008118,0.02,nc,nc73845561,2023-02-13T06:32:13.852Z,"6km WNW of Cobb, CA",earthquake,0.46,1.17,0.21,7,automatic,nc,nc
 2023-02-13T04:04:11.914Z,63.8127,-149.333,108.4,1.9,ml,,,,0.43,ak,ak02320u1vxj,2023-02-13T04:06:15.806Z,"18 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-02-13T03:52:12.910Z,38.836834,-122.7961655,1.83,0.79,md,6,139,0.004811,0.01,nc,nc73845556,2023-02-13T06:05:13.704Z,"6km WNW of Cobb, CA",earthquake,0.57,2.11,0.28,4,automatic,nc,nc
-2023-02-13T03:48:41.596Z,16.1002,-118.6036,10,4.5,mb,42,217,11.1,0.73,us,us6000jnj1,2023-02-13T04:05:53.040Z,"east central Pacific Ocean",earthquake,7.02,1.978,0.065,69,reviewed,us,us
-2023-02-13T03:48:38.660Z,38.8208351,-122.7988358,2.49,0.38,md,8,86,0.009143,0.02,nc,nc73845551,2023-02-13T05:38:12.558Z,"6km NW of The Geysers, CA",earthquake,0.42,0.9,0.29,8,automatic,nc,nc
