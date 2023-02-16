@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T20:44:27.286Z,59.6598,-152.1975,86.6,1.4,ml,,,,0.14,ak,ak023262fgy7,2023-02-16T20:47:09.340Z,"24 km WSW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-02-16T20:24:01.150Z,32.6041667,-116.986,2.66,1.45,ml,13,258,0.04724,0.15,ci,ci40415408,2023-02-16T20:27:43.056Z,"6km ESE of Chula Vista, CA",quarry blast,1.07,0.45,0.219,9,automatic,ci,ci
 2023-02-16T20:19:13.134Z,63.0195,-151.3114,14.3,1.4,ml,,,,0.87,ak,ak023262a2xd,2023-02-16T20:21:03.267Z,"61 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-16T20:17:51.060Z,39.757,-123.4434967,4.74,2.4,md,15,112,0.05912,0.07,nc,nc73847456,2023-02-16T20:24:09.943Z,"8km NNE of Laytonville, CA",earthquake,0.27,0.58,0.13,13,automatic,nc,nc
@@ -246,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T21:28:03.280Z,44.7938333,-110.794,6.56,0.77,md,8,247,0.04061,0.11,uu,uu60531306,2023-02-15T21:39:16.410Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.6,1.04,0.321,6,reviewed,uu,uu
 2023-02-15T21:19:44.440Z,34.8853333,-119.3781667,9.81,1.15,ml,18,65,0.06172,0.17,ci,ci40414896,2023-02-15T21:52:11.912Z,"19km S of Maricopa, CA",earthquake,0.32,0.58,0.238,4,reviewed,ci,ci
 2023-02-15T21:00:42.268Z,6.7488,125.4181,43.969,4.5,mb,25,124,0.357,0.55,us,us6000jp86,2023-02-16T20:15:43.587Z,"6 km E of Digos, Philippines",earthquake,10.83,6.985,0.119,21,reviewed,us,us
-2023-02-15T20:52:11.730Z,35.984,-117.3145,2.41,1.61,ml,18,144,0.09624,0.17,ci,ci40414880,2023-02-15T22:01:16.507Z,"25km NNE of Trona, CA",earthquake,0.31,0.71,0.09,15,reviewed,ci,ci
-2023-02-15T20:48:27.400Z,38.8121681,-122.8278351,1.89,0.92,md,16,59,0.003458,0.02,nc,nc73846916,2023-02-15T21:47:22.817Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.55,0.19,16,automatic,nc,nc
