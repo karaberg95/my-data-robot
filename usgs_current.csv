@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-17T10:43:21.030Z,33.4996667,-116.483,14.38,1.05,ml,27,96,0.05341,0.14,ci,ci40415640,2023-02-17T10:46:53.066Z,"19km ESE of Anza, CA",earthquake,0.23,0.38,0.15,28,automatic,ci,ci
+2023-02-17T10:42:27.170Z,38.8058319,-122.7771683,-0.19,1.49,md,27,70,0.007909,0.05,nc,nc73847696,2023-02-17T10:44:01.467Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.35,0.18,26,automatic,nc,nc
+2023-02-17T10:39:52.140Z,38.8081665,-122.7763367,-0.15,0.5,md,8,108,0.006115,0.02,nc,nc73847691,2023-02-17T10:41:25.807Z,"4km NNW of The Geysers, CA",earthquake,0.38,0.53,0.29,9,automatic,nc,nc
 2023-02-17T10:38:48.740Z,38.8069992,-122.7799988,0.24,1.05,md,10,93,0.006274,0.02,nc,nc73847686,2023-02-17T10:40:25.855Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.66,0.17,13,automatic,nc,nc
 2023-02-17T10:38:34.890Z,38.8051682,-122.7771683,-0.18,1.52,md,28,70,0.008533,0.05,nc,nc73847681,2023-02-17T10:40:10.784Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.34,0.14,28,automatic,nc,nc
 2023-02-17T10:35:18.287Z,60.7179,-150.1405,34,1.9,ml,,,,0.62,ak,ak02327jyj84,2023-02-17T10:37:21.874Z,"30 km NW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-17T10:13:08.450Z,38.8491669,-122.7641678,1.3,0.7,md,8,195,0.01158,0.03,nc,nc73847676,2023-02-17T10:26:10.298Z,"5km NW of Cobb, CA",earthquake,0.55,0.68,0.51,9,automatic,nc,nc
+2023-02-17T10:13:08.450Z,38.8491669,-122.7641678,1.3,0.7,md,8,195,0.01158,0.03,nc,nc73847676,2023-02-17T10:48:13.415Z,"5km NW of Cobb, CA",earthquake,0.55,0.68,0.51,9,automatic,nc,nc
 2023-02-17T10:12:42.354Z,62.1861,-145.633,18.7,2.1,ml,,,,0.68,ak,ak02327jtnm3,2023-02-17T10:14:20.224Z,"9 km NNW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-17T10:12:29.030Z,38.848999,-122.7618332,0.82,1.05,md,9,171,0.01955,0.02,nc,nc73847671,2023-02-17T10:37:14.356Z,"4km NW of Cobb, CA",earthquake,0.35,0.71,0.11,10,automatic,nc,nc
 2023-02-17T10:09:46.580Z,38.8320007,-122.8151703,1.85,0.69,md,15,52,0.00947,0.02,nc,nc73847666,2023-02-17T10:26:14.298Z,"8km NW of The Geysers, CA",earthquake,0.28,0.49,0.42,14,automatic,nc,nc
@@ -220,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T11:03:04.681Z,32.75848389,-100.6529869,6.725056966,2.2,ml,20,57,0.07298495671,0.2,tx,tx2023dgxa,2023-02-16T20:42:09.394Z,"16 km NE of Hermleigh, Texas",earthquake,0.7946374662,1.882198269,0.1,15,reviewed,tx,tx
 2023-02-16T10:59:36.556Z,36.7353,-116.253,6.4,0.1,ml,12,109.41,0.016,0.0857,nn,nn00856157,2023-02-16T22:13:26.333Z,"49 km ESE of Beatty, Nevada",earthquake,,1.3,0.24,4,reviewed,nn,nn
 2023-02-16T10:51:13.570Z,58.1805,-155.307333333333,1.26,-0.24,ml,6,160,,0.06,av,av91763101,2023-02-17T03:53:07.210Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.85,0.293314950893877,6,reviewed,av,av
-2023-02-16T10:47:56.440Z,17.962,-66.8246666666667,13.88,2.14,md,8,169,0.05356,0.31,pr,pr71396458,2023-02-16T11:11:21.800Z,"3 km S of Indios, Puerto Rico",earthquake,1.1,0.8,0.0864784240075714,4,reviewed,pr,pr
-2023-02-16T10:47:44.796Z,32.75665283,-100.6529869,7.311971029,2.2,ml,13,70,0.07408803692,0.1,tx,tx2023dgwn,2023-02-16T20:35:56.720Z,"16 km NE of Hermleigh, Texas",earthquake,0.6111408272,1.145957948,0.1,15,reviewed,tx,tx
-2023-02-16T10:42:32.399Z,32.74932861,-100.6594179,9.121622721,2.6,ml,18,70,0.08288434074,0.1,tx,tx2023dgwi,2023-02-17T06:13:57.040Z,"15 km NE of Hermleigh, Texas",earthquake,0.5881133163,0.737318453,0.1,14,reviewed,tx,tx
-2023-02-16T10:41:24.020Z,59.3558333333333,-153.433166666667,-1.17,-0.23,ml,6,134,,0.23,av,av91089118,2023-02-17T04:02:06.760Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.37,1.05,0.38943844994795,6,reviewed,av,av
