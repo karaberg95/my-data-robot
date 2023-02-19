@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-18T15:10:01.708Z,61.2497,-146.0308,28.6,1.8,ml,,,,0.58,ak,ak02329abnka,2023-02-18T15:11:07.018Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-18T14:54:55.940Z,38.833168,-122.8001633,2.14,0.71,md,8,75,0.009284,0,nc,nc73848146,2023-02-18T16:32:19.164Z,"7km W of Cobb, CA",earthquake,0.53,1.71,0.19,9,automatic,nc,nc
 2023-02-18T14:54:28.320Z,38.828167,-122.8516693,2.09,0.61,md,8,70,0.004112,0.01,nc,nc73848141,2023-02-18T16:07:14.017Z,"10km NW of The Geysers, CA",earthquake,0.36,1.12,0.23,10,automatic,nc,nc
-2023-02-18T14:49:47.240Z,35.451,-118.3486667,4.42,1.56,ml,25,60,0.1699,0.15,ci,ci40415984,2023-02-18T15:00:38.100Z,"20km SE of Bodfish, CA",earthquake,0.24,1.07,0.172,26,automatic,ci,ci
