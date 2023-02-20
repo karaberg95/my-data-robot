@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-20T05:35:18.210Z,33.9726667,-116.852,15.92,0.95,ml,20,65,0.1393,0.17,ci,ci40416736,2023-02-20T05:38:50.819Z,"6km NNE of Banning, CA",earthquake,0.51,0.81,0.172,29,automatic,ci,ci
-2023-02-20T05:34:14.983Z,58.927,-154.4703,136.6,4,ml,,,,0.46,ak,ak0232cfl6rx,2023-02-20T05:36:13.628Z,"59 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-02-20T05:34:14.983Z,58.927,-154.4703,136.6,4,ml,,,,0.46,ak,ak0232cfl6rx,2023-02-20T05:48:54.040Z,"59 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-20T05:10:16.570Z,33.499,-116.4955,11.18,0.66,ml,23,93,0.06319,0.19,ci,ci40416728,2023-02-20T05:13:46.664Z,"18km ESE of Anza, CA",earthquake,0.31,0.61,0.173,19,automatic,ci,ci
 2023-02-20T05:02:30.660Z,33.1656667,-115.648,2.52,1.49,ml,23,47,0.02754,0.2,ci,ci40416720,2023-02-20T05:06:13.613Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.56,0.226,27,automatic,ci,ci
 2023-02-20T05:01:53.770Z,33.1736667,-115.648,2.12,1.2,ml,15,78,0.02332,0.1,ci,ci40416712,2023-02-20T05:05:37.935Z,"14km WNW of Calipatria, CA",earthquake,0.24,0.37,0.248,19,automatic,ci,ci
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T04:09:18.270Z,38.786335,-122.734169,1.53,1.05,md,12,87,0.003682,0.02,nc,nc73848816,2023-02-20T04:25:11.817Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.7,0.24,13,automatic,nc,nc
 2023-02-20T04:09:17.600Z,63.1808,-151.3395,0,2.3,ml,,,,0.85,ak,ak0232ceueeo,2023-02-20T04:11:30.802Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-20T04:05:03.974Z,-22.4556,-174.2759,10,5.1,mb,71,74,2.619,1.29,us,us6000jq88,2023-02-20T04:25:37.040Z,"142 km SSE of ‘Ohonua, Tonga",earthquake,9.35,1.871,0.054,110,reviewed,us,us
-2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"41 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-02-20T04:02:50.388Z,62.8689,-150.782,85.7,1.5,ml,,,,0.3,ak,ak0232cesyxa,2023-02-20T04:06:14.440Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T03:45:38.572Z,38.6708,39.9482,7.526,4.3,mb,47,62,1.327,0.5,us,us6000jq85,2023-02-20T03:56:55.040Z,"3 km SE of Palu, Turkey",earthquake,3.47,1.56,0.095,31,reviewed,us,us
 2023-02-20T03:39:29.300Z,34.26,-116.4451667,8.04,1.74,ml,48,37,0.06061,0.19,ci,ci40416672,2023-02-20T03:50:13.740Z,"16km N of Yucca Valley, CA",earthquake,0.21,0.7,0.137,26,automatic,ci,ci
 2023-02-20T03:39:00.060Z,34.0528333,-118.165,3.44,0.83,ml,9,114,0.1931,0.23,ci,ci40416664,2023-02-20T03:42:50.443Z,"2km N of East Los Angeles, CA",earthquake,0.98,5.55,0.17,12,automatic,ci,ci
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T06:27:29.830Z,34.0468333,-117.2951667,16.33,1.42,ml,51,76,0.07792,0.22,ci,ci40416240,2023-02-19T15:13:42.410Z,"2km NE of Grand Terrace, CA",earthquake,0.25,0.61,0.176,26,reviewed,ci,ci
 2023-02-19T06:23:24.933Z,63.4887,-147.6527,67.7,1.6,ml,,,,0.41,ak,ak0232askxpp,2023-02-19T06:25:17.715Z,"65 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-19T06:20:18.900Z,38.7613335,-122.7286682,1.23,0.72,md,7,152,0.002988,0.02,nc,nc73848481,2023-02-19T08:00:15.403Z,"3km SE of The Geysers, CA",earthquake,0.92,1.49,0.08,6,automatic,nc,nc
-2023-02-19T05:48:41.550Z,32.9266667,-116.28,11.36,1.19,ml,19,109,0.1187,0.16,ci,ci40416232,2023-02-19T05:52:14.961Z,"26km ENE of Pine Valley, CA",earthquake,0.3,0.62,0.185,16,automatic,ci,ci
