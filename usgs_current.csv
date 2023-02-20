@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T03:16:49.780Z,33.2441667,-115.7846667,3.09,1.76,ml,43,33,0.1287,0.21,ci,ci40416648,2023-02-20T03:20:35.752Z,"13km SSW of Bombay Beach, CA",earthquake,0.27,0.62,0.099,26,automatic,ci,ci
+2023-02-20T03:30:23.570Z,38.7804985,-122.7666702,1.05,0.71,md,7,111,0.00979,0.02,nc,nc73848806,2023-02-20T03:31:58.539Z,"1km WNW of The Geysers, CA",earthquake,0.48,1.04,0.1,8,automatic,nc,nc
+2023-02-20T03:16:49.780Z,33.2441667,-115.7846667,3.09,1.76,ml,43,33,0.1287,0.21,ci,ci40416648,2023-02-20T03:27:53.710Z,"13km SSW of Bombay Beach, CA",earthquake,0.27,0.62,0.099,26,automatic,ci,ci
 2023-02-20T03:16:24.900Z,33.2461667,-115.788,2.76,1.43,ml,27,53,0.1279,0.25,ci,ci40416640,2023-02-20T03:20:04.769Z,"13km SSW of Bombay Beach, CA",earthquake,0.36,0.82,0.17,27,automatic,ci,ci
+2023-02-20T03:09:47.719Z,15.2128,122.8285,10,5,mb,89,111,8.264,0.81,us,us6000jq7y,2023-02-20T03:26:50.040Z,"73 km NE of Casuguran, Philippines",earthquake,10.19,1.88,0.056,102,reviewed,us,us
 2023-02-20T03:08:45.005Z,59.8436,-152.9342,91.8,1.4,ml,,,,0.39,ak,ak0232ce8t78,2023-02-20T03:10:45.080Z,"62 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-20T02:53:49.998Z,58.2251,-154.5911,10.6,1.1,ml,,,,0.37,ak,ak0232cdx17b,2023-02-20T02:55:22.147Z,"73 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-20T02:39:52.298Z,58.1628,-155.3267,10,0.9,ml,,,,0.45,ak,ak0232cdu1ct,2023-02-20T02:41:39.199Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-02-20T02:31:11.290Z,33.7751667,-116.931,11.5,2.17,ml,84,20,0.04491,0.21,ci,ci40416632,2023-02-20T02:41:34.360Z,"3km ESE of San Jacinto, CA",earthquake,0.17,0.45,0.121,25,automatic,ci,ci
 2023-02-20T02:17:56.280Z,33.7006667,-117.6213333,8.22,1.49,ml,8,144,0.4124,0.2,ci,ci40416624,2023-02-20T02:21:36.246Z,"4km ENE of Foothill Ranch, CA",earthquake,0.88,31.61,0.423,16,automatic,ci,ci
+2023-02-20T02:17:35.736Z,32.7598,-100.666,1.263,2.5,mb_lg,34,36,0.381,0.49,us,us6000jq7q,2023-02-20T03:31:27.040Z,"16 km NNE of Hermleigh, Texas",earthquake,1.38,8.109,0.089,33,reviewed,us,us
 2023-02-20T02:08:02.800Z,38.8294983,-122.8153305,2.32,0.48,md,9,78,0.007348,0.01,nc,nc73848781,2023-02-20T02:21:11.082Z,"8km NW of The Geysers, CA",earthquake,0.36,1.17,0.35,9,automatic,nc,nc
 2023-02-20T02:07:47.061Z,62.5345,-149.1794,48.7,1.4,ml,,,,0.65,ak,ak0232cdn61e,2023-02-20T02:10:24.166Z,"48 km E of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T01:53:38.510Z,38.8231659,-122.8539963,2.69,0.62,md,14,93,0.004916,0.02,nc,nc73848776,2023-02-20T02:12:11.021Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.34,17,automatic,nc,nc
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T01:41:57.960Z,33.9101667,-117.3011667,0.71,1.08,ml,17,85,0.06644,0.46,ci,ci40416608,2023-02-20T01:45:53.906Z,"4km WNW of March Air Reserve Base, CA",earthquake,1.12,31.61,0.139,28,automatic,ci,ci
 2023-02-20T01:41:52.890Z,34.0128333,-117.1786667,14.26,1.27,ml,47,33,0.06547,0.19,ci,ci40416600,2023-02-20T01:52:10.170Z,"5km S of Redlands, CA",earthquake,0.21,0.48,0.262,18,automatic,ci,ci
 2023-02-20T01:33:29.285Z,1.8963,96.6097,21.712,4.9,mb,59,145,1.131,0.63,us,us6000jq7k,2023-02-20T01:49:08.040Z,"69 km SSE of Sinabang, Indonesia",earthquake,6.14,5.749,0.075,56,reviewed,us,us
-2023-02-20T01:27:46.790Z,38.8373337,-122.836998,1.59,0.31,md,7,162,0.001722,0.01,nc,nc73848756,2023-02-20T01:40:10.837Z,"10km NW of The Geysers, CA",earthquake,1.01,1.37,0.15,7,automatic,nc,nc
+2023-02-20T01:27:46.790Z,38.8373337,-122.836998,1.59,0.31,md,7,162,0.001722,0.01,nc,nc73848756,2023-02-20T03:24:11.469Z,"10km NW of The Geysers, CA",earthquake,1.01,1.37,0.15,7,automatic,nc,nc
 2023-02-20T01:18:13.825Z,65.009,-147.3715,14.7,0.7,ml,,,,0.77,ak,ak0232cd40s7,2023-02-20T01:23:57.824Z,"12 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-20T01:16:34.320Z,33.8673333,-117.2615,0.48,1.09,ml,14,102,0.1574,0.34,ci,ci40416592,2023-02-20T01:20:18.749Z,"3km S of March Air Reserve Base, CA",earthquake,1.22,31.61,0.208,22,automatic,ci,ci
 2023-02-20T01:16:24.010Z,34.1075,-117.3196667,16.47,1.16,ml,32,35,0.1228,0.2,ci,ci40416584,2023-02-20T01:26:51.690Z,"4km SW of San Bernardino, CA",earthquake,0.32,0.82,0.168,23,automatic,ci,ci
@@ -43,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T23:23:20.299Z,36.36672592,-98.15239716,5.078894615,1.58,ml,14,83.70829964,0.1937906593,0.2046449551,ok,ok2023dnhy,2023-02-19T23:25:35.420Z,"3 km SE of Meno, Oklahoma",earthquake,3.605091795,4.520686506,,11,automatic,ok,ok
 2023-02-19T23:21:18.518Z,-17.5611,-174.4306,114.997,4.5,mb,16,112,1.157,1.11,us,us6000jq6p,2023-02-19T23:45:24.040Z,"129 km NNW of Neiafu, Tonga",earthquake,9.05,10.102,0.102,28,reviewed,us,us
 2023-02-19T23:16:42.498Z,58.1952,-155.3098,0.7,0.6,ml,,,,0.55,ak,ak0232b2nud0,2023-02-19T23:19:21.271Z,"86 km NW of Karluk, Alaska",earthquake,,6.9,,,automatic,ak,ak
+2023-02-19T23:13:06.782Z,-5.9896,129.156,10.046,4.3,mb,16,115,4.337,0.96,us,us6000jq6l,2023-02-20T03:34:40.040Z,"275 km SSE of Ambon, Indonesia",earthquake,10.84,6.459,0.169,10,reviewed,us,us
 2023-02-19T23:12:21.703Z,2.7229,126.9757,35,4.9,mb,56,109,1.977,0.81,us,us6000jq6k,2023-02-20T02:54:31.040Z,"159 km NW of Tobelo, Indonesia",earthquake,7.6,1.893,0.063,80,reviewed,us,us
 2023-02-19T23:04:22.163Z,62.3561,-149.0755,12,1.4,ml,,,,0.6,ak,ak0232b2l86g,2023-02-19T23:06:22.913Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-19T22:56:53.036Z,10.0899,-84.2877,17.308,4.5,mb,22,136,0.194,0.62,us,us6000jq6i,2023-02-20T02:38:44.040Z,"Costa Rica",earthquake,3.64,5.014,0.181,9,reviewed,us,us
