@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-24T21:24:10.969Z,62.1186,-148.6426,19.1,1.4,ml,,,,0.46,ak,ak0232jb7cw8,2023-02-24T21:26:12.459Z,"37 km NNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-24T21:17:51.438Z,61.9443,-149.4709,38.8,1.4,ml,,,,0.47,ak,ak0232jb5y07,2023-02-24T21:20:01.851Z,"25 km NNW of Fishhook, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-24T21:11:20.690Z,33.7643333,-116.93,12.39,1.18,ml,34,40,0.05379,0.25,ci,ci40418408,2023-02-24T21:14:57.734Z,"3km SE of San Jacinto, CA",earthquake,0.38,0.72,0.169,26,automatic,ci,ci
-2023-02-24T21:10:23.320Z,38.7913322,-122.758667,1.44,1.48,md,23,114,0.009315,0.04,nc,nc73851276,2023-02-24T21:11:59.423Z,"2km N of The Geysers, CA",earthquake,0.27,0.34,0.18,25,automatic,nc,nc
+2023-02-24T21:10:23.320Z,38.7913322,-122.758667,1.44,1.48,md,23,114,0.009315,0.04,nc,nc73851276,2023-02-24T21:23:11.677Z,"2km N of The Geysers, CA",earthquake,0.27,0.34,0.18,25,automatic,nc,nc
 2023-02-24T21:05:16.078Z,62.2347,-149.662,52.8,2,ml,,,,0.2,ak,ak0232jb3aon,2023-02-24T21:06:42.577Z,"12 km NE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-24T21:01:57.840Z,19.4144992828369,-155.276000976562,7.55999994277954,1.95,ml,24,47,,0.219999999,hv,hv73330212,2023-02-24T21:07:27.680Z,"5 km SW of Volcano, Hawaii",earthquake,0.38,0.540000021,0.33,3,automatic,hv,hv
 2023-02-24T20:57:34.174Z,60.5333,-150.2074,37.3,1.2,ml,,,,0.41,ak,ak0232jat1ns,2023-02-24T21:12:20.352Z,"21 km WNW of Cooper Landing, Alaska",earthquake,,0.9,,,reviewed,ak,ak
