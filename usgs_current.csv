@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T20:44:51.301Z,38.2582,73.0403,10,4.2,mb,18,96,1.556,0.83,us,us6000jrli,2023-02-25T22:32:20.040Z,"81 km W of Murghob, Tajikistan",earthquake,6.41,1.914,0.159,11,reviewed,us,us
 2023-02-25T20:40:21.864Z,60.8617,-150.4497,45.9,1.7,ml,,,,0.79,ak,ak0232ky8q2y,2023-02-25T20:42:54.239Z,"14 km ESE of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-25T20:22:30.223Z,62.8094,-147.3968,250,1.9,ml,,,,0.84,ak,ak0232ky4vub,2023-02-25T20:27:48.004Z,"73 km NW of Lake Louise, Alaska",earthquake,,10.5,,,automatic,ak,ak
-2023-02-25T20:20:11.560Z,38.8063316,-122.8085022,1.43,0.77,md,8,77,0.01044,0.01,nc,nc73851756,2023-02-25T22:08:10.774Z,"6km NW of The Geysers, CA",earthquake,0.38,0.84,0.21,9,automatic,nc,nc
+2023-02-25T20:20:11.560Z,38.8063316,-122.8085022,1.43,0.77,md,8,77,0.01044,0.01,nc,nc73851756,2023-02-25T22:35:17.935Z,"6km NW of The Geysers, CA",earthquake,0.38,0.84,0.21,9,automatic,nc,nc
 2023-02-25T20:10:51.136Z,-16.2575,-172.7586,34.667,4.7,mb,27,81,2.657,0.77,us,us6000jrle,2023-02-25T22:16:01.040Z,"115 km ESE of Hihifo, Tonga",earthquake,11.84,2.616,0.078,50,reviewed,us,us
 2023-02-25T20:03:37.390Z,17.9521666666667,-67.0176666666667,8.39,2.5,md,7,222,0.03056,0.09,pr,pr71397368,2023-02-25T20:46:13.820Z,"3 km SE of La Parguera, Puerto Rico",earthquake,0.59,0.63,0.134225842737945,5,reviewed,pr,pr
 2023-02-25T20:02:22.513Z,58.2595,-154.8586,5.1,0.9,ml,,,,0.55,ak,ak0232ky0kx7,2023-02-25T20:03:30.188Z,"80 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T22:50:42.140Z,46.09616666666667,-122.74116666666667,15.41,1.26,ml,20,116,0.0566,0.22,uw,uw61899657,2023-02-25T15:35:22.440Z,"Washington",earthquake,0.61,1.03,0.10284273808274591,13,reviewed,uw,uw
 2023-02-24T22:47:45.230Z,19.1821670532227,-155.495330810547,27.4099998474121,1.80999994,md,16,232,,0.109999999,hv,hv73330287,2023-02-24T22:50:52.930Z,"2 km SW of Pāhala, Hawaii",earthquake,0.93,1.20000005,0.0299999993,5,automatic,hv,hv
 2023-02-24T22:46:54.300Z,38.7799988,-122.7553329,0.86,1.28,md,16,114,0.01233,0.04,nc,nc73851321,2023-02-24T23:56:13.675Z,"0km NNE of The Geysers, CA",earthquake,0.27,0.5,0.1,16,automatic,nc,nc
-2023-02-24T22:39:45.726Z,59.0072,-151.1472,27.9,2.2,ml,,,,0.33,ak,ak0232jbw2x8,2023-02-24T22:42:17.883Z,"54 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
