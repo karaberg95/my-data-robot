@@ -164,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T16:47:42.316Z,60.2125,-151.3281,25.8,1.6,ml,,,,0.8,ak,ak0232mjfvqv,2023-02-26T16:53:45.030Z,"4 km ESE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-26T16:46:15.748Z,62.9586,-150.9611,109.2,1.8,ml,,,,0.41,ak,ak0232mjflza,2023-02-26T16:48:33.116Z,"52 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-26T16:41:32.840Z,19.1324996948242,-155.492660522461,31.5900001525879,1.72000003,md,25,219,,0.180000007,hv,hv73331032,2023-02-26T16:44:41.000Z,"7 km S of Pāhala, Hawaii",earthquake,1.76,1.26999998,1.75,4,automatic,hv,hv
-2023-02-26T16:41:15.756Z,-8.6103,123.3485,189.493,5.1,mb,31,77,1.099,0.94,us,us6000jrrq,2023-02-26T16:56:17.040Z,"118 km NNW of Naisano Dua, Indonesia",earthquake,8.94,7.301,0.089,41,reviewed,us,us
+2023-02-26T16:41:15.756Z,-8.6103,123.3485,189.493,5.1,mb,31,77,1.099,0.94,us,us6000jrrq,2023-02-26T16:56:17.040Z,"Flores region, Indonesia",earthquake,8.94,7.301,0.089,41,reviewed,us,us
 2023-02-26T16:30:03.320Z,15.1322,-104.4353,15.814,4.4,mb,29,263,5.434,1.12,us,us6000jrrn,2023-02-26T17:28:53.040Z,"off the coast of Michoacan, Mexico",earthquake,14.48,7.791,0.056,93,reviewed,us,us
 2023-02-26T16:26:27.890Z,38.8048325,-122.7826691,0.73,0.83,md,8,98,0.008556,0.01,nc,nc73852021,2023-02-26T17:13:12.693Z,"4km NW of The Geysers, CA",earthquake,0.35,0.62,0.21,7,automatic,nc,nc
 2023-02-26T16:18:40.200Z,38.8455009,-122.8386688,1.23,1.17,md,11,153,0.007336,0.03,nc,nc73852016,2023-02-26T19:08:12.384Z,"10km WNW of Cobb, CA",earthquake,0.3,0.67,0.08,12,automatic,nc,nc
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T15:01:36.810Z,17.9426666666667,-66.264,9.81,2.09,md,8,177,0.1513,0.16,pr,pr71397508,2023-02-26T15:28:04.830Z,"4 km WSW of Central Aguirre, Puerto Rico",earthquake,0.59,1.24,0.159536485196866,3,reviewed,pr,pr
 2023-02-26T15:00:21.600Z,36.1246666666667,-89.7333333333333,5.53,2.56,md,61,57,0.02579,0.22,nm,nm60512801,2023-02-27T14:14:55.530Z,"9 km ENE of Steele, Missouri",earthquake,0.29,0.65,0.0698318642650171,53,reviewed,nm,nm
 2023-02-26T14:58:28.817Z,35.48551178,-98.07026672,23.08619308,1.68,ml,9,71.84484863,0.0696343258,1.137299004,ok,ok2023dzlv,2023-02-26T15:00:11.339Z,"11 km WSW of El Reno, Oklahoma",earthquake,5.418255262,6.027873681,,7,automatic,ok,ok
-2023-02-26T14:52:04.170Z,38.8111649,-122.795166,2.91,0.7,md,20,34,0.003194,0.02,nc,nc73851976,2023-02-26T16:05:17.300Z,"5km NW of The Geysers, CA",earthquake,0.24,0.54,0.4,19,automatic,nc,nc
