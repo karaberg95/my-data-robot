@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-01T22:49:03.640Z,33.4871667,-116.4743333,10.31,2.31,ml,55,42,0.05438,0.2,ci,ci40419944,2023-03-01T22:52:48.772Z,"20km ESE of Anza, CA",earthquake,0.21,0.38,0.181,25,automatic,ci,ci
+2023-03-01T22:47:21.770Z,38.8263321,-122.8143311,2.1,1.48,md,32,40,0.004434,0.02,nc,nc73854131,2023-03-01T22:50:45.231Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.16,32,automatic,nc,nc
+2023-03-01T22:44:47.480Z,33.4845,-116.4728333,9.71,1.44,ml,28,63,0.05528,0.23,ci,ci40419936,2023-03-01T22:48:19.030Z,"20km ESE of Anza, CA",earthquake,0.31,0.74,0.172,26,automatic,ci,ci
+2023-03-01T22:36:06.274Z,-1.0123,137.0076,18.268,4.6,mb,46,113,5.119,0.62,us,us7000jgnn,2023-03-01T22:51:27.040Z,"near the north coast of Papua, Indonesia",earthquake,11.46,3.192,0.087,39,reviewed,us,us
 2023-03-01T22:04:18.949Z,15.7415,-94.7602,40.962,4.2,mb,36,178,2.579,0.99,us,us7000jgnl,2023-03-01T22:16:30.040Z,"55 km SSW of San Francisco del Mar Viejo, Mexico",earthquake,9.14,12.218,0.124,18,reviewed,us,us
 2023-03-01T21:26:08.290Z,19.333833694458,-155.124496459961,3.75999999046326,1.79,ml,30,138,,0.200000003,hv,hv73332252,2023-03-01T21:31:38.650Z,"14 km S of Fern Forest, Hawaii",earthquake,0.55,2.25,0.42,3,automatic,hv,hv
 2023-03-01T21:17:31.750Z,38.8258324,-122.8144989,2.14,0.71,md,11,69,0.004227,0.01,nc,nc73854121,2023-03-01T21:36:12.853Z,"7km NW of The Geysers, CA",earthquake,0.37,0.93,0.13,11,automatic,nc,nc
