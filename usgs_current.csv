@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-01T11:35:43.810Z,48.617000579833984,-123.04299926757812,13.3800001144409,2.8280069828033447,ml,35,100,,0.150000006,uw,uw61900332,2023-03-01T11:38:38.430Z,"Washington-British Columbia border region",earthquake,0.36,0.670000017,0.35034239292144775,70,automatic,uw,uw
+2023-03-01T11:35:43.810Z,48.617000579833984,-123.04299926757812,13.3800001144409,2.8280069828033447,ml,35,100,,0.150000006,uw,uw61900332,2023-03-01T11:45:04.493Z,"Washington-British Columbia border region",earthquake,0.36,0.670000017,0.35034239292144775,70,automatic,uw,uw
 2023-03-01T11:23:23.090Z,38.8268318,-122.815834,1.36,0.46,md,10,70,0.005659,0.02,nc,nc73853876,2023-03-01T11:39:11.081Z,"8km NW of The Geysers, CA",earthquake,0.33,0.78,0.34,9,automatic,nc,nc
 2023-03-01T11:20:41.310Z,19.2591667175293,-155.408828735352,30.3999996185303,1.73000002,md,18,170,,0.119999997,hv,hv73332117,2023-03-01T11:23:48.210Z,"9 km NE of Pāhala, Hawaii",earthquake,0.94,1.37,0.74000001,3,automatic,hv,hv
 2023-03-01T11:20:33.997Z,63.0865,-150.8996,24,1.9,ml,,,,1.28,ak,ak0232rewy87,2023-03-01T11:23:22.078Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T12:08:02.997Z,60.4854,-152.1109,84,1.8,ml,,,,0.7,ak,ak0232prwecr,2023-02-28T12:11:34.715Z,"45 km WSW of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-28T12:07:33.072Z,6.5484,60.2024,10,5.4,mww,105,34,12.104,1.04,us,us7000jg89,2023-02-28T18:31:12.601Z,"Carlsberg Ridge",earthquake,9.38,1.813,0.052,35,reviewed,us,us
 2023-02-28T12:00:54.180Z,33.588,-116.805,7.49,0.36,ml,18,71,0.03461,0.14,ci,ci40419472,2023-02-28T15:31:54.775Z,"13km WNW of Anza, CA",earthquake,0.28,0.51,0.167,4,reviewed,ci,ci
-2023-02-28T11:42:08.550Z,38.8308334,-122.8111649,1.73,0.93,md,16,46,0.007476,0.01,nc,nc73852871,2023-02-28T12:21:13.090Z,"8km NW of The Geysers, CA",earthquake,0.24,0.6,0.23,16,automatic,nc,nc
