@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-01T06:47:08.620Z,33.6473351,-116.7545013,15.29,1.2,ml,26,91,0.0541,0.14,ci,ci40419776,2023-03-01T06:49:13.992Z,"11km SSW of Idyllwild, CA",earthquake,0.42,0.62,0.357,10,automatic,ci,ci
+2023-03-01T06:56:05.390Z,38.7908325,-122.7285004,-0.76,0.78,md,8,202,0.009942,0.03,nc,nc73853391,2023-03-01T06:57:43.052Z,"3km ENE of The Geysers, CA",earthquake,0.59,2.51,0.39,10,automatic,nc,nc
+2023-03-01T06:51:07.790Z,38.8338318,-122.8168335,1.91,1.47,md,25,58,0.01168,0.02,nc,nc73853386,2023-03-01T06:52:43.959Z,"8km NW of The Geysers, CA",earthquake,0.18,0.4,0.13,26,automatic,nc,nc
+2023-03-01T06:51:01.850Z,38.8341675,-122.8183365,1.75,1.92,md,15,92,0.01254,0.01,nc,nc73853381,2023-03-01T06:52:38.871Z,"8km NW of The Geysers, CA",earthquake,0.3,0.7,0.39,18,automatic,nc,nc
+2023-03-01T06:47:08.540Z,33.6611667,-116.756,15.72,1.04,ml,25,69,0.06086,0.2,ci,ci40419776,2023-03-01T06:50:42.092Z,"9km SSW of Idyllwild, CA",earthquake,0.39,0.58,0.203,23,automatic,ci,ci
 2023-03-01T06:36:51.009Z,66.3691,-154.4993,0,2.6,ml,,,,0.98,ak,ak0232rc18z0,2023-03-01T06:39:47.683Z,"37 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-01T06:15:10.620Z,66.3767,-154.7377,0,2.8,ml,,,,1,ak,ak0232rbwnrx,2023-03-01T06:18:58.412Z,"42 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-01T06:04:47.060Z,19.4276,-65.3783,74,4.05,md,17,266,1.1242,0.36,pr,pr2023060002,2023-03-01T06:37:18.254Z,"120 km NNE of Vieques, Puerto Rico",earthquake,3.34,7.69,0.03,2,reviewed,pr,pr
@@ -225,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T07:21:17.230Z,37.5101662,-121.8063354,6.52,2.19,md,42,40,0.02635,0.08,nc,nc73852766,2023-02-28T09:55:13.181Z,"13km NE of Milpitas, CA",earthquake,0.17,0.51,0.13,39,automatic,nc,nc
 2023-02-28T07:17:08.100Z,38.8180008,-122.8258362,13.12,1.01,md,6,227,0.008813,0.07,nc,nc73852761,2023-02-28T09:41:17.101Z,"8km NW of The Geysers, CA",earthquake,2.62,8.77,0.21,10,automatic,nc,nc
 2023-02-28T06:59:25.660Z,38.8206673,-122.7634964,1.94,1.11,md,21,176,0.011,0.03,nc,nc73852756,2023-02-28T09:15:12.969Z,"4km W of Cobb, CA",earthquake,0.28,0.39,0.22,20,automatic,nc,nc
-2023-02-28T06:53:08.758Z,38.1812,-117.8338,11.5,1.8,ml,7,88.5,0.108,0.1125,nn,nn00856427,2023-02-28T18:04:25.491Z,"Nevada",earthquake,,1.7,0.47,4,reviewed,nn,nn
