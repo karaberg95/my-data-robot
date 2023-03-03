@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T06:29:35.076Z,63.2081,-150.9165,0,2.2,ml,,,,1.24,ak,ak0232szj283,2023-03-02T06:32:57.520Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-02T06:27:02.416Z,63.2815,-151.1221,5.2,2.8,ml,,,,0.57,ak,ak0232szik9u,2023-03-02T06:42:48.040Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-02T06:17:42.380Z,38.8078346,-122.7926636,1.88,0.75,md,17,72,0.002066,0.03,nc,nc73854266,2023-03-02T06:36:11.138Z,"5km NW of The Geysers, CA",earthquake,0.27,0.53,0.19,16,automatic,nc,nc
-2023-03-02T06:14:51.230Z,43.4055,147.2168,40.09,5.2,mb,91,116,3.299,0.81,us,us7000jgrs,2023-03-02T06:34:17.040Z,"59 km SE of Shikotan, Russia",earthquake,8.74,6.763,0.024,558,reviewed,us,us
-2023-03-02T06:05:22.840Z,19.33,-155.202,3.23,2.73,ml,39,82,,0.11,hv,hv73332377,2023-03-02T06:46:56.970Z,"12 km SSE of Volcano, Hawaii",earthquake,0.22,0.87,0.161256997406412,27,reviewed,hv,hv
