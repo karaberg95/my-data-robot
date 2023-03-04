@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-04T15:12:55.599Z,60.4477,-150.9954,35.3,2.2,ml,,,,0.57,ak,ak0232wfv22f,2023-03-04T15:15:03.266Z,"5 km SE of Soldotna, Alaska",earthquake,,12.1,,,automatic,ak,ak
+2023-03-04T15:11:15.000Z,18.0061666666667,-66.8278333333333,13.01,1.85,md,6,158,0.0579,0.1,pr,pr71398253,2023-03-04T15:24:52.140Z,"1 km NW of Indios, Puerto Rico",earthquake,0.65,0.74,0.0979145863242084,4,reviewed,pr,pr
 2023-03-04T14:47:16.608Z,58.1551,-155.3663,8,1.1,ml,,,,0.9,ak,ak0232wfgvvr,2023-03-04T14:50:31.283Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T14:28:56.058Z,58.1897,-136.8155,12.3,2.8,ml,,,,0.19,ak,ak0232wfd1yd,2023-03-04T14:31:16.497Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T14:18:39.310Z,19.0968341827393,-155.438995361328,27.9099998474121,1.75999999,md,34,185,,0.170000002,hv,hv73333242,2023-03-04T14:21:52.200Z,"Hawaii region, Hawaii",earthquake,0.67,1.12,0.949999988,11,automatic,hv,hv
@@ -177,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T19:14:37.730Z,38.8460007,-122.8154984,1.48,0.76,md,8,91,0.0106,0.01,nc,nc73855036,2023-03-03T21:27:15.599Z,"8km WNW of Cobb, CA",earthquake,0.36,0.8,0.21,9,automatic,nc,nc
 2023-03-03T19:12:58.810Z,38.8453331,-122.8144989,1.48,1.77,md,34,46,0.0116,0.03,nc,nc73855031,2023-03-03T20:59:18.427Z,"8km WNW of Cobb, CA",earthquake,0.16,0.26,0.12,35,automatic,nc,nc
 2023-03-03T19:04:24.640Z,38.8095016,-122.8013306,3.83,0.27,md,7,96,0.004952,0.02,nc,nc73855026,2023-03-03T20:30:16.246Z,"5km NW of The Geysers, CA",earthquake,0.82,1.77,0.03,7,automatic,nc,nc
-2023-03-03T19:00:26.555Z,-30.8617,-13.4478,10,5.6,mww,127,62,16.422,0.64,us,us7000jh5j,2023-03-03T21:03:02.980Z,"southern Mid-Atlantic Ridge",earthquake,10.55,1.851,0.098,10,reviewed,us,us
+2023-03-03T19:00:26.526Z,-30.8464,-13.4389,10,5.5,mww,176,62,16.405,0.63,us,us7000jh5j,2023-03-04T15:19:14.021Z,"southern Mid-Atlantic Ridge",earthquake,10.6,1.766,0.071,19,reviewed,us,us
 2023-03-03T18:59:08.910Z,19.2178333333333,-155.383,30.61,2.92,ml,43,155,,0.14,hv,hv73332897,2023-03-04T06:59:36.316Z,"10 km E of Pāhala, Hawaii",earthquake,0.44,0.58,0.190762533816196,24,reviewed,hv,hv
 2023-03-03T18:58:36.655Z,-23.5178,-69.2761,82.296,4.3,mb,16,117,0.853,0.96,us,us7000jh5i,2023-03-03T20:09:53.040Z,"115 km E of Antofagasta, Chile",earthquake,4.08,8.652,0.306,3,reviewed,us,us
 2023-03-03T18:51:13.260Z,17.9735,-66.8703333333333,12.44,2.51,md,11,194,0.008634,0.18,pr,pr71398103,2023-03-03T19:10:40.390Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.72,0.52,0.0460733863765239,5,reviewed,pr,pr
@@ -204,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T15:37:31.540Z,17.9495,-66.8391666666667,9.08,2.97,md,4,213,0.04585,0.07,pr,pr71398093,2023-03-03T17:01:50.430Z,"5 km SSW of Indios, Puerto Rico",earthquake,2.27,0.64,0.0275168118438756,4,reviewed,pr,pr
 2023-03-03T15:35:33.631Z,-17.7823,-176.7891,367.761,4.5,mb,40,69,2.787,0.83,us,us7000jh2z,2023-03-03T20:00:17.040Z,"Fiji region",earthquake,12.51,7.114,0.089,37,reviewed,us,us
 2023-03-03T15:27:31.200Z,38.831665,-122.8181686,1.74,0.69,md,13,53,0.0104,0.02,nc,nc73854996,2023-03-03T17:29:19.101Z,"8km NW of The Geysers, CA",earthquake,0.27,0.83,0.13,13,automatic,nc,nc
-2023-03-03T15:23:21.980Z,58.1735,-155.2975,2.08,0.36,ml,7,218,,0.08,av,av91781281,2023-03-04T00:03:00.480Z,"83 km NW of Karluk, Alaska",earthquake,0.72,0.5,0.33070333490965,7,reviewed,av,av
-2023-03-03T15:19:07.600Z,58.1758333333333,-155.2865,2.47,0.05,ml,5,206,,0.06,av,av91781276,2023-03-04T00:00:01.490Z,"Alaska Peninsula",earthquake,0.4,0.57,0.233377923493578,5,reviewed,av,av
