@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T00:01:06.932Z,60.4929,-152.9305,118.4,2.3,ml,,,,0.63,ak,ak0232w6v3va,2023-03-04T00:10:33.883Z,"83 km ENE of Port Alsworth, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-03-03T23:42:07.900Z,35.6875,-117.523,6.46,1.54,ml,18,98,0.1123,0.14,ci,ci40420568,2023-03-04T01:33:48.510Z,"14km SW of Searles Valley, CA",earthquake,0.28,0.92,0.129,19,reviewed,ci,ci
 2023-03-03T23:36:22.340Z,56.9208333333333,-158.080833333333,4.62,1.02,ml,4,254,,0.08,av,av91091858,2023-03-04T02:01:28.770Z,"33 km E of Port Heiden, Alaska",earthquake,1.08,0.71,0.199824721255012,3,reviewed,av,av
-2023-03-03T23:33:50.411Z,60.863,-149.1075,15.4,2.1,ml,,,,0.59,ak,ak0232ux7o1t,2023-03-03T23:44:37.441Z,"9 km SSE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-03T23:27:53.200Z,33.018,-116.3526667,9.49,2.1,ml,64,47,0.06705,0.23,ci,ci40420560,2023-03-04T01:54:43.330Z,"24km ESE of Julian, CA",earthquake,0.22,0.67,0.188,25,automatic,ci,ci
