@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T21:55:00.910Z,38.8255005,-122.7665024,2,1.11,md,16,123,0.005633,0.02,nc,nc73855466,2023-03-04T23:21:11.692Z,"4km W of Cobb, CA",earthquake,0.31,0.49,0.1,16,automatic,nc,nc
 2023-03-04T21:50:17.820Z,37.6409988,-118.9120026,5.18,0.77,md,8,200,0.01251,0.03,nc,nc73855461,2023-03-04T22:52:11.532Z,"6km E of Mammoth Lakes, CA",earthquake,1.4,2.31,0.17,8,automatic,nc,nc
 2023-03-04T21:45:32.582Z,64.6068,-148.0265,21,1.2,ml,,,,0.4,ak,ak0232wjmoju,2023-03-04T21:46:57.034Z,"25 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-04T21:36:31.950Z,33.4975,-116.7808333,4.81,0.31,ml,23,39,0.02204,0.16,ci,ci40421000,2023-03-05T17:21:16.523Z,"10km NE of Aguanga, CA",earthquake,0.22,0.4,0.041,3,reviewed,ci,ci
-2023-03-04T21:35:18.000Z,33.4966667,-116.7848333,4.17,0.72,ml,25,39,0.02033,0.18,ci,ci40420992,2023-03-04T21:38:48.903Z,"10km NE of Aguanga, CA",earthquake,0.25,0.48,0.113,17,automatic,ci,ci
