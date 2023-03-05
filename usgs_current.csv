@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-05T18:53:01.810Z,38.7910004,-122.7596664,2.33,0.71,md,9,113,0.009611,0.02,nc,nc73855766,2023-03-05T18:54:35.002Z,"2km N of The Geysers, CA",earthquake,0.64,0.91,0.15,9,automatic,nc,nc
+2023-03-05T18:59:48.283Z,61.6551,-149.788,12.6,1.2,ml,,,,0.78,ak,ak0232y5grgs,2023-03-05T19:01:43.492Z,"3 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-05T18:53:01.810Z,38.7910004,-122.7596664,2.33,0.71,md,9,113,0.009611,0.02,nc,nc73855766,2023-03-05T19:08:11.094Z,"2km N of The Geysers, CA",earthquake,0.64,0.91,0.15,9,automatic,nc,nc
 2023-03-05T18:50:01.742Z,63.4271,-150.3679,127.7,1.4,ml,,,,0.29,ak,ak0232y5eqfi,2023-03-05T18:53:00.364Z,"68 km E of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-03-05T18:43:34.047Z,63.8734,-148.8238,108.4,1.6,ml,,,,0.35,ak,ak0232y5daws,2023-03-05T18:45:43.525Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-05T18:43:08.240Z,46.31666564941406,-122.24833679199219,14.2399997711182,1.09000003,md,24,100,0.01758,0.129999995,uw,uw61900667,2023-03-05T18:46:42.620Z,"26 km S of Morton, Washington",earthquake,0.58,0.860000014,0.460000008,3,reviewed,uw,uw
+2023-03-05T18:43:08.280Z,46.31583333333333,-122.24916666666667,13.9,0.72,ml,23,76,0.01657,0.24,uw,uw61900667,2023-03-05T19:00:56.820Z,"27 km S of Morton, Washington",earthquake,0.44,0.57,0.11775712096872126,11,reviewed,uw,uw
 2023-03-05T18:41:45.504Z,59.3877,-152.6889,81.7,1.6,ml,,,,0.72,ak,ak0232y5cwd2,2023-03-05T18:44:19.824Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-05T18:40:10.684Z,61.0044,-152.2766,111.7,1.9,ml,,,,0.67,ak,ak0232y5clyt,2023-03-05T18:42:49.855Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-05T18:36:50.220Z,39.519165,-122.4670029,4.45,2.82,ml,7,170,0.297,0.35,nc,nc73855761,2023-03-05T18:44:13.941Z,"9km SE of Stony Gorge Reservoir, CA",earthquake,1.7,28.68,0.451,7,automatic,nc,nc
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T19:25:05.346Z,64.1583,-148.5473,4,1.4,ml,,,,0.6,ak,ak0232wibgx2,2023-03-04T19:26:42.197Z,"31 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-04T19:18:58.650Z,19.1816666666667,-66.5798333333333,47.83,3.36,md,11,293,0.7024,0.28,pr,pr71398283,2023-03-04T19:42:09.220Z,"79 km N of Arecibo, Puerto Rico",earthquake,1.85,5.51,0.142383674314408,6,reviewed,pr,pr
 2023-03-04T19:13:13.250Z,38.824501,-122.8088303,1.27,0.76,md,14,43,0.001471,0.02,nc,nc73855431,2023-03-04T20:38:10.796Z,"7km NW of The Geysers, CA",earthquake,0.23,0.65,0.13,14,automatic,nc,nc
-2023-03-04T18:59:57.900Z,38.8008347,-122.7720032,1.02,1.07,md,10,88,0.009606,0.03,nc,nc73855426,2023-03-04T20:10:14.622Z,"3km NNW of The Geysers, CA",earthquake,0.36,0.73,0.09,11,automatic,nc,nc
