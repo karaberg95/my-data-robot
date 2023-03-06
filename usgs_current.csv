@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-06T23:16:38.880Z,35.7874985,-121.4328308,-0.1,1.78,md,19,204,0.2502,0.33,nc,nc73856246,2023-03-06T23:27:11.413Z,"27km NW of San Simeon, CA",earthquake,1.35,10.11,0.06,8,automatic,nc,nc
+2023-03-06T23:16:38.880Z,35.7874985,-121.4328308,-0.1,1.78,md,19,204,0.2502,0.33,nc,nc73856246,2023-03-06T23:33:13.445Z,"27km NW of San Simeon, CA",earthquake,1.35,10.11,0.06,8,automatic,nc,nc
 2023-03-06T23:06:09.167Z,34.52496338,-97.65641785,2.992956877,2.04,ml,14,55.35821533,0.1639744192,0.9235523169,ok,ok2023eorx,2023-03-06T23:09:38.576Z,"Oklahoma",earthquake,3.086538419,1.94625502,,9,automatic,ok,ok
 2023-03-06T22:49:31.232Z,62.8992,-148.8167,17.5,1.7,ml,,,,0.88,ak,ak0232zvbnwj,2023-03-06T22:51:19.519Z,"55 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-06T22:45:51.610Z,33.528,-116.7271667,4.85,0.66,ml,22,50,0.03825,0.09,ci,ci40421576,2023-03-06T22:49:23.170Z,"6km WSW of Anza, CA",earthquake,0.18,0.37,0.089,16,automatic,ci,ci
