@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T12:00:51.500Z,33.4925,-116.784,3.94,1,ml,40,36,0.02407,0.17,ci,ci40421472,2023-03-06T12:04:26.088Z,"9km NE of Aguanga, CA",earthquake,0.19,0.47,0.141,26,automatic,ci,ci
 2023-03-06T11:43:36.034Z,65.3552,-145.0456,0.8,1.8,ml,,,,1.13,ak,ak0232zoqmbn,2023-03-06T11:46:27.625Z,"26 km SSW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-06T11:41:53.424Z,63.1391,-149.217,66.9,1.4,ml,,,,0.51,ak,ak0232zoq88e,2023-03-06T11:43:46.477Z,"31 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-06T11:39:54.600Z,38.7878342,-122.767334,2.09,1.32,md,21,79,0.01409,0.03,nc,nc73856091,2023-03-06T13:35:11.942Z,"2km NW of The Geysers, CA",earthquake,0.24,0.53,0.11,22,automatic,nc,nc
+2023-03-06T11:39:54.600Z,38.7878342,-122.767334,2.09,1.32,md,21,79,0.01409,0.03,nc,nc73856091,2023-03-06T13:43:13.868Z,"2km NW of The Geysers, CA",earthquake,0.24,0.53,0.11,22,automatic,nc,nc
 2023-03-06T11:26:54.349Z,63.8895,-153.3622,1,2.5,ml,,,,0.58,ak,ak0232zon0ka,2023-03-06T12:25:52.040Z,"51 km W of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-06T11:18:29.670Z,38.8503342,-122.8485031,1.05,0.6,md,11,115,0.01552,0.01,nc,nc73856086,2023-03-06T13:13:15.688Z,"11km WNW of Cobb, CA",earthquake,0.32,0.86,0.33,11,automatic,nc,nc
 2023-03-06T11:12:45.550Z,19.4459991455078,-155.23616027832,27.7999992370605,2.41,ml,43,70,,0.129999995,hv,hv73334482,2023-03-06T11:18:14.410Z,"0 km NNW of Volcano, Hawaii",earthquake,0.54,0.400000006,0.44,4,automatic,hv,hv
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T14:02:48.020Z,38.8458328,-122.8133316,1.99,0.97,md,20,52,0.01178,0.06,nc,nc73855681,2023-03-05T16:50:13.262Z,"8km WNW of Cobb, CA",earthquake,0.23,0.52,0.11,21,automatic,nc,nc
 2023-03-05T13:59:05.610Z,51.8686666666667,-178.158333333333,9.27,1.24,ml,6,138,,0.16,av,av91784786,2023-03-05T20:42:43.800Z,"104 km W of Adak, Alaska",earthquake,0.79,0.34,0.166909285215511,6,reviewed,av,av
 2023-03-05T13:56:23.178Z,63.1053,-149.8414,95.9,1.7,ml,,,,0.71,ak,ak0232y2gwct,2023-03-05T13:59:06.417Z,"54 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-03-05T13:48:39.200Z,19.1784992218018,-155.483993530273,35.6699981689453,1.88,md,36,150,,0.150000006,hv,hv73333832,2023-03-05T13:51:52.790Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.72,1.11000001,1.72000003,7,automatic,hv,hv
-2023-03-05T13:42:16.939Z,62.7168,-148.9785,62.7,1.3,ml,,,,0.33,ak,ak0232y2dvul,2023-03-05T13:43:38.159Z,"64 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
