@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T22:18:24.990Z,33.893,-117.4876667,2.17,1.07,ml,17,85,0.08331,0.17,ci,ci40421912,2023-03-07T22:50:43.448Z,"4km ENE of Home Gardens, CA",earthquake,0.34,0.6,0.164,24,automatic,ci,ci
 2023-03-07T22:09:26.880Z,38.8271675,-122.8031693,1.65,1.41,md,28,36,0.006579,0.02,nc,nc73854050,2023-03-07T22:49:14.712Z,"7km NW of The Geysers, CA",earthquake,0.17,0.31,0.18,28,automatic,nc,nc
 2023-03-07T22:00:04.798Z,40.2477,-119.7944,11.3,0.6,ml,3,279.68,0.091,0.0738,nn,nn00856655,2023-03-07T23:24:11.540Z,"31 km ENE of Herlong, California",earthquake,,5.6,0.24,2,reviewed,nn,nn
+2023-03-07T21:50:38.300Z,37.0015,-119.817,-0.39,2.6,mh,12,131,0.08798,0.18,nc,nc73854040,2023-03-07T23:56:33.673Z,"5km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.92,31.61,,0,reviewed,nc,nc
 2023-03-07T21:50:07.026Z,60.969,-146.9993,12.4,1.6,ml,,,,0.73,ak,ak02331i9qn2,2023-03-07T21:53:01.916Z,"20 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T21:45:06.877Z,58.6493,-154.0737,96.9,2.2,ml,,,,0.55,ak,ak02331i8o3d,2023-03-07T21:47:42.460Z,"94 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-07T21:40:06.570Z,41.084,-111.6311667,9.35,1.22,md,12,65,0.04592,0.09,uu,uu60532816,2023-03-07T23:47:48.520Z,"6 km NE of Morgan, Utah",earthquake,0.28,0.61,0.311,7,reviewed,uu,uu
@@ -28,14 +29,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T21:01:18.160Z,41.08,-111.6316667,9.65,2.68,ml,39,57,0.04246,0.15,uu,uu60532806,2023-03-07T22:59:40.040Z,"6 km NE of Morgan, Utah",earthquake,0.23,0.36,0.063,9,reviewed,uu,uu
 2023-03-07T20:55:24.340Z,17.9693333333333,-66.8583333333333,17.94,2.19,md,9,198,0.02071,0.09,pr,pr71398773,2023-03-07T21:04:17.510Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.61,0.59,0.0613020713940684,5,reviewed,pr,pr
 2023-03-07T20:46:05.971Z,-5.468,151.7778,78.223,5.3,mww,152,37,1.325,0.92,us,us7000jhz7,2023-03-07T21:04:01.040Z,"New Britain region, Papua New Guinea",earthquake,6.63,5.683,0.078,16,reviewed,us,us
-2023-03-07T20:39:20.550Z,37.379,-122.232,7.01,1.58,md,24,60,0.02525,0.07,nc,nc73856551,2023-03-07T23:16:10.910Z,"1km SSE of Portola Valley, CA",earthquake,0.21,0.27,0.2,21,reviewed,nc,nc
+2023-03-07T20:39:20.550Z,37.379,-122.232,7.01,1.58,md,24,60,0.02525,0.07,nc,nc73856551,2023-03-07T23:52:14.136Z,"1km SSE of Portola Valley, CA",earthquake,0.21,0.27,0.2,21,reviewed,nc,nc
 2023-03-07T20:31:30.698Z,-0.2591,124.5734,54.917,5.4,mww,82,35,1.962,1.21,us,us7000jhz2,2023-03-07T22:34:44.090Z,"Molucca Sea",earthquake,5.95,6.569,0.071,19,reviewed,us,us
 2023-03-07T20:27:16.580Z,33.881,-116.8605,15.04,0.77,ml,17,150,0.07068,0.07,ci,ci40421864,2023-03-07T20:39:57.290Z,"5km SSE of Banning, CA",earthquake,0.21,0.52,0.198,15,reviewed,ci,ci
 2023-03-07T20:16:15.720Z,37.9873352,-122.4488297,1.52,1.55,md,9,86,0.02511,0.05,nc,nc73856541,2023-03-07T21:11:18.133Z,"7km E of Santa Venetia, CA",earthquake,0.42,0.52,0.12,7,automatic,nc,nc
 2023-03-07T20:11:59.394Z,60.1157,-153.2585,0,2.2,ml,,,,0.91,ak,ak02331hg5b8,2023-03-07T20:14:46.986Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-07T20:05:13.383Z,61.7867,-151.1726,67.2,2.2,ml,,,,0.73,ak,ak02331heoay,2023-03-07T20:07:05.098Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-07T20:01:02.440Z,34.2003333,-117.3865,12.97,0.94,ml,25,83,0.017,0.11,ci,ci40421856,2023-03-07T20:13:34.962Z,"3km SSE of Devore, CA",earthquake,0.26,0.36,0.116,16,reviewed,ci,ci
-2023-03-07T19:55:42.200Z,38.8273315,-122.8026657,1.66,1.21,md,20,48,0.006995,0.01,nc,nc73856536,2023-03-07T23:45:11.223Z,"7km NW of The Geysers, CA",earthquake,0.22,0.38,0.19,24,automatic,nc,nc
+2023-03-07T19:55:42.200Z,38.8273315,-122.8026657,1.66,1.21,md,20,48,0.006995,0.01,nc,nc73856536,2023-03-07T23:52:15.136Z,"7km NW of The Geysers, CA",earthquake,0.22,0.38,0.19,24,automatic,nc,nc
 2023-03-07T19:43:01.520Z,38.8704987,-122.8413315,10.14,0.29,md,9,215,0.02115,0.06,nc,nc73856531,2023-03-07T20:07:10.750Z,"12km WNW of Cobb, CA",earthquake,2.13,6.7,0.17,9,automatic,nc,nc
 2023-03-07T19:37:25.909Z,61.3172,-150.8533,35.4,2.4,ml,,,,0.38,ak,ak02331h04ku,2023-03-07T22:27:46.040Z,"23 km NNE of Beluga, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-03-07T19:19:18.809Z,64.8562,-151.2443,20,1.6,ml,,,,0.69,ak,ak02331gw954,2023-03-07T19:21:02.692Z,"33 km WSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,6 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T04:07:48.259Z,63.916,-145.5517,16.3,0.9,ml,,,,0.69,ak,ak023317w8s5,2023-03-07T04:10:29.757Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T04:07:30.740Z,38.8198318,-122.7904968,1.71,0.78,md,10,78,0.01009,0.01,nc,nc73856306,2023-03-07T05:17:14.442Z,"6km NNW of The Geysers, CA",earthquake,0.4,1.09,0.23,10,automatic,nc,nc
 2023-03-07T03:59:39.926Z,5.3787,-77.5349,8.564,5,mb,75,95,2.153,0.96,us,us7000jhss,2023-03-07T05:03:20.040Z,"47 km SW of Nuquí, Colombia",earthquake,6.34,4.879,0.037,230,reviewed,us,us
+2023-03-07T03:52:03.253Z,37.1234,-117.3483,7.7,0.4,ml,7,108.45,0.128,0.1428,nn,nn00856657,2023-03-07T23:55:05.273Z,"57 km WNW of Beatty, Nevada",earthquake,,8.2,0.86,5,reviewed,nn,nn
 2023-03-07T03:36:32.040Z,17.907,-66.8718333333333,15.09,2.34,md,6,232,0.06805,0.08,pr,pr71398623,2023-03-07T03:47:57.160Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.8,0.64,0.100517867540897,4,reviewed,pr,pr
 2023-03-07T03:23:18.385Z,31.68266496,-104.4848843,4.203466797,1.9,ml,17,55,0.0195422531,0.1,tx,tx2023epal,2023-03-07T19:36:57.768Z,"55 km S of Whites City, New Mexico",earthquake,0.9845066165000002,1.042608467,0.1,16,reviewed,tx,tx
 2023-03-07T03:22:18.736Z,61.113,-150.2709,49.2,2,ml,,,,0.54,ak,ak023317dtty,2023-03-07T03:24:33.490Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
