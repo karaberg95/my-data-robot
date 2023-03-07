@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-07T03:36:32.040Z,17.907,-66.8718333333333,15.09,2.34,md,6,232,0.06805,0.08,pr,pr71398623,2023-03-07T03:47:57.160Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.8,0.64,0.100517867540897,4,reviewed,pr,pr
 2023-03-07T03:22:18.736Z,61.113,-150.2709,49.2,2,ml,,,,0.54,ak,ak023317dtty,2023-03-07T03:24:33.490Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-07T03:02:11.010Z,19.1208324432373,-155.489166259766,35.2000007629395,1.87,md,28,167,,0.129999995,hv,hv73334867,2023-03-07T03:09:25.130Z,"Island of Hawaii, Hawaii",earthquake,1.08,1.40999997,0.800000012,3,automatic,hv,hv
 2023-03-07T02:56:07.630Z,36.7613335,-121.4323349,7.43,1.25,md,7,147,0.01225,0.01,nc,nc73856301,2023-03-07T03:23:16.839Z,"8km SW of Ridgemark, CA",earthquake,0.72,0.89,0.24,6,automatic,nc,nc
