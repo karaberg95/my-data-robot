@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-08T02:41:20.010Z,34.0501671,-116.3528366,6.58,1.82,ml,61,41,0.03623,0.16,ci,ci40421968,2023-03-08T02:43:25.782Z,"10km SSW of Joshua Tree, CA",earthquake,0.21,0.57,0.24,25,automatic,ci,ci
-2023-03-08T02:31:16.350Z,37.4339981,-118.5605011,11.46,1.6,md,7,90,0.08072,0.03,nc,nc73854120,2023-03-08T02:39:10.285Z,"4km ENE of Round Valley, CA",earthquake,0.85,2.21,0.1,6,automatic,nc,nc
+2023-03-08T03:02:48.636Z,63.4078,-151.3512,0,1.7,ml,,,,0.73,ak,ak02332ut333,2023-03-08T03:04:52.362Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-08T02:57:01.500Z,34.048,-116.3478333,7.56,1.85,ml,51,40,0.04091,0.16,ci,ci40421984,2023-03-08T03:08:00.790Z,"10km SSW of Joshua Tree, CA",earthquake,0.19,0.6,0.124,27,automatic,ci,ci
+2023-03-08T02:55:40.030Z,35.6638333,-117.4985,8.9,1.48,ml,20,104,0.08264,0.16,ci,ci40421976,2023-03-08T03:06:01.270Z,"14km SW of Searles Valley, CA",earthquake,0.32,0.73,0.176,20,automatic,ci,ci
+2023-03-08T02:41:20.020Z,34.0481667,-116.3505,6.57,1.77,ml,48,41,0.03894,0.18,ci,ci40421968,2023-03-08T02:52:44.256Z,"10km SSW of Joshua Tree, CA",earthquake,0.21,0.56,0.116,26,automatic,ci,ci
+2023-03-08T02:31:16.350Z,37.4339981,-118.5605011,11.46,1.6,md,7,90,0.08072,0.03,nc,nc73854120,2023-03-08T02:52:14.347Z,"4km ENE of Round Valley, CA",earthquake,0.85,2.21,0.1,6,automatic,nc,nc
 2023-03-08T02:30:00.100Z,19.265832901001,-155.469497680664,30.25,1.74000001,md,20,90,,0.0799999982,hv,hv73335437,2023-03-08T02:33:44.130Z,"Hawaii region, Hawaii",earthquake,0.62,0.819999993,1.41999996,7,automatic,hv,hv
 2023-03-08T02:27:12.131Z,63.1009,-151.4467,5.7,1.6,ml,,,,0.6,ak,ak02332ucxkd,2023-03-08T02:29:16.248Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-08T02:24:19.370Z,38.8339996,-122.8156662,1.16,0.78,md,14,57,0.01145,0.02,nc,nc73854115,2023-03-08T02:41:20.295Z,"8km W of Cobb, CA",earthquake,0.28,0.65,0.2,15,automatic,nc,nc
@@ -107,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T14:58:07.120Z,61.3168,-151.2977,13.2,1.7,ml,,,,0.25,ak,ak02331e5f54,2023-03-07T14:59:41.321Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-07T14:37:11.602Z,37.1734,71.901,152.982,4,mb,37,105,2.302,0.53,us,us7000jhwh,2023-03-07T15:18:42.040Z,"44 km WNW of Khandūd, Afghanistan",earthquake,6.64,8.535,0.149,12,reviewed,us,us
 2023-03-07T14:34:15.460Z,33.0171667,-116.3443333,10.68,1.47,ml,56,35,0.07126,0.19,ci,ci40421752,2023-03-07T18:08:47.740Z,"24km SW of Ocotillo Wells, CA",earthquake,0.17,0.36,0.164,25,reviewed,ci,ci
-2023-03-07T14:33:12.440Z,36.5941667,-121.2011667,9.29,3.8,ml,67,54,0.02576,0.08,nc,nc73856426,2023-03-08T02:31:00.027Z,"9km NW of Pinnacles, CA",earthquake,0.14,0.25,0.142,159,reviewed,nc,nc
+2023-03-07T14:33:12.440Z,36.5941667,-121.2011667,9.29,3.8,ml,67,54,0.02576,0.08,nc,nc73856426,2023-03-08T02:46:04.317Z,"9km NW of Pinnacles, CA",earthquake,0.14,0.25,0.142,159,reviewed,nc,nc
 2023-03-07T14:32:53.882Z,62.1879,-149.827,3.7,1.6,ml,,,,0.65,ak,ak02331dzy4s,2023-03-07T14:34:57.382Z,"3 km NNE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-07T14:28:07.470Z,33.0196667,-116.3465,10.34,1.07,ml,36,88,0.07199,0.19,ci,ci40421736,2023-03-07T17:46:10.823Z,"24km SW of Ocotillo Wells, CA",earthquake,0.24,0.43,0.191,10,reviewed,ci,ci
 2023-03-07T14:19:23.938Z,57.58,-155.2187,32.7,1.9,ml,,,,0.91,ak,ak02331dx3ih,2023-03-07T14:21:05.067Z,"45 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -184,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T08:19:20.509Z,55.323,-159.3925,25,2.2,ml,,,,0.56,ak,ak02331aca35,2023-03-07T18:57:26.430Z,"64 km S of Ivanof Bay, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-03-07T08:19:00.290Z,38.8338318,-122.819664,1.73,1.51,md,12,61,0.01283,0.04,nc,nc73856351,2023-03-07T09:41:17.977Z,"8km NW of The Geysers, CA",earthquake,0.34,0.74,0.29,4,automatic,nc,nc
 2023-03-07T08:16:28.304Z,37.1828,-116.1856,1.9,-0.2,ml,5,152.4,0.039,0.1434,nn,nn00856663,2023-03-08T00:57:02.335Z,"59 km ENE of Beatty, Nevada",earthquake,,14.1,0.62,5,reviewed,nn,nn
-2023-03-07T08:09:15.000Z,40.875,-121.8375,13.54,2.13,md,23,62,0.1632,0.08,nc,nc73856346,2023-03-08T02:20:11.312Z,"8km ENE of Montgomery Creek, CA",earthquake,0.24,0.84,0.111,27,reviewed,nc,nc
+2023-03-07T08:09:15.000Z,40.875,-121.8375,13.54,2.13,md,23,62,0.1632,0.08,nc,nc73856346,2023-03-08T02:52:15.348Z,"8km ENE of Montgomery Creek, CA",earthquake,0.24,0.84,0.111,27,reviewed,nc,nc
 2023-03-07T08:09:03.309Z,37.1477,-116.7456,0,0.8,ml,11,299.14,0.02,0.124,nn,nn00856662,2023-03-08T00:47:41.067Z,"26 km N of Beatty, Nevada",earthquake,,0,1.46,7,reviewed,nn,nn
 2023-03-07T08:08:32.363Z,63.568,-150.8458,0,1.9,ml,,,,0.75,ak,ak02331aa5no,2023-03-07T08:10:24.965Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T08:03:34.772Z,36.9924,-116.1987,3.9,-0.2,ml,7,151.47,0.019,0.1706,nn,nn00856661,2023-03-08T00:38:23.558Z,"50 km E of Beatty, Nevada",earthquake,,1.8,1.13,3,reviewed,nn,nn
@@ -239,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T03:23:18.385Z,31.68266496,-104.4848843,4.203466797,1.9,ml,17,55,0.0195422531,0.1,tx,tx2023epal,2023-03-07T19:36:57.768Z,"55 km S of Whites City, New Mexico",earthquake,0.9845066165000002,1.042608467,0.1,16,reviewed,tx,tx
 2023-03-07T03:22:18.736Z,61.113,-150.2709,49.2,2,ml,,,,0.54,ak,ak023317dtty,2023-03-07T03:24:33.490Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-07T03:22:13.581Z,40.3644,-119.6213,11.2,0.7,ml,3,331.57,0.212,0.0958,nn,nn00856646,2023-03-07T22:06:51.281Z,"33 km SW of Empire, Nevada",earthquake,,9.5,0.36,2,reviewed,nn,nn
-2023-03-07T03:02:11.010Z,19.1208324432373,-155.489166259766,35.2000007629395,1.87,md,28,167,,0.129999995,hv,hv73334867,2023-03-07T03:09:25.130Z,"Island of Hawaii, Hawaii",earthquake,1.08,1.40999997,0.800000012,3,automatic,hv,hv
-2023-03-07T02:56:07.630Z,36.7613335,-121.4323349,7.43,1.25,md,7,147,0.01225,0.01,nc,nc73856301,2023-03-07T04:51:12.304Z,"8km SW of Ridgemark, CA",earthquake,0.72,0.89,0.24,6,automatic,nc,nc
