@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T22:58:57.160Z,58.2522,-155.1559,0,2.4,ml,,,,0.24,ak,ak02334tzotw,2023-03-10T03:53:37.040Z,"Alaska Peninsula",earthquake,,14.8,,,automatic,ak,ak
 2023-03-09T22:58:29.425Z,36.70997238,-98.3994751,3.871026278,2.05,ml,25,134.9144287,0.2115664929,0.4691796579,ok,ok2023eued,2023-03-09T23:02:11.691Z,"3 km NE of Lambert, Oklahoma",earthquake,2.96488923,2.060148086,,19,automatic,ok,ok
 2023-03-09T22:57:47.701Z,51.8671,-178.1286,10.833,3.3,ml,18,105,0.048,0.44,us,us7000jinz,2023-03-10T03:47:14.040Z,"102 km W of Adak, Alaska",earthquake,1.72,0.874,0.097,14,reviewed,us,us
-2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
+2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"100 km W of Adak, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
 2023-03-09T22:56:50.920Z,51.8536666666667,-177.963666666667,-1.8,1.09,ml,4,129,,0.2,av,av91793901,2023-03-10T04:07:56.330Z,"91 km W of Adak, Alaska",earthquake,0.44,1.54,0.0904314540105216,4,reviewed,av,av
 2023-03-09T22:55:30.320Z,51.8605,-178.098166666667,3.2,1.61,ml,5,215,,0.11,av,av91793886,2023-03-10T04:00:40.840Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.49,0.19446187241184,5,reviewed,av,av
 2023-03-09T22:55:06.220Z,51.8716666666667,-178.114,1.79,1.12,ml,4,222,,0.19,av,av91092983,2023-03-10T04:02:23.300Z,"101 km W of Adak, Alaska",earthquake,0.84,3.15,0.190009148121648,4,reviewed,av,av
@@ -416,5 +416,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T09:04:39.625Z,60.18,-142.1668,0,1.3,ml,,,,1.03,ak,ak02334lxfy2,2023-03-09T09:06:40.059Z,"145 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-09T09:00:55.030Z,33.6893333,-116.8046667,16.34,1.47,ml,79,22,0.06926,0.17,ci,ci40182103,2023-03-09T16:21:52.770Z,"10km SW of Idyllwild, CA",earthquake,0.13,0.27,0.205,48,reviewed,ci,ci
 2023-03-09T08:59:09.457Z,62.9466,-148.2919,13.3,1.1,ml,,,,0.53,ak,ak02334lnqe9,2023-03-09T09:00:43.638Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-09T08:44:32.838Z,56.1899,-157.7254,39.9,2,ml,,,,0.34,ak,ak02334lkkgj,2023-03-09T08:46:15.152Z,"43 km ESE of Chignik, Alaska",earthquake,,9.1,,,automatic,ak,ak
-2023-03-09T08:42:14.841Z,57.6791,-156.5022,125.5,1.9,ml,,,,0.41,ak,ak02334lk3n0,2023-03-09T08:45:17.037Z,"56 km ENE of Ugashik, Alaska",earthquake,,2.1,,,automatic,ak,ak
