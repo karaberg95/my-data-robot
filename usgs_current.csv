@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T11:56:41.030Z,38.8255005,-122.8054962,1.52,0.78,md,8,103,0.004148,0.02,nc,nc73856180,2023-03-13T11:58:14.518Z,"7km NW of The Geysers, CA",earthquake,0.42,0.84,0.24,9,automatic,nc,nc
+2023-03-13T11:54:35.250Z,19.1270008087158,-155.360000610352,31.2000007629395,1.99000001,md,35,190,,0.129999995,hv,hv73338557,2023-03-13T11:57:47.500Z,"15 km SE of Pāhala, Hawaii",earthquake,0.73,0.980000019,1.61000001,10,automatic,hv,hv
 2023-03-13T11:42:51.970Z,34.6428333,-119.5141667,1.91,2.24,ml,47,33,0.132,0.26,ci,ci40184127,2023-03-13T11:46:35.331Z,"25km NNE of Montecito, CA",earthquake,0.28,0.97,0.155,25,automatic,ci,ci
 2023-03-13T11:21:18.530Z,37.5890007,-118.8468323,3.36,1.18,md,9,209,0.01412,0.02,nc,nc73856160,2023-03-13T11:47:16.778Z,"13km ESE of Mammoth Lakes, CA",earthquake,1.02,1.46,0.06,9,automatic,nc,nc
 2023-03-13T11:17:26.177Z,56.3766,-156.6651,16.7,2.8,ml,,,,0.29,ak,ak0233b9cgeh,2023-03-13T11:19:34.083Z,"107 km E of Chignik, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -243,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T12:19:57.550Z,40.5859985,-123.9998322,17.99,2.05,md,9,135,0.2099,0.05,nc,nc73855755,2023-03-12T14:19:15.909Z,"9km ENE of Hydesville, CA",earthquake,0.67,1.71,0.19,4,automatic,nc,nc
 2023-03-12T12:09:24.040Z,51.8518333333333,-178.150333333333,5.5,2.63,ml,9,114,,0.18,av,av91801081,2023-03-12T14:41:21.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.58,0.78,0.310172218747814,10,reviewed,av,av
 2023-03-12T12:07:07.760Z,33.5011667,-116.5573333,14.74,0.63,ml,20,79,0.03804,0.26,ci,ci40183623,2023-03-12T12:10:38.887Z,"12km ESE of Anza, CA",earthquake,0.48,0.73,0.113,15,automatic,ci,ci
-2023-03-12T11:57:23.230Z,33.532,-116.7273333,4.35,0.36,ml,17,73,0.03434,0.11,ci,ci40183615,2023-03-12T14:13:29.850Z,"6km WSW of Anza, CA",earthquake,0.25,0.38,0.109,8,reviewed,ci,ci
-2023-03-12T11:56:24.750Z,38.751667,-122.713501,1.18,0.96,md,7,135,0.01331,0.02,nc,nc73855745,2023-03-12T14:04:13.803Z,"3km SW of Anderson Springs, CA",earthquake,0.47,0.44,0.26,6,automatic,nc,nc
-2023-03-12T11:53:44.298Z,63.6743,-149.8822,135.2,2,ml,,,,0.3,ak,ak02339m0vgi,2023-03-12T11:55:24.820Z,"48 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-12T11:52:32.888Z,51.411,-178.2658,15.4,3.7,ml,,,,0.68,ak,ak02339m0mgk,2023-03-12T19:26:46.551Z,"124 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
