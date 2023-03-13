@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-13T06:36:48.080Z,38.8208351,-122.7633362,2.08,1.26,md,25,119,0.01091,0.02,nc,nc73856105,2023-03-13T06:38:23.832Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.2,26,automatic,nc,nc
+2023-03-13T06:36:48.080Z,38.8208351,-122.7633362,2.08,1.26,md,25,119,0.01091,0.02,nc,nc73856105,2023-03-13T06:53:21.934Z,"4km W of Cobb, CA",earthquake,0.22,0.36,0.2,26,automatic,nc,nc
 2023-03-13T06:19:05.807Z,31.60810884,-103.9720247,8.419580078,3.1,ml,14,66,0.003757351386,0.1,tx,tx2023fafg,2023-03-13T06:35:16.040Z,"36 km NNW of Toyah, Texas",earthquake,0.6200168714,0.5612817546,0.1,8,reviewed,tx,tx
 2023-03-13T06:11:33.820Z,-17.4346,-178.7572,550.523,5,mb,60,66,3.058,0.58,us,us7000jjh3,2023-03-13T06:30:44.040Z,"215 km ENE of Levuka, Fiji",earthquake,12.11,8.965,0.082,47,reviewed,us,us
 2023-03-13T06:02:03.558Z,59.2155,-153.7107,88.4,1.8,ml,,,,0.41,ak,ak0233b6a0w3,2023-03-13T06:04:02.806Z,"58 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -42,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T01:39:07.520Z,33.3643333,-116.9451667,14.57,0.84,ml,22,81,0.07658,0.22,ci,ci40184015,2023-03-13T01:42:39.124Z,"8km W of Palomar Observatory, CA",earthquake,0.39,0.9,0.221,20,automatic,ci,ci
 2023-03-13T01:37:15.297Z,-44.1078,177.0989,10,4.7,mb,37,92,3.102,0.34,us,us7000jjfv,2023-03-13T01:56:12.040Z,"off the east coast of the South Island of New Zealand",earthquake,8.02,1.945,0.13,18,reviewed,us,us
 2023-03-13T01:34:29.897Z,38.1305,38.6864,0,4.7,mb,80,44,0.697,0.98,us,us7000jjft,2023-03-13T03:44:18.834Z,"eastern Turkey",earthquake,3.7,4.235,0.058,91,reviewed,us,us
+2023-03-13T01:26:10.104Z,31.69598953,-104.1277543,6.594311523,2.2,ml,15,54,0.05678338426,0.1,tx,tx2023ezvp,2023-03-13T06:45:24.257Z,"50 km W of Mentone, Texas",earthquake,0.7408121177,1.283753196,0.2,20,reviewed,tx,tx
 2023-03-13T01:11:35.575Z,12.3796,-90.1462,10,4.3,mb,29,213,1.438,0.64,us,us7000jjfn,2023-03-13T01:24:26.040Z,"138 km SSW of Acajutla, El Salvador",earthquake,6.02,1.998,0.133,16,reviewed,us,us
 2023-03-13T01:08:11.051Z,61.3019,-146.822,17.4,2.4,ml,,,,0.55,ak,ak0233b3c5qp,2023-03-13T01:10:08.248Z,"31 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-13T01:00:49.190Z,18.7371666666667,-66.8131666666667,20.47,3.02,md,9,276,0.3925,0.32,pr,pr71399283,2023-03-13T02:18:19.604Z,"27 km N of Hatillo, Puerto Rico",earthquake,1.82,23.69,0.0471612088556339,8,reviewed,pr,pr
