@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-14T14:42:40.820Z,32.3055,-115.3358333,14.79,2.51,ml,19,76,0.1166,0.32,ci,ci40184711,2023-03-14T14:46:26.865Z,"14km WSW of Delta, B.C., MX",earthquake,0.76,1.81,0.21,27,automatic,ci,ci
+2023-03-14T14:51:42.600Z,37.5105019,-117.9851685,0.01,2.83,ml,19,114,0.3622,0.21,nc,nc73856750,2023-03-14T14:59:25.884Z,"15km N of Deep Springs, CA",earthquake,0.47,15.44,0.2,10,automatic,nc,nc
+2023-03-14T14:42:40.820Z,32.3055,-115.3358333,14.79,2.51,ml,19,76,0.1166,0.32,ci,ci40184711,2023-03-14T14:53:36.960Z,"14km WSW of Delta, B.C., MX",earthquake,0.76,1.81,0.21,27,automatic,ci,ci
 2023-03-14T14:41:49.553Z,37.4588,-117.8528,6.8,1.1,ml,11,211.8,0.279,0.3105,nn,nn00856986,2023-03-14T14:43:20.053Z,"29 km SE of Dyer, Nevada",earthquake,,0.9,0.99,6,automatic,nn,nn
 2023-03-14T14:39:26.235Z,37.5214,-117.9662,6.7,2.9,ml,26,94.37,0.385,0.3212,nn,nn00856985,2023-03-14T14:42:43.068Z,"18 km SSE of Dyer, Nevada",earthquake,,0.6,0.89,17,automatic,nn,nn
-2023-03-14T14:14:14.140Z,38.8069992,-122.7695007,1.08,1.6,md,22,83,0.00995,0.03,nc,nc73856725,2023-03-14T14:51:10.705Z,"4km NNW of The Geysers, CA",earthquake,0.19,0.37,0.16,22,automatic,nc,nc
+2023-03-14T14:14:14.140Z,38.8069992,-122.7695007,1.08,1.6,md,22,83,0.00995,0.03,nc,nc73856725,2023-03-14T14:59:26.217Z,"4km NNW of The Geysers, CA",earthquake,0.19,0.37,0.16,22,automatic,nc,nc
 2023-03-14T14:11:29.570Z,17.9775,-66.9855,38.57,2.7,md,11,171,0.05647,0.16,pr,pr71399588,2023-03-14T14:44:27.540Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.56,0.86,0.0442624322786798,5,reviewed,pr,pr
 2023-03-14T14:03:00.521Z,63.1499,-148.7914,75.2,1.4,ml,,,,0.23,ak,ak0233cyl1pg,2023-03-14T14:04:23.374Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T14:01:47.720Z,33.8425,-117.1966667,23.91,1.07,ml,18,84,0.1895,0.35,ci,ci40184695,2023-03-14T14:05:27.587Z,"6km NW of Nuevo, CA",earthquake,1.12,1.96,0.229,27,automatic,ci,ci
@@ -374,9 +375,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T15:11:58.437Z,61.7906,-149.5771,13.7,1.4,ml,,,,0.38,ak,ak0233bboz0j,2023-03-13T15:13:35.616Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-13T15:10:27.220Z,51.861,-177.942166666667,5.82,0.46,ml,4,155,,0.05,av,av91093913,2023-03-13T15:30:15.180Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1,0.417543982171874,4,reviewed,av,av
 2023-03-13T15:10:27.170Z,51.8605,-177.945333333333,6.15,0.46,ml,4,151,,0.06,av,av91803276,2023-03-13T15:33:12.260Z,"90 km W of Adak, Alaska",earthquake,0.44,0.99,0.417543982171874,4,reviewed,av,av
-2023-03-13T15:07:28.650Z,44.6391667,-111.0508333,9.1,0.46,md,12,90,0.04884,0.14,uu,uu60533431,2023-03-13T17:42:46.120Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.52,0.98,0.274,7,reviewed,uu,uu
-2023-03-13T15:07:19.070Z,37.588665,-118.8553314,3.33,0.82,md,9,211,0.02087,0.03,nc,nc73856220,2023-03-13T16:10:13.454Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.96,1.53,0.11,9,automatic,nc,nc
-2023-03-13T15:00:39.800Z,51.8706666666667,-177.905166666667,4.4,1.35,ml,5,164,,0.12,av,av91803261,2023-03-13T15:16:35.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.52,1.03,0.30576397799636,5,reviewed,av,av
-2023-03-13T14:58:48.920Z,38.8223343,-122.8089981,2.69,1.07,md,22,43,0.001352,0.02,nc,nc73856215,2023-03-13T15:42:15.283Z,"7km NW of The Geysers, CA",earthquake,0.24,0.42,0.16,21,automatic,nc,nc
-2023-03-13T14:57:44.990Z,19.3423328399658,-155.267837524414,29.5499992370605,1.76999998,md,22,74,,0.0900000036,hv,hv73338707,2023-03-13T15:00:43.640Z,"11 km SSW of Volcano, Hawaii",earthquake,0.87,0.660000026,0.879999995,3,automatic,hv,hv
-2023-03-13T14:53:26.194Z,63.1764,-148.5303,68.5,1.8,ml,,,,0.35,ak,ak0233bbcgzv,2023-03-13T14:55:04.903Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
