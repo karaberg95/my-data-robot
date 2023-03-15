@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-15T23:26:01.160Z,38.8258324,-122.8031693,1.64,0.22,md,7,85,0.005917,0.03,nc,nc73857485,2023-03-15T23:27:35.198Z,"7km NW of The Geysers, CA",earthquake,0.75,1.47,0.13,8,automatic,nc,nc
 2023-03-15T23:08:54.890Z,36.5859985,-121.137001,11.91,0.78,md,8,175,0.04149,0.07,nc,nc73857475,2023-03-15T23:10:31.233Z,"6km N of Pinnacles, CA",earthquake,0.91,1.5,0.22,4,automatic,nc,nc
 2023-03-15T23:08:02.533Z,64.9132,-147.3032,0,1.4,ml,,,,0.88,ak,ak0233eridan,2023-03-15T23:09:57.114Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-15T22:56:06.919Z,38.5127,-119.4816,8.6,1.5,ml,8,156.02,0.079,0.1541,nn,nn00857071,2023-03-15T22:57:40.063Z,"0 km WSW of Walker, California",earthquake,,0.6,0.17,5,automatic,nn,nn
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T21:54:36.010Z,17.9665,-66.9658333333333,6.86,2.89,md,6,189,0.05473,0.06,pr,pr71400218,2023-03-15T22:24:25.090Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.82,0.43,0.105643804837917,4,reviewed,pr,pr
 2023-03-15T21:50:42.472Z,3.9198,-76.0786,170.701,4.6,mb,39,88,1.979,0.64,us,us7000jka7,2023-03-15T22:12:56.040Z,"Colombia",earthquake,7.69,1.776,0.107,26,reviewed,us,us
 2023-03-15T21:49:19.780Z,51.8525,-178.095833333333,3.04,1.44,ml,5,217,,0.16,av,av91807061,2023-03-15T22:17:02.580Z,"100 km W of Adak, Alaska",earthquake,0.66,1.07,0.165246504853964,5,reviewed,av,av
-2023-03-15T21:44:05.160Z,37.5105,-117.9556667,-0.79,3.75,mw,40,147,0.3279,0.11,nc,nc73857425,2023-03-15T23:18:48.012Z,"16km N of Deep Springs, CA",earthquake,0.39,0.8,,4,reviewed,nc,nc
+2023-03-15T21:44:05.160Z,37.5105,-117.9556667,-0.79,3.75,mw,40,147,0.3279,0.11,nc,nc73857425,2023-03-15T23:24:31.632Z,"16km N of Deep Springs, CA",earthquake,0.39,0.8,,4,reviewed,nc,nc
 2023-03-15T21:36:00.860Z,17.9635,-66.9618333333333,6.3,2.23,md,5,194,0.07864,0.12,pr,pr71400208,2023-03-15T21:54:44.550Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.02,0.47,0.164614732437932,4,reviewed,pr,pr
 2023-03-15T21:35:21.464Z,-24.3628,-70.8538,36.758,4.4,mb,24,127,0.487,0.98,us,us7000jk9s,2023-03-15T22:33:43.040Z,"near the coast of Antofagasta, Chile",earthquake,5.25,9.741,0.155,12,reviewed,us,us
 2023-03-15T21:34:34.390Z,51.8621666666667,-178.077333333333,-1.8,1.35,ml,4,192,,0.22,av,av91094478,2023-03-15T22:06:01.420Z,"99 km W of Adak, Alaska",earthquake,0.7,1.5,0.156468932556239,4,reviewed,av,av
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T19:49:36.560Z,19.1891670227051,-155.511840820312,33.6500015258789,2.13,ml,38,141,,0.109999999,hv,hv73340607,2023-03-15T19:55:07.860Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.74,1.05999994,2.73,10,automatic,hv,hv
 2023-03-15T19:43:41.010Z,37.5670013,-117.9973297,3.26,2.63,md,8,225,0.355,0.07,nc,nc73857360,2023-03-15T21:57:15.369Z,"22km N of Deep Springs, CA",earthquake,1.43,10.2,0.09,8,automatic,nc,nc
 2023-03-15T19:41:13.970Z,35.7493324,-121.2371674,5.55,2.18,md,26,172,0.09536,0.1,nc,nc73857355,2023-03-15T21:42:13.274Z,"12km NNW of San Simeon, CA",earthquake,0.41,0.98,0.12,20,automatic,nc,nc
-2023-03-15T19:30:18.700Z,58.1766666666667,-155.338833333333,-0.9,-0.58,ml,5,183,,0.06,av,av91806991,2023-03-15T20:07:17.520Z,"85 km NW of Karluk, Alaska",earthquake,0.33,31.61,0.23488932349797,5,reviewed,av,av
+2023-03-15T19:30:18.700Z,58.1766666666667,-155.338833333333,-0.9,-0.58,ml,5,183,,0.06,av,av91806991,2023-03-15T20:07:17.520Z,"Alaska Peninsula",earthquake,0.33,31.61,0.23488932349797,5,reviewed,av,av
 2023-03-15T19:20:18.570Z,17.9228333333333,-66.799,7.83,2.75,md,26,196,0.09238,0.22,pr,pr71400143,2023-03-15T19:36:37.970Z,"8 km SSE of Indios, Puerto Rico",earthquake,0.52,0.27,0.130237282723692,12,reviewed,pr,pr
 2023-03-15T19:20:08.988Z,-9.7503,161.5944,35,4.8,mb,38,115,1.653,1.29,us,us7000jk7j,2023-03-15T19:56:11.040Z,"85 km NNW of Kirakira, Solomon Islands",earthquake,8.79,1.934,0.086,42,reviewed,us,us
 2023-03-15T19:13:58.980Z,38.8274994,-122.8538361,2.11,0.7,md,16,91,0.01533,0.02,nc,nc73857350,2023-03-15T20:03:14.657Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.26,16,automatic,nc,nc
