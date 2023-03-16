@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-16T23:31:26.790Z,38.7779999,-122.8059998,11.61,0.76,md,15,89,0.01056,0.14,nc,nc73857900,2023-03-16T23:44:11.645Z,"4km W of The Geysers, CA",earthquake,1.45,0.71,0.18,16,automatic,nc,nc
+2023-03-16T23:31:26.790Z,38.7779999,-122.8059998,11.61,0.76,md,15,89,0.01056,0.14,nc,nc73857900,2023-03-16T23:49:16.675Z,"4km W of The Geysers, CA",earthquake,1.45,0.71,0.18,16,automatic,nc,nc
 2023-03-16T23:26:50.569Z,63.2214,-150.3556,117.3,3.1,ml,,,,0.47,ak,ak0233gf5oer,2023-03-16T23:43:11.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-16T23:19:28.980Z,51.8618333333333,-178.083333333333,4.09,1.06,ml,4,201,,0.17,av,av91808451,2023-03-16T23:42:44.500Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,1.27,0.209063564665914,4,reviewed,av,av
 2023-03-16T23:10:27.620Z,19.1781673431396,-155.38883972168,31.0100002288818,1.81,ml,32,168,,0.140000001,hv,hv73341732,2023-03-16T23:15:58.040Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.8,1.03999996,3.6,6,automatic,hv,hv
@@ -293,4 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T00:11:04.030Z,51.8595,-178.078833333333,0.85,1.21,ml,4,198,,0.26,av,av91807141,2023-03-16T00:25:58.630Z,"99 km W of Adak, Alaska",earthquake,0.93,3.56,0.15658831903924,4,reviewed,av,av
 2023-03-16T00:06:13.300Z,17.9478333333333,-66.9531666666667,7.11,2.4,md,10,214,0.04882,0.04,pr,pr71400233,2023-03-16T00:22:09.250Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.35,0.2,0.0613600775478886,4,reviewed,pr,pr
 2023-03-16T00:03:28.635Z,59.2488,-136.5111,5,2,ml,,,,0.27,ak,ak0233g1bqe7,2023-03-16T00:06:14.811Z,"33 km SW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-15T23:52:36.780Z,36.021,-117.8091667,1.44,1.54,ml,22,80,0.03843,0.16,ci,ci40185311,2023-03-16T14:27:23.325Z,"13km ESE of Coso Junction, CA",earthquake,0.2,0.26,0.164,12,reviewed,ci,ci
