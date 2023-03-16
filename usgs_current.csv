@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-16T09:09:27.460Z,38.8370018,-122.7979965,1.36,0.7,md,9,70,0.006139,0.02,nc,nc73857700,2023-03-16T09:23:11.547Z,"7km WNW of Cobb, CA",earthquake,0.37,0.74,0.24,9,automatic,nc,nc
-2023-03-16T08:56:34.200Z,38.7946663,-122.7971649,1,0.84,md,13,81,0.007377,0.03,nc,nc73857695,2023-03-16T09:08:10.595Z,"4km WNW of The Geysers, CA",earthquake,0.23,0.53,0.25,13,automatic,nc,nc
+2023-03-16T08:56:34.200Z,38.7946663,-122.7971649,1,0.84,md,13,81,0.007377,0.03,nc,nc73857695,2023-03-16T09:30:14.590Z,"4km WNW of The Geysers, CA",earthquake,0.23,0.53,0.25,13,automatic,nc,nc
 2023-03-16T08:38:35.120Z,38.7680016,-122.7241669,1.54,1.06,md,11,85,0.006422,0.03,nc,nc73857685,2023-03-16T09:06:14.431Z,"3km WSW of Anderson Springs, CA",earthquake,0.59,0.66,0.2,10,automatic,nc,nc
 2023-03-16T08:36:56.310Z,17.9391666666667,-66.9648333333333,7.09,2.65,md,9,223,0.06277,0.08,pr,pr71400423,2023-03-16T08:53:36.050Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.47,0.34,0.0053169056823581,5,reviewed,pr,pr
 2023-03-16T08:34:44.814Z,37.5047,-117.9831,5.9,1.5,ml,11,195.98,0.382,0.2945,nn,nn00857091,2023-03-16T08:36:10.729Z,"19 km SSE of Dyer, Nevada",earthquake,,0.8,0.41,8,automatic,nn,nn
@@ -293,6 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T09:42:22.644Z,65.0437,-154.3603,9.5,1.6,ml,,,,0.44,ak,ak0233ejdmt4,2023-03-15T09:52:23.639Z,"63 km ENE of Ruby, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-15T09:40:43.108Z,33.8244,81.923,10,4.4,mb,42,117,6.662,0.84,us,us7000jk30,2023-03-15T10:02:27.040Z,"western Xizang",earthquake,9.24,1.908,0.12,20,reviewed,us,us
 2023-03-15T09:40:37.452Z,65.2328,-154.1423,4.1,2.3,ml,,,,0.32,ak,ak0233ejd8md,2023-03-15T10:10:18.040Z,"83 km NE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-15T09:35:42.120Z,-28.3103,-70.5269,70.819,4.2,mb,13,80,0.494,0.34,us,us7000jk2y,2023-03-15T12:20:04.040Z,"37 km NE of Vallenar, Chile",earthquake,3.89,7.193,0.373,2,reviewed,us,us
-2023-03-15T09:30:24.690Z,38.8209991,-122.7921677,0.56,1.08,md,20,34,0.01184,0.03,nc,nc73857100,2023-03-15T11:48:13.560Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.42,0.15,21,automatic,nc,nc
-2023-03-15T09:28:20.484Z,-18.0171,-174.3111,133.912,4.5,mb,20,98,0.694,0.61,us,us7000jk2b,2023-03-15T10:05:10.040Z,"78 km NNW of Neiafu, Tonga",earthquake,10.36,7.3,0.145,14,reviewed,us,us
