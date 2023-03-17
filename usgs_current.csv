@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T23:09:00.130Z,19.1615009307861,-155.484329223633,31.5400009155273,2.36999989,md,40,155,,0.129999995,hv,hv73342687,2023-03-17T23:16:31.700Z,"Hawaii region, Hawaii",earthquake,0.6,0.99000001,1.65999997,30,automatic,hv,hv
+2023-03-17T23:08:44.120Z,35.5105,-118.389,7.74,1.06,ml,17,71,0.167,0.12,ci,ci40186223,2023-03-17T23:12:26.170Z,"13km SE of Bodfish, CA",earthquake,0.26,1.17,0.151,11,automatic,ci,ci
 2023-03-17T23:04:30.149Z,37.0432,-116.386,11,0.9,ml,14,153.41,0.045,0.1511,nn,nn00857159,2023-03-17T23:05:04.924Z,"36 km ENE of Beatty, Nevada",earthquake,,0.9,0.37,10,automatic,nn,nn
 2023-03-17T23:03:59.560Z,38.8118324,-122.824501,2.34,1.66,md,33,50,0.004703,0.04,nc,nc73858330,2023-03-17T23:07:10.488Z,"7km WNW of The Geysers, CA",earthquake,0.18,0.31,0.12,32,automatic,nc,nc
 2023-03-17T23:00:27.340Z,38.7886658,-122.7263336,1.85,1.48,md,14,88,0.009764,0.02,nc,nc73858325,2023-03-17T23:02:04.309Z,"3km ENE of The Geysers, CA",earthquake,0.28,0.73,0.19,14,automatic,nc,nc
@@ -216,7 +218,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T01:01:03.650Z,38.8224983,-122.8056641,2.76,0.82,md,17,60,0.003559,0.01,nc,nc73857940,2023-03-17T01:29:19.476Z,"7km NW of The Geysers, CA",earthquake,0.29,0.72,0.2,18,automatic,nc,nc
 2023-03-17T00:56:11.250Z,51.8573333333333,-178.081833333333,4.42,0.64,ml,4,206,,0.22,av,av91808536,2023-03-17T01:08:11.690Z,"99 km W of Adak, Alaska",earthquake,1.07,1.33,0.26923237851984,4,reviewed,av,av
 2023-03-17T00:53:40.740Z,39.212,-123.1011667,6.71,1.18,md,10,82,0.08413,0.07,nc,nc73857935,2023-03-17T21:52:14.544Z,"10km NNE of Talmage, CA",earthquake,0.28,0.66,0.121,11,reviewed,nc,nc
-2023-03-17T00:46:31.470Z,37.4325,-121.7726667,2.57,1.07,md,20,78,0.0516,0.09,nc,nc73857930,2023-03-17T20:55:10.181Z,"9km NNE of Alum Rock, CA",earthquake,0.34,0.77,0.155,18,reviewed,nc,nc
+2023-03-17T00:46:31.470Z,37.4325,-121.7726667,2.57,1.07,md,20,78,0.0516,0.09,nc,nc73857930,2023-03-17T23:22:13.192Z,"9km NNE of Alum Rock, CA",earthquake,0.34,0.77,0.155,18,reviewed,nc,nc
 2023-03-17T00:39:15.610Z,38.8349991,-122.8043365,1.86,0.76,md,12,66,0.01145,0.01,nc,nc73857925,2023-03-17T01:15:17.173Z,"7km WNW of Cobb, CA",earthquake,0.34,1.12,0.15,12,automatic,nc,nc
 2023-03-17T00:37:52.800Z,46.2925,-118.04833333333333,3.17,1.73,ml,9,124,0.08925,0.06,uw,uw61902812,2023-03-17T15:03:13.860Z,"6 km WSW of Dayton, Washington",earthquake,0.35,0.53,0.16632929179092593,6,reviewed,uw,uw
 2023-03-17T00:32:00.960Z,38.8363342,-122.7990036,2.23,1.29,md,21,66,0.007073,0.02,nc,nc73857920,2023-03-17T03:39:15.060Z,"7km WNW of Cobb, CA",earthquake,0.23,0.41,0.14,22,automatic,nc,nc
@@ -231,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T23:36:15.020Z,42.164,-119.37583333333333,7.76,1.9100000000000001,ml,7,187,0.3903,0.12,uw,uw61902797,2023-03-17T21:40:49.730Z,"51 km ESE of Plush, Oregon",earthquake,0.82,12.82,0.15970293371294664,4,reviewed,uw,uw
 2023-03-16T23:31:26.790Z,38.7779999,-122.8059998,11.61,0.76,md,15,89,0.01056,0.14,nc,nc73857900,2023-03-16T23:49:16.675Z,"4km W of The Geysers, CA",earthquake,1.45,0.71,0.18,16,automatic,nc,nc
 2023-03-16T23:26:50.569Z,63.2214,-150.3556,117.3,3.1,ml,,,,0.47,ak,ak0233gf5oer,2023-03-16T23:43:11.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-16T23:19:28.980Z,51.8618333333333,-178.083333333333,4.09,1.06,ml,4,201,,0.17,av,av91808451,2023-03-16T23:42:44.500Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,1.27,0.209063564665914,4,reviewed,av,av
-2023-03-16T23:10:27.620Z,19.1781673431396,-155.38883972168,31.0100002288818,1.81,ml,32,168,,0.140000001,hv,hv73341732,2023-03-16T23:15:58.040Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.8,1.03999996,3.6,6,automatic,hv,hv
-2023-03-16T23:09:24.903Z,64.9399,-147.3678,6.3,1.4,ml,,,,0.38,ak,ak0233gf1zbe,2023-03-16T23:11:12.547Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
