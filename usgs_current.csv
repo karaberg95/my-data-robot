@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T08:16:05.999Z,43.6578,-128.1969,10,4.3,mb,44,208,2.185,1.02,us,us7000jkrv,2023-03-17T08:45:14.695Z,"off the coast of Oregon",earthquake,4.25,1.965,0.105,26,reviewed,us,us
 2023-03-17T08:10:39.070Z,35.3695,-117.854,0.82,1.38,ml,22,87,0.1021,0.2,ci,ci40185847,2023-03-17T08:14:20.916Z,"20km W of Johannesburg, CA",earthquake,0.28,0.51,0.114,23,automatic,ci,ci
 2023-03-17T08:02:46.018Z,60.0143,-148.0006,0,1.9,ml,,,,0.65,ak,ak0233htmdcp,2023-03-17T08:04:54.441Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-17T07:58:52.520Z,38.8320007,-122.8186646,1.81,0.68,md,12,83,0.0109,0.01,nc,nc73858065,2023-03-17T09:14:10.015Z,"8km NW of The Geysers, CA",earthquake,0.3,0.82,0.15,13,automatic,nc,nc
+2023-03-17T07:58:52.520Z,38.8320007,-122.8186646,1.81,0.68,md,12,83,0.0109,0.01,nc,nc73858065,2023-03-17T09:29:18.106Z,"8km NW of The Geysers, CA",earthquake,0.3,0.82,0.15,13,automatic,nc,nc
 2023-03-17T07:46:37.578Z,61.7558,-150.641,44.7,1.8,ml,,,,0.4,ak,ak0233htaclk,2023-03-17T07:49:13.292Z,"24 km NNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-17T07:44:51.460Z,35.5559998,-121.5254974,-0.3,2.63,md,46,223,0.3281,0.35,nc,nc73858060,2023-03-17T09:02:13.943Z,"32km WSW of San Simeon, CA",earthquake,1.33,3.2,0.1,43,automatic,nc,nc
 2023-03-17T07:37:06.769Z,56.8938,-157.856,10,2.3,ml,,,,0.73,ak,ak0233ht8cs4,2023-03-17T07:39:06.435Z,"47 km E of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T09:46:44.460Z,56.9061666666667,-158.090166666667,-3.2,1.14,ml,4,247,,0.28,av,av91094608,2023-03-16T20:17:06.640Z,"33 km E of Port Heiden, Alaska",earthquake,1.7,3.4,0.0993823920413039,6,reviewed,av,av
 2023-03-16T09:43:45.046Z,31.59151001,-104.2529742,6.645727539,2.2,ml,18,62,0.08086789375,0.2,tx,tx2023ffym,2023-03-16T19:12:26.967Z,"53 km NW of Toyah, Texas",earthquake,1.154032628,1.264655338,0.1,24,reviewed,tx,tx
 2023-03-16T09:41:10.710Z,18.0165,-66.852,16.03,1.98,md,7,130,0.04871,0.08,pr,pr71400443,2023-03-16T10:16:51.940Z,"2 km S of Yauco, Puerto Rico",earthquake,0.5,0.65,0.0513271879453918,6,reviewed,pr,pr
-2023-03-16T09:33:08.390Z,51.8473333333333,-178.108333333333,3.56,2.26,ml,10,112,,0.24,av,av91807651,2023-03-16T17:23:22.810Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,0.6,0.249185219566333,10,reviewed,av,av
