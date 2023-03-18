@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T16:13:57.190Z,38.8498333,-122.8166667,1.63,0.3,md,11,63,0.007103,0.02,nc,nc73858185,2023-03-17T23:46:10.337Z,"9km WNW of Cobb, CA",earthquake,0.27,0.71,0.6,11,reviewed,nc,nc
 2023-03-17T16:11:39.539Z,5.9278,126.9379,74.68,5,mb,69,83,1.764,0.72,us,us7000jkwd,2023-03-17T16:27:06.040Z,"96 km ESE of Pondaguitan, Philippines",earthquake,7.57,6.026,0.064,77,reviewed,us,us
 2023-03-17T16:06:21.152Z,31.67478444,-104.3935586,6.028735352,2.3,ml,21,56,0.03771451344,0.2,tx,tx2023figp,2023-03-18T11:21:41.806Z,"55 km S of Whites City, New Mexico",earthquake,1.006383067,1.316680515,0.1,19,reviewed,tx,tx
-2023-03-17T15:46:01.944Z,-38.0709,176.6406,10,5.3,mww,37,87,0.606,1.04,us,us7000jkvz,2023-03-18T07:32:24.408Z,"North Island of New Zealand",earthquake,4.92,1.872,0.078,16,reviewed,us,us
