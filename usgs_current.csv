@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T14:08:51.340Z,34.6176667,-116.6523333,5.06,0.88,ml,10,78,0.03483,0.18,ci,ci40185959,2023-03-17T14:12:28.389Z,"35km NE of Lucerne Valley, CA",earthquake,0.64,1.06,0.139,7,automatic,ci,ci
 2023-03-17T13:56:04.248Z,14.4992,119.946,40.074,4.9,mb,51,102,8.779,0.78,us,us7000jku9,2023-03-17T22:35:21.623Z,"Luzon, Philippines",earthquake,10.83,2.325,0.054,106,reviewed,us,us
 2023-03-17T13:51:32.042Z,31.66424383,-104.4900842,7.082763671999999,1.9,ml,53,67,0.0101012302,0.2,tx,tx2023fice,2023-03-17T20:56:33.530Z,"57 km S of Whites City, New Mexico",earthquake,0.8923457605,0.771036521,0,6,reviewed,tx,tx
-2023-03-17T13:45:44.366Z,37.7784,21.2823,34.144,4.3,mb,58,76,0.787,0.83,us,us7000jku7,2023-03-18T07:42:40.040Z,"4 km SSW of Savália, Greece",earthquake,5.12,5.551,0.097,30,reviewed,us,us
