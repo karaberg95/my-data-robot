@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-20T03:23:52.490Z,38.7963333,-122.7216644,2.64,1.1,md,14,101,0.01759,0.02,nc,nc73859545,2023-03-20T03:25:26.600Z,"3km S of Cobb, CA",earthquake,0.32,1.17,0.16,14,automatic,nc,nc
+2023-03-20T03:24:29.630Z,38.0444984,-122.2184982,8.32,2.18,md,43,62,0.04457,0.18,nc,nc73859550,2023-03-20T03:27:25.741Z,"1km SSW of Crockett, CA",earthquake,0.26,0.53,0.14,33,automatic,nc,nc
+2023-03-20T03:23:52.490Z,38.7963333,-122.7216644,2.64,1.1,md,14,101,0.01759,0.02,nc,nc73859545,2023-03-20T03:25:28.718Z,"3km S of Cobb, CA",earthquake,0.32,1.17,0.16,14,automatic,nc,nc
 2023-03-20T03:21:16.270Z,38.7016678,-122.784668,4.7,1.39,md,23,168,0.02322,0.02,nc,nc73859540,2023-03-20T03:22:53.701Z,"9km SSW of The Geysers, CA",earthquake,0.45,0.75,0.25,22,automatic,nc,nc
-2023-03-20T03:15:22.840Z,32.9101667,-116.2481667,5.56,1.44,ml,36,62,0.06418,0.2,ci,ci40187335,2023-03-20T03:19:00.201Z,"28km ENE of Pine Valley, CA",earthquake,0.28,0.9,0.127,26,automatic,ci,ci
+2023-03-20T03:15:22.840Z,32.9101667,-116.2481667,5.56,1.44,ml,36,62,0.06418,0.2,ci,ci40187335,2023-03-20T03:26:09.550Z,"28km ENE of Pine Valley, CA",earthquake,0.28,0.9,0.127,26,automatic,ci,ci
 2023-03-20T03:06:17.020Z,38.8390007,-122.7825012,1.88,0.36,md,10,81,0.005971,0.01,nc,nc73859535,2023-03-20T03:22:16.125Z,"6km WNW of Cobb, CA",earthquake,0.37,0.49,0.3,9,automatic,nc,nc
 2023-03-20T02:52:20.336Z,37.5334,-117.9612,7,1.8,ml,11,235.85,0.579,0.3725,nn,nn00857248,2023-03-20T02:53:53.582Z,"California-Nevada border region",earthquake,,1.5,0.91,6,automatic,nn,nn
 2023-03-20T02:50:01.710Z,38.7091675,-122.7835007,3.87,1.35,md,17,232,0.02053,0.03,nc,nc73859525,2023-03-20T03:08:14.043Z,"8km SSW of The Geysers, CA",earthquake,0.74,0.93,0.16,16,automatic,nc,nc
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T03:44:36.670Z,33.529,-116.7325,3.91,0.88,ml,32,33,0.03652,0.18,ci,ci40186767,2023-03-19T03:48:05.925Z,"6km WSW of Anza, CA",earthquake,0.21,0.48,0.124,24,automatic,ci,ci
 2023-03-19T03:44:10.940Z,53.3948333333333,-168.188166666667,-0.31,0.75,ml,5,225,,0.1,av,av91811576,2023-03-19T22:05:15.260Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.35,0.43,0.225846671638403,6,reviewed,av,av
 2023-03-19T03:39:41.050Z,51.8428333333333,-178.081666666667,5.44,0.67,ml,3,233,,0.05,av,av91811571,2023-03-19T22:01:03.060Z,"99 km W of Adak, Alaska",earthquake,0.53,0.82,0.338429907558879,3,reviewed,av,av
-2023-03-19T03:30:55.330Z,35.6578333,-117.5773333,10.04,0.63,ml,10,136,0.1451,0.15,ci,ci40186759,2023-03-19T03:34:34.312Z,"10km ENE of Ridgecrest, CA",earthquake,0.56,1.11,0.057,6,automatic,ci,ci
