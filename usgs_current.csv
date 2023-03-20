@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-20T09:42:23.090Z,32.9141655,-116.2488327,8.31,1.43,ml,20,96,0.06107,0.11,ci,ci40187455,2023-03-20T09:44:28.581Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.3,0.98,0.304,12,automatic,ci,ci
+2023-03-20T09:48:25.531Z,62.0445,-150.4694,22.3,1.2,ml,,,,0.32,ak,ak0233mt3nsp,2023-03-20T09:50:38.183Z,"32 km SSW of Trapper Creek, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-20T09:42:23.150Z,32.9106667,-116.2473333,7.32,0.89,ml,14,134,0.06435,0.16,ci,ci40187455,2023-03-20T09:45:56.321Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.4,0.65,0.13,8,automatic,ci,ci
 2023-03-20T09:35:15.527Z,60.3866,-147.7494,17.5,1.8,ml,,,,0.28,ak,ak0233mt0ups,2023-03-20T09:37:15.251Z,"38 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-20T09:32:31.720Z,33.4625,-116.5683333,8.31,0.78,ml,27,78,0.04281,0.18,ci,ci40187447,2023-03-20T09:36:04.240Z,"14km SE of Anza, CA",earthquake,0.26,0.52,0.151,17,automatic,ci,ci
 2023-03-20T09:31:35.104Z,61.8945,-151.7764,100.4,2.1,ml,,,,0.64,ak,ak0233mt01d2,2023-03-20T09:34:29.522Z,"22 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -207,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T09:58:42.650Z,17.9471666666667,-66.9588333333333,7.01,2.48,md,15,216,0.05387,0.09,pr,pr71400808,2023-03-19T10:23:12.350Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.49,0.23,0.0718709022439707,7,reviewed,pr,pr
 2023-03-19T09:56:17.550Z,38.776165,-122.7593307,0.19,1.08,md,15,57,0.007396,0.08,nc,nc73859200,2023-03-19T11:54:12.899Z,"0km WSW of The Geysers, CA",earthquake,0.24,0.48,0.21,13,automatic,nc,nc
 2023-03-19T09:53:33.200Z,35.5191667,-118.3871667,4.74,2.7,ml,43,31,0.1598,0.17,ci,ci40186967,2023-03-19T15:41:35.466Z,"12km SE of Bodfish, CA",earthquake,0.2,1.33,0.271,26,automatic,ci,ci
-2023-03-19T09:51:57.672Z,10.6019,-86.3444,10,4.5,mb,58,180,1.035,0.65,us,us7000jl8b,2023-03-19T10:12:33.040Z,"76 km W of Sardinal, Costa Rica",earthquake,6.91,1.934,0.044,152,reviewed,us,us
-2023-03-19T09:51:16.510Z,37.5541667,-118.844,3.56,0.78,md,8,298,0.0377,0.03,nc,nc73859195,2023-03-20T02:07:16.807Z,"14km W of Toms Place, CA",earthquake,0.95,1.34,0.153,8,reviewed,nc,nc
-2023-03-19T09:49:08.830Z,33.536,-116.728,4.4,0.64,ml,23,56,0.03033,0.14,ci,ci40186959,2023-03-19T14:02:10.252Z,"6km WSW of Anza, CA",earthquake,0.21,0.34,0.122,17,reviewed,ci,ci
