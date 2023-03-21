@@ -230,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T11:33:28.240Z,31.8525,-116.1483333,18.22,2.34,ml,13,77,0.2282,0.2,ci,ci40187479,2023-03-20T17:49:34.841Z,"42km ENE of Maneadero, B.C., MX",earthquake,0.4,0.94,0.211,11,reviewed,ci,ci
 2023-03-20T11:30:43.380Z,44.784,-110.9536667,4.38,0.1,md,7,209,0.04479,0.09,uu,uu60534616,2023-03-20T19:58:29.630Z,"18 km NE of West Yellowstone, Montana",earthquake,0.55,0.97,0.369,5,reviewed,uu,uu
 2023-03-20T11:06:18.070Z,37.233,-121.6645,4.02,1.56,md,34,58,0.02683,0.06,nc,nc73859740,2023-03-20T21:38:14.825Z,"11km N of Morgan Hill, CA",earthquake,0.13,0.33,0.308,34,reviewed,nc,nc
-2023-03-20T10:54:31.590Z,36.6888351,-121.3573303,1.96,1.94,md,23,56,0.02052,0.15,nc,nc73859735,2023-03-20T13:50:12.962Z,"12km SSW of Tres Pinos, CA",earthquake,0.31,0.72,0.18,21,automatic,nc,nc
-2023-03-20T10:54:31.520Z,19.3936666666667,-155.418833333333,9.26,2.35,ml,41,66,,0.13,hv,hv73344742,2023-03-20T22:35:52.500Z,"20 km WSW of Volcano, Hawaii",earthquake,0.26,0.3,0.14327743082247,16,reviewed,hv,hv
-2023-03-20T10:54:18.150Z,51.8548333333333,-178.0775,3.47,1.28,ml,4,204,,0.19,av,av91813426,2023-03-21T00:31:44.990Z,"99 km W of Adak, Alaska",earthquake,0.6,0.61,0.146272321678416,4,reviewed,av,av
