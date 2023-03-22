@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-22T11:42:27.540Z,38.8426666,-122.8255005,1.99,0.99,md,18,96,0.008798,0.02,nc,nc73860565,2023-03-22T11:44:01.674Z,"9km WNW of Cobb, CA",earthquake,0.27,0.57,0.27,18,automatic,nc,nc
-2023-03-22T11:39:21.554Z,61.1286,-150.0918,36.7,2.5,ml,,,,0.47,ak,ak0233q5ba8r,2023-03-22T11:41:13.831Z,"14 km SW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-22T11:39:21.554Z,61.1286,-150.0918,36.7,2.5,ml,,,,0.47,ak,ak0233q5ba8r,2023-03-22T11:49:37.040Z,"14 km SW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-22T11:37:54.840Z,37.8025017,-122.1678314,9.12,1.23,md,11,103,0.02252,0.03,nc,nc73860560,2023-03-22T11:39:32.361Z,"5km SW of Moraga, CA",earthquake,0.36,0.73,0.33,7,automatic,nc,nc
 2023-03-22T11:32:33.500Z,19.1800003051758,-155.383331298828,30.1200008392334,2.43000007,md,19,196,,0.100000001,hv,hv73346202,2023-03-22T11:35:52.050Z,"10 km ESE of Pāhala, Hawaii",earthquake,1.06,1.50999999,1.21000004,3,automatic,hv,hv
 2023-03-22T11:25:01.490Z,38.8264999,-122.821167,1.7,0.97,md,17,67,0.009203,0.02,nc,nc73860555,2023-03-22T11:42:16.599Z,"8km NW of The Geysers, CA",earthquake,0.26,0.46,0.25,17,automatic,nc,nc
 2023-03-22T11:15:57.590Z,32.7526667,-115.3978333,11.72,1.92,ml,19,215,0.06677,0.26,ci,ci40188263,2023-03-22T11:19:42.071Z,"7km SSW of Holtville, CA",earthquake,1.14,0.7,0.195,25,automatic,ci,ci
 2023-03-22T11:13:46.610Z,38.8046684,-122.8006668,-0.09,1.08,md,8,74,0.005331,0.04,nc,nc73860550,2023-03-22T11:31:14.528Z,"5km NW of The Geysers, CA",earthquake,0.35,1.32,0.22,9,automatic,nc,nc
 2023-03-22T11:09:01.896Z,61.5718,-141.4279,0,1.8,ml,,,,0.78,ak,ak0233q54t8t,2023-03-22T11:10:48.757Z,"81 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-22T10:51:58.380Z,38.8366661,-122.8028336,2.24,0.7,md,16,82,0.009908,0.01,nc,nc73860545,2023-03-22T11:08:11.391Z,"7km WNW of Cobb, CA",earthquake,0.28,0.67,0.24,16,automatic,nc,nc
+2023-03-22T10:51:58.380Z,38.8366661,-122.8028336,2.24,0.7,md,16,82,0.009908,0.01,nc,nc73860545,2023-03-22T11:45:11.619Z,"7km WNW of Cobb, CA",earthquake,0.28,0.67,0.24,16,automatic,nc,nc
 2023-03-22T10:39:11.470Z,35.8703333,-117.6958333,8.7,1.73,ml,17,82,0.08335,0.15,ci,ci40188255,2023-03-22T10:42:42.889Z,"20km ESE of Little Lake, CA",earthquake,0.33,0.75,0.178,18,automatic,ci,ci
 2023-03-22T10:38:47.719Z,37.167,54.7079,10,5.1,mb,69,138,7.7,0.99,us,us7000jlww,2023-03-22T11:44:44.978Z,"39 km NNE of Qarnābād, Iran",earthquake,10.35,1.892,0.055,105,reviewed,us,us
 2023-03-22T09:59:13.115Z,58.1075,-137.5433,16,3.8,ml,,,,0.72,ak,ak0233q48os9,2023-03-22T10:24:59.040Z,"Southeastern Alaska",earthquake,,0.5,,,reviewed,ak,ak
