@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T07:26:37.688Z,59.5619,-152.4761,79.6,1.9,ml,,,,0.22,ak,ak0233tdxhqw,2023-03-24T07:28:01.379Z,"38 km NW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-24T07:01:51.890Z,33.9741667,-117.0523333,7.5,0.84,ml,14,94,0.1534,0.35,ci,ci40188983,2023-03-24T07:05:26.571Z,"2km S of Calimesa, CA",earthquake,0.85,6.99,0.183,17,automatic,ci,ci
 2023-03-24T06:34:35.820Z,33.9733333,-117.9456667,13.04,1.49,ml,36,54,0.03331,0.17,ci,ci40188975,2023-03-24T06:38:20.358Z,"2km NNE of La Habra Heights, CA",earthquake,0.26,0.43,0.205,30,automatic,ci,ci
 2023-03-24T06:26:58.880Z,19.1965007781982,-155.458999633789,34.8800010681152,2.57,ml,40,111,,0.140000001,hv,hv73347872,2023-03-24T06:32:28.450Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.62,0.75999999,2.27,16,automatic,hv,hv
