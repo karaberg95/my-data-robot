@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-25T12:41:04.426Z,38.1404,-116.8297,6.9,1.9,ml,25,112.69,0.694,0.3727,nn,nn00857488,2023-03-25T12:42:34.803Z,"36 km ENE of Tonopah, Nevada",earthquake,,0.7,0.89,16,automatic,nn,nn
 2023-03-25T12:35:06.160Z,37.8676682,-121.9506683,9.56,1.35,md,9,193,0.03437,0.06,nc,nc73862070,2023-03-25T12:49:10.607Z,"4km N of Diablo, CA",earthquake,0.64,0.86,0.15,8,automatic,nc,nc
-2023-03-25T12:25:09.150Z,38.7804985,-122.4459991,7.83,1.4,md,6,184,0.09146,0.03,nc,nc73862065,2023-03-25T12:38:10.540Z,"10km ESE of Hidden Valley Lake, CA",earthquake,0.81,1.43,0.12,8,automatic,nc,nc
+2023-03-25T12:25:09.150Z,38.7804985,-122.4459991,7.83,1.4,md,6,184,0.09146,0.03,nc,nc73862065,2023-03-25T13:11:18.722Z,"10km ESE of Hidden Valley Lake, CA",earthquake,0.81,1.43,0.12,8,automatic,nc,nc
 2023-03-25T12:20:48.351Z,60.3607,-152.4272,102.8,1.7,ml,,,,0.31,ak,ak0233v4eqsj,2023-03-25T12:22:51.777Z,"54 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-25T12:19:49.627Z,57.8249,-156.4022,37.9,1.9,ml,,,,0.98,ak,ak0233v4enaq,2023-03-25T12:22:34.451Z,"68 km ENE of Ugashik, Alaska",earthquake,,18.3,,,automatic,ak,ak
 2023-03-25T12:13:54.350Z,33.444,-116.6335,4.56,0.65,ml,29,88,0.05693,0.17,ci,ci40189735,2023-03-25T12:17:30.317Z,"13km SSE of Anza, CA",earthquake,0.22,0.42,0.122,17,automatic,ci,ci
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T09:17:02.487Z,62.9084,-148.36,5.3,1.7,ml,,,,0.79,ak,ak0233v2lpag,2023-03-25T09:18:57.946Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T09:11:01.903Z,-5.2969,102.0212,26.453,4.4,mb,26,109,1.316,0.38,us,us7000jmnk,2023-03-25T09:28:34.040Z,"167 km S of Bengkulu, Indonesia",earthquake,7.5,6.617,0.139,16,reviewed,us,us
 2023-03-25T09:10:41.580Z,36.7036667,-121.3430023,3.42,1.83,md,19,131,0.00472,0.08,nc,nc73862005,2023-03-25T10:01:14.648Z,"10km SSW of Tres Pinos, CA",earthquake,0.37,0.55,0.18,17,automatic,nc,nc
-2023-03-25T09:04:22.320Z,40.336,-125.2821667,10,3.13,ml,53,275,0.72,0.28,nc,nc73861995,2023-03-25T12:56:10.648Z,"84km W of Petrolia, CA",earthquake,1.02,31.61,0.162,31,reviewed,nc,nc
+2023-03-25T09:04:22.320Z,40.336,-125.2821667,10,3.13,ml,53,275,0.72,0.28,nc,nc73861995,2023-03-25T13:20:13.768Z,"84km W of Petrolia, CA",earthquake,1.02,31.61,0.162,31,reviewed,nc,nc
 2023-03-25T08:55:30.467Z,65.8705,-147.7041,9,1.6,ml,,,,0.44,ak,ak0233v28h1y,2023-03-25T08:57:53.882Z,"54 km NE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-25T08:10:35.260Z,17.885,-66.8365,15.15,1.89,md,8,240,0.09838,0.15,pr,pr71401478,2023-03-25T08:42:11.200Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.63,0.000309669089981757,3,reviewed,pr,pr
 2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T08:29:15.040Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -276,7 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T13:39:15.750Z,58.1736666666667,-155.328,0.98,-0.43,ml,5,172,,0.02,av,av91095943,2023-03-25T00:23:26.980Z,"84 km NW of Karluk, Alaska",earthquake,0.38,1.16,0.267604139009775,5,reviewed,av,av
 2023-03-24T13:37:18.900Z,51.8816666666667,-177.920333333333,3.58,1.25,ml,5,201,,0.21,av,av91817691,2023-03-24T17:45:46.200Z,"88 km W of Adak, Alaska",earthquake,0.81,1.76,0.0407446355755674,5,reviewed,av,av
 2023-03-24T13:36:17.020Z,38.7911667,-122.759,1.96,0.4,md,17,104,0.009461,0.04,nc,nc73861575,2023-03-24T23:48:11.217Z,"2km N of The Geysers, CA",earthquake,0.26,0.51,0.233,14,reviewed,nc,nc
-2023-03-24T13:14:40.960Z,36.7746667,-121.3021667,8.33,1.07,md,20,104,0.07595,0.07,nc,nc73861570,2023-03-25T06:12:16.309Z,"2km SE of Tres Pinos, CA",earthquake,0.23,0.52,0.216,18,reviewed,nc,nc
-2023-03-24T13:11:27.410Z,36.7616653,-121.3243332,6.96,1.69,md,18,168,0.05696,0.09,nc,nc73861560,2023-03-24T15:38:13.114Z,"3km S of Tres Pinos, CA",earthquake,0.44,0.78,0.17,18,automatic,nc,nc
-2023-03-24T13:10:48.977Z,59.5409,-152.8341,23.5,1.5,ml,,,,0.39,ak,ak0233theosh,2023-03-24T13:12:12.180Z,"55 km WNW of Nanwalek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-24T13:10:34.997Z,37.9773,37.526,10,4.4,mb,51,67,0.684,0.53,us,us7000jme6,2023-03-24T13:28:35.040Z,"central Turkey",earthquake,2.76,1.869,0.096,31,reviewed,us,us
