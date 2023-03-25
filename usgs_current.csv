@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-25T11:15:46.729Z,63.4913,-151.2946,1.8,1.6,ml,,,,0.36,ak,ak0233v3s8hc,2023-03-25T11:17:38.032Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-25T11:12:11.003Z,61.0095,-145.3096,20.6,2,ml,,,,0.33,ak,ak0233v3riks,2023-03-25T11:13:46.608Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T11:06:02.310Z,38.8243332,-122.7958298,0.97,0.29,md,6,106,0.01117,0.01,nc,nc73862030,2023-03-25T11:07:36.289Z,"6km NNW of The Geysers, CA",earthquake,0.72,2.64,0.09,5,automatic,nc,nc
 2023-03-25T10:43:46.448Z,64.6966,-147.5906,3.3,1,ml,,,,0.68,ak,ak0233v3cswk,2023-03-25T10:45:34.230Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-25T10:38:03.131Z,60.6278,-148.7394,20,1.6,ml,,,,0.46,ak,ak0233v3bmzd,2023-03-25T10:39:44.275Z,"16 km S of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -278,7 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T11:27:41.190Z,51.8545,-178.089666666667,3.41,0.99,ml,4,212,,0.17,av,av91095878,2023-03-24T18:56:31.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,0.62,0.0595240639592294,4,reviewed,av,av
 2023-03-24T11:26:48.060Z,38.8333321,-122.8168335,1.49,1,md,17,56,0.01124,0.01,nc,nc73861525,2023-03-24T11:45:14.679Z,"8km NW of The Geysers, CA",earthquake,0.23,0.62,0.11,17,automatic,nc,nc
 2023-03-24T11:19:50.500Z,38.8298333,-122.8043333,1.95,0.43,md,25,41,0.007838,0.02,nc,nc73861520,2023-03-25T06:48:10.645Z,"7km W of Cobb, CA",earthquake,0.17,0.27,0.13,23,reviewed,nc,nc
-2023-03-24T11:18:22.570Z,38.8166656,-122.8249969,2.01,0.39,md,7,110,0.008444,0.01,nc,nc73861515,2023-03-24T12:51:11.109Z,"7km NW of The Geysers, CA",earthquake,0.59,1.73,0.18,8,automatic,nc,nc
-2023-03-24T11:16:58.460Z,40.3238,-119.6151,14.4,0.8,ml,4,328.96,0.178,0.1098,nn,nn00857448,2023-03-24T18:19:40.033Z,"36 km SW of Empire, Nevada",earthquake,,4.9,0.42,3,reviewed,nn,nn
-2023-03-24T11:16:00.330Z,34.1721667,-117.3855,10.68,1.29,ml,65,72,0.03693,0.17,ci,ci40189079,2023-03-24T22:29:14.944Z,"4km WNW of Muscoy, CA",earthquake,0.17,0.25,0.157,38,reviewed,ci,ci
-2023-03-24T11:15:56.946Z,62.8742,-151.0949,57.4,1.1,ml,,,,2.12,ak,ak0233tg8wry,2023-03-24T11:17:49.337Z,"45 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
