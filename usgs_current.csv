@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T20:43:46.100Z,19.3605003356934,-155.289001464844,29.6499996185303,1.88,md,33,54,,0.159999996,hv,hv73349877,2023-03-26T20:47:02.510Z,"10 km SSW of Volcano, Hawaii",earthquake,0.66,1.02999997,0.939999998,8,automatic,hv,hv
 2023-03-26T20:36:29.000Z,18.8859996795654,-155.196502685547,6.40000009536743,3.33,ml,38,258,,0.209999993,hv,hv73349872,2023-03-26T20:56:20.149Z,"45 km ESE of Naalehu, Hawaii",earthquake,0.65,0.540000021,1.96,22,automatic,hv,hv
 2023-03-26T20:21:05.640Z,19.1636657714844,-155.47200012207,30.3899993896484,1.83000004,md,31,163,,0.100000001,hv,hv73349852,2023-03-26T20:24:13.200Z,"Island of Hawaii, Hawaii",earthquake,0.72,1.21000004,1.55999994,10,automatic,hv,hv
-2023-03-26T20:19:30.426Z,62.1462,-145.6536,21,1.6,ml,,,,0.97,ak,ak0233wwpb0y,2023-03-26T20:21:45.935Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T20:19:30.426Z,62.1462,-145.6536,21,1.6,ml,,,,0.97,ak,ak0233wwpb0y,2023-03-26T20:21:45.935Z,"6 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T20:12:39.570Z,35.4548333,-118.281,3.61,1.14,ml,12,123,0.1408,0.21,ci,ci40190303,2023-03-26T20:16:16.148Z,"24km SE of Bodfish, CA",earthquake,0.49,1.77,0.153,13,automatic,ci,ci
 2023-03-26T20:10:47.617Z,60.7991,-150.9558,45.6,1.6,ml,,,,0.47,ak,ak0233wwnewp,2023-03-26T20:12:48.294Z,"20 km SW of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-26T19:50:12.790Z,37.4696655,-119.0063324,3.3,1.68,md,9,207,0.1596,0.15,nc,nc73862685,2023-03-26T21:19:11.053Z,"19km S of Mammoth Lakes, CA",earthquake,2.2,13.26,0.11,7,automatic,nc,nc
@@ -95,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T11:24:30.630Z,36.2408333,-120.8131638,6.58,2.19,md,31,77,0.02667,0.13,nc,nc73862505,2023-03-26T13:53:17.479Z,"22km NE of San Lucas, CA",earthquake,0.33,0.52,0.2,26,automatic,nc,nc
 2023-03-26T11:21:12.320Z,61.7378,-151.412,70.7,1.1,ml,,,,0.21,ak,ak0233wrcsm8,2023-03-26T11:23:18.350Z,"28 km S of Skwentna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-03-26T11:01:00.550Z,35.7826667,-116.844,0.15,1.47,ml,13,101,0.373,0.16,ci,ci40190079,2023-03-26T11:04:43.688Z,"48km E of Trona, CA",earthquake,0.46,31.61,0.173,11,automatic,ci,ci
+2023-03-26T10:51:35.340Z,48.226333333333336,-121.76283333333333,12.82,1.1,ml,10,76,0.1075,0.07,uw,uw61904852,2023-03-26T21:29:19.980Z,"6 km SSW of Swede Heaven, Washington",earthquake,0.35,0.71,0.27595412103167405,6,reviewed,uw,uw
 2023-03-26T10:43:44.822Z,-7.5337,130.3732,24.189,4.9,mb,49,99,3.028,0.58,us,us7000jmu9,2023-03-26T11:00:52.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,4.77,5.67,0.08,49,reviewed,us,us
 2023-03-26T10:36:27.660Z,38.7980003,-122.815834,2.66,1.49,md,32,68,0.01389,0.04,nc,nc73862495,2023-03-26T13:23:17.304Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.18,29,automatic,nc,nc
 2023-03-26T10:32:17.580Z,38.8359985,-122.793663,2.52,0.96,md,9,58,0.003537,0.02,nc,nc73862490,2023-03-26T10:48:15.298Z,"6km WNW of Cobb, CA",earthquake,0.47,1.47,0.31,12,automatic,nc,nc
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T22:00:11.285Z,58.2651,-154.9323,1.2,1,ml,,,,0.23,ak,ak0233va8pns,2023-03-26T02:48:14.140Z,"82 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-03-25T21:55:35.317Z,-16.012,-174.7621,10.113,4.6,mb,40,67,2.721,0.59,us,us7000jmr5,2023-03-25T22:47:14.040Z,"103 km W of Hihifo, Tonga",earthquake,8.33,4.538,0.087,40,reviewed,us,us
 2023-03-25T21:35:35.541Z,17.1156,120.9222,10.424,4.5,mb,65,90,5.675,0.6,us,us7000jmr1,2023-03-25T22:09:02.040Z,"4 km NE of Sagada, Philippines",earthquake,8.57,3.757,0.078,48,reviewed,us,us
-2023-03-25T21:31:14.720Z,51.8566666666667,-178.080333333333,3.31,1.39,ml,4,204,,0.14,av,av91819136,2023-03-25T22:23:52.340Z,"99 km W of Adak, Alaska",earthquake,0.61,0.96,0.162934459786406,4,reviewed,av,av
