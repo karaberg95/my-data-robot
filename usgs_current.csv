@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T07:26:34.980Z,34.0981667,-118.1868333,10.02,1.81,ml,37,72,0.06198,0.24,ci,ci40189975,2023-03-26T07:30:21.852Z,"3km SSE of Highland Park, CA",earthquake,0.35,0.7,0.206,26,automatic,ci,ci
-2023-03-26T07:11:27.745Z,31.6471,-104.3549,8.793,3.2,ml,25,109,0.126,0.38,us,us7000jmtm,2023-03-26T07:18:38.040Z,"western Texas",earthquake,1.93,8.38,0.06,62,reviewed,us,us
+2023-03-26T07:34:52.970Z,38.8376656,-122.8356705,1.75,0.74,md,6,98,0.0009331,0.01,nc,nc73862445,2023-03-26T07:36:26.928Z,"10km NW of The Geysers, CA",earthquake,0.52,0.78,0.47,7,automatic,nc,nc
+2023-03-26T07:26:34.980Z,34.0981667,-118.1868333,10.02,1.81,ml,37,72,0.06198,0.24,ci,ci40189975,2023-03-26T07:37:24.330Z,"3km SSE of Highland Park, CA",earthquake,0.35,0.7,0.206,26,automatic,ci,ci
+2023-03-26T07:11:27.633Z,31.63829301,-104.3496446,6.697143555000001,3.3,ml,29,71,0.07250576178,0.3,tx,tx2023fyan,2023-03-26T07:37:19.985Z,"western Texas",earthquake,1.2403122520000003,1.272505356,0.1,22,reviewed,tx,tx
 2023-03-26T06:55:50.410Z,59.7214,-153.485,121.1,2,ml,,,,0.23,ak,ak0233wokzvl,2023-03-26T07:05:56.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T06:45:48.684Z,62.1433,-147.7803,20.5,1.4,ml,,,,1.27,ak,ak0233woiul0,2023-03-26T06:48:09.623Z,"37 km N of Glacier View, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-26T06:38:37.828Z,63.3357,-145.5293,0,1.7,ml,,,,0.51,ak,ak0233wohbqe,2023-03-26T06:41:20.497Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T07:53:35.451Z,58.4359,-155.4444,124.2,1.7,ml,,,,0.4,ak,ak0233v1mmcu,2023-03-25T07:56:23.379Z,"76 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T07:48:32.420Z,51.866,-178.081333333333,-1.8,1.28,ml,4,193,,0.14,av,av91818441,2023-03-25T22:20:05.220Z,"99 km W of Adak, Alaska",earthquake,0.97,1.74,0.314293395321683,4,reviewed,av,av
 2023-03-25T07:42:18.769Z,60.4907,-146.7128,14.1,2,ml,,,,0.71,ak,ak0233v1k88k,2023-03-25T07:44:26.945Z,"41 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-25T07:38:12.707Z,59.9656,-147.0436,0.7,2.6,ml,,,,0.86,ak,ak0233v1jcwm,2023-03-25T08:22:45.040Z,"55 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
