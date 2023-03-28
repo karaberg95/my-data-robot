@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-28T04:57:43.830Z,38.8328323,-122.8164978,1.47,0.69,md,11,75,0.01068,0.01,nc,nc73863365,2023-03-28T04:59:20.892Z,"8km NW of The Geysers, CA",earthquake,0.35,0.71,0.07,11,automatic,nc,nc
-2023-03-28T04:19:09.785Z,-0.3948,123.5622,75.024,5,mww,93,38,1.019,1.11,us,us6000k08q,2023-03-28T04:57:17.040Z,"105 km NE of Luwuk, Indonesia",earthquake,2.27,5.371,0.078,16,reviewed,us,us
+2023-03-28T05:21:41.100Z,38.7876663,-122.7490005,0.28,1.49,md,13,126,0.01056,0.04,nc,nc73863375,2023-03-28T05:23:17.863Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.61,0.06,12,automatic,nc,nc
+2023-03-28T05:21:32.610Z,36.0294991,-117.7675018,1.36,1.23,ml,12,184,0.05766,0.11,ci,ci40190703,2023-03-28T05:24:59.222Z,"16km NE of Little Lake, CA",earthquake,0.93,0.59,0.189,7,automatic,ci,ci
+2023-03-28T04:57:43.830Z,38.8328323,-122.8164978,1.47,0.69,md,11,75,0.01068,0.01,nc,nc73863365,2023-03-28T05:16:10.687Z,"8km NW of The Geysers, CA",earthquake,0.35,0.71,0.07,11,automatic,nc,nc
+2023-03-28T04:19:09.785Z,-0.3948,123.5622,75.024,5,mww,93,38,1.019,1.11,us,us6000k08q,2023-03-28T05:18:32.118Z,"105 km NE of Luwuk, Indonesia",earthquake,2.27,5.371,0.078,16,reviewed,us,us
 2023-03-28T04:12:00.570Z,19.0316666666667,-67.1503333333333,8.29,3.3,md,14,279,0.5624,0.34,pr,pr71401848,2023-03-28T04:41:31.923Z,"59 km N of San Antonio, Puerto Rico",earthquake,1.43,1.78,0.118450995611397,9,reviewed,pr,pr
-2023-03-28T04:05:00.070Z,39.411499,-123.3365021,4.86,2.54,md,17,82,0.05742,0.08,nc,nc73863345,2023-03-28T04:59:32.941Z,"2km E of Willits, CA",earthquake,0.3,1.18,0.09,17,automatic,nc,nc
+2023-03-28T04:05:00.070Z,39.411499,-123.3365021,4.86,2.54,md,17,82,0.05742,0.08,nc,nc73863345,2023-03-28T05:16:13.688Z,"2km E of Willits, CA",earthquake,0.3,1.18,0.09,17,automatic,nc,nc
 2023-03-28T04:03:24.145Z,61.5069,-147.992,19.5,1.1,ml,,,,0.52,ak,ak0233zy5me6,2023-03-28T04:05:13.702Z,"38 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-28T03:58:07.960Z,38.8325005,-122.8178329,2.34,1.2,md,24,55,0.01093,0.04,nc,nc73863335,2023-03-28T04:18:11.390Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.13,26,automatic,nc,nc
+2023-03-28T03:58:07.960Z,38.8325005,-122.8178329,2.34,1.2,md,24,55,0.01093,0.04,nc,nc73863335,2023-03-28T05:16:13.806Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.13,26,automatic,nc,nc
 2023-03-28T03:40:27.802Z,62.0194,-148.2981,42,0.8,ml,,,,0.43,ak,ak0233zxs4kc,2023-03-28T03:42:16.815Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-28T03:37:57.130Z,38.8320007,-122.8153305,1.55,1.09,md,21,51,0.009524,0.02,nc,nc73863330,2023-03-28T03:51:11.252Z,"8km NW of The Geysers, CA",earthquake,0.21,0.45,0.2,22,automatic,nc,nc
 2023-03-28T03:32:40.170Z,19.1728324890137,-155.494338989258,32.5999984741211,1.98000002,md,31,154,,0.129999995,hv,hv73350957,2023-03-28T03:35:57.210Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.72,0.879999995,0.930000007,11,automatic,hv,hv
@@ -36,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T00:08:25.750Z,19.4031658172607,-155.282669067383,1.01999998092651,1.80999994,md,12,67,,0.119999997,hv,hv73350797,2023-03-28T00:11:25.070Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.389999986,0.99000001,11,automatic,hv,hv
 2023-03-28T00:05:41.338Z,-6.2098,130.235,117.25,4.3,mb,25,54,1.708,0.79,us,us6000k07h,2023-03-28T00:25:11.040Z,"286 km WSW of Tual, Indonesia",earthquake,5.65,8.443,0.133,16,reviewed,us,us
 2023-03-28T00:03:52.630Z,34.0491667,-117.2358333,14.51,1.56,ml,62,32,0.08014,0.22,ci,ci40190679,2023-03-28T00:16:25.475Z,"2km E of Loma Linda, CA",earthquake,0.24,0.48,0.168,24,automatic,ci,ci
+2023-03-27T23:42:28.600Z,56.8711666666667,-158.208666666667,-1.35,0.8,ml,4,127,,0.11,av,av91822311,2023-03-28T05:11:45.750Z,"26 km ESE of Port Heiden, Alaska",earthquake,0.29,31.61,0.195312606994036,9,reviewed,av,av
 2023-03-27T23:36:27.260Z,19.1615,-64.9405,38.94,3.34,md,6,290,0.8049,0.06,pr,pr71401823,2023-03-27T23:50:43.350Z,"90 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.49,8.35,0.0439914717031109,5,reviewed,pr,pr
 2023-03-27T23:32:44.874Z,57.4719,-157.691,36.4,1.9,ml,,,,0.78,ak,ak0233ym3rrb,2023-03-27T23:34:50.622Z,"12 km SSW of Pilot Point, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2023-03-27T23:30:53.320Z,35.0195,-117.6936667,0.26,1.62,ml,23,63,0.08494,0.28,ci,ci40190671,2023-03-27T23:34:30.977Z,"5km WNW of Boron, CA",quarry blast,0.67,31.61,0.096,30,automatic,ci,ci
@@ -264,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T05:49:45.190Z,36.7288333,-121.3346667,7.1,0.79,md,16,190,0.02336,0.07,nc,nc73862865,2023-03-27T20:18:10.295Z,"7km S of Tres Pinos, CA",earthquake,0.42,0.35,0.356,13,reviewed,nc,nc
 2023-03-27T05:29:02.920Z,17.9486666666667,-66.954,3.82,1,md,3,215,0.07583,0.16,pr,pr71401718,2023-03-27T06:46:45.180Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.6,4.19,0.0396583317663448,2,reviewed,pr,pr
 2023-03-27T05:25:19.467Z,49.9655,-178.7466,10,4.5,mb,107,192,1.591,0.54,us,us7000jmyt,2023-03-27T17:49:05.853Z,"259 km SW of Adak, Alaska",earthquake,7.52,1.911,0.038,207,reviewed,us,us
-2023-03-27T05:20:11.862Z,37.518,-117.9534,4.6,1.7,ml,10,140.08,0.376,0.1777,nn,nn00857523,2023-03-28T02:03:37.151Z,"19 km SSE of Dyer, Nevada",earthquake,,1.9,0.87,7,reviewed,nn,nn
