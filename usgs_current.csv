@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-28T22:42:14.510Z,38.8406677,-122.8451691,2.22,0.73,md,8,175,0.01598,0.1,nc,nc73863720,2023-03-28T22:43:52.283Z,"10km NW of The Geysers, CA",earthquake,1.04,0.87,0.37,9,automatic,nc,nc
 2023-03-28T22:26:52.360Z,33.3268333,-116.7766667,-0.08,0.69,ml,12,101,0.1672,0.25,ci,ci40191031,2023-03-28T22:30:32.667Z,"9km ESE of Palomar Observatory, CA",earthquake,0.54,31.61,0.187,11,automatic,ci,ci
 2023-03-28T22:26:35.810Z,38.8165016,-122.819664,2.53,1.04,md,14,75,0.01017,0.02,nc,nc73863715,2023-03-28T22:42:11.078Z,"7km NW of The Geysers, CA",earthquake,0.26,0.89,0.2,17,automatic,nc,nc
 2023-03-28T22:21:00.410Z,18.0931666666667,-66.8865,18.67,2.72,md,15,76,0.1177,0.27,pr,pr71401908,2023-03-28T22:38:26.360Z,"6 km NNE of Lluveras, Puerto Rico",earthquake,0.51,0.62,0.0454955263300021,9,reviewed,pr,pr
-2023-03-28T22:13:14.631Z,56.8908,-158.0358,0,2.4,ml,,,,0.59,ak,ak023408xjpj,2023-03-28T22:15:10.193Z,"36 km E of Port Heiden, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-28T22:04:06.180Z,38.8261681,-122.8065033,13.39,0.71,md,6,111,0.00393,0.03,nc,nc73863705,2023-03-28T22:17:12.051Z,"7km NW of The Geysers, CA",earthquake,2.35,8.53,0.23,9,automatic,nc,nc
+2023-03-28T22:13:14.631Z,56.8908,-158.0358,0,2.4,ml,,,,0.59,ak,ak023408xjpj,2023-03-28T22:45:26.040Z,"36 km E of Port Heiden, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-28T22:04:06.180Z,38.8261681,-122.8065033,13.39,0.71,md,6,111,0.00393,0.03,nc,nc73863705,2023-03-28T22:49:14.126Z,"7km NW of The Geysers, CA",earthquake,2.35,8.53,0.23,9,automatic,nc,nc
 2023-03-28T22:03:44.704Z,63.0587,-149.4434,80.6,1.2,ml,,,,0.52,ak,ak023408vgva,2023-03-28T22:06:12.881Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-28T21:53:15.000Z,38.7906685,-122.7655029,1.89,1.05,md,10,89,0.01092,0.01,nc,nc73863700,2023-03-28T22:38:17.052Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.58,0.27,10,automatic,nc,nc
-2023-03-28T21:52:45.073Z,41.6564,14.6553,8.416,4.7,mwr,78,34,0.628,0.88,us,us6000k0fj,2023-03-28T22:41:09.217Z,"1 km NW of Montagano, Italy",earthquake,2.01,4.041,0.048,41,reviewed,us,us
+2023-03-28T21:52:45.073Z,41.6564,14.6553,8.416,4.7,mwr,78,34,0.628,0.88,us,us6000k0fj,2023-03-28T22:46:27.225Z,"1 km NW of Montagano, Italy",earthquake,2.01,4.041,0.048,41,reviewed,us,us
 2023-03-28T21:35:17.033Z,61.7335,-150.4668,30.7,2.1,ml,,,,0.62,ak,ak023408gu1j,2023-03-28T21:37:14.144Z,"21 km N of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-28T21:32:30.590Z,33.8765,-117.4886667,1.67,1.18,ml,17,73,0.06922,0.25,ci,ci40191015,2023-03-28T21:36:15.764Z,"3km E of Home Gardens, CA",quarry blast,0.6,0.79,0.351,24,automatic,ci,ci
 2023-03-28T21:31:48.030Z,33.0388333,-116.4141667,7.47,1.31,ml,47,42,0.04335,0.22,ci,ci40191007,2023-03-28T22:20:00.790Z,"18km ESE of Julian, CA",earthquake,0.26,0.85,0.149,24,reviewed,ci,ci
@@ -252,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T22:56:27.930Z,51.8626666666667,-178.063833333333,-1.76,1.62,ml,5,174,,0.23,av,av91822216,2023-03-27T23:48:58.720Z,"98 km W of Adak, Alaska",earthquake,0.6,1.38,0.203542182627373,5,reviewed,av,av
 2023-03-27T22:55:47.560Z,38.7851667,-122.7731667,0.45,0.39,md,11,108,0.01403,0.02,nc,nc73863230,2023-03-28T07:49:10.613Z,"2km WNW of The Geysers, CA",earthquake,0.27,0.75,0.127,8,reviewed,nc,nc
 2023-03-27T22:53:20.530Z,51.857,-178.088333333333,3.68,1.04,ml,5,210,,0.19,av,av91822211,2023-03-28T18:45:54.880Z,"100 km W of Adak, Alaska",earthquake,0.74,0.55,0.274800332652885,5,reviewed,av,av
-2023-03-27T22:46:40.350Z,51.8553333333333,-178.089,4.07,1.38,ml,5,211,,0.18,av,av91822206,2023-03-28T18:42:12.150Z,"100 km W of Adak, Alaska",earthquake,0.67,1.03,0.215417850500089,5,reviewed,av,av
-2023-03-27T22:45:39.210Z,53.8753333333333,-166.573166666667,4.86,0.88,ml,13,112,,0.12,av,av91822201,2023-03-28T18:39:35.240Z,"2 km W of Unalaska, Alaska",earthquake,0.3,0.63,0.191314993967886,14,reviewed,av,av
-2023-03-27T22:43:57.550Z,36.8748322,-121.3838348,6.02,1.49,md,8,182,0.08595,0.06,nc,nc73863225,2023-03-28T03:07:14.957Z,"3km NNE of Hollister, CA",earthquake,0.6,2.61,0.28,7,automatic,nc,nc
-2023-03-27T22:43:42.380Z,53.867,-166.577833333333,3.6,0.12,ml,6,147,,0.09,av,av91822196,2023-03-28T18:32:15.700Z,"2 km WSW of Unalaska, Alaska",earthquake,0.38,0.65,0.155652431272261,5,reviewed,av,av
-2023-03-27T22:43:31.990Z,53.8735,-166.578666666667,4.39,-0.18,ml,5,154,,0.07,av,av91096243,2023-03-28T18:36:17.900Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.37,0.95,0.231175145122781,5,reviewed,av,av
