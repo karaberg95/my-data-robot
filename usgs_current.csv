@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T07:47:09.640Z,19.204,-66.2185,21.52,3.25,md,16,252,0.7807,0.23,pr,pr71401873,2023-03-28T21:12:57.715Z,"82 km N of San Juan, Puerto Rico",earthquake,0.91,17.95,0.122285480087188,11,reviewed,pr,pr
 2023-03-28T07:47:01.150Z,51.8986666666667,-178.008166666667,8.37,1.42,ml,4,165,,0.08,av,av91822786,2023-03-29T02:04:35.660Z,"94 km W of Adak, Alaska",earthquake,0.82,0.6,0.303252906065834,4,reviewed,av,av
 2023-03-28T07:45:29.410Z,51.856,-178.042666666667,-1.8,1.29,ml,5,146,,0.23,av,av91822776,2023-03-29T02:01:44.830Z,"97 km W of Adak, Alaska",earthquake,0.52,1.42,0.184085095502405,5,reviewed,av,av
-2023-03-28T07:38:29.640Z,51.856,-178.046833333333,-1.8,0.36,ml,4,155,,0.16,av,av91822756,2023-03-29T01:52:56.260Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.53,1.62,0.398299011821589,4,reviewed,av,av
-2023-03-28T07:34:41.664Z,59.3129,-152.8808,68.1,1.7,ml,,,,0.44,ak,ak0234004lra,2023-03-28T07:36:35.448Z,"54 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
