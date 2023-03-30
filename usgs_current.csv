@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-30T09:37:54.150Z,38.8348351,-122.8171692,1.76,0.75,md,8,89,0.0127,0.01,nc,nc73864395,2023-03-30T09:39:30.668Z,"8km W of Cobb, CA",earthquake,0.43,1,0.23,11,automatic,nc,nc
 2023-03-30T09:23:32.524Z,65.3684,-150.0878,9.5,2.3,ml,,,,0.87,ak,ak02343cbsdg,2023-03-30T09:25:25.468Z,"15 km SSE of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-30T08:45:43.420Z,19.2320003509521,-155.371826171875,32.3400001525879,2.39,ml,41,153,,0.129999995,hv,hv73352672,2023-03-30T09:13:25.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,0.620000005,2.65,12,automatic,hv,hv
 2023-03-30T08:26:30.810Z,37.4133339,-118.536499,16.4,2.07,md,12,233,0.261,0.11,nc,nc73864380,2023-03-30T09:25:16.505Z,"5km E of Round Valley, CA",earthquake,1.74,3.05,0.07,9,automatic,nc,nc
