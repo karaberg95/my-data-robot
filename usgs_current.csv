@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T19:59:35.730Z,32.5245,-115.6158333,8.94,1.92,ml,20,91,0.03189,0.16,ci,ci39507850,2023-03-30T20:21:17.453Z,"7km SSW of Progreso, B.C., MX",earthquake,0.3,0.46,0.184,21,reviewed,ci,ci
 2023-03-30T19:55:02.931Z,-35.6984,-73.5677,10,4.2,mb,24,213,1.091,0.9,us,us6000k0ye,2023-03-30T20:26:10.040Z,"112 km WSW of Constitución, Chile",earthquake,4.96,1.993,0.374,2,reviewed,us,us
 2023-03-30T19:54:44.770Z,48.04383333333333,-121.85216666666666,-0.59,1.19,ml,7,131,0.1598,0.26,uw,uw61905917,2023-03-31T00:37:12.680Z,"7 km SW of Verlot, Washington",explosion,0.85,31.61,0.13517700896878326,3,reviewed,uw,uw
-2023-03-30T19:47:55.640Z,38.8086662,-122.8215027,2.59,0.92,md,12,63,0.006,0.02,nc,nc73864560,2023-03-30T20:06:11.103Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.89,0.25,14,automatic,nc,nc
