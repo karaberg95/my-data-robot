@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-31T23:27:10.864Z,62.3024,-150.1481,13.3,1.3,ml,,,,0.39,ak,ak02345880j2,2023-03-31T23:29:50.161Z,"3 km SW of Talkeetna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-31T23:12:04.663Z,64.9873,-147.4739,5.8,1.8,ml,,,,0.76,ak,ak0234584sb6,2023-03-31T23:13:48.450Z,"7 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T23:09:36.450Z,38.8134995,-122.8261642,1.72,1.11,md,14,76,0.00519,0.02,nc,nc73865170,2023-03-31T23:25:10.808Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.38,0.32,14,automatic,nc,nc
 2023-03-31T22:57:19.820Z,40.3878326,-124.3436661,19.9,2.4,md,13,297,0.07991,0.08,nc,nc73865165,2023-03-31T23:19:11.763Z,"9km NW of Petrolia, CA",earthquake,2.05,0.64,0.11,9,automatic,nc,nc
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T20:17:24.370Z,19.154333114624,-155.493667602539,33.7000007629395,2,ml,36,137,,0.159999996,hv,hv73353672,2023-03-31T20:22:55.510Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.58,1.14999998,5.36,3,automatic,hv,hv
 2023-03-31T20:14:30.800Z,19.2416667938232,-155.389663696289,28.5599994659424,2.12,ml,37,140,,0.129999995,hv,hv73353667,2023-03-31T20:20:01.290Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.69,0.959999979,0.24,6,automatic,hv,hv
 2023-03-31T20:07:07.080Z,19.1760005950928,-155.508666992188,34.0099983215332,1.92999995,md,37,153,,0.150000006,hv,hv73353662,2023-03-31T20:10:28.710Z,"4 km SW of Pāhala, Hawaii",earthquake,0.8,1.10000002,1.69000006,10,automatic,hv,hv
-2023-03-31T20:03:46.780Z,44.6748333,-110.7831667,5.23,1.13,ml,12,97,0.06352,0.14,uu,uu60536131,2023-03-31T20:18:19.348Z,"Wyoming",earthquake,0.35,1.23,0.383,2,reviewed,uu,uu
+2023-03-31T20:03:46.780Z,44.6748333,-110.7831667,5.23,1.13,ml,12,97,0.06352,0.14,uu,uu60536131,2023-03-31T20:18:19.348Z,"25 km E of West Yellowstone, Montana",earthquake,0.35,1.23,0.383,2,reviewed,uu,uu
 2023-03-31T20:00:50.320Z,34.0388333,-120.2146667,-0.41,2.69,ml,20,153,0.1135,0.27,ci,ci39508266,2023-03-31T21:42:37.042Z,"14km E of San Miguel Is., CA",earthquake,2.28,4.03,0.067,22,reviewed,ci,ci
 2023-03-31T19:59:51.598Z,58.1207,-155.439,15.3,1.1,ml,,,,0.65,ak,ak023456185z,2023-03-31T20:01:54.529Z,"84 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-31T19:59:02.130Z,38.8614998,-122.8011703,0.68,0.64,md,7,159,0.01856,0.02,nc,nc73865080,2023-03-31T20:40:11.781Z,"8km WNW of Cobb, CA",earthquake,0.39,1.32,0.11,8,automatic,nc,nc
@@ -260,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T23:56:53.770Z,44.5355,-110.3741667,3.66,0.84,md,10,77,0.03149,0.16,uu,uu60536021,2023-03-31T15:22:21.510Z,"Yellowstone National Park, Wyoming",earthquake,0.31,0.87,0.274,7,reviewed,uu,uu
 2023-03-30T23:45:28.490Z,46.016333333333336,-122.14483333333334,4.32,0.86,ml,15,176,0.04825,0.17,uw,uw61905962,2023-03-30T23:50:59.340Z,"26 km ENE of Amboy, Washington",earthquake,0.53,0.74,0.29946680710841533,8,reviewed,uw,uw
 2023-03-30T23:38:04.911Z,64.0381,-148.7957,0.1,1.8,ml,,,,0.5,ak,ak02343kr0gb,2023-03-30T23:39:45.632Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-30T23:33:01.346Z,58.3103,-155.0037,0,2.8,ml,,,,0.61,ak,ak02343kpxla,2023-03-30T23:39:17.040Z,"88 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
