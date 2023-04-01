@@ -35,10 +35,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T17:02:46.940Z,37.7515,-122.142,7.34,2.19,md,105,28,0.0327,0.08,nc,nc73865520,2023-04-01T22:10:56.034Z,"3km NNE of San Leandro, CA",earthquake,0.09,0.19,0.188,82,reviewed,nc,nc
 2023-04-01T16:47:06.290Z,38.8118324,-122.8291702,1.41,0.84,md,8,84,0.00296,0.02,nc,nc73865515,2023-04-01T17:11:14.657Z,"7km WNW of The Geysers, CA",earthquake,0.58,1.09,0.36,7,automatic,nc,nc
 2023-04-01T16:44:39.770Z,33.3816667,-116.9013333,11.92,2.21,ml,68,33,0.1094,0.23,ci,ci39508762,2023-04-01T16:55:29.810Z,"4km NW of Palomar Observatory, CA",earthquake,0.21,1.01,0.174,25,automatic,ci,ci
-2023-04-01T16:43:48.280Z,37.7491667,-122.1433333,7.62,3.01,ml,149,15,0.03141,0.1,nc,nc73865505,2023-04-01T22:10:19.628Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.15,0.244,107,reviewed,nc,nc
+2023-04-01T16:43:48.280Z,37.7491667,-122.1433333,7.62,3.01,ml,149,15,0.03141,0.1,nc,nc73865505,2023-04-01T22:38:30.342Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.15,0.244,107,reviewed,nc,nc
 2023-04-01T16:43:33.460Z,37.7493333,-122.145,7.64,2.68,md,142,28,0.03236,0.1,nc,nc73865495,2023-04-01T22:20:51.096Z,"3km NNE of San Leandro, CA",earthquake,0.09,0.15,0.328,18,reviewed,nc,nc
 2023-04-01T16:36:12.453Z,36.8249,-115.9145,13.6,0.1,ml,15,203.99,0.035,0.1258,nn,nn00857750,2023-04-01T16:38:03.258Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.1,0.27,8,automatic,nn,nn
-2023-04-01T16:24:56.230Z,37.7505,-122.1426667,7.58,3,ml,147,15,0.03217,0.1,nc,nc73865490,2023-04-01T22:15:54.078Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.17,0.252,128,reviewed,nc,nc
+2023-04-01T16:24:56.230Z,37.7505,-122.1426667,7.58,3,ml,147,15,0.03217,0.1,nc,nc73865490,2023-04-01T22:37:52.040Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.17,0.252,128,reviewed,nc,nc
 2023-04-01T16:14:42.280Z,46.25966666666667,-122.04466666666667,9.9,1.16,ml,31,89,0.09684,0.17,uw,uw61915346,2023-04-01T19:16:15.750Z,"37 km SSE of Morton, Washington",earthquake,0.3,0.82,0.20796981007885174,18,reviewed,uw,uw
 2023-04-01T16:07:51.861Z,56.8513,-158.0858,4.3,2.5,ml,,,,0.74,ak,ak02346rh4mq,2023-04-01T20:52:28.890Z,"34 km ESE of Port Heiden, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T15:57:39.935Z,27.3325,53.0705,19.044,5.1,mb,38,79,3.686,0.58,us,us6000k1d6,2023-04-01T16:14:46.040Z,"30 km SE of Mohr, Iran",earthquake,8.22,4.609,0.064,79,reviewed,us,us
@@ -186,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T22:44:47.660Z,33.1901667,-116.393,10.74,0.98,ml,22,108,0.08041,0.23,ci,ci39508354,2023-03-31T22:48:23.268Z,"8km SSW of Borrego Springs, CA",earthquake,0.54,0.73,0.163,19,automatic,ci,ci
 2023-03-31T22:43:02.960Z,33.8968333,-117.0658333,3.51,0.73,ml,15,77,0.07501,0.21,ci,ci39508346,2023-03-31T22:46:45.329Z,"9km WSW of Beaumont, CA",earthquake,0.4,1.64,0.174,14,automatic,ci,ci
 2023-03-31T22:40:36.430Z,38.836834,-122.8121643,1.33,1.01,md,9,100,0.02148,0.02,nc,nc73865155,2023-03-31T23:09:11.698Z,"8km WNW of Cobb, CA",earthquake,0.46,0.57,0.3,11,automatic,nc,nc
-2023-03-31T22:37:28.730Z,38.7915001,-122.7348328,1.27,0.88,md,9,94,0.008382,0.04,nc,nc73865150,2023-03-31T23:04:10.663Z,"2km NE of The Geysers, CA",earthquake,0.35,0.71,0.19,7,automatic,nc,nc
-2023-03-31T22:36:34.500Z,38.7906685,-122.7360001,1.85,0.72,md,6,103,0.007442,0.01,nc,nc73865145,2023-03-31T23:45:12.931Z,"2km NE of The Geysers, CA",earthquake,0.35,0.84,0.16,7,automatic,nc,nc
-2023-03-31T22:36:11.513Z,-50.0285,113.9109,10,5.6,mww,33,76,50.901,0.56,us,us6000k18y,2023-04-01T00:39:56.371Z,"southeast Indian Ridge",earthquake,11.38,1.747,0.066,22,reviewed,us,us
