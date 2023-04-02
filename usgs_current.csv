@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T10:50:34.154Z,58.0179,-152.2829,23.5,2.3,ml,,,,0.42,ak,ak02348bp1x3,2023-04-02T10:53:35.114Z,"Kodiak Island region, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-02T10:39:20.030Z,19.2259998321533,-155.432998657227,33.9000015258789,2.00999999,md,34,128,,0.129999995,hv,hv73354782,2023-04-02T10:42:40.440Z,"Hawaii region, Hawaii",earthquake,0.73,0.889999986,0.800000012,5,automatic,hv,hv
 2023-04-02T10:20:29.120Z,34.0976667,-117.7948333,14.26,1.12,ml,33,57,0.01173,0.23,ci,ci39509042,2023-04-02T10:30:51.350Z,"2km SE of San Dimas, CA",earthquake,0.41,0.54,0.192,26,automatic,ci,ci
 2023-04-02T10:00:49.980Z,62.9727,-150.3624,85,1.1,ml,,,,0.34,ak,ak02348bedc6,2023-04-02T10:03:22.428Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
