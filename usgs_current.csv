@@ -111,6 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:07:46.740Z,37.9044991,-121.8198318,0.12,1.84,md,10,107,0.06952,0.17,nc,nc73866215,2023-04-03T12:42:11.729Z,"9km WSW of Brentwood, CA",earthquake,0.55,6.84,0.11,7,automatic,nc,nc
 2023-04-03T11:58:42.954Z,61.5447,-150.5642,31.2,1.2,ml,,,,0.73,ak,ak02349zvkfb,2023-04-03T12:00:19.328Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-03T11:35:28.000Z,35.2038333,-118.6721667,5.99,3.08,ml,66,47,0.03039,0.15,ci,ci39509394,2023-04-04T02:57:07.094Z,"14km E of Arvin, CA",earthquake,0.14,0.55,0.129,214,reviewed,ci,ci
+2023-04-03T11:33:45.760Z,58.1945,-155.2645,1.52,-0.74,ml,5,135,,0.05,av,av91832451,2023-04-04T03:39:55.260Z,"84 km NW of Karluk, Alaska",earthquake,0.37,1.32,0.20952017409497,5,reviewed,av,av
 2023-04-03T11:25:31.400Z,34.0011667,-116.8468333,15.29,1.22,ml,42,40,0.04692,0.12,ci,ci39509386,2023-04-04T00:22:09.470Z,"9km NNE of Banning, CA",earthquake,0.14,0.31,0.117,25,reviewed,ci,ci
 2023-04-03T11:14:33.550Z,33.2943333,-116.1961667,2.66,1.42,ml,38,47,0.1124,0.24,ci,ci39509378,2023-04-04T00:13:25.446Z,"17km ENE of Borrego Springs, CA",earthquake,0.28,0.72,0.149,27,reviewed,ci,ci
 2023-04-03T11:10:39.790Z,33.2953333,-116.1966667,2.79,1.17,ml,34,61,0.1131,0.23,ci,ci39509370,2023-04-04T00:01:26.335Z,"17km ENE of Borrego Springs, CA",earthquake,0.27,0.67,0.126,23,reviewed,ci,ci
@@ -196,6 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T03:55:02.834Z,28.0114,56.915,10,4.3,mb,50,108,3.119,0.43,us,us6000k1n3,2023-04-03T04:15:26.040Z,"southern Iran",earthquake,10.57,1.906,0.086,38,reviewed,us,us
 2023-04-03T03:45:49.012Z,37.9232,36.271,5,4.3,mb,34,51,0.348,0.65,us,us6000k1n0,2023-04-03T04:02:06.040Z,"central Turkey",earthquake,1.89,1.945,0.168,10,reviewed,us,us
 2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-03T03:41:21.008Z,51.3501,179.7098,44.5,3.7,ml,,,,0.33,ak,ak02349v0dtm,2023-04-03T19:29:39.757Z,"259 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-04-03T03:40:32.760Z,51.8483333333333,-178.079166666667,2.82,2.67,ml,7,130,,0.18,av,av91832001,2023-04-03T21:51:12.330Z,"99 km W of Adak, Alaska",earthquake,0.51,0.67,0.292224100533212,7,reviewed,av,av
-2023-04-03T03:39:03.750Z,44.4135,-124.43883333333333,27.17,2.3000000000000003,ml,21,154,0.2645,0.11,uw,uw61915651,2023-04-03T15:45:35.602Z,"offshore Oregon",earthquake,0.32,0.62,0.15674791206878114,13,reviewed,uw,uw
