@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-04T02:47:41.950Z,38.8370018,-122.7976685,2.01,1.02,md,10,70,0.01753,0.02,nc,nc73866570,2023-04-04T02:49:17.919Z,"7km WNW of Cobb, CA",earthquake,0.31,0.99,0.11,12,automatic,nc,nc
+2023-04-04T02:45:27.580Z,38.7853317,-122.7456665,1.32,1.56,md,15,81,0.007295,0.03,nc,nc73866565,2023-04-04T02:47:02.917Z,"1km NE of The Geysers, CA",earthquake,0.24,0.45,0.25,14,automatic,nc,nc
 2023-04-04T02:18:36.868Z,60.2048,-153.0216,119.3,1.9,ml,,,,0.2,ak,ak0234bhtfd2,2023-04-04T02:21:43.003Z,"71 km E of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-04T02:15:10.678Z,62.7892,-149.2574,73,1,ml,,,,0.49,ak,ak0234bhsq6z,2023-04-04T02:17:41.776Z,"57 km NE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-04T02:12:01.496Z,16.2878,-96.9219,42.47,5.3,mww,66,147,2.021,0.9,us,us6000k1uw,2023-04-04T02:41:50.652Z,"8 km NW of San Jerónimo Coatlán, Mexico",earthquake,8.75,7.963,0.083,14,reviewed,us,us
+2023-04-04T02:12:01.496Z,16.2878,-96.9219,42.47,5.3,mww,66,147,2.021,0.9,us,us6000k1uw,2023-04-04T02:48:12.309Z,"8 km NW of San Jerónimo Coatlán, Mexico",earthquake,8.75,7.963,0.083,14,reviewed,us,us
 2023-04-04T02:10:40.380Z,18.0691666666667,-66.2383333333333,15.07,2.54,md,8,133,0.09294,0.31,pr,pr71402423,2023-04-04T02:27:11.590Z,"0 km N of Vázquez, Puerto Rico",earthquake,1.3,1.07,0.0838855370599239,8,reviewed,pr,pr
 2023-04-04T02:07:08.040Z,38.7878342,-122.7679977,2.14,1.09,md,7,97,0.02487,0.03,nc,nc73866545,2023-04-04T02:37:12.876Z,"2km NW of The Geysers, CA",earthquake,0.37,1.49,0.17,8,automatic,nc,nc
 2023-04-04T02:07:02.899Z,62.2713,-149.7854,6.2,1.4,ml,,,,0.61,ak,ak0234bhqzv5,2023-04-04T02:09:03.919Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
