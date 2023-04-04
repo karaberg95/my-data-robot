@@ -4,13 +4,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T23:14:11.570Z,36.8035011,-121.3215027,8.78,1.96,md,29,68,0.09794,0.08,nc,nc73866935,2023-04-04T23:27:11.415Z,"2km N of Tres Pinos, CA",earthquake,0.25,0.6,0.23,23,automatic,nc,nc
 2023-04-04T22:45:53.630Z,36.8133316,-121.3206635,7.72,1.55,md,6,196,0.1077,0.03,nc,nc73866930,2023-04-04T23:01:11.378Z,"3km N of Tres Pinos, CA",earthquake,0.89,2.11,0.2,6,automatic,nc,nc
 2023-04-04T22:35:33.520Z,47.1585,-121.80733333333333,-1.01,1.32,ml,20,159,0.2002,0.11,uw,uw61916151,2023-04-04T23:03:07.130Z,"11 km W of Greenwater, Washington",explosion,0.58,31.61,0.12578081845698508,14,reviewed,uw,uw
-2023-04-04T22:29:19.501Z,61.4898,-151.2459,63.7,2.6,ml,,,,0.22,ak,ak0234btsety,2023-04-04T22:30:54.386Z,"39 km W of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-04T22:27:20.865Z,61.5853,-149.7938,43.9,1.6,ml,,,,0.55,ak,ak0234btrzo6,2023-04-04T22:29:29.876Z,"5 km SSE of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-04-04T22:23:17.780Z,36.8035011,-121.3219986,9.15,4.46,mw,66,49,0.09786,0.13,nc,nc73866925,2023-04-04T23:31:21.131Z,"2km N of Tres Pinos, CA",earthquake,0.2,0.37,,4,reviewed,nc,nc
+2023-04-04T22:23:17.780Z,36.8035011,-121.3219986,9.15,4.46,mw,66,49,0.09786,0.13,nc,nc73866925,2023-04-04T23:42:03.030Z,"2km N of Tres Pinos, CA",earthquake,0.2,0.37,,4,reviewed,nc,nc
 2023-04-04T22:22:58.150Z,19.3803329467773,-155.285171508789,0.370000004768372,1.79999995,md,4,207,,0.0799999982,hv,hv73356632,2023-04-04T22:25:56.310Z,"8 km SW of Volcano, Hawaii",earthquake,0.47,0.649999976,0.75999999,3,automatic,hv,hv
-2023-04-04T22:18:12.605Z,7.5834,-82.3214,12.966,6.3,mww,113,63,1.286,0.89,us,us6000k20g,2023-04-04T23:23:10.422Z,"71 km S of Boca Chica, Panama",earthquake,6.03,1.928,0.051,37,reviewed,us,us
+2023-04-04T22:18:12.605Z,7.5834,-82.3214,12.966,6.3,mww,113,63,1.286,0.89,us,us6000k20g,2023-04-04T23:36:01.974Z,"71 km S of Boca Chica, Panama",earthquake,6.03,1.928,0.051,37,reviewed,us,us
 2023-04-04T22:02:17.210Z,19.2603340148926,-155.389663696289,33.2900009155273,2.00999999,md,35,130,,0.119999997,hv,hv73356612,2023-04-04T22:05:31.570Z,"Hawaii region, Hawaii",earthquake,0.58,0.709999979,1.40999997,12,automatic,hv,hv
-2023-04-04T21:33:35.242Z,56.8431,-158.1352,0,2.1,ml,,,,0.47,ak,ak0234bt7vh0,2023-04-04T21:35:42.155Z,"32 km ESE of Port Heiden, Alaska",earthquake,,26.4,,,automatic,ak,ak
+2023-04-04T21:33:35.242Z,56.8431,-158.1352,0,2.1,ml,,,,0.47,ak,ak0234bt7vh0,2023-04-04T23:37:23.640Z,"32 km ESE of Port Heiden, Alaska",earthquake,,26.4,,,automatic,ak,ak
 2023-04-04T21:28:33.998Z,56.8121,-132.379,12.507,3.1,ml,12,135,0.394,0.54,us,us6000k20b,2023-04-04T21:40:04.040Z,"35 km E of Petersburg, Alaska",earthquake,4.16,2.977,0.074,24,reviewed,us,us
 2023-04-04T21:27:06.690Z,58.1805,-155.306333333333,2.24,-0.33,ml,7,160,,0.08,av,av91834461,2023-04-04T23:10:25.560Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.53,0.290228992348444,7,reviewed,av,av
 2023-04-04T21:18:42.337Z,51.8696,-178.0589,4.1,1.8,ml,,,,0.35,ak,ak0234bt4oc0,2023-04-04T23:08:28.950Z,"98 km W of Adak, Alaska",earthquake,,0,,,reviewed,ak,ak
