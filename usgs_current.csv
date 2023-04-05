@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T11:54:06.955Z,61.3697,-146.8129,30.7,1.5,ml,,,,0.6,ak,ak0234bndz9z,2023-04-04T11:56:06.434Z,"36 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-04T11:48:39.080Z,39.546,-123.3871667,6.4,1.72,md,18,74,0.086,0.07,nc,nc73866690,2023-04-05T01:49:14.465Z,"11km N of Brooktrails, CA",earthquake,0.26,0.52,0.115,19,reviewed,nc,nc
 2023-04-04T11:45:11.907Z,62.5893,-149.6426,12.1,1.3,ml,,,,0.96,ak,ak0234bnc27q,2023-04-04T11:47:45.990Z,"28 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-04T11:24:21.580Z,34.265,-116.8033333,5.31,1.26,ml,25,70,0.08519,0.2,ci,ci39509602,2023-04-04T14:03:45.650Z,"4km E of Big Bear City, CA",earthquake,0.31,1.19,0.17,30,reviewed,ci,ci
-2023-04-04T11:22:02.700Z,34.263,-116.803,4.41,1.51,ml,33,64,0.08719,0.21,ci,ci39509594,2023-04-04T14:03:51.780Z,"4km E of Big Bear City, CA",earthquake,0.29,1.38,0.134,27,reviewed,ci,ci
