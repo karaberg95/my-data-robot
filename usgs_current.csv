@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-07T09:54:57.500Z,38.7788315,-122.768837,1.29,1.26,md,15,99,0.008451,0.04,nc,nc73868530,2023-04-07T09:56:35.874Z,"1km W of The Geysers, CA",earthquake,0.29,0.4,0.17,15,automatic,nc,nc
+2023-04-07T09:52:13.710Z,38.8448334,-122.8183365,1.34,1.16,md,14,68,0.01056,0.02,nc,nc73868525,2023-04-07T09:53:51.067Z,"9km WNW of Cobb, CA",earthquake,0.28,0.46,0.22,16,automatic,nc,nc
 2023-04-07T09:46:05.851Z,60.362,-153.0291,120.9,2,ml,,,,0.45,ak,ak0234gkrfqh,2023-04-07T09:48:07.767Z,"73 km ENE of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-07T09:45:41.420Z,34.0356667,-116.649,10.84,0.88,ml,23,59,0.002977,0.17,ci,ci40437560,2023-04-07T09:49:10.066Z,"6km WSW of Morongo Valley, CA",earthquake,0.29,0.39,0.147,23,automatic,ci,ci
 2023-04-07T09:37:33.720Z,38.8059998,-122.7799988,0.73,0.93,md,9,90,0.007268,0.02,nc,nc73868515,2023-04-07T09:50:11.265Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.99,0.19,9,automatic,nc,nc
@@ -33,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T06:47:19.356Z,62.4601,-149.3214,2.2,1.5,ml,,,,0.75,ak,ak0234gizdof,2023-04-07T06:49:14.217Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-07T06:36:31.279Z,62.3141,-151.4291,90,1.2,ml,,,,0.51,ak,ak0234gix1q2,2023-04-07T06:39:06.349Z,"36 km N of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-07T06:28:06.380Z,38.8345,-122.8195,1.37,0.25,md,13,88,0.01314,0.03,nc,nc73868435,2023-04-07T07:57:12.374Z,"8km NW of The Geysers, CA",earthquake,0.31,0.57,0.464,13,reviewed,nc,nc
-2023-04-07T06:27:08.190Z,38.8320007,-122.8144989,1.44,2.01,md,37,44,0.009262,0.03,nc,nc73868430,2023-04-07T08:53:11.751Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.22,37,automatic,nc,nc
+2023-04-07T06:27:08.190Z,38.8320007,-122.8144989,1.44,2.01,md,37,44,0.009262,0.03,nc,nc73868430,2023-04-07T09:57:16.177Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.22,37,automatic,nc,nc
 2023-04-07T06:24:53.169Z,64.7281,-149.233,23.3,0.9,ml,,,,0.61,ak,ak0234giuitg,2023-04-07T06:26:27.622Z,"14 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T06:09:23.140Z,33.2555,-116.2931667,10.24,0.76,ml,20,50,0.07073,0.16,ci,ci40437504,2023-04-07T06:12:56.617Z,"8km E of Borrego Springs, CA",earthquake,0.33,0.6,0.135,13,automatic,ci,ci
 2023-04-07T06:02:59.320Z,38.831665,-122.8153305,1.74,0.77,md,12,52,0.009222,0.02,nc,nc73868420,2023-04-07T06:26:10.951Z,"8km NW of The Geysers, CA",earthquake,0.32,0.87,0.16,13,automatic,nc,nc
