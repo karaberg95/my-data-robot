@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T17:14:56.190Z,44.7263333,-111.0061667,10.5,1.64,md,21,55,0.03299,0.14,uu,uu60536556,2023-04-07T18:19:24.410Z,"10 km NE of West Yellowstone, Montana",earthquake,0.32,0.5,0.21,15,reviewed,uu,uu
 2023-04-07T17:07:09.814Z,51.848,-178.1023,5,2.7,ml,11,128,0.042,0.45,us,us6000k2q2,2023-04-07T18:15:04.040Z,"101 km W of Adak, Alaska",earthquake,1.18,1.825,0.148,14,reviewed,us,us
 2023-04-07T17:06:44.890Z,19.2455005645752,-155.397506713867,31.1800003051758,1.92999995,md,31,135,,0.150000006,hv,hv73358452,2023-04-07T17:10:04.240Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,1.01999998,1.23000002,12,automatic,hv,hv
-2023-04-07T16:59:47.960Z,37.5385,-118.8706667,5.08,0.6,md,9,293,0.06113,0.02,nc,nc73868645,2023-04-07T17:58:12.020Z,"14km SE of Mammoth Lakes, CA",earthquake,3.08,2.22,0.219,9,reviewed,nc,nc
+2023-04-07T16:59:47.960Z,37.5385,-118.8706667,5.08,0.6,md,9,293,0.06113,0.02,nc,nc73868645,2023-04-07T18:44:12.297Z,"14km SE of Mammoth Lakes, CA",earthquake,3.08,2.22,0.219,9,reviewed,nc,nc
 2023-04-07T16:56:25.464Z,64.2127,-150.411,0,1.5,ml,,,,0.76,ak,ak0234goznn6,2023-04-07T16:58:33.781Z,"59 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-07T16:41:41.900Z,36.0155,-117.814,1.87,1.43,ml,18,70,0.0332,0.1,ci,ci40437704,2023-04-07T18:29:23.928Z,"12km NE of Little Lake, CA",earthquake,0.19,0.2,0.095,11,reviewed,ci,ci
 2023-04-07T16:40:26.527Z,57.8225,-156.4837,142.1,1.6,ml,,,,0.43,ak,ak0234gow89o,2023-04-07T16:43:08.029Z,"64 km ENE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -271,6 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T19:11:03.100Z,19.2371673583984,-155.387496948242,30.9099998474121,1.82000005,md,26,147,,0.100000001,hv,hv73357872,2023-04-06T19:14:01.690Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.83,0.720000029,0.449999988,4,automatic,hv,hv
 2023-04-06T19:07:43.570Z,46.14383333333333,-119.27133333333333,-0.29,1.8900000000000001,ml,12,171,0.2048,0.11,uw,uw61916471,2023-04-06T19:42:54.470Z,"12 km W of Highland, Washington",explosion,0.48,31.61,0.15201047401687862,11,reviewed,uw,uw
 2023-04-06T19:00:19.468Z,51.6382,179.2378,13.3,2.5,ml,,,,0.55,ak,ak0234f2wkmc,2023-04-06T20:13:02.190Z,"286 km W of Adak, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-04-06T18:49:38.400Z,38.8266678,-122.8538361,2.41,0.66,md,14,92,0.002529,0.01,nc,nc73868170,2023-04-06T19:26:13.859Z,"10km WNW of The Geysers, CA",earthquake,0.3,0.63,0.29,14,automatic,nc,nc
-2023-04-06T18:48:06.500Z,35.79083333,-96.97883333,6.92,1.45,ml,52,40,0.1826641551,0.18,ok,ok2023gtaa,2023-04-07T16:25:49.630Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.4,0.24,8,reviewed,ok,ok
-2023-04-06T18:43:47.890Z,-36.9565,177.507,136.014,4.5,mb,27,150,0.879,0.88,us,us6000k2hy,2023-04-06T19:23:37.040Z,"118 km N of Opotiki, New Zealand",earthquake,7.64,6.522,0.108,25,reviewed,us,us
