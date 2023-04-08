@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-08T09:42:16.720Z,38.8079987,-122.8255005,1.31,0.36,md,8,69,0.003001,0.02,nc,nc73869180,2023-04-08T09:43:50.354Z,"7km WNW of The Geysers, CA",earthquake,0.33,0.95,0.15,7,automatic,nc,nc
 2023-04-08T09:36:33.970Z,38.8276672,-122.8190002,1.33,1.08,md,15,56,0.008174,0.02,nc,nc73869170,2023-04-08T09:38:10.736Z,"8km NW of The Geysers, CA",earthquake,0.25,0.48,0.39,17,automatic,nc,nc
+2023-04-08T09:24:57.940Z,52.7895,-163.2415,10,3.4,ml,9,243,1.921,0.43,us,us6000k2up,2023-04-08T09:44:26.040Z,"225 km SE of Akutan, Alaska",earthquake,7,2.012,0.085,18,reviewed,us,us
 2023-04-08T09:07:36.806Z,34.654,70.6313,51.614,4.4,mb,35,135,1.315,0.47,us,us6000k2un,2023-04-08T09:37:50.040Z,"30 km NNE of Jalālābād, Afghanistan",earthquake,7.59,10.21,0.076,53,reviewed,us,us
 2023-04-08T09:01:42.591Z,58.2544,-155.137,2,1.1,ml,,,,0.53,ak,ak0234i817ub,2023-04-08T09:03:47.410Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T08:59:40.360Z,63.5799,-150.0765,133.7,1.7,ml,,,,0.37,ak,ak0234i7s7lu,2023-04-08T09:02:17.196Z,"59 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -270,6 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T09:58:37.625Z,59.6407,-153.792,1.3,1.5,ml,,,,0.6,ak,ak0234gku2s2,2023-04-07T10:00:36.076Z,"24 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T09:54:57.490Z,38.7805,-122.7676667,1.35,1.21,md,34,87,0.009879,0.04,nc,nc73868530,2023-04-07T23:53:15.209Z,"1km WNW of The Geysers, CA",earthquake,0.18,0.25,0.212,27,reviewed,nc,nc
 2023-04-07T09:52:13.710Z,38.8448334,-122.8183365,1.34,1.16,md,14,68,0.01056,0.02,nc,nc73868525,2023-04-07T12:44:14.157Z,"9km WNW of Cobb, CA",earthquake,0.28,0.46,0.22,16,automatic,nc,nc
-2023-04-07T09:50:12.340Z,53.8711666666667,-166.553833333333,4.14,0.04,ml,6,168,,0.09,av,av91838416,2023-04-07T22:37:01.270Z,"1 km WSW of Unalaska, Alaska",earthquake,0.55,0.94,,1,reviewed,av,av
-2023-04-07T09:46:05.851Z,60.362,-153.0291,120.9,2,ml,,,,0.45,ak,ak0234gkrfqh,2023-04-07T09:48:07.767Z,"73 km ENE of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-07T09:45:41.310Z,34.033,-116.6476667,11.18,0.86,ml,26,58,0.005511,0.09,ci,ci40437560,2023-04-07T23:34:02.294Z,"6km WSW of Morongo Valley, CA",earthquake,0.17,0.28,0.173,23,reviewed,ci,ci
