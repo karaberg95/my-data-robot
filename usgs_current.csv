@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-11T19:42:17.790Z,38.8423347,-122.7931671,8.61,0.33,md,7,150,0.004497,0.06,nc,nc73870840,2023-04-11T19:43:52.318Z,"6km WNW of Cobb, CA",earthquake,1.85,7.51,0.22,8,automatic,nc,nc
+2023-04-11T19:42:17.790Z,38.8423347,-122.7931671,8.61,0.33,md,7,150,0.004497,0.06,nc,nc73870840,2023-04-11T19:55:11.384Z,"6km WNW of Cobb, CA",earthquake,1.85,7.51,0.22,8,automatic,nc,nc
 2023-04-11T19:29:31.380Z,53.8676666666667,-166.805333333333,5.94,-0.33,ml,6,138,,0.1,av,av91844616,2023-04-11T19:48:37.350Z,"17 km W of Dutch Harbor, Alaska",earthquake,0.42,0.87,0.260482819469914,6,reviewed,av,av
 2023-04-11T19:14:21.720Z,38.8183327,-122.7870026,0.9,1,md,6,87,0.007073,0,nc,nc73870825,2023-04-11T19:32:13.244Z,"5km NNW of The Geysers, CA",earthquake,0.86,3.08,0.22,8,automatic,nc,nc
 2023-04-11T19:07:17.327Z,61.9654,-148.9457,4.2,1.5,ml,,,,0.62,ak,ak0234ncmtpw,2023-04-11T19:09:05.034Z,"22 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T05:54:06.674Z,17.7923,-66.8219,10,3.6,ml,6,268,0.275,0.18,us,us6000k3fe,2023-04-11T07:56:48.955Z,"21 km SSE of Maria Antonia, Puerto Rico",earthquake,1.07,1.991,0.105,12,reviewed,us,us
 2023-04-11T05:54:00.730Z,17.9388,-66.8393,13,3.1,ml,18,192,0.0539,0.15,pr,pr2023101000,2023-04-11T06:40:44.734Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.76,0.39,0,0,reviewed,pr,pr
 2023-04-11T05:47:55.530Z,38.7961655,-122.7320023,0.77,0.73,md,8,140,0.01343,0.01,nc,nc73870535,2023-04-11T06:18:15.280Z,"3km NE of The Geysers, CA",earthquake,0.35,0.71,0.2,8,automatic,nc,nc
+2023-04-11T05:44:32.953Z,37.364,-114.9202,13.1,1.3,ml,6,260.26,0.113,0.0808,nn,nn00858094,2023-04-11T19:51:34.590Z,"21 km E of Alamo, Nevada",earthquake,,4.6,0.68,3,reviewed,nn,nn
 2023-04-11T05:43:06.000Z,17.94,-66.9613333333333,14.4,1.92,md,4,226,0.08416,0.05,pr,pr71403928,2023-04-11T05:53:51.740Z,"Puerto Rico",earthquake,0.8,0.76,0.105634680982186,4,reviewed,pr,pr
 2023-04-11T05:39:41.288Z,57.4716,-154.8678,5,1.4,ml,,,,0.71,ak,ak0234n4hoii,2023-04-11T13:59:31.750Z,"26 km WSW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-04-11T05:39:36.744Z,36.7617,-116.2392,4.2,-0.3,ml,10,120,0.035,0.1234,nn,nn00858093,2023-04-11T19:45:23.325Z,"49 km ESE of Beatty, Nevada",earthquake,,1.5,0.17,4,reviewed,nn,nn
@@ -262,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:12:02.240Z,51.8583333333333,-178.059666666667,-1.8,1.37,ml,4,174,,0.12,av,av91843286,2023-04-10T21:56:05.740Z,"98 km W of Adak, Alaska",earthquake,0.41,1.24,0.250514875867086,4,reviewed,av,av
 2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12,104,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10,reviewed,us,us
 2023-04-10T20:01:47.170Z,62.1842,-149.3804,18.3,1.4,ml,,,,0.36,ak,ak0234lpnou5,2023-04-10T20:03:29.793Z,"24 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-10T19:58:37.250Z,53.8775,-166.593666666667,5.71,0.84,ml,18,113,,0.12,av,av91843266,2023-04-10T21:48:37.340Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.54,0.237066306105595,18,reviewed,av,av
-2023-04-10T19:57:13.990Z,51.8613333333333,-178.049333333333,-1.8,1.6,ml,5,154,,0.12,av,av91843261,2023-04-10T21:44:08.250Z,"97 km W of Adak, Alaska",earthquake,0.45,0.97,0.373777170406916,5,reviewed,av,av
-2023-04-10T19:53:37.485Z,64.9313,-148.9314,13.2,1.1,ml,,,,0.45,ak,ak0234lpddpd,2023-04-10T19:57:12.228Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
