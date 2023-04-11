@@ -125,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T00:48:28.930Z,33.5263333,-116.7281667,5.15,0.46,ml,19,84,0.0397,0.1,ci,ci40439472,2023-04-11T14:10:15.177Z,"6km WSW of Anza, CA",earthquake,0.21,0.36,0.166,5,reviewed,ci,ci
 2023-04-11T00:36:59.823Z,58.1385,-156.3575,4.5,1.1,ml,,,,0.71,ak,ak0234n1hzfi,2023-04-11T13:44:33.508Z,"60 km E of Egegik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-11T00:24:03.800Z,33.707,-116.7625,15.53,0.91,ml,36,39,0.0405,0.16,ci,ci40439464,2023-04-11T00:27:34.983Z,"6km SW of Idyllwild, CA",earthquake,0.23,0.35,0.215,26,automatic,ci,ci
+2023-04-11T00:24:01.450Z,36.2068333333333,-89.4985,4.41,1.43,md,7,116,0.03587,0.23,nm,nm60500603,2023-04-11T14:22:53.200Z,"6 km S of Ridgely, Tennessee",earthquake,0.81,2.05,0.137578010060774,7,reviewed,nm,nm
 2023-04-11T00:23:32.030Z,62.2695,-151.1076,73,1.4,ml,,,,0.34,ak,ak0234n1f1tf,2023-04-11T00:26:43.391Z,"30 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T00:21:58.620Z,53.8623333333333,-166.791333333333,7.35,0.63,ml,7,123,,0.15,av,av91097308,2023-04-11T00:42:35.720Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.45,0.82,0.208223041581163,7,reviewed,av,av
 2023-04-11T00:21:40.820Z,53.9303333333333,-166.753833333333,4.32,0.6,ml,7,175,,0.12,av,av91843591,2023-04-11T00:40:30.040Z,"14 km WNW of Dutch Harbor, Alaska",earthquake,0.36,0.6,0.106747987322567,7,reviewed,av,av
