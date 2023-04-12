@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-12T04:33:38.221Z,60.4773,-143.0638,16.6,1.1,ml,,,,0.58,ak,ak0234oreada,2023-04-12T04:35:51.132Z,"106 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-12T04:32:49.261Z,56.9288,-155.5352,0,1.8,ml,,,,0.43,ak,ak0234ore3i6,2023-04-12T04:34:32.721Z,"83 km W of Akhiok, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-04-12T04:20:59.940Z,64.8364,-148.9451,17.4,1.1,ml,,,,0.36,ak,ak0234orbjqi,2023-04-12T04:22:46.007Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-12T04:07:09.430Z,38.8208351,-122.7671661,1.89,1.21,md,19,107,0.009858,0.02,nc,nc73871145,2023-04-12T04:20:10.538Z,"4km W of Cobb, CA",earthquake,0.27,0.39,0.2,20,automatic,nc,nc
 2023-04-12T03:53:03.930Z,33.9483333,-115.6618333,3.22,2.61,ml,33,86,0.2411,0.16,ci,ci40439912,2023-04-12T04:04:07.130Z,"36km NW of Desert Center, CA",earthquake,0.3,1.42,0.155,26,automatic,ci,ci
@@ -49,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T00:22:09.730Z,19.175666809082,-155.480834960938,32.6500015258789,1.75,md,18,161,,0.119999997,hv,hv73361602,2023-04-12T00:25:15.690Z,"Island of Hawaii, Hawaii",earthquake,1.51,1.14999998,1.76999998,4,automatic,hv,hv
 2023-04-12T00:22:05.760Z,38.7921677,-122.7634964,2.26,0.74,md,7,90,0.008948,0.01,nc,nc73870965,2023-04-12T00:53:20.204Z,"2km NNW of The Geysers, CA",earthquake,0.35,0.72,0.03,6,automatic,nc,nc
 2023-04-12T00:12:44.030Z,17.942,-66.96,15.66,2.62,md,15,216,0.08359,0.12,pr,pr71404278,2023-04-12T00:26:53.830Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.56,0.57,0.202505784307994,9,reviewed,pr,pr
-2023-04-12T00:12:37.310Z,39.2145004,-120.3899994,-1.28,2.72,md,18,84,0.1678,0.09,nc,nc73870960,2023-04-12T04:26:10.797Z,"21km WNW of Sunnyside-Tahoe City, CA",earthquake,0.3,4.96,0.18,18,automatic,nc,nc
+2023-04-12T00:12:37.310Z,39.2145004,-120.3899994,-1.28,2.72,md,18,84,0.1678,0.09,nc,nc73870960,2023-04-12T04:31:07.040Z,"21km WNW of Sunnyside-Tahoe City, CA",earthquake,0.3,4.96,0.18,18,automatic,nc,nc
 2023-04-12T00:10:56.654Z,61.4925,-146.556,27.6,1.5,ml,,,,0.98,ak,ak0234oovnwh,2023-04-12T00:13:13.721Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-12T00:09:49.800Z,17.9296666666667,-66.9391666666667,15.01,2.25,md,10,225,0.05132,0.07,pr,pr71404273,2023-04-12T00:25:39.650Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.62,0.44,0.123562791535545,6,reviewed,pr,pr
 2023-04-12T00:07:53.570Z,33.7621667,-116.9153333,14.08,0.75,ml,24,90,0.07523,0.13,ci,ci40439808,2023-04-12T00:16:05.856Z,"3km NW of Valle Vista, CA",earthquake,0.32,0.47,0.086,16,reviewed,ci,ci
@@ -250,7 +252,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T07:35:57.290Z,18.1993,-68.1135,79,3.6,md,19,308,0.2196,0.4,pr,pr2023101001,2023-04-11T12:33:29.040Z,"52 km SE of Punta Cana, Dominican Republic",earthquake,2.66,1.66,0.14,10,reviewed,pr,pr
 2023-04-11T07:35:33.360Z,51.764,-177.0535,14.28,1.64,ml,6,279,,0.09,av,av91843971,2023-04-12T04:28:09.880Z,"31 km WSW of Adak, Alaska",earthquake,2.27,1.84,0.441390961424955,6,reviewed,av,av
 2023-04-11T07:28:52.987Z,58.4548,-153.5766,68,1.8,ml,,,,0.46,ak,ak0234n5m78y,2023-04-11T07:31:28.731Z,"58 km NW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-11T07:27:45.934Z,61.6713,-151.4298,15.8,1.6,ml,,,,0.73,ak,ak0234n5lyzl,2023-04-11T07:29:39.172Z,"35 km S of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-11T07:27:45.934Z,61.6713,-151.4298,15.8,1.6,ml,,,,0.73,ak,ak0234n5lyzl,2023-04-12T04:32:13.090Z,"35 km S of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-11T07:12:30.430Z,17.934,-66.8385,7.18,3.12,md,15,194,0.05632,0.12,pr,pr71404028,2023-04-11T12:28:06.040Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.41,0.8,0.151415564959278,7,reviewed,pr,pr
 2023-04-11T06:58:06.970Z,3.8744,126.8419,40.939,4.6,mb,42,112,3.126,0.74,us,us6000k3fr,2023-04-11T07:17:27.040Z,"227 km SE of Sarangani, Philippines",earthquake,8.06,6.777,0.096,32,reviewed,us,us
 2023-04-11T06:29:11.810Z,38.7986679,-122.7483368,2.17,0.75,md,8,180,0.009101,0.01,nc,nc73870555,2023-04-11T07:29:19.888Z,"2km NNE of The Geysers, CA",earthquake,0.53,0.96,0.05,7,automatic,nc,nc
