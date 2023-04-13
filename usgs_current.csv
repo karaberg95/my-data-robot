@@ -281,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T14:09:23.980Z,47.7015,-120.28966666666666,3.39,0.27,ml,6,94,0.05659,0.08,uw,uw61917356,2023-04-12T22:40:19.040Z,"6 km WNW of Entiat, Washington",earthquake,0.27,1.33,0.13135965686198475,5,reviewed,uw,uw
 2023-04-12T14:05:34.359Z,35.63616667,-97.98933333,5.27,1.8,ml,82,33,0.1430719244,0.23,ok,ok2023hdps,2023-04-12T14:20:22.607Z,"Oklahoma",earthquake,,0.6,0.23,49,reviewed,ok,ok
 2023-04-12T13:59:31.143Z,-1.5152,89.4629,10,5.1,mb,94,55,8.582,0.81,us,us6000k3ta,2023-04-12T14:17:58.040Z,"South Indian Ocean",earthquake,9.43,1.853,0.061,88,reviewed,us,us
-2023-04-12T13:47:47.090Z,38.7929993,-122.8128357,11.91,0.73,md,7,201,0.02028,0.04,nc,nc73872340,2023-04-12T14:02:10.088Z,"5km WNW of The Geysers, CA",earthquake,1.87,6.55,0.2,7,automatic,nc,nc
-2023-04-12T13:45:07.430Z,38.8260002,-122.796669,1.02,0.67,md,8,90,0.01079,0.01,nc,nc73872335,2023-04-12T14:29:20.273Z,"6km W of Cobb, CA",earthquake,0.3,0.76,0.26,8,automatic,nc,nc
-2023-04-12T13:44:39.580Z,35.7713333,-117.5863333,6.67,1.14,ml,14,126,0.1498,0.09,ci,ci40440056,2023-04-12T17:08:34.405Z,"16km W of Searles Valley, CA",earthquake,0.25,0.69,0.169,10,reviewed,ci,ci
