@@ -48,13 +48,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T14:23:13.540Z,58.1778333333333,-155.316,0.83,-0.21,ml,7,165,,0.06,av,av91097513,2023-04-14T18:58:41.400Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.95,0.220143513529556,7,reviewed,av,av
 2023-04-14T14:17:45.530Z,58.1778333333333,-155.316166666667,1,-0.32,ml,5,165,,0.04,av,av91848236,2023-04-14T18:51:02.480Z,"Alaska Peninsula",earthquake,0.23,0.92,0.232205021975253,5,reviewed,av,av
 2023-04-14T14:16:18.175Z,58.1865,-155.2983,0,1,ml,,,,0.58,ak,ak0234s8bmop,2023-04-14T18:47:10.590Z,"85 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-14T14:12:24.282Z,37.2241,-116.0068,8,-0.2,ml,6,248.5,0.037,0.0859,nn,nn00858245,2023-04-14T19:44:11.024Z,"52 km SSW of Rachel, Nevada",earthquake,,1.9,0.16,3,reviewed,nn,nn
 2023-04-14T14:11:10.030Z,58.1785,-155.312666666667,0.72,-0.39,ml,6,163,,0.03,av,av91848226,2023-04-14T18:43:24.980Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.92,0.303418293704416,7,reviewed,av,av
 2023-04-14T14:10:55.902Z,-5.4749,152.0914,61.909,5.4,mb,31,113,1.278,1.02,us,us6000k4fw,2023-04-14T16:13:50.893Z,"126 km S of Kokopo, Papua New Guinea",earthquake,8.8,7.471,0.044,179,reviewed,us,us
 2023-04-14T14:04:39.794Z,58.1769,-155.35,1.2,0.6,ml,,,,0.2,ak,ak0234s893rf,2023-04-14T18:40:18.130Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-04-14T14:00:35.395Z,57.891,-154.1715,60.3,1.9,ml,,,,0.16,ak,ak0234s888k3,2023-04-14T14:02:20.418Z,"39 km NNE of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-04-14T13:47:51.670Z,33.4738333,-116.5596667,8.62,0.59,ml,16,83,0.04119,0.12,ci,ci40440752,2023-04-14T19:40:30.562Z,"14km SE of Anza, CA",earthquake,0.24,0.47,0.151,12,reviewed,ci,ci
 2023-04-14T13:05:18.530Z,37.0401649,-121.4953308,4.36,1.15,md,6,123,0.01711,0.09,nc,nc73873565,2023-04-14T13:56:11.776Z,"8km ENE of Gilroy, CA",earthquake,1.02,1.33,0.13,6,automatic,nc,nc
-2023-04-14T12:58:19.256Z,58.1977,-155.3066,1.1,1.2,ml,,,,0.38,ak,ak0234s7drmt,2023-04-14T12:59:31.013Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-14T12:58:19.256Z,58.1977,-155.3066,1.1,1.2,ml,,,,0.38,ak,ak0234s7drmt,2023-04-14T19:49:41.860Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-14T12:24:38.778Z,39.9611,-120.8259,0,0.4,ml,3,333.18,0.37,0.0697,nn,nn00858237,2023-04-14T17:40:37.643Z,"6 km ENE of East Quincy, California",earthquake,,0,0,1,reviewed,nn,nn
 2023-04-14T12:07:16.470Z,19.219165802002,-155.385665893555,31.2099990844727,2.19,ml,37,170,,0.109999999,hv,hv73363617,2023-04-14T12:12:46.840Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.75,4.53,4,automatic,hv,hv
 2023-04-14T12:04:08.970Z,51.8508333333333,-178.008166666667,-1.8,1.27,ml,5,90,,0.17,av,av91848101,2023-04-14T17:49:19.920Z,"94 km W of Adak, Alaska",earthquake,0.35,1.39,0.201549477499209,5,reviewed,av,av
@@ -72,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T10:50:02.360Z,38.8873,-119.6411,0.6,1.5,ml,13,59.05,0.026,0.1725,nn,nn00858222,2023-04-14T17:00:16.000Z,"2 km N of Carter Springs, Nevada",earthquake,,4,0.7,4,reviewed,nn,nn
 2023-04-14T10:48:07.530Z,19.2439994812012,-155.395004272461,30.7099990844727,2.15,ml,37,136,,0.140000001,hv,hv73363592,2023-04-14T10:53:37.860Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.959999979,0.23,4,automatic,hv,hv
 2023-04-14T10:47:56.372Z,59.3068,-151.7452,48.3,1.8,ml,,,,0.44,ak,ak0234s64met,2023-04-14T10:49:38.989Z,"6 km SE of Port Graham, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-14T10:40:23.287Z,58.1927,-155.3234,1.1,1.2,ml,,,,0.63,ak,ak0234s631ug,2023-04-14T10:42:03.395Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-14T10:40:23.287Z,58.1927,-155.3234,1.1,1.2,ml,,,,0.63,ak,ak0234s631ug,2023-04-14T19:46:03.480Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-14T10:37:55.453Z,-6.047,112.9683,592.369,5.4,mb,121,35,2.679,0.76,us,us6000k4bs,2023-04-14T14:57:51.016Z,"112 km NE of Paciran, Indonesia",earthquake,9.19,6.257,0.036,260,reviewed,us,us
 2023-04-14T10:22:30.120Z,38.8255005,-122.8043365,2.48,0.57,md,11,90,0.00495,0.01,nc,nc73873540,2023-04-14T11:28:11.887Z,"7km NW of The Geysers, CA",earthquake,0.42,0.88,0.38,13,automatic,nc,nc
 2023-04-14T10:09:02.020Z,17.9556666666667,-66.963,15.47,2.02,md,7,205,0.07852,0.19,pr,pr71404923,2023-04-14T10:41:20.140Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.97,1.07,0.048821724534183,4,reviewed,pr,pr
