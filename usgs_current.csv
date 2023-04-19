@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-19T11:23:41.490Z,38.8003349,-122.8061676,3.19,1.51,md,23,58,0.01141,0.02,nc,nc73875400,2023-04-19T11:25:15.780Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.48,0.23,23,automatic,nc,nc
 2023-04-19T11:12:45.377Z,63.0985,-150.7676,115.2,1.4,ml,,,,0.2,ak,ak02350g79kp,2023-04-19T11:14:45.867Z,"67 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-19T11:01:21.800Z,19.4023333333333,-155.2395,2.29,0.48,md,14,89,,0.12,hv,hv73369152,2023-04-19T11:12:05.650Z,"4 km S of Volcano, Hawaii",earthquake,0.36,0.3,0.178149968203329,3,reviewed,hv,hv
 2023-04-19T10:58:08.587Z,60.976,-151.0377,19.8,1.1,ml,,,,0.12,ak,ak02350fvm2i,2023-04-19T10:59:13.821Z,"11 km SSE of Tyonek, Alaska",earthquake,,4,,,automatic,ak,ak
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T10:23:51.700Z,38.7941666,-122.8089981,0.89,1.47,md,23,76,0.0165,0.03,nc,nc73875390,2023-04-19T10:51:15.214Z,"5km WNW of The Geysers, CA",earthquake,0.2,0.39,0.25,23,automatic,nc,nc
 2023-04-19T10:21:53.080Z,62.9433,-144.0651,7.6,1.5,ml,,,,0.66,ak,ak02350fns0c,2023-04-19T10:23:32.272Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-19T10:16:58.825Z,58.1775,-155.3505,1.2,0.3,ml,,,,0.26,ak,ak02350fmpve,2023-04-19T10:18:55.841Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
-2023-04-19T10:09:44.280Z,19.4048328399658,-155.264663696289,0.740000009536743,2.01,ml,13,77,,0.0799999982,hv,hv73369097,2023-04-19T10:15:15.970Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.310000002,0.2,6,automatic,hv,hv
+2023-04-19T10:09:44.250Z,19.404,-155.265333333333,0.46,1.58,ml,19,75,,0.11,hv,hv73369097,2023-04-19T11:25:15.150Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.21,0.167276931420548,7,reviewed,hv,hv
 2023-04-19T10:08:41.960Z,61.1074,-151.1354,16.2,1,ml,,,,0.78,ak,ak02350fkyuc,2023-04-19T10:11:29.214Z,"4 km N of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-19T10:04:58.460Z,19.3996666666667,-155.262666666667,0.88,1.96,ml,14,92,,0.13,hv,hv73369087,2023-04-19T10:50:16.100Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.23,0.182353851315144,9,reviewed,hv,hv
 2023-04-19T10:04:51.170Z,19.4043333333333,-155.260833333333,0.89,0.36,md,11,122,,0.13,hv,hv73369082,2023-04-19T10:58:47.440Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.47,0.179318328056962,3,reviewed,hv,hv
@@ -87,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T03:52:37.123Z,37.2124,21.1531,35.579,4.5,mb,13,124,0.617,0.44,us,us6000k5fm,2023-04-19T04:43:49.040Z,"38 km W of Filiatrá, Greece",earthquake,7.79,6.956,0.242,5,reviewed,us,us
 2023-04-19T03:28:18.420Z,18.9096666666667,-66.0938333333333,21.7,3.3,md,16,245,0.5964,0.32,pr,pr71405818,2023-04-19T03:47:06.670Z,"49 km N of San Juan, Puerto Rico",earthquake,1.21,22.21,0.0828203958436213,11,reviewed,pr,pr
 2023-04-19T03:20:14.420Z,36.93716049,-97.18778992,10.22798443,2.42,ml,18,206.725708,0.1778857112,0.625637751,ok,ok2023hpoy,2023-04-19T05:12:17.314Z,"Oklahoma",earthquake,,4.937459632,0.28,14,automatic,ok,ok
-2023-04-19T03:09:04.700Z,37.52,-118.8511667,1.74,1.21,md,8,318,0.07207,0.03,nc,nc73875320,2023-04-19T11:10:11.354Z,"16km WSW of Toms Place, CA",earthquake,1.74,2.24,0.239,7,reviewed,nc,nc
+2023-04-19T03:09:04.700Z,37.52,-118.8511667,1.74,1.21,md,8,318,0.07207,0.03,nc,nc73875320,2023-04-19T11:30:17.494Z,"16km WSW of Toms Place, CA",earthquake,1.74,2.24,0.239,7,reviewed,nc,nc
 2023-04-19T02:41:15.288Z,60.2363,-150.325,34.2,1.5,ml,,,,0.36,ak,ak02350b0iko,2023-04-19T02:43:11.648Z,"38 km SE of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-19T02:23:44.110Z,17.9436666666667,-66.9571666666667,14.78,2.92,md,12,215,0.08046,0.17,pr,pr71405813,2023-04-19T02:37:42.530Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.67,0.0482936020441689,8,reviewed,pr,pr
 2023-04-19T02:22:54.900Z,17.9496666666667,-66.9625,15.8,2.4,md,5,213,0.08023,0.09,pr,pr71405798,2023-04-19T02:30:48.970Z,"Puerto Rico region",earthquake,0.75,0.62,0.012349049691549,4,reviewed,pr,pr
