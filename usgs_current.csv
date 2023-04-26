@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T18:21:23.561Z,65.4149,-144.6351,2,1.4,ml,,,,0.58,ak,ak0235c56m10,2023-04-26T18:23:18.799Z,"19 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T18:18:43.270Z,60.0206666666667,-153.049833333333,-1.59,-1.37,ml,5,115,,0.07,av,av91864571,2023-04-26T20:23:05.110Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.44,3.79,0.213099944860685,4,reviewed,av,av
 2023-04-26T18:13:29.180Z,38.8775,-119.64,0,0.9,ml,6,229.71,0.029,0.1367,nn,nn00858734,2023-04-26T20:58:37.174Z,"1 km N of Carter Springs, Nevada",earthquake,,0,0.27,2,reviewed,nn,nn
+2023-04-26T18:12:30.590Z,48.159333333333336,-121.6655,14.45,0.89,md,5,96,0.09356,0.04,uw,uw61919691,2023-04-26T23:36:52.100Z,"11 km NE of Verlot, Washington",earthquake,0.36,1.11,0.1514636214848779,4,reviewed,uw,uw
 2023-04-26T18:10:33.470Z,35.0571667,-118.3395,-0.93,1.32,ml,20,51,0.06643,0.18,ci,ci40445984,2023-04-26T19:19:53.230Z,"13km SE of Tehachapi, CA",quarry blast,0.3,31.61,0.106,17,reviewed,ci,ci
 2023-04-26T18:06:37.863Z,56.9531,-158.214,16.6,2,ml,,,,0.42,ak,ak0235c53fe2,2023-04-26T18:54:12.690Z,"74 km N of Chignik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-26T17:48:09.483Z,60.7779,-150.7983,48.5,1.2,ml,,,,0.22,ak,ak0235c4qxo4,2023-04-26T17:49:41.980Z,"17 km SSW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
