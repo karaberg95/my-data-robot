@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T23:18:37.480Z,19.3898334503174,-155.279998779297,1.22000002861023,1.73000002,md,7,95,,0.0599999987,hv,hv73381592,2023-04-28T23:21:29.580Z,"7 km SW of Volcano, Hawaii",earthquake,0.48,0.449999988,2,4,automatic,hv,hv
 2023-04-28T23:14:49.300Z,38.8343315,-122.8079987,2.51,1.09,md,24,49,0.01104,0.02,nc,nc73881536,2023-04-28T23:16:25.683Z,"8km W of Cobb, CA",earthquake,0.2,0.57,0.15,25,automatic,nc,nc
-2023-04-28T23:14:34.220Z,32.7073326,-115.5414963,7.87,2.68,ml,54,43,0.06329,0.25,ci,ci40213575,2023-04-28T23:16:40.040Z,"3km SSW of Heber, CA",earthquake,0.25,0.56,0.331,23,automatic,ci,ci
+2023-04-28T23:14:34.160Z,32.7165,-115.5448333,4.16,2.53,ml,30,41,0.08046,0.28,ci,ci40213575,2023-04-28T23:18:58.655Z,"2km SW of Heber, CA",earthquake,0.41,1.73,0.216,26,automatic,ci,ci
+2023-04-28T23:14:10.830Z,35.8313333,-117.6553333,7.03,0.62,ml,10,147,0.0495,0.16,ci,ci40213567,2023-04-28T23:17:48.991Z,"24km N of Ridgecrest, CA",earthquake,0.47,0.6,0.061,6,automatic,ci,ci
 2023-04-28T23:13:01.992Z,62.0925,-150.0597,36.2,1.3,ml,,,,0.67,ak,ak0235fj6pnb,2023-04-28T23:15:15.383Z,"13 km SW of Susitna North, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2023-04-28T23:06:07.125Z,61.7782,-149.6196,31,1.8,ml,,,,0.42,ak,ak0235fj5814,2023-04-28T23:07:51.988Z,"17 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T23:04:13.370Z,32.7085,-115.54,7.48,1.48,ml,10,126,0.1245,0.22,ci,ci40213551,2023-04-28T23:07:51.810Z,"3km SSW of Heber, CA",earthquake,0.74,1.9,0.318,18,automatic,ci,ci
@@ -10,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T22:33:01.510Z,32.7031667,-115.5335,4.75,1.76,ml,15,108,0.09624,0.23,ci,ci40213495,2023-04-28T22:36:49.401Z,"3km S of Heber, CA",earthquake,0.57,1.55,0.28,26,automatic,ci,ci
 2023-04-28T22:24:50.659Z,61.6461,-149.6845,30.7,1.1,ml,,,,0.69,ak,ak0235finqpv,2023-04-28T22:27:19.495Z,"5 km WNW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-28T22:10:00.280Z,19.3955,-155.283,4.61,1.19,md,18,59,,0.14,hv,hv73381537,2023-04-28T22:31:10.460Z,"7 km SW of Volcano, Hawaii",earthquake,0.35,0.44,0.295827042449684,4,reviewed,hv,hv
+2023-04-28T22:07:15.770Z,19.4061666666667,-155.264,1.35,0.41,md,14,80,,0.1,hv,hv73381532,2023-04-28T23:20:37.800Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.26,0.0915722125588419,3,reviewed,hv,hv
 2023-04-28T21:58:38.190Z,19.388,-155.270333333333,7.43,0.64,md,16,71,,0.13,hv,hv73381517,2023-04-28T22:27:56.470Z,"7 km SSW of Volcano, Hawaii",earthquake,0.52,0.4,0.14403128145657,6,reviewed,hv,hv
 2023-04-28T21:57:10.340Z,19.3265,-155.264666666667,5.96,0.74,md,20,165,,0.14,hv,hv73381512,2023-04-28T22:26:54.390Z,"13 km SSW of Volcano, Hawaii",earthquake,0.38,0.7,0.299563501319135,6,reviewed,hv,hv
 2023-04-28T21:55:40.730Z,19.4141666666667,-155.273666666667,12.81,1.12,md,16,155,,0.17,hv,hv73381507,2023-04-28T22:43:58.940Z,"5 km SW of Volcano, Hawaii",earthquake,0.79,0.57,0.00312666333671041,3,reviewed,hv,hv
@@ -122,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T13:11:27.450Z,38.8348333,-122.8068333,3.17,1.33,md,45,34,0.0117,0.04,nc,nc73881386,2023-04-28T19:57:20.708Z,"7km W of Cobb, CA",earthquake,0.16,0.27,0.237,39,reviewed,nc,nc
 2023-04-28T13:01:50.990Z,19.3986666666667,-155.263833333333,1.57,0.27,md,12,65,,0.1,hv,hv73380797,2023-04-28T13:23:32.770Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.29,0.0282485697369001,2,reviewed,hv,hv
 2023-04-28T13:00:49.710Z,19.3951666666667,-155.281,0.88,0.18,md,11,83,,0.11,hv,hv73380787,2023-04-28T13:10:59.260Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.27,0.0628608451596383,2,reviewed,hv,hv
+2023-04-28T12:58:49.215Z,56.1005,-149.6712,13.2,2.5,ml,,,,0.81,ak,ak0235fcwtwp,2023-04-28T23:16:51.482Z,"231 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-04-28T12:52:31.150Z,33.9661667,-116.8325,20.53,0.52,ml,17,141,0.07181,0.15,ci,ci40212703,2023-04-28T19:24:08.906Z,"6km NE of Banning, CA",earthquake,0.39,0.8,0.111,13,reviewed,ci,ci
 2023-04-28T12:51:12.050Z,38.8334999,-122.8044968,2.12,0.95,md,16,51,0.01099,0.01,nc,nc73881381,2023-04-28T14:03:14.545Z,"7km W of Cobb, CA",earthquake,0.27,0.49,0.25,17,automatic,nc,nc
 2023-04-28T12:50:31.880Z,19.3993333333333,-155.276166666667,1.15,0.43,md,15,66,,0.09,hv,hv73380762,2023-04-28T13:02:02.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.16,0.24,0.142175844058081,3,reviewed,hv,hv
@@ -138,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T12:16:01.382Z,61.7117,-141.82,0,1.5,ml,,,,0.56,ak,ak0235fcnl3e,2023-04-28T12:17:44.302Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-28T12:13:26.310Z,45.8483333333333,-112.036666666667,9.24,0.74,ml,12,87,0.1114,0.07,mb,mb90011603,2023-04-28T14:38:08.670Z,"5 km ESE of Whitehall, Montana",earthquake,0.41,0.99,0.164862201881096,3,reviewed,mb,mb
 2023-04-28T12:03:55.736Z,60.6036,-151.1819,33.7,1.8,ml,,,,0.74,ak,ak0235fckwyv,2023-04-28T12:06:25.472Z,"6 km NE of Kenai, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-28T12:02:27.940Z,32.6913333,-115.5271667,4.64,1.55,ml,16,67,0.09158,0.29,ci,ci40212663,2023-04-28T12:06:01.991Z,"3km WNW of Calexico, CA",earthquake,0.6,1.89,0.202,19,automatic,ci,ci
+2023-04-28T12:02:27.730Z,32.6881667,-115.5301667,10.37,1.47,ml,25,70,0.08377,0.23,ci,ci40212663,2023-04-28T23:23:00.106Z,"3km WNW of Calexico, CA",earthquake,0.33,0.61,0.24,20,reviewed,ci,ci
 2023-04-28T11:57:02.473Z,31.61627471,-104.2628418,8.188208008,2.5,ml,43,60,0.05544694222,0.3,tx,tx2023igrl,2023-04-28T15:45:33.289Z,"55 km NW of Toyah, Texas",earthquake,0.8964186841000001,1.079859654,0.2,19,reviewed,tx,tx
 2023-04-28T11:54:17.949Z,36.9739,-116.4647,2.7,0.6,ml,18,82.45,0.053,0.132,nn,nn00858835,2023-04-28T14:25:57.396Z,"27 km ENE of Beatty, Nevada",earthquake,,2.6,1.06,12,reviewed,nn,nn
 2023-04-28T11:41:20.200Z,38.8260002,-122.7983322,1.8,0.87,md,13,63,0.009534,0.02,nc,nc73881371,2023-04-28T13:08:18.237Z,"6km NW of The Geysers, CA",earthquake,0.31,0.56,0.22,16,automatic,nc,nc
