@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-29T03:30:49.771Z,37.2044,-115.1704,12.7,0.9,ml,13,204.55,0.223,0.3196,nn,nn00858877,2023-04-29T03:33:09.246Z,"17 km S of Alamo, Nevada",earthquake,,2.6,0.26,7,automatic,nn,nn
 2023-04-29T03:27:12.429Z,59.3432,-144.991,13.8,3.8,ml,,,,0.69,ak,ak0235guwev3,2023-04-29T03:36:31.040Z,"140 km SSE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-29T03:26:48.955Z,25.9777,128.5998,0,4.7,mb,33,80,0.904,1.32,us,us7000jww0,2023-04-29T03:44:47.040Z,"82 km ESE of Katsuren-haebaru, Japan",earthquake,4.74,4.593,0.073,57,reviewed,us,us
 2023-04-29T03:15:10.986Z,55.5668,-159.0376,15.3,1.9,ml,,,,0.22,ak,ak0235gutu62,2023-04-29T03:17:20.962Z,"38 km S of Perryville, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-04-29T03:13:09.390Z,60.6307,-151.0695,41.9,1,ml,,,,0.31,ak,ak0235gutem3,2023-04-29T03:14:52.494Z,"11 km N of Ridgeway, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-04-29T03:11:56.630Z,32.7778333,-115.6253333,18.68,1.52,ml,7,208,0.01307,0.22,ci,ci40213823,2023-04-29T03:15:31.975Z,"6km W of El Centro, CA",earthquake,2.89,1.21,0.295,19,automatic,ci,ci
@@ -341,7 +342,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T03:55:49.950Z,35.992,-120.5536667,3.62,0.99,md,21,62,0.01761,0.08,nc,nc73881256,2023-04-28T08:55:14.730Z,"15km NW of Parkfield, CA",earthquake,0.25,0.32,0.189,13,reviewed,nc,nc
 2023-04-28T03:54:37.651Z,-16.7066,67.2722,10,5,mb,28,155,4.79,1.06,us,us7000jwjd,2023-04-28T04:19:57.040Z,"Mid-Indian Ridge",earthquake,13.09,1.943,0.096,37,reviewed,us,us
 2023-04-28T03:52:30.149Z,35.63766667,-97.97783333,2.22,1.53,ml,88,42,0.1376729839,0.31,ok,ok2023igbn,2023-04-28T12:09:52.065Z,"9 km S of Okarche, Oklahoma",earthquake,,0.8,0.23,38,reviewed,ok,ok
-2023-04-28T03:51:55.710Z,52.3226666666667,-174.1635,5.04,0.3,ml,4,129,,0.13,av,av91866176,2023-04-28T20:27:34.670Z,"14 km N of Atka, Alaska",earthquake,0.54,1.08,0.383564537809593,4,reviewed,av,av
-2023-04-28T03:51:06.156Z,-25.0699,178.4673,571.557,5.5,mb,79,41,5.253,1.16,us,us7000jwiw,2023-04-28T05:53:38.162Z,"south of the Fiji Islands",earthquake,10.44,7.942,0.069,72,reviewed,us,us
-2023-04-28T03:50:59.623Z,64.9587,-149.2942,19.6,0.8,ml,,,,0.61,ak,ak0235f7i3h5,2023-04-28T03:55:27.743Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-28T03:46:03.921Z,64.9687,-149.3149,20,1.2,ml,,,,0.09,ak,ak0235f7h4bs,2023-04-28T03:47:33.099Z,"20 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
