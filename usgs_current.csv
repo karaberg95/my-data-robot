@@ -167,6 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T06:10:21.260Z,32.702,-115.5343333,1.1,1.39,ml,10,109,0.09646,0.26,ci,ci40216463,2023-05-01T06:13:56.468Z,"3km S of Heber, CA",earthquake,0.75,31.61,0.308,13,automatic,ci,ci
 2023-05-01T06:08:16.380Z,38.762001,-122.7093353,1.09,1.21,md,11,166,0.009991,0.03,nc,nc73882611,2023-05-01T09:05:14.733Z,"2km SW of Anderson Springs, CA",earthquake,0.35,0.34,0.13,12,automatic,nc,nc
 2023-05-01T06:07:18.530Z,38.7638321,-122.7246704,2.11,0.42,md,5,154,0.002241,0.01,nc,nc73882606,2023-05-01T08:38:12.555Z,"3km WSW of Anderson Springs, CA",earthquake,0.82,0.59,0.17,4,automatic,nc,nc
-2023-05-01T05:55:00.880Z,38.4913333,-112.8385,0.63,-0.59,md,10,101,0.01302,0.09,uu,uu60538831,2023-05-01T17:56:35.310Z,"18 km NE of Milford, Utah",earthquake,0.25,1.04,0.2,3,reviewed,uu,uu
-2023-05-01T05:52:02.950Z,36.2503333333333,-89.4498333333333,6.58,1.88,md,19,50,0.03114,0.05,nm,nm60522816,2023-05-01T12:40:49.500Z,"3 km ESE of Ridgely, Tennessee",earthquake,0.17,0.38,0.140928155862265,15,reviewed,nm,nm
-2023-05-01T05:51:39.629Z,-24.3212,-66.9333,244.974,4.3,mb,41,86,1.778,0.51,us,us7000jxb0,2023-05-01T15:13:34.040Z,"63 km W of San Antonio de los Cobres, Argentina",earthquake,9.43,15.286,0.237,5,reviewed,us,us
