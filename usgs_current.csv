@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-04T08:38:38.200Z,38.855999,-122.7756653,1.57,0.7,md,11,170,0.01339,0.03,nc,nc73883726,2023-05-04T08:40:15.419Z,"6km NW of Cobb, CA",earthquake,0.42,0.48,0.32,11,automatic,nc,nc
 2023-05-04T08:23:29.280Z,19.4130001068115,-155.259002685547,0.949999988079071,2.01,ml,25,119,,0.189999998,hv,hv73388832,2023-05-04T08:29:00.830Z,"4 km SW of Volcano, Hawaii",earthquake,0.22,0.270000011,0.19,8,automatic,hv,hv
 2023-05-04T08:13:51.320Z,19.1556663513184,-155.480331420898,31.8899993896484,2.53,ml,42,135,,0.129999995,hv,hv73388822,2023-05-04T08:19:22.700Z,"5 km S of Pāhala, Hawaii",earthquake,0.57,0.839999974,2.58,12,automatic,hv,hv
 2023-05-04T08:02:11.822Z,54.0939,-162.771,35,4,mb,82,156,0.852,0.7,us,us6000k9ev,2023-05-04T08:30:26.040Z,"94 km SSE of False Pass, Alaska",earthquake,6.4,1.961,0.102,26,reviewed,us,us
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T08:50:02.030Z,38.8323326,-122.8199997,1.74,0.79,md,15,65,0.01182,0.01,nc,nc73883311,2023-05-03T10:54:13.282Z,"8km NW of The Geysers, CA",earthquake,0.28,0.64,0.36,15,automatic,nc,nc
 2023-05-03T08:49:31.717Z,29.10186768,-97.74574908,12.74092611,1.7,ml,15,64,0.06942630199,0.2,tx,tx2023ipov,2023-05-03T18:48:50.996Z,"18 km S of Nixon, Texas",earthquake,1.022785433,1.561086824,0.1,10,reviewed,tx,tx
 2023-05-03T08:45:13.840Z,44.7793333333333,-114.401666666667,9.35,1.64,ml,14,68,0.4542,0.22,mb,mb90012183,2023-05-03T18:19:29.560Z,"33 km NNW of Challis, Idaho",earthquake,0.77,1.36,0.260423718992834,11,reviewed,mb,mb
-2023-05-03T08:40:59.714Z,58.9489,-154.3978,108.3,1.7,ml,,,,0.57,ak,ak0235nk3xy3,2023-05-03T21:21:35.230Z,"58 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
