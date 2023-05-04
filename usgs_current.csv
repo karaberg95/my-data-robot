@@ -281,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T05:03:53.492Z,62.6482,-149.5168,62.8,1.3,ml,,,,0.66,ak,ak0235ni3m1h,2023-05-03T05:05:42.615Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-03T04:54:04.230Z,35.8726667,-117.709,10.25,1.45,ml,15,118,0.07845,0.13,ci,ci40217839,2023-05-03T13:00:25.170Z,"19km ESE of Little Lake, CA",earthquake,0.3,0.6,0.214,13,reviewed,ci,ci
 2023-05-03T04:52:57.230Z,18.3058333333333,-67.342,10.87,2.45,md,10,161,0.1519,0.13,pr,pr71407608,2023-05-03T05:57:42.160Z,"10 km W of Stella, Puerto Rico",earthquake,0.4,0.62,0.11700245744129,7,reviewed,pr,pr
-2023-05-03T04:47:48.320Z,19.2373332977295,-155.400833129883,29.0100002288818,1.82000005,md,32,137,,0.119999997,hv,hv73387537,2023-05-03T04:50:58.490Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.68,0.709999979,1.16999996,10,automatic,hv,hv
-2023-05-03T04:47:43.048Z,63.8406,-149.3384,112,1.8,ml,,,,0.53,ak,ak0235nhrl4w,2023-05-03T04:50:04.338Z,"18 km W of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-03T04:44:14.054Z,37.0971,-116.7273,4.2,-0.2,ml,3,237.66,0.047,0.0684,nn,nn00859019,2023-05-03T17:12:25.157Z,"21 km N of Beatty, Nevada",earthquake,,6.4,1.06,3,reviewed,nn,nn
