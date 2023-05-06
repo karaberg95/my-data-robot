@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T06:38:28.490Z,19.1909999847412,-155.369506835938,28.1900005340576,1.77999997,md,33,194,,0.119999997,hv,hv73390567,2023-05-06T06:41:46.340Z,"11 km E of Pāhala, Hawaii",earthquake,0.71,0.839999974,1.77999997,4,automatic,hv,hv
 2023-05-06T06:36:35.725Z,57.4337,-154.6635,17.5,3.1,ml,,,,0.56,ak,ak0235shi4g5,2023-05-06T06:38:16.026Z,"19 km SW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-06T06:31:51.799Z,58.4232,-155.1692,118.6,0.5,ml,,,,0.52,ak,ak0235shh31n,2023-05-06T06:34:26.806Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-05-06T06:16:16.662Z,59.3437,-152.6167,73.7,1.6,ml,,,,0.48,ak,ak0235shdsle,2023-05-06T06:18:24.668Z,"39 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-06T06:05:16.170Z,38.8359985,-122.7911682,1.42,0.72,md,9,57,0.002492,0.02,nc,nc73884436,2023-05-06T06:19:11.038Z,"6km WNW of Cobb, CA",earthquake,0.38,1.01,0.1,11,automatic,nc,nc
+2023-05-06T06:05:16.170Z,38.8359985,-122.7911682,1.42,0.72,md,9,57,0.002492,0.02,nc,nc73884436,2023-05-06T06:39:16.153Z,"6km WNW of Cobb, CA",earthquake,0.38,1.01,0.1,11,automatic,nc,nc
 2023-05-06T05:59:31.115Z,60.3878,-141.4125,8.6,1.2,ml,,,,0.17,ak,ak0235sh1lw7,2023-05-06T06:01:19.173Z,"132 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T05:23:20.620Z,19.2358341217041,-155.399337768555,32.1399993896484,2.26,ml,40,139,,0.109999999,hv,hv73390522,2023-05-06T05:30:42.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.769999981,3.94,5,automatic,hv,hv
 2023-05-06T05:02:01.448Z,29.1791,105.4207,35.975,4.4,mb,60,59,3.708,0.33,us,us6000k9z1,2023-05-06T05:52:54.040Z,"5 km NE of Fuji, China",earthquake,9.51,8.078,0.079,46,reviewed,us,us
