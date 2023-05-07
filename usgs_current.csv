@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T08:28:23.522Z,35.24398041,-98.04134369,5,2.98,ml,63,33.69895935,0.03822270781,0.4836945015,ok,ok2023iwwe,2023-05-07T08:30:03.525Z,"9 km NW of Pocasset, Oklahoma",earthquake,,0,0.33,23,automatic,ok,ok
 2023-05-07T08:18:07.841Z,58.1231,-155.5659,59.6,0.9,ml,,,,0.92,ak,ak0235u64f1s,2023-05-07T08:20:02.267Z,"89 km SE of King Salmon, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-05-07T08:13:08.957Z,61.0034,-148.107,3.8,1.7,ml,,,,0.56,ak,ak0235u63cjz,2023-05-07T08:15:07.222Z,"40 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T07:54:43.108Z,58.1605,-153.0518,63.3,1.7,ml,,,,0.55,ak,ak0235u5qrxy,2023-05-07T08:03:22.071Z,"13 km NW of Aleneva, Alaska",earthquake,,3.1,,,automatic,ak,ak
@@ -73,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T00:46:27.600Z,19.0626666666667,-65.4946666666667,34.87,3.35,md,5,256,0.7776,0.12,pr,pr71408363,2023-05-07T01:10:04.860Z,"79 km NNE of Vieques, Puerto Rico",earthquake,0.96,31.61,0.141084406805258,3,reviewed,pr,pr
 2023-05-07T00:29:43.459Z,58.1812,-155.3864,0,0.7,ml,,,,0.87,ak,ak0235u1fdu0,2023-05-07T00:32:24.180Z,"87 km NW of Karluk, Alaska",earthquake,,27.7,,,automatic,ak,ak
 2023-05-07T00:26:02.064Z,13.0553,-89.7997,35,4.3,mb,42,168,0.686,0.75,us,us6000ka43,2023-05-07T00:43:13.040Z,"59 km S of Acajutla, El Salvador",earthquake,3.29,1.974,0.054,97,reviewed,us,us
-2023-05-07T00:12:31.551Z,61.1754,-150.6684,32.5,1.1,ml,,,,0.42,ak,ak0235u1bpqr,2023-05-07T00:14:10.836Z,"22 km E of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-07T00:12:31.551Z,61.1754,-150.6684,32.5,1.1,ml,,,,0.42,ak,ak0235u1bpqr,2023-05-07T00:14:10.836Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T00:12:03.608Z,61.3363,-141.1072,14.2,0.9,ml,,,,0.09,ak,ak0235u1bnkq,2023-05-07T00:14:09.710Z,"97 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-07T00:04:38.740Z,36.6385002,-121.1881638,7.55,1.27,md,7,146,0.06671,0.07,nc,nc73884721,2023-05-07T01:49:12.249Z,"12km NNW of Pinnacles, CA",earthquake,0.64,1.16,0.19,6,automatic,nc,nc
 2023-05-07T00:00:07.020Z,38.8323326,-122.7906647,1.82,1.54,md,31,39,0.006073,0.03,nc,nc73884716,2023-05-07T01:22:13.078Z,"6km W of Cobb, CA",earthquake,0.18,0.29,0.14,31,automatic,nc,nc
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T09:00:17.300Z,38.7791672,-122.7570038,1.32,1.03,md,12,82,0.01086,0.02,nc,nc73884476,2023-05-06T11:40:11.962Z,"0km NNW of The Geysers, CA",earthquake,0.31,0.59,0.26,12,automatic,nc,nc
 2023-05-06T08:46:37.290Z,38.7985001,-122.7781677,3.22,0.74,md,12,76,0.009289,0.01,nc,nc73884471,2023-05-06T09:03:16.011Z,"3km NW of The Geysers, CA",earthquake,0.41,1.12,0.36,11,automatic,nc,nc
 2023-05-06T08:36:56.070Z,33.4731667,-116.5533333,9.75,0.59,ml,21,110,0.04614,0.17,ci,ci40219735,2023-05-06T08:40:25.600Z,"14km SE of Anza, CA",earthquake,0.35,0.6,0.084,14,automatic,ci,ci
-2023-05-06T08:26:15.950Z,38.7891655,-122.754837,0.17,1.19,md,12,84,0.01206,0.04,nc,nc73884466,2023-05-06T11:13:14.790Z,"1km N of The Geysers, CA",earthquake,0.28,0.58,0.16,13,automatic,nc,nc
