@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T19:31:39.367Z,59.2256,-153.6071,118,1.2,ml,,,,0.5,ak,ak0235sp7oy8,2023-05-06T19:33:53.019Z,"62 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-06T19:11:29.800Z,38.7971649,-122.7606659,2.18,0.7,md,7,219,0.003535,0.02,nc,nc73884631,2023-05-06T19:53:20.074Z,"2km N of The Geysers, CA",earthquake,1.6,1.05,0.1,7,automatic,nc,nc
 2023-05-06T19:08:58.430Z,32.7026667,-115.5508333,4.05,1.88,ml,20,55,0.08593,0.29,ci,ci40220047,2023-05-06T19:16:21.012Z,"4km SSW of Heber, CA",earthquake,0.65,1.9,0.149,27,automatic,ci,ci
-2023-05-06T18:52:23.550Z,34.1773333,-118.3773333,10.23,0.99,ml,18,91,0.01467,0.14,ci,ci40220039,2023-05-07T15:08:30.070Z,"1km N of North Hollywood, CA",earthquake,0.31,0.46,0.068,4,reviewed,ci,ci
