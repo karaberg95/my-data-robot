@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-08T14:39:30.560Z,19.3945007324219,-155.258499145508,1.44000005722046,1.70000005,md,17,139,,0.300000012,hv,hv73392882,2023-05-08T14:45:00.280Z,"Hawaii region, Hawaii",earthquake,0.78,0.430000007,0.939999998,10,automatic,hv,hv
 2023-05-08T14:31:01.076Z,62.0043,-148.3951,31.5,2.5,ml,,,,0.32,ak,ak0235vxb4yj,2023-05-08T14:32:18.431Z,"23 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T14:22:35.690Z,36.8293343,-121.5793304,3.07,1.79,md,15,70,0.05594,0.19,nc,nc73885396,2023-05-08T14:39:15.283Z,"4km WSW of San Juan Bautista, CA",earthquake,0.47,1.13,0.16,9,automatic,nc,nc
-2023-05-08T14:14:32.036Z,-20.6546,-174.7285,55.08,5.1,mb,43,77,0.678,1.42,us,us6000kadq,2023-05-08T14:36:25.192Z,"63 km NNE of Kolonga, Tonga",earthquake,7.76,6.485,0.083,47,reviewed,us,us
+2023-05-08T14:14:32.036Z,-20.6546,-174.7285,55.08,5.1,mb,43,77,0.678,1.42,us,us6000kadq,2023-05-08T14:46:36.486Z,"63 km NNE of Kolonga, Tonga",earthquake,7.76,6.485,0.083,47,reviewed,us,us
 2023-05-08T14:06:51.476Z,60.9072,-150.7234,166.3,1.3,ml,,,,0.74,ak,ak0235vx5vy3,2023-05-08T14:09:53.277Z,"2 km SW of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-08T13:57:25.530Z,35.505,-118.3965,2.91,1.35,ml,18,66,0.1696,0.14,ci,ci40220879,2023-05-08T14:01:07.808Z,"13km SE of Bodfish, CA",earthquake,0.23,1.03,0.205,14,automatic,ci,ci
 2023-05-08T13:56:30.200Z,33.582,-116.8053333,7.56,1.57,ml,61,28,0.03634,0.19,ci,ci40220871,2023-05-08T14:07:10.870Z,"13km WNW of Anza, CA",earthquake,0.18,0.49,0.171,26,automatic,ci,ci
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T13:34:01.180Z,33.7223333,-116.7553333,15.5,0.89,ml,35,57,0.03607,0.2,ci,ci40220847,2023-05-08T13:41:15.381Z,"4km WSW of Idyllwild, CA",earthquake,0.28,0.46,0.156,28,reviewed,ci,ci
 2023-05-08T13:20:54.540Z,18.7421666666667,-66.6658333333333,35.81,2.86,md,17,241,0.2936,0.11,pr,pr71408548,2023-05-08T13:37:50.250Z,"30 km N of Arecibo, Puerto Rico",earthquake,0.51,0.91,0.0907049682848002,10,reviewed,pr,pr
 2023-05-08T13:19:11.780Z,19.201000213623,-155.483169555664,31.7999992370605,2.70000005,md,47,81,,0.129999995,hv,hv73392787,2023-05-08T13:28:35.580Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.49,0.720000029,1.25,36,automatic,hv,hv
-2023-05-08T13:17:48.160Z,38.8338318,-122.817337,1.59,0.96,md,21,69,0.01187,0.02,nc,nc73885386,2023-05-08T14:21:11.160Z,"8km NW of The Geysers, CA",earthquake,0.2,0.49,0.23,21,automatic,nc,nc
+2023-05-08T13:17:48.160Z,38.8338318,-122.817337,1.59,0.96,md,21,69,0.01187,0.02,nc,nc73885386,2023-05-08T14:42:15.301Z,"8km NW of The Geysers, CA",earthquake,0.2,0.49,0.23,21,automatic,nc,nc
 2023-05-08T13:04:34.470Z,35.9990005,-120.5608368,2.12,0.67,md,8,177,0.02222,0.1,nc,nc73885381,2023-05-08T14:15:15.119Z,"16km NW of Parkfield, CA",earthquake,0.9,1.34,0.11,2,automatic,nc,nc
 2023-05-08T13:01:11.634Z,65.0119,-141.1472,0,2.1,ml,,,,0.27,ak,ak0235vwjaop,2023-05-08T13:04:10.232Z,"25 km N of Eagle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-08T12:56:58.506Z,62.4013,-148.5177,48.7,1,ml,,,,0.19,ak,ak0235vw9r2y,2023-05-08T12:59:43.094Z,"67 km N of Chickaloon, Alaska",earthquake,,1.8,,,automatic,ak,ak
