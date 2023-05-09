@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T18:12:45.950Z,36.9020004,-121.6391678,-0.1,2.32,md,8,161,0.0417,0.37,nc,nc73885441,2023-05-08T20:16:14.515Z,"2km NNE of Aromas, CA",earthquake,1.4,4.46,0.16,6,automatic,nc,nc
 2023-05-08T18:10:07.480Z,17.9836666666667,-66.8368333333333,10.94,2.59,md,17,168,0.04128,0.18,pr,pr71408568,2023-05-08T18:30:26.190Z,"Puerto Rico",earthquake,0.36,0.44,0.0144398084587118,7,reviewed,pr,pr
 2023-05-08T18:05:04.280Z,19.3641666666667,-155.2295,28.21,1.79,md,37,98,,0.1,hv,hv73393067,2023-05-08T20:42:09.370Z,"8 km S of Volcano, Hawaii",earthquake,0.69,0.48,0.132806916175332,14,reviewed,hv,hv
-2023-05-08T17:56:34.607Z,61.7169,-147.7688,24.6,1.8,ml,,,,0.89,ak,ak0235vz8v9g,2023-05-08T17:58:25.347Z,"11 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
