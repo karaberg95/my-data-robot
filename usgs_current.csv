@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-11T21:53:29.220Z,19.2498340606689,-155.400161743164,31.5699996948242,2.35,ml,35,131,,0.25,hv,hv73397087,2023-05-11T21:58:59.490Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.85,1.02999997,3.3,7,automatic,hv,hv
+2023-05-11T21:53:16.940Z,19.0799999237061,-155.115005493164,14.1700000762939,2.65,ml,9,309,,0.330000013,hv,hv73397082,2023-05-11T21:58:48.810Z,"40 km ESE of Pāhala, Hawaii",earthquake,5.21,28.6100006,2.51,12,automatic,hv,hv
 2023-05-11T21:44:37.970Z,19.4103336334229,-155.27783203125,0.259999990463257,2.19,ml,17,94,,0.219999999,hv,hv73397062,2023-05-11T21:50:08.380Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.330000013,0.24,7,automatic,hv,hv
 2023-05-11T21:35:12.350Z,19.3848323822021,-155.038833618164,3.97000002861023,1.72000003,md,32,134,,0.25,hv,hv73397047,2023-05-11T21:39:25.540Z,"13 km SSE of Eden Roc, Hawaii",earthquake,0.75,1.37,0.49000001,15,automatic,hv,hv
 2023-05-11T21:34:57.930Z,44.7596667,-110.9676667,5.96,1.49,ml,14,108,0.02743,0.16,uu,uu60539676,2023-05-11T21:48:38.640Z,"15 km NE of West Yellowstone, Montana",earthquake,0.39,0.88,0.096,3,reviewed,uu,uu
@@ -242,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T22:11:26.410Z,38.8019981,-122.7783356,3.55,0.77,md,19,67,0.01139,0.02,nc,nc73886326,2023-05-10T22:29:11.173Z,"3km NW of The Geysers, CA",earthquake,0.29,0.52,0.23,18,automatic,nc,nc
 2023-05-10T22:05:05.230Z,19.2503337860107,-155.374496459961,31.5900001525879,2.29,ml,34,141,,0.219999999,hv,hv73395557,2023-05-10T22:10:35.120Z,"12 km ENE of Pāhala, Hawaii",earthquake,1,0.889999986,0.24,7,automatic,hv,hv
 2023-05-10T22:01:22.788Z,35.6794,-111.6339,9.165,3.1,ml,42,51,0.267,0.75,us,us6000kazr,2023-05-11T00:36:09.567Z,"29 km SW of Cameron, Arizona",earthquake,1.52,7.615,0.035,108,reviewed,us,us
-2023-05-10T21:53:24.022Z,-20.2807,169.5469,129.456,5,mb,36,117,3.035,0.94,us,us6000kazq,2023-05-10T22:07:21.040Z,"86 km SSE of Isangel, Vanuatu",earthquake,11.16,7.826,0.113,25,reviewed,us,us
