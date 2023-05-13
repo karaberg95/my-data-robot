@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-13T13:33:04.410Z,40.2196655,-121.1583328,-1.41,2.9,md,30,48,0.3347,0.32,nc,nc73887621,2023-05-13T13:37:47.399Z,"1km N of Prattville, CA",earthquake,0.58,2.66,0.12,26,automatic,nc,nc
-2023-05-13T13:18:23.621Z,31.7038,-104.1702,9.851,2.9,ml,16,66,0.211,0.19,us,us6000kbp7,2023-05-13T13:32:50.040Z,"54 km W of Mentone, Texas",earthquake,2.11,8.469,0.085,68,reviewed,us,us
+2023-05-13T13:33:04.410Z,40.2196655,-121.1583328,-1.41,2.9,md,30,48,0.3347,0.32,nc,nc73887621,2023-05-13T13:43:40.626Z,"1km N of Prattville, CA",earthquake,0.58,2.66,0.12,26,automatic,nc,nc
+2023-05-13T13:18:23.544Z,31.70267895,-104.1724893,6.902807617,3,ml,17,72,0.05777077622,0.2,tx,tx2023jiet,2023-05-13T13:41:05.521Z,"54 km W of Mentone, Texas",earthquake,0.6096352085999999,0.8511517073,0.2,14,reviewed,tx,tx
 2023-05-13T13:14:29.250Z,17.9528333333333,-66.8461666666667,14.66,2.19,md,5,212,0.1892,0.1,pr,pr71409183,2023-05-13T13:24:50.160Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,0.86,3.12,0.0762718571519523,3,reviewed,pr,pr
 2023-05-13T13:08:30.070Z,19.4063339233398,-155.272003173828,0.529999971389771,2.15,ml,28,53,,0.230000004,hv,hv73400292,2023-05-13T13:14:08.530Z,"5 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,0.72,9,automatic,hv,hv
 2023-05-13T12:50:36.680Z,19.2493324279785,-155.406326293945,31.3199996948242,2,ml,43,128,,0.129999995,hv,hv73400277,2023-05-13T13:14:02.480Z,"9 km NE of Pāhala, Hawaii",earthquake,0.68,0.620000005,3.96,5,automatic,hv,hv
@@ -260,6 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T14:05:24.620Z,33.4855,-116.4583333,12.93,0.75,ml,19,145,0.09403,0.11,ci,ci40223543,2023-05-12T21:50:59.401Z,"21km ESE of Anza, CA",earthquake,0.26,0.53,0.101,15,reviewed,ci,ci
 2023-05-12T14:04:27.079Z,62.57,-126.5495,10,3.7,mb,19,61,2.181,0.62,us,us6000kbg9,2023-05-12T14:38:13.040Z,"Northwest Territories, Canada",earthquake,6.44,1.981,0.357,2,reviewed,us,us
 2023-05-12T13:50:47.030Z,40.203,-121.1006667,7.36,2.88,md,28,42,0.05627,0.16,nc,nc73887146,2023-05-13T06:24:06.040Z,"4km NNW of Canyondam, CA",earthquake,0.3,1.02,0.152,50,reviewed,nc,nc
-2023-05-12T13:44:35.320Z,40.2111664,-121.0908356,0.09,2.18,md,9,127,0.3006,0.25,nc,nc73887141,2023-05-12T16:07:10.297Z,"4km SSW of East Shore, CA",earthquake,2.74,14.79,0.19,5,automatic,nc,nc
-2023-05-12T13:41:27.420Z,38.8414993,-122.8768311,2.48,0.69,md,15,88,0.006119,0.02,nc,nc73887136,2023-05-12T13:58:13.578Z,"13km NW of The Geysers, CA",earthquake,0.31,0.51,0.13,15,automatic,nc,nc
-2023-05-12T13:38:17.360Z,18.987,-65.031,25,3.76,md,16,263,0.7246,0.18,pr,pr2023132002,2023-05-13T06:29:47.040Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.32,13.47,0.07,11,reviewed,pr,pr
