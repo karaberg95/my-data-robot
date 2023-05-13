@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-13T14:12:13.650Z,36.8349991,-121.5735016,4.29,2.11,md,30,65,0.05154,0.16,nc,nc73887631,2023-05-13T14:15:26.950Z,"3km WSW of San Juan Bautista, CA",earthquake,0.32,0.69,0.16,27,automatic,nc,nc
-2023-05-13T14:07:01.600Z,38.8348351,-122.7906647,1.56,0.7,md,8,129,0.003577,0.01,nc,nc73887626,2023-05-13T14:08:36.053Z,"6km WNW of Cobb, CA",earthquake,0.43,1.23,0.18,9,automatic,nc,nc
+2023-05-13T14:19:05.330Z,40.2294998,-121.1611633,1.36,2.46,md,11,86,0.3308,0.19,nc,nc73887636,2023-05-13T14:25:11.322Z,"2km NE of Almanor, CA",earthquake,0.92,12.95,0.13,9,automatic,nc,nc
+2023-05-13T14:12:13.650Z,36.8349991,-121.5735016,4.29,2.11,md,30,65,0.05154,0.16,nc,nc73887631,2023-05-13T14:23:19.312Z,"3km WSW of San Juan Bautista, CA",earthquake,0.32,0.69,0.16,27,automatic,nc,nc
+2023-05-13T14:07:01.600Z,38.8348351,-122.7906647,1.56,0.7,md,8,129,0.003577,0.01,nc,nc73887626,2023-05-13T14:23:18.311Z,"6km WNW of Cobb, CA",earthquake,0.43,1.23,0.18,9,automatic,nc,nc
 2023-05-13T13:53:47.290Z,33.6548333,-116.7448333,12.88,0.83,ml,28,48,0.06173,0.2,ci,ci40224391,2023-05-13T14:17:38.971Z,"10km SSW of Idyllwild, CA",earthquake,0.28,0.52,0.198,24,reviewed,ci,ci
 2023-05-13T13:52:29.920Z,19.304500579834,-155.26432800293,2.90000009536743,2.09,ml,38,132,,0.140000001,hv,hv73400362,2023-05-13T14:05:40.827Z,"15 km SSW of Volcano, Hawaii",earthquake,0.33,0.870000005,0.3,10,automatic,hv,hv
 2023-05-13T13:47:15.810Z,35.5221667,-118.3765,6.78,1.12,ml,16,48,0.1613,0.16,ci,ci40224375,2023-05-13T13:50:48.511Z,"13km SE of Bodfish, CA",earthquake,0.3,1.2,0.115,13,automatic,ci,ci
@@ -259,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T14:35:09.390Z,40.2113342,-121.0940018,8.28,2.18,md,8,88,0.3023,0.16,nc,nc73887156,2023-05-12T16:53:11.721Z,"4km SSW of East Shore, CA",earthquake,0.95,2.04,0.2,5,automatic,nc,nc
 2023-05-12T14:31:17.260Z,19.2450008392334,-155.399002075195,29.9599990844727,2.13,ml,40,134,,0.129999995,hv,hv73398242,2023-05-12T14:36:49.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.850000024,3.65,6,automatic,hv,hv
 2023-05-12T14:30:10.990Z,44.7673333,-110.9658333,5.33,0.57,md,9,136,0.02982,0.14,uu,uu60539771,2023-05-12T18:03:24.690Z,"16 km NE of West Yellowstone, Montana",earthquake,0.44,0.95,0.281,7,reviewed,uu,uu
-2023-05-12T14:26:27.310Z,19.2445,-155.392666666667,31.23,3.39,ml,52,134,,0.13,hv,hv73398237,2023-05-13T06:15:40.387Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.48,0.46,0.15642955960261,30,reviewed,hv,hv
