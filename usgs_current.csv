@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-15T23:19:06.900Z,35.0294991,-117.6849976,-0.76,1.67,ml,29,56,0.09534,0.23,ci,ci40225839,2023-05-15T23:21:23.822Z,"5km NW of Boron, CA",earthquake,0.42,1.21,0.184,15,automatic,ci,ci
 2023-05-15T23:09:33.866Z,59.5732,-152.1337,80,1.5,ml,,,,0.12,ak,ak02367natmy,2023-05-15T23:10:42.717Z,"27 km NNW of Nanwalek, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-05-15T23:06:34.672Z,36.5741,-115.2029,0,1.5,ml,8,254.11,0.697,0.4691,nn,nn00859571,2023-05-15T23:09:36.954Z,"38 km NNW of Nellis Air Force Base, Nevada",earthquake,,0.1,1.09,5,automatic,nn,nn
 2023-05-15T22:59:23.215Z,35.54393387,-96.74507141,3.317238092,2.39,ml,46,44.74767685,0.1136604548,0.4935109293,ok,ok2023jmox,2023-05-15T23:03:37.153Z,"8 km NW of Prague, Oklahoma",earthquake,1.710428775,1.510667281,0.24,36,automatic,ok,ok
@@ -125,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T08:52:21.180Z,38.8351669,-122.7901688,1.51,0.88,md,10,69,0.01307,0.02,nc,nc73888346,2023-05-15T09:19:13.312Z,"6km WNW of Cobb, CA",earthquake,0.43,1.54,0.23,10,automatic,nc,nc
 2023-05-15T08:49:10.033Z,37.5508,72.2305,188.669,4.1,mb,20,113,1.953,0.48,us,us6000kbzx,2023-05-15T16:49:39.040Z,"60 km E of Khorugh, Tajikistan",earthquake,6.14,9.03,0.262,4,reviewed,us,us
 2023-05-15T08:38:30.280Z,33.4691667,-116.5685,4.88,1.51,ml,55,66,0.03797,0.28,ci,ci40225367,2023-05-15T08:48:57.400Z,"14km SE of Anza, CA",earthquake,0.26,0.94,0.201,26,automatic,ci,ci
-2023-05-15T08:34:11.720Z,40.2366667,-121.161,6.68,2.53,md,35,42,0.01625,0.15,nc,nc73888336,2023-05-15T20:24:13.322Z,"3km NNE of Almanor, CA",earthquake,0.27,0.27,0.138,52,reviewed,nc,nc
+2023-05-15T08:34:11.720Z,40.2366667,-121.161,6.68,2.53,md,35,42,0.01625,0.15,nc,nc73888336,2023-05-15T23:21:13.368Z,"3km NNE of Almanor, CA",earthquake,0.27,0.27,0.138,52,reviewed,nc,nc
 2023-05-15T08:33:33.341Z,36.326,-116.3253,6.1,1.2,ml,32,83.53,0.132,0.1121,nn,nn00859539,2023-05-15T16:07:51.964Z,"33 km WNW of Pahrump, Nevada",earthquake,,1.6,0.92,16,reviewed,nn,nn
 2023-05-15T08:30:05.965Z,63.2238,-150.9958,138.2,1.7,ml,,,,0.19,ak,ak02367ehrg4,2023-05-15T08:32:12.567Z,"Central Alaska",earthquake,,4.9,,,automatic,ak,ak
 2023-05-15T08:21:09.790Z,33.4715004,-116.5636673,8.21,1.54,ml,57,52,0.03965,0.19,ci,ci40225359,2023-05-15T08:31:43.400Z,"14km SE of Anza, CA",earthquake,0.22,0.68,0.235,14,automatic,ci,ci
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T23:29:33.560Z,19.2408332824707,-155.403839111328,31.3700008392334,1.72000003,md,29,151,,0.109999999,hv,hv73402392,2023-05-14T23:32:39.680Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.62,0.769999981,1.77999997,4,automatic,hv,hv
 2023-05-14T23:23:43.240Z,35.0246667,-117.69,-0.82,1.67,ml,25,56,0.09022,0.16,ci,ci40225199,2023-05-15T22:54:41.315Z,"5km NW of Boron, CA",quarry blast,0.38,31.61,0.158,27,reviewed,ci,ci
 2023-05-14T23:23:40.060Z,17.9455,-66.9471666666667,10.55,2.59,md,10,212,0.04528,0.08,pr,pr71409423,2023-05-14T23:52:37.370Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.36,0.49,0.13675118539272,5,reviewed,pr,pr
-2023-05-14T23:20:38.400Z,61.154,-151.0346,45.4,2.6,ml,,,,0.29,ak,ak02365ztudc,2023-05-14T23:27:37.040Z,"2 km ENE of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-05-14T23:18:32.429Z,35.73366667,-98.01116667,7.6,1.19,ml,28,67,0.1808645082,0.35,ok,ok2023jkub,2023-05-15T21:21:19.499Z,"3 km WNW of Okarche, Oklahoma",earthquake,,1.3,0.17,3,reviewed,ok,ok
