@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T09:49:42.069Z,11.4555,141.6158,10,5.1,mww,59,48,3.819,0.56,us,us6000kbtw,2023-05-15T03:59:53.494Z,"State of Yap, Federated States of Micronesia",earthquake,9.8,1.863,0.083,14,reviewed,us,us
 2023-05-14T09:48:51.410Z,19.3964996337891,-155.237670898438,1.78999996185303,2.26,ml,30,62,,0.239999995,hv,hv73401662,2023-05-14T09:54:22.530Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.460000008,2.11,13,automatic,hv,hv
 2023-05-14T09:32:47.537Z,39.5792,-120.0569,7.8,0.5,ml,7,144.24,0.079,0.0833,nn,nn00859523,2023-05-14T15:39:19.432Z,"7 km NNW of Verdi, California",earthquake,,2.1,0.3,3,reviewed,nn,nn
-2023-05-14T09:26:55.940Z,38.829834,-122.854332,1.67,0.74,md,16,64,0.003027,0.02,nc,nc73887931,2023-05-14T10:42:12.002Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.25,18,automatic,nc,nc
