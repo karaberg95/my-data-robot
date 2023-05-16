@@ -204,7 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T23:09:33.866Z,59.5732,-152.1337,80,1.5,ml,,,,0.12,ak,ak02367natmy,2023-05-15T23:10:42.717Z,"27 km NNW of Nanwalek, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-05-15T23:06:29.419Z,36.3674,-114.8796,0.3,1.3,ml,9,282.2,0.262,0.1708,nn,nn00859571,2023-05-16T16:10:18.322Z,"20 km NE of Nellis Air Force Base, Nevada",earthquake,,7.3,1.09,3,reviewed,nn,nn
 2023-05-15T22:59:23.210Z,35.539,-96.7505,7.92,2.33,ml,101,31,0,0.19,ok,ok2023jmox,2023-05-16T14:42:01.233Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.2,35,reviewed,ok,ok
-2023-05-15T22:53:23.109Z,63.2019,-150.7818,120.9,1.6,ml,,,,0.2,ak,ak02367myspi,2023-05-15T22:55:24.155Z,"60 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
-2023-05-15T22:51:44.790Z,33.6998333,-116.8106667,15.75,0.97,ml,15,166,0.07623,0.07,ci,ci37524045,2023-05-16T21:28:29.256Z,"9km SE of Valle Vista, CA",earthquake,0.32,0.39,0.088,9,reviewed,ci,ci
-2023-05-15T22:51:31.830Z,33.281,-115.6826667,6.59,1.37,ml,20,134,0.08304,0.15,ci,ci40225823,2023-05-16T21:22:27.881Z,"9km SSE of Bombay Beach, CA",earthquake,0.33,1.27,0.196,14,reviewed,ci,ci
-2023-05-15T22:50:05.861Z,-21.0721,-178.8808,581.746,4.5,mb,55,81,3.434,0.76,us,us6000kc65,2023-05-15T23:32:21.040Z,"Fiji region",earthquake,13.03,7.657,0.066,66,reviewed,us,us
