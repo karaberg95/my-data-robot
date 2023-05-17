@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-17T07:39:34.383Z,36.70919418,-97.66365814,0.9716957808,2.12,ml,45,55.63112259,0.2119395882,0.746764959,ok,ok2023jpbo,2023-05-17T07:41:51.630Z,"9 km WNW of Lamont, Oklahoma",earthquake,2.039872402,1.600394104,0.23,28,automatic,ok,ok
+2023-05-17T07:36:32.560Z,61.0923,-152.2366,1.1,0.6,ml,,,,0.25,ak,ak0236ap0d6g,2023-05-17T07:38:42.059Z,"Southern Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-05-17T07:27:52.860Z,34.1591667,-116.149,3.34,1.09,ml,22,55,0.0978,0.21,ci,ci40226495,2023-05-17T07:31:33.862Z,"7km WNW of Twentynine Palms, CA",earthquake,0.31,1.23,0.161,20,automatic,ci,ci
 2023-05-17T07:27:19.811Z,62.6152,-152.1467,0,1.7,ml,,,,0.59,ak,ak0236aoyer1,2023-05-17T07:29:35.349Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-17T07:22:26.880Z,19.2201671600342,-155.381332397461,29.0599994659424,2.1099999,md,31,170,,0.119999997,hv,hv73405937,2023-05-17T07:25:31.600Z,"10 km E of Pāhala, Hawaii",earthquake,0.65,0.839999974,1.78999996,6,automatic,hv,hv
