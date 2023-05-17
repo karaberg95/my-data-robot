@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-17T19:25:09.492Z,64.9892,-147.2902,0,1.7,ml,,,,1.08,ak,ak0236aw35s5,2023-05-17T19:27:04.259Z,"15 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-17T19:24:49.710Z,38.8126678,-122.8290024,1.42,0.87,md,16,62,0.003797,0.02,nc,nc73889276,2023-05-17T19:26:25.057Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.48,0.18,16,automatic,nc,nc
+2023-05-17T19:24:49.710Z,38.8126678,-122.8290024,1.42,0.87,md,16,62,0.003797,0.02,nc,nc73889276,2023-05-17T19:39:10.982Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.48,0.18,16,automatic,nc,nc
 2023-05-17T19:19:55.900Z,19.417667388916,-155.238998413086,1.30999994277954,1.75999999,md,15,140,,0.129999995,hv,hv73406617,2023-05-17T19:24:02.860Z,"2 km S of Volcano, Hawaii",earthquake,0.28,0.400000006,1.12,11,automatic,hv,hv
 2023-05-17T19:16:22.870Z,19.2291660308838,-155.391006469727,29.8400001525879,2.25,ml,41,146,,0.119999997,hv,hv73406612,2023-05-17T19:22:01.270Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.75,3.38,7,automatic,hv,hv
 2023-05-17T19:16:21.846Z,61.9977,-150.5159,4.3,1.2,ml,,,,0.96,ak,ak0236aw19ag,2023-05-17T19:18:11.927Z,"37 km NW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -84,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T11:46:11.740Z,38.7630005,-122.7088318,1.51,1.14,md,8,196,0.02973,0.02,nc,nc73889086,2023-05-17T12:52:13.324Z,"2km SW of Anderson Springs, CA",earthquake,0.46,0.94,0.13,9,automatic,nc,nc
 2023-05-17T11:39:09.037Z,64.951,-149.0376,17.8,1,ml,,,,0.66,ak,ak0236areoxj,2023-05-17T11:41:33.049Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-17T11:13:16.490Z,19.2416667938232,-155.389663696289,31.6000003814697,1.83000004,md,28,164,,0.119999997,hv,hv73406162,2023-05-17T11:16:32.080Z,"Island of Hawaii, Hawaii",earthquake,0.63,1.11000001,0.75999999,6,automatic,hv,hv
+2023-05-17T11:03:09.375Z,40.2236,-121.0879,0,1.5,ml,4,327.39,0.662,0.1464,nn,nn00859627,2023-05-17T19:34:49.219Z,"Northern California",earthquake,,0,0.31,4,reviewed,nn,nn
 2023-05-17T10:53:53.580Z,19.2423324584961,-155.385162353516,32.0699996948242,2.85,ml,48,142,,0.150000006,hv,hv73406132,2023-05-17T11:00:58.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.629999995,1.77,25,automatic,hv,hv
 2023-05-17T10:35:55.760Z,38.8126678,-122.8071671,2.33,0.92,md,13,62,0.01039,0.04,nc,nc73889081,2023-05-17T12:23:20.130Z,"6km NW of The Geysers, CA",earthquake,0.33,1.09,0.23,14,automatic,nc,nc
 2023-05-17T10:26:04.910Z,33.2103333,-117.423,15.26,0.93,ml,13,229,0.03945,0.1,ci,ci40226527,2023-05-17T13:28:36.239Z,"4km WSW of Camp Pendleton South, CA",earthquake,0.52,0.4,0.154,7,reviewed,ci,ci
