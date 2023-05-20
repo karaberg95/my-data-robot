@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-20T04:22:25.990Z,40.5934982,-122.1086655,13.04,1.89,md,10,94,0.07619,0.04,nc,nc73890191,2023-05-20T04:23:59.827Z,"8km ENE of Millville, CA",earthquake,0.46,0.85,0.13,4,automatic,nc,nc
-2023-05-20T04:17:18.140Z,37.3549995,-121.7170029,7.5,1.58,md,15,97,0.0608,0.04,nc,nc73890186,2023-05-20T04:18:54.859Z,"10km E of Alum Rock, CA",earthquake,0.26,0.71,0.11,10,automatic,nc,nc
+2023-05-20T04:35:57.345Z,57.5643,-155.8386,77.4,2,ml,,,,0.19,ak,ak0236flty1i,2023-05-20T04:37:57.889Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
+2023-05-20T04:22:25.990Z,40.5934982,-122.1086655,13.04,1.89,md,10,94,0.07619,0.04,nc,nc73890191,2023-05-20T04:39:11.746Z,"8km ENE of Millville, CA",earthquake,0.46,0.85,0.13,4,automatic,nc,nc
+2023-05-20T04:17:18.140Z,37.3549995,-121.7170029,7.5,1.58,md,15,97,0.0608,0.04,nc,nc73890186,2023-05-20T04:39:13.645Z,"10km E of Alum Rock, CA",earthquake,0.26,0.71,0.11,10,automatic,nc,nc
 2023-05-20T04:12:53.410Z,38.8139992,-122.8215027,3.44,0.53,md,9,154,0.007887,0.33,nc,nc73890181,2023-05-20T04:29:18.598Z,"7km NW of The Geysers, CA",earthquake,2.22,1.8,0.31,8,automatic,nc,nc
 2023-05-20T04:03:01.350Z,35.6728333,-117.5163333,1.58,1.25,ml,12,96,0.07581,0.21,ci,ci40229023,2023-05-20T04:06:40.680Z,"15km SW of Searles Valley, CA",earthquake,0.5,0.93,0.131,12,automatic,ci,ci
 2023-05-20T03:49:05.098Z,59.3771,-152.6843,73.8,1.8,ml,,,,0.3,ak,ak0236flbefh,2023-05-20T03:51:39.157Z,"43 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T03:20:04.307Z,59.2803,-138.2331,0,3.5,ml,,,,0.99,ak,ak0236fl56nc,2023-05-20T03:37:01.344Z,"89 km ESE of Yakutat, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-20T03:17:53.553Z,61.4899,-150.174,35.2,2.1,ml,,,,0.66,ak,ak0236fl4n97,2023-05-20T03:19:28.327Z,"12 km WSW of Big Lake, Alaska",earthquake,,8.3,,,automatic,ak,ak
 2023-05-20T03:01:44.490Z,19.4238338470459,-155.276992797852,-0.0399999991059303,2,ml,15,101,,0.0799999982,hv,hv73410647,2023-05-20T03:07:16.150Z,"4 km WSW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.34,6,automatic,hv,hv
-2023-05-20T02:56:57.630Z,38.8339996,-122.8358307,0.99,1.07,md,19,54,0.004591,0.02,nc,nc73890156,2023-05-20T03:13:19.852Z,"9km NW of The Geysers, CA",earthquake,0.18,0.37,0.3,21,automatic,nc,nc
+2023-05-20T02:56:57.630Z,38.8339996,-122.8358307,0.99,1.07,md,19,54,0.004591,0.02,nc,nc73890156,2023-05-20T04:39:11.645Z,"9km NW of The Geysers, CA",earthquake,0.18,0.37,0.3,21,automatic,nc,nc
 2023-05-20T02:56:26.803Z,-22.7357,170.7954,33.618,5.3,mb,38,109,3.096,0.84,us,us6000kddi,2023-05-20T03:13:12.040Z,"southeast of the Loyalty Islands",earthquake,11.33,6.52,0.099,34,reviewed,us,us
 2023-05-20T02:45:15.750Z,36.7418327,-121.4696655,4.69,1.33,md,8,151,0.02118,0.2,nc,nc73890151,2023-05-20T04:20:13.548Z,"12km SW of Ridgemark, CA",earthquake,1.12,1.16,0.22,6,automatic,nc,nc
 2023-05-20T02:36:12.958Z,59.7985,-152.5839,70.9,2.7,ml,,,,0.53,ak,ak0236fkn74f,2023-05-20T02:39:17.619Z,"42 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -307,4 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T04:51:43.126Z,-22.1278,-67.5483,209.454,4.5,mb,22,90,1.006,0.68,us,us6000kd1w,2023-05-19T05:54:58.040Z,"109 km NE of San Pedro de Atacama, Chile",earthquake,9.43,8.218,0.191,10,reviewed,us,us
 2023-05-19T04:50:14.569Z,-23.1193,170.7577,32.855,5.1,mb,30,126,3.095,0.81,us,us6000kd1x,2023-05-19T05:15:36.040Z,"southeast of the Loyalty Islands",earthquake,11.09,4.593,0.06,93,reviewed,us,us
 2023-05-19T04:44:25.600Z,19.2473335266113,-155.406997680664,30.7299995422363,2.25,ml,45,129,,0.140000001,hv,hv73408817,2023-05-19T04:55:30.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.56,0.680000007,3.32,7,automatic,hv,hv
-2023-05-19T04:33:07.202Z,-23.1922,170.6447,28.578,5.1,mb,19,111,3.005,0.82,us,us6000kd23,2023-05-19T05:41:34.040Z,"southeast of the Loyalty Islands",earthquake,10.99,6.603,0.147,16,reviewed,us,us
