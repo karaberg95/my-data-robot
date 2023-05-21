@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-21T17:40:05.190Z,38.8318329,-122.8170013,1.79,0.76,md,14,66,0.01001,0.01,nc,nc73890881,2023-05-21T17:41:41.672Z,"8km NW of The Geysers, CA",earthquake,0.27,0.74,0.08,14,automatic,nc,nc
+2023-05-21T17:40:05.190Z,38.8318329,-122.8170013,1.79,0.76,md,14,66,0.01001,0.01,nc,nc73890881,2023-05-21T17:52:10.496Z,"8km NW of The Geysers, CA",earthquake,0.27,0.74,0.08,14,automatic,nc,nc
+2023-05-21T17:23:20.791Z,-43.8634,39.4794,10,5.1,mb,42,54,19.515,0.84,us,us6000kdpx,2023-05-21T17:49:15.040Z,"Prince Edward Islands region",earthquake,13.82,1.789,0.103,31,reviewed,us,us
 2023-05-21T17:19:04.170Z,17.9768333333333,-66.9418333333333,8.29,2.28,md,17,175,0.05958,0.27,pr,pr71410228,2023-05-21T17:32:43.270Z,"Puerto Rico region",earthquake,0.53,1.08,0.304353612861873,8,reviewed,pr,pr
 2023-05-21T17:14:47.900Z,33.2758333,-116.4321667,4,0.72,ml,13,90,0.0147,0.19,ci,ci40230615,2023-05-21T17:18:22.729Z,"6km WNW of Borrego Springs, CA",earthquake,0.42,0.55,0.153,12,automatic,ci,ci
 2023-05-21T17:13:05.780Z,38.8199997,-122.8011703,2.49,0.8,md,10,113,0.007737,0.01,nc,nc73890876,2023-05-21T17:25:10.320Z,"6km NW of The Geysers, CA",earthquake,0.46,0.88,0.11,11,automatic,nc,nc
@@ -17,8 +18,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T16:22:58.790Z,38.8370018,-122.7981644,1.98,0.75,md,13,69,0.006267,0.01,nc,nc73890836,2023-05-21T17:43:10.434Z,"7km WNW of Cobb, CA",earthquake,0.31,0.77,0.13,14,automatic,nc,nc
 2023-05-21T16:01:04.480Z,33.5971667,-116.8118333,6.28,0.21,ml,16,77,0.04442,0.15,ci,ci40230567,2023-05-21T16:04:34.879Z,"14km WNW of Anza, CA",earthquake,0.33,0.71,0.128,3,automatic,ci,ci
 2023-05-21T15:53:59.550Z,18.9973335266113,-155.892501831055,83.2399978637695,2.23000002,md,43,285,,0.25,hv,hv73413967,2023-05-21T15:57:15.860Z,"15 km WSW of Hawaiian Ocean View, Hawaii",earthquake,5.49,2.61999989,0.319999993,9,automatic,hv,hv
-2023-05-21T15:45:13.032Z,-10.2728,161.4442,77.791,6.1,mww,61,34,1.692,0.87,us,us6000kdnw,2023-05-21T16:37:39.516Z,"55 km WNW of Kirakira, Solomon Islands",earthquake,8.37,5.892,0.075,17,reviewed,us,us
-2023-05-21T15:44:14.398Z,40.1739,-119.8066,3.6,1.7,ml,10,219.62,0.057,0.1776,nn,nn00859993,2023-05-21T17:43:02.176Z,"28 km E of Herlong, California",earthquake,,1.8,0.39,6,reviewed,nn,nn
+2023-05-21T15:45:13.032Z,-10.2728,161.4442,77.791,6.1,mww,61,34,1.692,0.87,us,us6000kdnw,2023-05-21T17:52:07.296Z,"55 km WNW of Kirakira, Solomon Islands",earthquake,8.37,5.892,0.075,17,reviewed,us,us
+2023-05-21T15:44:14.398Z,40.1739,-119.8066,3.6,1.7,ml,10,219.62,0.057,0.1776,nn,nn00859993,2023-05-21T17:46:12.880Z,"28 km E of Herlong, California",earthquake,,1.8,0.39,6,reviewed,nn,nn
 2023-05-21T15:43:53.980Z,38.8055,-122.7825012,2.93,0.78,md,15,83,0.007877,0.02,nc,nc73890826,2023-05-21T17:14:10.242Z,"4km NW of The Geysers, CA",earthquake,0.35,0.64,0.4,15,automatic,nc,nc
 2023-05-21T15:43:39.460Z,19.3435001373291,-155.293167114258,2.47000002861023,1.87,md,20,130,,0.129999995,hv,hv73413942,2023-05-21T15:46:45.160Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.430000007,0.839999974,10,automatic,hv,hv
 2023-05-21T15:33:08.618Z,37.2703,-117.5674,2.2,1.5,ml,13,209.02,0.073,0.1787,nn,nn00859988,2023-05-21T17:39:52.499Z,"Central California",earthquake,,2.5,0.9,6,reviewed,nn,nn
