@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-22T10:20:59.993Z,58.2005,-155.2472,0,1.6,ml,,,,0.44,ak,ak0236j0e14f,2023-05-22T10:22:04.603Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
+2023-05-22T10:14:58.860Z,33.5301667,-116.4118333,9.35,0.13,ml,10,185,0.0893,0.15,ci,ci40231119,2023-05-22T10:18:36.792Z,"18km SSW of La Quinta, CA",earthquake,0.78,1.71,0.137,3,automatic,ci,ci
+2023-05-22T10:12:21.330Z,35.9535,-117.6958333,2.11,1.01,ml,14,123,0.09614,0.2,ci,ci40231111,2023-05-22T10:15:59.386Z,"19km E of Little Lake, CA",earthquake,0.41,0.71,0.099,9,automatic,ci,ci
+2023-05-22T10:10:39.330Z,19.4125003814697,-155.284164428711,0.699999988079071,1.75,md,15,61,,0.0799999982,hv,hv73415457,2023-05-22T10:16:10.230Z,"6 km WSW of Volcano, Hawaii",earthquake,0.2,0.180000007,1.12,10,automatic,hv,hv
+2023-05-22T10:08:17.000Z,19.1421661376953,-155.462005615234,31.6700000762939,1.88999999,md,29,169,,0.109999999,hv,hv73415452,2023-05-22T10:12:00.270Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.63,0.870000005,0.540000021,5,automatic,hv,hv
 2023-05-22T09:41:12.280Z,33.3341667,-116.6653333,13.23,0.37,ml,15,104,0.1355,0.13,ci,ci40231103,2023-05-22T09:44:47.356Z,"6km NNW of Warner Springs, CA",earthquake,0.31,1.02,0.14,7,automatic,ci,ci
 2023-05-22T09:39:29.480Z,38.8520012,-122.7768326,1.25,0.71,md,9,197,0.009392,0.03,nc,nc73891186,2023-05-22T09:56:11.761Z,"6km NW of Cobb, CA",earthquake,0.54,0.49,0.1,10,automatic,nc,nc
 2023-05-22T09:29:14.010Z,34.0335,-117.0871667,16.94,1.14,ml,44,38,0.02105,0.25,ci,ci40231095,2023-05-22T09:40:02.710Z,"4km W of Yucaipa, CA",earthquake,0.3,0.6,0.251,29,automatic,ci,ci
@@ -264,11 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T10:34:55.300Z,35.9463333,-117.6953333,3.28,1.26,ml,13,131,0.09891,0.15,ci,ci40230279,2023-05-21T10:38:30.539Z,"19km E of Little Lake, CA",earthquake,0.38,1.04,0.155,11,automatic,ci,ci
 2023-05-21T10:32:53.956Z,37.2948,-117.606,3.1,0.6,ml,11,247.18,0.07,0.2816,nn,nn00859932,2023-05-21T10:35:18.902Z,"51 km S of Silver Peak, Nevada",earthquake,,11,0.74,7,automatic,nn,nn
 2023-05-21T10:32:10.523Z,63.4926,-152.8678,0,1.8,ml,,,,0.79,ak,ak0236hcx5ek,2023-05-21T10:34:19.070Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-21T10:24:11.466Z,52.8577,-166.8963,39.31,4.1,mb,44,173,0.825,0.67,us,us6000kdl5,2023-05-21T17:20:55.135Z,"115 km SSW of Unalaska, Alaska",earthquake,6.31,9.839,0.101,27,reviewed,us,us
-2023-05-21T10:20:03.470Z,37.2772,-117.5807,2.6,1,ml,11,123.26,0.068,0.2292,nn,nn00859930,2023-05-21T10:22:38.880Z,"53 km S of Silver Peak, Nevada",earthquake,,2.9,0.94,7,automatic,nn,nn
-2023-05-21T10:18:39.310Z,35.9491667,-117.6951667,2.85,0.73,ml,12,132,0.09804,0.16,ci,ci40230263,2023-05-21T10:22:12.979Z,"19km E of Little Lake, CA",earthquake,0.41,1.4,0.066,5,automatic,ci,ci
-2023-05-21T10:16:58.390Z,36.7985001,-121.538002,6.46,2.11,md,40,57,0.03417,0.14,nc,nc73890731,2023-05-21T12:09:13.318Z,"5km S of San Juan Bautista, CA",earthquake,0.27,0.44,0.17,36,automatic,nc,nc
-2023-05-21T10:16:21.568Z,58.1861,-155.2741,0,0.8,ml,,,,0.69,ak,ak0236hctqss,2023-05-21T10:19:54.659Z,"84 km NW of Karluk, Alaska",earthquake,,136,,,automatic,ak,ak
-2023-05-21T10:12:45.900Z,35.9505,-117.687,2.11,0.91,ml,12,134,0.1039,0.13,ci,ci40230255,2023-05-21T13:39:15.049Z,"20km E of Little Lake, CA",earthquake,0.34,0.51,0.075,8,reviewed,ci,ci
-2023-05-21T10:09:07.260Z,35.9541667,-117.6903333,2.27,2.69,ml,23,86,0.1002,0.16,ci,ci40230247,2023-05-21T10:20:10.080Z,"20km E of Little Lake, CA",earthquake,0.25,0.69,0.125,25,automatic,ci,ci
-2023-05-21T10:08:13.530Z,38.8180008,-122.82267,2.17,1.05,md,19,65,0.01044,0.02,nc,nc73890711,2023-05-21T10:24:41.406Z,"7km NW of The Geysers, CA",earthquake,0.24,0.45,0.25,21,automatic,nc,nc
