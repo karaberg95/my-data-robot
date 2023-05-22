@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T15:44:14.398Z,40.1739,-119.8066,3.6,1.7,ml,10,219.62,0.057,0.1776,nn,nn00859993,2023-05-21T17:46:12.880Z,"28 km E of Herlong, California",earthquake,,1.8,0.39,6,reviewed,nn,nn
 2023-05-21T15:43:53.980Z,38.8055,-122.7825012,2.93,0.78,md,15,83,0.007877,0.02,nc,nc73890826,2023-05-21T17:14:10.242Z,"4km NW of The Geysers, CA",earthquake,0.35,0.64,0.4,15,automatic,nc,nc
 2023-05-21T15:43:39.460Z,19.3435001373291,-155.293167114258,2.47000002861023,1.87,md,20,130,,0.129999995,hv,hv73413942,2023-05-21T15:46:45.160Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.430000007,0.839999974,10,automatic,hv,hv
-2023-05-21T15:33:08.618Z,37.2703,-117.5674,2.2,1.5,ml,13,209.02,0.073,0.1787,nn,nn00859988,2023-05-21T17:39:52.499Z,"Central California",earthquake,,2.5,0.9,6,reviewed,nn,nn
