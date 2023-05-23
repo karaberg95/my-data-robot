@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T23:18:42.238Z,60.9412,-150.9526,58.2,1.9,ml,,,,0.16,ak,ak0236kvnjof,2023-05-23T23:20:07.985Z,"14 km W of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-23T23:09:45.048Z,60.1103,-153.0302,107.5,1.7,ml,,,,0.19,ak,ak0236kvlmg8,2023-05-23T23:11:16.125Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-05-23T23:06:58.113Z,51.608,-175.9174,32.7,2.6,ml,,,,0.35,ak,ak0236kvl0ci,2023-05-23T23:27:10.656Z,"57 km ESE of Adak, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2023-05-23T22:57:32.310Z,-36.799,-73.7412,17.164,4.5,mb,25,194,0.445,0.59,us,us7000k3ck,2023-05-23T23:07:24.040Z,"56 km W of Talcahuano, Chile",earthquake,4.57,5.853,0.135,16,reviewed,us,us
 2023-05-23T22:33:57.940Z,33.5455,-116.783,10.89,0.65,ml,23,64,0.04301,0.25,ci,ci40232575,2023-05-23T22:37:40.819Z,"10km W of Anza, CA",earthquake,0.44,0.77,0.183,16,automatic,ci,ci
 2023-05-23T22:24:39.300Z,38.8153343,-122.831665,1.4,1.08,md,20,52,0.006743,0.01,nc,nc73889200,2023-05-23T23:07:14.030Z,"8km WNW of The Geysers, CA",earthquake,0.19,0.4,0.14,20,automatic,nc,nc
+2023-05-23T22:21:49.169Z,29.6995,81.2361,10,4.3,mb,36,179,4.023,0.51,us,us7000k3ch,2023-05-23T23:20:52.040Z,"56 km NNE of Dipayal, Nepal",earthquake,11.59,1.964,0.129,17,reviewed,us,us
 2023-05-23T22:21:45.780Z,33.6101667,-117.3161667,4.41,1.31,ml,8,159,0.401,0.21,ci,ci40232567,2023-05-23T22:25:26.294Z,"4km WNW of Wildomar, CA",earthquake,0.99,31.61,0.315,13,automatic,ci,ci
 2023-05-23T22:04:28.776Z,60.6795,-152.2775,92.7,1.1,ml,,,,0.7,ak,ak0236kuz30d,2023-05-23T22:06:05.260Z,"52 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-23T22:00:09.217Z,36.243,-115.5528,5.5,1.9,ml,11,238.74,0.672,0.3949,nn,nn00860220,2023-05-23T22:04:11.121Z,"8 km E of Mount Charleston, Nevada",earthquake,,6.7,0.75,8,automatic,nn,nn
@@ -11,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T21:35:40.040Z,38.8175011,-122.8243332,1.72,1.08,md,17,53,0.009415,0.03,nc,nc73889185,2023-05-23T22:09:15.535Z,"7km NW of The Geysers, CA",earthquake,0.24,0.53,0.28,18,automatic,nc,nc
 2023-05-23T21:34:56.690Z,38.8178329,-122.8216629,2.02,1.89,md,39,44,0.01062,0.04,nc,nc73889180,2023-05-23T21:59:18.482Z,"7km NW of The Geysers, CA",earthquake,0.15,0.25,0.15,39,automatic,nc,nc
 2023-05-23T21:24:33.730Z,33.4641667,-116.4711667,13.87,0.62,ml,20,65,0.07024,0.19,ci,ci40232519,2023-05-23T21:28:07.473Z,"21km ESE of Anza, CA",earthquake,0.38,0.75,0.087,15,automatic,ci,ci
+2023-05-23T21:23:22.354Z,51.7759,178.6187,89.7,3.4,ml,,,,0.57,ak,ak0236kuhpoc,2023-05-23T23:23:22.634Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-05-23T21:12:04.659Z,-7.5848,119.277,280.969,4.3,mb,27,137,1.932,0.51,us,us7000k3c4,2023-05-23T22:04:09.040Z,"Flores Sea",earthquake,10.59,8.485,0.111,23,reviewed,us,us
 2023-05-23T21:06:28.910Z,33.2715,-116.4293333,3.63,1.11,ml,35,54,0.01072,0.22,ci,ci40232511,2023-05-23T21:10:14.543Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.71,0.124,28,automatic,ci,ci
 2023-05-23T21:02:05.930Z,39.6465,-111.2481667,-2.69,1.35,ml,9,170,0.03481,0.07,uu,uu60540766,2023-05-23T21:25:26.880Z,"Utah",earthquake,0.67,0.34,0.006,2,reviewed,uu,uu
@@ -66,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T16:51:50.860Z,36.7998333,-121.5086667,6.7,0.87,md,14,113,0.01914,0.05,nc,nc73891746,2023-05-23T22:42:13.737Z,"6km SSE of San Juan Bautista, CA",earthquake,0.37,0.45,0.18,10,reviewed,nc,nc
 2023-05-23T16:49:22.578Z,57.9152,-154.3857,55.4,1.8,ml,,,,0.61,ak,ak0236kro44h,2023-05-23T16:51:15.217Z,"38 km N of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-23T16:43:04.490Z,38.4876667,-112.8415,0.05,1.38,ml,10,118,0.02525,0.1,uu,uu60540726,2023-05-23T18:11:55.160Z,"17 km NE of Milford, Utah",earthquake,0.39,8.74,0.516,3,reviewed,uu,uu
+2023-05-23T16:30:18.950Z,46.83266666666667,-121.94433333333333,7.16,0.9400000000000001,ml,19,138,0.009579,0.12,uw,uw61918622,2023-05-23T23:22:28.280Z,"10 km NE of Ashford, Washington",earthquake,0.36,0.44,0.17618882582624584,12,reviewed,uw,uw
 2023-05-23T16:28:29.446Z,60.0606,-153.1488,119.5,2,ml,,,,0.16,ak,ak0236krjmm8,2023-05-23T17:07:03.040Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-23T16:15:07.590Z,35.9536667,-117.6941667,3.59,1.82,ml,28,60,0.09738,0.15,ci,ci40232327,2023-05-23T17:27:34.390Z,"19km E of Little Lake, CA",earthquake,0.18,0.57,0.104,24,reviewed,ci,ci
 2023-05-23T16:13:38.850Z,38.8370018,-122.7986679,1.96,0.22,md,9,100,0.006651,0.02,nc,nc73891726,2023-05-23T16:30:14.174Z,"7km WNW of Cobb, CA",earthquake,0.45,1.05,0.09,10,automatic,nc,nc
@@ -283,6 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T23:36:03.580Z,17.9925,-66.8043333333333,17.58,1.99,md,5,188,0.07339,0.07,pr,pr71410488,2023-05-22T23:47:38.680Z,"1 km E of Indios, Puerto Rico",earthquake,0.48,0.78,0.0614216873678444,5,reviewed,pr,pr
 2023-05-22T23:29:46.030Z,17.9831666666667,-66.8031666666667,17.42,2.19,md,6,192,0.07287,0.08,pr,pr71410478,2023-05-22T23:42:52.660Z,"Puerto Rico region",earthquake,1.21,0.62,0.101721519407831,5,reviewed,pr,pr
 2023-05-22T23:28:42.700Z,38.7811667,-122.7253333,2.8,0.07,md,14,149,0.00914,0.08,nc,nc73891436,2023-05-23T18:27:15.182Z,"3km E of The Geysers, CA",earthquake,0.56,0.72,0.089,9,reviewed,nc,nc
-2023-05-22T23:27:54.220Z,35.0353333,-117.7016667,-0.82,1.56,ml,19,103,0.1008,0.19,ci,ci40231887,2023-05-23T21:03:22.312Z,"6km NW of Boron, CA",quarry blast,0.57,31.61,0.099,27,reviewed,ci,ci
-2023-05-22T23:27:12.800Z,38.840332,-122.8236694,1.98,0.36,md,12,90,0.009392,0.02,nc,nc73891431,2023-05-23T00:12:14.331Z,"9km WNW of Cobb, CA",earthquake,0.33,0.82,0.24,12,automatic,nc,nc
-2023-05-22T23:27:03.041Z,31.61387327,-103.9658635,7.674047852000001,1.9,ml,18,59,0.004068279943,0.1,tx,tx2023jzkm,2023-05-23T19:37:03.523Z,"36 km WSW of Mentone, Texas",earthquake,0.5413975057,0.6456764901,0.2,26,reviewed,tx,tx
