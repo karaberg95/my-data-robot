@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T16:49:22.578Z,57.9152,-154.3857,55.4,1.8,ml,,,,0.61,ak,ak0236kro44h,2023-05-23T16:51:15.217Z,"38 km N of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-23T16:28:29.446Z,60.0606,-153.1488,119.5,2,ml,,,,0.16,ak,ak0236krjmm8,2023-05-23T16:29:54.095Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-23T16:15:07.590Z,35.955,-117.6955,2.69,1.86,ml,20,86,0.09596,0.16,ci,ci40232327,2023-05-23T16:25:34.710Z,"19km E of Little Lake, CA",earthquake,0.25,0.59,0.201,22,automatic,ci,ci
 2023-05-23T16:13:38.850Z,38.8370018,-122.7986679,1.96,0.22,md,9,100,0.006651,0.02,nc,nc73891726,2023-05-23T16:30:14.174Z,"7km WNW of Cobb, CA",earthquake,0.45,1.05,0.09,10,automatic,nc,nc
@@ -296,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T17:14:15.135Z,4.3766,-76.2642,121.714,4.5,mb,43,84,1.945,1.06,us,us6000kdxg,2023-05-22T21:28:28.067Z,"9 km WNW of Bolívar, Colombia",earthquake,7.73,9.484,0.059,83,reviewed,us,us
 2023-05-22T17:11:33.000Z,19.3931666666667,-155.279333333333,1.52,0.73,md,12,65,,0.07,hv,hv73415832,2023-05-22T22:39:24.940Z,"7 km SW of Volcano, Hawaii",earthquake,0.4,0.22,0.217771849986983,2,reviewed,hv,hv
 2023-05-22T16:59:01.234Z,-6.6668,129.3851,10,4.3,mb,19,112,2.192,1.12,us,us6000kdxc,2023-05-22T19:39:28.040Z,"Banda Sea",earthquake,8.04,1.935,0.169,12,reviewed,us,us
-2023-05-22T16:57:46.009Z,35.18066667,-97.863,6.85,1.22,ml,50,62,0.03509311353,0.35,ok,ok2023jyxn,2023-05-22T18:18:35.566Z,"Oklahoma",earthquake,,0.6,0.21,23,reviewed,ok,ok
