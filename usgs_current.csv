@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-24T12:54:54.671Z,64.5985,-149.6776,0,1.3,ml,,,,0.8,ak,ak0236mcuv97,2023-05-24T12:56:59.257Z,"26 km W of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-24T12:54:23.570Z,33.4441667,-116.6321667,4.22,0.38,ml,15,106,0.05628,0.14,ci,ci40232799,2023-05-24T13:04:33.173Z,"13km SSE of Anza, CA",earthquake,0.27,0.53,0.159,10,reviewed,ci,ci
+2023-05-24T12:42:12.031Z,52.169,-173.7738,121.09,3.9,mb,20,187,1.41,0.56,us,us7000k3fx,2023-05-24T12:59:38.789Z,"29 km E of Atka, Alaska",earthquake,9.72,6.969,0.083,38,reviewed,us,us
 2023-05-24T12:35:39.667Z,58.265,-155.1024,0,1,ml,,,,0.47,ak,ak0236mcqrhq,2023-05-24T12:37:33.866Z,"86 km NNW of Karluk, Alaska",earthquake,,26.8,,,automatic,ak,ak
 2023-05-24T12:31:09.609Z,64.5391,-149.8031,1.5,1.2,ml,,,,1,ak,ak0236mcpub4,2023-05-24T12:33:24.827Z,"33 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-24T12:24:01.260Z,58.1732,-155.3994,0,1.2,ml,,,,0.95,ak,ak0236mcobni,2023-05-24T12:25:45.544Z,"87 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-24T12:15:33.059Z,58.1819,-155.3627,1.2,0.5,ml,,,,0.25,ak,ak0236mcmgon,2023-05-24T12:18:48.811Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
+2023-05-24T12:15:33.059Z,58.1819,-155.3627,1.2,0.5,ml,,,,0.25,ak,ak0236mcmgon,2023-05-24T12:18:48.811Z,"86 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-24T11:52:29.560Z,38.8380013,-122.8396683,1.83,0.68,md,11,155,0.003318,0.01,nc,nc73889395,2023-05-24T12:09:12.604Z,"10km NW of The Geysers, CA",earthquake,0.36,0.62,0.08,11,automatic,nc,nc
 2023-05-24T11:39:55.626Z,61.5294,-146.5487,28.9,1.4,ml,,,,0.66,ak,ak0236mc67ze,2023-05-24T12:38:53.677Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-24T11:30:32.760Z,38.8255005,-122.8519974,1.94,0.43,md,11,100,0.004321,0.01,nc,nc73889390,2023-05-24T11:47:15.562Z,"10km WNW of The Geysers, CA",earthquake,0.33,0.67,0.29,12,automatic,nc,nc
@@ -14,8 +17,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T10:36:53.888Z,58.3327,-155.1357,31.5,0.9,ml,,,,0.87,ak,ak0236mbk53g,2023-05-24T10:38:50.536Z,"94 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-24T10:33:19.757Z,-56.8559,-140.8423,10,5.5,mb,60,98,27.421,0.86,us,us7000k3fh,2023-05-24T12:37:25.231Z,"Pacific-Antarctic Ridge",earthquake,13.37,1.882,0.074,63,reviewed,us,us
 2023-05-24T10:20:08.280Z,33.3341667,-116.1763333,10.52,1.02,ml,42,30,0.1554,0.24,ci,ci40232775,2023-05-24T10:23:42.786Z,"16km SSW of Oasis, CA",earthquake,0.29,1,0.123,23,automatic,ci,ci
-2023-05-24T10:15:30.080Z,18.8246666666667,-67.7156666666667,37.78,3.4,md,11,318,0.492,0.42,pr,pr71410768,2023-05-24T12:45:49.040Z,"Mona Passage",earthquake,2.61,6.94,0.0926506342641762,7,reviewed,pr,pr
-2023-05-24T10:05:41.810Z,35.7078323,-120.3288345,10.74,1.63,md,20,170,0.06563,0.12,nc,nc73889365,2023-05-24T12:44:12.852Z,"3km WSW of Cholame, CA",earthquake,1.12,0.82,0.1,9,automatic,nc,nc
+2023-05-24T10:15:30.080Z,18.8246666666667,-67.7156666666667,37.78,3.4,md,11,318,0.492,0.42,pr,pr71410768,2023-05-24T12:45:49.040Z,"72 km NW of Rincón, Puerto Rico",earthquake,2.61,6.94,0.0926506342641762,7,reviewed,pr,pr
+2023-05-24T10:05:41.810Z,35.7078323,-120.3288345,10.74,1.63,md,20,170,0.06563,0.12,nc,nc73889365,2023-05-24T13:03:09.980Z,"3km WSW of Cholame, CA",earthquake,1.12,0.82,0.1,9,automatic,nc,nc
 2023-05-24T10:01:44.505Z,62.644,-151.8371,6.3,1.6,ml,,,,0.95,ak,ak0236mbcmax,2023-05-24T10:05:12.501Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T09:58:57.700Z,35.7890015,-120.3424988,8.41,1.14,md,16,123,0.01612,0.05,nc,nc73889355,2023-05-24T12:35:10.792Z,"8km NNW of Cholame, CA",earthquake,0.89,0.56,0.12,6,automatic,nc,nc
 2023-05-24T09:56:37.321Z,56.9676,-158.1848,6.4,2.2,ml,,,,0.44,ak,ak0236mb2yj8,2023-05-24T09:58:44.898Z,"75 km SSW of Pilot Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -209,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T13:19:35.890Z,38.7913322,-122.7603302,2.13,0.98,md,12,66,0.009292,0.03,nc,nc73891686,2023-05-23T14:39:13.503Z,"2km NNW of The Geysers, CA",earthquake,0.38,0.75,0.18,11,automatic,nc,nc
 2023-05-23T13:06:42.829Z,-22.9155,170.2164,10,4.8,mb,37,207,2.574,0.95,us,us7000k38w,2023-05-23T13:32:48.040Z,"280 km E of Vao, New Caledonia",earthquake,14.96,1.895,0.121,21,reviewed,us,us
 2023-05-23T13:06:03.460Z,58.1631666666667,-155.3505,-0.3,0.08,ml,7,129,,0.06,av,av91770112,2023-05-24T01:45:00.570Z,"84 km NW of Karluk, Alaska",earthquake,0.19,3.4,0.221239497459757,7,reviewed,av,av
-2023-05-23T13:00:37.559Z,-3.8346,151.5509,10,5,mb,56,77,0.707,0.68,us,us7000k38v,2023-05-23T13:20:56.040Z,"79 km WNW of Rabaul, Papua New Guinea",earthquake,9.05,1.851,0.083,47,reviewed,us,us
-2023-05-23T12:59:33.850Z,58.1883333333333,-155.3065,1.75,0.87,ml,8,98,,0.06,av,av91770107,2023-05-23T18:04:06.850Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.4,0.0516207640884357,1,reviewed,av,av
-2023-05-23T12:53:13.428Z,62.2016,-150.2158,49.4,0.8,ml,,,,0.61,ak,ak0236kpb7hh,2023-05-23T16:49:43.838Z,"12 km S of Trapper Creek, Alaska",earthquake,,3,,,reviewed,ak,ak
-2023-05-23T12:49:48.270Z,19.804,-65.6566666666667,19.26,3.27,md,5,318,1.53,0.25,pr,pr71410663,2023-05-23T13:15:46.250Z,"153 km N of Suárez, Puerto Rico",earthquake,8.93,17.72,0.00542638677504703,3,reviewed,pr,pr
