@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T18:48:58.600Z,38.8463326,-122.8148346,1.24,1.08,md,20,54,0.01065,0.02,nc,nc73889500,2023-05-24T19:16:16.364Z,"8km WNW of Cobb, CA",earthquake,0.19,0.42,0.21,22,automatic,nc,nc
 2023-05-24T18:39:54.550Z,33.4755,-116.8716667,11.01,0.45,ml,17,60,0.0597,0.13,ci,ci40233015,2023-05-24T18:43:35.156Z,"4km N of Aguanga, CA",earthquake,0.28,0.64,0.045,9,automatic,ci,ci
 2023-05-24T18:37:16.670Z,34.8375,-118.7908333,-0.11,1.39,ml,19,49,0.0621,0.29,ci,ci40233007,2023-05-24T18:40:56.052Z,"7km E of Lebec, CA",earthquake,0.52,31.61,0.118,27,automatic,ci,ci
+2023-05-24T18:28:55.927Z,-38.3746,-75.4423,18.03,4.6,mb,42,165,2.173,0.84,us,us7000k3kk,2023-05-24T19:42:00.040Z,"178 km WSW of Lebu, Chile",earthquake,9.67,5.255,0.157,12,reviewed,us,us
 2023-05-24T18:18:21.073Z,58.1873,-155.2674,1.2,0.9,ml,,,,0.48,ak,ak0236mg7oj7,2023-05-24T18:21:36.961Z,"84 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-24T18:12:08.585Z,63.5227,-151.3144,0,1.9,ml,,,,0.85,ak,ak0236mg6d96,2023-05-24T18:14:12.677Z,"20 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T18:07:01.090Z,38.9416656,-123.109169,6.53,1.47,md,8,120,0.06496,0.04,nc,nc73889495,2023-05-24T18:54:17.240Z,"17km NNW of Cloverdale, CA",earthquake,0.36,1.24,0.12,6,automatic,nc,nc
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T11:13:00.495Z,56.1646,-158.9351,135.6,1.6,ml,,,,0.1,ak,ak0236mc0j41,2023-05-24T11:15:29.064Z,"Alaska Peninsula",earthquake,,11.6,,,automatic,ak,ak
 2023-05-24T11:07:27.030Z,19.4198341369629,-155.328338623047,3.22000002861023,1.92,ml,27,69,,0.280000001,hv,hv73418857,2023-05-24T11:12:58.170Z,"10 km WSW of Volcano, Hawaii",earthquake,0.51,1.26999998,0.34,5,automatic,hv,hv
 2023-05-24T11:06:44.930Z,19.1628341674805,-155.457168579102,10.1099996566772,2.52,ml,9,256,,0.0599999987,hv,hv73418847,2023-05-24T11:12:18.060Z,"4 km SSE of Pāhala, Hawaii",earthquake,2.46,1.37,0.29,5,automatic,hv,hv
-2023-05-24T10:43:36.127Z,58.2799,-155.1414,24.3,1.2,ml,,,,0.59,ak,ak0236mbllqk,2023-05-24T10:47:16.626Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
+2023-05-24T10:43:36.127Z,58.2799,-155.1414,24.3,1.2,ml,,,,0.59,ak,ak0236mbllqk,2023-05-24T19:40:16.470Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-05-24T10:42:31.950Z,19.1946659088135,-155.38883972168,31.0699996948242,2.15,ml,51,162,,0.129999995,hv,hv73418827,2023-05-24T10:48:03.830Z,"9 km E of Pāhala, Hawaii",earthquake,0.44,0.540000021,3.18,8,automatic,hv,hv
 2023-05-24T10:33:19.587Z,-56.8701,-140.8458,10,5.5,mww,80,47,27.407,1.04,us,us7000k3fh,2023-05-24T17:56:23.040Z,"Pacific-Antarctic Ridge",earthquake,12.73,1.762,0.089,12,reviewed,us,us
 2023-05-24T10:20:08.110Z,33.332,-116.1771667,12.05,1.06,ml,51,26,0.1501,0.17,ci,ci40232775,2023-05-24T17:12:32.410Z,"17km SSW of Oasis, CA",earthquake,0.18,0.73,0.146,22,reviewed,ci,ci
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T20:10:04.080Z,46.64066666666667,-121.878,4.1,0.85,ml,24,110,0.09075,0.13,uw,uw61918702,2023-05-24T18:43:42.020Z,"16 km WNW of Packwood, Washington",earthquake,0.26,31.61,0.18679435816156698,15,reviewed,uw,uw
 2023-05-23T19:49:36.733Z,37.2854,-117.5991,6.9,0.7,ml,8,108.38,0.065,0.0478,nn,nn00860210,2023-05-23T20:35:14.897Z,"52 km S of Silver Peak, Nevada",earthquake,,3.4,0.91,8,reviewed,nn,nn
 2023-05-23T19:45:22.120Z,34.1125,-116.9966667,5.51,1.13,ml,25,116,0.05386,0.1,ci,ci40232495,2023-05-24T00:02:11.580Z,"10km NNE of Yucaipa, CA",earthquake,0.21,0.35,0.124,20,reviewed,ci,ci
-2023-05-23T19:42:51.380Z,19.4174995422363,-155.315170288086,2.51999998092651,1.75,md,10,119,,0.200000003,hv,hv73417707,2023-05-23T19:45:43.580Z,"8 km WSW of Volcano, Hawaii",earthquake,0.59,0.660000026,1.07000005,5,automatic,hv,hv
-2023-05-23T19:41:11.550Z,38.815,-122.8248333,2.09,1.28,md,43,48,0.007001,0.04,nc,nc73889150,2023-05-24T03:47:23.570Z,"7km NW of The Geysers, CA",earthquake,0.15,0.2,0.164,37,reviewed,nc,nc
