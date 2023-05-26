@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T02:58:34.636Z,61.1526,-145.3438,0,2.6,ml,,,,1.08,ak,ak0236pi01if,2023-05-26T03:00:58.378Z,"54 km E of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-26T02:57:53.388Z,60.1545,-140.5356,0,3.8,ml,,,,0.95,ak,ak0236phzv3d,2023-05-26T03:29:20.507Z,"81 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-26T02:47:00.470Z,38.8069992,-122.814003,2.92,0.76,md,16,59,0.012,0.02,nc,nc73889995,2023-05-26T03:21:13.470Z,"6km WNW of The Geysers, CA",earthquake,0.28,0.58,0.36,18,automatic,nc,nc
-2023-05-26T02:45:38.040Z,38.8076668,-122.8151703,3.48,1.21,md,26,59,0.01101,0.02,nc,nc73889990,2023-05-26T03:10:12.408Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.42,0.21,28,automatic,nc,nc
+2023-05-26T02:45:38.040Z,38.8076668,-122.8151703,3.48,1.21,md,26,59,0.01101,0.02,nc,nc73889990,2023-05-26T04:37:13.943Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.42,0.21,28,automatic,nc,nc
 2023-05-26T02:43:49.810Z,38.8068352,-122.8143311,3.14,1.08,md,18,60,0.01178,0.03,nc,nc73889985,2023-05-26T04:21:09.837Z,"6km WNW of The Geysers, CA",earthquake,0.29,0.6,0.3,21,automatic,nc,nc
 2023-05-26T02:42:19.872Z,62.96,-148.7227,59.1,2.4,ml,,,,0.64,ak,ak0236phwkvk,2023-05-26T03:12:31.931Z,"49 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-26T02:34:48.228Z,38.0206,73.247,10.307,4.3,mb,16,122,1.843,0.74,us,us7000k453,2023-05-26T02:47:02.040Z,"65 km WSW of Murghob, Tajikistan",earthquake,7.61,3.904,0.177,9,reviewed,us,us
@@ -46,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T00:00:19.100Z,33.5786667,-116.7366667,12.52,0.66,ml,24,63,0.01324,0.1,ci,ci40233783,2023-05-26T00:48:04.620Z,"6km WNW of Anza, CA",earthquake,0.2,0.32,0.169,16,reviewed,ci,ci
 2023-05-25T23:55:22.115Z,-49.2315,120.4899,10,4.8,mb,19,71,16.469,1.01,us,us7000k44m,2023-05-26T00:19:36.040Z,"western Indian-Antarctic Ridge",earthquake,6.56,1.923,0.127,19,reviewed,us,us
 2023-05-25T23:44:18.671Z,55.387,-159.3748,40.5,3.4,ml,,,,0.58,ak,ak0236o6vrjt,2023-05-26T00:09:28.040Z,"57 km S of Ivanof Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-05-25T23:38:31.630Z,58.3738333333333,-154.901,4.47,0.11,ml,15,111,,0.2,av,av91772077,2023-05-26T04:39:38.930Z,"93 km NNW of Karluk, Alaska",earthquake,0.41,0.76,0.24281344792067,15,reviewed,av,av
 2023-05-25T23:38:03.090Z,33.4875,-116.4206667,6.92,1.58,ml,46,48,0.03605,0.16,ci,ci40233767,2023-05-26T00:45:56.810Z,"22km SSW of La Quinta, CA",earthquake,0.17,0.56,0.163,26,reviewed,ci,ci
 2023-05-25T23:29:12.022Z,63.8055,-153.1537,0,1.9,ml,,,,1.23,ak,ak0236o6sj7m,2023-05-25T23:31:45.146Z,"42 km WSW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-25T23:14:49.082Z,61.5189,-149.91,32.8,1.4,ml,,,,0.75,ak,ak0236o6pebw,2023-05-25T23:16:47.355Z,"2 km E of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -259,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T04:48:24.055Z,37.2652,-117.591,6.6,0.9,ml,6,120.02,0.055,0.1458,nn,nn00860303,2023-05-25T20:49:49.919Z,"54 km S of Silver Peak, Nevada",earthquake,,7,0.81,5,reviewed,nn,nn
 2023-05-25T04:41:06.588Z,63.7926,-149.3269,97.5,1.7,ml,,,,2.53,ak,ak0236nvjuw2,2023-05-25T04:43:34.026Z,"19 km WSW of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-25T04:40:38.180Z,49.1385,-119.3415,8.06,1.36,ml,3,235,0.2618,0.1,uw,uw61919017,2023-05-25T17:52:36.750Z,"14 km NE of Osoyoos, Canada",earthquake,1.15,3.72,0.027476353095051254,3,reviewed,uw,uw
-2023-05-25T04:35:46.836Z,37.2839,-117.5929,5.9,0.7,ml,6,234.15,0.066,0.0683,nn,nn00860302,2023-05-25T20:31:18.498Z,"52 km S of Silver Peak, Nevada",earthquake,,11.8,0.8,5,reviewed,nn,nn
