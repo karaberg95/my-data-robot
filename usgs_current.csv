@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T07:21:31.414Z,35.6669,35.6356,10,4.1,mb,32,76,1.967,0.59,us,us7000k3p9,2023-05-25T07:42:48.040Z,"20 km NW of Latakia, Syria",earthquake,6.09,1.947,0.213,7,reviewed,us,us
 2023-05-25T07:02:20.801Z,61.9454,-150.6633,15,1.4,ml,,,,0.3,ak,ak0236nx3tvk,2023-05-25T07:05:12.497Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-25T06:52:18.690Z,60.4405,-152.737666666667,11.7,-1.1,ml,4,236,,0.05,av,av91771557,2023-05-25T18:49:24.930Z,"73 km NW of Ninilchik, Alaska",earthquake,1.74,0.61,0.197932355049065,4,reviewed,av,av
-2023-05-25T06:48:30.803Z,8.9162,-77.0968,10,4.6,mb,34,72,2.128,0.68,us,us7000k3p5,2023-05-25T07:30:10.040Z,"Panama-Colombia border region",earthquake,7.09,1.961,0.224,6,reviewed,us,us
