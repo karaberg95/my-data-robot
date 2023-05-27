@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T03:37:17.658Z,59.7116,-153.1804,107.4,1.3,ml,,,,0.32,ak,ak0236r60a9h,2023-05-27T03:40:33.181Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-27T03:13:45.087Z,62.834,-148.4803,53.5,1.8,ml,,,,0.58,ak,ak0236r5v770,2023-05-27T03:15:34.051Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-27T02:53:54.390Z,33.5945,-116.8216667,13.22,1.08,ml,41,43,0.04158,0.21,ci,ci40234727,2023-05-27T02:57:35.700Z,"14km WNW of Anza, CA",earthquake,0.27,0.48,0.156,26,automatic,ci,ci
 2023-05-27T02:30:06.785Z,62.9848,-150.7401,95.1,1.9,ml,,,,0.4,ak,ak0236r5dbt2,2023-05-27T02:32:01.017Z,"54 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-27T02:17:31.679Z,35.0668602,-97.87082672,8.03780365,1.76,ml,14,72.93678284,0.1245865673,0.4179557682,ok,ok2023kgxz,2023-05-27T02:20:12.714Z,"6 km ENE of Chickasha, Oklahoma",earthquake,3.717271882,4.045823409,0.24,6,automatic,ok,ok
+2023-05-27T02:17:31.679Z,35.0668602,-97.87082672,8.03780365,1.76,ml,14,72.93678284,0.1245865673,0.4179557682,ok,ok2023kgxz,2023-05-27T03:38:21.854Z,"6 km ENE of Chickasha, Oklahoma",earthquake,3.717271882,4.045823409,0.24,6,automatic,ok,ok
 2023-05-27T02:14:25.260Z,38.8101654,-122.7856674,1.15,0.8,md,14,73,0.004969,0.02,nc,nc73890465,2023-05-27T02:30:13.909Z,"4km NW of The Geysers, CA",earthquake,0.28,0.62,0.15,15,automatic,nc,nc
 2023-05-27T02:09:17.600Z,19.4393,-65.6695,111,3.85,md,12,274,1.1961,0.52,pr,pr2023147000,2023-05-27T02:53:00.214Z,"113 km N of Suárez, Puerto Rico",earthquake,8.07,11.17,0.05,4,reviewed,pr,pr
 2023-05-27T01:50:35.920Z,33.6786667,-116.7206667,15.39,1.07,ml,34,85,0.03287,0.2,ci,ci40234703,2023-05-27T01:54:16.261Z,"7km S of Idyllwild, CA",earthquake,0.29,0.46,0.205,26,automatic,ci,ci
@@ -243,7 +244,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T05:34:58.885Z,31.61466608,-103.9694983,6.889953613000001,2.7,ml,15,50,0.004012248974,0.1,tx,tx2023kfiz,2023-05-26T08:02:07.700Z,"36 km WSW of Mentone, Texas",earthquake,0.4508431272,0.5021525052,0.1,25,reviewed,tx,tx
 2023-05-26T05:29:03.615Z,63.3399,-149.936,110.3,1.5,ml,,,,0.36,ak,ak0236pjm261,2023-05-26T05:31:20.131Z,"49 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-26T05:28:04.230Z,35.8788333,-117.3728333,7.82,1.15,ml,16,104,0.07369,0.14,ci,ci40233879,2023-05-26T18:36:35.092Z,"13km NNE of Searles Valley, CA",earthquake,0.37,1.19,0.158,12,reviewed,ci,ci
-2023-05-26T05:24:22.009Z,37.2977,-117.5859,6.8,1.5,ml,11,106.57,0.081,0.1503,nn,nn00860325,2023-05-26T20:09:28.891Z,"50 km S of Silver Peak, Nevada",earthquake,,2.9,0.73,7,reviewed,nn,nn
+2023-05-26T05:24:22.009Z,37.2977,-117.5859,6.8,1.5,ml,11,106.57,0.081,0.1503,nn,nn00860325,2023-05-26T20:09:28.891Z,"Nevada",earthquake,,2.9,0.73,7,reviewed,nn,nn
 2023-05-26T05:24:09.930Z,58.1798333333333,-155.3135,1.98,-0.12,ml,10,64,,0.07,av,av91772317,2023-05-26T21:02:37.070Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.5,0.325206953893113,11,reviewed,av,av
 2023-05-26T05:07:07.380Z,33.6603333,-116.681,15.89,0.59,ml,25,58,0.01044,0.11,ci,ci40233863,2023-05-26T18:16:07.801Z,"10km SSE of Idyllwild, CA",earthquake,0.22,0.39,0.168,12,reviewed,ci,ci
 2023-05-26T05:02:40.080Z,33.66,-116.6765,15.13,0.76,ml,30,54,0.05992,0.2,ci,ci40233855,2023-05-26T14:03:45.255Z,"10km SSE of Idyllwild, CA",earthquake,0.3,0.49,0.153,22,reviewed,ci,ci
