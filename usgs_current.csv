@@ -259,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T06:03:38.389Z,60.3381,-149.385,26.8,1.8,ml,,,,0.86,ak,ak0236pk1zu6,2023-05-26T06:07:11.248Z,"2 km WSW of Primrose, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-26T06:00:56.570Z,58.2,-155.3065,1.68,-0.2,ml,4,217,,0.03,av,av91772322,2023-05-26T21:06:19.300Z,"86 km NW of Karluk, Alaska",earthquake,0.63,0.39,0.425220219417771,4,reviewed,av,av
 2023-05-26T06:00:09.050Z,60.0476,-152.5854,98.6,1.7,ml,,,,0.17,ak,ak0236pk1afd,2023-05-26T06:01:40.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-26T05:51:06.056Z,37.3034,-117.5788,3.1,1.1,ml,9,135.32,0.089,0.1159,nn,nn00860333,2023-05-26T21:14:49.357Z,"50 km S of Silver Peak, Nevada",earthquake,,7,0.95,7,reviewed,nn,nn
-2023-05-26T05:51:02.480Z,45.6593333333333,-112.253166666667,4.99,0.4,ml,6,123,0.2138,0.07,mb,mb90015863,2023-05-26T20:58:12.250Z,"14 km NNE of Twin Bridges, Montana",earthquake,0.31,6.69,0.0924520715298163,2,reviewed,mb,mb
