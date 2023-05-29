@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-29T11:44:32.850Z,38.8378334,-122.8016663,2.13,1.1,md,19,65,0.008861,0.01,nc,nc73891310,2023-05-29T11:46:06.936Z,"7km WNW of Cobb, CA",earthquake,0.23,0.5,0.15,20,automatic,nc,nc
 2023-05-29T11:24:19.517Z,37.3202,-117.5389,1.8,1.2,ml,15,135.17,0.122,0.2144,nn,nn00860471,2023-05-29T11:26:48.585Z,"48 km S of Silver Peak, Nevada",earthquake,,19,0.81,9,automatic,nn,nn
 2023-05-29T11:16:40.818Z,58.2066,-155.2682,33,0.3,ml,,,,1.11,ak,ak0236ulpzu9,2023-05-29T11:18:20.837Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-05-29T11:05:12.618Z,58.1718,-155.2785,0,0.9,ml,,,,0.83,ak,ak0236ulnksd,2023-05-29T11:06:55.337Z,"83 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T12:00:00.495Z,37.3073,-117.5502,3.7,1,ml,14,196.09,0.344,0.2464,nn,nn00860445,2023-05-28T12:02:31.711Z,"50 km S of Silver Peak, Nevada",earthquake,,13.1,0.84,7,automatic,nn,nn
 2023-05-28T11:53:29.960Z,38.8154984,-122.8256683,2.05,0.97,md,6,125,0.007166,0.01,nc,nc73890920,2023-05-28T12:27:14.225Z,"7km NW of The Geysers, CA",earthquake,0.52,1.26,0.2,8,automatic,nc,nc
 2023-05-28T11:50:51.540Z,19.0648,-64.8236,24,3.56,md,18,285,0.7247,0.16,pr,pr2023148007,2023-05-28T12:21:41.256Z,"80 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.07,13.33,0.08,6,reviewed,pr,pr
-2023-05-28T11:46:39.720Z,31.65996641,-104.2572505,6.388647461,2.7,ml,23,66,0.120367438,0.3,tx,tx2023kjmh,2023-05-28T12:19:55.414Z,"58 km S of Whites City, New Mexico",earthquake,1.112222208,1.3669732299999997,0.2,18,reviewed,tx,tx
