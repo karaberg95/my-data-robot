@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T15:58:08.905Z,63.2261,-150.3872,101,1.1,ml,,,,0.4,ak,ak0236uocnve,2023-05-29T15:59:45.842Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-29T15:57:25.340Z,38.836834,-122.8071671,1.97,0.72,md,10,60,0.01323,0.01,nc,nc73891370,2023-05-29T16:43:14.362Z,"8km WNW of Cobb, CA",earthquake,0.36,1.31,0.29,11,automatic,nc,nc
 2023-05-29T15:40:11.390Z,36.7910004,-121.3831635,2.65,1.35,md,8,105,0.08842,0.05,nc,nc73891365,2023-05-29T16:15:11.085Z,"3km SSW of Ridgemark, CA",earthquake,0.34,1.68,0.18,7,automatic,nc,nc
-2023-05-29T15:25:44.750Z,33.9975,-118.0866667,17.13,1.49,ml,35,113,0.05334,0.26,ci,ci40236895,2023-05-29T15:29:28.870Z,"2km NNE of Pico Rivera, CA",earthquake,0.61,0.68,0.248,28,automatic,ci,ci
