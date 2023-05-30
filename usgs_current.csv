@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T14:24:59.100Z,33.0176667,-115.8483333,7.37,1.41,ml,26,47,0.08306,0.27,ci,ci40237783,2023-05-30T14:28:31.024Z,"21km W of Westmorland, CA",earthquake,0.39,1.12,0.133,25,automatic,ci,ci
 2023-05-30T13:57:28.350Z,33.5293333,-116.688,11.07,0.41,ml,13,141,0.05467,0.25,ci,ci40237727,2023-05-30T14:01:05.543Z,"3km SSW of Anza, CA",earthquake,0.94,0.69,0.138,7,automatic,ci,ci
 2023-05-30T13:56:33.250Z,38.7868347,-122.7473297,1.4,0.75,md,8,161,0.01683,0.02,nc,nc73891625,2023-05-30T14:33:13.606Z,"1km NE of The Geysers, CA",earthquake,0.43,0.63,0.04,8,automatic,nc,nc
+2023-05-30T13:52:02.184Z,37.4798,141.8455,46.662,4.3,mb,25,146,3.058,1.03,us,us7000k50v,2023-05-30T14:43:41.040Z,"74 km E of Namie, Japan",earthquake,4.41,9.473,0.148,13,reviewed,us,us
 2023-05-30T13:34:25.986Z,61.5903,-150.7379,63,0.9,ml,,,,0.26,ak,ak0236wak1ae,2023-05-30T13:36:18.935Z,"13 km WNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-05-30T13:32:58.350Z,38.8134995,-122.8221664,1.93,1.68,md,30,51,0.007169,0.05,nc,nc73891620,2023-05-30T14:06:12.451Z,"7km NW of The Geysers, CA",earthquake,0.18,0.32,0.14,31,automatic,nc,nc
 2023-05-30T13:30:56.736Z,63.1937,-151.347,0,1.8,ml,,,,0.71,ak,ak0236waj8sp,2023-05-30T13:32:36.445Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
