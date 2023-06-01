@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T19:03:42.180Z,19.386999130249,-155.280502319336,0.910000026226044,1.94,ml,21,63,,0.209999993,hv,hv73434512,2023-06-01T19:09:14.440Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.230000004,0.23,9,automatic,hv,hv
 2023-06-01T19:00:08.590Z,19.3838333333333,-155.277833333333,1.64,2.62,ml,45,66,,0.11,hv,hv73434507,2023-06-01T19:48:01.034Z,"Island of Hawaii, Hawaii",earthquake,0.13,0.14,0.22043572664537,27,reviewed,hv,hv
 2023-06-01T18:57:46.492Z,62.4044,-151.305,80.2,1.1,ml,,,,0.69,ak,ak0236zoqvf1,2023-06-01T19:05:40.396Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-01T18:55:44.088Z,37.264,-104.5144,8.552,3.4,ml,35,64,0.15,0.85,us,us7000k5k7,2023-06-01T19:44:53.563Z,"6 km NW of El Moro, Colorado",earthquake,3.22,3.465,0.048,106,reviewed,us,us
+2023-06-01T18:55:44.088Z,37.264,-104.5144,8.552,3.4,ml,35,64,0.15,0.85,us,us7000k5k7,2023-06-01T19:49:54.711Z,"6 km NW of El Moro, Colorado",earthquake,3.22,3.465,0.048,106,reviewed,us,us
 2023-06-01T18:53:47.740Z,36.541,-98.954,6.49,1.75,ml,78,60,0.04769064147,0.21,ok,ok2023krij,2023-06-01T19:02:43.180Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.19,25,reviewed,ok,ok
 2023-06-01T18:48:44.060Z,17.9613333333333,-66.7533333333333,16.63,2.46,md,7,218,0.1206,0.09,pr,pr71411968,2023-06-01T18:55:40.400Z,"Puerto Rico region",earthquake,0.56,0.93,0.0379496974089051,7,reviewed,pr,pr
 2023-06-01T18:46:14.280Z,44.7853333,-110.3988333,5.04,2.05,ml,14,140,0.04627,0.2,uu,uu60541371,2023-06-01T19:07:56.850Z,"32 km SE of Mammoth, Wyoming",earthquake,0.74,1.03,0.269,3,reviewed,uu,uu
@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T12:27:02.400Z,19.2250003814697,-155.383499145508,29.5300006866455,2.1,ml,52,152,,0.129999995,hv,hv73433977,2023-06-01T12:32:33.860Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.46,0.629999995,3.64,15,automatic,hv,hv
 2023-06-01T12:25:57.100Z,38.8231667,-122.855,2.3,0.36,md,21,94,0.00461,0.03,nc,nc73895046,2023-06-01T19:16:13.826Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.35,0.232,19,reviewed,nc,nc
 2023-06-01T12:19:52.130Z,33.0273333,-116.0031667,2.13,1.6,ml,36,30,0.143,0.25,ci,ci40239703,2023-06-01T12:23:27.618Z,"18km SE of Ocotillo Wells, CA",earthquake,0.27,0.69,0.181,26,automatic,ci,ci
-2023-06-01T12:13:02.320Z,37.4303333,-118.747,5.68,1.27,md,24,123,0.1391,0.05,nc,nc73895041,2023-06-01T19:46:11.019Z,"13km W of Round Valley, CA",earthquake,0.5,2.1,0.132,15,reviewed,nc,nc
+2023-06-01T12:13:02.320Z,37.4303333,-118.747,5.68,1.27,md,24,123,0.1391,0.05,nc,nc73895041,2023-06-01T19:52:11.042Z,"13km W of Round Valley, CA",earthquake,0.5,2.1,0.132,15,reviewed,nc,nc
 2023-06-01T12:07:53.050Z,38.760334,-122.7078323,1.28,2.01,md,23,86,0.0103,0.06,nc,nc73895036,2023-06-01T13:12:12.506Z,"2km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.24,27,automatic,nc,nc
 2023-06-01T12:04:54.080Z,64.8517,-147.304,10.8,1,ml,,,,0.39,ak,ak0236zkuxcw,2023-06-01T12:06:32.563Z,"11 km N of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-01T12:03:36.170Z,40.5033333,-124.4281667,18.71,2.3,md,21,232,0.07451,0.15,nc,nc73895031,2023-06-01T19:48:16.171Z,"16km WSW of Ferndale, CA",earthquake,0.79,0.42,0.361,21,reviewed,nc,nc
