@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T02:40:58.861Z,61.5041,-146.6138,31.1,1.2,ml,,,,0.97,ak,ak0236zf4bge,2023-06-01T02:43:35.493Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T02:33:32.800Z,19.6315,-65.7171,58,3.96,md,14,282,1.3723,0.4,pr,pr2023152000,2023-06-01T02:55:21.444Z,"133 km N of Suárez, Puerto Rico",earthquake,4.01,13.7,0.1,11,reviewed,pr,pr
 2023-06-01T02:19:22.654Z,35.70960236,-98.11399078,5.193984985,1.76,ml,10,69.5112648,0.09450898319,1.009346762,ok,ok2023kqbo,2023-06-01T02:21:50.168Z,"12 km N of Calumet, Oklahoma",earthquake,4.168595451,4.850867929,0.18,7,automatic,ok,ok
-2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T05:34:26.954Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
+2023-06-01T02:15:54.100Z,33.8241667,-118.1728333,4.81,2.64,ml,65,74,0.04007,0.32,ci,ci40239415,2023-06-01T05:39:42.810Z,"2km NNW of Signal Hill, CA",earthquake,0.35,0.77,0.242,27,automatic,ci,ci
 2023-06-01T02:10:48.918Z,64.6979,-148.1754,14.1,2.2,ml,,,,0.54,ak,ak0236zexv7f,2023-06-01T03:26:11.373Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T01:51:47.310Z,17.9503333333333,-66.9303333333333,9.83,2.22,md,5,211,0.05448,0.09,pr,pr71411923,2023-06-01T02:01:13.270Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.68,0.55,0.224360398540097,5,reviewed,pr,pr
 2023-06-01T01:29:02.270Z,34.015,-116.8908333,0.12,1.46,ml,9,210,0.1195,0.25,ci,ci40239407,2023-06-01T01:32:54.029Z,"10km N of Banning, CA",earthquake,0.98,31.61,0.255,16,automatic,ci,ci
@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T19:25:31.370Z,33.8206667,-117.5091667,0.44,1.25,ml,26,97,0.05352,0.28,ci,ci40239159,2023-05-31T19:29:18.965Z,"6km S of Home Gardens, CA",quarry blast,0.46,31.61,0.281,32,automatic,ci,ci
 2023-05-31T19:11:56.770Z,19.411,-155.319166666667,4.01,0.48,md,14,180,,0.06,hv,hv73432672,2023-05-31T21:34:52.510Z,"9 km WSW of Volcano, Hawaii",earthquake,0.36,0.39,0.0264835937826226,3,reviewed,hv,hv
 2023-05-31T19:11:38.604Z,57.3316,-155.6542,85.1,1.8,ml,,,,0.26,ak,ak0236y1j2x0,2023-05-31T19:13:56.816Z,"76 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"western Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
+2023-05-31T19:05:21.030Z,46.0135,-112.4595,-2,2.05,ml,18,62,0.066,0.13,mb,mb90016388,2023-06-01T04:12:41.930Z,"5 km E of Butte, Montana",quarry blast,0.35,31.61,0.193490837888611,21,reviewed,mb,mb
 2023-05-31T19:04:16.050Z,19.4018333333333,-155.289833333333,1.59,0.47,md,13,54,,0.09,hv,hv73432667,2023-05-31T19:17:11.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.160674142415906,2,reviewed,hv,hv
 2023-05-31T19:02:21.790Z,46.4948333333333,-112.017833333333,10.19,1.24,ml,13,98,0.09582,0.06,mb,mb90016568,2023-06-01T03:20:05.380Z,"4 km NW of Clancy, Montana",earthquake,0.37,0.76,0.064156939799429,7,reviewed,mb,mb
 2023-05-31T18:56:22.230Z,38.8253333,-122.8028333,2.7,1.53,md,51,31,0.005978,0.04,nc,nc73894791,2023-06-01T02:56:10.836Z,"7km NW of The Geysers, CA",earthquake,0.12,0.21,0.21,42,reviewed,nc,nc
@@ -272,6 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T05:51:36.539Z,58.2145,-155.2638,1.2,0.6,ml,,,,0.55,ak,ak0236xtfkxh,2023-05-31T05:53:08.380Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-05-31T05:45:44.689Z,58.1681,-155.3697,6.4,0.9,ml,,,,1.3,ak,ak0236xteb9g,2023-05-31T05:46:51.383Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-31T05:44:27.676Z,58.186,-155.2626,1.2,0.9,ml,,,,0.42,ak,ak0236xte29d,2023-05-31T05:47:47.193Z,"83 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2023-05-31T05:43:15.251Z,58.1906,-155.232,0,1.8,ml,,,,0.65,ak,ak0236xtdtk5,2023-05-31T05:44:47.821Z,"83 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-05-31T05:37:45.420Z,33.308,-116.3238333,10.53,1.99,ml,67,30,0.08767,0.22,ci,ci40238527,2023-05-31T13:15:55.610Z,"8km NE of Borrego Springs, CA",earthquake,0.22,0.52,0.173,26,reviewed,ci,ci
-2023-05-31T05:35:27.480Z,47.794666666666664,-122.852,22.19,1.03,ml,13,75,0.04054,0.23,uw,uw61929426,2023-05-31T21:57:26.480Z,"3 km SSE of Quilcene, Washington",earthquake,1.02,0.86,0.07179174499719898,4,reviewed,uw,uw
