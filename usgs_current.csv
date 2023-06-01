@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T15:25:22.454Z,65.0228,-150.3165,18.4,0.4,ml,,,,0.26,ak,ak0236zmrnrp,2023-06-01T15:36:37.461Z,"15 km E of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-01T15:05:55.177Z,62.2248,-150.4305,58.8,1.1,ml,,,,0.43,ak,ak0236zmnfz1,2023-06-01T15:07:52.874Z,"14 km SW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-01T15:00:57.200Z,33.356,-116.3861667,9.97,1.13,ml,42,32,0.09133,0.2,ci,ci40239815,2023-06-01T15:11:39.940Z,"11km N of Borrego Springs, CA",earthquake,0.28,0.64,0.138,27,automatic,ci,ci
 2023-06-01T14:44:07.750Z,33.368,-116.9683333,7.66,0.69,ml,18,57,0.05712,0.25,ci,ci40239799,2023-06-01T14:47:44.561Z,"10km W of Palomar Observatory, CA",earthquake,0.41,0.98,0.103,13,automatic,ci,ci
@@ -47,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T09:19:09.400Z,19.2625007629395,-155.395660400391,30.9599990844727,2.3,ml,51,127,,0.140000001,hv,hv73433672,2023-06-01T09:24:40.300Z,"10 km NE of Pāhala, Hawaii",earthquake,0.51,0.589999974,3.24,26,automatic,hv,hv
 2023-06-01T09:16:14.940Z,38.831501,-122.8181686,1.49,0.93,md,12,69,0.01027,0.01,nc,nc73895006,2023-06-01T09:54:13.273Z,"8km NW of The Geysers, CA",earthquake,0.28,0.59,0.25,13,automatic,nc,nc
 2023-06-01T09:05:49.300Z,32.891,-116.2763333,5.25,1,ml,26,78,0.06738,0.21,ci,ci40239623,2023-06-01T09:09:23.531Z,"25km ENE of Pine Valley, CA",earthquake,0.31,0.7,0.159,13,automatic,ci,ci
+2023-06-01T09:05:49.083Z,36.7282,-116.0536,6.2,-0.3,ml,10,95.83,0.034,0.0678,nn,nn00860610,2023-06-01T15:36:03.426Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.41,5,reviewed,nn,nn
 2023-06-01T09:00:24.650Z,58.5549,-155.7018,250,1.1,ml,,,,1.07,ak,ak0236zj1pep,2023-06-01T09:02:34.278Z,"57 km ESE of King Salmon, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2023-06-01T08:57:15.840Z,40.5193333,-124.436,17.91,3.04,ml,28,219,0.08692,0.16,nc,nc73894986,2023-06-01T12:42:11.305Z,"16km WSW of Ferndale, CA",earthquake,0.82,0.41,0.25,25,reviewed,nc,nc
 2023-06-01T08:56:46.890Z,37.2863,-117.581,7.1,1,ml,9,128.67,0.074,0.1831,nn,nn00860599,2023-06-01T15:17:16.626Z,"52 km S of Silver Peak, Nevada",earthquake,,3.5,0.97,6,reviewed,nn,nn
@@ -253,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T15:42:24.794Z,63.0043,-148.2095,69,1.7,ml,,,,0.43,ak,ak0236xzbymn,2023-05-31T15:44:19.519Z,"57 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-31T15:41:30.750Z,33.363,-116.9636667,10.52,1.5,ml,42,32,0.06267,0.24,ci,ci40238967,2023-05-31T15:45:15.648Z,"9km W of Palomar Observatory, CA",earthquake,0.24,0.61,0.221,28,automatic,ci,ci
 2023-05-31T15:41:17.320Z,34.0036667,-116.8381667,18.68,1.58,ml,47,38,0.04029,0.19,ci,ci40238951,2023-05-31T15:52:26.160Z,"9km NNE of Banning, CA",earthquake,0.23,0.4,0.223,28,automatic,ci,ci
-2023-05-31T15:40:32.520Z,33.6968333,-117.4108333,6.34,1.35,ml,40,41,0.0493,0.26,ci,ci40238943,2023-05-31T15:44:11.939Z,"8km WNW of Lake Elsinore, CA",earthquake,0.29,0.74,0.194,28,automatic,ci,ci
-2023-05-31T15:40:17.760Z,19.405,-155.286,0.9,0.57,md,17,50,,0.09,hv,hv73432307,2023-05-31T17:49:28.830Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.16,0.34194619432055,2,reviewed,hv,hv
-2023-05-31T15:36:58.300Z,19.4168333333333,-155.302333333333,2.15,0.57,md,18,76,,0.1,hv,hv73432302,2023-05-31T17:56:06.570Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.2,0.0379137396171559,2,reviewed,hv,hv
