@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-02T07:17:14.550Z,38.8084984,-122.7969971,3.25,0.77,md,18,49,0.001426,0.02,nc,nc73895296,2023-06-02T07:18:49.807Z,"5km NW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
+2023-06-02T07:17:14.550Z,38.8084984,-122.7969971,3.25,0.77,md,18,49,0.001426,0.02,nc,nc73895296,2023-06-02T07:29:11.385Z,"5km NW of The Geysers, CA",earthquake,0.29,0.57,0.15,19,automatic,nc,nc
 2023-06-02T07:15:51.980Z,19.2666664123535,-155.404998779297,30.3799991607666,2,ml,46,122,,0.140000001,hv,hv73435702,2023-06-02T07:21:23.780Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.74000001,0.88,6,automatic,hv,hv
 2023-06-02T07:05:43.220Z,38.8173332,-122.8218307,2.06,1.09,md,19,58,0.01022,0.02,nc,nc73895291,2023-06-02T07:22:15.331Z,"7km NW of The Geysers, CA",earthquake,0.25,0.41,0.13,19,automatic,nc,nc
 2023-06-02T07:01:36.100Z,19.3848323822021,-155.281173706055,0.730000019073486,1.79999995,md,21,68,,0.189999998,hv,hv73435667,2023-06-02T07:04:45.710Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.25,1.13,14,automatic,hv,hv
