@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-02T21:16:06.189Z,36.1015,-115.1759,15.8,1.9,ml,12,272.25,0.404,0.518,nn,nn00860708,2023-06-02T21:18:35.955Z,"Las Vegas urban area, Nevada",earthquake,,1.5,0.93,9,automatic,nn,nn
+2023-06-02T21:20:04.700Z,35.3186667,-119.0356667,18.51,1.82,ml,31,60,0.06184,0.19,ci,ci40476408,2023-06-02T21:23:45.101Z,"4km S of Bakersfield, CA",earthquake,0.34,0.62,0.137,27,automatic,ci,ci
+2023-06-02T21:07:48.350Z,18.4468333333333,-66.122,84.32,2.88,md,13,179,0.1418,0.15,pr,pr71412148,2023-06-02T21:22:02.270Z,"0 km NNW of Cataño, Puerto Rico",earthquake,1.54,0.69,0.18600641397,13,reviewed,pr,pr
 2023-06-02T21:00:48.460Z,33.3945,-116.891,12.7,0.63,ml,15,98,0.04718,0.2,ci,ci40476384,2023-06-02T21:04:25.810Z,"5km NNW of Palomar Observatory, CA",earthquake,0.46,0.86,0.191,11,automatic,ci,ci
 2023-06-02T20:55:21.400Z,34.193,-118.1296667,7.67,1.43,ml,8,119,0.2859,0.17,ci,ci40476376,2023-06-02T20:58:55.958Z,"0km NNE of Altadena, CA",earthquake,0.61,31.61,0.38,18,automatic,ci,ci
 2023-06-02T20:49:11.320Z,63.1045,-145.0775,7.3,1.4,ml,,,,0.61,ak,ak02371dfam4,2023-06-02T20:51:17.742Z,"27 km E of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T21:37:55.120Z,38.8056679,-122.8134995,2.93,1.08,md,19,61,0.01266,0.03,nc,nc73895171,2023-06-01T21:54:13.760Z,"6km WNW of The Geysers, CA",earthquake,0.27,0.55,0.14,23,automatic,nc,nc
 2023-06-01T21:37:00.466Z,58.1981,-155.2653,1.2,0.8,ml,,,,0.22,ak,ak0236zqesam,2023-06-01T21:38:11.826Z,"84 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-06-01T21:36:21.266Z,62.5881,-149.5527,53.5,2.2,ml,,,,0.55,ak,ak0236zqem5y,2023-06-01T21:38:00.979Z,"32 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-01T21:21:48.800Z,33.0773333,-115.5983333,8.96,1.72,ml,28,41,0.04134,0.24,ci,ci40475200,2023-06-01T21:25:25.200Z,"5km NNE of Westmorland, CA",earthquake,0.41,0.92,0.202,29,automatic,ci,ci
-2023-06-01T21:19:48.310Z,19.3373333333333,-155.297333333333,2.27,2.88,ml,52,87,,0.12,hv,hv73434747,2023-06-01T21:48:37.574Z,"13 km SSW of Volcano, Hawaii",earthquake,0.2,0.35,0.217723660249818,35,reviewed,hv,hv
