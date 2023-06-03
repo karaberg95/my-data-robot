@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-03T07:52:32.284Z,60.8906,-152.462,127.3,1.9,ml,,,,0.62,ak,ak02372t8p0c,2023-06-03T07:54:43.691Z,"67 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-03T07:45:34.148Z,39.6112,-119.9616,6.7,1.7,ml,15,85.41,0.004,0.1746,nn,nn00860764,2023-06-03T07:47:26.811Z,"7 km S of Cold Springs, Nevada",earthquake,,0.4,0.25,7,automatic,nn,nn
 2023-06-03T07:42:21.440Z,19.4281673431396,-155.321502685547,3.86999988555908,1.92,ml,25,87,,0.119999997,hv,hv73437622,2023-06-03T07:47:54.930Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.660000026,1.12,5,automatic,hv,hv
 2023-06-03T07:39:42.154Z,37.1423,-117.3823,4.2,1.6,ml,25,270.02,0.147,0.2736,nn,nn00860761,2023-06-03T07:42:07.109Z,"61 km WNW of Beatty, Nevada",earthquake,,2.2,0.87,18,automatic,nn,nn
@@ -296,6 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T08:02:16.230Z,44.7918333,-110.4141667,1.09,0.88,md,6,216,0.05885,0.08,uu,uu60541446,2023-06-02T16:19:22.740Z,"30 km SE of Mammoth, Wyoming",earthquake,1.96,0.63,0.305,3,reviewed,uu,uu
 2023-06-02T08:01:05.010Z,34.0801667,-117.3273333,17.62,1.05,ml,25,104,0.09523,0.18,ci,ci40475632,2023-06-02T08:04:43.327Z,"1km WNW of Colton, CA",earthquake,0.3,0.7,0.211,30,automatic,ci,ci
 2023-06-02T07:56:40.170Z,38.8238335,-122.7993317,4.44,0.29,md,11,117,0.01615,0.01,nc,nc73895316,2023-06-02T08:24:14.720Z,"6km NW of The Geysers, CA",earthquake,0.58,0.88,0.13,10,automatic,nc,nc
-2023-06-02T07:52:50.480Z,33.5506667,-117.0056667,10.15,0.49,ml,14,58,0.09913,0.18,ci,ci40475624,2023-06-02T07:56:20.399Z,"14km E of Murrieta Hot Springs, CA",earthquake,0.38,1.7,0.056,7,automatic,ci,ci
-2023-06-02T07:52:11.750Z,18.8988333333333,-65.0085,27.83,3.27,md,11,263,0.5458,0.22,pr,pr71412048,2023-06-02T08:05:07.860Z,"62 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.8,10.35,0.0257649817331611,4,reviewed,pr,pr
-2023-06-02T07:51:07.430Z,32.9905,-116.3131667,8.8,0.76,ml,15,123,0.03673,0.14,ci,ci40475616,2023-06-02T15:58:38.602Z,"24km SW of Ocotillo Wells, CA",earthquake,0.31,0.52,0.054,5,reviewed,ci,ci
