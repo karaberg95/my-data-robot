@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-03T14:20:20.940Z,38.8043327,-122.7786636,2.02,0.26,md,8,89,0.009052,0.02,nc,nc73896326,2023-06-03T14:22:01.947Z,"4km NNW of The Geysers, CA",earthquake,0.53,1.23,0.03,8,automatic,nc,nc
 2023-06-03T14:13:27.780Z,38.8066673,-122.7763367,-0.18,1.56,md,7,202,0.007407,0.03,nc,nc73896311,2023-06-03T14:15:04.067Z,"4km NNW of The Geysers, CA",earthquake,0.58,0.73,0.13,9,automatic,nc,nc
 2023-06-03T14:03:17.400Z,38.8134995,-122.7949982,1.34,0.76,md,11,61,0.005529,0.03,nc,nc73896306,2023-06-03T14:17:12.310Z,"5km NW of The Geysers, CA",earthquake,0.31,0.81,0.06,12,automatic,nc,nc
 2023-06-03T13:59:59.530Z,34.305,-118.4703333,11.03,1.33,ml,22,110,0.01467,0.19,ci,ci40477040,2023-06-03T14:04:21.744Z,"2km W of Sylmar, CA",earthquake,0.41,0.57,0.142,29,automatic,ci,ci
-2023-06-03T13:58:03.642Z,12.5705,48.095,10,5.4,mww,87,40,5.237,0.7,us,us7000k63p,2023-06-03T14:16:00.040Z,"156 km N of Las Khorey, Somalia",earthquake,9.8,1.859,0.093,11,reviewed,us,us
+2023-06-03T13:58:03.642Z,12.5705,48.095,10,5.4,mww,87,40,5.237,0.7,us,us7000k63p,2023-06-03T14:26:52.040Z,"156 km N of Las Khorey, Somalia",earthquake,9.8,1.859,0.093,11,reviewed,us,us
 2023-06-03T13:50:00.650Z,38.8134995,-122.7770004,0.14,0.86,md,7,95,0.002889,0.02,nc,nc73896291,2023-06-03T13:51:37.360Z,"4km NNW of The Geysers, CA",earthquake,0.31,0.69,0.21,8,automatic,nc,nc
 2023-06-03T13:48:35.130Z,38.8146667,-122.8263321,2.65,0.77,md,9,93,0.006202,0.05,nc,nc73896286,2023-06-03T13:50:07.215Z,"7km NW of The Geysers, CA",earthquake,0.83,1.32,0.12,11,automatic,nc,nc
 2023-06-03T13:45:53.170Z,38.8111649,-122.776001,0.16,1.05,md,15,79,0.01541,0.04,nc,nc73896276,2023-06-03T14:01:10.214Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.57,0.19,15,automatic,nc,nc
@@ -63,10 +64,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T12:06:13.860Z,38.8204994,-122.7799988,-0.12,0.49,md,8,99,0.00725,0.01,nc,nc73895856,2023-06-03T12:07:46.707Z,"5km W of Cobb, CA",earthquake,1,1.84,0.2,7,automatic,nc,nc
 2023-06-03T12:06:02.380Z,38.8050003,-122.7818298,2.76,1.39,md,17,65,0.008295,0.02,nc,nc73895871,2023-06-03T13:18:16.932Z,"4km NW of The Geysers, CA",earthquake,0.28,0.49,0.48,21,automatic,nc,nc
 2023-06-03T12:05:28.060Z,38.7859993,-122.7770004,0.78,1.45,md,11,211,0.01114,0.1,nc,nc73895846,2023-06-03T12:47:16.711Z,"2km WNW of The Geysers, CA",earthquake,0.61,0.88,0.7,11,automatic,nc,nc
-2023-06-03T12:03:23.370Z,38.8059998,-122.7815018,-0.33,2.26,md,23,78,0.007277,0.05,nc,nc73895831,2023-06-03T13:56:16.184Z,"4km NW of The Geysers, CA",earthquake,0.2,0.36,0.29,23,automatic,nc,nc
+2023-06-03T12:03:23.370Z,38.8059998,-122.7815018,-0.33,2.26,md,23,78,0.007277,0.05,nc,nc73895831,2023-06-03T14:23:11.362Z,"4km NW of The Geysers, CA",earthquake,0.2,0.36,0.29,23,automatic,nc,nc
 2023-06-03T12:02:39.790Z,38.7998352,-122.7726669,0.35,2.83,md,28,74,0.01015,0.03,nc,nc73895821,2023-06-03T13:26:15.994Z,"3km NNW of The Geysers, CA",earthquake,0.15,0.4,0.44,27,automatic,nc,nc
 2023-06-03T12:02:19.490Z,38.8134995,-122.7883301,-0.6,1.22,md,8,221,0.02765,0.09,nc,nc73895816,2023-06-03T13:11:14.874Z,"5km NW of The Geysers, CA",earthquake,1.64,5.33,0.44,7,automatic,nc,nc
-2023-06-03T12:01:18.980Z,38.791832,-122.7783356,3.55,4.45,mw,73,33,0.007608,0.07,nc,nc73895826,2023-06-03T14:17:30.839Z,"2km NW of The Geysers, CA",earthquake,0.13,0.19,,4,reviewed,nc,nc
+2023-06-03T12:01:18.980Z,38.791832,-122.7783356,3.55,4.45,mw,73,33,0.007608,0.07,nc,nc73895826,2023-06-03T14:28:31.238Z,"2km NW of The Geysers, CA",earthquake,0.13,0.19,,4,reviewed,nc,nc
 2023-06-03T11:59:29.010Z,38.7956657,-122.7781677,3.05,0.76,md,12,138,0.008014,0.01,nc,nc73895811,2023-06-03T12:16:13.518Z,"3km NW of The Geysers, CA",earthquake,0.49,0.71,0.18,13,automatic,nc,nc
 2023-06-03T11:49:18.640Z,19.2403335571289,-155.406661987305,31.5599994659424,1.87,ml,46,132,,0.119999997,hv,hv73437892,2023-06-03T11:54:48.500Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.53,0.74000001,3.31,7,automatic,hv,hv
 2023-06-03T11:48:14.110Z,38.8361664,-122.7914963,1.43,0.76,md,10,74,0.002413,0.02,nc,nc73895806,2023-06-03T12:44:12.692Z,"6km WNW of Cobb, CA",earthquake,0.4,0.98,0.11,11,automatic,nc,nc
@@ -335,4 +336,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T14:43:37.670Z,35.5008333,-118.3973333,4.02,1.55,ml,25,41,0.1974,0.15,ci,ci40475792,2023-06-02T16:05:52.330Z,"13km SE of Bodfish, CA",earthquake,0.22,0.83,0.141,20,reviewed,ci,ci
 2023-06-02T14:42:39.680Z,37.4346667,-119.0273333,4.5,1.49,md,25,80,0.1747,0.06,nc,nc73895421,2023-06-02T19:17:19.774Z,"23km S of Mammoth Lakes, CA",earthquake,0.24,2.43,0.241,23,reviewed,nc,nc
 2023-06-02T14:38:43.940Z,38.845665,-122.8164978,1.87,0.86,md,10,89,0.01045,0.01,nc,nc73895416,2023-06-02T15:07:14.229Z,"8km WNW of Cobb, CA",earthquake,0.87,1.73,0.24,12,automatic,nc,nc
-2023-06-02T14:23:10.500Z,58.1619,-155.5898,19.8,0.4,ml,,,,1.28,ak,ak023719p4ay,2023-06-02T14:25:34.868Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
