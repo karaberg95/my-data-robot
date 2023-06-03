@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T23:43:33.292Z,39.6035,-119.4059,11.8,1.5,ml,11,77.91,0.108,0.2297,nn,nn00860805,2023-06-03T23:45:55.475Z,"10 km WSW of Wadsworth, Nevada",earthquake,,0.8,0.13,8,automatic,nn,nn
 2023-06-03T23:34:50.250Z,35.8691667,-117.6821667,11.03,0.96,ml,12,133,0.09041,0.15,ci,ci40477464,2023-06-03T23:39:11.517Z,"22km ESE of Little Lake, CA",earthquake,0.44,0.75,0.243,9,automatic,ci,ci
 2023-06-03T23:28:34.780Z,38.7888336,-122.7901688,1.07,0.79,md,16,111,0.004682,0.03,nc,nc73896621,2023-06-03T23:30:10.243Z,"3km WNW of The Geysers, CA",earthquake,0.25,0.41,0.13,16,automatic,nc,nc
-2023-06-03T23:20:08.960Z,38.7944984,-122.82267,1.98,0.62,md,10,105,0.009728,0.03,nc,nc73896616,2023-06-03T23:21:45.303Z,"6km WNW of The Geysers, CA",earthquake,0.41,0.92,0.28,10,automatic,nc,nc
+2023-06-03T23:20:08.960Z,38.7944984,-122.82267,1.98,0.62,md,10,105,0.009728,0.03,nc,nc73896616,2023-06-03T23:58:11.941Z,"6km WNW of The Geysers, CA",earthquake,0.41,0.92,0.28,10,automatic,nc,nc
 2023-06-03T23:18:57.510Z,38.8476677,-122.81633,1.09,0.81,md,10,101,0.008876,0.04,nc,nc73896611,2023-06-03T23:44:13.845Z,"9km WNW of Cobb, CA",earthquake,0.33,0.91,0.37,11,automatic,nc,nc
 2023-06-03T23:05:05.082Z,58.1664,-155.3941,1.2,0.8,ml,,,,0.92,ak,ak023732hhxo,2023-06-03T23:06:49.209Z,"86 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-06-03T23:01:48.667Z,-18.3443,168.063,35,4.8,mb,30,72,4.185,0.6,us,us7000k664,2023-06-03T23:39:31.536Z,"72 km SSW of Port-Vila, Vanuatu",earthquake,9.24,1.931,0.096,33,reviewed,us,us
@@ -334,4 +334,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T00:11:48.597Z,-27.4731,-66.5177,37.88,4.9,mb,75,46,2.412,0.54,us,us7000k5yb,2023-06-03T01:02:54.729Z,"23 km WNW of Andalgalá, Argentina",earthquake,6.18,6.409,0.057,98,reviewed,us,us
 2023-06-03T00:02:54.408Z,59.4487,-153.1412,104.8,1.7,ml,,,,0.32,ak,ak02372orzog,2023-06-03T00:04:48.834Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-03T00:01:09.859Z,31.67653864,-104.4064945,6.440063477,3,ml,17,82,0.01696567718,0.2,tx,tx2023ktoa,2023-06-03T00:16:05.385Z,"55 km S of Whites City, New Mexico",earthquake,0.8377145081,0.6859348167,0.1,8,reviewed,tx,tx
-2023-06-02T23:58:15.900Z,38.8176667,-122.805,2.08,1.12,md,44,38,0.006959,0.04,nc,nc73895606,2023-06-03T04:57:10.807Z,"6km NW of The Geysers, CA",earthquake,0.12,0.19,0.178,38,reviewed,nc,nc
