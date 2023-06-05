@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T11:07:12.660Z,33.6523333,-116.7085,15.41,0.34,ml,16,73,0.05887,0.16,ci,ci40478624,2023-06-05T11:10:37.434Z,"10km S of Idyllwild, CA",earthquake,0.45,0.61,0.142,7,automatic,ci,ci
 2023-06-05T11:01:59.820Z,19.1483325958252,-155.488006591797,29.2299995422363,1.83000004,md,36,162,,0.100000001,hv,hv73440582,2023-06-05T11:05:05.730Z,"Hawaii region, Hawaii",earthquake,0.59,0.75,0.910000026,3,automatic,hv,hv
-2023-06-05T10:57:25.800Z,19.2504997253418,-155.389007568359,29.5400009155273,2.19,ml,51,136,,0.150000006,hv,hv73440577,2023-06-05T11:02:55.820Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.699999988,3.25,25,automatic,hv,hv
+2023-06-05T10:57:25.800Z,19.2504997253418,-155.389007568359,29.5400009155273,2.19,ml,51,136,,0.150000006,hv,hv73440577,2023-06-05T11:14:04.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.699999988,3.25,25,automatic,hv,hv
 2023-06-05T10:57:03.310Z,19.3736667633057,-155.28450012207,0.509999990463257,1.93,ml,10,201,,0.109999999,hv,hv73440572,2023-06-05T11:02:34.060Z,"9 km SW of Volcano, Hawaii",earthquake,0.4,0.25,3.02,28,automatic,hv,hv
 2023-06-05T10:48:02.400Z,33.316,-116.7971667,6.5,0.13,ml,16,89,0.06642,0.16,ci,ci40478616,2023-06-05T10:51:38.471Z,"8km SE of Palomar Observatory, CA",earthquake,0.41,0.74,0.02,3,automatic,ci,ci
 2023-06-05T10:40:05.785Z,64.8642,-147.7108,9.5,0.8,ml,,,,0.48,ak,ak023766126a,2023-06-05T10:41:44.997Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T11:27:25.487Z,-4.9998,151.4003,124.549,4.2,mb,24,66,1.106,0.38,us,us7000k695,2023-06-05T05:08:34.040Z,"120 km SW of Kokopo, Papua New Guinea",earthquake,9.71,7.356,0.136,15,reviewed,us,us
 2023-06-04T11:26:32.331Z,58.2916,-155.01,5.5,0.4,ml,,,,0.52,ak,ak02374j07cy,2023-06-04T11:28:33.423Z,"86 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T11:21:49.650Z,33.589,-116.8118333,3.65,0.58,ml,29,55,0.04012,0.18,ci,ci40477816,2023-06-04T13:35:07.520Z,"13km WNW of Anza, CA",earthquake,0.25,0.52,0.107,19,reviewed,ci,ci
-2023-06-04T11:11:40.600Z,38.8303337,-122.8181686,1.14,0.39,md,7,146,0.00938,0.03,nc,nc73896856,2023-06-04T11:49:14.380Z,"8km NW of The Geysers, CA",earthquake,0.52,1.14,0.09,4,automatic,nc,nc
