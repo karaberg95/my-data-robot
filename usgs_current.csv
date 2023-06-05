@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-05T15:30:45.550Z,33.3623352,-116.3496704,16.18,1.04,ml,20,128,0.1776,0.17,ci,ci40478784,2023-06-05T15:33:00.469Z,"12km N of Borrego Springs, CA",earthquake,0.54,1.3,0.077,2,automatic,ci,ci
-2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T15:29:11.614Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
+2023-06-05T15:30:45.420Z,33.3458333,-116.3473333,13.71,0.74,ml,19,99,0.09703,0.28,ci,ci40478784,2023-06-05T15:34:20.430Z,"10km NNE of Borrego Springs, CA",earthquake,0.65,1.38,0.134,9,automatic,ci,ci
+2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T15:38:11.656Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
 2023-06-05T15:11:59.870Z,38.8255005,-122.7969971,2.48,1.33,md,26,33,0.01043,0.02,nc,nc73897291,2023-06-05T15:28:12.607Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.4,0.15,26,automatic,nc,nc
 2023-06-05T15:00:04.130Z,33.6455,-117.0526667,0.02,1.28,ml,9,153,0.2298,0.26,ci,ci40478744,2023-06-05T15:03:36.927Z,"7km SSE of Winchester, CA",earthquake,0.98,31.61,0.449,9,automatic,ci,ci
 2023-06-05T14:59:55.440Z,38.8358345,-122.7904968,2,1.06,md,17,66,0.002574,0.02,nc,nc73897286,2023-06-05T15:15:13.533Z,"6km WNW of Cobb, CA",earthquake,0.25,0.43,0.09,17,automatic,nc,nc
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T13:08:48.458Z,-10.1278,118.6958,30.042,4.7,mb,36,106,1.579,0.69,us,us7000k6eg,2023-06-05T13:44:55.063Z,"97 km SW of Tambolaka, Indonesia",earthquake,6.99,5.124,0.11,25,reviewed,us,us
 2023-06-05T13:05:24.987Z,61.2517,-147.5256,12.5,1.2,ml,,,,0.47,ak,ak023767lweq,2023-06-05T13:07:01.433Z,"62 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-05T13:04:32.840Z,37.9073334,-122.0070038,14.1,2.23,md,50,108,0.04973,0.1,nc,nc73897256,2023-06-05T13:45:10.987Z,"5km E of Walnut Creek, CA",earthquake,0.2,0.36,0.15,46,automatic,nc,nc
-2023-06-05T12:57:29.310Z,37.9076653,-122.0098343,12.45,1.65,md,12,125,0.05061,0.1,nc,nc73897251,2023-06-05T13:30:10.893Z,"5km E of Walnut Creek, CA",earthquake,0.57,0.92,0.07,10,automatic,nc,nc
+2023-06-05T12:57:29.310Z,37.9076653,-122.0098343,12.45,1.65,md,12,125,0.05061,0.1,nc,nc73897251,2023-06-05T15:38:12.655Z,"5km E of Walnut Creek, CA",earthquake,0.57,0.92,0.07,10,automatic,nc,nc
 2023-06-05T12:56:14.480Z,38.8400002,-122.8775024,2.32,0.71,md,12,115,0.006935,0.02,nc,nc73897246,2023-06-05T15:15:12.532Z,"13km WNW of The Geysers, CA",earthquake,0.41,0.6,0.24,12,automatic,nc,nc
 2023-06-05T12:43:17.051Z,-14.7919,-73.4539,10.029,4.6,mb,18,132,4.317,0.47,us,us7000k6e9,2023-06-05T13:06:37.040Z,"13 km NNW of Upahuacho, Peru",earthquake,5.79,6.483,0.145,14,reviewed,us,us
 2023-06-05T12:27:54.970Z,19.1354999542236,-155.487670898438,31.7700004577637,2.12,ml,23,171,,0.140000001,hv,hv73440662,2023-06-05T12:33:26.630Z,"7 km S of Pāhala, Hawaii",earthquake,0.78,0.959999979,0.25,6,automatic,hv,hv
@@ -183,7 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T15:52:20.990Z,36.4926666666667,-89.5518333333333,8.5,1.31,md,13,64,0.04692,0.09,nm,nm60500793,2023-06-05T14:43:45.610Z,"6 km ESE of Marston, Missouri",earthquake,0.25,0.67,0.0590073860739191,8,reviewed,nm,nm
 2023-06-04T15:51:36.170Z,38.8069992,-122.7711639,0.64,0.88,md,11,81,0.009716,0.02,nc,nc73896941,2023-06-04T16:26:15.235Z,"4km NNW of The Geysers, CA",earthquake,0.29,0.57,0.2,12,automatic,nc,nc
 2023-06-04T15:51:13.900Z,36.4381666666667,-89.5293333333333,9.61,1.67,md,28,40,0.05573,0.07,nm,nm60527531,2023-06-05T12:45:36.550Z,"8 km NW of Tiptonville, Tennessee",earthquake,0.14,0.38,0.167464471142101,20,reviewed,nm,nm
-2023-06-04T15:40:31.370Z,38.8081665,-122.7738342,0.87,0.28,md,8,116,0.007383,0.02,nc,nc73896931,2023-06-04T16:03:15.963Z,"4km NNW of The Geysers, CA",earthquake,0.36,0.76,0.08,8,automatic,nc,nc
-2023-06-04T15:40:03.121Z,62.998,-151.0373,116.1,0.9,ml,,,,0.4,ak,ak02374lgviy,2023-06-04T15:42:35.519Z,"57 km NNW of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-04T15:37:09.410Z,39.3296661,-123.1673355,6.11,1.45,md,8,126,0.05341,0.04,nc,nc73896926,2023-06-04T16:33:11.152Z,"8km NNE of Redwood Valley, CA",earthquake,0.52,1.52,0.05,6,automatic,nc,nc
-2023-06-04T15:35:27.785Z,56.3213,-157.4143,28.1,2.7,ml,,,,0.71,ak,ak02374lfutm,2023-06-04T17:43:32.040Z,"61 km E of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
