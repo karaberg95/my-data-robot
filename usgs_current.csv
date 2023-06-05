@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T07:29:48.960Z,19.1459999084473,-155.363662719727,30.1700000762939,1.99000001,md,50,184,,0.119999997,hv,hv73440422,2023-06-05T07:34:05.300Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.6,0.800000012,1.55999994,26,automatic,hv,hv
 2023-06-05T07:26:04.120Z,36.6378326,-121.2886658,6.35,1.31,md,10,87,0.03409,0.2,nc,nc73897166,2023-06-05T07:27:40.781Z,"17km S of Tres Pinos, CA",earthquake,0.75,1.76,0.22,8,automatic,nc,nc
 2023-06-05T07:20:03.130Z,33.7126667,-116.8245,15.56,0.68,ml,21,101,0.08471,0.15,ci,ci40478568,2023-06-05T07:23:30.848Z,"8km ESE of Valle Vista, CA",earthquake,0.31,0.51,0.133,14,automatic,ci,ci
 2023-06-05T07:19:02.816Z,64.9384,-147.2879,0,1.1,ml,,,,0.96,ak,ak023764493d,2023-06-05T07:21:02.226Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T07:49:04.710Z,47.632333333333335,-121.95316666666666,24.01,0.47000000000000003,md,6,188,0.03657,0.04,uw,uw61930416,2023-06-04T18:11:14.210Z,"0 km E of Ames Lake, Washington",earthquake,0.72,0.74,0.02953565801807234,4,reviewed,uw,uw
 2023-06-04T07:44:54.809Z,58.1679,-155.3592,18.9,0.6,ml,,,,0.53,ak,ak02374gqdig,2023-06-04T07:47:43.568Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-06-04T07:42:34.740Z,19.1933326721191,-155.487335205078,35.9000015258789,1.71000004,md,38,84,,0.109999999,hv,hv73439202,2023-06-04T07:45:46.160Z,"Hawaii region, Hawaii",earthquake,0.53,0.819999993,0.569999993,3,automatic,hv,hv
-2023-06-04T07:39:41.540Z,40.237999,-121.1536636,0.11,2.58,md,12,103,0.3212,0.21,nc,nc73896781,2023-06-04T23:42:26.600Z,"3km NE of Almanor, CA",earthquake,0.72,15.63,0.13,9,automatic,nc,nc
