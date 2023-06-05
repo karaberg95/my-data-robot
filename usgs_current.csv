@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T10:48:02.400Z,33.316,-116.7971667,6.5,0.13,ml,16,89,0.06642,0.16,ci,ci40478616,2023-06-05T10:51:38.471Z,"8km SE of Palomar Observatory, CA",earthquake,0.41,0.74,0.02,3,automatic,ci,ci
 2023-06-05T10:40:05.785Z,64.8642,-147.7108,9.5,0.8,ml,,,,0.48,ak,ak023766126a,2023-06-05T10:41:44.997Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-05T10:25:53.878Z,67.1044,-158.6727,0,3.2,ml,,,,0.7,ak,ak023765xy44,2023-06-05T10:34:34.040Z,"35 km W of Ambler, Alaska",earthquake,,298.8,,,automatic,ak,ak
 2023-06-05T10:17:20.645Z,60.7406,-150.4679,44.2,1.8,ml,,,,0.42,ak,ak023765w5uo,2023-06-05T10:18:58.342Z,"23 km SSE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-05T10:16:02.610Z,35.6388333,-117.453,9.38,1.01,ml,9,83,0.03545,0.15,ci,ci40478608,2023-06-05T10:19:36.104Z,"15km SSW of Searles Valley, CA",earthquake,0.51,1.08,0.137,7,automatic,ci,ci
 2023-06-05T10:12:13.447Z,61.3539,-150.9747,69.6,1.1,ml,,,,0.29,ak,ak023765v2ps,2023-06-05T10:14:21.864Z,"24 km NNE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-05T10:11:02.770Z,38.8055,-122.8111649,2,0.98,md,17,59,0.01264,0.02,nc,nc73897221,2023-06-05T10:12:36.724Z,"6km WNW of The Geysers, CA",earthquake,0.24,0.53,0.19,20,automatic,nc,nc
+2023-06-05T10:11:02.770Z,38.8055,-122.8111649,2,0.98,md,17,59,0.01264,0.02,nc,nc73897221,2023-06-05T10:48:13.839Z,"6km WNW of The Geysers, CA",earthquake,0.24,0.53,0.19,20,automatic,nc,nc
 2023-06-05T10:09:23.890Z,38.7773323,-122.7566681,1.05,1.11,md,17,83,0.01667,0.04,nc,nc73897216,2023-06-05T10:38:15.786Z,"0km W of The Geysers, CA",earthquake,0.25,0.51,0.22,16,automatic,nc,nc
 2023-06-05T10:00:37.580Z,38.8440018,-122.8404999,3.28,0.23,md,8,133,0.006674,0.05,nc,nc73897206,2023-06-05T10:17:18.667Z,"10km NW of The Geysers, CA",earthquake,0.53,1.32,0.1,8,automatic,nc,nc
 2023-06-05T09:58:19.820Z,33.2491667,-116.2891667,9.42,1.16,ml,39,37,0.06358,0.22,ci,ci40478600,2023-06-05T10:09:12.370Z,"8km E of Borrego Springs, CA",earthquake,0.28,0.7,0.103,27,automatic,ci,ci
@@ -191,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T11:01:47.324Z,59.7736,-152.9644,99.6,1.5,ml,,,,0.51,ak,ak02374iuvkc,2023-06-04T11:04:13.498Z,"63 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-04T10:57:46.220Z,32.5718333,-116.3905,14.73,0.92,ml,19,124,0.1066,0.15,ci,ci40477808,2023-06-04T13:34:58.832Z,"8km ESE of Campo, CA",earthquake,0.38,0.67,0.255,7,reviewed,ci,ci
 2023-06-04T10:56:11.010Z,33.5396667,-116.6783333,11.58,0.37,ml,18,87,0.04813,0.23,ci,ci40477800,2023-06-04T10:59:41.957Z,"2km SSW of Anza, CA",earthquake,0.48,0.77,0.142,6,automatic,ci,ci
-2023-06-04T10:54:21.087Z,58.2566,-155.1554,1.1,0.4,ml,,,,0.27,ak,ak02374ikqvw,2023-06-04T10:55:48.881Z,"87 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-04T10:53:02.980Z,33.9838333,-116.4386667,7.11,0.46,ml,14,97,0.04971,0.14,ci,ci40477792,2023-06-04T10:56:28.264Z,"6km ENE of Desert Hot Springs, CA",earthquake,0.35,0.58,0.122,6,automatic,ci,ci
-2023-06-04T10:47:39.680Z,38.7883339,-122.7668304,1.67,1.02,md,13,79,0.01347,0.02,nc,nc73896841,2023-06-04T10:49:14.534Z,"2km NW of The Geysers, CA",earthquake,0.31,0.64,0.13,14,automatic,nc,nc
