@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-08T06:54:38.291Z,-40.4787,177.1605,10,4.4,mb,14,128,0.725,1.85,us,us7000k72d,2023-06-08T07:16:10.113Z,"off the east coast of the North Island of New Zealand",earthquake,5.03,1.879,0.219,6,reviewed,us,us
-2023-06-08T06:54:18.870Z,38.8388329,-122.8103333,1.86,1.09,md,22,64,0.01542,0.03,nc,nc73898576,2023-06-08T06:55:51.641Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.1,23,automatic,nc,nc
+2023-06-08T06:54:38.291Z,-40.4787,177.1605,10,4.4,mb,14,128,0.725,1.85,us,us7000k72d,2023-06-08T07:26:27.122Z,"off the east coast of the North Island of New Zealand",earthquake,5.03,1.879,0.219,6,reviewed,us,us
+2023-06-08T06:54:18.870Z,38.8388329,-122.8103333,1.86,1.09,md,22,64,0.01542,0.03,nc,nc73898576,2023-06-08T07:23:17.901Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.1,23,automatic,nc,nc
 2023-06-08T06:54:00.030Z,38.8393326,-122.8101654,1.75,1.02,md,18,52,0.01551,0.03,nc,nc73898571,2023-06-08T07:11:17.824Z,"8km WNW of Cobb, CA",earthquake,0.22,0.53,0.13,19,automatic,nc,nc
 2023-06-08T06:39:26.636Z,37.2654,-117.6342,6.4,0.8,ml,10,96.73,0.034,0.1759,nn,nn00861009,2023-06-08T06:41:57.310Z,"54 km S of Silver Peak, Nevada",earthquake,,1,1.15,6,automatic,nn,nn
 2023-06-08T06:33:13.340Z,19.1996669769287,-155.502334594727,34.8499984741211,2.19,ml,44,78,,0.129999995,hv,hv73445437,2023-06-08T06:49:56.040Z,"2 km W of Pāhala, Hawaii",earthquake,0.5,0.779999971,3.11,8,automatic,hv,hv
@@ -199,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T12:25:24.638Z,45.4448,-111.8189,13.378,2.5,ml,33,46,0.202,0.42,us,us7000k6va,2023-06-08T02:39:17.316Z,"12 km NNW of Ennis, Montana",earthquake,1.76,8.141,0.053,47,reviewed,us,us
 2023-06-07T12:22:33.760Z,19.42,-155.2855,1.76,0.34,md,12,109,,0.09,hv,hv73444577,2023-06-07T12:39:03.300Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.21,0.00316316556724083,2,reviewed,hv,hv
 2023-06-07T12:14:11.953Z,61.7817,-147.2674,36.2,0.9,ml,,,,0.3,ak,ak02379i528b,2023-06-07T12:15:49.073Z,"18 km SSW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"Alaska Peninsula",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
+2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
 2023-06-07T12:10:53.460Z,19.3976666666667,-155.269666666667,0.9,0.43,md,16,42,,0.07,hv,hv73444532,2023-06-07T12:22:47.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.26,0.12122377704185,2,reviewed,hv,hv
 2023-06-07T12:02:58.670Z,19.4101666666667,-155.274666666667,0.98,0.54,md,18,45,,0.07,hv,hv73444512,2023-06-07T12:16:15.370Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.25,0.0705874323233495,2,reviewed,hv,hv
 2023-06-07T11:56:26.760Z,19.4161666666667,-155.261666666667,1.45,0.39,md,17,87,,0.07,hv,hv73444487,2023-06-07T12:08:39.890Z,"4 km SW of Volcano, Hawaii",earthquake,0.17,0.27,0.103754439335205,3,reviewed,hv,hv
@@ -276,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T07:30:17.210Z,58.1963333333333,-155.257333333333,2.39,0.02,ml,8,131,,0.07,av,av91915391,2023-06-07T20:10:32.530Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.54,0.2243152376163,8,reviewed,av,av
 2023-06-07T07:29:31.750Z,58.2373333333333,-155.1625,2.52,0.14,ml,8,77,,0.07,av,av91915386,2023-06-07T20:07:46.170Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.54,0.198463413366313,8,reviewed,av,av
 2023-06-07T07:28:49.010Z,19.4001666666667,-155.274333333333,0.91,1.43,ml,20,38,,0.1,hv,hv73443812,2023-06-07T09:05:44.100Z,"Hawaii region, Hawaii",earthquake,0.14,0.17,0.167545981522509,7,reviewed,hv,hv
-2023-06-07T07:26:01.330Z,37.0665,-120.8878333,5.8,2.1,md,44,86,0.05357,0.19,nc,nc73898081,2023-06-07T12:46:14.094Z,"4km WNW of Los Banos, CA",earthquake,0.27,0.48,0.174,60,reviewed,nc,nc
-2023-06-07T07:19:56.582Z,61.6757,-147.9802,29.8,1,ml,,,,0.54,ak,ak02379f728a,2023-06-07T07:21:37.644Z,"22 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
