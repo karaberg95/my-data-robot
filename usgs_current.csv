@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-08T06:54:18.870Z,38.8388329,-122.8103333,1.86,1.09,md,22,64,0.01542,0.03,nc,nc73898576,2023-06-08T06:55:51.641Z,"8km WNW of Cobb, CA",earthquake,0.23,0.46,0.1,23,automatic,nc,nc
 2023-06-08T06:54:00.030Z,38.8393326,-122.8101654,1.75,1.02,md,18,52,0.01551,0.03,nc,nc73898571,2023-06-08T06:55:36.030Z,"8km WNW of Cobb, CA",earthquake,0.22,0.53,0.13,19,automatic,nc,nc
 2023-06-08T06:39:26.636Z,37.2654,-117.6342,6.4,0.8,ml,10,96.73,0.034,0.1759,nn,nn00861009,2023-06-08T06:41:57.310Z,"54 km S of Silver Peak, Nevada",earthquake,,1,1.15,6,automatic,nn,nn
 2023-06-08T06:33:13.340Z,19.1996669769287,-155.502334594727,34.8499984741211,2.19,ml,44,78,,0.129999995,hv,hv73445437,2023-06-08T06:49:56.040Z,"2 km W of Pāhala, Hawaii",earthquake,0.5,0.779999971,3.11,8,automatic,hv,hv
@@ -197,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T12:25:24.638Z,45.4448,-111.8189,13.378,2.5,ml,33,46,0.202,0.42,us,us7000k6va,2023-06-08T02:39:17.316Z,"12 km NNW of Ennis, Montana",earthquake,1.76,8.141,0.053,47,reviewed,us,us
 2023-06-07T12:22:33.760Z,19.42,-155.2855,1.76,0.34,md,12,109,,0.09,hv,hv73444577,2023-06-07T12:39:03.300Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.21,0.00316316556724083,2,reviewed,hv,hv
 2023-06-07T12:14:11.953Z,61.7817,-147.2674,36.2,0.9,ml,,,,0.3,ak,ak02379i528b,2023-06-07T12:15:49.073Z,"18 km SSW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"Alaska Peninsula",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
+2023-06-07T12:11:45.100Z,58.1738333333333,-155.330833333333,0.81,0.42,ml,9,114,,0.04,av,av91915591,2023-06-08T04:23:23.950Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.95,0.336885084091022,9,reviewed,av,av
 2023-06-07T12:10:53.460Z,19.3976666666667,-155.269666666667,0.9,0.43,md,16,42,,0.07,hv,hv73444532,2023-06-07T12:22:47.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.26,0.12122377704185,2,reviewed,hv,hv
 2023-06-07T12:02:58.670Z,19.4101666666667,-155.274666666667,0.98,0.54,md,18,45,,0.07,hv,hv73444512,2023-06-07T12:16:15.370Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.25,0.0705874323233495,2,reviewed,hv,hv
 2023-06-07T11:56:26.760Z,19.4161666666667,-155.261666666667,1.45,0.39,md,17,87,,0.07,hv,hv73444487,2023-06-07T12:08:39.890Z,"4 km SW of Volcano, Hawaii",earthquake,0.17,0.27,0.103754439335205,3,reviewed,hv,hv
@@ -280,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T07:18:24.380Z,33.4633333,-116.5628333,8.88,0.43,ml,15,108,0.0454,0.09,ci,ci40479784,2023-06-07T21:59:21.983Z,"14km SE of Anza, CA",earthquake,0.25,0.38,0.174,10,reviewed,ci,ci
 2023-06-07T07:14:50.920Z,45.3555,-121.709,4.67,0.92,ml,7,187,0.003926,0.09,uw,uw61931146,2023-06-08T05:17:34.730Z,"6 km NNE of Government Camp, Oregon",earthquake,0.88,0.86,0.2514518723281075,3,reviewed,uw,uw
 2023-06-07T07:11:17.070Z,58.1721666666667,-155.3255,1.85,-0.2,ml,7,113,,0.07,av,av91915381,2023-06-07T20:04:58.450Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.47,0.222355803254143,7,reviewed,av,av
-2023-06-07T07:03:21.362Z,36.7794,-115.9968,6.5,-0.2,ml,7,234.52,0.04,0.0633,nn,nn00860979,2023-06-07T17:51:43.863Z,"37 km NW of Indian Springs, Nevada",earthquake,,2,0.51,3,reviewed,nn,nn
-2023-06-07T07:02:25.760Z,37.7125,-122.5576667,8.16,2.16,md,74,107,0.06717,0.06,nc,nc73898076,2023-06-08T00:28:14.465Z,"5km WSW of San Francisco Zoo, CA",earthquake,0.16,0.34,0.153,52,reviewed,nc,nc
-2023-06-07T06:56:11.010Z,55.0563333333333,-162.251666666667,2.55,0.76,ml,5,140,,0.1,av,av91915371,2023-06-07T20:01:51.380Z,"Alaska Peninsula",earthquake,0.35,0.84,0.243387577828778,5,reviewed,av,av
