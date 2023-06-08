@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-08T20:31:57.440Z,62.9919,-151.5738,0,1.2,ml,,,,0.95,ak,ak0237bajm8t,2023-06-08T20:34:16.687Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-08T20:31:48.000Z,52.059,177.941,1,5.4,Mi,24,197.99998416000128,0.3683093,1.34,at,at00rvybp0,2023-06-08T20:39:38.843Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,11,reviewed,at,at
 2023-06-08T20:26:10.710Z,32.5826667,-115.2625,15.79,1.55,ml,11,102,0.1666,0.17,ci,ci40480992,2023-06-08T20:29:41.750Z,"9km ENE of Puebla, B.C., MX",earthquake,0.59,0.87,0.254,12,automatic,ci,ci
 2023-06-08T20:20:44.609Z,58.1248,-154.4737,250,0.7,ml,,,,0.81,ak,ak0237bahdec,2023-06-08T20:23:54.897Z,"61 km N of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-08T20:13:59.810Z,38.8123322,-122.8278351,1.47,1.07,md,23,57,0.003615,0.03,nc,nc73898806,2023-06-08T20:15:33.165Z,"7km WNW of The Geysers, CA",earthquake,0.18,0.36,0.16,23,automatic,nc,nc
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T19:23:18.609Z,61.4692,-153.5502,4.5,2.5,ml,,,,0.5,ak,ak0237b9wdx0,2023-06-08T19:25:41.335Z,"101 km E of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-08T19:23:00.820Z,36.5876667,-121.187,4.94,2.32,md,60,104,0.01599,0.08,nc,nc73898786,2023-06-08T20:31:15.715Z,"7km NNW of Pinnacles, CA",earthquake,0.15,0.25,0.165,71,reviewed,nc,nc
 2023-06-08T19:19:27.450Z,38.8283348,-122.8696671,2.17,0.77,md,13,119,0.01002,0.05,nc,nc73898776,2023-06-08T19:21:03.491Z,"11km WNW of The Geysers, CA",earthquake,0.36,0.8,0.19,13,automatic,nc,nc
-2023-06-08T19:18:15.470Z,40.0108333,-122.8701667,11.84,1.94,md,9,149,0.1798,0.13,nc,nc73898781,2023-06-08T20:07:10.567Z,"40km W of Rancho Tehama Reserve, CA",earthquake,0.63,1.34,0.157,17,reviewed,nc,nc
+2023-06-08T19:18:15.470Z,40.0108333,-122.8701667,11.84,1.94,md,9,149,0.1798,0.13,nc,nc73898781,2023-06-08T20:42:14.777Z,"40km W of Rancho Tehama Reserve, CA",earthquake,0.63,1.34,0.157,17,reviewed,nc,nc
 2023-06-08T19:15:50.000Z,33.849,-117.4966667,2.06,1.69,ml,43,77,0.0533,0.3,ci,ci40480896,2023-06-08T19:19:36.702Z,"4km SE of Home Gardens, CA",quarry blast,0.34,0.52,0.16,29,automatic,ci,ci
 2023-06-08T19:14:08.656Z,56.0291,-158.7722,39.2,1.7,ml,,,,0.98,ak,ak0237b9ufpd,2023-06-08T19:16:02.347Z,"25 km S of Chignik Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-08T19:12:40.767Z,60.5227,-152.0749,77.9,1.4,ml,,,,0.2,ak,ak0237b9u31v,2023-06-08T19:16:00.766Z,"42 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T21:10:36.270Z,38.8378334,-122.8300018,0.35,1.03,md,23,76,0.00435,0.03,nc,nc73898391,2023-06-07T21:30:13.305Z,"9km NW of The Geysers, CA",earthquake,0.16,0.41,0.26,24,automatic,nc,nc
 2023-06-07T21:01:02.940Z,32.777,-116.8965,-0.26,1.34,ml,24,90,0.05657,0.25,ci,ci40480152,2023-06-08T18:31:33.144Z,"5km NE of Rancho San Diego, CA",quarry blast,0.5,31.61,0.131,8,reviewed,ci,ci
 2023-06-07T20:45:17.700Z,58.2803333333333,-154.993333333333,2.75,0.32,ml,12,144,,0.1,av,av91915981,2023-06-08T13:24:56.680Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.38,0.218912923038339,12,reviewed,av,av
-2023-06-07T20:41:49.420Z,34.382,-96.852,0,1.96,ml,44,78,0.2222563857,0.35,ok,ok2023lcky,2023-06-07T21:07:28.934Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.29,4,reviewed,ok,ok
