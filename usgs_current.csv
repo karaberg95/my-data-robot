@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-10T09:51:05.191Z,61.2696,-150.6475,49.7,1.4,ml,,,,0.62,ak,ak0237ef6pvb,2023-06-10T09:52:45.985Z,"27 km ENE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T09:44:34.300Z,38.7513351,-122.7243347,1.51,0.96,md,7,164,0.01025,0.02,nc,nc73899486,2023-06-10T09:46:11.859Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.52,0.29,9,automatic,nc,nc
-2023-06-10T09:44:05.200Z,38.7506676,-122.7231674,1.26,1.19,md,11,168,0.01099,0.03,nc,nc73899476,2023-06-10T09:45:43.036Z,"4km SW of Anderson Springs, CA",earthquake,0.31,0.39,0.14,12,automatic,nc,nc
-2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T09:47:23.500Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
+2023-06-10T09:44:05.200Z,38.7506676,-122.7231674,1.26,1.19,md,11,168,0.01099,0.03,nc,nc73899476,2023-06-10T09:54:11.682Z,"4km SW of Anderson Springs, CA",earthquake,0.31,0.39,0.14,12,automatic,nc,nc
+2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T09:54:10.682Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
 2023-06-10T09:30:31.110Z,35.6543333,-117.4253333,14.5,0.94,ml,9,159,0.1302,0.15,ci,ci40482416,2023-06-10T09:34:01.655Z,"13km S of Searles Valley, CA",earthquake,0.69,1.38,0.192,6,automatic,ci,ci
 2023-06-10T09:29:18.749Z,61.9047,-148.5777,36.5,1.2,ml,,,,0.71,ak,ak0237ef215u,2023-06-10T09:31:26.992Z,"13 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-10T09:12:50.868Z,-15.977,-179.1556,10,5.8,mww,94,49,3.199,0.67,us,us7000k7m3,2023-06-10T09:47:01.079Z,"166 km ENE of Labasa, Fiji",earthquake,11.05,1.762,0.069,20,reviewed,us,us
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T06:05:14.721Z,64.9427,-148.972,24.7,1.8,ml,,,,0.39,ak,ak0237ed4kuo,2023-06-10T06:06:30.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-10T05:39:47.683Z,64.9517,-147.3155,0,1.2,ml,,,,0.54,ak,ak0237ecqi5i,2023-06-10T05:42:37.673Z,"14 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T05:38:39.538Z,63.5244,-147.6864,13,1.3,ml,,,,0.9,ak,ak0237ecq9sh,2023-06-10T05:40:34.012Z,"64 km ENE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T09:28:51.689Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
+2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T09:55:48.018Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
 2023-06-10T05:26:30.835Z,58.2596,-155.1314,1.2,0.6,ml,,,,0.18,ak,ak0237ecnoiz,2023-06-10T05:28:08.314Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
 2023-06-10T05:20:21.060Z,35.207,-118.6666667,6.05,1.05,ml,18,61,0.03008,0.18,ci,ci40482272,2023-06-10T05:23:54.062Z,"15km E of Arvin, CA",earthquake,0.42,0.74,0.338,8,automatic,ci,ci
 2023-06-10T05:13:23.397Z,-4.7947,143.4499,100.844,4.3,mb,43,112,3.556,0.57,us,us7000k7l3,2023-06-10T05:50:36.040Z,"New Guinea, Papua New Guinea",earthquake,5.68,7.827,0.098,30,reviewed,us,us
