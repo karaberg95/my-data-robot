@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-10T18:40:25.320Z,38.0511665,-118.7738342,10.22,2.28,md,22,104,0.2857,0.05,nc,nc73899616,2023-06-10T18:47:18.921Z,"27km SE of Bodie, CA",earthquake,0.37,2.79,0.18,20,automatic,nc,nc
+2023-06-10T19:01:18.116Z,39.0016,-117.5186,0,1.7,ml,9,152.09,0.455,0.332,nn,nn00861087,2023-06-10T19:04:24.698Z,"37 km ENE of Gabbs, Nevada",earthquake,,3.8,0.36,7,automatic,nn,nn
+2023-06-10T18:40:25.320Z,38.0511665,-118.7738342,10.22,2.28,md,22,104,0.2857,0.05,nc,nc73899616,2023-06-10T19:02:15.008Z,"27km SE of Bodie, CA",earthquake,0.37,2.79,0.18,20,automatic,nc,nc
 2023-06-10T18:35:14.963Z,58.6436,-155.2126,131.6,1,ml,,,,0.32,ak,ak0237ekg7m0,2023-06-10T18:36:55.899Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-06-10T18:07:43.480Z,17.9526666666667,-66.8353333333333,13.48,2.56,md,11,215,0.04737,0.12,pr,pr71412903,2023-06-10T18:17:32.670Z,"Puerto Rico region",earthquake,0.7,0.31,0.144025997070239,5,reviewed,pr,pr
 2023-06-10T18:04:51.530Z,35.2811667,-118.5631667,6.23,1.22,ml,23,71,0.1143,0.16,ci,ci40482824,2023-06-10T18:15:55.370Z,"20km NNW of Tehachapi, CA",earthquake,0.23,0.93,0.185,15,automatic,ci,ci
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T11:59:40.357Z,58.2579,-155.1454,1.2,1.1,ml,,,,0.56,ak,ak0237egfdir,2023-06-10T12:00:58.358Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-10T11:51:15.450Z,19.2065,-67.9828,40,3.59,md,16,267,0.7991,0.83,pr,pr2023161000,2023-06-10T13:07:01.360Z,"82 km NNE of Punta Cana, Dominican Republic",earthquake,4.67,25.84,0.1,14,reviewed,pr,pr
 2023-06-10T11:49:34.020Z,45.3298333333333,-110.873333333333,13.86,1.09,ml,12,72,0.3229,0.19,mb,mb90017543,2023-06-10T13:59:14.140Z,"5 km W of South Glastonbury, Montana",earthquake,0.55,1.58,0.129111939034837,8,reviewed,mb,mb
-2023-06-10T11:42:26.120Z,33.9561667,-117.7166667,12.88,2.75,ml,101,13,0.05209,0.21,ci,ci40482464,2023-06-10T18:16:00.711Z,"6km SE of Chino Hills, CA",earthquake,0.18,0.44,0.178,23,automatic,ci,ci
+2023-06-10T11:42:26.120Z,33.9561667,-117.7166667,12.88,2.75,ml,101,13,0.05209,0.21,ci,ci40482464,2023-06-10T19:02:13.750Z,"6km SE of Chino Hills, CA",earthquake,0.18,0.44,0.178,23,automatic,ci,ci
 2023-06-10T11:36:16.487Z,60.4294,-152.7602,126.9,1.6,ml,,,,0.43,ak,ak0237egae7k,2023-06-10T11:38:12.864Z,"73 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-10T11:34:37.170Z,33.5396667,-116.7885,7.85,0.44,ml,20,51,0.02897,0.2,ci,ci40482448,2023-06-10T11:38:10.411Z,"11km W of Anza, CA",earthquake,0.38,0.72,0.128,12,automatic,ci,ci
 2023-06-10T11:19:32.760Z,18.005,-66.8471666666667,2.1,2.66,md,4,186,0.1909,0.13,pr,pr71412823,2023-06-10T11:33:44.790Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.62,1.18,0.0997829934362282,5,reviewed,pr,pr
