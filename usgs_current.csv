@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-12T08:30:45.015Z,63.1064,-150.976,124.3,1.6,ml,,,,0.33,ak,ak0237hpjkad,2023-06-12T08:32:43.397Z,"Central Alaska",earthquake,,3.6,,,automatic,ak,ak
-2023-06-12T08:28:10.310Z,38.8101654,-122.8125,3.22,0.95,md,12,90,0.01309,0.02,nc,nc73900291,2023-06-12T08:29:45.313Z,"6km NW of The Geysers, CA",earthquake,0.36,0.73,0.14,12,automatic,nc,nc
+2023-06-12T08:28:10.310Z,38.8101654,-122.8125,3.22,0.95,md,12,90,0.01309,0.02,nc,nc73900291,2023-06-12T08:53:20.918Z,"6km NW of The Geysers, CA",earthquake,0.36,0.73,0.14,12,automatic,nc,nc
 2023-06-12T08:08:20.100Z,34.4613333,-117.9588333,8.87,0.87,ml,16,52,0.01268,0.14,ci,ci40483728,2023-06-12T08:11:49.912Z,"7km SW of Pearblossom, CA",earthquake,0.32,0.52,0.385,19,automatic,ci,ci
 2023-06-12T08:05:09.150Z,34.4546667,-117.9626667,11.38,0.39,ml,10,63,0.008282,0.18,ci,ci40483720,2023-06-12T08:08:41.126Z,"8km SW of Pearblossom, CA",earthquake,0.58,0.78,0.254,7,automatic,ci,ci
 2023-06-12T07:56:06.840Z,38.8354988,-122.8034973,1.82,0.72,md,9,96,0.01996,0.02,nc,nc73900281,2023-06-12T08:27:17.754Z,"7km WNW of Cobb, CA",earthquake,0.31,1.17,0.31,9,automatic,nc,nc
@@ -146,8 +146,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T09:28:01.920Z,33.9611667,-117.0155,18.71,0.9,ml,20,81,0.04916,0.23,ci,ci40483216,2023-06-11T09:31:34.567Z,"5km SE of Calimesa, CA",earthquake,0.47,0.88,0.14,14,automatic,ci,ci
 2023-06-11T09:00:44.190Z,58.1745,-155.3355,3.16,1.03,ml,4,251,,0.07,av,av91920941,2023-06-11T15:00:12.010Z,"85 km NW of Karluk, Alaska",earthquake,0.71,2.75,0.259854170595489,4,reviewed,av,av
 2023-06-11T08:58:44.870Z,53.3711666666667,-168.066,-1,-0.82,ml,6,190,,0.26,av,av91920936,2023-06-11T14:57:50.160Z,"71 km NE of Nikolski, Alaska",earthquake,0.85,1.13,0.270100749304932,7,reviewed,av,av
-2023-06-11T08:54:04.630Z,58.1761666666667,-155.362833333333,1.85,1.08,ml,5,258,,0.08,av,av91107253,2023-06-11T14:52:25.910Z,"86 km NW of Karluk, Alaska",earthquake,0.47,0.87,0.274194457555667,5,reviewed,av,av
-2023-06-11T08:53:46.660Z,58.1758333333333,-155.365666666667,3.79,1.16,ml,7,213,,0.2,av,av91920921,2023-06-11T14:49:29.300Z,"86 km NW of Karluk, Alaska",earthquake,0.65,1.28,0.255291379788647,7,reviewed,av,av
-2023-06-11T08:52:38.636Z,61.739,-150.5561,4.5,1.4,ml,,,,0.78,ak,ak0237g24x1z,2023-06-11T08:54:31.725Z,"21 km N of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-11T08:50:38.754Z,65.9052,-147.0864,0,1.2,ml,,,,0.3,ak,ak0237g24hmr,2023-06-11T08:52:16.592Z,"52 km SSE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-11T08:49:42.420Z,58.247,-155.063666666667,4.1,0.21,ml,6,160,,0.18,av,av91920901,2023-06-11T14:45:15.830Z,"83 km NNW of Karluk, Alaska",earthquake,0.5,1.07,0.225971204049805,6,reviewed,av,av
