@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T23:42:26.120Z,33.4103333,-116.347,13,1.27,ml,40,51,0.05716,0.26,ci,ci40484296,2023-06-12T23:45:59.468Z,"17km N of Borrego Springs, CA",earthquake,0.34,0.72,0.173,26,automatic,ci,ci
 2023-06-12T23:38:06.220Z,38.8206673,-122.8280029,3.22,0.57,md,6,144,0.006009,0.02,nc,nc73900496,2023-06-12T23:39:41.322Z,"8km NW of The Geysers, CA",earthquake,1.12,2.62,0.21,8,automatic,nc,nc
 2023-06-12T23:22:13.980Z,36.5008316,-121.0684967,7.1,1.34,md,9,153,0.04624,0.04,nc,nc73900486,2023-06-12T23:36:10.195Z,"8km ESE of Pinnacles, CA",earthquake,0.55,0.97,0.11,6,automatic,nc,nc
 2023-06-12T23:17:26.080Z,19.1630001068115,-155.490173339844,29.8899993896484,1.98000002,md,29,159,,0.170000002,hv,hv73449647,2023-06-12T23:20:50.100Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.30999994,0.00999999978,9,automatic,hv,hv
@@ -164,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T00:34:28.170Z,33.9628333,-116.845,20.16,0.77,ml,27,76,0.07044,0.17,ci,ci40483584,2023-06-12T13:15:49.783Z,"5km NE of Banning, CA",earthquake,0.27,0.69,0.069,4,reviewed,ci,ci
 2023-06-12T00:26:05.740Z,38.7483333,-122.698,0.87,1,md,28,88,0.005814,0.06,nc,nc73900191,2023-06-12T04:27:14.223Z,"3km S of Anderson Springs, CA",earthquake,0.25,0.25,0.163,21,reviewed,nc,nc
 2023-06-11T23:56:26.457Z,58.5812,-156.1291,176.877,2.7,ml,33,103,0.637,0.34,us,us7000k7wv,2023-06-12T21:08:12.040Z,"33 km ESE of King Salmon, Alaska",earthquake,7.31,8.461,0.055,44,reviewed,us,us
-2023-06-11T23:47:33.650Z,44.6441666666667,-114.3775,9.91,2.37,ml,19,95,0.3563,0.2,mb,mb90017668,2023-06-12T14:45:32.400Z,"19 km NW of Challis, Idaho",earthquake,0.47,0.85,0.278520659565732,33,reviewed,mb,mb
