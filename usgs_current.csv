@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T23:03:15.601Z,61.865,-149.2666,18.4,1.2,ml,,,,0.56,ak,ak0237jluk94,2023-06-13T23:05:20.296Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-13T22:59:06.680Z,32.8975,-116.9485,1.22,1.21,ml,19,150,0.08678,0.3,ci,ci40485112,2023-06-13T23:02:37.955Z,"5km NNW of Lakeside, CA",earthquake,0.73,1.12,0.065,6,automatic,ci,ci
 2023-06-13T22:52:47.010Z,33.3428333,-116.3343333,10.11,1.41,ml,56,28,0.02843,0.18,ci,ci40485104,2023-06-13T23:04:20.460Z,"10km NNE of Borrego Springs, CA",earthquake,0.21,0.42,0.18,27,automatic,ci,ci
-2023-06-13T22:51:45.200Z,40.3428345,-124.2545013,13.4,1.99,md,8,296,0.07238,0.13,nc,nc73900836,2023-06-13T23:01:10.160Z,"3km NE of Petrolia, CA",earthquake,9.56,4.76,0.12,5,automatic,nc,nc
+2023-06-13T22:51:45.200Z,40.3428345,-124.2545013,13.4,1.99,md,8,296,0.07238,0.13,nc,nc73900836,2023-06-13T23:45:15.269Z,"3km NE of Petrolia, CA",earthquake,9.56,4.76,0.12,5,automatic,nc,nc
 2023-06-13T22:48:40.980Z,33.3635,-116.318,9.75,0.82,ml,19,50,0.00712,0.21,ci,ci40485088,2023-06-13T22:52:10.283Z,"13km NNE of Borrego Springs, CA",earthquake,0.51,0.77,0.103,12,automatic,ci,ci
 2023-06-13T22:45:43.940Z,36.5239983,-121.1476669,3.97,3.48,ml,59,61,,0.29,nc,nc73900831,2023-06-13T23:34:16.211Z,"1km SSW of Pinnacles, CA",earthquake,0.4,1.67,0.28,34,reviewed,nc,nc
 2023-06-13T22:42:16.430Z,19.263500213623,-155.372497558594,28.7299995422363,2.1099999,md,42,135,,0.129999995,hv,hv73450377,2023-06-13T22:46:18.850Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.71000004,22,automatic,hv,hv
@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T00:06:14.900Z,35.13383333,-97.7375,7.67,1.22,ml,30,44,0.08458340185,0.28,ok,ok2023llve,2023-06-13T20:53:25.297Z,"7 km W of Blanchard, Oklahoma",earthquake,,0.6,0.18,4,reviewed,ok,ok
 2023-06-13T00:01:31.360Z,38.7808342,-122.7568359,1.39,0.76,md,10,101,0.01227,0.02,nc,nc73900511,2023-06-13T00:49:14.496Z,"0km N of The Geysers, CA",earthquake,0.37,0.77,0.11,10,automatic,nc,nc
 2023-06-12T23:58:38.929Z,36.54283333,-98.957,6.68,1.01,ml,23,107,0.05039011174,0.11,ok,ok2023lluy,2023-06-13T20:13:06.549Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.25,4,reviewed,ok,ok
-2023-06-12T23:42:26.040Z,33.4081667,-116.3481667,12.75,1.32,ml,51,40,0.05592,0.2,ci,ci40484296,2023-06-13T16:01:05.529Z,"17km N of Borrego Springs, CA",earthquake,0.19,0.4,0.209,28,reviewed,ci,ci
