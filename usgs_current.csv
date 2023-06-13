@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T07:55:49.771Z,59.3062,-152.58,69.9,1.6,ml,,,,0.25,ak,ak0237jcmug1,2023-06-13T07:57:36.660Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-13T07:54:07.240Z,38.8423347,-122.8733368,2.18,1.54,md,28,81,0.00436,0.06,nc,nc73900611,2023-06-13T10:12:12.854Z,"12km NW of The Geysers, CA",earthquake,0.24,0.4,0.09,28,automatic,nc,nc
 2023-06-13T07:53:39.226Z,59.4842,-155.9169,7.8,1.4,ml,,,,0.67,ak,ak0237jcme76,2023-06-13T07:56:11.200Z,"17 km N of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-13T07:51:24.340Z,32.7373333,-115.3978333,7.07,1.09,ml,10,135,0.07936,0.31,ci,ci37548772,2023-06-13T17:29:21.110Z,"8km SSW of Holtville, CA",earthquake,0.93,2.26,0.256,6,reviewed,ci,ci
 2023-06-13T07:50:58.370Z,32.746,-115.4116667,10.85,1.55,ml,20,90,0.06614,0.21,ci,ci40484448,2023-06-13T17:23:42.429Z,"8km SSW of Holtville, CA",earthquake,0.29,0.61,0.198,16,reviewed,ci,ci
 2023-06-13T07:47:59.808Z,57.8611,-155.4651,19.5,1.4,ml,,,,0.4,ak,ak0237jcl5ho,2023-06-13T07:49:45.537Z,"68 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-13T07:45:57.429Z,24.1275,142.9676,28.24,4.6,mb,38,120,12.312,1.09,us,us7000k853,2023-06-13T11:44:19.040Z,"Volcano Islands, Japan region",earthquake,13.08,5.675,0.078,49,reviewed,us,us
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T17:45:18.758Z,61.858,-151.0877,69.3,1.5,ml,,,,0.31,ak,ak0237huzmgv,2023-06-12T17:47:42.209Z,"21 km SE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-12T17:43:36.360Z,33.3481667,-116.3531667,7.49,1.13,ml,41,50,0.02437,0.19,ci,ci40484112,2023-06-13T14:55:37.190Z,"10km N of Borrego Springs, CA",earthquake,0.22,0.41,0.155,23,reviewed,ci,ci
 2023-06-12T17:38:49.640Z,17.9725,-67.0518333333333,8.47,2.48,md,12,213,0.06449,0.13,pr,pr71413133,2023-06-12T17:47:25.560Z,"0 km WSW of La Parguera, Puerto Rico",earthquake,0.39,0.91,0.09856388212267,5,reviewed,pr,pr
-2023-06-12T17:28:35.120Z,38.7915001,-122.7593307,2.26,1.25,md,16,80,0.0195,0.03,nc,nc73900371,2023-06-12T19:18:16.584Z,"2km N of The Geysers, CA",earthquake,0.28,0.61,0.2,15,automatic,nc,nc
