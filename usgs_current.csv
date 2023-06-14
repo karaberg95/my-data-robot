@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T07:48:54.870Z,38.4885,-112.8355,-0.47,0.88,ml,9,214,0.0154,0.08,uu,uu60542166,2023-06-14T13:35:46.060Z,"Utah",earthquake,0.36,0.12,0.182,2,reviewed,uu,uu
 2023-06-14T07:45:56.350Z,44.8518333333333,-112.881833333333,4.42,0.6,ml,7,140,0.03371,0.06,mb,mb90018243,2023-06-14T13:48:38.360Z,"Idaho-Montana border region",earthquake,0.75,0.47,0.162817635980544,8,reviewed,mb,mb
 2023-06-14T07:42:31.770Z,61.4877,-146.3936,29.8,1.1,ml,,,,0.63,ak,ak0237l03d8p,2023-06-14T07:43:57.250Z,"39 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T07:28:15.590Z,36.5418333,-121.1368333,2.97,1.5,md,27,113,0.01217,0.11,nc,nc73900996,2023-06-14T19:44:07.340Z,"1km NNE of Pinnacles, CA",earthquake,0.18,0.2,0.176,23,reviewed,nc,nc
+2023-06-14T07:28:15.590Z,36.5418333,-121.1368333,2.97,1.5,md,27,113,0.01217,0.11,nc,nc73900996,2023-06-14T19:45:37.681Z,"1km NNE of Pinnacles, CA",earthquake,0.18,0.2,0.176,23,reviewed,nc,nc
 2023-06-14T07:24:26.740Z,46.9721666666667,-114.189333333333,12.11,0.66,ml,14,104,0.119,0.12,mb,mb90018238,2023-06-14T13:40:56.840Z,"Idaho-Montana border region",earthquake,0.4,1.27,0.284675694744851,4,reviewed,mb,mb
 2023-06-14T07:22:00.270Z,39.2031667,-123.1718333,1.55,1.25,md,12,82,0.1005,0.09,nc,nc73900991,2023-06-14T10:16:15.019Z,"7km NNE of Ukiah, CA",earthquake,0.29,1.33,0.149,11,reviewed,nc,nc
 2023-06-14T07:19:45.163Z,57.9099,-154.3634,48.4,1.9,ml,,,,0.2,ak,ak0237kzygt0,2023-06-14T07:21:19.596Z,"38 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T19:59:52.840Z,37.6093333,-122.462,7.11,0.64,md,8,152,0.03924,0.06,nc,nc73900771,2023-06-14T06:18:14.749Z,"2km ESE of Pacifica, CA",earthquake,0.34,0.88,0.203,5,reviewed,nc,nc
 2023-06-13T19:54:26.610Z,33.9251667,-117.1278333,15.23,1.12,ml,40,36,0.09037,0.23,ci,ci40484944,2023-06-13T20:30:49.930Z,"9km E of Moreno Valley, CA",earthquake,0.3,0.6,0.18,26,reviewed,ci,ci
 2023-06-13T19:53:39.410Z,38.8370018,-122.7779999,1.36,0.59,md,6,93,0.00573,0.01,nc,nc73900766,2023-06-13T20:12:14.896Z,"5km WNW of Cobb, CA",earthquake,0.78,0.94,0.13,8,automatic,nc,nc
-2023-06-13T19:51:52.211Z,-22.2997,-68.8288,132.481,4.2,mb,19,68,0.631,0.77,us,us7000k89a,2023-06-13T21:03:07.040Z,"19 km NNE of Calama, Chile",earthquake,5.86,6.179,0.263,5,reviewed,us,us
