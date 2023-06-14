@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T04:42:26.082Z,61.5659,-146.4869,27,1.5,ml,,,,0.57,ak,ak0237kyb1zk,2023-06-14T04:44:14.357Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T04:37:16.340Z,35.991,-121.4768333,12.19,1.5,md,37,172,0.1111,0.13,nc,nc73900946,2023-06-14T11:03:17.292Z,"9km ESE of Lopez Point, CA",earthquake,0.29,0.35,0.165,29,reviewed,nc,nc
 2023-06-14T04:31:42.710Z,18.7875,-64.8543,33,3.82,md,21,268,0.4469,0.27,pr,pr2023165005,2023-06-14T05:00:11.345Z,"49 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.34,3.77,0.08,15,reviewed,pr,pr
-2023-06-14T04:21:30.860Z,36.9804993,-121.6464996,3.89,2.55,md,54,41,0.05103,0.19,nc,nc73900941,2023-06-14T16:06:39.996Z,"8km WSW of Gilroy, CA",earthquake,0.26,0.6,0.08,60,automatic,nc,nc
+2023-06-14T04:21:30.830Z,36.9818333,-121.6421667,3.92,2.57,md,84,39,0.05324,0.16,nc,nc73900941,2023-06-14T21:44:11.109Z,"7km WSW of Gilroy, CA",earthquake,0.13,0.31,0.145,116,reviewed,nc,nc
 2023-06-14T04:08:56.520Z,40.233,-121.1705,5.27,2.44,md,19,77,0.02418,0.09,nc,nc73900936,2023-06-14T13:46:15.270Z,"2km NNE of Almanor, CA",earthquake,0.29,0.2,0.185,27,reviewed,nc,nc
 2023-06-14T04:08:49.050Z,38.8183327,-122.8273315,2.6,0.63,md,10,109,0.00768,0.02,nc,nc73900931,2023-06-14T04:24:14.069Z,"8km NW of The Geysers, CA",earthquake,0.62,1.25,0.16,12,automatic,nc,nc
 2023-06-14T04:08:33.740Z,40.2301667,-121.1708333,5.96,2.19,md,19,75,0.02619,0.1,nc,nc73900926,2023-06-14T13:31:16.177Z,"2km NNE of Almanor, CA",earthquake,0.39,0.3,0.241,27,reviewed,nc,nc
@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T22:11:04.870Z,44.8528333,-110.3575,5.37,0.86,md,8,138,0.1781,0.13,uu,uu60542146,2023-06-13T22:45:08.880Z,"30 km ESE of Mammoth, Wyoming",earthquake,0.66,9.63,0.36,5,reviewed,uu,uu
 2023-06-13T21:59:30.170Z,41.6521667,-122.2248333,0.2,2.03,md,26,46,0.02411,0.11,nc,nc73900811,2023-06-14T06:28:14.772Z,"24km SW of Mount Hebron, CA",earthquake,0.23,0.4,0.327,24,reviewed,nc,nc
 2023-06-13T21:54:52.550Z,18.2933333333333,-66.457,47.15,2.69,md,13,94,0.09292,0.15,pr,pr71413293,2023-06-13T22:09:25.820Z,"Puerto Rico",earthquake,0.59,0.75,0.0516652006836236,6,reviewed,pr,pr
-2023-06-13T21:46:17.030Z,44.7945,-110.9988333,6.26,0.79,md,11,159,0.03555,0.16,uu,uu60542141,2023-06-13T22:41:30.370Z,"15 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.84,0.254,8,reviewed,uu,uu
-2023-06-13T21:43:53.331Z,-23.1887,-179.8691,526.808,4.8,mb,69,62,4.768,0.8,us,us7000k89j,2023-06-13T21:59:41.040Z,"south of the Fiji Islands",earthquake,10.12,8.093,0.059,89,reviewed,us,us
