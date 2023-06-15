@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T15:28:06.508Z,59.375,-152.9364,94,1.9,ml,,,,0.17,ak,ak0237msb4lm,2023-06-15T15:29:30.073Z,"57 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-15T15:05:03.102Z,59.8932,-151.8704,91,1.9,ml,,,,0.37,ak,ak0237ms66va,2023-06-15T15:07:06.532Z,"9 km SW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-15T15:01:59.859Z,64.9347,-147.3001,0,1.7,ml,,,,0.97,ak,ak0237ms5gcw,2023-06-15T15:04:36.562Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-15T14:35:56.240Z,35.754,-117.5855,10.16,0.77,ml,12,123,0.1477,0.15,ci,ci40486632,2023-06-15T14:39:26.892Z,"16km W of Searles Valley, CA",earthquake,0.55,1.38,0.064,7,automatic,ci,ci
@@ -151,7 +152,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T15:45:22.075Z,58.1931,-155.3078,2.4,0.4,ml,,,,0.45,ak,ak0237l4vghb,2023-06-14T15:46:58.575Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-06-14T15:40:20.270Z,58.1775,-155.3169,10.5,0.9,ml,,,,0.29,ak,ak0237l4udrf,2023-06-14T15:41:56.744Z,"84 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-14T15:40:14.260Z,38.8320007,-122.815834,1.96,1.09,md,19,52,0.0097,0.05,nc,nc73901106,2023-06-14T15:59:26.010Z,"8km NW of The Geysers, CA",earthquake,0.24,0.47,0.19,21,automatic,nc,nc
-2023-06-14T15:33:16.330Z,38.117,-112.817,4.27,0.91,md,12,120,0.1429,0.1,uu,uu60542171,2023-06-14T15:41:28.490Z,"14 km SE of Minersville, Utah",earthquake,0.6,5.46,0.326,6,reviewed,uu,uu
-2023-06-14T15:31:51.053Z,61.2594,-149.9714,40.7,2.8,ml,,,,0.67,ak,ak0237l4simt,2023-06-15T07:22:35.691Z,"5 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-06-14T15:30:44.664Z,61.0897,-148.727,25.8,1.2,ml,,,,0.53,ak,ak0237l4sahe,2023-06-14T15:32:14.276Z,"28 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T15:30:30.180Z,35.209,-118.6793333,7.57,0.79,ml,8,144,0.02334,0.11,ci,ci40485672,2023-06-14T22:42:08.407Z,"14km E of Arvin, CA",earthquake,0.44,0.65,0.195,2,reviewed,ci,ci
