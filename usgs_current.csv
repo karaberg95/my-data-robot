@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T15:40:08.320Z,33.705,-116.8251667,15.27,0.94,ml,28,99,0.07715,0.22,ci,ci40487216,2023-06-16T15:43:46.423Z,"8km SE of Valle Vista, CA",earthquake,0.5,0.71,0.201,20,automatic,ci,ci
+2023-06-16T15:38:17.200Z,38.8188324,-122.8219986,2.23,0.72,md,10,107,0.01037,0.02,nc,nc73901756,2023-06-16T15:39:52.469Z,"7km NW of The Geysers, CA",earthquake,0.38,1.11,0.23,11,automatic,nc,nc
 2023-06-16T15:30:54.414Z,61.0808,-152.3911,112.4,1.6,ml,,,,0.78,ak,ak0237ofv081,2023-06-16T15:33:25.147Z,"67 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-16T15:15:39.240Z,35.5966667,-117.422,24.29,1.11,ml,9,132,0.08554,0.23,ci,ci40487208,2023-06-16T15:19:11.872Z,"19km SSW of Trona, CA",earthquake,0.77,0.97,0.128,8,automatic,ci,ci
 2023-06-16T14:51:12.765Z,61.8147,-154.1284,5.7,1.2,ml,,,,0.61,ak,ak0237ofdzfq,2023-06-16T14:53:44.763Z,"86 km NE of Lime Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-16T14:43:33.800Z,38.8348351,-122.8174973,1.06,1.02,md,13,62,0.01281,0.05,nc,nc73901751,2023-06-16T14:45:07.911Z,"8km W of Cobb, CA",earthquake,0.27,0.63,0.09,16,automatic,nc,nc
+2023-06-16T14:43:33.800Z,38.8348351,-122.8174973,1.06,1.02,md,13,62,0.01281,0.05,nc,nc73901751,2023-06-16T15:43:14.301Z,"8km W of Cobb, CA",earthquake,0.27,0.63,0.09,16,automatic,nc,nc
 2023-06-16T14:36:40.720Z,36.5309,-115.4522,11.4,1,ml,15,183.2,0.239,0.2522,nn,nn00861288,2023-06-16T14:39:08.132Z,"20 km ESE of Indian Springs, Nevada",earthquake,,1.1,0.16,12,automatic,nn,nn
 2023-06-16T14:35:48.020Z,38.8163338,-122.8193359,2.78,1.28,md,26,50,0.0101,0.03,nc,nc73901741,2023-06-16T15:33:10.252Z,"7km NW of The Geysers, CA",earthquake,0.21,0.43,0.23,23,automatic,nc,nc
 2023-06-16T14:34:43.060Z,36.6119995,-120.6943359,-0.33,1.77,md,9,144,0.2588,0.22,nc,nc73901731,2023-06-16T15:10:14.108Z,"22km N of New Idria, CA",earthquake,1.19,13.18,0.08,5,automatic,nc,nc
@@ -174,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T17:52:48.820Z,38.8206673,-122.8221664,1.91,0.26,md,6,84,0.009831,0.02,nc,nc73901441,2023-06-15T17:54:21.987Z,"8km NW of The Geysers, CA",earthquake,0.46,1.74,0.11,8,automatic,nc,nc
 2023-06-15T17:40:19.670Z,38.7953339,-122.7693329,3.83,0.72,md,12,89,0.01468,0.02,nc,nc73901436,2023-06-15T18:38:13.608Z,"2km NNW of The Geysers, CA",earthquake,0.46,0.9,0.37,11,automatic,nc,nc
 2023-06-15T17:35:19.790Z,58.24,-155.144333333333,3.96,-0.04,ml,5,256,,0.12,av,av91926691,2023-06-15T18:13:48.940Z,"85 km NNW of Karluk, Alaska",earthquake,0.91,0.69,0.140021488485421,5,reviewed,av,av
-2023-06-15T17:35:14.940Z,40.4845,-124.532,17.03,2.58,md,30,265,0.1486,0.14,nc,nc73901431,2023-06-16T00:52:12.804Z,"25km WSW of Ferndale, CA",earthquake,0.79,0.36,0.173,37,reviewed,nc,nc
+2023-06-15T17:35:14.940Z,40.4845,-124.532,17.03,2.58,md,30,265,0.1486,0.14,nc,nc73901431,2023-06-16T15:38:37.040Z,"25km WSW of Ferndale, CA",earthquake,0.79,0.36,0.173,37,reviewed,nc,nc
 2023-06-15T17:32:17.070Z,38.8188324,-122.8193359,2.45,0.34,md,6,173,0.00855,0,nc,nc73901426,2023-06-15T18:25:13.522Z,"7km NW of The Geysers, CA",earthquake,0.62,0.93,0.16,7,automatic,nc,nc
 2023-06-15T17:22:39.130Z,47.241,-113.191666666667,14.08,2.56,ml,25,77,0.1642,0.15,mb,mb90018383,2023-06-15T20:09:31.360Z,"23 km ENE of Seeley Lake, Montana",earthquake,0.31,0.52,0.301447758589351,26,reviewed,mb,mb
 2023-06-15T17:20:52.086Z,28.3514,52.3417,15.624,4.2,mb,50,156,4.843,0.87,us,us7000k8q0,2023-06-15T18:08:33.040Z,"58 km SSW of Fīrūzābād, Iran",earthquake,7.34,5.616,0.087,37,reviewed,us,us
@@ -196,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T16:12:05.598Z,61.5722,-141.1707,6.7,1.4,ml,,,,0.24,ak,ak0237mst4of,2023-06-15T16:14:26.218Z,"94 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-15T15:59:37.700Z,35.281,-120.5563333,10.35,1.51,md,28,57,0.09227,0.06,nc,nc73901381,2023-06-16T00:22:15.751Z,"9km E of San Luis Obispo, CA",earthquake,0.18,0.41,0.212,20,reviewed,nc,nc
 2023-06-15T15:52:05.570Z,36.0711667,-120.5443333,5.03,0.78,md,16,156,0.04207,0.07,nc,nc73901371,2023-06-15T20:10:05.784Z,"18km WSW of Coalinga, CA",earthquake,0.29,0.69,0.169,6,reviewed,nc,nc
-2023-06-15T15:40:13.300Z,12.8358,47.998,10,4.9,mb,112,72,5.201,0.87,us,us7000k8nx,2023-06-15T16:01:52.040Z,"186 km N of Las Khorey, Somalia",earthquake,10.57,1.869,0.057,98,reviewed,us,us
-2023-06-15T15:36:29.260Z,34.0111667,-117.212,11.74,0.77,ml,17,128,0.07149,0.17,ci,ci40486656,2023-06-15T19:15:26.639Z,"6km SSW of Redlands, CA",earthquake,0.4,0.85,0.098,10,reviewed,ci,ci
