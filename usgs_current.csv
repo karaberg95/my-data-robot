@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T11:14:10.547Z,-6.6081,129.7419,165.868,4.4,mb,25,90,2.078,0.74,us,us7000k8wg,2023-06-16T11:31:46.040Z,"Banda Sea",earthquake,9.77,9.708,0.149,14,reviewed,us,us
 2023-06-16T11:10:07.309Z,62.2358,-151.1074,67.2,1.6,ml,,,,1.07,ak,ak0237odcvui,2023-06-16T11:12:16.869Z,"31 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-16T10:53:24.875Z,62.5042,-148.8291,18,2.8,ml,,,,0.74,ak,ak0237od0phc,2023-06-16T10:55:10.095Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-16T10:48:55.700Z,38.8163338,-122.824501,1.89,1.08,md,15,57,0.008302,0.07,nc,nc73901701,2023-06-16T11:09:15.670Z,"7km NW of The Geysers, CA",earthquake,0.3,0.59,0.15,16,automatic,nc,nc
@@ -179,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T11:45:30.150Z,36.5843333,-121.1913333,7.42,1.17,md,21,137,0.01348,0.09,nc,nc73901326,2023-06-15T19:53:18.076Z,"7km NW of Pinnacles, CA",earthquake,0.32,0.46,0.206,16,reviewed,nc,nc
 2023-06-15T11:43:41.220Z,36.5456667,-121.1296667,4.38,1.95,md,35,81,0.01863,0.12,nc,nc73901321,2023-06-15T19:32:15.947Z,"2km NE of Pinnacles, CA",earthquake,0.26,0.48,0.171,37,reviewed,nc,nc
 2023-06-15T11:37:12.292Z,61.695,-150.163,1.8,2.2,ml,,,,0.57,ak,ak0237mpzc0u,2023-06-15T14:09:28.540Z,"8 km SW of Willow, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-06-15T11:31:37.350Z,38.969,-123.2598333,5.41,1.49,md,19,63,0.0598,0.08,nc,nc73901316,2023-06-15T20:41:19.472Z,"10km ESE of Boonville, CA",earthquake,0.19,0.52,0.162,21,reviewed,nc,nc
-2023-06-15T11:28:57.557Z,61.6368,-150.17,11,1.6,ml,,,,0.4,ak,ak0237mpxi4b,2023-06-15T11:30:21.559Z,"14 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-15T11:25:32.598Z,58.8933,-152.4242,55.1,2,ml,,,,0.53,ak,ak0237mpwt1n,2023-06-15T11:27:49.594Z,"59 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
