@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-17T14:28:51.833Z,59.7543,-152.1486,63.7,3.2,ml,,,,0.33,ak,ak0237q2shdo,2023-06-17T14:37:33.040Z,"17 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-17T14:24:06.240Z,37.5574989,-118.9271698,11.25,1.49,md,12,148,0.07982,0.04,nc,nc73902101,2023-06-17T14:34:10.459Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.79,1.13,0.14,10,automatic,nc,nc
-2023-06-17T14:19:58.840Z,38.8173332,-122.8799973,16.38,0.97,md,10,214,0.02103,0.12,nc,nc73902091,2023-06-17T14:21:33.007Z,"12km WNW of The Geysers, CA",earthquake,2.54,11.86,0.23,8,automatic,nc,nc
+2023-06-17T14:19:58.840Z,38.8173332,-122.8799973,16.38,0.97,md,10,214,0.02103,0.12,nc,nc73902091,2023-06-17T14:44:13.522Z,"12km WNW of The Geysers, CA",earthquake,2.54,11.86,0.23,8,automatic,nc,nc
+2023-06-17T14:18:23.900Z,17.961,-66.864,15.34,2.59,md,20,192,0.02016,0.13,pr,pr71413758,2023-06-17T14:45:21.010Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.45,0.28,0.0977103542431501,9,reviewed,pr,pr
 2023-06-17T14:17:52.920Z,35.7965,-117.6266667,11.05,0.69,ml,12,155,0.113,0.19,ci,ci40487720,2023-06-17T14:22:38.251Z,"20km NNE of Ridgecrest, CA",earthquake,0.58,1.09,0.112,5,automatic,ci,ci
 2023-06-17T14:17:44.991Z,61.5515,-146.4868,22.6,2.2,ml,,,,0.57,ak,ak0237q2q42r,2023-06-17T14:19:29.388Z,"47 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-17T14:10:43.440Z,18.7980003356934,-155.264007568359,7.61999988555908,2.03999996,md,23,270,,0.140000001,hv,hv73453712,2023-06-17T14:13:53.320Z,"44 km SE of Naalehu, Hawaii",earthquake,1.7,1.23000002,1.00999999,3,automatic,hv,hv
@@ -202,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T14:51:17.900Z,58.1681666666667,-155.296666666667,2.61,0.4,ml,7,245,,0.07,av,av91927421,2023-06-16T20:43:28.920Z,"83 km NW of Karluk, Alaska",earthquake,0.53,0.44,0.411408356819327,7,reviewed,av,av
 2023-06-16T14:51:12.765Z,61.8147,-154.1284,5.7,1.2,ml,,,,0.61,ak,ak0237ofdzfq,2023-06-16T14:53:44.763Z,"86 km NE of Lime Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-16T14:50:14.410Z,45.7973333333333,-112.137166666667,4.96,0.24,ml,6,158,0.1192,0,mb,mb90018533,2023-06-16T17:15:59.880Z,"8 km SSW of Whitehall, Montana",earthquake,0.67,5.04,0.0379576853408918,2,reviewed,mb,mb
-2023-06-16T14:43:33.800Z,38.8348351,-122.8174973,1.06,1.02,md,13,62,0.01281,0.05,nc,nc73901751,2023-06-16T17:10:15.838Z,"8km W of Cobb, CA",earthquake,0.27,0.63,0.09,16,automatic,nc,nc
-2023-06-16T14:39:12.587Z,31.68869516,-104.297846,7.725463867,2.3,ml,32,64,0.03289276756,0.3,tx,tx2023lsko,2023-06-16T20:02:46.494Z,"54 km S of Whites City, New Mexico",earthquake,0.835613866,0.7700377161,0.1,17,reviewed,tx,tx
