@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T18:33:50.642Z,63.2453,-152.7461,9.6,1.2,ml,,,,0.84,ak,ak0237rsqmvq,2023-06-18T18:37:21.948Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T18:31:59.990Z,18.0833333333333,-66.9823333333333,13.47,2.57,md,5,161,0.1432,0.08,pr,pr71413918,2023-06-18T18:40:26.880Z,"2 km WNW of Sabana Grande, Puerto Rico",earthquake,1.17,1.55,0.0591360781098258,3,reviewed,pr,pr
 2023-06-18T18:28:12.687Z,59.2362,-150.9153,250,2.4,ml,,,,1.11,ak,ak0237rsphdg,2023-06-18T18:30:40.020Z,"43 km SSE of Halibut Cove, Alaska",earthquake,,14.3,,,automatic,ak,ak
-2023-06-18T18:20:10.310Z,38.7891655,-122.767334,2.02,0.75,md,11,76,0.0129,0.03,nc,nc73902576,2023-06-18T18:38:13.408Z,"2km NW of The Geysers, CA",earthquake,0.33,0.59,0.08,12,automatic,nc,nc
+2023-06-18T18:20:10.310Z,38.7891655,-122.767334,2.02,0.75,md,11,76,0.0129,0.03,nc,nc73902576,2023-06-18T19:17:19.629Z,"2km NW of The Geysers, CA",earthquake,0.33,0.59,0.08,12,automatic,nc,nc
 2023-06-18T17:57:44.328Z,-7.5301,127.6668,143.917,4.4,mb,45,56,3.726,0.42,us,us7000k9eg,2023-06-18T18:23:42.040Z,"132 km NE of Lospalos, Timor Leste",earthquake,7.96,8.629,0.102,28,reviewed,us,us
 2023-06-18T17:51:02.103Z,62.9174,-148.3716,13,1,ml,,,,0.97,ak,ak0237rs8yf6,2023-06-18T17:53:06.927Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T17:35:24.283Z,58.2391,-155.138,35,2,ml,,,,0.15,ak,ak0237rs5ixr,2023-06-18T17:37:26.674Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T20:54:39.160Z,32.954,-115.5495,8.36,1.44,ml,29,74,0.05323,0.28,ci,ci40487880,2023-06-18T17:20:25.471Z,"3km SSW of Brawley, CA",earthquake,0.31,0.95,0.137,17,reviewed,ci,ci
 2023-06-17T20:46:48.512Z,35.7887,79.9086,10,4.4,mb,25,128,5.431,1.13,us,us7000k990,2023-06-17T21:39:56.040Z,"Kashmir-Xinjiang border region",earthquake,4.4,1.927,0.131,17,reviewed,us,us
 2023-06-17T19:38:22.440Z,38.4091682,-122.2129974,5.84,1.34,md,9,84,0.03278,0.38,nc,nc73902201,2023-06-17T22:19:15.441Z,"13km E of Yountville, CA",earthquake,1.22,2.53,0.14,7,automatic,nc,nc
-2023-06-17T19:11:41.090Z,52.0023333333333,178.332833333333,4.22,1.24,ml,4,350,,0.24,av,av91928801,2023-06-18T11:58:04.410Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.4,6.78,0.193717955189809,4,reviewed,av,av
