@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T07:11:15.620Z,35.6793333,-117.5125,10.9,0.74,ml,12,139,0.07367,0.2,ci,ci40487624,2023-06-17T07:14:44.737Z,"14km SW of Searles Valley, CA",earthquake,0.74,1.18,0.207,4,automatic,ci,ci
 2023-06-17T07:03:48.041Z,58.736,-153.9609,17.2,1.6,ml,,,,0.11,ak,ak0237pyh31w,2023-06-18T02:43:26.550Z,"91 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-17T07:02:12.038Z,60.8735,-151.4091,51.1,1.9,ml,,,,0.64,ak,ak0237pygsk3,2023-06-17T07:04:25.911Z,"21 km NNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-17T06:57:00.531Z,61.5915,-146.3773,20,2,ml,,,,0.61,ak,ak0237py74g5,2023-06-17T06:59:12.892Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.5,,,automatic,ak,ak
