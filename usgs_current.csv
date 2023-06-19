@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-19T06:33:28.100Z,34.2213326,-117.4318314,13.58,1.18,ml,31,61,0.05009,0.22,ci,ci40488560,2023-06-19T06:35:33.630Z,"3km W of Devore, CA",earthquake,0.44,0.73,0.254,7,automatic,ci,ci
+2023-06-19T06:33:28.120Z,34.2231667,-117.4206667,13.65,1.01,ml,26,58,0.04762,0.22,ci,ci40488560,2023-06-19T06:37:16.748Z,"2km W of Devore, CA",earthquake,0.43,0.67,0.164,26,automatic,ci,ci
 2023-06-19T06:31:09.570Z,19.2626667022705,-155.369659423828,31.6000003814697,2.25,ml,48,148,,0.129999995,hv,hv73455162,2023-06-19T06:36:46.020Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.58,0.709999979,0.67,7,automatic,hv,hv
 2023-06-19T06:20:11.867Z,37.6509,-115.1589,3.8,1.9,ml,17,228.43,0.259,0.3612,nn,nn00861386,2023-06-19T06:22:40.973Z,"8 km NE of Hiko, Nevada",earthquake,,2.4,0.75,11,automatic,nn,nn
 2023-06-19T06:07:18.408Z,64.9407,-150.8892,15.6,0.9,ml,,,,0.56,ak,ak0237t8z50g,2023-06-19T06:09:13.802Z,"13 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
