@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-19T09:32:43.334Z,58.0992,-155.1397,91.4,0.6,ml,,,,1.55,ak,ak0237tawunh,2023-06-19T09:34:37.938Z,"71 km NW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-19T09:21:20.536Z,61.5059,-149.8812,31.4,2,ml,,,,0.55,ak,ak0237taug0l,2023-06-19T09:23:05.795Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-19T09:13:46.214Z,63.2819,-150.4655,107.8,1.4,ml,,,,0.41,ak,ak0237tass9y,2023-06-19T09:16:54.922Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-19T08:55:11.300Z,23.1208,-108.4155,10,5.2,mww,111,145,1.513,0.66,us,us7000k9ja,2023-06-19T09:28:07.442Z,"128 km E of La Playa, Mexico",earthquake,6.17,1.813,0.078,16,reviewed,us,us
@@ -178,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T09:54:51.985Z,16.0901,-95.8448,35.496,4.4,mb,50,190,2.99,0.55,us,us7000k9cd,2023-06-18T13:45:33.427Z,"4 km S of Santa María Zapotitlán, Mexico",earthquake,10.74,13.528,0.042,160,reviewed,us,us
 2023-06-18T09:49:14.210Z,37.4461667,-118.6793333,3.52,1.46,md,15,150,0.1363,0.08,nc,nc73902451,2023-06-19T07:01:18.648Z,"8km WNW of Round Valley, CA",earthquake,0.47,2.53,0.274,14,reviewed,nc,nc
 2023-06-18T09:46:54.634Z,34.4987,143.0695,10,4.4,mb,36,146,3.042,0.41,us,us7000k9cc,2023-06-18T10:03:20.040Z,"245 km SE of Hasaki, Japan",earthquake,6.25,1.9,0.092,34,reviewed,us,us
-2023-06-18T09:32:07.730Z,33.68,-116.7433333,14.21,0.44,ml,17,101,0.03947,0.12,ci,ci40488088,2023-06-18T13:23:44.407Z,"7km SSW of Idyllwild, CA",earthquake,0.32,0.47,0.107,10,reviewed,ci,ci
-2023-06-18T09:30:57.958Z,62.3025,-150.9993,70.9,1.4,ml,,,,0.5,ak,ak0237rnd3ur,2023-06-18T09:33:11.428Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
