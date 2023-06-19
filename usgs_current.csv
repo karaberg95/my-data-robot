@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T14:42:57.190Z,34.2676667,-117.0158333,-0.27,1.73,ml,42,22,0.07893,0.24,ci,ci40488880,2023-06-19T15:16:47.514Z,"10km WNW of Big Bear Lake, CA",earthquake,0.26,31.61,0.167,27,reviewed,ci,ci
 2023-06-19T14:41:11.740Z,18.0595,-66.8501666666667,12.63,1.93,md,4,188,0.08843,0.21,pr,pr71414003,2023-06-19T14:59:01.820Z,"2 km N of Yauco, Puerto Rico",earthquake,5.38,5.6,0.220809257001785,3,reviewed,pr,pr
 2023-06-19T14:19:28.750Z,17.9551666666667,-66.8398333333333,11.15,2.35,md,7,207,0.04242,0.13,pr,pr71414013,2023-06-19T15:03:29.660Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.52,0.7,0.029567709068135,4,reviewed,pr,pr
-2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T15:26:32.397Z,"Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
+2023-06-19T14:18:56.000Z,37.3017,-104.4473,4.887,4.3,mb,56,39,0.165,0.85,us,us7000k9kq,2023-06-19T15:44:49.908Z,"Colorado",earthquake,2.39,3.734,0.113,22,reviewed,us,us
 2023-06-19T14:18:09.394Z,46.2139,153.1857,10,4.8,mb,50,93,7.223,0.94,us,us7000k9ks,2023-06-19T14:47:33.040Z,"Kuril Islands",earthquake,9.62,1.892,0.053,109,reviewed,us,us
 2023-06-19T14:16:33.340Z,34.0533333,-116.8288333,22.82,0.99,ml,24,77,0.09749,0.28,ci,ci40488856,2023-06-19T14:20:09.680Z,"15km NNE of Banning, CA",earthquake,0.55,1.24,0.227,25,automatic,ci,ci
 2023-06-19T14:13:06.875Z,37.3002,-104.4766,4.75,3.8,ml,23,65,0.169,1.11,us,us7000k9kp,2023-06-19T15:14:50.472Z,"8 km N of El Moro, Colorado",earthquake,4.04,5.504,0.044,68,reviewed,us,us
@@ -52,7 +52,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T08:34:51.310Z,37.9393349,-118.5963364,2.73,2.09,md,10,152,0.2744,0.04,nc,nc73902821,2023-06-19T10:40:14.130Z,"42km S of Qualeys Camp, NV",earthquake,0.85,7.42,0.11,11,automatic,nc,nc
 2023-06-19T08:33:04.389Z,63.9592,-148.8206,111.8,1.8,ml,,,,0.3,ak,ak0237tabjra,2023-06-19T08:35:14.090Z,"13 km NNE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-19T08:18:30.908Z,58.1972,-155.2438,0,1.4,ml,,,,0.41,ak,ak0237ta8e2a,2023-06-19T08:20:11.415Z,"84 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-19T08:01:59.280Z,46.2195,-119.59533333333333,7.15,0.44,ml,6,250,0.0639,0.04,uw,uw61934396,2023-06-19T15:45:00.970Z,"9 km WSW of Benton City, Washington",earthquake,1.28,0.39,0.11847224528767208,4,reviewed,uw,uw
 2023-06-19T07:51:53.080Z,19.05,-67.7743,15,3.45,md,12,215,0.7281,0.39,pr,pr2023170000,2023-06-19T08:33:05.481Z,"84 km NE of Punta Cana, Dominican Republic",earthquake,2,4.53,0.04,6,reviewed,pr,pr
+2023-06-19T07:48:56.740Z,46.223,-119.5975,7.04,0.96,ml,9,211,0.06289,0.06,uw,uw61934386,2023-06-19T15:41:09.790Z,"9 km WSW of Benton City, Washington",earthquake,0.66,0.25,0.10709983728793587,8,reviewed,uw,uw
 2023-06-19T07:48:21.620Z,38.8221664,-122.809166,2.73,1.15,md,21,38,0.001417,0.06,nc,nc73902816,2023-06-19T10:27:15.057Z,"7km NW of The Geysers, CA",earthquake,0.25,0.67,0.17,19,automatic,nc,nc
 2023-06-19T07:41:55.707Z,37.2239,-117.548,4.8,0.9,ml,15,159.55,0.367,0.2193,nn,nn00861392,2023-06-19T07:44:21.941Z,"Central California",earthquake,,2.5,0.92,11,automatic,nn,nn
 2023-06-19T07:39:59.550Z,17.9723333333333,-66.8346666666667,11.69,2.16,md,6,203,0.04253,0.1,pr,pr71413963,2023-06-19T08:04:44.910Z,"2 km SW of Indios, Puerto Rico",earthquake,0.67,0.43,0.0608908012609506,4,reviewed,pr,pr
