@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T10:12:38.041Z,63.2711,-151.3332,0,1.1,ml,,,,0.72,ak,ak0237tbdzj0,2023-06-19T10:14:47.243Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-19T10:11:50.110Z,33.162,-115.9628333,7.23,1.54,ml,31,40,0.01696,0.25,ci,ci40488656,2023-06-19T10:15:23.354Z,"15km S of Salton City, CA",earthquake,0.35,0.66,0.125,27,automatic,ci,ci
 2023-06-19T10:05:56.840Z,19.1196670532227,-155.395660400391,30.1399993896484,1.83000004,md,40,185,,0.119999997,hv,hv73455287,2023-06-19T10:09:13.350Z,"12 km SE of Pāhala, Hawaii",earthquake,0.67,0.970000029,0.779999971,3,automatic,hv,hv
+2023-06-19T09:58:45.730Z,17.9773333333333,-66.8388333333333,15.83,2.04,md,5,199,0.03854,0.15,pr,pr71413978,2023-06-19T10:51:17.910Z,"2 km SW of Indios, Puerto Rico",earthquake,0.88,0.89,0.066164236381854,5,reviewed,pr,pr
 2023-06-19T09:54:50.354Z,63.3725,-150.265,4.3,1.1,ml,,,,0.48,ak,ak0237tb1ky3,2023-06-19T09:56:59.240Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-19T09:32:43.334Z,58.0992,-155.1397,91.4,0.6,ml,,,,1.55,ak,ak0237tawunh,2023-06-19T09:34:37.938Z,"71 km NW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-19T09:21:20.536Z,61.5059,-149.8812,31.4,2,ml,,,,0.55,ak,ak0237taug0l,2023-06-19T09:23:05.795Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -173,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T11:17:19.900Z,38.838665,-122.8310013,2.03,0.72,md,13,107,0.003504,0.01,nc,nc73902496,2023-06-18T11:50:11.060Z,"9km NW of The Geysers, CA",earthquake,0.3,0.71,0.14,13,automatic,nc,nc
 2023-06-18T11:07:52.650Z,38.8248329,-122.8218307,2.86,0.43,md,9,135,0.009295,0.07,nc,nc73902486,2023-06-18T11:29:15.938Z,"8km NW of The Geysers, CA",earthquake,0.85,1.81,0.21,10,automatic,nc,nc
 2023-06-18T10:58:58.730Z,38.8383331,-122.8296661,1.93,1.7,md,29,101,0.004553,0.05,nc,nc73902481,2023-06-18T12:59:16.430Z,"9km NW of The Geysers, CA",earthquake,0.19,0.32,0.16,25,automatic,nc,nc
-2023-06-18T10:49:29.509Z,35.13118362,-97.52709198,2.905846119,1.92,ml,23,46.7509613,0.05804100633,0.432067691,ok,ok2023lvty,2023-06-18T10:52:35.001Z,"4 km WSW of Goldsby, Oklahoma",earthquake,2.338918433,1.878815986,0.16,15,automatic,ok,ok
