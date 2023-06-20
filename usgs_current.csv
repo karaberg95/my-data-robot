@@ -179,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T23:26:16.751Z,36.32073212,-98.54366302,5,1.92,ml,8,170.3320694,0.1605796665,1.21006797,ok,ok2023lyok,2023-06-19T23:27:51.657Z,"Oklahoma",earthquake,8.317934073,,0.35,5,automatic,ok,ok
 2023-06-19T23:15:49.419Z,64.9817,-147.3676,3.9,1.2,ml,,,,1.14,ak,ak0237tj5af1,2023-06-19T23:17:18.333Z,"12 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-19T23:12:12.136Z,58.1503,-155.3572,7.6,0.9,ml,,,,0.32,ak,ak0237tj4ke5,2023-06-19T23:13:27.141Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
-2023-06-19T22:51:15.240Z,38.8313333,-122.7981667,1.83,0.45,md,17,47,0.009341,0.02,nc,nc73903046,2023-06-20T20:30:07.820Z,"7km W of Cobb, CA",earthquake,0.23,0.45,0.107,15,reviewed,nc,nc
+2023-06-19T22:51:15.240Z,38.8313333,-122.7981667,1.83,0.45,md,17,47,0.009341,0.02,nc,nc73903046,2023-06-20T21:14:12.673Z,"7km W of Cobb, CA",earthquake,0.23,0.45,0.107,15,reviewed,nc,nc
 2023-06-19T22:45:00.758Z,45.4879,26.282,135.849,4.1,mb,35,39,0.237,1.03,us,us7000k9ql,2023-06-19T23:06:54.040Z,"1 km E of Cașoca, Romania",earthquake,6.07,5.62,0.139,14,reviewed,us,us
 2023-06-19T22:44:01.583Z,63.5212,-147.4183,14.1,1.5,ml,,,,0.39,ak,ak0237tipyvy,2023-06-19T22:45:27.201Z,"77 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T22:40:08.873Z,-4.476,144.913,9.003,5.2,mb,97,57,4.632,0.85,us,us7000k9qk,2023-06-19T23:00:05.040Z,"104 km ESE of Angoram, Papua New Guinea",earthquake,8.55,4.295,0.048,142,reviewed,us,us
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T21:42:52.340Z,46.98083333333334,-122.27316666666667,-0.61,1.35,ml,16,276,0.0696,0.13,uw,uw61934576,2023-06-20T18:27:02.640Z,"3 km W of Kapowsin, Washington",explosion,0.68,31.61,0.12776935264931688,8,reviewed,uw,uw
 2023-06-19T21:24:11.346Z,64.8335,-149.0772,13.8,1.6,ml,,,,0.62,ak,ak0237ti09pq,2023-06-19T21:26:12.952Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T21:22:14.720Z,32.7076667,-116.6436667,17.06,1,ml,25,52,0.03654,0.21,ci,ci40489288,2023-06-19T21:25:50.685Z,"16km N of Tecate, B.C., MX",earthquake,0.37,0.64,0.133,12,automatic,ci,ci
-2023-06-19T21:16:29.134Z,2.0805,128.2998,90.831,5.2,mb,89,78,1.6,0.76,us,us7000k9pt,2023-06-19T21:31:41.040Z,"50 km NE of Tobelo, Indonesia",earthquake,6.81,6.879,0.073,62,reviewed,us,us
-2023-06-19T21:15:02.458Z,58.177,-155.2739,1.1,0.8,ml,,,,0.27,ak,ak0237thybl1,2023-06-19T21:16:24.158Z,"83 km NW of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
