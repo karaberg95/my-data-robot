@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T05:35:55.770Z,38.8271675,-122.8106689,1.47,0.63,md,9,88,0.003796,0.02,nc,nc73903826,2023-06-22T05:37:32.627Z,"7km NW of The Geysers, CA",earthquake,0.43,1.11,0.4,10,automatic,nc,nc
 2023-06-22T05:28:05.300Z,38.8343315,-122.8131638,0.77,0.76,md,13,54,0.01118,0.06,nc,nc73903821,2023-06-22T05:29:42.850Z,"8km W of Cobb, CA",earthquake,0.26,0.83,0.14,15,automatic,nc,nc
-2023-06-22T05:09:29.920Z,38.8026657,-122.8150024,3.21,0.79,md,17,71,0.01269,0.07,nc,nc73903816,2023-06-22T05:12:12.674Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.92,0.47,17,automatic,nc,nc
+2023-06-22T05:13:32.455Z,52.9746,-165.435,48.3,1.9,ml,,,,0.74,ak,ak0237y71309,2023-06-22T05:36:13.558Z,"south of the Aleutian Islands",earthquake,,16.6,,,reviewed,ak,ak
+2023-06-22T05:09:29.920Z,38.8026657,-122.8150024,3.21,0.79,md,17,71,0.01269,0.07,nc,nc73903816,2023-06-22T05:37:13.133Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.92,0.47,17,automatic,nc,nc
 2023-06-22T05:08:13.420Z,37.6049995,-118.8470001,-0.48,0.75,md,7,143,0.01886,0.29,nc,nc73903811,2023-06-22T05:09:47.513Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.27,1.08,0.03,8,automatic,nc,nc
 2023-06-22T04:42:23.050Z,38.8341675,-122.7908325,1.88,0.29,md,10,75,0.004252,0.01,nc,nc73903801,2023-06-22T05:20:12.045Z,"6km WNW of Cobb, CA",earthquake,0.35,1.11,0.22,12,automatic,nc,nc
 2023-06-22T04:38:56.972Z,64.784,-149.0436,18.3,1,ml,,,,0.54,ak,ak0237y6l1gh,2023-06-22T04:40:29.168Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
