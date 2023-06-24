@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T22:12:12.561Z,-23.0957,-66.5724,228.006,4.6,mb,45,80,1.487,0.83,us,us7000kawh,2023-06-24T22:36:27.040Z,"92 km W of El Aguilar, Argentina",earthquake,8.38,9.242,0.129,19,reviewed,us,us
 2023-06-24T22:11:18.934Z,64.2778,-148.5373,23.4,0.9,ml,,,,0.4,ak,ak02381s7o2d,2023-06-24T22:12:40.118Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-24T22:10:50.550Z,33.3356667,-116.274,10.64,0.95,ml,31,56,0.03996,0.23,ci,ci40494480,2023-06-24T22:14:23.883Z,"13km NE of Borrego Springs, CA",earthquake,0.32,0.7,0.155,22,automatic,ci,ci
-2023-06-24T22:09:58.730Z,39.2348328,-123.3916702,3.9,1.49,md,10,98,0.07611,0.06,nc,nc73904826,2023-06-24T22:46:11.529Z,"16km WSW of Redwood Valley, CA",earthquake,0.36,2.08,0.02,4,automatic,nc,nc
+2023-06-24T22:09:58.730Z,39.2348328,-123.3916702,3.9,1.49,md,10,98,0.07611,0.06,nc,nc73904826,2023-06-24T23:49:13.905Z,"16km WSW of Redwood Valley, CA",earthquake,0.36,2.08,0.02,4,automatic,nc,nc
 2023-06-24T22:06:37.260Z,35.2291667,-118.112,2.06,1.05,ml,17,62,0.1055,0.17,ci,ci40494472,2023-06-24T22:10:04.379Z,"16km NW of California City, CA",earthquake,0.28,0.64,0.127,16,automatic,ci,ci
 2023-06-24T22:00:10.690Z,32.9378333,-116.2838333,11.85,1.08,ml,21,58,0.02345,0.19,ci,ci40494464,2023-06-24T22:03:43.467Z,"26km ENE of Pine Valley, CA",earthquake,0.29,0.7,0.192,16,automatic,ci,ci
 2023-06-24T21:51:46.320Z,36.079,-117.3795,-0.4,1.55,ml,18,120,0.2032,0.21,ci,ci40494456,2023-06-24T21:55:35.668Z,"35km N of Searles Valley, CA",earthquake,0.57,31.61,0.087,13,automatic,ci,ci
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T00:41:14.796Z,62.5571,-152.0551,4.7,1,ml,,,,0.65,ak,ak02381fajx3,2023-06-24T00:42:51.534Z,"66 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-24T00:16:02.017Z,64.0245,-150.4071,3.2,2.4,ml,,,,0.54,ak,ak02381f5615,2023-06-24T00:38:59.040Z,"63 km W of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-23T23:58:37.330Z,51.8565,-178.0365,-1.79,0.74,ml,4,128,,0.28,av,av91935886,2023-06-24T09:25:41.500Z,"96 km W of Adak, Alaska",earthquake,0.57,2.19,0.416117256372315,4,reviewed,av,av
-2023-06-23T23:50:32.900Z,33.8658333,-117.4981667,0.58,1.12,ml,24,69,0.06548,0.26,ci,ci40493632,2023-06-23T23:54:12.785Z,"2km ESE of Home Gardens, CA",quarry blast,0.51,31.61,0.2,20,automatic,ci,ci
