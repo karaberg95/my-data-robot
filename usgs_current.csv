@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T11:57:21.417Z,32.83905029,-100.9745379,4.377400716,2.2,ml,16,78,0.05912098857,0.2,tx,tx2023mkmf,2023-06-27T10:46:59.692Z,"14 km NNW of Snyder, Texas",earthquake,0.9041195819999999,1.748956577,0.1,12,reviewed,tx,tx
 2023-06-26T11:41:18.517Z,61.4305,-151.373,63.3,1,ml,,,,0.35,ak,ak02384wx0ze,2023-06-26T11:57:01.711Z,"35 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-26T11:30:46.230Z,28.86016846,-98.1283318,0.0244547526,1.9,ml,11,65,0.1560366288,0.1,tx,tx2023mklj,2023-06-27T10:28:46.789Z,"17 km SW of Falls City, Texas",earthquake,0.8414713135000002,2.427837493,0.1,7,reviewed,tx,tx
-2023-06-26T11:28:01.160Z,38.8364983,-122.8058319,2.07,1.33,md,21,80,0.01225,0.02,nc,nc73905551,2023-06-26T14:01:12.330Z,"7km WNW of Cobb, CA",earthquake,0.24,0.45,0.16,22,automatic,nc,nc
