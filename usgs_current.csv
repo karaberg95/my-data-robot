@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T19:03:22.104Z,58.1761,-155.2545,0,0.9,ml,,,,0.4,ak,ak02386ozp8y,2023-06-27T19:05:23.080Z,"Alaska Peninsula",earthquake,,17.3,,,automatic,ak,ak
 2023-06-27T19:01:34.610Z,34.9863333,-118.1886667,-0.91,1.18,ml,24,53,0.1122,0.2,ci,ci40497296,2023-06-27T20:40:53.345Z,"8km S of Mojave, CA",quarry blast,0.36,31.61,0.095,10,reviewed,ci,ci
 2023-06-27T18:58:15.823Z,-11.4198,116.2198,10,4.8,mb,28,92,2.997,0.65,us,us6000knh6,2023-06-27T20:52:36.040Z,"South of Lombok, Indonesia",earthquake,5.95,1.906,0.096,33,reviewed,us,us
-2023-06-27T18:50:26.490Z,37.9836667,-122.4536667,-0.02,1.46,md,28,36,0.02469,0.1,nc,nc73906051,2023-06-27T19:33:02.228Z,"6km ESE of Santa Venetia, CA",quarry blast,0.2,31.61,0.268,22,reviewed,nc,nc
+2023-06-27T18:50:26.490Z,37.9836667,-122.4536667,-0.02,1.46,md,28,36,0.02469,0.1,nc,nc73906051,2023-06-27T23:20:27.851Z,"6km ESE of Santa Venetia, CA",quarry blast,0.2,31.61,0.268,22,reviewed,nc,nc
 2023-06-27T18:34:49.172Z,62.9627,-151.5768,0,1.4,ml,,,,0.77,ak,ak02386okyxh,2023-06-27T18:36:44.635Z,"64 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T18:31:11.575Z,59.9257,-148.1259,20.1,1.7,ml,,,,0.8,ak,ak02386ok8vp,2023-06-27T18:33:34.529Z,"16 km SSW of Chenega, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-27T18:16:43.040Z,34.807,-118.9211667,13.8,2.06,ml,53,49,0.04396,0.23,ci,ci40497240,2023-06-27T20:35:16.252Z,"3km SE of Frazier Park, CA",earthquake,0.24,0.37,0.165,39,reviewed,ci,ci
@@ -119,13 +119,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T07:58:43.090Z,33.4003333,-116.394,6.72,1.27,ml,66,52,0.07677,0.18,ci,ci40496736,2023-06-27T15:33:21.280Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.48,0.152,44,reviewed,ci,ci
 2023-06-27T07:58:16.760Z,39.1586667,-122.8651667,3.1,1.69,md,22,83,0.04498,0.1,nc,nc73905906,2023-06-27T22:18:10.932Z,"4km E of Upper Lake, CA",earthquake,0.24,0.59,0.1,22,reviewed,nc,nc
 2023-06-27T07:29:49.570Z,38.828167,-122.8056641,1.7,0.74,md,12,76,0.00588,0.02,nc,nc73905896,2023-06-27T08:19:12.934Z,"7km NW of The Geysers, CA",earthquake,0.3,0.89,0.05,14,automatic,nc,nc
+2023-06-27T07:21:57.230Z,39.3568,-119.9791,2.4,-0.2,ml,4,165.35,0.078,0.0662,nn,nn00861837,2023-06-27T23:24:02.152Z,"5 km SE of Floriston, California",earthquake,,10.2,0.23,2,reviewed,nn,nn
 2023-06-27T07:03:01.380Z,33.4733333,-116.4431667,11.47,1.42,ml,65,50,0.05202,0.16,ci,ci40496728,2023-06-27T15:19:07.170Z,"23km ESE of Anza, CA",earthquake,0.15,0.37,0.146,34,reviewed,ci,ci
 2023-06-27T06:54:22.051Z,39.6332,-119.6464,12.4,-0.1,ml,3,195.2,0.216,0.0805,nn,nn00861836,2023-06-27T23:14:43.781Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,10.1,0.39,3,reviewed,nn,nn
 2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T07:24:47.020Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-27T06:49:16.745Z,60.1455,-151.6005,57.9,1.5,ml,,,,0.41,ak,ak02386hiwwq,2023-06-27T06:50:43.124Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-27T06:45:11.210Z,19.2336,-67.5883,24,3.59,md,16,296,0.8561,0.22,pr,pr2023178000,2023-06-27T07:19:45.257Z,"96 km NNW of San Antonio, Puerto Rico",earthquake,0.98,16.6,0.09,12,reviewed,pr,pr
 2023-06-27T06:37:16.887Z,37.0532,-104.9449,8.62,2.7,ml,25,63,0.147,0.59,us,us6000knck,2023-06-27T06:48:21.040Z,"12 km SW of Weston, Colorado",earthquake,4.83,8.497,0.05,52,reviewed,us,us
-2023-06-27T06:28:36.367Z,62.1874,-151.1087,70.4,3.8,ml,,,,0.8,ak,ak02386hegbs,2023-06-27T21:38:51.237Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-06-27T06:28:36.367Z,62.1874,-151.1087,70.4,3.8,ml,,,,0.8,ak,ak02386hegbs,2023-06-27T23:25:00.271Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-27T06:14:19.100Z,33.581,-116.8066667,8.35,0.86,ml,46,36,0.03772,0.13,ci,ci40496720,2023-06-27T15:07:45.100Z,"13km WNW of Anza, CA",earthquake,0.12,0.35,0.127,18,reviewed,ci,ci
 2023-06-27T05:53:06.585Z,65.2958,-148.9073,0,1.4,ml,,,,0.56,ak,ak02386gybdu,2023-06-27T05:55:25.505Z,"26 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-27T05:51:30.310Z,38.8173332,-122.8215027,2.03,0.95,md,13,76,0.01036,0.02,nc,nc73905886,2023-06-27T05:54:22.852Z,"7km NW of The Geysers, CA",earthquake,0.33,0.86,0.24,15,automatic,nc,nc
@@ -190,7 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T23:43:33.220Z,38.489,-112.8406667,0.05,-0.64,md,6,121,0.02554,0.05,uu,uu60544087,2023-06-27T14:16:40.650Z,"18 km NE of Milford, Utah",earthquake,0.34,31.61,0.318,2,reviewed,uu,uu
 2023-06-26T23:41:25.363Z,39.6441,-119.652,9.5,2.3,ml,22,72.91,0.13,0.1896,nn,nn00861785,2023-06-27T02:04:31.997Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.3,0.27,9,reviewed,nn,nn
 2023-06-26T23:37:52.887Z,39.6438,-119.653,9.3,2.6,ml,27,72.83,0.129,0.1522,nn,nn00861783,2023-06-27T02:38:29.746Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.2,0.27,9,reviewed,nn,nn
-2023-06-26T23:26:15.350Z,17.9575,-66.9858333333333,12.3,1.61,md,4,203,0.05683,0.04,pr,pr71414783,2023-06-26T23:49:27.310Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,1.62,0.63,0.100911467031295,3,reviewed,pr,pr
-2023-06-26T23:25:07.470Z,17.9523333333333,-66.9726666666667,10.39,2.23,md,3,214,0.0702,0.07,pr,pr71414773,2023-06-26T23:44:59.130Z,"7 km WSW of Fuig, Puerto Rico",earthquake,2.07,1.07,0.000151614990201221,3,reviewed,pr,pr
-2023-06-26T23:22:40.830Z,35.0345,-117.68,0.16,1.64,ml,26,45,0.1008,0.16,ci,ci40496536,2023-06-26T23:55:50.340Z,"5km NW of Boron, CA",quarry blast,0.38,31.61,0.097,26,reviewed,ci,ci
-2023-06-26T23:19:31.250Z,37.8774986,-122.2539978,8.83,1.74,md,28,51,0.01463,0.04,nc,nc73905761,2023-06-27T00:26:14.040Z,"2km ENE of Berkeley, CA",earthquake,0.18,0.38,0.13,16,automatic,nc,nc
