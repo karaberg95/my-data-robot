@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-28T17:39:57.380Z,38.8515015,-122.8223343,1.81,0.93,md,9,147,0.003252,0.04,nc,nc73906406,2023-06-28T17:41:33.738Z,"9km WNW of Cobb, CA",earthquake,0.99,1.29,0.32,8,automatic,nc,nc
+2023-06-28T17:39:57.380Z,38.8515015,-122.8223343,1.81,0.93,md,9,147,0.003252,0.04,nc,nc73906406,2023-06-28T17:58:14.272Z,"9km WNW of Cobb, CA",earthquake,0.99,1.29,0.32,8,automatic,nc,nc
 2023-06-28T17:37:18.132Z,58.0503,-156.0434,107.5,1.2,ml,,,,0.27,ak,ak02388bjgkl,2023-06-28T17:38:38.745Z,"79 km SSE of King Salmon, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-06-28T17:28:28.710Z,38.8320007,-122.8170013,1.5,0.27,md,9,71,0.01015,0.02,nc,nc73906396,2023-06-28T17:48:16.079Z,"8km NW of The Geysers, CA",earthquake,0.37,0.84,0.18,7,automatic,nc,nc
 2023-06-28T17:13:52.770Z,34.0393333,-117.2306667,16.99,1.11,ml,25,113,0.09828,0.24,ci,ci40498176,2023-06-28T17:17:22.559Z,"3km ESE of Loma Linda, CA",earthquake,0.48,0.73,0.247,20,automatic,ci,ci
@@ -104,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T04:36:21.920Z,37.0535,-121.5068333,7.35,1.94,md,62,37,0.03313,0.12,nc,nc73906221,2023-06-28T12:49:14.304Z,"8km NE of Gilroy, CA",earthquake,0.16,0.4,0.199,62,reviewed,nc,nc
 2023-06-28T04:26:30.040Z,-56.5325,-27.2332,55.783,4.8,mb,24,131,18.311,0.51,us,us6000knk5,2023-06-28T05:10:26.040Z,"South Sandwich Islands region",earthquake,9.58,7.975,0.111,25,reviewed,us,us
 2023-06-28T04:21:29.480Z,-16.2984,178.5592,10,5.6,mww,61,52,1.518,0.79,us,us6000knjz,2023-06-28T15:32:21.182Z,"87 km W of Labasa, Fiji",earthquake,7.55,1.73,0.098,10,reviewed,us,us
+2023-06-28T04:20:17.210Z,51.836,-178.0125,-1.8,2.72,ml,7,124,,0.14,av,av91941286,2023-06-28T17:55:49.010Z,"95 km W of Adak, Alaska",earthquake,0.37,1.11,0.283652883249952,7,reviewed,av,av
 2023-06-28T04:15:07.840Z,33.3195,-116.9006667,16.8,1.98,ml,84,23,0.04658,0.19,ci,ci40497728,2023-06-28T16:47:56.440Z,"5km SW of Palomar Observatory, CA",earthquake,0.14,0.41,0.183,71,reviewed,ci,ci
 2023-06-28T03:55:58.532Z,63.0801,-151.4617,8.2,1.3,ml,,,,0.84,ak,ak023883bc3x,2023-06-28T03:58:10.550Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T03:54:05.423Z,13.0975,144.5991,55.362,4.9,mb,44,144,2.423,0.53,us,us6000knjq,2023-06-28T10:40:44.832Z,"20 km SSW of Merizo Village, Guam",earthquake,12.89,8.365,0.036,238,reviewed,us,us
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T18:16:43.040Z,34.807,-118.9211667,13.8,2.06,ml,53,49,0.04396,0.23,ci,ci40497240,2023-06-27T20:35:16.252Z,"3km SE of Frazier Park, CA",earthquake,0.24,0.37,0.165,39,reviewed,ci,ci
 2023-06-27T18:08:43.390Z,59.697,-152.9625,99.8,2,ml,,,,0.31,ak,ak02386ofdv7,2023-06-27T18:10:36.374Z,"64 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T17:59:53.665Z,39.3524,-119.9894,6.8,0.8,ml,14,88.95,0.07,0.3335,nn,nn00861859,2023-06-28T00:53:47.872Z,"5 km SSE of Floriston, California",earthquake,,1.8,0.18,8,reviewed,nn,nn
-2023-06-27T17:58:11.230Z,36.419,-96.88833333,7.42,1.6,ml,73,64,0.03689276038,0.31,ok,ok2023mmtp,2023-06-27T18:07:58.392Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.22,29,reviewed,ok,ok
