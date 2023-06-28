@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T18:29:02.240Z,35.7056667,-117.5185,6.88,0.3,ml,8,136,0.08713,0.13,ci,ci40498256,2023-06-28T20:57:23.616Z,"12km WSW of Searles Valley, CA",earthquake,0.48,0.84,0.059,2,reviewed,ci,ci
 2023-06-28T18:26:43.145Z,61.5562,-149.9972,39.9,1.7,ml,,,,0.74,ak,ak02388c2l8a,2023-06-28T18:28:46.368Z,"4 km NNW of Big Lake, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-28T18:11:31.608Z,36.4717,-115.8724,11.8,0.8,ml,15,180.31,0.203,0.0658,nn,nn00861894,2023-06-28T18:13:37.477Z,"21 km WSW of Indian Springs, Nevada",earthquake,,0.9,0.79,12,automatic,nn,nn
-2023-06-28T18:07:23.095Z,31.6762311,-104.4848204,5.026123046999999,2.1,ml,10,78,0.01559863292,0.1,tx,tx2023mopl,2023-06-28T20:10:11.589Z,"56 km S of Whites City, New Mexico",earthquake,1.934506544,1.683772964,0.1,19,reviewed,tx,tx
+2023-06-28T18:07:23.095Z,31.6762311,-104.4848204,5.026123046999999,2.1,ml,10,78,0.01559863292,0.1,tx,tx2023mopl,2023-06-28T20:10:11.589Z,"western Texas",earthquake,1.934506544,1.683772964,0.1,19,reviewed,tx,tx
 2023-06-28T18:04:05.510Z,38.8361664,-122.8054962,1.9,0.74,md,14,56,0.01204,0.01,nc,nc73906411,2023-06-28T19:50:11.796Z,"7km WNW of Cobb, CA",earthquake,0.33,0.8,0.15,15,automatic,nc,nc
 2023-06-28T17:39:57.380Z,38.8515015,-122.8223343,1.81,0.93,md,9,147,0.003252,0.04,nc,nc73906406,2023-06-28T17:58:14.272Z,"9km WNW of Cobb, CA",earthquake,0.99,1.29,0.32,8,automatic,nc,nc
 2023-06-28T17:37:18.132Z,58.0503,-156.0434,107.5,1.2,ml,,,,0.27,ak,ak02388bjgkl,2023-06-28T17:38:38.745Z,"79 km SSE of King Salmon, Alaska",earthquake,,2.4,,,automatic,ak,ak
