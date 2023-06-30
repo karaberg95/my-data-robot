@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T05:36:58.523Z,58.2033,-155.0733,0,0.5,ml,,,,0.69,ak,ak0238bfgtp8,2023-06-30T05:38:29.790Z,"79 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T05:23:39.718Z,36.5992,140.879,55.991,4.3,mb,39,145,2.15,0.65,us,us6000kp15,2023-06-30T06:55:57.040Z,"19 km SE of Takahagi, Japan",earthquake,8.41,8.204,0.092,35,reviewed,us,us
 2023-06-30T05:10:38.219Z,58.2331,-154.6821,6.1,1,ml,,,,0.61,ak,ak0238bfb7il,2023-06-30T05:12:41.561Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T07:30:42.771Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
+2023-06-30T05:10:14.350Z,34.9976654,-118.5201645,6.52,3.46,ml,115,33,0.1468,0.23,ci,ci40500216,2023-06-30T07:43:16.582Z,"16km SSW of Tehachapi, CA",earthquake,0.18,0.85,0.26,19,reviewed,ci,ci
 2023-06-30T05:09:54.600Z,34.4971667,-118.6898333,16.64,1.59,ml,44,37,0.0764,0.26,ci,ci40500208,2023-06-30T05:20:50.190Z,"6km W of Castaic, CA",earthquake,0.32,0.88,0.164,27,automatic,ci,ci
 2023-06-30T05:05:21.229Z,58.1586,-155.6072,93.7,0.4,ml,,,,0.98,ak,ak0238bfa3mi,2023-06-30T05:07:31.040Z,"85 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-30T05:04:59.540Z,33.2511667,-116.0788333,7.76,1.04,ml,34,63,0.08308,0.26,ci,ci40500200,2023-06-30T05:08:37.039Z,"13km WSW of Salton City, CA",earthquake,0.35,1.09,0.105,23,automatic,ci,ci
@@ -283,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T07:57:15.798Z,65.1535,-149.1897,10.7,1,ml,,,,0.33,ak,ak02389t8r5n,2023-06-29T07:59:08.477Z,"7 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-29T07:52:55.221Z,36.7113,-115.719,6.8,1.4,ml,35,125.95,0.2,0.1521,nn,nn00861940,2023-06-29T19:31:00.077Z,"16 km NNW of Indian Springs, Nevada",earthquake,,2.6,0.15,20,reviewed,nn,nn
 2023-06-29T07:47:55.500Z,35.869,-98.05066667,4.63,1.53,ml,71,65,0.09898057663,0.35,ok,ok2023mpqm,2023-06-29T13:12:54.827Z,"10 km W of Kingfisher, Oklahoma",earthquake,,0.8,0.24,31,reviewed,ok,ok
-2023-06-29T07:46:36.730Z,18.0413333333333,-66.8765,18.66,1.97,md,7,118,0.06597,0.17,pr,pr71415073,2023-06-29T08:32:46.920Z,"2 km WNW of Yauco, Puerto Rico",earthquake,0.61,1.31,0.0452692308501084,3,reviewed,pr,pr
-2023-06-29T07:40:53.840Z,19.2006664276123,-155.373840332031,30.2999992370605,1.80999994,md,38,163,,0.109999999,hv,hv73464957,2023-06-29T07:44:17.070Z,"11 km E of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.80999994,4,automatic,hv,hv
