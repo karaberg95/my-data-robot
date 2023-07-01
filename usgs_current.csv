@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T13:21:04.890Z,33.6423333,-116.7236667,10.25,0.73,ml,26,81,0.05909,0.26,ci,ci40501432,2023-07-01T13:24:38.170Z,"11km NNW of Anza, CA",earthquake,0.39,0.69,0.14,21,automatic,ci,ci
 2023-07-01T13:13:47.180Z,35.656,-117.4513333,5.75,1.06,ml,12,71,0.02426,0.19,ci,ci40501408,2023-07-01T13:17:13.421Z,"13km SSW of Searles Valley, CA",earthquake,0.49,1.07,0.271,6,automatic,ci,ci
 2023-07-01T13:13:23.077Z,60.3657,-147.8701,14.2,1.8,ml,,,,0.49,ak,ak0238d7mmtv,2023-07-01T13:15:36.098Z,"34 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-01T13:09:29.640Z,38.8141667,-122.8193333,2.97,1.22,md,46,48,0.009335,0.02,nc,nc73907426,2023-07-01T19:09:10.029Z,"7km NW of The Geysers, CA",earthquake,0.15,0.21,0.158,39,reviewed,nc,nc
+2023-07-01T13:09:29.640Z,38.8141667,-122.8193333,2.97,1.22,md,46,48,0.009335,0.02,nc,nc73907426,2023-07-01T20:51:14.608Z,"7km NW of The Geysers, CA",earthquake,0.15,0.21,0.158,39,reviewed,nc,nc
 2023-07-01T13:06:29.210Z,32.8281667,-116.0366667,8.36,1.13,ml,26,65,0.06252,0.22,ci,ci40501400,2023-07-01T14:17:11.170Z,"11km NNW of Ocotillo, CA",earthquake,0.33,0.73,0.248,20,reviewed,ci,ci
 2023-07-01T12:47:34.640Z,33.7223333,-116.7413333,20.57,0.4,ml,10,163,0.02523,0.19,ci,ci40501384,2023-07-01T12:51:04.166Z,"3km SW of Idyllwild, CA",earthquake,1.33,0.79,0.233,5,automatic,ci,ci
 2023-07-01T12:45:29.690Z,33.2498333,-116.2533333,8.36,1.09,ml,35,53,0.05699,0.2,ci,ci40501376,2023-07-01T12:49:00.897Z,"11km E of Borrego Springs, CA",earthquake,0.34,0.9,0.103,26,automatic,ci,ci
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T21:04:10.980Z,18.53,-66.3568333333333,77.76,3.33,md,14,191,0.1721,0.14,pr,pr71415328,2023-06-30T22:54:33.475Z,"7 km NNW of Brenas, Puerto Rico",earthquake,0.97,0.73,0.069498136467848,6,reviewed,pr,pr
 2023-06-30T20:59:41.310Z,40.223,-121.1495,5.48,3.22,ml,44,28,0.02487,0.18,nc,nc73907241,2023-06-30T23:44:14.182Z,"2km NNE of Prattville, CA",earthquake,0.29,0.47,0.174,47,reviewed,nc,nc
 2023-06-30T20:58:18.399Z,62.1036,-149.7361,36,1.6,ml,,,,0.43,ak,ak0238boiyfj,2023-06-30T21:00:24.518Z,"8 km SE of Susitna North, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-06-30T20:53:20.190Z,40.2076667,-124.1193333,14.01,1.55,md,17,95,0.04786,0.08,nc,nc73907231,2023-07-01T04:22:14.839Z,"19km SE of Petrolia, CA",earthquake,0.25,0.39,0.144,15,reviewed,nc,nc
