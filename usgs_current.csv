@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T07:37:35.736Z,39.6434,-119.6572,13.8,0.3,ml,5,103.29,0.22,0.0552,nn,nn00861990,2023-06-30T18:08:34.348Z,"Nevada",earthquake,,6.3,0.4,4,reviewed,nn,nn
 2023-06-30T07:28:31.560Z,58.1838333333333,-155.323833333333,2.27,-0.05,ml,11,105,,0.08,av,av91943741,2023-07-01T03:43:44.870Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.32,0.228829612620531,10,reviewed,av,av
 2023-06-30T07:24:09.713Z,39.6425,-119.66,13,0.1,ml,5,103.11,0.222,0.103,nn,nn00861989,2023-06-30T18:02:20.988Z,"4 km E of Spanish Springs, Nevada",earthquake,,5.3,0.34,3,reviewed,nn,nn
-2023-06-30T07:13:20.820Z,58.1925,-155.2765,2.61,0.13,ml,9,88,,0.06,av,av91943731,2023-07-01T03:46:42.970Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.32,0.361714936947653,9,reviewed,av,av
