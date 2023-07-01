@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T08:39:37.461Z,61.4031,-151.0161,68,1.1,ml,,,,0.81,ak,ak0238d4t2jh,2023-07-01T08:41:47.834Z,"29 km N of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-07-01T08:36:56.314Z,61.6344,-150.6228,16.3,1.1,ml,,,,0.36,ak,ak0238d4sgu7,2023-07-01T08:38:40.116Z,"11 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-01T08:30:29.000Z,19.1905002593994,-155.493667602539,33.4700012207031,2,md,40,77,,0.119999997,hv,hv73466917,2023-07-01T08:33:52.070Z,"Hawaii region, Hawaii",earthquake,0.47,0.810000002,1.38999999,14,automatic,hv,hv
 2023-07-01T08:30:19.951Z,57.7969,-157.1233,24.3,1.7,ml,,,,0.91,ak,ak0238d4r3qj,2023-07-01T08:32:21.023Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-07-01T08:29:32.294Z,58.1324,-155.5874,27.3,0.7,ml,,,,0.69,ak,ak0238d4qwz1,2023-07-01T08:31:03.966Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T09:04:40.005Z,59.5062,-152.8796,94.3,1.2,ml,,,,0.16,ak,ak0238bhnns0,2023-06-30T09:06:36.378Z,"56 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-30T08:50:58.306Z,62.2427,-149.9408,70.6,1,ml,,,,1.02,ak,ak0238bhc4iu,2023-06-30T08:54:22.342Z,"10 km NNW of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-30T08:49:03.296Z,61.7449,-150.7576,55.6,1.7,ml,,,,0.43,ak,ak0238bhbsk9,2023-06-30T08:51:32.533Z,"25 km NNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-30T08:44:41.110Z,38.7809982,-122.765831,1.07,1.19,md,18,107,0.01026,0.04,nc,nc73907041,2023-06-30T12:18:14.260Z,"1km WNW of The Geysers, CA",earthquake,0.28,0.42,0.13,17,automatic,nc,nc
