@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T19:45:44.461Z,58.1725,-155.368,0,0,ml,,,,0.4,ak,ak0238bnusj2,2023-06-30T19:47:37.254Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-30T19:44:38.677Z,63.0442,-150.6523,118.2,1.1,ml,,,,0.13,ak,ak0238bnukd7,2023-06-30T19:47:34.783Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-30T19:34:59.651Z,58.1741,-155.2853,0,1.8,ml,,,,0.49,ak,ak0238bnsgtv,2023-06-30T19:37:31.807Z,"83 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"135 km NNE of San Juan, Puerto Rico",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
+2023-06-30T19:34:10.850Z,19.6626,-65.8251,90,3.84,md,3,304,1.4596,0.03,pr,pr2023181006,2023-06-30T20:18:32.835Z,"Puerto Rico region",earthquake,2.85,6.37,0.03,2,reviewed,pr,pr
 2023-06-30T19:28:09.950Z,38.2385,-122.9748333,11.17,1.77,md,36,150,0.07555,0.09,nc,nc73907216,2023-07-01T01:38:12.916Z,"1km W of Dillon Beach, CA",earthquake,0.26,0.39,0.218,39,reviewed,nc,nc
 2023-06-30T19:26:36.320Z,33.8738333,-117.5008333,-0.53,1.03,ml,19,70,0.07296,0.23,ci,ci40500808,2023-06-30T21:50:22.277Z,"2km ESE of Home Gardens, CA",quarry blast,0.54,31.61,0.122,12,reviewed,ci,ci
 2023-06-30T19:16:27.800Z,46.89033333333333,-121.924,12.76,0.31,ml,17,101,0.01891,0.11,uw,uw61937556,2023-06-30T20:13:30.510Z,"16 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.21024528403430495,11,reviewed,uw,uw
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T09:50:11.390Z,41.3675,-111.7361667,10.16,0.95,ml,17,74,0.1887,0.17,uu,uu60544347,2023-06-30T14:27:12.430Z,"8 km ENE of Wolf Creek, Utah",earthquake,0.44,2.09,0.176,4,reviewed,uu,uu
 2023-06-30T09:44:41.690Z,41.3648333,-111.7331667,7.76,0.83,md,17,126,0.1917,0.12,uu,uu60544342,2023-06-30T14:55:00.340Z,"8 km ENE of Wolf Creek, Utah",earthquake,0.44,1.82,0.096,10,reviewed,uu,uu
 2023-06-30T09:30:59.060Z,36.9246667,-121.4251667,8.51,1.1,md,28,91,0.06664,0.08,nc,nc73907046,2023-06-30T18:57:15.497Z,"9km NNW of Hollister, CA",earthquake,0.2,0.64,0.2,20,reviewed,nc,nc
-2023-06-30T09:19:55.600Z,36.7599,-116.2593,9.2,0.4,ml,26,68.98,0.024,0.122,nn,nn00861973,2023-06-30T16:01:50.510Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.27,11,reviewed,nn,nn
