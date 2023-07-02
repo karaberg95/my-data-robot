@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T08:38:37.900Z,33.6773333,-116.7193333,16.48,0.43,ml,14,97,0.03719,0.21,ci,ci40501936,2023-07-02T08:42:05.446Z,"7km S of Idyllwild, CA",earthquake,0.76,0.81,0.088,6,automatic,ci,ci
 2023-07-02T08:34:30.060Z,17.8896666666667,-66.9606666666667,9.89,2.39,md,16,245,0.1123,0.12,pr,pr71415708,2023-07-02T08:58:11.130Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.51,0.73,0.0268280201132329,5,reviewed,pr,pr
 2023-07-02T08:30:49.960Z,38.7961655,-122.7446671,1.46,0.76,md,12,98,0.01257,0.02,nc,nc73907736,2023-07-02T08:33:34.169Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.7,0.15,10,automatic,nc,nc
-2023-07-02T08:29:45.020Z,38.7885017,-122.7446671,0.3,1.12,md,15,85,0.008134,0.05,nc,nc73907731,2023-07-02T09:03:10.041Z,"2km NE of The Geysers, CA",earthquake,0.25,0.46,0.15,12,automatic,nc,nc
+2023-07-02T08:29:45.020Z,38.7885017,-122.7446671,0.3,1.12,md,15,85,0.008134,0.05,nc,nc73907731,2023-07-02T09:19:14.142Z,"2km NE of The Geysers, CA",earthquake,0.25,0.46,0.15,12,automatic,nc,nc
 2023-07-02T08:24:53.560Z,35.1115,-119.0396667,16.96,1.32,ml,13,82,0.2061,0.27,ci,ci40501928,2023-07-02T08:28:24.544Z,"20km SW of Lamont, CA",earthquake,0.61,2.47,0.115,19,automatic,ci,ci
 2023-07-02T08:08:58.974Z,58.3066,-133.554,0.8,3,ml,,,,0.72,ak,ak0238es5thl,2023-07-02T08:51:40.040Z,"Southeastern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-02T08:07:49.844Z,63.3149,-145.4696,0,1.1,ml,,,,0.9,ak,ak0238es5l24,2023-07-02T08:10:12.022Z,"26 km NNE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-01T09:41:03.976Z,58.3428,-133.2839,0.1,2.7,ml,,,,0.77,ak,ak0238d5euzh,2023-07-01T10:24:34.040Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-01T09:27:40.610Z,37.5531667,-118.7903333,11.18,1.13,md,17,226,0.03404,0.02,nc,nc73907366,2023-07-01T13:59:14.128Z,"10km W of Toms Place, CA",earthquake,0.63,0.5,0.158,15,reviewed,nc,nc
 2023-07-01T09:26:46.800Z,37.5528333,-118.7891667,11.04,0.9,md,15,226,0.04884,0.02,nc,nc73907371,2023-07-01T11:28:58.667Z,"10km W of Toms Place, CA",earthquake,0.89,0.62,0.103,15,reviewed,nc,nc
-2023-07-01T09:15:01.183Z,49.8528,155.0031,136.914,5.1,mb,103,73,3.67,0.76,us,us6000kpez,2023-07-01T09:31:07.040Z,"121 km SW of Severo-Kuril’sk, Russia",earthquake,9.69,6.696,0.02,791,reviewed,us,us
