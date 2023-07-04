@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T08:32:30.270Z,35.9788333,-120.5351667,2.98,0.04,md,11,88,0.01404,0.05,nc,nc71130794,2023-07-04T12:13:14.508Z,"13km NW of Parkfield, CA",earthquake,0.25,0.52,0.189,4,reviewed,nc,nc
 2023-07-04T08:32:22.620Z,35.9796667,-120.5348333,3.05,0.03,md,11,90,0.01457,0.05,nc,nc73908651,2023-07-04T10:08:11.704Z,"13km NW of Parkfield, CA",earthquake,0.23,0.48,0.186,4,reviewed,nc,nc
 2023-07-04T08:28:09.340Z,38.838665,-122.828331,1.76,1.04,md,16,99,0.005589,0.02,nc,nc73908646,2023-07-04T08:45:12.244Z,"9km NW of The Geysers, CA",earthquake,0.28,0.4,0.2,14,automatic,nc,nc
-2023-07-04T08:03:57.430Z,36.1926666666667,-93.6383333333333,12.55,2.46,md,9,112,0.2597,0.06,nm,nm60500893,2023-07-04T17:18:31.194Z,"15 km NE of Huntsville, Arkansas",earthquake,0.66,1.03,0.122851759716684,9,reviewed,nm,nm
+2023-07-04T08:03:57.470Z,36.1936666666667,-93.6366666666667,11.78,2.49,md,10,112,0.2606,0.12,nm,nm60500893,2023-07-04T20:21:53.407Z,"Missouri-Arkansas border region",earthquake,0.77,1.01,0.104257577611041,10,reviewed,nm,nm
 2023-07-04T08:02:04.880Z,32.996,-117.6923333,13.36,1.25,ml,10,261,0.5229,0.15,ci,ci40503168,2023-07-04T08:05:37.017Z,"37km WSW of Carlsbad, CA",earthquake,2.41,31.61,0.176,10,automatic,ci,ci
 2023-07-04T08:01:42.400Z,34.0506667,-117.1686667,6.83,0.96,ml,35,44,0.08073,0.22,ci,ci40503160,2023-07-04T08:05:17.116Z,"1km ESE of Redlands, CA",earthquake,0.28,0.99,0.173,26,automatic,ci,ci
 2023-07-04T07:47:50.910Z,33.255,-116.687,17.43,0.72,ml,20,62,0.0649,0.17,ci,ci40503152,2023-07-04T07:51:20.443Z,"6km WSW of Warner Springs, CA",earthquake,0.33,0.76,0.111,11,automatic,ci,ci
@@ -164,5 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T20:33:31.641Z,58.1734,-155.2293,0,1.2,ml,,,,0.48,ak,ak0238gmzo18,2023-07-03T20:35:16.968Z,"81 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-03T20:32:23.040Z,19.1721666666667,-155.487333333333,35.15,3.04,ml,52,90,,0.11,hv,hv73469402,2023-07-04T03:16:43.119Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.45,0.54,0.185819469310947,39,reviewed,hv,hv
 2023-07-03T20:28:07.740Z,33.979,-116.5463333,8.71,1.32,ml,39,46,0.05032,0.19,ci,ci40502880,2023-07-03T20:38:56.950Z,"5km WNW of Desert Hot Springs, CA",earthquake,0.26,0.55,0.174,26,automatic,ci,ci
-2023-07-03T20:22:38.790Z,33.6748333,-116.7478333,16,0.52,ml,14,117,0.04584,0.1,ci,ci40502872,2023-07-03T23:47:26.515Z,"8km SSW of Idyllwild, CA",earthquake,0.36,0.46,0.125,4,reviewed,ci,ci
-2023-07-03T20:22:14.938Z,57.7359,-155.9504,15.7,1.8,ml,,,,0.63,ak,ak0238gmx9v9,2023-07-03T20:24:27.292Z,"89 km ENE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
