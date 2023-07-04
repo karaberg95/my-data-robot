@@ -194,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T11:07:54.990Z,44.3315,-115.1935,12.47,1.99,ml,12,110,0.808,0.15,mb,mb90020598,2023-07-03T14:21:06.860Z,"23 km WNW of Stanley, Idaho",earthquake,0.57,1.04,0.212065843940811,15,reviewed,mb,mb
 2023-07-03T11:06:29.900Z,34.6546667,-119.9378333,1.92,1.33,ml,18,52,0.08432,0.18,ci,ci40502528,2023-07-03T11:10:04.678Z,"14km ENE of Santa Ynez, CA",earthquake,0.3,0.59,0.21,18,automatic,ci,ci
 2023-07-03T10:49:30.980Z,33.2706667,-116.4271667,3.2,0.7,ml,18,100,0.008737,0.19,ci,ci40502520,2023-07-03T18:08:12.535Z,"5km WNW of Borrego Springs, CA",earthquake,0.35,0.52,0.161,11,reviewed,ci,ci
-2023-07-03T10:41:06.664Z,69.5763,-143.3675,82.9,3,ml,,,,1.21,ak,ak0238gh2zsa,2023-07-03T13:26:18.040Z,"northern Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-07-03T10:40:42.967Z,36.7109,-116.3268,8.5,-0.1,ml,21,124.86,0.017,0.1092,nn,nn00862067,2023-07-04T02:03:53.191Z,"Nevada",earthquake,,0.8,0.14,7,reviewed,nn,nn
-2023-07-03T10:33:15.640Z,34.2326667,-117.5015,9.29,0.97,ml,24,62,0.07447,0.13,ci,ci40502512,2023-07-03T10:37:05.607Z,"3km S of Lytle Creek, CA",earthquake,0.24,0.55,0.231,23,automatic,ci,ci
-2023-07-03T10:32:10.340Z,38.8306667,-122.8178333,1.92,0.14,md,17,70,0.009458,0.03,nc,nc73908216,2023-07-03T17:24:36.013Z,"8km NW of The Geysers, CA",earthquake,0.21,0.37,0.348,16,reviewed,nc,nc
