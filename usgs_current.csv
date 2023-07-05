@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-05T05:58:04.816Z,61.1935,-150.7092,31.7,1.2,ml,,,,0.67,ak,ak0238jpa5s1,2023-07-05T06:00:07.984Z,"20 km ENE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-05T05:44:15.930Z,19.2026672363281,-155.363830566406,30.9400005340576,1.90999997,md,32,187,,0.100000001,hv,hv73471092,2023-07-05T05:47:25.310Z,"12 km E of Pāhala, Hawaii",earthquake,0.86,0.959999979,0.949999988,8,automatic,hv,hv
 2023-07-05T05:22:55.168Z,38.5386,-118.1428,0.9,1.7,ml,9,169.76,0.404,0.2528,nn,nn00862144,2023-07-05T05:25:31.395Z,"16 km N of Mina, Nevada",earthquake,,18.4,0.29,6,automatic,nn,nn
 2023-07-05T05:20:31.480Z,38.7944984,-122.7785034,3.24,0.91,md,17,77,0.007474,0.05,nc,nc73909011,2023-07-05T05:37:15.745Z,"3km NW of The Geysers, CA",earthquake,0.33,0.77,0.19,16,automatic,nc,nc
@@ -152,5 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T06:32:46.820Z,34.046,-117.2361667,14.58,0.96,ml,30,97,0.1045,0.23,ci,ci40503128,2023-07-04T06:36:23.939Z,"2km E of Loma Linda, CA",earthquake,0.38,0.81,0.131,23,automatic,ci,ci
 2023-07-04T06:24:48.408Z,40.5013,139.8207,186.35,4,mb,33,113,0.989,0.29,us,us6000kpzq,2023-07-04T07:10:19.040Z,"18 km SSW of Fukaura, Japan",earthquake,8.73,5.632,0.143,13,reviewed,us,us
 2023-07-04T06:23:01.180Z,33.998,-116.8538333,13.65,1.21,ml,43,45,0.05326,0.16,ci,ci40503120,2023-07-04T06:33:57.910Z,"8km NNE of Banning, CA",earthquake,0.23,0.41,0.097,25,automatic,ci,ci
-2023-07-04T06:09:13.680Z,38.8305,-122.815,1.98,0.16,md,18,65,0.008071,0.03,nc,nc73908631,2023-07-04T09:16:13.427Z,"8km NW of The Geysers, CA",earthquake,0.26,0.28,0.341,16,reviewed,nc,nc
-2023-07-04T05:58:35.560Z,38.8466682,-122.8148346,1.43,0.71,md,10,77,0.01039,0.01,nc,nc73908626,2023-07-04T06:29:14.389Z,"8km WNW of Cobb, CA",earthquake,0.36,0.78,0.13,11,automatic,nc,nc
