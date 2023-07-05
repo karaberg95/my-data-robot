@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-05T21:34:46.757Z,62.9363,-150.2615,91,1.2,ml,,,,2,ak,ak0238jyo17g,2023-07-05T21:37:34.945Z,"54 km N of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-07-05T21:19:01.640Z,17.9406666666667,-66.966,6.94,2.91,md,21,215,0.06296,0.12,pr,pr71416388,2023-07-05T21:36:17.720Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.39,0.16,0.172677999805631,14,reviewed,pr,pr
 2023-07-05T21:15:54.540Z,17.969,-66.9661666666667,5.85,2.39,md,6,186,0.0743,0.05,pr,pr71416373,2023-07-05T21:24:40.220Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.74,0.41,0.0926302884729218,5,reviewed,pr,pr
 2023-07-05T21:12:05.593Z,63.8229,-148.5247,95.6,1.1,ml,,,,0.33,ak,ak0238jyj8kv,2023-07-05T21:14:48.686Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-05T21:06:21.437Z,59.4671,-152.6776,83.1,1.7,ml,,,,0.65,ak,ak0238jyhzi7,2023-07-05T21:09:35.092Z,"44 km WNW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T18:11:31.360Z,32.6403333,-116.1255,10.05,1.21,ml,15,131,0.01667,0.21,ci,ci40504024,2023-07-05T18:14:54.893Z,"16km SW of Ocotillo, CA",earthquake,0.5,0.74,0.258,9,automatic,ci,ci
 2023-07-05T17:53:19.894Z,64.0443,-22.0652,10,4.5,mb,43,114,0.776,0.67,us,us6000kq9v,2023-07-05T19:54:13.040Z,"6 km SSW of Álftanes, Iceland",earthquake,6.92,1.909,0.062,76,reviewed,us,us
 2023-07-05T17:40:49.630Z,33.8831667,-116.1975,10.77,0.69,ml,14,73,0.0467,0.2,ci,ci40503992,2023-07-05T17:44:18.638Z,"18km N of Indio, CA",earthquake,0.42,1.07,0.191,7,automatic,ci,ci
-2023-07-05T17:37:42.130Z,31.6676,-104.2045,5,2.6,ml,19,58,0.232,0.6,us,us6000kq9u,2023-07-05T19:46:31.040Z,"western Texas",earthquake,1.62,1.977,0.091,58,reviewed,us,us
+2023-07-05T17:37:42.746Z,31.68714375,-104.1530049,8.496704102000002,2.7,ml,46,51,0.07003078887,0.2,tx,tx2023nbiz,2023-07-05T21:31:51.702Z,"52 km W of Mentone, Texas",earthquake,0.616116777,0.7636630871,0.1,25,reviewed,tx,tx
 2023-07-05T17:19:29.820Z,33.0325,-115.9911667,14.36,1.12,ml,9,184,0.1464,0.24,ci,ci40503944,2023-07-05T17:22:58.885Z,"18km SE of Ocotillo Wells, CA",earthquake,1.23,2.31,0.131,19,automatic,ci,ci
 2023-07-05T17:16:01.160Z,32.8501667,-115.6018333,11.77,1.32,ml,8,99,0.1065,0.23,ci,ci40503928,2023-07-05T17:19:40.318Z,"3km W of Imperial, CA",earthquake,0.72,2.53,0.409,15,automatic,ci,ci
 2023-07-05T17:13:41.330Z,36.1486667,-118.1796667,2.21,2.17,ml,18,126,0.2648,0.14,ci,ci40503912,2023-07-05T17:21:45.403Z,"22km SW of Olancha, CA",earthquake,0.35,1.54,0.184,20,automatic,ci,ci
@@ -79,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T09:56:51.893Z,-19.3533,-179.2154,653.608,4.7,mb,88,56,3.046,0.86,us,us6000kq6n,2023-07-05T10:12:32.040Z,"210 km SE of Levuka, Fiji",earthquake,11.74,8.679,0.062,80,reviewed,us,us
 2023-07-05T09:53:57.020Z,35.4405,-98.26433333,5.73,1.48,ml,55,65,0.0188962919,0.32,ok,ok2023natn,2023-07-05T13:02:07.645Z,"8 km ESE of Hinton, Oklahoma",earthquake,,0.6,0.08,4,reviewed,ok,ok
 2023-07-05T09:53:56.810Z,35.45066667,-98.245,3.95,1.58,ml,83,65,0.03509311353,0.33,ok,ok2023natr,2023-07-05T12:08:07.511Z,"10 km ESE of Hinton, Oklahoma",earthquake,,0.8,0.26,34,reviewed,ok,ok
+2023-07-05T09:52:52.570Z,37.3058333,-121.6706667,6.86,0.97,md,20,47,0.04218,0.07,nc,nc73909091,2023-07-05T21:35:30.172Z,"15km E of Seven Trees, CA",earthquake,0.23,0.35,0.193,18,reviewed,nc,nc
 2023-07-05T09:50:38.200Z,38.8358345,-122.7890015,1.65,0.7,md,11,73,0.002776,0.02,nc,nc73909086,2023-07-05T10:17:20.557Z,"6km WNW of Cobb, CA",earthquake,0.38,0.67,0.15,12,automatic,nc,nc
 2023-07-05T09:37:37.770Z,38.8288345,-122.7985001,2,1.11,md,20,35,0.01055,0.05,nc,nc73909076,2023-07-05T12:45:13.456Z,"7km W of Cobb, CA",earthquake,0.24,0.46,0.15,19,automatic,nc,nc
 2023-07-05T09:28:34.850Z,37.3761673,-122.1719971,0.06,1.41,md,8,129,0.02768,0.07,nc,nc73909071,2023-07-05T12:18:15.296Z,"3km W of Los Altos Hills, CA",earthquake,0.4,2,0.14,8,automatic,nc,nc
@@ -100,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T08:04:37.428Z,62.3818,-151.2154,79.8,1.6,ml,,,,0.6,ak,ak0238jqqym8,2023-07-05T08:06:16.193Z,"26 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-05T07:35:05.546Z,62.0867,-150.0901,25,2,ml,,,,0.21,ak,ak0238jqc3kq,2023-07-05T07:36:27.555Z,"15 km SW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-05T07:34:01.981Z,60.5061,-151.801,74.2,1.4,ml,,,,0.28,ak,ak0238jqbqoj,2023-07-05T15:39:04.065Z,"29 km WSW of Salamatof, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-07-05T07:20:24.460Z,36.7503333,-121.3496667,6.43,0.69,md,14,110,0.04287,0.05,nc,nc73909041,2023-07-05T21:33:29.622Z,"5km SSW of Tres Pinos, CA",earthquake,0.24,0.5,0.042,9,reviewed,nc,nc
 2023-07-05T07:16:55.390Z,36.5213333333333,-89.4555,6.13,2.45,md,51,31,0.07187,0.08,nm,nm60532786,2023-07-05T12:21:16.850Z,"9 km SE of New Madrid, Missouri",earthquake,0.12,0.53,0.156895547741649,49,reviewed,nm,nm
 2023-07-05T07:06:19.063Z,58.1793,-155.3102,1.2,1.1,ml,,,,0.2,ak,ak0238jq5wuq,2023-07-05T07:07:50.220Z,"84 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-05T06:57:50.430Z,37.2773323,-121.6471634,6.76,1.17,md,11,86,0.02764,0.05,nc,nc73909036,2023-07-05T10:26:13.598Z,"16km N of Morgan Hill, CA",earthquake,0.26,0.79,0.07,7,automatic,nc,nc
