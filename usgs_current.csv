@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-05T19:27:23.120Z,38.8343315,-122.8201675,1.56,0.76,md,13,63,0.0127,0.03,nc,nc73909196,2023-07-05T19:29:01.066Z,"8km NW of The Geysers, CA",earthquake,0.3,0.81,0.16,13,automatic,nc,nc
+2023-07-05T19:24:18.420Z,34.3385,-118.7425,18.45,1.34,ml,12,77,0.1585,0.25,ci,ci40504072,2023-07-05T19:28:20.700Z,"8km N of Simi Valley, CA",earthquake,0.77,2.11,0.194,22,automatic,ci,ci
 2023-07-05T18:36:32.789Z,61.868,-151.2024,67.4,1.4,ml,,,,0.62,ak,ak0238jww51q,2023-07-05T18:39:32.720Z,"17 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-05T18:15:06.880Z,32.7241667,-115.5485,14.41,1.61,ml,12,57,0.0735,0.27,ci,ci40504032,2023-07-05T18:18:59.850Z,"2km WSW of Heber, CA",earthquake,0.76,1.32,0.363,19,automatic,ci,ci
 2023-07-05T18:11:31.360Z,32.6403333,-116.1255,10.05,1.21,ml,15,131,0.01667,0.21,ci,ci40504024,2023-07-05T18:14:54.893Z,"16km SW of Ocotillo, CA",earthquake,0.5,0.74,0.258,9,automatic,ci,ci
