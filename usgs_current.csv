@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T18:11:31.360Z,32.6403333,-116.1255,10.05,1.21,ml,15,131,0.01667,0.21,ci,ci40504024,2023-07-05T18:14:54.893Z,"16km SW of Ocotillo, CA",earthquake,0.5,0.74,0.258,9,automatic,ci,ci
 2023-07-05T18:07:58.677Z,39.7468,-119.7303,14.1,0.5,ml,5,134.35,0.211,0.0633,nn,nn00862207,2023-07-06T00:53:13.236Z,"11 km N of Spanish Springs, Nevada",earthquake,,3.5,0.33,3,reviewed,nn,nn
 2023-07-05T18:02:22.080Z,33.3141667,-116.7938333,7.97,0.3,ml,23,50,0.06976,0.13,ci,ci40504016,2023-07-06T14:09:35.764Z,"8km SE of Palomar Observatory, CA",earthquake,0.2,0.58,0.05,4,reviewed,ci,ci
-2023-07-05T17:53:19.894Z,64.0443,-22.0652,10,4.5,mb,43,114,0.776,0.67,us,us6000kq9v,2023-07-05T23:25:37.302Z,"6 km SSW of Álftanes, Iceland",earthquake,6.92,1.909,0.062,76,reviewed,us,us
