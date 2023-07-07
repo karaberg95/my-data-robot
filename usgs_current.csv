@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-07T05:31:48.920Z,33.9003333,-116.908,16.91,0.59,ml,18,130,0.1047,0.18,ci,ci39606298,2023-07-07T05:35:26.660Z,"4km SW of Banning, CA",earthquake,0.45,1.11,0.106,12,automatic,ci,ci
+2023-07-07T05:30:10.052Z,60.3841,-151.3816,59.6,1.2,ml,,,,0.58,ak,ak0238n06v4d,2023-07-07T05:32:04.534Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-07T05:20:08.690Z,33.94,-116.0233333,7.9,0.99,ml,15,81,0.06395,0.16,ci,ci39606290,2023-07-07T05:23:40.370Z,"22km SSE of Twentynine Palms, CA",earthquake,0.39,0.84,0.166,16,automatic,ci,ci
 2023-07-07T05:10:34.102Z,58.3727,-153.5214,64.3,1.6,ml,,,,0.18,ak,ak0238n02mnm,2023-07-07T05:12:18.244Z,"50 km NW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-07T05:09:51.240Z,17.9496666666667,-66.8448333333333,16.19,2.27,md,6,213,0.04137,0.07,pr,pr71416628,2023-07-07T05:18:28.150Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.49,0.56,0.0590625622032452,5,reviewed,pr,pr
 2023-07-07T05:04:23.690Z,33.9431667,-116.0138333,8.78,1.03,ml,14,143,0.05874,0.17,ci,ci39606282,2023-07-07T05:08:00.192Z,"22km SSE of Twentynine Palms, CA",earthquake,0.42,0.87,0.213,18,automatic,ci,ci
 2023-07-07T04:59:15.523Z,40.4428,142.3189,44.66,4.2,mb,17,153,1.016,0.32,us,us6000kqn4,2023-07-07T05:19:56.040Z,"54 km ENE of Kuji, Japan",earthquake,4.73,9.335,0.187,8,reviewed,us,us
 2023-07-07T04:54:30.500Z,33.9488333,-116.022,9.57,0.93,ml,13,106,0.05529,0.18,ci,ci39606218,2023-07-07T04:58:06.982Z,"22km SSE of Twentynine Palms, CA",earthquake,0.39,0.83,0.185,14,automatic,ci,ci
-2023-07-07T04:44:41.440Z,40.2578316,-121.1631699,1.08,2.28,md,9,104,0.3167,0.33,nc,nc73909796,2023-07-07T05:17:21.392Z,"5km NNE of Almanor, CA",earthquake,1.41,21.4,0.33,2,automatic,nc,nc
+2023-07-07T04:44:41.440Z,40.2578316,-121.1631699,1.08,2.28,md,9,104,0.3167,0.33,nc,nc73909796,2023-07-07T05:39:10.560Z,"5km NNE of Almanor, CA",earthquake,1.41,21.4,0.33,2,automatic,nc,nc
 2023-07-07T04:31:21.320Z,33.731,-116.8238333,17.51,0.77,ml,18,148,0.09352,0.24,ci,ci39606202,2023-07-07T04:34:47.505Z,"7km ESE of Valle Vista, CA",earthquake,0.62,0.55,0.106,11,automatic,ci,ci
 2023-07-07T04:28:32.660Z,38.8219986,-122.7981644,1.57,0.94,md,19,42,0.009407,0.03,nc,nc73909791,2023-07-07T05:06:17.309Z,"6km NW of The Geysers, CA",earthquake,0.21,0.44,0.17,21,automatic,nc,nc
 2023-07-07T04:26:48.331Z,61.0609,-152.3198,119.2,1.2,ml,,,,0.2,ak,ak0238mzknlt,2023-07-07T04:27:55.449Z,"63 km W of Tyonek, Alaska",earthquake,,3.4,,,automatic,ak,ak
