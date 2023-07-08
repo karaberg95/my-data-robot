@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T07:52:08.120Z,33.3138333,-116.3916667,8.49,0.55,ml,14,204,0.05027,0.19,ci,ci39607466,2023-07-08T07:55:44.401Z,"7km NNW of Borrego Springs, CA",earthquake,0.61,0.79,0.209,9,automatic,ci,ci
 2023-07-08T07:49:08.720Z,33.9393333,-116.0168333,7.99,1.02,ml,17,76,0.06304,0.17,ci,ci39607458,2023-07-08T07:52:41.006Z,"23km SSE of Twentynine Palms, CA",earthquake,0.34,0.73,0.15,13,automatic,ci,ci
 2023-07-08T07:14:37.530Z,35.6535,-117.4791667,2.16,0.82,ml,10,83,0.04662,0.16,ci,ci39607450,2023-07-08T07:18:10.148Z,"14km SSW of Searles Valley, CA",earthquake,0.49,0.72,0.049,5,automatic,ci,ci
-2023-07-08T07:14:33.730Z,41.3118324,-123.828331,3.81,1.71,md,5,121,0.213,0.09,nc,nc73910176,2023-07-08T08:07:16.126Z,"17km NW of Weitchpec, CA",earthquake,0.68,10.66,,1,automatic,nc,nc
+2023-07-08T07:14:33.730Z,41.3118324,-123.828331,3.81,1.71,md,5,121,0.213,0.09,nc,nc73910176,2023-07-08T11:50:11.552Z,"17km NW of Weitchpec, CA",earthquake,0.68,10.66,,1,automatic,nc,nc
 2023-07-08T07:04:43.330Z,33.7008333,-117.5085,9.63,1.22,ml,12,126,0.08599,0.28,ci,ci39607442,2023-07-08T07:08:19.081Z,"8km ENE of Trabuco Canyon, CA",earthquake,0.68,1.14,0.3,11,automatic,ci,ci
 2023-07-08T07:00:42.230Z,38.8066673,-122.7799988,-0.26,0.75,md,7,144,0.01203,0.03,nc,nc73910171,2023-07-08T07:55:14.048Z,"4km NNW of The Geysers, CA",earthquake,0.35,1.24,0.29,8,automatic,nc,nc
 2023-07-08T06:54:52.850Z,57.488,-155.5289,23.5,1.3,ml,,,,0.07,ak,ak0238oogvph,2023-07-08T06:56:29.887Z,"64 km W of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T12:27:07.710Z,33.7038333,-118.8713333,-0.23,1.84,ml,19,210,0.3046,0.37,ci,ci39606434,2023-07-07T16:12:22.029Z,"31km NE of Santa Barbara Is., CA",earthquake,1.15,2.87,0.193,11,reviewed,ci,ci
 2023-07-07T12:10:10.460Z,35.78,-121.5226667,4.39,2.44,md,45,203,0.1871,0.09,nc,nc73909881,2023-07-07T20:09:13.945Z,"27km S of Lopez Point, CA",earthquake,0.31,0.94,0.115,47,reviewed,nc,nc
 2023-07-07T11:57:15.060Z,43.79,-121.17216666666667,5.33,-0.13,ml,6,266,0.04258,0.09,uw,uw61938791,2023-07-07T21:02:34.700Z,"Oregon",earthquake,1.43,1.4,0.028163422289489218,4,reviewed,uw,uw
-2023-07-07T11:52:48.201Z,57.0107,-153.9853,12.4,1.8,ml,,,,0.36,ak,ak0238n3wacp,2023-07-07T15:44:32.801Z,"13 km ENE of Akhiok, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-07-07T11:51:30.683Z,60.9677,-147.7543,81.1,1.5,ml,,,,1.33,ak,ak0238n3w0do,2023-07-07T11:53:28.713Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
