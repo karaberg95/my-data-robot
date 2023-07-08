@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-08T08:42:12.700Z,33.4850006,-116.4729996,13.63,1.25,ml,17,141,0.1084,0.07,ci,ci39607498,2023-07-08T08:44:23.060Z,"20km ESE of Anza, CA",earthquake,0.48,1.21,0.587,8,automatic,ci,ci
+2023-07-08T08:42:12.750Z,33.4888333,-116.4696667,13.48,0.49,ml,18,102,0.05038,0.15,ci,ci39607498,2023-07-08T08:45:44.353Z,"20km ESE of Anza, CA",earthquake,0.36,0.98,0.115,11,automatic,ci,ci
 2023-07-08T08:40:04.370Z,33.9425,-116.0146667,8.58,1.08,ml,24,76,0.05955,0.16,ci,ci39607490,2023-07-08T08:43:30.063Z,"22km SSE of Twentynine Palms, CA",earthquake,0.29,0.68,0.142,22,automatic,ci,ci
-2023-07-08T08:39:42.150Z,39.3876648,-122.9775009,29.16,2.11,md,16,220,0.2904,0.34,nc,nc73910191,2023-07-08T08:42:39.317Z,"3km SW of Lake Pillsbury, CA",earthquake,4.35,8.78,0.13,2,automatic,nc,nc
+2023-07-08T08:39:42.150Z,39.3876648,-122.9775009,29.16,2.11,md,16,220,0.2904,0.34,nc,nc73910191,2023-07-08T08:47:19.368Z,"3km SW of Lake Pillsbury, CA",earthquake,4.35,8.78,0.13,2,automatic,nc,nc
 2023-07-08T08:37:01.160Z,33.8141667,-116.5915,12.59,0.22,ml,10,194,0.1233,0.25,ci,ci39607482,2023-07-08T08:40:36.154Z,"6km W of Palm Springs, CA",earthquake,1.54,1.77,0.006,2,automatic,ci,ci
 2023-07-08T07:52:55.500Z,33.5045,-116.6895,-0.11,0.46,ml,14,154,0.07269,0.31,ci,ci39607474,2023-07-08T07:56:33.552Z,"6km SSW of Anza, CA",earthquake,0.96,31.61,0.275,5,automatic,ci,ci
 2023-07-08T07:52:08.120Z,33.3138333,-116.3916667,8.49,0.55,ml,14,204,0.05027,0.19,ci,ci39607466,2023-07-08T07:55:44.401Z,"7km NNW of Borrego Springs, CA",earthquake,0.61,0.79,0.209,9,automatic,ci,ci
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T16:15:08.940Z,19.2153339385986,-155.394332885742,33.5400009155273,2.24,ml,47,154,,0.140000001,hv,hv73473642,2023-07-07T16:20:40.480Z,"8 km E of Pāhala, Hawaii",earthquake,0.48,0.670000017,0.26,7,automatic,hv,hv
 2023-07-07T16:13:34.727Z,36.6505,-117.1143,15.7,0.1,ml,3,313.2,0.336,0.0454,nn,nn00862314,2023-07-08T02:28:57.998Z,"Central California",earthquake,,9.5,0.8,3,reviewed,nn,nn
 2023-07-07T16:09:31.170Z,33.5995,-116.6253333,14.53,0.63,ml,21,61,0.02451,0.14,ci,ci39606690,2023-07-07T16:12:59.474Z,"7km NE of Anza, CA",earthquake,0.27,0.54,0.091,15,automatic,ci,ci
-2023-07-07T16:07:28.002Z,60.856,-152.5511,115.7,1.4,ml,,,,0.26,ak,ak0238n6lqow,2023-07-07T16:09:19.254Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-07T16:07:28.002Z,60.856,-152.5511,115.7,1.4,ml,,,,0.26,ak,ak0238n6lqow,2023-07-07T16:09:19.254Z,"71 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-07T16:02:41.330Z,43.404833333333336,-122.75066666666666,3.67,1.41,ml,13,139,0.2276,0.18,uw,uw61938811,2023-07-07T21:59:57.480Z,"30 km ENE of Glide, Oregon",earthquake,0.56,1.36,0.06184695224495085,5,reviewed,uw,uw
 2023-07-07T16:02:29.250Z,33.587,-116.6403333,13.88,2.72,ml,89,15,0.02186,0.21,ci,ci39606682,2023-07-07T22:21:45.559Z,"5km NE of Anza, CA",earthquake,0.17,0.29,0.182,25,automatic,ci,ci
 2023-07-07T15:56:22.830Z,32.9918333,-116.339,9.94,1.63,ml,12,91,0.0477,0.08,ci,ci39606650,2023-07-07T22:06:35.414Z,"26km SW of Ocotillo Wells, CA",earthquake,0.26,0.3,0.472,13,reviewed,ci,ci
