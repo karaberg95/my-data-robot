@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T04:02:14.129Z,35.485,-98.0261,10.184,2.1,mb_lg,25,63,0.061,0.28,us,us6000kr22,2023-07-09T04:33:45.392Z,"Oklahoma",earthquake,2.07,6.505,0.109,22,reviewed,us,us
 2023-07-09T03:46:23.630Z,38.8318329,-122.8036652,1.29,0.29,md,8,91,0.0098,0.01,nc,nc73910451,2023-07-09T04:04:15.337Z,"7km W of Cobb, CA",earthquake,0.37,1.15,0.19,9,automatic,nc,nc
 2023-07-09T03:38:22.966Z,58.1743,-155.2684,0,0.7,ml,,,,0.99,ak,ak0238qa4fmg,2023-07-09T03:39:29.334Z,"82 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-09T03:37:47.350Z,38.8370018,-122.7708359,1.25,0.59,md,8,208,0.006561,0.02,nc,nc73910446,2023-07-09T03:54:16.282Z,"4km WNW of Cobb, CA",earthquake,1.06,1.18,0.39,8,automatic,nc,nc
