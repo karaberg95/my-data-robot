@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T21:22:02.182Z,62.4533,-148.265,34.9,1.7,ml,,,,0.6,ak,ak0238qkqrga,2023-07-09T21:24:04.092Z,"73 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-09T21:11:29.378Z,38.0577,-118.8187,3.9,1.6,ml,9,82.17,0.314,0.2471,nn,nn00862367,2023-07-09T21:13:56.769Z,"28 km E of Mono City, California",earthquake,,11.8,0.4,6,automatic,nn,nn
 2023-07-09T21:07:41.840Z,38.8086662,-122.7910004,3.23,0.76,md,9,92,0.003433,0.02,nc,nc73910876,2023-07-09T21:09:17.297Z,"5km NW of The Geysers, CA",earthquake,0.63,1.15,0.1,9,automatic,nc,nc
 2023-07-09T20:57:47.517Z,60.0302,-153.0753,130.7,3.5,ml,,,,0.31,ak,ak0238qkcxek,2023-07-09T21:08:43.788Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -76,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T14:06:33.430Z,58.1918333333333,-155.276,2.69,0.93,ml,9,140,,0.08,av,av91955206,2023-07-09T19:56:17.790Z,"84 km NW of Karluk, Alaska",earthquake,0.34,0.42,0.40647256062549,9,reviewed,av,av
 2023-07-09T14:03:52.840Z,51.8968,-171.407,50.157,3.6,mb,30,212,1.69,0.98,us,us6000kr41,2023-07-09T19:06:14.175Z,"194 km E of Atka, Alaska",earthquake,11.56,22.045,0.205,6,reviewed,us,us
 2023-07-09T13:56:14.471Z,62.4969,-149.9302,0.3,1.8,ml,,,,0.97,ak,ak0238qg6lwn,2023-07-09T13:58:09.341Z,"10 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-09T13:49:11.840Z,47.5141666666667,-114.908166666667,8.14,1.17,ml,13,64,0.1109,0.09,mb,mb90021028,2023-07-09T21:27:00.390Z,"Western Montana",earthquake,0.35,1.36,0.154953349120484,4,reviewed,mb,mb
 2023-07-09T13:44:26.050Z,33.8978333,-117.125,18.18,0.93,ml,16,102,0.07593,0.26,ci,ci39608266,2023-07-09T13:48:03.819Z,"10km ESE of Moreno Valley, CA",earthquake,0.64,1.46,0.216,14,automatic,ci,ci
 2023-07-09T13:42:58.580Z,58.2401666666667,-155.077833333333,3.95,0.44,ml,8,100,,0.12,av,av91955176,2023-07-09T19:51:40.080Z,"83 km NNW of Karluk, Alaska",earthquake,0.3,1.09,0.274691036404532,9,reviewed,av,av
 2023-07-09T13:38:36.375Z,24.0074,143.2032,10,5.3,mww,60,115,11.022,0.98,us,us6000kr3t,2023-07-09T13:55:44.040Z,"Volcano Islands, Japan region",earthquake,5.67,1.877,0.098,10,reviewed,us,us
