@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-10T09:39:04.047Z,36.02557755,-97.91777039,4.023096085,1.85,ml,19,56.01223755,0.09118732065,0.5231153726,ok,ok2023njwr,2023-07-10T09:41:00.182Z,"4 km N of Dover, Oklahoma",earthquake,2.570434527,2.328299106,0.27,8,automatic,ok,ok
+2023-07-10T09:39:04.247Z,36.03342056,-97.91685486,3.35177207,1.9,ml,23,41.35061836,0.0978481248,0.59364056,ok,ok2023njwr,2023-07-10T09:42:54.156Z,"5 km N of Dover, Oklahoma",earthquake,2.400012387,2.035891319,0.24,15,automatic,ok,ok
 2023-07-10T09:33:03.953Z,60.2555,-152.6981,110.9,1.6,ml,,,,0.27,ak,ak0238s179p7,2023-07-10T09:34:55.106Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T09:26:23.307Z,62.1573,-145.6304,1.4,1.8,ml,,,,1.18,ak,ak0238s15t6i,2023-07-10T09:28:25.862Z,"6 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T08:57:40.650Z,38.8311653,-122.8180008,1.79,0.75,md,16,51,0.009927,0.01,nc,nc73911041,2023-07-10T09:14:17.804Z,"8km NW of The Geysers, CA",earthquake,0.26,0.63,0.21,18,automatic,nc,nc
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T10:09:21.525Z,63.0446,-150.3879,103.1,1.7,ml,,,,0.56,ak,ak0238qe48zc,2023-07-09T10:24:19.589Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-09T10:07:48.330Z,51.8616666666667,-177.8795,3.51,0.35,ml,6,199,,0.17,av,av91954881,2023-07-09T15:41:32.470Z,"85 km W of Adak, Alaska",earthquake,0.64,0.82,0.13115482601544,6,reviewed,av,av
 2023-07-09T09:54:49.202Z,61.6765,-148.8078,35.3,1.4,ml,,,,0.19,ak,ak0238qdsiqg,2023-07-09T09:56:11.289Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-09T09:44:16.744Z,0.8028,121.1015,79.053,4.2,mb,26,64,0.443,0.43,us,us6000kr34,2023-07-09T10:42:57.040Z,"220 km W of Gorontalo, Indonesia",earthquake,8.1,6.034,0.132,16,reviewed,us,us
