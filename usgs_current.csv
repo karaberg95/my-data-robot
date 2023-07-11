@@ -58,7 +58,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T03:18:21.684Z,60.1598,-153.1116,132.3,1.6,ml,,,,0.25,ak,ak0238tl2u6w,2023-07-11T03:20:04.524Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-11T03:06:43.430Z,18.8643333333333,-66.568,39.54,3.06,md,9,241,0.3869,0.27,pr,pr71417318,2023-07-11T03:16:57.790Z,"45 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.35,3.05,0.0442299222893898,5,reviewed,pr,pr
 2023-07-11T03:01:53.265Z,58.2123,-155.0948,1.1,1,ml,,,,0.59,ak,ak0238tkz9ge,2023-07-11T03:03:44.584Z,"81 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-11T02:59:12.123Z,58.2521,-155.0536,0.4,0.7,ml,,,,0.4,ak,ak0238tkq67g,2023-07-11T03:05:19.508Z,"83 km NNW of Karluk, Alaska",earthquake,,153.9,,,automatic,ak,ak
 2023-07-11T02:57:04.810Z,19.4309997558594,-155.413162231445,2.33999991416931,1.86,ml,26,50,,0.109999999,hv,hv73477992,2023-07-11T03:02:35.980Z,"18 km W of Volcano, Hawaii",earthquake,0.25,1.48000002,0.21,3,automatic,hv,hv
 2023-07-11T02:49:23.550Z,37.5703333,-118.8535,-0.94,0.34,md,5,244,0.0276,0.16,nc,nc73911266,2023-07-11T05:25:25.507Z,"13 km SE of Mammoth Lakes, CA",earthquake,6.27,6.16,0.137,5,reviewed,nc,nc
 2023-07-11T02:27:23.417Z,2.9988,128.5069,222.028,4.4,mb,22,114,2.488,0.53,us,us7000kesa,2023-07-11T02:40:27.040Z,"Halmahera, Indonesia",earthquake,13.82,9.955,0.144,14,reviewed,us,us
@@ -206,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T09:33:03.953Z,60.2555,-152.6981,110.9,1.6,ml,,,,0.27,ak,ak0238s179p7,2023-07-10T09:34:55.106Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T09:26:23.307Z,62.1573,-145.6304,1.4,1.8,ml,,,,1.18,ak,ak0238s15t6i,2023-07-10T09:28:25.862Z,"6 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T09:23:44.908Z,38.5546,-119.5012,8.2,0.7,ml,6,156.7,0.035,0.0444,nn,nn00862409,2023-07-10T20:55:22.453Z,"California-Nevada border region",earthquake,,1.5,0.41,2,reviewed,nn,nn
-2023-07-10T08:57:40.650Z,38.8311653,-122.8180008,1.79,0.75,md,16,51,0.009927,0.01,nc,nc73911041,2023-07-10T10:50:14.373Z,"8km NW of The Geysers, CA",earthquake,0.26,0.63,0.21,18,automatic,nc,nc
-2023-07-10T08:56:54.950Z,35.47266667,-98.03483333,4.88,1.33,ml,83,68,0.04859046489,0.39,ok,ok2023njvh,2023-07-10T15:07:45.689Z,"9 km SW of El Reno, Oklahoma",earthquake,,0.8,0.23,38,reviewed,ok,ok
-2023-07-10T08:52:11.375Z,58.1883,-155.2965,1.5,0.8,ml,,,,0.43,ak,ak0238s0px9t,2023-07-10T08:53:53.121Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
