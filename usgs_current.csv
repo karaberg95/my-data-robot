@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-11T19:35:14.920Z,38.9861679,-122.6011658,4.13,1.14,md,6,188,0.2286,0.14,nc,nc73911511,2023-07-11T19:36:48.439Z,"4 km NE of Clearlake, CA",earthquake,2.94,13.47,0.26,3,automatic,nc,nc
+2023-07-11T19:35:14.920Z,38.9861679,-122.6011658,4.13,1.14,md,6,188,0.2286,0.14,nc,nc73911511,2023-07-11T19:45:10.898Z,"4 km NE of Clearlake, CA",earthquake,2.94,13.47,0.26,3,automatic,nc,nc
 2023-07-11T19:35:06.030Z,38.7728348,-122.7225037,1.73,1.15,md,11,86,0.01138,0.02,nc,nc73911516,2023-07-11T19:37:48.499Z,"3 km W of Anderson Springs, CA",earthquake,0.57,0.88,0.1,9,automatic,nc,nc
 2023-07-11T19:08:59.010Z,19.3343334197998,-155.205505371094,1.08000004291534,2.06,ml,39,169,,0.200000003,hv,hv73478777,2023-07-11T19:14:30.420Z,"12 km SSE of Volcano, Hawaii",earthquake,0.34,0.430000007,0.26,13,automatic,hv,hv
 2023-07-11T18:43:50.520Z,38.8261681,-122.8533325,2.25,0.69,md,6,126,0.003088,0.02,nc,nc73911501,2023-07-11T19:29:14.806Z,"10 km WNW of The Geysers, CA",earthquake,1.3,2.54,0.55,8,automatic,nc,nc
@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T18:12:41.866Z,58.1588,-155.4072,0.5,0.4,ml,,,,0.63,ak,ak0238ttz3ir,2023-07-11T18:14:51.353Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-07-11T18:10:16.769Z,63.4869,-150.8733,2,2,ml,,,,0.41,ak,ak0238ttym5o,2023-07-11T18:12:13.398Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-11T18:09:40.927Z,64.7515,-149.2107,14.7,0.4,ml,,,,0.89,ak,ak0238ttygb6,2023-07-11T18:11:32.177Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-11T17:41:44.930Z,44.8248333333333,-111.568833333333,12.79,1.11,ml,7,101,0.09897,0.04,mb,mb90021133,2023-07-11T19:47:56.710Z,"30 km WNW of Hebgen Lake Estates, Montana",earthquake,0.49,0.84,0.0916760329151045,5,reviewed,mb,mb
 2023-07-11T17:39:28.140Z,36.1443333,-118.2361667,4.5,1.66,ml,17,132,0.2961,0.14,ci,ci39610058,2023-07-11T17:43:10.118Z,"26km SW of Olancha, CA",earthquake,0.29,2.35,0.105,11,automatic,ci,ci
 2023-07-11T17:26:28.348Z,-34.7883,-107.3982,10,5,mb,140,57,28.706,0.65,us,us7000kexf,2023-07-11T18:37:50.040Z,"southern East Pacific Rise",earthquake,12.91,1.81,0.05,128,reviewed,us,us
 2023-07-11T17:19:40.830Z,39.4073333,-120.1508333,10.13,2.11,md,12,90,0.1077,0.1,nc,nc73911486,2023-07-11T19:25:10.780Z,"9 km NNE of Truckee, CA",earthquake,0.32,0.91,0.396,20,reviewed,nc,nc
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T14:35:47.010Z,38.8333321,-122.80233,2.74,0.51,md,7,102,0.02227,0.01,nc,nc73911421,2023-07-11T16:15:13.129Z,"7 km W of Cobb, CA",earthquake,0.41,2.98,0.3,7,automatic,nc,nc
 2023-07-11T14:34:40.210Z,33.8146667,-116.9935,12.52,0.8,ml,21,43,0.1065,0.17,ci,ci39609778,2023-07-11T18:31:52.341Z,"5km NW of San Jacinto, CA",earthquake,0.3,0.68,0.116,19,reviewed,ci,ci
 2023-07-11T14:29:23.200Z,38.838665,-122.8361664,1.07,0.77,md,14,111,0.000536,0.03,nc,nc73911416,2023-07-11T15:43:12.895Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,14,automatic,nc,nc
-2023-07-11T14:23:06.380Z,37.6481667,-122.4906667,7.65,0.81,md,9,180,0.01668,0.05,nc,nc73911411,2023-07-11T18:48:57.653Z,"4 km N of Pacifica, CA",earthquake,0.59,0.35,0.12,7,reviewed,nc,nc
+2023-07-11T14:23:06.380Z,37.6481667,-122.4906667,7.65,0.81,md,9,180,0.01668,0.05,nc,nc73911411,2023-07-11T19:40:12.863Z,"4 km N of Pacifica, CA",earthquake,0.59,0.35,0.12,7,reviewed,nc,nc
 2023-07-11T14:08:06.542Z,-57.0061,-25.2991,29.307,5.1,mb,37,185,6.895,0.85,us,us7000kevb,2023-07-11T14:24:21.040Z,"South Sandwich Islands region",earthquake,8.14,5.727,0.091,39,reviewed,us,us
 2023-07-11T14:05:59.998Z,23.1111,93.9972,77.884,4.3,mb,57,153,3.658,0.69,us,us7000keva,2023-07-11T14:43:18.040Z,"39 km ENE of Falam, Myanmar",earthquake,4.65,8.207,0.082,42,reviewed,us,us
 2023-07-11T14:03:45.590Z,36.02633333,-97.91483333,7.44,2.16,ml,92,38,0.09358163609,0.21,ok,ok2023nmax,2023-07-11T14:26:36.301Z,"4 km N of Dover, Oklahoma",earthquake,,0.6,0.25,56,reviewed,ok,ok
