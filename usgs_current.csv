@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T10:08:17.854Z,59.6165,-153.4315,124.6,1.5,ml,,,,0.58,ak,ak0238tp6pyx,2023-07-11T10:10:37.711Z,"42 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-11T10:08:13.449Z,58.1994,-155.3221,10.1,1.5,ml,,,,0.42,ak,ak0238tp6pmo,2023-07-11T15:40:32.933Z,"87 km NW of Karluk, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-11T09:52:19.105Z,39.3973,26.2615,10,3.4,ml,27,83,0.597,0.75,us,us7000ketw,2023-07-11T13:19:44.229Z,"8 km ENE of Míthymna, Greece",earthquake,2.18,1.999,0.073,25,reviewed,us,us
-2023-07-11T09:36:28.810Z,32.7976667,-115.4888333,4.51,1.28,ml,16,97,0.03622,0.26,ci,ci39609586,2023-07-11T09:47:43.506Z,"7km E of El Centro, CA",earthquake,0.76,1.03,0.224,14,automatic,ci,ci
