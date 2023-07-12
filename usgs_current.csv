@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-12T23:37:58.950Z,33.2741667,-116.423,3.18,1.05,ml,32,93,0.007704,0.23,ci,ci39611234,2023-07-12T23:41:37.608Z,"5km WNW of Borrego Springs, CA",earthquake,0.36,0.9,0.12,26,automatic,ci,ci
 2023-07-12T23:33:16.589Z,63.109,-150.6868,90.3,1.4,ml,,,,0.88,ak,ak0238vkm24q,2023-07-12T23:36:26.541Z,"68 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-12T23:11:42.072Z,59.7466,-152.8579,81.9,0.7,ml,,,,0.31,ak,ak0238vkhecf,2023-07-12T23:15:06.477Z,"57 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-12T23:02:42.240Z,19.5615,-65.7608,86,3.81,md,16,296,1.2934,0.21,pr,pr2023193002,2023-07-12T23:33:53.672Z,"125 km N of Suárez, Puerto Rico",earthquake,3.45,6.25,0.02,7,reviewed,pr,pr
@@ -258,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-11T23:54:48.410Z,38.7806667,-122.7438333,0.27,0.2,md,20,76,0.00612,0.04,nc,nc73911586,2023-07-12T20:12:00.023Z,"1 km ENE of The Geysers, CA",earthquake,0.14,0.28,0.203,16,reviewed,nc,nc
 2023-07-11T23:46:59.134Z,58.1898,-155.2523,0,1.2,ml,,,,0.58,ak,ak0238tx5l89,2023-07-11T23:48:47.224Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T23:46:39.460Z,35.86116667,-98.057,6.86,2.38,ml,99,65,0,0.18,ok,ok2023nmud,2023-07-12T12:33:15.115Z,"11 km W of Kingfisher, Oklahoma",earthquake,,0.4,0.24,36,reviewed,ok,ok
-2023-07-11T23:45:13.823Z,61.7454,-148.9405,34.6,1.5,ml,,,,0.46,ak,ak0238tx5a0m,2023-07-11T23:46:41.950Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-11T23:44:09.868Z,62.2663,-151.07,70.5,1.1,ml,,,,0.32,ak,ak0238tx51zu,2023-07-11T23:45:51.650Z,"30 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-11T23:39:12.908Z,63.4571,-150.869,0.4,1.7,ml,,,,0.33,ak,ak0238tx3zne,2023-07-11T23:41:02.499Z,"43 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
