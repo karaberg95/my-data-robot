@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-13T17:36:16.311Z,65.8349,-152.1021,1.4,1.9,ml,,,,0.81,ak,ak0238x4lg4f,2023-07-13T17:38:19.755Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-13T17:33:08.916Z,58.1646,-155.3353,1.1,0.3,ml,,,,0.49,ak,ak0238x4ksej,2023-07-13T17:35:36.294Z,"84 km NW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-07-13T17:22:49.330Z,33.674,-116.7413333,14.2,1.14,ml,43,62,0.04344,0.22,ci,ci39611954,2023-07-13T17:33:31.440Z,"8km SSW of Idyllwild, CA",earthquake,0.27,0.44,0.143,27,automatic,ci,ci
 2023-07-13T17:19:41.431Z,59.599,-152.4307,67.2,2,ml,,,,0.44,ak,ak0238x4huvz,2023-07-13T17:21:37.698Z,"39 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T17:09:16.410Z,36.02733333,-96.54416667,0,1.63,ml,78,119,0.195261683,0.42,ok,ok2023npxy,2023-07-13T17:19:04.752Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.23,34,reviewed,ok,ok
 2023-07-13T17:06:13.800Z,38.8203316,-122.8134995,4.89,0.69,md,7,179,0.004064,0.01,nc,nc73912351,2023-07-13T17:07:48.490Z,"7 km NW of The Geysers, CA",earthquake,1.04,4.64,0.22,10,automatic,nc,nc
 2023-07-13T17:04:39.295Z,63.3658,-151.2196,1.2,1.1,ml,,,,0.84,ak,ak0238x4emzd,2023-07-13T17:06:24.432Z,"31 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-13T17:02:38.600Z,38.8269997,-122.8008347,3.09,0.47,md,7,124,0.008065,0.04,nc,nc73912346,2023-07-13T17:04:13.473Z,"7 km NW of The Geysers, CA",earthquake,0.86,1.56,0.31,8,automatic,nc,nc
+2023-07-13T17:02:38.600Z,38.8269997,-122.8008347,3.09,0.47,md,7,124,0.008065,0.04,nc,nc73912346,2023-07-13T17:44:14.646Z,"7 km NW of The Geysers, CA",earthquake,0.86,1.56,0.31,8,automatic,nc,nc
 2023-07-13T16:41:52.910Z,38.7873344,-122.74617,1.63,0.3,md,8,85,0.00844,0.02,nc,nc73912336,2023-07-13T17:34:14.581Z,"1 km NE of The Geysers, CA",earthquake,0.34,0.89,0.08,6,automatic,nc,nc
 2023-07-13T16:41:46.370Z,18.9253333333333,-64.5368333333333,58.89,3.15,md,4,319,0.6951,0.13,pr,pr71417708,2023-07-13T17:30:50.960Z,"71 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.2,6.63,0.108849314715151,2,reviewed,pr,pr
 2023-07-13T16:39:47.669Z,63.0107,-150.5195,96.4,1.5,ml,,,,0.39,ak,ak0238x40q32,2023-07-13T16:42:35.965Z,"58 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T17:58:38.020Z,45.21783333333333,-124.2535,5.8,1.73,ml,12,228,0.3175,0.19,uw,uw61940026,2023-07-13T11:34:38.212Z,"22 km W of Pacific City, Oregon",earthquake,0.69,1.16,0.17681167848779533,5,reviewed,uw,uw
 2023-07-12T17:51:32.560Z,34.835,-118.9751667,14.68,1.16,ml,22,74,0.05987,0.21,ci,ci39610850,2023-07-13T17:03:40.997Z,"3km WNW of Frazier Park, CA",earthquake,0.34,0.58,0.096,6,reviewed,ci,ci
 2023-07-12T17:51:08.813Z,61.2562,-150.4644,48.6,3,ml,,,,0.6,ak,ak0238vh5aq5,2023-07-12T22:42:10.801Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-07-12T17:39:40.350Z,52.7433333333333,-169.927166666667,12.18,0.24,ml,5,271,,0.19,av,av91110093,2023-07-12T21:12:28.080Z,"75 km WSW of Nikolski, Alaska",earthquake,3.05,2.35,0.247890691427574,5,reviewed,av,av
