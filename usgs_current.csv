@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-13T23:22:44.307Z,61.2536,-145.4815,31.8,0.9,ml,,,,0.24,ak,ak0238x833vy,2023-07-13T23:24:29.634Z,"47 km SSW of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-13T23:09:15.702Z,61.2373,-150.6506,18,2.1,ml,,,,0.29,ak,ak0238x809de,2023-07-13T23:10:37.518Z,"25 km ENE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-13T23:06:38.535Z,65.6874,-149.0904,0.8,1.2,ml,,,,0.64,ak,ak0238x7znzp,2023-07-13T23:08:51.565Z,"31 km NW of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-13T22:49:46.560Z,33.5675,-116.7848333,10.27,0.74,ml,23,79,0.03134,0.21,ci,ci39612274,2023-07-13T22:53:17.603Z,"10km W of Anza, CA",earthquake,0.37,0.59,0.187,18,automatic,ci,ci
