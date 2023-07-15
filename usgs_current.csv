@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T09:18:01.332Z,58.1859,-155.3796,0,0,ml,,,,0.41,ak,ak02390ass85,2023-07-15T09:19:58.314Z,"87 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-15T09:11:33.980Z,61.8288,-149.6186,39.3,1.6,ml,,,,0.24,ak,ak02390arcqe,2023-07-15T09:13:03.442Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-15T09:08:14.320Z,38.8226662,-122.7965012,2.91,1.33,md,28,31,0.01063,0.04,nc,nc73913166,2023-07-15T09:18:10.991Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.18,28,automatic,nc,nc
 2023-07-15T08:58:51.452Z,57.3677,-154.0816,39.5,2.2,ml,,,,0.21,ak,ak02390ag14p,2023-07-15T09:04:06.040Z,"20 km SSW of Larsen Bay, Alaska",earthquake,,6.5,,,automatic,ak,ak
-2023-07-15T08:54:35.290Z,37.6251678,-119.0224991,2.23,1.1,md,10,96,0.01213,0.01,nc,nc73913161,2023-07-15T09:03:11.900Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.35,0.63,0.21,11,automatic,nc,nc
+2023-07-15T08:54:35.290Z,37.6251678,-119.0224991,2.23,1.1,md,10,96,0.01213,0.01,nc,nc73913161,2023-07-15T09:12:16.958Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.35,0.63,0.21,11,automatic,nc,nc
 2023-07-15T08:53:46.841Z,31.5927,-104.3788,5,3.1,ml,23,74,0.663,0.51,us,us7000kfy6,2023-07-15T09:00:36.040Z,"63 km WNW of Toyah, Texas",earthquake,2.99,1.981,0.085,26,reviewed,us,us
 2023-07-15T08:51:43.728Z,63.0996,-150.299,88.6,1.2,ml,,,,0.46,ak,ak02390aeiis,2023-07-15T08:54:06.690Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T08:43:46.621Z,58.183,-155.3782,1.2,0,ml,,,,0.15,ak,ak02390act0m,2023-07-15T08:44:52.058Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
