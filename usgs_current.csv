@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T08:51:43.728Z,63.0996,-150.299,88.6,1.2,ml,,,,0.46,ak,ak02390aeiis,2023-07-15T08:54:06.690Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-15T08:43:46.621Z,58.183,-155.3782,1.2,0,ml,,,,0.15,ak,ak02390act0m,2023-07-15T08:44:52.058Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T08:39:13.665Z,64.8342,-147.4143,15,0.7,ml,,,,0.5,ak,ak02390abvly,2023-07-15T08:40:47.102Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-15T08:28:33.986Z,60.9278,-149.3479,23.5,1.7,ml,,,,0.46,ak,ak02390a9kau,2023-07-15T08:30:16.687Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
