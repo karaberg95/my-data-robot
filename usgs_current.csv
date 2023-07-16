@@ -52,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T17:47:39.150Z,48.64633333333333,-121.02266666666667,8.71,1.53,ml,9,170,0.3908,0.32,uw,uw61932112,2023-07-16T19:00:02.790Z,"Washington",earthquake,0.9,28.07,0.18015179202361453,8,reviewed,uw,uw
 2023-07-16T17:46:24.421Z,39.6391,-119.7305,10.5,-0.3,ml,4,185.18,0.181,0.0594,nn,nn00862813,2023-07-16T19:44:32.119Z,"Nevada",earthquake,,4.9,0,1,reviewed,nn,nn
 2023-07-16T17:17:47.779Z,63.5567,-150.6128,1.6,1.1,ml,,,,0.61,ak,ak0239233hfd,2023-07-16T17:20:06.185Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-16T17:09:42.952Z,36.758,-116.2705,8.7,-0.4,ml,5,162.95,0.053,0.0522,nn,nn00862828,2023-07-16T22:52:58.980Z,"46 km ESE of Beatty, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
 2023-07-16T17:08:52.719Z,58.1798,-155.3706,2.7,0.6,ml,,,,0.18,ak,ak0239231kd3,2023-07-16T17:10:41.367Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:54:52.380Z,36.2369995,-121.5213318,13.07,1.67,md,18,115,,0.09,nc,nc73913691,2023-07-16T17:40:12.709Z,"24 km N of Lopez Point, CA",earthquake,0.43,0.81,0.15,17,automatic,nc,nc
 2023-07-16T16:54:49.582Z,38.5278,-118.1578,8.2,1.4,ml,6,63.72,0.388,0.1663,nn,nn00862789,2023-07-16T17:03:32.411Z,"15 km NNW of Mina, Nevada",earthquake,,1.6,0.13,4,reviewed,nn,nn
@@ -65,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T16:14:00.062Z,-5.7639,148.2707,136.635,5.1,mww,39,66,3.781,0.41,us,us7000kg68,2023-07-16T16:27:49.040Z,"99 km NNE of Finschhafen, Papua New Guinea",earthquake,8.34,6.327,0.098,10,reviewed,us,us
 2023-07-16T16:06:59.787Z,63.2314,-150.4764,125.7,2.4,ml,,,,0.53,ak,ak023922fpvr,2023-07-16T18:34:55.639Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:06:59.180Z,33.6286667,-116.7158333,15.85,0.56,ml,19,79,0.05329,0.14,ci,ci39614242,2023-07-16T20:03:26.335Z,"9km NNW of Anza, CA",earthquake,0.33,0.65,0.184,12,reviewed,ci,ci
+2023-07-16T15:56:44.612Z,39.3737,-119.9174,8.7,0.5,ml,7,123.03,0.119,0.074,nn,nn00862827,2023-07-16T22:52:57.221Z,"Nevada",earthquake,,2.7,0.37,2,reviewed,nn,nn
 2023-07-16T15:41:28.160Z,19.2836666107178,-155.393997192383,28.2800006866455,1.95000005,md,34,137,,0.129999995,hv,hv73483882,2023-07-16T15:44:35.970Z,"12 km NE of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.94000006,6,automatic,hv,hv
 2023-07-16T15:19:33.950Z,36.0326667,-117.7138333,2.05,1.3,ml,14,119,0.1183,0.14,ci,ci39614210,2023-07-16T15:23:04.725Z,"20km ENE of Little Lake, CA",earthquake,0.33,0.67,0.119,6,automatic,ci,ci
 2023-07-16T15:15:21.566Z,63.2445,-151.5978,2.7,1.2,ml,,,,0.25,ak,ak023921w4rg,2023-07-16T15:17:06.932Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -177,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
 2023-07-16T06:51:19.871Z,54.6974,-160.7965,49.476,5.7,mb,26,150,0.679,0.58,us,us7000kg31,2023-07-16T08:59:59.764Z,"73 km SSW of Sand Point, Alaska",earthquake,6.19,10.67,0.173,12,reviewed,us,us
-2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T21:13:37.511Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
+2023-07-16T06:48:22.606Z,54.4596,-160.7604,32.571,7.2,mww,173,36,0.907,1.25,us,us7000kg30,2023-07-16T22:55:42.982Z,"98 km S of Sand Point, Alaska",earthquake,4.08,3.279,0.025,156,reviewed,us,us
 2023-07-16T06:46:57.440Z,61.6357,-147.7284,28.6,1.5,ml,,,,0.67,ak,ak02391wpya8,2023-07-16T06:48:46.536Z,"19 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-16T06:44:37.973Z,38.5333,-118.1584,6.2,1,ml,7,73.98,0.392,0.1657,nn,nn00862795,2023-07-16T19:10:01.251Z,"16 km NNW of Mina, Nevada",earthquake,,1.7,0.09,3,reviewed,nn,nn
 2023-07-16T06:35:49.628Z,55.7086,-158.4637,86,3,ml,,,,1,ak,ak02391wnksy,2023-07-16T07:02:44.361Z,"48 km ESE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
