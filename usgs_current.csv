@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T22:10:36.150Z,38.8105011,-122.8231659,2.48,0.79,md,17,60,0.004972,0.02,nc,nc73914076,2023-07-17T22:48:16.736Z,"7 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.43,18,automatic,nc,nc
 2023-07-17T22:10:07.150Z,38.8105011,-122.82267,2.16,0.57,md,8,102,0.00534,0.01,nc,nc73914071,2023-07-17T22:39:15.677Z,"7 km WNW of The Geysers, CA",earthquake,0.41,1.1,0.31,8,automatic,nc,nc
 2023-07-17T21:59:19.470Z,34.4151667,-118.6405,7.48,1.28,ml,20,70,0.01984,0.27,ci,ci39615106,2023-07-17T22:03:01.197Z,"8km SW of Valencia, CA",earthquake,0.56,0.9,0.198,32,automatic,ci,ci
-2023-07-17T21:59:05.068Z,53.9006,-163.5466,48.498,4.9,mww,67,153,0.911,0.53,us,us7000kgh1,2023-07-17T22:14:08.852Z,"106 km S of False Pass, Alaska",earthquake,3.27,6.077,0.086,13,reviewed,us,us
+2023-07-17T21:59:05.068Z,53.9006,-163.5466,48.498,4.9,mww,67,153,0.911,0.53,us,us7000kgh1,2023-07-17T23:34:00.464Z,"106 km S of False Pass, Alaska",earthquake,3.27,6.077,0.086,13,reviewed,us,us
 2023-07-17T21:57:04.980Z,40.526165,-124.2561646,23.62,2.16,md,8,227,0.2051,0.04,nc,nc73914061,2023-07-17T23:27:11.787Z,"6 km S of Ferndale, CA",earthquake,2.64,2.29,0.14,4,automatic,nc,nc
 2023-07-17T21:47:35.410Z,33.7041667,-117.5308333,16.96,1.41,ml,19,57,0.07205,0.28,ci,ci39615090,2023-07-17T21:51:16.899Z,"7km NE of Trabuco Canyon, CA",earthquake,0.61,1.05,0.441,25,automatic,ci,ci
 2023-07-17T21:42:21.622Z,58.8846,-154.604,116.7,1.9,ml,,,,0.31,ak,ak02393t5v82,2023-07-17T21:56:37.040Z,"62 km S of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T17:14:47.877Z,62.7641,-150.6309,85.2,0.9,ml,,,,0.45,ak,ak02393qm6s3,2023-07-17T17:16:17.252Z,"30 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:12:42.830Z,38.8126667,-122.823,2.66,0.34,md,7,104,0.006139,0.01,nc,nc73913996,2023-07-17T23:25:13.725Z,"7 km NW of The Geysers, CA",earthquake,0.64,0.97,0.541,7,reviewed,nc,nc
 2023-07-17T17:11:16.640Z,34.0021667,-117.0505,24.38,1.15,ml,19,62,0.1318,0.25,ci,ci39614858,2023-07-17T23:13:43.114Z,"2km N of Calimesa, CA",earthquake,0.76,1.72,0.354,22,automatic,ci,ci
-2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"45 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:01:46.900Z,19.4370002746582,-155.598663330078,36.8199996948242,1.74,ml,16,102,,0.280000001,hv,hv73485272,2023-07-17T17:07:29.300Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.24,1.47000003,0.16,4,automatic,hv,hv
 2023-07-17T16:56:50.572Z,58.619,-153.5904,81.6,2,ml,,,,0.56,ak,ak02393q9rj5,2023-07-17T17:00:33.094Z,"73 km NNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T16:46:14.390Z,38.8121681,-122.8233337,2.34,0.63,md,8,87,0.005631,0.03,nc,nc73913986,2023-07-17T18:47:19.009Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.66,0.21,10,automatic,nc,nc
