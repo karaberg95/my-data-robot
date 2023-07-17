@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.3499999,md,47,155,,0.129999995,hv,hv73484747,2023-07-17T06:59:32.680Z,"Island of Hawaii, Hawaii",earthquake,0.46,0.639999986,1.37,30,automatic,hv,hv
 2023-07-17T06:46:34.078Z,59.8266,-151.8657,64.1,1.1,ml,,,,0.45,ak,ak02393k98z3,2023-07-17T06:48:18.133Z,"5 km NNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-17T06:43:45.904Z,36.46524429,-98.75790405,3.155454874,2.09,ml,34,61.31496429,0.03801846132,0.4629481925,ok,ok2023nwlk,2023-07-17T06:47:55.969Z,"16 km SE of Waynoka, Oklahoma",earthquake,2.26139459,1.48500803,0.19,25,automatic,ok,ok
 2023-07-17T06:39:19.879Z,57.5993,-155.5568,221.7,1.6,ml,,,,0.85,ak,ak02393k7pv7,2023-07-17T06:42:25.375Z,"65 km W of Karluk, Alaska",earthquake,,9.8,,,automatic,ak,ak
