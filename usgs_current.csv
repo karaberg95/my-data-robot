@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T18:21:45.510Z,38.8139992,-122.8138351,2.95,1.08,md,15,78,0.009831,0.02,nc,nc73914026,2023-07-17T18:24:27.067Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.69,0.17,17,automatic,nc,nc
 2023-07-17T17:45:15.570Z,36.5834999,-121.1748352,5.78,1.76,md,16,140,0.01453,0.04,nc,nc73914021,2023-07-17T17:58:10.474Z,"6 km NNW of Pinnacles, CA",earthquake,0.31,0.55,0.1,10,automatic,nc,nc
 2023-07-17T17:43:57.090Z,40.232666,-121.1600037,-1.2,2.87,md,27,51,0.3282,0.29,nc,nc73914016,2023-07-17T18:20:57.750Z,"2 km NE of Almanor, CA",earthquake,0.51,2.58,0.09,21,automatic,nc,nc
 2023-07-17T17:42:31.790Z,58.2133,-155.5526,32.6,0.3,ml,,,,0.59,ak,ak02393qs5l7,2023-07-17T17:44:27.276Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T06:14:48.270Z,44.8,-110.9973333,9.62,1.77,ml,24,91,0.04115,0.15,uu,uu60545532,2023-07-17T13:28:22.100Z,"Yellowstone National Park, Wyoming",earthquake,0.51,0.63,0.173,4,reviewed,uu,uu
 2023-07-17T05:54:59.260Z,44.7986667,-110.9913333,7.22,0.91,ml,12,164,0.04073,0.11,uu,uu60545527,2023-07-17T13:40:24.760Z,"16 km ENE of Hebgen Lake Estates, Montana",earthquake,0.51,0.85,0.22,3,reviewed,uu,uu
 2023-07-17T05:23:48.040Z,36.5208321,-121.1028366,6.44,2.48,md,43,79,,0.14,nc,nc73913861,2023-07-17T14:34:21.536Z,"4 km ESE of Pinnacles, CA",earthquake,0.31,0.96,0.17,25,automatic,nc,nc
-2023-07-17T04:59:57.992Z,37.6673,-117.1768,0,1.6,ml,10,196.73,0.636,0.316,nn,nn00862854,2023-07-17T05:02:42.992Z,"6 km SE of Goldfield, Nevada",earthquake,,12.9,1.09,6,automatic,nn,nn
+2023-07-17T04:59:45.376Z,38.1625,-117.8776,9.9,1.7,ml,6,113.33,0.092,0.1493,nn,nn00862854,2023-07-17T18:31:59.068Z,"32 km SE of Mina, Nevada",earthquake,,2.8,0.52,5,reviewed,nn,nn
 2023-07-17T04:53:44.990Z,61.4746,-146.691,28.3,1.7,ml,,,,0.55,ak,ak02393j3wmb,2023-07-17T04:55:20.603Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-17T04:50:30.961Z,-16.7572,-175.1205,179.685,4.6,mb,22,85,2.163,0.66,us,us7000kgae,2023-07-17T05:15:56.040Z,"Tonga",earthquake,13.08,10.143,0.067,67,reviewed,us,us
 2023-07-17T04:42:14.284Z,-1.4911,126.487,10,5.6,mww,210,35,2.414,0.81,us,us7000kga2,2023-07-17T12:49:16.040Z,"Kepulauan Sula, Indonesia",earthquake,6.22,1.832,0.098,10,reviewed,us,us
@@ -176,6 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T21:18:51.242Z,62.8218,-148.8266,14.9,1,ml,,,,0.59,ak,ak023925hftw,2023-07-16T21:21:35.821Z,"63 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-16T21:16:09.624Z,31.6148,-104.1787,9.832,2.5,ml,36,60,0.21,0.67,us,us7000kg7n,2023-07-16T21:39:32.040Z,"49 km NW of Toyah, Texas",earthquake,1.32,8.149,0.06,54,reviewed,us,us
 2023-07-16T21:16:02.030Z,31.5416667,-115.6738333,6.31,2.73,ml,16,68,0.1769,0.15,ci,ci39614394,2023-07-17T16:09:57.364Z,"87km ESE of Maneadero, B.C., MX",earthquake,0.2,1.12,0.112,44,reviewed,ci,ci
+2023-07-16T21:06:07.450Z,46.85316666666667,-121.7595,0.82,1.27,ml,12,73,0.02308,0.06,uw,uw61932142,2023-07-17T18:26:11.750Z,"23 km ENE of Ashford, Washington",earthquake,0.28,0.59,0.16052610841552295,7,reviewed,uw,uw
 2023-07-16T21:01:55.220Z,31.5888333,-114.4248333,5.95,2.78,ml,8,123,0.5481,0.29,ci,ci39614386,2023-07-17T16:07:07.343Z,"87km SE of Estacion Coahuila, B.C., MX",earthquake,0.71,31.61,0.141,17,reviewed,ci,ci
 2023-07-16T21:01:13.599Z,35.53333333,-96.76016667,7.88,2.35,ml,62,61,0.1214761622,0.17,ok,ok2023nvsf,2023-07-17T15:12:11.012Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.19,17,reviewed,ok,ok
 2023-07-16T20:57:19.500Z,35.5445,-96.7645,7.27,3.09,ml,82,75,0.1097784577,0.16,ok,ok2023nvsc,2023-07-17T12:33:29.203Z,"Oklahoma",earthquake,,0.7,0.21,37,reviewed,ok,ok
@@ -201,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T20:13:11.694Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
 2023-07-16T18:54:40.714Z,60.2062,-152.7405,22.7,0.5,ml,,,,0.3,ak,ak023923wtzb,2023-07-16T18:56:44.668Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-16T18:34:22.520Z,19.1389999389648,-155.386840820312,31.9899997711182,2.4,ml,46,181,,0.109999999,hv,hv73483992,2023-07-16T19:50:07.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.16,22,automatic,hv,hv
-2023-07-16T18:24:59.127Z,65.5987,-149.1239,8.5,1.1,ml,,,,0.77,ak,ak023923qfx4,2023-07-16T18:26:37.335Z,"28 km WNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-16T18:23:03.804Z,64.8543,-149.0853,12,0.1,ml,,,,0.37,ak,ak023923q3xo,2023-07-16T18:24:13.720Z,"28 km N of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
