@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-17T22:50:38.460Z,38.7270012,-122.9189987,6.16,1.14,md,14,157,0.07038,0.07,nc,nc73914091,2023-07-17T22:53:19.692Z,"12 km SE of Cloverdale, CA",earthquake,0.83,1.93,0.17,15,automatic,nc,nc
+2023-07-17T23:05:37.600Z,33.772,-116.9011667,9.18,1.18,ml,38,37,0.08678,0.21,ci,ci39615138,2023-07-17T23:09:21.898Z,"3km NNW of Valle Vista, CA",earthquake,0.24,0.73,0.191,27,automatic,ci,ci
+2023-07-17T23:05:20.460Z,38.7813339,-122.7561646,0.95,0.46,md,8,102,0.01298,0.02,nc,nc73914116,2023-07-17T23:06:54.266Z,"0 km N of The Geysers, CA",earthquake,0.26,0.64,0.21,8,automatic,nc,nc
+2023-07-17T23:01:54.587Z,63.3508,-145.5452,10.2,0.7,ml,,,,0.16,ak,ak02393u40ma,2023-07-17T23:08:53.032Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-17T23:01:14.830Z,34.5181667,-119.7591667,3.76,1.04,ml,13,95,0.06824,0.28,ci,ci39615130,2023-07-17T23:04:56.576Z,"11km NE of Goleta, CA",earthquake,0.64,2.5,0.279,12,automatic,ci,ci
+2023-07-17T22:56:29.960Z,36.5859985,-121.1776657,6.66,1.37,md,13,141,0.01557,0.1,nc,nc73914106,2023-07-17T23:09:10.333Z,"7 km NNW of Pinnacles, CA",earthquake,0.47,1.64,0.36,7,automatic,nc,nc
+2023-07-17T22:50:38.460Z,38.7270012,-122.9189987,6.16,1.14,md,14,157,0.07038,0.07,nc,nc73914091,2023-07-17T23:02:11.834Z,"12 km SE of Cloverdale, CA",earthquake,0.83,1.93,0.17,15,automatic,nc,nc
 2023-07-17T22:10:36.150Z,38.8105011,-122.8231659,2.48,0.79,md,17,60,0.004972,0.02,nc,nc73914076,2023-07-17T22:48:16.736Z,"7 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.43,18,automatic,nc,nc
 2023-07-17T22:10:07.150Z,38.8105011,-122.82267,2.16,0.57,md,8,102,0.00534,0.01,nc,nc73914071,2023-07-17T22:39:15.677Z,"7 km WNW of The Geysers, CA",earthquake,0.41,1.1,0.31,8,automatic,nc,nc
 2023-07-17T21:59:19.470Z,34.4151667,-118.6405,7.48,1.28,ml,20,70,0.01984,0.27,ci,ci39615106,2023-07-17T22:03:01.197Z,"8km SW of Valencia, CA",earthquake,0.56,0.9,0.198,32,automatic,ci,ci
@@ -35,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T17:14:47.877Z,62.7641,-150.6309,85.2,0.9,ml,,,,0.45,ak,ak02393qm6s3,2023-07-17T17:16:17.252Z,"30 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:12:42.830Z,38.8126667,-122.823,2.66,0.34,md,7,104,0.006139,0.01,nc,nc73913996,2023-07-17T22:27:12.832Z,"7 km NW of The Geysers, CA",earthquake,0.64,0.97,0.541,7,reviewed,nc,nc
 2023-07-17T17:11:16.640Z,34.0021667,-117.0505,24.38,1.15,ml,19,62,0.1318,0.25,ci,ci39614858,2023-07-17T17:15:03.315Z,"2km N of Calimesa, CA",earthquake,0.76,1.72,0.354,22,automatic,ci,ci
-2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-07-17T17:06:09.205Z,62.9065,-150.749,96.5,1,ml,,,,0.22,ak,ak02393qke2g,2023-07-17T17:08:48.004Z,"45 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T17:01:46.900Z,19.4370002746582,-155.598663330078,36.8199996948242,1.74,ml,16,102,,0.280000001,hv,hv73485272,2023-07-17T17:07:29.300Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.24,1.47000003,0.16,4,automatic,hv,hv
 2023-07-17T16:56:50.572Z,58.619,-153.5904,81.6,2,ml,,,,0.56,ak,ak02393q9rj5,2023-07-17T17:00:33.094Z,"73 km NNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T16:46:14.390Z,38.8121681,-122.8233337,2.34,0.63,md,8,87,0.005631,0.03,nc,nc73913986,2023-07-17T18:47:19.009Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.66,0.21,10,automatic,nc,nc
@@ -156,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T03:17:56.522Z,31.718219,-104.525093,4.306298828,2.3,ml,16,75,0.002848809036,0.2,tx,tx2023nwer,2023-07-17T19:29:58.349Z,"52 km SSW of Whites City, New Mexico",earthquake,3.379939486,1.244908684,0.1,6,reviewed,tx,tx
 2023-07-17T03:15:52.710Z,31.5405,-115.6813333,5.33,3.49,ml,14,93,0.1726,0.2,ci,ci39614506,2023-07-17T13:24:32.908Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.34,2.13,0.133,64,reviewed,ci,ci
 2023-07-17T03:08:26.680Z,44.5893333,-110.3721667,4.19,0.4,md,7,130,0.03589,0.1,uu,uu60545512,2023-07-17T15:12:24.230Z,"Yellowstone National Park, Wyoming",earthquake,0.57,0.72,0.218,3,reviewed,uu,uu
-2023-07-17T03:05:10.917Z,-38.1911,-70.3731,171.371,6.6,mww,70,28,1.634,1.1,us,us7000kg9g,2023-07-17T18:52:11.942Z,"25 km ESE of Loncopué, Argentina",earthquake,7.36,6.156,0.065,23,reviewed,us,us
+2023-07-17T03:05:10.917Z,-38.1911,-70.3731,171.371,6.6,mww,70,28,1.634,1.1,us,us7000kg9g,2023-07-17T23:01:17.788Z,"25 km ESE of Loncopué, Argentina",earthquake,7.36,6.156,0.065,23,reviewed,us,us
 2023-07-17T03:01:17.860Z,57.1383,-155.0841,31.5,2,ml,,,,0.29,ak,ak02393i79oq,2023-07-17T04:41:23.065Z,"Alaska Peninsula",earthquake,,5.9,,,automatic,ak,ak
 2023-07-17T02:55:10.700Z,37.5091667,-119.0226667,4.45,0.51,md,13,150,0.1005,0.03,nc,nc73913821,2023-07-17T19:33:58.135Z,"15 km SSW of Mammoth Lakes, CA",earthquake,0.78,2.4,0.182,11,reviewed,nc,nc
 2023-07-17T02:29:02.680Z,17.8868333333333,-66.9588333333333,8.99,2.56,md,15,245,0.09743,0.11,pr,pr71418233,2023-07-17T02:50:06.080Z,"10 km SSW of Guánica, Puerto Rico",earthquake,0.71,0.67,0.132745004195082,7,reviewed,pr,pr
@@ -194,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T23:44:55.556Z,58.1724,-155.4052,0,1,ml,,,,0.81,ak,ak023926tvzn,2023-07-16T23:46:24.867Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-16T23:30:23.400Z,38.8323333,-122.7935,2.11,0.37,md,12,65,0.01684,0.02,nc,nc73913766,2023-07-17T20:19:18.160Z,"6 km W of Cobb, CA",earthquake,0.24,0.44,0.126,11,reviewed,nc,nc
 2023-07-16T23:27:55.790Z,18.1203333333333,-66.652,15.56,1.99,md,8,184,0.08274,0.24,pr,pr71418218,2023-07-16T23:44:13.690Z,"8 km ESE of Adjuntas, Puerto Rico",earthquake,0.94,1.63,0.189712393485877,5,reviewed,pr,pr
-2023-07-16T23:05:45.710Z,35.6628333,-117.4898333,4.76,1.22,ml,12,58,0.05389,0.16,ci,ci39614458,2023-07-17T15:21:39.037Z,"14km SSW of Searles Valley, CA",earthquake,0.32,0.7,0.144,8,reviewed,ci,ci
-2023-07-16T23:01:58.799Z,65.0011,-147.0361,0,1.1,ml,,,,0.59,ak,ak023926koe1,2023-07-16T23:04:00.663Z,"14 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-16T22:59:37.150Z,34.999,-118.5183333,8.91,1.23,ml,24,48,0.1454,0.11,ci,ci39614450,2023-07-17T22:15:52.070Z,"16km SSW of Tehachapi, CA",earthquake,0.15,0.47,0.156,20,reviewed,ci,ci
