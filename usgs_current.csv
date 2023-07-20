@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T10:12:28.587Z,-7.9671,-74.3087,137.583,5,mb,68,95,4.71,0.48,us,us7000kgth,2023-07-19T10:27:17.040Z,"52 km NNE of Pucallpa, Peru",earthquake,10.56,7.346,0.049,134,reviewed,us,us
 2023-07-19T10:11:37.005Z,12.8349,-88.1827,79.6,4.7,mb,122,167,0.645,0.74,us,us7000kgtg,2023-07-19T13:17:35.759Z,"42 km SSW of Intipucá, El Salvador",earthquake,9.7,9.946,0.041,178,reviewed,us,us
 2023-07-19T10:06:30.665Z,58.284,-155.1742,29,0.7,ml,,,,0.52,ak,ak02396xh3h6,2023-07-19T10:08:34.161Z,"90 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-19T09:52:57.240Z,38.4981667,-112.8745,2.05,-0.61,md,7,104,0.003602,0.04,uu,uu60545707,2023-07-19T13:35:56.680Z,"16 km NE of Milford, Utah",earthquake,0.53,0.86,0.515,2,reviewed,uu,uu
