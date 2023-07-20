@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-20T03:46:36.280Z,35.6328333,-117.4618333,6.43,1.32,ml,19,74,0.04474,0.16,ci,ci39617162,2023-07-20T03:50:05.659Z,"16km SSW of Searles Valley, CA",earthquake,0.38,0.83,0.112,12,automatic,ci,ci
 2023-07-20T03:33:59.767Z,60.7969,-150.7724,35.7,1.1,ml,,,,0.53,ak,ak02398h09bc,2023-07-20T03:43:20.523Z,"14 km SSW of Point Possession, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-07-20T03:20:14.550Z,38.8346672,-122.7993317,2.34,0.21,md,7,107,0.007952,0.03,nc,nc73914786,2023-07-20T03:21:50.218Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.88,0.09,8,automatic,nc,nc
+2023-07-20T03:24:48.916Z,-28.5602,-175.53,10,5,mb,11,167,2.209,0.36,us,us7000kh0t,2023-07-20T03:47:50.040Z,"Kermadec Islands region",earthquake,9.53,1.975,0.123,21,reviewed,us,us
+2023-07-20T03:20:14.550Z,38.8346672,-122.7993317,2.34,0.21,md,7,107,0.007952,0.03,nc,nc73914786,2023-07-20T03:45:15.137Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.88,0.09,8,automatic,nc,nc
 2023-07-20T03:18:42.900Z,38.831665,-122.795166,5.28,0.28,md,6,182,0.007716,0.02,nc,nc73914781,2023-07-20T03:35:18.071Z,"6 km W of Cobb, CA",earthquake,1.38,6.68,0.17,8,automatic,nc,nc
 2023-07-20T03:14:31.338Z,58.7332,-153.9691,15.6,1.6,ml,,,,0.51,ak,ak02398gw4il,2023-07-20T03:16:44.298Z,"91 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-20T02:32:51.510Z,38.822834,-122.8518295,2.59,0.73,md,10,174,0.01313,0.01,nc,nc73914776,2023-07-20T02:51:15.784Z,"10 km WNW of The Geysers, CA",earthquake,0.51,1.03,0.21,10,automatic,nc,nc
