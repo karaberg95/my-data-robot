@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T14:34:03.934Z,39.1667,-119.6083,5.4,0.7,ml,10,157.6,0.078,0.1494,nn,nn00863126,2023-07-22T15:12:00.467Z,"7 km S of Dayton, Nevada",earthquake,,2.2,0.23,5,reviewed,nn,nn
 2023-07-22T14:26:58.291Z,39.1655,-119.6099,3.8,0.5,ml,8,156.49,0.077,0.1005,nn,nn00863125,2023-07-22T15:08:51.526Z,"8 km S of Dayton, Nevada",earthquake,,4,0.18,3,reviewed,nn,nn
 2023-07-22T14:26:49.760Z,33.3538333,-116.3331667,11.91,0.73,ml,14,135,0.1106,0.07,ci,ci39619314,2023-07-22T14:30:20.010Z,"12km NNE of Borrego Springs, CA",earthquake,0.24,0.59,0.178,12,automatic,ci,ci
-2023-07-22T14:19:01.090Z,37.7826653,-122.1786652,6.33,2.18,md,50,35,0.002148,0.09,nc,nc73915526,2023-07-22T16:15:45.637Z,"5 km ESE of Oakland, CA",earthquake,0.15,0.3,0.12,27,automatic,nc,nc
+2023-07-22T14:19:01.090Z,37.7826653,-122.1786652,6.33,2.18,md,50,35,0.002148,0.09,nc,nc73915526,2023-07-22T20:43:10.192Z,"5 km ESE of Oakland, CA",earthquake,0.15,0.3,0.12,27,automatic,nc,nc
 2023-07-22T14:07:42.560Z,33.766,-116.0255,9,0.81,ml,14,119,0.1144,0.18,ci,ci39619298,2023-07-22T14:11:17.841Z,"17km NE of Coachella, CA",earthquake,0.35,1.5,0.141,13,automatic,ci,ci
 2023-07-22T14:05:46.513Z,39.1703,-119.6263,0,1.2,ml,9,76.48,0.084,0.1409,nn,nn00863108,2023-07-22T14:08:11.627Z,"7 km SSW of Dayton, Nevada",earthquake,,3.3,0.27,9,automatic,nn,nn
 2023-07-22T14:03:19.510Z,19.3921661376953,-155.275497436523,1.4099999666214,2.28,ml,25,60,,0.170000002,hv,hv73492522,2023-07-22T14:08:48.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.280000001,0.37,11,automatic,hv,hv
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-22T19:46:51.207Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
 2023-07-22T09:17:45.432Z,64.674,-147.4794,24.4,0.1,ml,,,,0.74,ak,ak0239bvk3db,2023-07-22T09:23:38.917Z,"10 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T09:17:10.976Z,38.4427,-119.3795,5.9,1.1,ml,6,337.35,0.077,0.1743,nn,nn00863112,2023-07-22T14:18:43.989Z,"11 km SE of Walker, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
-2023-07-22T09:12:27.530Z,37.5786667,-118.792,0.85,0.72,md,14,290,0.03159,0.03,nc,nc73915466,2023-07-22T19:48:23.981Z,"10 km W of Toms Place, CA",earthquake,2.04,0.87,0.237,15,reviewed,nc,nc
+2023-07-22T09:12:27.530Z,37.5786667,-118.792,0.85,0.72,md,14,290,0.03159,0.03,nc,nc73915466,2023-07-22T20:41:17.148Z,"10 km W of Toms Place, CA",earthquake,2.04,0.87,0.237,15,reviewed,nc,nc
 2023-07-22T09:07:57.440Z,33.2675,-116.4191667,3.82,0.46,ml,15,108,0.00182,0.18,ci,ci39619146,2023-07-22T09:11:26.600Z,"4km WNW of Borrego Springs, CA",earthquake,0.39,0.47,0.096,6,automatic,ci,ci
 2023-07-22T09:07:30.130Z,38.7876667,-122.7438333,1.74,0.36,md,18,84,0.007101,0.02,nc,nc73915461,2023-07-22T19:58:25.604Z,"2 km NE of The Geysers, CA",earthquake,0.19,0.37,0.222,11,reviewed,nc,nc
 2023-07-22T09:03:26.390Z,33.2665,-116.4268333,4.07,0.8,ml,27,50,0.00828,0.19,ci,ci39619138,2023-07-22T09:06:59.109Z,"5km WNW of Borrego Springs, CA",earthquake,0.3,0.53,0.092,19,automatic,ci,ci
@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T20:53:25.910Z,33.6701667,-116.776,14.51,0.8,ml,21,64,0.0658,0.16,ci,ci39618842,2023-07-21T20:56:59.082Z,"9km SW of Idyllwild, CA",earthquake,0.35,0.42,0.175,20,automatic,ci,ci
 2023-07-21T20:53:08.990Z,33.6716667,-116.7748333,15.42,0.32,ml,16,130,0.06411,0.09,ci,ci39618834,2023-07-21T22:47:31.549Z,"9km SW of Idyllwild, CA",earthquake,0.3,0.48,0.063,5,reviewed,ci,ci
 2023-07-21T20:50:18.238Z,61.5436,-146.5679,25,1.1,ml,,,,0.92,ak,ak0239aerj1y,2023-07-21T20:52:39.137Z,"47 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-21T20:44:43.720Z,40.2195,-121.1543333,7.37,1.86,md,15,156,0.02899,0.04,nc,nc73915321,2023-07-22T07:20:17.121Z,"1 km N of Prattville, CA",earthquake,0.35,0.18,0.219,14,reviewed,nc,nc
-2023-07-21T20:40:47.730Z,34.0981667,-117.2996667,15.21,1.09,ml,23,106,0.1219,0.13,ci,ci39618818,2023-07-21T23:00:17.615Z,"3km NNE of Colton, CA",earthquake,0.23,0.39,0.074,10,reviewed,ci,ci
