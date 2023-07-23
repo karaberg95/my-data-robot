@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T19:37:41.903Z,58.2511,-155.1316,33,0.5,ml,,,,0.24,ak,ak0239dp61ym,2023-07-23T19:39:29.070Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
+2023-07-23T19:24:26.158Z,-3.3502,-79.9423,52.398,4.4,mb,33,113,0.232,0.43,us,us7000khun,2023-07-23T19:44:54.040Z,"near the coast of Ecuador",earthquake,5.99,8.699,0.091,35,reviewed,us,us
 2023-07-23T19:24:20.640Z,61.9594,-149.4438,50.8,1,ml,,,,0.17,ak,ak0239dp380g,2023-07-23T19:32:36.053Z,"26 km NNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-23T19:21:22.433Z,58.3794,-154.2893,40,1.5,ml,,,,0.99,ak,ak0239dp2l03,2023-07-23T19:22:44.612Z,"88 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-23T19:10:05.290Z,33.73,-116.836,14.56,0.6,ml,12,115,0.0848,0.18,ci,ci39619970,2023-07-23T19:13:37.965Z,"6km ESE of Valle Vista, CA",earthquake,0.63,0.79,0.203,11,automatic,ci,ci
