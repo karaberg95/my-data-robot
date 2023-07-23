@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T15:22:13.550Z,19.3899993896484,-155.275665283203,0.800000011920929,2.9000001,md,36,51,,0.189999998,hv,hv73494227,2023-07-23T15:25:26.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.230000004,1.75999999,25,automatic,hv,hv
 2023-07-23T15:05:15.307Z,64.9652,-149.7203,18.9,0.6,ml,,,,0.2,ak,ak0239dmlekq,2023-07-23T15:07:40.847Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T15:03:21.175Z,63.2749,-151.0223,8.5,1,ml,,,,0.81,ak,ak0239dmkzlc,2023-07-23T15:06:02.486Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T14:23:49.320Z,35.6816597,-98.12252045,5.201623917,2,ml,17,66.70233154,0.08036170155,0.535036611,ok,ok2023ohzq,2023-07-23T14:26:44.263Z,"8 km N of Calumet, Oklahoma",earthquake,3.510077987,4.074165369,0.31,14,automatic,ok,ok
