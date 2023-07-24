@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-24T07:11:36.812Z,35.70337677,-98.13447571,2.635384798,2.2,ml,10,113.6786575,0.07674712688,0.6511563042,ok,ok2023ojgw,2023-07-24T07:14:08.156Z,"11 km N of Calumet, Oklahoma",earthquake,3.908573483,2.595966716,0.44,7,automatic,ok,ok
+2023-07-24T07:19:44.338Z,63.0319,-151.5375,0,1.1,ml,,,,1.12,ak,ak0239f5gcht,2023-07-24T07:22:10.361Z,"57 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-24T07:14:01.300Z,34.1386667,-116.819,5.29,0.88,ml,17,87,0.1037,0.13,ci,ci39620194,2023-07-24T07:17:37.299Z,"14km S of Big Bear City, CA",earthquake,0.27,0.8,0.125,16,automatic,ci,ci
+2023-07-24T07:11:36.812Z,35.70337677,-98.13447571,2.635384798,2.2,ml,10,113.6786575,0.07674712688,0.6511563042,ok,ok2023ojgw,2023-07-24T07:14:31.071Z,"11 km N of Calumet, Oklahoma",earthquake,3.908573483,2.595966716,0.44,7,automatic,ok,ok
 2023-07-24T07:10:51.987Z,37.5333,-114.9027,15.9,1.1,ml,10,328.95,0.967,0.3853,nn,nn00863185,2023-07-24T07:13:29.973Z,"29 km ESE of Hiko, Nevada",earthquake,,7.6,0.82,7,automatic,nn,nn
-2023-07-24T07:03:32.843Z,63.029,-151.5376,0,1,ml,,,,0.96,ak,ak0239f5cw5e,2023-07-24T07:05:54.383Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-24T07:03:32.843Z,63.029,-151.5376,0,1,ml,,,,0.96,ak,ak0239f5cw5e,2023-07-24T07:16:33.950Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-24T06:50:02.300Z,33.8778333,-118.2818333,11.25,1.74,ml,38,43,0.04222,0.32,ci,ci39620186,2023-07-24T07:00:30.720Z,"3km ESE of Gardena, CA",earthquake,0.45,0.72,0.234,26,automatic,ci,ci
 2023-07-24T06:45:11.440Z,19.388500213623,-155.279495239258,1.37999999523163,1.73,ml,15,68,,0.109999999,hv,hv73495122,2023-07-24T06:50:41.760Z,"7 km SW of Volcano, Hawaii",earthquake,0.33,0.219999999,0.2,8,automatic,hv,hv
 2023-07-24T06:28:55.250Z,61.9463,-151.4679,74.6,1.8,ml,,,,0.56,ak,ak0239f4wv6d,2023-07-24T06:31:10.376Z,"6 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -188,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T07:56:45.137Z,38.5513,-118.1096,6.6,2,ml,16,94.7,0.366,0.5368,nn,nn00863149,2023-07-23T07:59:39.703Z,"Nevada",earthquake,,0.7,0.18,12,automatic,nn,nn
 2023-07-23T07:28:51.940Z,34.0953333,-117.0351667,1.41,1.74,ml,66,54,0.05349,0.2,ci,ci39619762,2023-07-23T07:40:07.780Z,"7km N of Yucaipa, CA",earthquake,0.19,0.43,0.171,25,automatic,ci,ci
 2023-07-23T07:25:17.590Z,17.9406666666667,-66.9503333333333,15.32,3.19,md,20,216,0.07581,0.15,pr,pr71418948,2023-07-23T07:46:03.340Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.41,0.45,0.0521457257708735,7,reviewed,pr,pr
-2023-07-23T07:16:47.141Z,63.1632,-151.3738,8.7,1.4,ml,,,,1.48,ak,ak0239dhwd2i,2023-07-23T07:19:06.795Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
