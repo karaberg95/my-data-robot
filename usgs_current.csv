@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T17:32:37.725Z,61.5064,-147.0775,20,1.5,ml,,,,0.74,ak,ak0239fbhgcc,2023-07-24T17:35:01.413Z,"45 km SE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-24T17:23:25.704Z,61.7528,-149.0371,18.3,1.1,ml,,,,0.4,ak,ak0239fbfhyy,2023-07-24T17:25:00.438Z,"5 km NE of Buffalo Soapstone, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-24T17:23:00.190Z,38.7876663,-122.7253342,2.06,1.08,md,10,110,0.009941,0.07,nc,nc73916206,2023-07-24T17:24:33.445Z,"3 km ENE of The Geysers, CA",earthquake,0.62,0.95,0.34,10,automatic,nc,nc
 2023-07-24T16:40:36.260Z,38.8009987,-122.7679977,1.58,1.23,md,14,80,0.01741,0.03,nc,nc73916201,2023-07-24T17:15:14.434Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.47,0.24,10,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T15:03:47.299Z,58.1974,-155.2935,0,0.9,ml,,,,0.73,ak,ak0239fa4e3t,2023-07-24T15:05:53.171Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-24T14:55:03.850Z,33.9401667,-116.022,6.73,1.27,ml,26,88,0.06344,0.17,ci,ci39620546,2023-07-24T15:05:33.860Z,"22km SSE of Twentynine Palms, CA",earthquake,0.27,0.67,0.147,28,automatic,ci,ci
 2023-07-24T14:38:59.900Z,38.8110008,-122.8141632,3.65,0.88,md,7,154,0.01192,0.01,nc,nc73916196,2023-07-24T16:12:16.075Z,"6 km NW of The Geysers, CA",earthquake,0.63,1.7,0.27,7,automatic,nc,nc
-2023-07-24T14:14:26.494Z,38.1325,-118.0254,6.5,1.9,ml,18,76.92,0.074,0.2994,nn,nn00863186,2023-07-24T14:17:25.634Z,"29 km SSE of Mina, Nevada",earthquake,,0.4,0.19,10,automatic,nn,nn
+2023-07-24T14:14:27.216Z,38.118,-118.0237,6.8,2.2,ml,11,78.74,0.087,0.1746,nn,nn00863186,2023-07-24T17:35:33.542Z,"31 km SSE of Mina, Nevada",earthquake,,3.1,0.4,6,reviewed,nn,nn
 2023-07-24T13:41:28.360Z,46.187,-122.1925,6.03,0.48,ml,21,63,0.01283,0.18,uw,uw61943346,2023-07-24T17:01:57.090Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.49,0.2270958257370317,14,reviewed,uw,uw
 2023-07-24T13:30:47.463Z,58.1753,-155.5877,3.1,0.6,ml,,,,0.84,ak,ak0239f93b8q,2023-07-24T13:32:47.528Z,"84 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T13:22:44.874Z,60.9889,-150.1227,43.4,1.4,ml,,,,0.61,ak,ak0239f91lbb,2023-07-24T13:24:44.867Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -87,8 +88,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T04:38:29.470Z,37.3466682,-121.7043304,8.44,1.41,md,20,64,0.04948,0.06,nc,nc73916046,2023-07-24T07:08:14.789Z,"11 km E of Alum Rock, CA",earthquake,0.22,0.54,0.08,11,automatic,nc,nc
 2023-07-24T04:35:00.800Z,37.3470001,-121.7076645,7.43,2.64,md,65,35,,0.06,nc,nc73916041,2023-07-24T06:41:18.636Z,"11 km ESE of Alum Rock, CA",earthquake,0.13,0.34,0.15,64,automatic,nc,nc
 2023-07-24T04:27:44.390Z,46.0705,-122.1165,11.42,0.2,ml,11,191,0.06756,0.15,uw,uw61943231,2023-07-24T05:31:29.010Z,"31 km NE of Amboy, Washington",earthquake,0.76,0.83,0.15935416339640576,6,reviewed,uw,uw
-2023-07-24T04:23:38.600Z,33.4603333,-116.5785,9.17,0.58,ml,24,71,0.03959,0.15,ci,ci39620138,2023-07-24T04:27:09.441Z,"14km SE of Anza, CA",earthquake,0.27,0.54,0.172,17,automatic,ci,ci
-2023-07-24T04:10:32.940Z,36.4016667,-120.2765,6.42,1.7,md,27,144,0.09629,0.11,nc,nc73916026,2023-07-24T17:30:59.900Z,"12 km SSE of Cantua Creek, CA",earthquake,0.43,0.32,0.24,23,reviewed,nc,nc
+2023-07-24T04:24:37.920Z,37.3466667,-121.7066667,8.16,0.91,md,24,53,0.05133,0.07,nc,nc73916036,2023-07-24T17:39:30.911Z,"11 km ESE of Alum Rock, CA",earthquake,0.22,0.37,0.254,20,reviewed,nc,nc
+2023-07-24T04:23:38.610Z,33.4596667,-116.5785,8.68,0.6,ml,33,76,0.04016,0.12,ci,ci39620138,2023-07-24T17:35:49.709Z,"14km SE of Anza, CA",earthquake,0.16,0.37,0.147,16,reviewed,ci,ci
+2023-07-24T04:18:10.440Z,36.41,-120.2776667,5.75,1.48,md,21,213,0.1056,0.1,nc,nc73916031,2023-07-24T17:41:12.583Z,"11 km SSE of Cantua Creek, CA",earthquake,0.59,0.36,0.261,14,reviewed,nc,nc
+2023-07-24T04:10:32.940Z,36.4016667,-120.2765,6.42,1.7,md,27,144,0.09629,0.11,nc,nc73916026,2023-07-24T17:38:11.565Z,"12 km SSE of Cantua Creek, CA",earthquake,0.43,0.32,0.24,23,reviewed,nc,nc
 2023-07-24T04:07:17.350Z,33.8546667,-116.7476667,9.08,1.56,ml,24,46,0.1113,0.36,ci,ci39620130,2023-07-24T04:10:53.363Z,"8km SSE of Cabazon, CA",earthquake,0.65,2.25,0.11,25,automatic,ci,ci
 2023-07-24T04:01:40.269Z,61.8198,-150.9765,70.9,2.3,ml,,,,0.46,ak,ak0239f3k6gg,2023-07-24T04:03:31.899Z,"29 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T03:50:53.690Z,37.3471667,-121.7065,8.21,0.89,md,25,53,0.05125,0.08,nc,nc73916021,2023-07-24T17:26:29.301Z,"11 km E of Alum Rock, CA",earthquake,0.19,0.4,0.24,22,reviewed,nc,nc
@@ -180,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T17:51:18.330Z,35.9386666666667,-91.277,15.24,1.51,md,5,181,0.1647,0.15,nm,nm60500938,2023-07-24T13:04:03.120Z,"5 km SE of Strawberry, Arkansas",earthquake,1.09,1.65,0.0485450170015245,5,reviewed,nm,nm
 2023-07-23T17:46:34.580Z,34.5061667,-118.6946667,16.52,1.6,ml,37,54,0.08617,0.27,ci,ci39619922,2023-07-23T17:57:28.250Z,"7km WNW of Castaic, CA",earthquake,0.39,0.89,0.14,30,automatic,ci,ci
 2023-07-23T17:43:06.910Z,35.944,-91.2863333333333,13.42,1.66,md,9,105,0.1653,0.25,nm,nm60500933,2023-07-24T12:42:42.700Z,"4 km SE of Strawberry, Arkansas",earthquake,0.68,1.44,0.123424664569945,6,reviewed,nm,nm
-2023-07-23T17:38:56.490Z,35.9573333333333,-91.3,15.74,2.49,md,40,80,0.1633,0.26,nm,nm60538361,2023-07-23T18:24:42.040Z,"Arkansas",earthquake,0.31,0.57,0.0797931417907969,20,reviewed,nm,nm
-2023-07-23T17:36:58.764Z,61.5512,-146.4809,27.7,1.3,ml,,,,0.82,ak,ak0239dnz0be,2023-07-23T17:39:27.344Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-23T17:34:11.714Z,59.6392,-152.7023,83.3,1.5,ml,,,,0.34,ak,ak0239dnyh9v,2023-07-23T17:36:09.927Z,"51 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
