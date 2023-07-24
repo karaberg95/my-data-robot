@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T08:32:08.260Z,18.134,-67.7973333333333,135.65,3.27,md,11,309,0.3918,0.23,pr,pr71419128,2023-07-24T08:47:11.970Z,"61 km WSW of Stella, Puerto Rico",earthquake,2.34,0.97,0.0506774086586188,6,reviewed,pr,pr
 2023-07-24T08:27:15.640Z,34.0065,-116.9165,11.69,1.03,ml,29,76,0.08831,0.17,ci,ci39620218,2023-07-24T08:30:51.005Z,"10km NNW of Banning, CA",earthquake,0.25,0.63,0.166,27,automatic,ci,ci
+2023-07-24T08:24:06.102Z,-34.0455,-70.3686,3.3,4.9,mb,49,93,0.208,0.5,us,us7000khxt,2023-07-24T08:52:59.040Z,"29 km ENE of Machalí, Chile",earthquake,2.12,4.44,0.035,252,reviewed,us,us
 2023-07-24T07:45:56.710Z,35.994,-117.4288333,-0.21,0.97,ml,13,156,0.1566,0.2,ci,ci39620210,2023-07-24T07:49:31.832Z,"25km N of Searles Valley, CA",earthquake,0.63,31.61,0.151,4,automatic,ci,ci
 2023-07-24T07:42:52.799Z,62.0835,-147.6118,33.5,2.2,ml,,,,0.47,ak,ak0239f5lam7,2023-07-24T07:44:23.526Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-24T07:31:02.990Z,32.3349991,-115.3133316,10.85,3.06,ml,38,38,0.08455,0.37,ci,ci39620202,2023-07-24T07:42:00.810Z,"12 km W of Delta, B.C., MX",earthquake,0.37,0.85,0.308,22,automatic,ci,ci
