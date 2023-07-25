@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T20:01:59.753Z,58.2099,-155.2185,1.2,0.1,ml,,,,0.13,ak,ak0239h0mi5j,2023-07-25T20:03:44.738Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-07-25T19:59:33.526Z,63.2979,-150.0101,92.2,0.9,ml,,,,0.35,ak,ak0239h0dg20,2023-07-25T20:01:31.615Z,"54 km WSW of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-25T19:56:59.730Z,33.8678333,-117.4965,3.18,0.63,ml,11,56,0.06606,0.07,ci,ci39621890,2023-07-25T20:19:00.046Z,"2km ESE of Home Gardens, CA",earthquake,0.29,0.23,0.079,3,reviewed,ci,ci
+2023-07-25T19:36:39.600Z,56.9163333333333,-158.0075,4.78,-0.51,ml,4,288,,0.18,av,av91977061,2023-07-25T21:16:46.650Z,"73 km NNE of Chignik, Alaska",earthquake,1.36,2.04,0.280712906994188,4,reviewed,av,av
 2023-07-25T19:30:07.731Z,-11.0978,163.0509,45.609,5,mb,77,123,3.471,0.51,us,us6000kvis,2023-07-25T19:49:14.040Z,"142 km ESE of Kirakira, Solomon Islands",earthquake,11.02,6.97,0.045,157,reviewed,us,us
 2023-07-25T19:28:02.358Z,57.0186,-158.3126,6.4,1,ml,,,,0.63,ak,ak0239h06qgb,2023-07-25T19:30:17.442Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-25T19:23:43.296Z,58.1925,-155.331,1.1,0,ml,,,,0.38,ak,ak0239h05r15,2023-07-25T19:25:03.857Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -202,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:44:29.695Z,64.6562,-146.895,2.6,1,ml,,,,1.02,ak,ak0239fej6c9,2023-07-24T22:46:02.720Z,"7 km E of Eielson Air Force Base, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-07-24T22:42:16.470Z,33.6631667,-116.7755,15.61,0.23,ml,10,122,0.06994,0.06,ci,ci39621194,2023-07-25T18:35:34.462Z,"10km SSW of Idyllwild, CA",earthquake,0.24,0.5,0.098,4,reviewed,ci,ci
 2023-07-24T22:39:00.209Z,59.6592,-152.5735,73.8,1.1,ml,,,,0.74,ak,ak0239fei1hg,2023-07-24T22:40:39.697Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-24T22:38:33.790Z,32.91,-116.9465,3.33,1.25,ml,14,159,0.08696,0.31,ci,ci39621186,2023-07-24T22:42:07.544Z,"6km NNW of Lakeside, CA",earthquake,0.88,1.56,0.199,11,automatic,ci,ci
+2023-07-24T22:38:33.790Z,32.91,-116.9465,3.33,1.25,ml,14,159,0.08696,0.31,ci,ci39621186,2023-07-25T21:16:55.159Z,"6km NNW of Lakeside, CA",earthquake,0.88,1.56,0.199,11,automatic,ci,ci
 2023-07-24T22:28:38.050Z,37.4835,-118.846,-0.19,1.35,md,14,204,0.1072,0.18,nc,nc73916296,2023-07-25T00:46:10.165Z,"17 km WSW of Toms Place, CA",earthquake,1.78,13.01,0.18,13,reviewed,nc,nc
 2023-07-24T22:28:15.861Z,61.604,-152.0965,4.6,1.1,ml,,,,0.21,ak,ak0239fefcwk,2023-07-24T22:40:29.056Z,"56 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-24T22:26:26.165Z,59.4893,-150.9218,34.6,1.5,ml,,,,0.44,ak,ak0239fefb6g,2023-07-24T22:28:25.362Z,"20 km SE of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:00:58.368Z,64.9143,-151.0411,9.1,0.6,ml,,,,0.7,ak,ak0239fe9t1b,2023-07-24T22:03:13.263Z,"21 km WSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-24T21:48:15.620Z,19.2779998779297,-155.387161254883,30.5300006866455,1.84,ml,27,164,,0.119999997,hv,hv73496022,2023-07-24T21:53:48.800Z,"12 km NE of Pāhala, Hawaii",earthquake,0.63,1.11000001,0.3,4,automatic,hv,hv
 2023-07-24T21:18:09.410Z,34.496,-116.5126667,6.63,1.81,ml,30,57,0.1536,0.14,ci,ci39621082,2023-07-25T13:28:37.980Z,"40km NE of Big Bear City, CA",earthquake,0.24,0.85,0.134,28,reviewed,ci,ci
-2023-07-24T21:15:32.980Z,33.1691667,-115.936,7.61,1.26,ml,33,72,0.03528,0.18,ci,ci39621066,2023-07-25T18:30:33.372Z,"14km S of Salton City, CA",earthquake,0.28,0.42,0.128,24,reviewed,ci,ci
