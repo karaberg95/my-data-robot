@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-26T13:35:00.760Z,59.3845,-152.7677,79.4,1.8,ml,,,,0.36,ak,ak0239ik6z7g,2023-07-26T13:36:34.250Z,"48 km W of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T13:34:01.855Z,61.6007,-146.4911,28.7,1.5,ml,,,,1.04,ak,ak0239ik6rkp,2023-07-26T13:35:57.419Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-26T13:23:16.750Z,38.8311653,-122.8141632,2.1,1.1,md,22,48,0.008391,0.02,nc,nc73916961,2023-07-26T13:33:11.571Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.14,22,automatic,nc,nc
+2023-07-26T13:23:16.750Z,38.8311653,-122.8141632,2.1,1.1,md,22,48,0.008391,0.02,nc,nc73916961,2023-07-26T13:42:14.622Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.14,22,automatic,nc,nc
 2023-07-26T13:12:27.210Z,36.5908318,-121.1291656,12.02,1.02,md,7,181,0.04913,0.08,nc,nc73916956,2023-07-26T13:29:18.551Z,"7 km N of Pinnacles, CA",earthquake,1.29,2.03,0.29,5,automatic,nc,nc
 2023-07-26T13:10:23.313Z,58.1488,-155.5881,23.8,0.7,ml,,,,1.19,ak,ak0239ik1o1n,2023-07-26T13:12:16.423Z,"86 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-26T13:09:17.950Z,33.5728333,-117.2526667,5.55,1.51,ml,53,72,0.05492,0.26,ci,ci39622570,2023-07-26T13:13:04.837Z,"4km SE of Wildomar, CA",earthquake,0.28,1.91,0.176,26,automatic,ci,ci
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T12:44:55.320Z,40.5376667,-111.2758333,12.24,0.95,md,11,215,0.1197,0.21,uu,uu60546242,2023-07-26T13:33:44.130Z,"6 km SW of Woodland, Utah",earthquake,2.18,1.16,0.183,8,reviewed,uu,uu
 2023-07-26T12:44:35.545Z,-14.7574,167.9113,10,6.4,mww,90,45,6.718,0.73,us,us6000kvmq,2023-07-26T13:27:18.676Z,"95 km ENE of Port-Olry, Vanuatu",earthquake,7.6,1.83,0.053,34,reviewed,us,us
 2023-07-26T12:20:23.415Z,44.0218,-128.5478,10,3.9,mb,39,195,3.264,0.86,us,us6000kvmm,2023-07-26T12:39:57.040Z,"off the coast of Oregon",earthquake,12.23,2.003,0.101,26,reviewed,us,us
-2023-07-26T12:11:25.490Z,39.3810005,-122.8970032,0.35,1.45,md,10,156,0.1792,0.19,nc,nc73916941,2023-07-26T12:59:19.375Z,"6 km ESE of Lake Pillsbury, CA",earthquake,0.77,16.56,0.04,5,automatic,nc,nc
+2023-07-26T12:11:25.490Z,39.3810005,-122.8970032,0.35,1.45,md,10,156,0.1792,0.19,nc,nc73916941,2023-07-26T13:41:11.617Z,"6 km ESE of Lake Pillsbury, CA",earthquake,0.77,16.56,0.04,5,automatic,nc,nc
 2023-07-26T12:11:06.883Z,36.9939,-115.205,15.5,0.8,ml,8,329.78,0.608,0.2514,nn,nn00863301,2023-07-26T12:13:38.769Z,"41 km S of Alamo, Nevada",earthquake,,2.2,0.24,5,automatic,nn,nn
 2023-07-26T12:04:39.530Z,-5.3967,145.9676,74.831,4.3,mb,23,140,4.154,0.71,us,us6000kvmh,2023-07-26T12:23:06.040Z,"27 km SE of Madang, Papua New Guinea",earthquake,11.64,8.567,0.138,15,reviewed,us,us
 2023-07-26T11:59:56.260Z,38.8321648,-122.8148346,1.83,1.11,md,24,52,0.009514,0.01,nc,nc73916936,2023-07-26T12:51:17.328Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.15,24,automatic,nc,nc
@@ -199,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T13:56:24.403Z,-5.6402,110.097,553.106,4.7,mb,120,29,3.031,0.82,us,us7000ki7m,2023-07-25T14:20:57.040Z,"115 km NW of Batang, Indonesia",earthquake,10.03,6.084,0.054,103,reviewed,us,us
 2023-07-25T13:54:42.210Z,18.0373333333333,-66.7948333333333,9.04,2.15,md,7,167,0.1795,0.09,pr,pr71419238,2023-07-25T14:21:42.200Z,"2 km N of Guayanilla, Puerto Rico",earthquake,0.37,5.04,0.0886062108137815,3,reviewed,pr,pr
 2023-07-25T13:51:43.830Z,47.8977,155.3432,10,4.9,mb,150,132,5.429,0.78,us,us7000ki7j,2023-07-25T14:13:58.040Z,"east of the Kuril Islands",earthquake,7.04,1.744,0.04,196,reviewed,us,us
-2023-07-25T13:47:27.700Z,44.8276667,-110.8226667,2.48,0.57,md,11,124,0.04404,0.15,uu,uu60546177,2023-07-25T13:58:33.610Z,"19 km SSW of Mammoth, Wyoming",earthquake,0.58,2.84,0.25,6,reviewed,uu,uu
-2023-07-25T13:43:32.810Z,32.7256667,-115.7841667,11.22,1.9,ml,38,66,0.09038,0.24,ci,ci39621506,2023-07-25T18:52:07.990Z,"20km E of Ocotillo, CA",earthquake,0.24,0.45,0.185,23,reviewed,ci,ci
