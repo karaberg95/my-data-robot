@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-27T20:23:24.352Z,58.1736,-155.3941,0,0.4,ml,,,,1.07,ak,ak0239kbtu5y,2023-07-27T20:25:33.175Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-27T20:16:12.914Z,62.1838,-152.1127,98.9,0.9,ml,,,,0.36,ak,ak0239kbsbbh,2023-07-27T20:19:04.658Z,"43 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-07-27T20:13:11.930Z,3.2499,-31.4546,10,5.1,mb,76,50,10.051,0.73,us,us6000kw09,2023-07-27T20:32:50.040Z,"central Mid-Atlantic Ridge",earthquake,9.03,1.847,0.04,201,reviewed,us,us
 2023-07-27T20:02:35.657Z,60.5916,-144.6117,0,2.4,ml,,,,0.86,ak,ak0239kbpbzo,2023-07-27T20:05:11.477Z,"63 km E of Cordova, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-27T20:00:21.590Z,33.1323333,-117.22,9.97,0.92,ml,15,184,0.02267,0.18,ci,ci39623914,2023-07-27T20:03:51.359Z,"5km WSW of San Marcos, CA",earthquake,0.94,0.91,0.026,9,automatic,ci,ci
 2023-07-27T20:00:13.561Z,58.1851,-155.3447,1.2,0.2,ml,,,,0.25,ak,ak0239kbovv0,2023-07-27T20:01:39.057Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
