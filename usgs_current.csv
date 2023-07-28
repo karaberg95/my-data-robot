@@ -28,8 +28,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T10:15:32.070Z,38.8321648,-122.80867,2.26,0.74,md,16,46,0.008825,0.01,nc,nc73917571,2023-07-28T10:50:13.968Z,"8 km W of Cobb, CA",earthquake,0.26,0.68,0.27,16,automatic,nc,nc
 2023-07-28T10:12:28.030Z,38.7989998,-122.7503357,1.74,1.11,md,15,97,0.007504,0.02,nc,nc73917561,2023-07-28T12:22:15.644Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.55,0.23,17,automatic,nc,nc
 2023-07-28T09:49:08.834Z,60.0739,-151.466,66.9,1.1,ml,,,,0.49,ak,ak0239lsyyf7,2023-07-28T09:50:44.253Z,"11 km ENE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-07-28T09:43:10.466Z,36.7542,-116.2555,8.7,-0.3,ml,11,157.27,0.021,0.0503,nn,nn00863657,2023-07-28T14:32:44.615Z,"48 km ESE of Beatty, Nevada",earthquake,,1.3,0.04,4,reviewed,nn,nn
 2023-07-28T09:39:11.230Z,37.2980003,-121.6675034,5.88,1.59,md,28,50,0.0392,0.07,nc,nc73917551,2023-07-28T11:28:14.206Z,"15 km E of Seven Trees, CA",earthquake,0.17,0.51,0.15,20,automatic,nc,nc
 2023-07-28T09:29:46.870Z,34.2558333,-118.4095,4.41,1.19,ml,27,77,0.06272,0.22,ci,ci39624178,2023-07-28T09:33:34.719Z,"1 km SE of Pacoima, CA",earthquake,0.34,0.76,0.201,28,automatic,ci,ci
+2023-07-28T09:17:05.744Z,36.7481,-115.9482,2.5,-0.2,ml,6,182.96,0.036,0.0934,nn,nn00863656,2023-07-28T14:29:37.473Z,"31 km NW of Indian Springs, Nevada",earthquake,,3.2,0.33,2,reviewed,nn,nn
 2023-07-28T09:05:22.331Z,-14.7488,167.9779,10,4.8,mb,45,75,6.758,0.54,us,us6000kw5n,2023-07-28T09:37:29.040Z,"102 km ENE of Port-Olry, Vanuatu",earthquake,5.21,1.879,0.089,39,reviewed,us,us
 2023-07-28T08:51:58.040Z,34.1421667,-117.4198333,3.22,0.77,ml,32,58,0.0507,0.2,ci,ci39624162,2023-07-28T08:55:32.893Z,"6 km NW of Rialto, CA",earthquake,0.27,0.7,0.116,19,automatic,ci,ci
 2023-07-28T08:45:14.210Z,38.8031654,-122.80867,1.71,0.78,md,9,82,0.01149,0.02,nc,nc73917546,2023-07-28T10:34:13.871Z,"5 km WNW of The Geysers, CA",earthquake,0.35,1.36,0.14,9,automatic,nc,nc
@@ -213,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T14:36:49.760Z,33.7045,-116.8246667,14.46,0.91,ml,36,87,0.07677,0.13,ci,ci39623530,2023-07-27T16:23:27.759Z,"8km SE of Valle Vista, CA",earthquake,0.2,0.3,0.108,17,reviewed,ci,ci
 2023-07-27T14:35:34.640Z,58.2321666666667,-155.148,5.52,-0.11,ml,9,103,,0.16,av,av91979426,2023-07-28T02:27:13.040Z,"84 km NNW of Karluk, Alaska",earthquake,0.39,0.99,0.116614772081474,9,reviewed,av,av
 2023-07-27T14:34:28.400Z,61.1763333333333,-152.215,4.39,-0.28,ml,9,202,,0.07,av,av91979431,2023-07-28T02:24:21.930Z,"59 km WNW of Tyonek, Alaska",earthquake,0.37,0.38,0.248991858066705,9,reviewed,av,av
-2023-07-27T14:28:07.860Z,38.7928352,-122.7473297,1.42,1.21,md,16,90,0.01241,0.04,nc,nc73917296,2023-07-27T15:49:13.139Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.53,0.16,17,automatic,nc,nc
