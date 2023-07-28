@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T17:25:05.630Z,52.8038333333333,-169.9205,-1.73,-0.21,ml,4,271,,0.11,av,av91111833,2023-07-28T03:26:43.410Z,"72 km WSW of Nikolski, Alaska",earthquake,0.31,0.47,0.387532192686505,4,reviewed,av,av
 2023-07-27T17:20:31.180Z,38.8345,-122.8156667,1.9,-0.13,md,12,110,0.01192,0,nc,nc73917331,2023-07-28T06:09:11.184Z,"8 km W of Cobb, CA",earthquake,0.34,0.87,0.285,11,reviewed,nc,nc
 2023-07-27T17:00:16.560Z,38.8268333,-122.8048333,2.85,-0.28,md,12,102,0.005343,0.01,nc,nc73917326,2023-07-27T19:05:19.224Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.46,0.067,10,reviewed,nc,nc
-2023-07-27T16:49:34.050Z,58.2603333333333,-154.955333333333,4.05,0.66,ml,15,143,,0.3,av,av91979561,2023-07-28T03:03:38.360Z,"82 km NNW of Karluk, Alaska",earthquake,0.48,0.95,0.35626400113111,15,reviewed,av,av
