@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-29T21:27:23.629Z,58.1611,-155.5706,20.7,0.6,ml,,,,0.85,ak,ak0239nnitka,2023-07-29T21:28:59.800Z,"86 km SE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-29T21:26:13.748Z,58.8101,-156.3358,0,2.2,ml,,,,0.36,ak,ak0239nnil32,2023-07-29T21:33:40.040Z,"23 km NE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-29T21:25:09.457Z,68.6674,-148.4513,0.1,1.9,ml,,,,1.16,ak,ak0239nnid1d,2023-07-29T21:36:40.062Z,"134 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T21:23:51.813Z,61.8398,-149.9403,39.8,1,ml,,,,0.76,ak,ak0239nni0ss,2023-07-29T21:25:54.897Z,"11 km NNE of Willow, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-29T21:17:12.165Z,68.6711,-148.4499,0,1.7,ml,,,,1.16,ak,ak0239nngnio,2023-07-29T21:20:23.878Z,"134 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T21:03:18.080Z,19.7630004882812,-155.044662475586,45.0699996948242,2.92,ml,50,188,,0.150000006,hv,hv73502727,2023-07-29T21:17:59.040Z,"5 km E of Paukaa, Hawaii",earthquake,0.48,0.670000017,3.85,27,automatic,hv,hv
