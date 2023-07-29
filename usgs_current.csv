@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T10:22:44.400Z,33.0358333,-116.4328333,7.37,0.85,ml,35,40,0.06652,0.2,ci,ci39625034,2023-07-29T10:26:18.176Z,"16 km ESE of Julian, CA",earthquake,0.23,1.04,0.177,16,automatic,ci,ci
 2023-07-29T10:09:53.345Z,60.1049,-152.1594,53.9,1.2,ml,,,,0.57,ak,ak0239ngv9bj,2023-07-29T10:11:59.420Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-29T10:08:30.020Z,34.0301667,-117.2155,14.45,1.01,ml,34,65,0.08988,0.17,ci,ci39625026,2023-07-29T10:12:05.238Z,"4 km SW of Redlands, CA",earthquake,0.25,0.52,0.267,28,automatic,ci,ci
 2023-07-29T10:02:17.570Z,33.9721667,-116.8108333,17.52,0.67,ml,25,61,0.06288,0.18,ci,ci39625018,2023-07-29T10:05:56.788Z,"6 km NNW of Cabazon, CA",earthquake,0.35,0.89,0.134,17,automatic,ci,ci
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T23:42:42.427Z,58.2551,-155.1193,32.6,0.8,ml,,,,0.14,ak,ak0239m19lgy,2023-07-29T05:26:11.570Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-28T23:41:53.990Z,58.2748333333333,-155.134833333333,34.33,0.37,ml,9,89,,0.13,av,av91981686,2023-07-29T05:20:18.000Z,"88 km NNW of Karluk, Alaska",earthquake,0.63,0.83,0.208473248634858,8,reviewed,av,av
 2023-07-28T23:38:42.750Z,64.9908,-147.4247,4.4,2,ml,,,,0.8,ak,ak0239m18qmr,2023-07-28T23:40:32.104Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-28T23:29:58.650Z,37.5448333,-121.841,5.97,1.36,md,26,105,0.03093,0.04,nc,nc73917781,2023-07-29T08:32:10.603Z,"8 km SE of Sunol, CA",earthquake,0.19,0.22,0.134,18,reviewed,nc,nc
+2023-07-28T23:29:58.650Z,37.5448333,-121.841,5.97,1.36,md,26,105,0.03093,0.04,nc,nc73917781,2023-07-29T10:15:15.231Z,"8 km SE of Sunol, CA",earthquake,0.19,0.22,0.134,18,reviewed,nc,nc
 2023-07-28T23:26:31.110Z,58.1863333333333,-155.283,2.35,0.79,ml,9,92,,0.06,av,av91981666,2023-07-29T05:15:29.110Z,"Alaska Peninsula",earthquake,0.19,0.41,0.30736149668257,9,reviewed,av,av
 2023-07-28T23:05:47.330Z,38.7796669,-122.7649994,0.81,1.12,md,17,86,0.02133,0.04,nc,nc73917771,2023-07-29T02:39:16.569Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.57,0.14,17,automatic,nc,nc
 2023-07-28T22:58:05.470Z,35.6448333,-121.0591667,6.14,1.44,md,23,116,0.08555,0.09,nc,nc73917766,2023-07-29T09:47:20.073Z,"9 km NNE of Cambria, CA",earthquake,0.21,0.68,0.194,16,reviewed,nc,nc
@@ -221,7 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T10:38:54.758Z,61.7429,-152.0803,119.2,1.2,ml,,,,0.27,ak,ak0239lti4oz,2023-07-28T10:40:29.045Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-28T10:37:17.750Z,58.1853333333333,-155.312166666667,2.6,0.51,ml,8,155,,0.12,av,av91980931,2023-07-29T01:51:34.760Z,"85 km NW of Karluk, Alaska",earthquake,0.31,0.49,0.361076702031986,8,reviewed,av,av
 2023-07-28T10:32:57.090Z,34.0366667,-116.8408333,20.56,1.29,ml,50,54,0.02749,0.16,ci,ci39624186,2023-07-28T19:15:22.570Z,"13 km NNE of Banning, CA",earthquake,0.18,0.42,0.172,26,reviewed,ci,ci
-2023-07-28T10:24:14.920Z,17.9885,-66.9158333333333,13.56,2.18,md,5,152,0.03729,0.11,pr,pr71419473,2023-07-28T10:38:23.030Z,"0 km NNE of Fuig, Puerto Rico",earthquake,1.06,0.66,0.0309463216439747,3,reviewed,pr,pr
-2023-07-28T10:20:25.600Z,63.4002,-150.2805,120.5,0.8,ml,,,,0.19,ak,ak0239lte7k0,2023-07-28T10:22:08.750Z,"66 km W of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-07-28T10:15:32.070Z,38.8321648,-122.80867,2.26,0.74,md,16,46,0.008825,0.01,nc,nc73917571,2023-07-28T10:50:13.968Z,"8 km W of Cobb, CA",earthquake,0.26,0.68,0.27,16,automatic,nc,nc
-2023-07-28T10:14:35.970Z,38.7706667,-122.7125,1.81,0.56,md,24,47,0.009337,0.04,nc,nc73917566,2023-07-29T08:20:15.539Z,"2 km WSW of Anderson Springs, CA",earthquake,0.21,0.27,0.226,17,reviewed,nc,nc
