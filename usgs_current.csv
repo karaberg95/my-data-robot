@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-29T10:22:44.400Z,33.0358333,-116.4328333,7.37,0.85,ml,35,40,0.06652,0.2,ci,ci39625034,2023-07-29T10:26:18.176Z,"16 km ESE of Julian, CA",earthquake,0.23,1.04,0.177,16,automatic,ci,ci
+2023-07-29T10:22:44.400Z,33.0358333,-116.4328333,7.37,0.85,ml,35,40,0.06652,0.2,ci,ci39625034,2023-07-29T10:26:19.001Z,"16 km ESE of Julian, CA",earthquake,0.23,1.04,0.177,16,automatic,ci,ci
 2023-07-29T10:09:53.345Z,60.1049,-152.1594,53.9,1.2,ml,,,,0.57,ak,ak0239ngv9bj,2023-07-29T10:11:59.420Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-29T10:08:30.020Z,34.0301667,-117.2155,14.45,1.01,ml,34,65,0.08988,0.17,ci,ci39625026,2023-07-29T10:12:05.238Z,"4 km SW of Redlands, CA",earthquake,0.25,0.52,0.267,28,automatic,ci,ci
 2023-07-29T10:02:17.570Z,33.9721667,-116.8108333,17.52,0.67,ml,25,61,0.06288,0.18,ci,ci39625018,2023-07-29T10:05:56.788Z,"6 km NNW of Cabazon, CA",earthquake,0.35,0.89,0.134,17,automatic,ci,ci
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T10:40:38.155Z,39.501,-120.3029,8.4,1.2,ml,13,142.91,0.075,0.1321,nn,nn00863650,2023-07-28T14:39:00.900Z,"11 km SSE of Sierraville, California",earthquake,,2.4,0.41,6,reviewed,nn,nn
 2023-07-28T10:38:54.758Z,61.7429,-152.0803,119.2,1.2,ml,,,,0.27,ak,ak0239lti4oz,2023-07-28T10:40:29.045Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-28T10:37:17.750Z,58.1853333333333,-155.312166666667,2.6,0.51,ml,8,155,,0.12,av,av91980931,2023-07-29T01:51:34.760Z,"85 km NW of Karluk, Alaska",earthquake,0.31,0.49,0.361076702031986,8,reviewed,av,av
-2023-07-28T10:32:57.090Z,34.0366667,-116.8408333,20.56,1.29,ml,50,54,0.02749,0.16,ci,ci39624186,2023-07-28T19:15:22.570Z,"13 km NNE of Banning, CA",earthquake,0.18,0.42,0.172,26,reviewed,ci,ci
