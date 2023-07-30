@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-30T06:33:50.030Z,38.8185005,-122.8144989,2.72,0.88,md,12,108,0.005986,0.02,nc,nc73918186,2023-07-30T06:35:24.101Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.17,0.21,13,automatic,nc,nc
 2023-07-30T06:13:16.572Z,59.8357,-152.6029,85.3,1.6,ml,,,,0.18,ak,ak0239p21nex,2023-07-30T06:14:51.401Z,"43 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-30T06:10:20.590Z,38.8233337,-122.8048325,1.2,1.99,md,37,34,0.004095,0.04,nc,nc73918176,2023-07-30T06:29:14.637Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.21,0.2,38,automatic,nc,nc
+2023-07-30T06:10:20.590Z,38.8233337,-122.8048325,1.2,1.99,md,37,34,0.004095,0.04,nc,nc73918176,2023-07-30T06:42:10.709Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.21,0.2,38,automatic,nc,nc
 2023-07-30T05:58:48.750Z,32.9545,-115.8031667,1.9,1.29,ml,26,48,0.009792,0.29,ci,ci39625450,2023-07-30T06:09:52.980Z,"19 km WSW of Westmorland, CA",earthquake,0.5,0.51,0.18,26,automatic,ci,ci
 2023-07-30T05:56:20.090Z,38.8240013,-122.8058319,1.46,0.97,md,12,65,0.003368,0.02,nc,nc73918171,2023-07-30T06:14:13.553Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.63,0.4,11,automatic,nc,nc
 2023-07-30T05:53:23.826Z,-34.9012,-71.7467,53.524,4.4,mb,47,75,0.801,0.36,us,us6000kwmr,2023-07-30T06:28:29.040Z,"39 km W of Rauco, Chile",earthquake,4.39,8.396,0.114,22,reviewed,us,us
@@ -44,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T02:27:43.420Z,46.259,-122.06566666666667,2,2.19,ml,54,65,0.05234,0.2,uw,uw61936182,2023-07-30T04:36:47.690Z,"36 km SSE of Morton, Washington",earthquake,0.29,1.06,0.2198423694716587,35,reviewed,uw,uw
 2023-07-30T02:27:05.353Z,9.0636,-76.5735,56.342,5.3,mww,72,144,0.289,0.73,us,us6000kwll,2023-07-30T03:17:51.911Z,"28 km NW of Arboletes, Colombia",earthquake,7.75,5.4,0.098,10,reviewed,us,us
 2023-07-30T02:18:42.254Z,63.4,-151.7146,5.9,1.1,ml,,,,0.41,ak,ak0239ozp1jt,2023-07-30T02:22:21.188Z,"15 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-30T02:16:24.208Z,-37.3846,-73.0616,44.969,4.8,mwr,41,80,0.644,0.78,us,us6000kwlf,2023-07-30T03:25:26.458Z,"27 km ENE of Curanilahue, Chile",earthquake,5.57,6.063,0.045,47,reviewed,us,us
+2023-07-30T02:16:24.208Z,-37.3846,-73.0616,44.969,4.8,mwr,41,80,0.644,0.78,us,us6000kwlf,2023-07-30T06:41:22.223Z,"27 km ENE of Curanilahue, Chile",earthquake,5.57,6.063,0.045,47,reviewed,us,us
 2023-07-30T02:11:15.696Z,38.1339,-117.8309,7,1.4,ml,12,127.26,0.112,0.1757,nn,nn00863717,2023-07-30T02:14:03.846Z,"37 km SE of Mina, Nevada",earthquake,,0.4,0.92,8,automatic,nn,nn
 2023-07-30T01:59:31.200Z,38.7955017,-122.8248367,1.79,0.76,md,10,101,0.008253,0.03,nc,nc73918101,2023-07-30T04:34:11.998Z,"6 km WNW of The Geysers, CA",earthquake,0.48,1,0.11,12,automatic,nc,nc
 2023-07-30T01:54:29.099Z,64.5116,-147.1494,0,1.1,ml,,,,0.73,ak,ak0239ozbapp,2023-07-30T01:56:46.981Z,"11 km W of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
