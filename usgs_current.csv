@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-30T23:31:26.590Z,19.1803340911865,-155.480667114258,34.1100006103516,2.11,ml,34,84,,0.100000001,hv,hv73504092,2023-07-30T23:36:56.920Z,"2 km S of Pāhala, Hawaii",earthquake,0.65,0.790000021,5.67,3,automatic,hv,hv
+2023-07-30T23:29:04.060Z,35.9046667,-117.7283333,2.76,1.26,ml,16,115,0.08516,0.17,ci,ci39625818,2023-07-30T23:32:40.940Z,"16 km ESE of Little Lake, CA",earthquake,0.31,0.57,0.146,8,automatic,ci,ci
 2023-07-30T23:26:56.206Z,39.3363,-119.9782,1.7,1.2,ml,9,105.13,0.063,0.3868,nn,nn00863756,2023-07-30T23:28:53.184Z,"7 km SSE of Floriston, California",earthquake,,6.5,0.55,5,automatic,nn,nn
 2023-07-30T23:14:33.580Z,33.9628333,-116.7593333,17.18,1.08,ml,35,45,0.0826,0.19,ci,ci39625810,2023-07-30T23:18:12.356Z,"6 km NNE of Cabazon, CA",earthquake,0.24,0.61,0.133,27,automatic,ci,ci
 2023-07-30T23:10:09.340Z,19.3583335876465,-155.384994506836,7.30999994277954,1.83,ml,25,59,,0.159999996,hv,hv73504072,2023-07-30T23:15:39.280Z,"18 km WSW of Volcano, Hawaii",earthquake,0.56,0.930000007,0.81,3,automatic,hv,hv
