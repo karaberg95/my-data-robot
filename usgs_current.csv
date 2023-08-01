@@ -237,7 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T08:02:25.746Z,61.3684,-149.9883,33.4,0.9,ml,,,,0.53,ak,ak0239qqpiy6,2023-07-31T08:03:50.373Z,"1 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-31T07:48:06.920Z,19.2439994812012,-155.400665283203,29.9300003051758,2.09,ml,43,134,,0.159999996,hv,hv73504402,2023-07-31T07:53:37.520Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.69,0.829999983,3.69,10,automatic,hv,hv
 2023-07-31T07:46:15.080Z,63.1484,-150.389,102.2,2.5,ml,,,,0.74,ak,ak0239qqdhzr,2023-07-31T22:43:01.311Z,"75 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-31T07:41:44.780Z,62.0651,-147.9608,25.7,1.1,ml,,,,0.36,ak,ak0239qqchqm,2023-07-31T07:43:16.936Z,"32 km NNW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-31T07:41:11.150Z,-24.2957,-67.3564,184.014,4.4,mb,25,70,1.536,0.9,us,us6000kwtf,2023-07-31T22:40:06.040Z,"105 km W of San Antonio de los Cobres, Argentina",earthquake,9.03,8.034,0.138,15,reviewed,us,us
-2023-07-31T07:40:19.690Z,44.6221666666667,-112.590833333333,6.95,0.53,ml,4,142,0.03828,0.06,mb,mb90023013,2023-07-31T21:39:31.550Z,"1 km S of Lima, Montana",earthquake,0.64,0.63,0.183210536769349,2,reviewed,mb,mb
-2023-07-31T07:39:38.059Z,63.0723,-151.0161,133.6,1.2,ml,,,,0.19,ak,ak0239qqc1sd,2023-07-31T07:42:35.429Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
