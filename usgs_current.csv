@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T03:15:40.030Z,38.8223343,-122.8099976,2.83,1.01,md,16,68,0.001061,0.02,nc,nc73919286,2023-08-02T03:22:08.128Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.63,0.24,18,automatic,nc,nc
+2023-08-02T03:12:30.320Z,33.7066667,-116.8895,0.32,1.16,ml,9,142,0.2076,0.19,ci,ci39627394,2023-08-02T03:16:08.105Z,"5 km S of Valle Vista, CA",earthquake,0.94,31.61,0.469,9,automatic,ci,ci
 2023-08-02T02:34:24.470Z,38.8048325,-122.7774963,1.99,1.23,md,27,69,0.008775,0.02,nc,nc73919281,2023-08-02T03:07:10.600Z,"4 km NNW of The Geysers, CA",earthquake,0.21,0.33,0.18,27,automatic,nc,nc
 2023-08-02T02:26:41.436Z,63.5446,-147.9699,15.5,1.1,ml,,,,0.32,ak,ak0239tycspb,2023-08-02T02:28:43.026Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-02T02:21:44.688Z,62.5847,-148.8129,51.1,1.2,ml,,,,0.59,ak,ak0239tybqdg,2023-08-02T02:24:05.775Z,"68 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -266,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T03:44:51.919Z,58.8631,-153.9221,17,3.1,ml,,,,0.28,ak,ak0239sbirif,2023-08-02T01:13:41.040Z,"80 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T03:42:51.990Z,44.7895,-111.510166666667,12.74,1.25,ml,14,78,0.07036,0.16,mb,mb90023043,2023-08-01T14:34:18.460Z,"25 km W of Hebgen Lake Estates, Montana",earthquake,0.59,1.1,0.237889892150456,13,reviewed,mb,mb
 2023-08-01T03:28:03.410Z,33.4885,-116.7953333,5.18,1.2,ml,62,35,0.01834,0.2,ci,ci39626538,2023-08-01T15:04:19.048Z,"8 km NE of Aguanga, CA",earthquake,0.14,0.42,0.121,28,reviewed,ci,ci
-2023-08-01T03:20:29.952Z,59.2749,-152.7496,65.7,1.6,ml,,,,0.38,ak,ak0239sbdkmr,2023-08-01T03:22:29.195Z,"48 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
