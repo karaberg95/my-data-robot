@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T13:23:57.965Z,61.6774,-149.8536,27.1,2.2,ml,,,,0.5,ak,ak0239u4vyhv,2023-08-02T13:25:33.830Z,"5 km NNW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-02T13:10:50.370Z,33.9505,-116.7015,13.85,0.95,ml,26,56,0.09843,0.16,ci,ci39627666,2023-08-02T13:14:22.209Z,"9 km ENE of Cabazon, CA",earthquake,0.26,0.58,0.141,23,automatic,ci,ci
-2023-08-02T13:07:23.780Z,39.144001,-123.1376648,5.67,1.56,md,11,92,0.04958,0.08,nc,nc73919401,2023-08-02T13:20:11.172Z,"3 km ENE of Talmage, CA",earthquake,0.34,0.94,0.08,7,automatic,nc,nc
+2023-08-02T13:07:23.780Z,39.144001,-123.1376648,5.67,1.56,md,11,92,0.04958,0.08,nc,nc73919401,2023-08-02T13:25:14.203Z,"3 km ENE of Talmage, CA",earthquake,0.34,0.94,0.08,7,automatic,nc,nc
 2023-08-02T13:06:14.940Z,33.8758333,-117.0575,13.34,1.06,ml,32,51,0.1238,0.22,ci,ci39627658,2023-08-02T13:09:46.339Z,"10 km SW of Beaumont, CA",earthquake,0.31,0.8,0.216,28,automatic,ci,ci
 2023-08-02T12:59:32.291Z,63.2955,-151.762,3.1,0.8,ml,,,,0.6,ak,ak0239u4i6od,2023-08-02T13:06:57.658Z,"27 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T12:55:56.028Z,61.4216,-151.99,103.4,1.1,ml,,,,0.4,ak,ak0239u4hdn6,2023-08-02T13:07:00.270Z,"57 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -211,6 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T17:55:56.930Z,38.8215,-122.8046667,3.18,0.45,md,34,44,0.004628,0.03,nc,nc73919086,2023-08-01T21:09:15.504Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.32,0.182,28,reviewed,nc,nc
 2023-08-01T17:52:40.940Z,38.821,-122.8048333,3.05,1.16,md,39,36,0.004741,0.02,nc,nc73919081,2023-08-02T07:20:12.099Z,"6 km NW of The Geysers, CA",earthquake,0.16,0.33,0.165,32,reviewed,nc,nc
 2023-08-01T17:44:42.450Z,46.25833333333333,-122.071,2,1.21,ml,28,111,0.04861,0.18,uw,uw61937007,2023-08-01T20:18:17.620Z,"36 km SSE of Morton, Washington",earthquake,0.36,2.17,0.10215717816839476,17,reviewed,uw,uw
+2023-08-01T17:40:32.490Z,34.46066667,-96.82533333,0,1.53,ml,17,186,0.2339540902,0.11,ok,ok2023oyrq,2023-08-02T13:27:53.305Z,"6 km N of Mill Creek, Oklahoma",quarry blast,,0.3,0.2,4,reviewed,ok,ok
 2023-08-01T17:36:42.892Z,64.5246,-147.9971,16.6,0.5,ml,,,,0.4,ak,ak0239sjt3k4,2023-08-01T17:39:42.024Z,"33 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-01T17:15:25.707Z,15.2228,39.5217,10,5.6,mww,201,28,4.892,0.68,us,us6000kx3e,2023-08-02T13:04:09.291Z,"Eritrea",earthquake,5.19,1.71,0.073,18,reviewed,us,us
 2023-08-01T16:57:36.490Z,63.5634,-150.7595,7.6,2.1,ml,,,,0.28,ak,ak0239sjc5ht,2023-08-01T16:59:59.237Z,"47 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
