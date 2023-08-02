@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T15:38:00.980Z,37.4534988,-121.776001,6.14,2.14,md,40,48,0.01965,0.07,nc,nc73919416,2023-08-02T15:44:10.999Z,"11 km NNE of Alum Rock, CA",earthquake,0.17,0.35,0.21,34,automatic,nc,nc
 2023-08-02T15:36:24.080Z,59.342,-153.3886,1.1,1.6,ml,,,,0.52,ak,ak0239u65je0,2023-08-02T15:38:11.412Z,"64 km SE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-02T15:34:59.760Z,32.2241667,-116.695,3.59,0.99,ml,7,330,0.3872,0.12,ci,ci39627810,2023-08-02T15:38:31.283Z,"21 km E of Primo Tapia, B.C., MX",earthquake,9.48,31.61,0.073,3,automatic,ci,ci
 2023-08-02T15:31:26.272Z,61.2479,-149.3457,26.7,1.4,ml,,,,0.5,ak,ak0239u64gz7,2023-08-02T15:33:15.873Z,"14 km SE of Eagle River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-02T15:25:22.486Z,65.9113,-147.1373,0,1,ml,,,,1.06,ak,ak0239u636d8,2023-08-02T15:27:45.913Z,"51 km SSE of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T15:25:08.907Z,58.2124,-155.0891,1.1,0.1,ml,,,,0.13,ak,ak0239u635ca,2023-08-02T15:26:47.027Z,"80 km NNW of Karluk, Alaska",earthquake,,4,,,automatic,ak,ak
-2023-08-02T15:21:13.000Z,19.071,-156.148833333333,40.86,3.8,ml,21,271,,0.13,hv,hv73507252,2023-08-02T15:35:23.589Z,"40 km W of Hawaiian Ocean View, Hawaii",earthquake,1.65,1.59,0.154220449899389,39,reviewed,hv,hv
+2023-08-02T15:21:13.000Z,19.071,-156.148833333333,40.86,3.8,ml,21,271,,0.13,hv,hv73507252,2023-08-02T15:45:53.863Z,"40 km W of Hawaiian Ocean View, Hawaii",earthquake,1.65,1.59,0.154220449899389,39,reviewed,hv,hv
 2023-08-02T14:45:35.620Z,38.7939987,-122.8030014,3.04,1.05,md,18,53,0.005665,0.02,nc,nc73919406,2023-08-02T15:19:13.863Z,"4 km WNW of The Geysers, CA",earthquake,0.3,0.51,0.2,20,automatic,nc,nc
 2023-08-02T14:39:14.501Z,63.9226,-148.7624,0,1.1,ml,,,,0.74,ak,ak0239u5kq6y,2023-08-02T14:41:23.600Z,"12 km NE of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T14:31:58.400Z,35.5238333,-118.3603333,4.45,0.76,ml,9,101,0.1668,0.11,ci,ci39627770,2023-08-02T14:35:34.912Z,"14 km ESE of Bodfish, CA",earthquake,0.35,0.91,0.076,6,automatic,ci,ci
@@ -282,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T15:57:59.611Z,40.5987,-119.3485,0,1.4,ml,5,274.67,0.519,0.2506,nn,nn00863810,2023-08-01T21:05:20.093Z,"2 km NNW of Empire, Nevada",earthquake,,0,0.16,4,reviewed,nn,nn
 2023-08-01T15:55:36.210Z,38.4921667,-112.8366667,-0.3,-0.26,md,9,103,0.02645,0.04,uu,uu60546712,2023-08-01T17:47:56.130Z,"Utah",earthquake,0.31,0.15,0.433,3,reviewed,uu,uu
 2023-08-01T15:51:39.110Z,40.6213333,-122.2011667,14.58,1.56,md,13,81,0.02447,0.06,nc,nc73919051,2023-08-01T21:40:13.691Z,"3 km SE of Bella Vista, CA",earthquake,0.35,0.4,0.146,14,reviewed,nc,nc
-2023-08-01T15:43:03.210Z,38.4921667,-112.8366667,-0.31,0.07,md,9,103,0.02645,0.05,uu,uu60546702,2023-08-01T17:44:17.910Z,"Utah",earthquake,0.25,0.19,0.467,3,reviewed,uu,uu
