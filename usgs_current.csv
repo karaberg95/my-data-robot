@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-04T19:17:14.320Z,33.294,-116.7396667,13.06,0.84,ml,28,55,0.06003,0.16,ci,ci40529752,2023-08-04T19:20:48.136Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.32,0.71,0.15,22,automatic,ci,ci
 2023-08-04T19:11:51.700Z,34.995,-118.1951667,0.15,1.58,ml,12,61,0.1191,0.25,ci,ci40529744,2023-08-04T19:15:34.753Z,"7 km SSW of Mojave, CA",earthquake,0.51,31.61,0.18,31,automatic,ci,ci
+2023-08-04T19:11:32.100Z,37.5443333,-118.8318333,-0.78,0.62,md,8,314,0.04567,0.04,nc,nc73920301,2023-08-04T19:43:39.003Z,"14 km W of Toms Place, CA",earthquake,1.22,0.38,0.078,8,reviewed,nc,nc
 2023-08-04T18:56:24.460Z,19.4168338775635,-155.446334838867,3.29999995231628,1.72,ml,20,48,,0.119999997,hv,hv73509917,2023-08-04T19:01:54.750Z,"22 km W of Volcano, Hawaii",earthquake,0.3,1.25,3.86,3,automatic,hv,hv
 2023-08-04T18:49:05.580Z,33.296,-116.2536667,5.61,0.72,ml,23,74,0.08108,0.26,ci,ci40529720,2023-08-04T18:52:41.761Z,"12 km ENE of Borrego Springs, CA",earthquake,0.47,0.86,0.122,11,automatic,ci,ci
 2023-08-04T18:45:00.330Z,37.533,-118.8553333,5.85,0.8,md,13,287,0.06062,0.02,nc,nc73920296,2023-08-04T19:34:38.146Z,"16 km WSW of Toms Place, CA",earthquake,2.06,1.29,0.089,11,reviewed,nc,nc
