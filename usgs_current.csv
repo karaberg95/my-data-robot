@@ -226,9 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T02:33:27.309Z,60.9661,-150.1665,41.1,1.6,ml,,,,0.52,ak,ak0239vlxm4a,2023-08-03T02:35:35.143Z,"28 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-03T02:30:59.860Z,40.4298333,-124.716,24.81,2.77,md,48,226,0.3081,0.14,nc,nc73919586,2023-08-03T22:23:13.556Z,"38 km WNW of Petrolia, CA",earthquake,0.91,3,0.292,43,reviewed,nc,nc
 2023-08-03T02:25:13.790Z,60.1017,-153.5687,166.3,1.8,ml,,,,0.35,ak,ak0239vlvvei,2023-08-03T04:18:48.040Z,"43 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-03T02:18:48.550Z,34.7165,26.2814,53.428,4.7,mb,63,102,1.277,0.67,us,us6000kxfq,2023-08-03T02:39:10.040Z,"53 km S of Palekastro, Greece",earthquake,6.27,7.434,0.044,158,reviewed,us,us
-2023-08-03T02:18:28.383Z,65.6555,-147.8011,7.2,1,ml,,,,0.47,ak,ak0239vluegm,2023-08-03T02:20:23.932Z,"37 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-03T02:17:01.720Z,38.7941666,-122.8041687,3.13,0.76,md,13,63,0.005895,0.02,nc,nc73919581,2023-08-03T04:04:13.232Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.79,0.17,15,automatic,nc,nc
-2023-08-03T02:12:43.740Z,46.87083333333333,-121.959,7.09,0.96,ml,10,120,0.09554,0.13,uw,uw61937502,2023-08-03T04:45:23.500Z,"13 km NNE of Ashford, Washington",earthquake,0.5,0.73,0.13877290134286557,6,reviewed,uw,uw
-2023-08-03T01:59:26.926Z,63.0833,-151.4289,12.8,1.1,ml,,,,0.97,ak,ak0239vlhr3o,2023-08-03T02:01:11.884Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-03T01:51:11.500Z,38.838501,-122.822998,2.06,1.04,md,20,71,0.009754,0.02,nc,nc73919576,2023-08-03T03:39:15.074Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.5,0.24,20,automatic,nc,nc
