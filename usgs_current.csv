@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-05T21:34:43.608Z,-33.7538,118.3054,10,5.4,mb,44,59,8.775,0.48,us,us6000ky6d,2023-08-05T21:55:58.040Z,"69 km E of Katanning, Australia",earthquake,8.11,1.819,0.107,30,reviewed,us,us
 2023-08-05T21:19:28.190Z,36.42,-89.5041666666667,7.14,2.21,md,20,53,0.03665,0.15,nm,nm60542086,2023-08-05T21:31:27.020Z,"5 km NNW of Tiptonville, Tennessee",earthquake,0.3,0.62,0.119517522635435,17,reviewed,nm,nm
 2023-08-05T20:58:28.750Z,36.7013321,-121.3831635,-0.43,1.69,md,14,75,,0.15,nc,nc73920776,2023-08-05T21:45:13.712Z,"11 km SSW of Tres Pinos, CA",earthquake,0.35,1.38,0.2,10,automatic,nc,nc
 2023-08-05T20:53:02.189Z,61.1932,-146.8828,1.9,1.4,ml,,,,0.34,ak,ak0239z7ucdm,2023-08-05T21:03:11.119Z,"29 km WNW of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
