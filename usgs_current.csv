@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T15:35:34.610Z,36.5866661,-121.1811676,4.74,1.64,md,14,150,0.01532,0.05,nc,nc73921071,2023-08-06T15:37:10.235Z,"7 km NNW of Pinnacles, CA",earthquake,0.43,0.55,0.23,13,automatic,nc,nc
-2023-08-06T15:29:39.710Z,36.8713341,-121.4844971,5.97,1.78,md,17,129,,0.16,nc,nc73921066,2023-08-06T15:40:11.096Z,"6 km ENE of San Juan Bautista, CA",earthquake,0.5,1.13,0.18,13,automatic,nc,nc
+2023-08-06T15:35:34.610Z,36.5866661,-121.1811676,4.74,1.64,md,14,150,0.01532,0.05,nc,nc73921071,2023-08-06T15:49:10.153Z,"7 km NNW of Pinnacles, CA",earthquake,0.43,0.55,0.23,13,automatic,nc,nc
+2023-08-06T15:29:39.710Z,36.8713341,-121.4844971,5.97,1.78,md,17,129,,0.16,nc,nc73921066,2023-08-06T15:46:13.131Z,"6 km ENE of San Juan Bautista, CA",earthquake,0.5,1.13,0.18,13,automatic,nc,nc
 2023-08-06T15:19:08.800Z,33.8051667,-116.9838333,11.99,1.6,ml,58,34,0.01357,0.23,ci,ci40530864,2023-08-06T15:22:48.055Z,"3 km NW of San Jacinto, CA",earthquake,0.21,0.55,0.145,27,automatic,ci,ci
 2023-08-06T15:15:58.658Z,61.9794,-149.8048,32.8,1.5,ml,,,,0.88,ak,ak023a0s6hzt,2023-08-06T15:18:04.544Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T15:03:17.180Z,33.0483333,-116.0656667,18.47,1.16,ml,10,162,0.1372,0.41,ci,ci40530856,2023-08-06T15:06:52.236Z,"12 km SSE of Ocotillo Wells, CA",earthquake,1.68,2.63,0.263,17,automatic,ci,ci
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T14:25:10.235Z,-55.6361,-27.0296,34.234,5.1,mb,46,95,5.616,0.68,us,us6000kya8,2023-08-06T14:40:10.040Z,"South Sandwich Islands region",earthquake,11.1,5.739,0.078,53,reviewed,us,us
 2023-08-06T14:17:52.981Z,-55.7194,-27.0998,29.729,5.7,mww,78,67,5.592,0.77,us,us6000kya4,2023-08-06T14:41:34.022Z,"South Sandwich Islands region",earthquake,10.93,5.369,0.098,10,reviewed,us,us
 2023-08-06T14:11:33.820Z,38.8511658,-122.7838364,0.94,0.68,md,8,183,0.01034,0.03,nc,nc73921051,2023-08-06T14:52:14.606Z,"6 km WNW of Cobb, CA",earthquake,0.52,0.8,0.28,8,automatic,nc,nc
-2023-08-06T14:10:55.450Z,38.8440018,-122.8324966,1.99,0.89,md,8,155,0.005888,0.02,nc,nc73921046,2023-08-06T14:41:17.532Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.97,0.21,9,automatic,nc,nc
+2023-08-06T14:10:55.450Z,38.8440018,-122.8324966,1.99,0.89,md,8,155,0.005888,0.02,nc,nc73921046,2023-08-06T15:53:18.177Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.97,0.21,9,automatic,nc,nc
 2023-08-06T14:10:29.400Z,38.7955017,-122.7676697,3.9,0.75,md,8,80,0.008052,0.01,nc,nc73921041,2023-08-06T15:25:14.799Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.62,0.04,9,automatic,nc,nc
 2023-08-06T14:01:14.682Z,14.0282,144.832,164.025,4.4,mb,50,103,0.438,0.53,us,us6000kya1,2023-08-06T14:23:52.040Z,"Rota region, Northern Mariana Islands",earthquake,10.73,5.877,0.079,46,reviewed,us,us
 2023-08-06T13:55:33.767Z,61.3589,-151.3748,72.9,1.4,ml,,,,0.75,ak,ak023a0r85i8,2023-08-06T13:57:49.223Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T11:09:28.786Z,6.9055,-72.9849,143.798,4.3,mb,47,112,1.011,0.75,us,us6000ky9h,2023-08-06T11:23:54.040Z,"11 km SE of Piedecuesta, Colombia",earthquake,5.74,8.85,0.052,105,reviewed,us,us
 2023-08-06T10:48:03.880Z,38.7868347,-122.7661667,2.74,1.28,md,26,77,0.01466,0.03,nc,nc73921001,2023-08-06T12:42:14.024Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.45,0.21,24,automatic,nc,nc
 2023-08-06T10:28:57.550Z,18.7256666666667,-67.4878333333333,7.62,3.22,md,15,197,0.3395,0.46,pr,pr71420653,2023-08-06T10:51:33.280Z,"Mona Passage",earthquake,1.27,1.73,0.129307876403047,10,reviewed,pr,pr
-2023-08-06T10:27:59.052Z,36.9105,-104.8551,9.525,3.8,mb,55,27,0.108,1.15,us,us6000ky98,2023-08-06T14:28:58.266Z,"New Mexico",earthquake,4.97,6.644,0.147,12,reviewed,us,us
+2023-08-06T10:27:59.052Z,36.9105,-104.8551,9.525,3.8,mb,55,27,0.108,1.15,us,us6000ky98,2023-08-06T15:49:00.748Z,"New Mexico",earthquake,4.97,6.644,0.147,12,reviewed,us,us
 2023-08-06T10:23:38.460Z,38.8323326,-122.8161697,1.5,0.26,md,9,73,0.01012,0.01,nc,nc73920996,2023-08-06T12:15:12.753Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.52,0.17,8,automatic,nc,nc
 2023-08-06T10:18:37.211Z,58.2088,-155.3036,1.2,0.8,ml,,,,0.58,ak,ak023a0p7xgp,2023-08-06T10:19:32.914Z,"87 km NW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-08-06T10:16:25.441Z,-1.0192,120.4454,10,4.8,mb,52,47,2.143,0.33,us,us6000ky97,2023-08-06T10:56:53.040Z,"53 km NW of Poso, Indonesia",earthquake,6.23,1.87,0.092,37,reviewed,us,us
