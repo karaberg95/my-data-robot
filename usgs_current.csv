@@ -169,6 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T08:12:10.206Z,61.1904,-150.9777,54.6,1.7,ml,,,,0.51,ak,ak0239z0gddo,2023-08-05T19:52:00.085Z,"7 km NE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-05T07:47:48.960Z,37.5808333,-118.9651667,6.8,0.62,md,16,215,0.05812,0.03,nc,nc73920536,2023-08-05T20:06:12.141Z,"6 km S of Mammoth Lakes, CA",earthquake,0.66,1.37,0.181,17,reviewed,nc,nc
 2023-08-05T07:32:44.942Z,59.7516,-150.731,40.4,1.3,ml,,,,0.51,ak,ak0239yzzary,2023-08-05T07:35:05.045Z,"17 km SE of Fox River, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-05T07:22:24.209Z,50.9182,92.5095,10,4.5,mb,34,67,5.597,0.43,us,us6000ky1z,2023-08-05T07:40:50.040Z,"38 km ENE of Khandagayty, Russia",earthquake,5.05,1.929,0.102,28,reviewed,us,us
-2023-08-05T07:20:07.272Z,-28.2143,-63.1854,597.681,6.2,mww,111,33,4.29,0.9,us,us6000ky1y,2023-08-05T19:45:54.527Z,"Santiago Del Estero, Argentina",earthquake,10.14,4.07,0.032,91,reviewed,us,us
-2023-08-05T07:20:02.850Z,37.5211667,-118.8533333,6.13,1.03,md,23,130,0.07139,0.04,nc,nc73920526,2023-08-05T19:40:13.484Z,"16 km WSW of Toms Place, CA",earthquake,0.53,0.57,0.146,20,reviewed,nc,nc
