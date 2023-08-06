@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T06:51:03.386Z,64.7525,-147.4954,15.9,1.1,ml,,,,0.28,ak,ak023a0n172a,2023-08-06T06:53:16.463Z,"5 km SSE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T06:30:33.930Z,38.8359985,-122.7939987,2.11,1.1,md,20,56,0.003734,0.02,nc,nc73920931,2023-08-06T06:47:20.903Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.41,0.16,20,automatic,nc,nc
 2023-08-06T06:25:49.760Z,33.2731667,-116.4335,1.5,0.7,ml,21,81,0.01456,0.2,ci,ci40530600,2023-08-06T06:29:17.726Z,"6 km WNW of Borrego Springs, CA",earthquake,0.29,0.59,0.142,13,automatic,ci,ci
 2023-08-06T06:22:18.471Z,57.5656,-155.4113,74.9,2.2,ml,,,,0.55,ak,ak023a0mv0h6,2023-08-06T06:36:37.040Z,"Alaska Peninsula",earthquake,,0.8,,,automatic,ak,ak
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T22:31:02.981Z,60.4688,-152.0346,70.5,1.2,ml,,,,0.49,ak,ak0239z8whwa,2023-08-05T22:33:13.083Z,"41 km W of Kalifornsky, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-05T22:05:55.718Z,38.1921,-117.7368,0,2.2,ml,21,137.48,0.118,0.4298,nn,nn00864032,2023-08-05T22:09:00.882Z,"39 km SE of Mina, Nevada",earthquake,,3.3,0.81,14,automatic,nn,nn
 2023-08-05T22:01:32.260Z,33.6748333,-116.9683333,14.06,0.63,ml,13,78,0.03908,0.16,ci,ci40530512,2023-08-05T22:05:04.495Z,"8 km S of Hemet, CA",earthquake,0.45,0.57,0.08,13,automatic,ci,ci
-2023-08-05T21:34:43.409Z,-33.7872,118.3,10,5.2,mww,39,59,8.789,0.42,us,us6000ky6d,2023-08-06T04:51:56.665Z,"69 km E of Katanning, Australia",earthquake,12.28,1.861,0.093,11,reviewed,us,us
+2023-08-05T21:34:43.409Z,-33.7872,118.3,10,5.2,mww,39,59,8.789,0.42,us,us6000ky6d,2023-08-06T06:53:05.837Z,"69 km E of Katanning, Australia",earthquake,12.28,1.861,0.093,11,reviewed,us,us
 2023-08-05T21:19:28.190Z,36.42,-89.5041666666667,7.14,2.21,md,20,53,0.03665,0.15,nm,nm60542086,2023-08-05T21:31:27.020Z,"5 km NNW of Tiptonville, Tennessee",earthquake,0.3,0.62,0.119517522635435,17,reviewed,nm,nm
 2023-08-05T20:58:28.750Z,36.7013321,-121.3831635,-0.43,1.69,md,14,75,,0.15,nc,nc73920776,2023-08-06T00:11:18.617Z,"11 km SSW of Tres Pinos, CA",earthquake,0.35,1.38,0.2,10,automatic,nc,nc
 2023-08-05T20:53:02.189Z,61.1932,-146.8828,1.9,1.4,ml,,,,0.34,ak,ak0239z7ucdm,2023-08-05T21:03:11.119Z,"29 km WNW of Valdez, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T07:20:02.850Z,37.5211667,-118.8533333,6.13,1.03,md,23,130,0.07139,0.04,nc,nc73920526,2023-08-05T19:40:13.484Z,"16 km WSW of Toms Place, CA",earthquake,0.53,0.57,0.146,20,reviewed,nc,nc
 2023-08-05T07:04:46.500Z,37.5605,-118.9706667,9.25,0.76,md,19,137,0.0659,0.05,nc,nc73920521,2023-08-05T19:38:13.076Z,"8 km S of Mammoth Lakes, CA",earthquake,0.44,0.82,0.158,16,reviewed,nc,nc
 2023-08-05T06:59:28.815Z,65.6241,-151.433,8.5,1.4,ml,,,,0.71,ak,ak0239yzjm8f,2023-08-05T07:01:52.049Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-05T06:50:22.720Z,37.5493333,-118.8266667,1.89,0.57,md,7,293,0.04067,0.03,nc,nc73920516,2023-08-05T19:34:45.263Z,"13 km W of Toms Place, CA",earthquake,3.08,1.57,0.153,6,reviewed,nc,nc
