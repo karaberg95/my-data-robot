@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T06:39:49.430Z,19.5591666666667,-64.3041666666667,34.67,3.43,md,12,311,1.35,0.29,pr,pr71420713,2023-08-07T06:57:51.160Z,"145 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.15,19.05,0.0369228201806826,5,reviewed,pr,pr
 2023-08-07T06:35:46.560Z,19.3988333333333,-155.26,1.76,2.26,ml,31,40,,0.1,hv,hv73513577,2023-08-07T20:25:29.840Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.18,0.230457666952159,16,reviewed,hv,hv
 2023-08-07T06:16:42.560Z,38.8328323,-122.8088303,2.13,0.32,md,9,96,0.009473,0.01,nc,nc73921336,2023-08-07T08:20:11.879Z,"8 km W of Cobb, CA",earthquake,0.57,1.38,0.21,9,automatic,nc,nc
-2023-08-07T05:51:35.310Z,38.7976667,-122.7955,-0.14,0.47,md,5,127,0.007429,0.02,nc,nc73921331,2023-08-07T22:35:40.924Z,"4 km NW of The Geysers, CA",earthquake,0.38,0.89,0.186,5,reviewed,nc,nc
+2023-08-07T05:51:35.310Z,38.7976667,-122.7955,-0.14,0.47,md,5,127,0.007429,0.02,nc,nc73921331,2023-08-07T23:21:15.172Z,"4 km NW of The Geysers, CA",earthquake,0.38,0.89,0.186,5,reviewed,nc,nc
 2023-08-07T05:47:37.637Z,60.9998,-146.9871,21.1,1.8,ml,,,,0.56,ak,ak023a29ybqb,2023-08-07T05:49:38.176Z,"22 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-07T05:44:47.000Z,34.2215,-117.4535,9.74,1.34,ml,54,33,0.02701,0.18,ci,ci40531088,2023-08-07T19:04:52.340Z,"5 km W of Devore, CA",earthquake,0.2,0.28,0.134,25,reviewed,ci,ci
 2023-08-07T05:32:56.310Z,58.1901,-155.3646,0.1,0.8,ml,,,,0.34,ak,ak023a29v5fj,2023-08-07T05:33:55.304Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -189,7 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T23:46:53.090Z,48.23466666666667,-121.6975,9.84,0.45,md,3,174,0.06303,0.01,uw,uw61938722,2023-08-07T04:44:37.290Z,"5 km SSE of Swede Heaven, Washington",earthquake,1.09,1.37,0.38627815009808986,3,reviewed,uw,uw
 2023-08-06T23:32:33.630Z,8.2839,-82.9507,21.173,4.4,mwr,39,132,0.386,0.79,us,us6000kycq,2023-08-06T23:48:06.040Z,"9 km W of Puerto Armuelles, Panama",earthquake,4.95,8.075,0.075,17,reviewed,us,us
 2023-08-06T23:31:33.519Z,-23.2502,-179.8982,556.793,4.3,mb,26,98,4.817,0.88,us,us6000kycr,2023-08-07T00:16:58.040Z,"south of the Fiji Islands",earthquake,15.26,12.232,0.111,23,reviewed,us,us
-2023-08-06T23:25:26.210Z,35.3173333,-118.5655,5.21,3.34,ml,64,24,0.1212,0.19,ci,ci40530992,2023-08-07T19:43:19.763Z,"23 km NNW of Tehachapi, CA",earthquake,0.15,0.58,0.14,118,reviewed,ci,ci
-2023-08-06T23:22:59.136Z,62.9713,-150.4873,94.5,1.2,ml,,,,0.45,ak,ak023a0wzfqx,2023-08-07T04:28:22.894Z,"54 km NNE of Petersville, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-08-06T23:19:57.283Z,31.63106963,-104.5015912,6.671435547,1.8,ml,25,139,0.03760115906,0.2,tx,tx2023pigi,2023-08-07T18:40:03.075Z,"61 km S of Whites City, New Mexico",earthquake,1.359231429,1.00222574,0,7,reviewed,tx,tx
-2023-08-06T23:18:59.620Z,19.3228333333333,-155.240666666667,4.5,2.22,ml,44,123,,0.12,hv,hv73513152,2023-08-07T20:43:59.310Z,"13 km S of Volcano, Hawaii",earthquake,0.25,0.75,0.162381165676598,23,reviewed,hv,hv
