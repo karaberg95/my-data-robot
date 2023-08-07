@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-07T21:15:34.850Z,33.4926667,-116.7546667,6.87,1,ml,35,34,0.04612,0.22,ci,ci40531512,2023-08-07T21:19:12.837Z,"10 km SW of Anza, CA",earthquake,0.26,0.72,0.123,24,automatic,ci,ci
+2023-08-07T21:15:34.740Z,33.4855,-116.754,7.02,0.98,ml,32,35,0.0471,0.14,ci,ci40531512,2023-08-07T21:49:07.700Z,"11 km SW of Anza, CA",earthquake,0.17,0.41,0.105,21,reviewed,ci,ci
 2023-08-07T20:54:46.867Z,60.0809,-151.9947,90.7,1.8,ml,,,,0.28,ak,ak023a2ixcj2,2023-08-07T20:56:53.942Z,"18 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T20:53:06.046Z,36.8443,-116.0914,9.9,0.2,ml,9,204.36,0.084,0.0468,nn,nn00864083,2023-08-07T20:55:02.717Z,"48 km NW of Indian Springs, Nevada",earthquake,,1.9,0.94,5,automatic,nn,nn
 2023-08-07T20:51:17.548Z,60.416,-151.0053,46.2,1.9,ml,,,,0.4,ak,ak023a2iwn4a,2023-08-07T20:52:57.365Z,"8 km SSE of Soldotna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T09:14:14.668Z,36.1003,142.072,31.045,4.6,mb,24,168,3.15,0.9,us,us6000kye7,2023-08-07T12:59:22.040Z,"118 km ENE of Hasaki, Japan",earthquake,8.64,7.416,0.181,9,reviewed,us,us
 2023-08-07T09:07:43.561Z,65.686,-145.1527,6.1,1,ml,,,,0.8,ak,ak023a2c3hys,2023-08-07T09:09:29.039Z,"20 km NW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T09:02:20.340Z,33.564,-116.8086667,6.58,0.26,ml,15,91,0.04755,0.09,ci,ci40531128,2023-08-07T16:20:24.040Z,"13 km W of Anza, CA",earthquake,0.2,0.36,0.139,5,reviewed,ci,ci
-2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:15:11.556Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
+2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:53:19.642Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
 2023-08-07T08:39:25.700Z,33.5151667,-116.5616667,14.09,1,ml,50,68,0.03948,0.16,ci,ci40531112,2023-08-07T16:14:56.250Z,"11 km ESE of Anza, CA",earthquake,0.18,0.27,0.16,23,reviewed,ci,ci
 2023-08-07T08:13:02.570Z,61.3531,-146.6924,25.6,1.4,ml,,,,0.47,ak,ak023a2bj9ht,2023-08-07T08:15:06.080Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-07T08:08:05.050Z,19.4048333333333,-155.286166666667,1.49,2.05,ml,25,31,,0.1,hv,hv73513647,2023-08-07T20:17:34.840Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.15,0.164228447791232,13,reviewed,hv,hv
