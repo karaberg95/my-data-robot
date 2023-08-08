@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T10:21:18.015Z,39.329,-119.8929,8.6,0.7,ml,14,78.09,0.016,0.1447,nn,nn00864135,2023-08-08T18:33:13.926Z,"Nevada",earthquake,,1.4,0.22,5,reviewed,nn,nn
 2023-08-08T10:20:50.260Z,47.60616666666667,-121.789,17.28,1.55,ml,32,103,0.1101,0.19,uw,uw61939457,2023-08-08T20:09:16.330Z,"8 km ENE of Fall City, Washington",earthquake,0.33,0.46,0.20446537683505106,15,reviewed,uw,uw
 2023-08-08T10:19:31.560Z,38.7845001,-122.7789993,1.06,0.77,md,9,112,0.01112,0.02,nc,nc73921751,2023-08-08T10:43:16.052Z,"2 km WNW of The Geysers, CA",earthquake,0.28,0.55,0.1,10,automatic,nc,nc
-2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-08T20:30:02.952Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
+2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-08T20:35:00.974Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
 2023-08-08T10:14:01.930Z,37.3273315,-122.2145004,8.51,1.48,md,8,68,0.04329,0.07,nc,nc73921746,2023-08-08T12:56:11.846Z,"7 km SSE of Portola Valley, CA",earthquake,0.46,0.95,0.1,8,automatic,nc,nc
 2023-08-08T09:44:18.392Z,38.1714,-117.9992,7.2,2.7,ml,13,68.66,0.03,0.1597,nn,nn00864131,2023-08-08T16:31:33.337Z,"26 km SSE of Mina, Nevada",earthquake,,1.2,0.38,8,reviewed,nn,nn
 2023-08-08T09:23:30.689Z,58.7719,-155.8442,240.5,1.8,ml,,,,0.57,ak,ak023a3zq8x8,2023-08-08T09:26:05.100Z,"48 km E of King Salmon, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -170,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T01:57:00.821Z,31.68252359,-104.4049337,5.668823242,2,ml,28,68,0.01801031348,0.1,tx,tx2023pkha,2023-08-08T11:20:01.680Z,"54 km S of Whites City, New Mexico",earthquake,1.308973698,1.2035070990000003,0,6,reviewed,tx,tx
 2023-08-08T01:54:54.680Z,44.7616667,-110.9533333,5.34,0.12,md,9,130,0.03771,0.14,uu,uu60547172,2023-08-08T13:57:28.740Z,"16 km NE of West Yellowstone, Montana",earthquake,0.47,1.27,0.295,7,reviewed,uu,uu
 2023-08-08T01:51:07.740Z,47.612,-121.815,16.74,1.58,ml,26,106,0.09489,0.11,uw,uw61939382,2023-08-08T05:41:24.490Z,"Washington",earthquake,0.27,0.38,0.10849808524123561,20,reviewed,uw,uw
+2023-08-08T01:43:56.618Z,38.8949,-118.8728,5.8,1.4,ml,7,138.57,0.573,0.1387,nn,nn00864159,2023-08-08T20:37:08.474Z,"8 km SW of Schurz, Nevada",earthquake,,4,0.19,3,reviewed,nn,nn
 2023-08-08T01:27:37.834Z,62.3925,-151.8327,89.7,2,ml,,,,0.39,ak,ak023a3uznhz,2023-08-08T01:29:45.715Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-08T01:24:05.187Z,64.9499,-147.2909,0,2.1,ml,,,,0.99,ak,ak023a3uyxty,2023-08-08T01:25:52.340Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-08T01:22:59.248Z,-9.7213,112.903,35,5,mb,34,91,1.751,0.82,us,us6000kyjp,2023-08-08T01:52:06.040Z,"167 km SSW of Kencong, Indonesia",earthquake,8.42,1.911,0.1,32,reviewed,us,us
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T20:42:30.818Z,63.493,-151.214,0.1,2.3,ml,,,,0.59,ak,ak023a2iuqpe,2023-08-08T16:54:41.040Z,"25 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T20:42:10.785Z,65.7689,-145.8952,0,1.7,ml,,,,1.16,ak,ak023a2iup5v,2023-08-07T20:44:24.586Z,"54 km S of Birch Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-07T20:39:07.960Z,33.4618333,-116.8795,4.2,0.59,ml,18,62,0.03328,0.15,ci,ci40531480,2023-08-07T21:39:37.746Z,"2 km NNW of Aguanga, CA",earthquake,0.25,0.5,0.089,12,reviewed,ci,ci
-2023-08-07T20:36:45.850Z,18.0541666666667,-66.821,20.22,2.08,md,7,123,0.09625,0.07,pr,pr71420778,2023-08-07T20:47:32.110Z,"3 km NE of Yauco, Puerto Rico",earthquake,0.4,0.83,0.0165272825488758,4,reviewed,pr,pr
-2023-08-07T20:35:58.207Z,-5.6708,147.1792,161.17,4.4,mb,23,146,3.71,0.74,us,us6000kyib,2023-08-08T17:03:47.040Z,"118 km N of Lae, Papua New Guinea",earthquake,9.3,9.082,0.117,21,reviewed,us,us
