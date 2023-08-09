@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T06:39:00.758Z,39.186,-120.4759,0.4,1.5,ml,8,190.97,0.357,0.0719,nn,nn00864205,2023-08-09T06:41:08.298Z,"15 km SSW of Kingvale, California",earthquake,,50.8,0.39,6,automatic,nn,nn
 2023-08-09T06:22:55.235Z,60.2943,-145.9037,18.2,1.4,ml,,,,0.73,ak,ak023a5lh4s3,2023-08-09T06:25:34.471Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T06:18:31.736Z,58.2436,-155.2175,10,-0.1,ml,,,,0.37,ak,ak023a5lg83p,2023-08-09T06:21:01.411Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T06:17:55.770Z,38.8393326,-122.8375015,1.77,1,md,21,84,0.00174,0.02,nc,nc73922046,2023-08-09T06:34:14.920Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.41,0.09,21,automatic,nc,nc
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T07:04:39.425Z,61.2982,-152.5014,4.7,1.9,ml,,,,0.37,ak,ak023a3yfbs6,2023-08-08T07:06:16.405Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T07:01:40.070Z,37.5615,-118.8378333,-0.68,0.53,md,7,317,0.02931,0.03,nc,nc73921681,2023-08-08T10:11:16.853Z,"14 km W of Toms Place, CA",earthquake,1.2,0.36,0.082,7,reviewed,nc,nc
 2023-08-08T06:53:47.400Z,36.6293335,-121.2781677,5.46,1.6,md,16,116,,0.18,nc,nc73921676,2023-08-08T08:57:16.407Z,"16 km NW of Pinnacles, CA",earthquake,0.51,1.29,0.22,14,automatic,nc,nc
-2023-08-08T06:42:29.940Z,38.4233333,-112.8451667,5.17,1.02,md,10,212,0.006392,0.07,uu,uu60547177,2023-08-08T14:02:08.460Z,"14 km ENE of Milford, Utah",earthquake,0.57,0.6,0.13,3,reviewed,uu,uu
-2023-08-08T06:41:00.150Z,44.8531666666667,-111.471,9.02,0.79,ml,8,154,0.2049,0.17,mb,mb90023953,2023-08-08T18:22:13.750Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.9,4.41,0.108735762731212,6,reviewed,mb,mb
-2023-08-08T06:38:08.330Z,37.5168333,-118.8883333,1.37,0.88,md,10,278,0.08691,0.12,nc,nc73921666,2023-08-08T10:01:13.791Z,"16 km SSE of Mammoth Lakes, CA",earthquake,1.02,6.02,0.125,10,reviewed,nc,nc
