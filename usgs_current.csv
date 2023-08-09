@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-09T23:39:12.960Z,38.7991676,-122.768837,2.98,1.16,md,24,78,0.007277,0.04,nc,nc73922331,2023-08-09T23:40:46.252Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.44,0.16,24,automatic,nc,nc
+2023-08-09T23:39:12.960Z,38.7991676,-122.768837,2.98,1.16,md,24,78,0.007277,0.04,nc,nc73922331,2023-08-09T23:51:11.982Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.44,0.16,24,automatic,nc,nc
 2023-08-09T23:28:19.109Z,61.1607,-152.2155,100.6,1.1,ml,,,,0.31,ak,ak023a5vmpkm,2023-08-09T23:30:19.373Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-09T23:26:01.599Z,-3.1801,101.1584,53.874,4.8,mb,62,127,2.143,0.54,us,us6000kyys,2023-08-09T23:44:19.040Z,"southern Sumatra, Indonesia",earthquake,8.32,7.314,0.073,59,reviewed,us,us
 2023-08-09T23:22:09.530Z,38.8361664,-122.8058319,1.96,0.7,md,11,61,0.0123,0.01,nc,nc73922316,2023-08-09T23:23:45.613Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.22,0.22,12,automatic,nc,nc
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T23:18:35.319Z,-2.4582,101.092,70.011,4.5,mb,46,46,2.652,0.76,us,us6000kyyq,2023-08-09T23:36:35.040Z,"55 km SW of Sungai Penuh, Indonesia",earthquake,8.14,7.253,0.084,42,reviewed,us,us
 2023-08-09T23:10:56.652Z,60.0323,-153.3554,140.2,1.4,ml,,,,0.47,ak,ak023a5vixkx,2023-08-09T23:13:10.866Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-09T23:10:51.209Z,63.2355,-151.3578,0,1.2,ml,,,,1.21,ak,ak023a5vix5s,2023-08-09T23:13:06.026Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-09T23:06:14.330Z,37.5024986,-118.8553314,5.93,1.28,md,15,183,0.08983,0.04,nc,nc73922301,2023-08-09T23:14:09.763Z,"17 km WSW of Toms Place, CA",earthquake,0.91,1.01,0.09,14,automatic,nc,nc
+2023-08-09T23:06:14.330Z,37.5024986,-118.8553314,5.93,1.28,md,15,183,0.08983,0.04,nc,nc73922301,2023-08-09T23:53:16.993Z,"17 km WSW of Toms Place, CA",earthquake,0.91,1.01,0.09,14,automatic,nc,nc
 2023-08-09T22:36:39.785Z,36.2739,-115.3133,1.6,1.9,ml,8,182.14,0.263,0.2211,nn,nn00864233,2023-08-09T22:40:24.503Z,"Nevada",earthquake,,35.1,0.43,4,automatic,nn,nn
 2023-08-09T22:28:16.520Z,19.3928333333333,-155.277166666667,1.62,1.95,ml,16,66,,0.11,hv,hv73517772,2023-08-09T22:46:50.110Z,"Island of Hawaii, Hawaii",earthquake,0.18,0.2,0.168018790721746,9,reviewed,hv,hv
 2023-08-09T22:26:36.110Z,33.579,-116.7531667,12.18,0.5,ml,13,77,0.01726,0.09,ci,ci40532816,2023-08-09T22:30:20.980Z,"8 km WNW of Anza, CA",earthquake,0.32,0.45,0.142,8,automatic,ci,ci
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T00:09:41.230Z,33.881,-116.2755,6.17,1.17,ml,32,59,0.0958,0.12,ci,ci40532200,2023-08-09T17:30:56.853Z,"13 km ENE of Thousand Palms, CA",earthquake,0.18,0.67,0.097,24,reviewed,ci,ci
 2023-08-09T00:00:07.905Z,31.68255871,-104.3995503,6.131567383,2.2,ml,45,68,0.02257465411,0.2,tx,tx2023plyt,2023-08-09T14:54:01.659Z,"54 km S of Whites City, New Mexico",earthquake,0.6084703786,0.5323845061,0.1,6,reviewed,tx,tx
 2023-08-08T23:55:53.160Z,45.85016666666667,-122.44916666666667,-0.79,2.05,ml,15,99,0.08495,0.17,uw,uw61948516,2023-08-09T05:49:07.670Z,"3 km WSW of Yacolt, Washington",explosion,0.6,31.61,0.2564864343536164,10,reviewed,uw,uw
-2023-08-08T23:49:19.598Z,60.2927,-151.7963,54.4,1.1,ml,,,,0.37,ak,ak023a487vdr,2023-08-08T23:50:56.506Z,"23 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-08T23:48:49.030Z,51.858,-178.091,6.03,1.62,ml,9,128,,0.19,av,av91995431,2023-08-09T19:03:05.710Z,"100 km W of Adak, Alaska",earthquake,0.54,0.37,0.268932717591241,9,reviewed,av,av
