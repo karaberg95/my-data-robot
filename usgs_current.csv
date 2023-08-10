@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T04:12:05.550Z,48.1031666666667,-114.2185,10.71,1.47,ml,14,170,0.05468,0.14,mb,mb90024013,2023-08-09T14:43:08.310Z,"2 km N of Somers, Montana",earthquake,0.53,0.59,0.414989984417564,9,reviewed,mb,mb
 2023-08-09T03:41:00.819Z,44.6575,-114.3659,10,2.7,ml,46,66,0.361,0.75,us,us6000kysm,2023-08-09T23:06:17.496Z,"20 km NNW of Challis, Idaho",earthquake,1.83,1.646,0.04,82,reviewed,us,us
 2023-08-09T03:33:31.480Z,32.9986667,-116.2298333,8.03,1.99,ml,67,49,0.07585,0.2,ci,ci40532264,2023-08-09T18:46:47.480Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.93,0.091,23,reviewed,ci,ci
-2023-08-09T03:27:14.940Z,33.3085,-116.3598333,9.67,0.61,ml,30,87,0.01918,0.22,ci,ci40532256,2023-08-09T18:37:15.246Z,"6 km NNE of Borrego Springs, CA",earthquake,0.36,0.63,0.131,16,reviewed,ci,ci
