@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T15:26:09.133Z,57.6937,-155.8894,17.5,1,ml,,,,0.93,ak,ak023a91xhip,2023-08-11T15:27:20.221Z,"86 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-11T15:13:50.318Z,61.8091,-151.9659,114.9,1.8,ml,,,,0.32,ak,ak023a91usow,2023-08-11T15:15:04.250Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-11T15:11:06.080Z,35.9541667,-117.918,6.91,0.92,ml,9,137,0.09295,0.09,ci,ci40534256,2023-08-11T15:14:37.884Z,"2 km NNW of Little Lake, CA",earthquake,0.3,0.8,0.075,6,automatic,ci,ci
-2023-08-11T15:01:38.380Z,37.463,-118.827,4.44,1.04,md,17,261,0.1268,0.04,nc,nc73923001,2023-08-11T16:14:20.180Z,"17 km SW of Toms Place, CA",earthquake,0.94,1.52,0.204,15,reviewed,nc,nc
+2023-08-11T15:01:38.380Z,37.463,-118.827,4.44,1.04,md,17,261,0.1268,0.04,nc,nc73923001,2023-08-11T16:46:15.178Z,"17 km SW of Toms Place, CA",earthquake,0.94,1.52,0.204,15,reviewed,nc,nc
 2023-08-11T14:58:28.510Z,37.5723333,-118.8395,0.2,1.03,md,9,261,0.0195,0.03,nc,nc73922996,2023-08-11T16:35:21.132Z,"14 km W of Toms Place, CA",earthquake,1.86,0.69,0.207,10,reviewed,nc,nc
 2023-08-11T14:44:43.361Z,60.9205,-150.8855,7.7,1.1,ml,,,,0.53,ak,ak023a91fzg0,2023-08-11T14:46:24.851Z,"10 km W of Point Possession, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-08-11T14:40:29.180Z,44.8756666666667,-111.442833333333,7.25,1.23,ml,12,93,0.1864,0.12,mb,mb90024318,2023-08-11T15:29:18.420Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,0.76,1.1,0.199157243779737,11,reviewed,mb,mb
@@ -235,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T17:05:34.550Z,19.2458324432373,-155.40266418457,31.7999992370605,1.74000001,md,25,176,,0.100000001,hv,hv73518632,2023-08-10T17:08:48.620Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.74,0.74000001,1.75999999,4,automatic,hv,hv
 2023-08-10T16:57:48.570Z,34.2545,-96.41,0,1.48,ml,23,106,0.2159576217,0.34,ok,ok2023ppbt,2023-08-11T15:44:51.613Z,"Oklahoma",quarry blast,,0.7,0.12,7,reviewed,ok,ok
 2023-08-10T16:50:50.929Z,61.6304,-146.5093,35.9,1.4,ml,,,,0.43,ak,ak023a7f4t1g,2023-08-10T16:52:51.767Z,"42 km SSE of Nelchina, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-10T16:47:30.310Z,37.5273333,-118.8573333,5.78,0.81,md,17,215,0.06648,0.03,nc,nc73922546,2023-08-11T01:04:14.741Z,"16 km WSW of Toms Place, CA",earthquake,0.76,0.79,0.132,14,reviewed,nc,nc
-2023-08-10T16:46:01.990Z,44.8426666666667,-111.492166666667,7.49,0.94,ml,10,157,0.04583,0.14,mb,mb90024293,2023-08-11T13:51:47.610Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.64,0.74,0.0698550853044293,5,reviewed,mb,mb
-2023-08-10T16:45:09.960Z,58.249,-155.127333333333,3.58,-0.01,ml,11,139,,0.11,av,av91112988,2023-08-11T01:57:16.730Z,"Alaska Peninsula",earthquake,0.33,0.51,0.161238092743894,12,reviewed,av,av
