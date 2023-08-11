@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T15:01:38.380Z,37.463,-118.827,4.44,1.04,md,17,261,0.1268,0.04,nc,nc73923001,2023-08-11T16:46:15.178Z,"17 km SW of Toms Place, CA",earthquake,0.94,1.52,0.204,15,reviewed,nc,nc
 2023-08-11T14:58:28.510Z,37.5723333,-118.8395,0.2,1.03,md,9,261,0.0195,0.03,nc,nc73922996,2023-08-11T16:35:21.132Z,"14 km W of Toms Place, CA",earthquake,1.86,0.69,0.207,10,reviewed,nc,nc
 2023-08-11T14:44:43.361Z,60.9205,-150.8855,7.7,1.1,ml,,,,0.53,ak,ak023a91fzg0,2023-08-11T14:46:24.851Z,"10 km W of Point Possession, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2023-08-11T14:44:38.330Z,32.6556667,-115.6496667,11.35,0.8,ml,4,283,0.06502,0.14,ci,ci40534240,2023-08-11T18:48:13.341Z,"10 km NW of Progreso, B.C., MX",earthquake,0.92,1.04,0.23,3,reviewed,ci,ci
 2023-08-11T14:40:29.180Z,44.8756666666667,-111.442833333333,7.25,1.23,ml,12,93,0.1864,0.12,mb,mb90024318,2023-08-11T15:29:18.420Z,"Idaho-Montana border region",earthquake,0.76,1.1,0.199157243779737,11,reviewed,mb,mb
 2023-08-11T14:38:06.181Z,60.7984,-150.9483,38.8,1.1,ml,,,,0.61,ak,ak023a91ema2,2023-08-11T14:39:54.315Z,"19 km SW of Point Possession, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-11T14:24:08.922Z,59.9365,-152.1586,72,3.3,ml,,,,0.31,ak,ak023a91bmgs,2023-08-11T14:25:50.107Z,"23 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T04:47:40.145Z,-7.4569,128.2737,152.135,4.6,mb,41,99,3.336,0.56,us,us6000kz71,2023-08-11T05:07:37.040Z,"183 km NE of Lospalos, Timor Leste",earthquake,8.64,5.934,0.095,33,reviewed,us,us
 2023-08-11T04:47:25.590Z,38.8305016,-122.8273315,4.02,0.76,md,9,67,0.009516,0.06,nc,nc73922811,2023-08-11T06:42:16.694Z,"8 km NW of The Geysers, CA",earthquake,0.79,2.69,0.16,10,automatic,nc,nc
 2023-08-11T04:43:57.584Z,58.2638,-155.125,28.7,0.4,ml,,,,0.56,ak,ak023a8vhgqe,2023-08-11T04:46:26.995Z,"86 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-11T04:35:49.970Z,37.2806667,-121.654,3.65,1.23,md,35,41,0.02648,0.09,nc,nc73922806,2023-08-11T17:50:10.522Z,"16 km E of Seven Trees, CA",earthquake,0.17,0.3,0.171,26,reviewed,nc,nc
+2023-08-11T04:35:49.970Z,37.2806667,-121.654,3.65,1.23,md,35,41,0.02648,0.09,nc,nc73922806,2023-08-11T18:48:14.838Z,"16 km E of Seven Trees, CA",earthquake,0.17,0.3,0.171,26,reviewed,nc,nc
 2023-08-11T04:33:07.790Z,35.9756667,-118.3336667,2.76,1.25,ml,12,211,0.2163,0.18,ci,ci40533952,2023-08-11T14:41:26.362Z,"26 km NNE of Kernville, CA",earthquake,0.75,1.41,0.099,8,reviewed,ci,ci
 2023-08-11T04:31:22.719Z,61.079,-154.0808,0,1.4,ml,,,,0.41,ak,ak023a8vethr,2023-08-11T04:33:34.251Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-11T04:29:51.600Z,35.9815,-118.3373333,2.76,1.11,ml,23,106,0.2206,0.16,ci,ci40533944,2023-08-11T16:53:19.490Z,"26 km NNE of Kernville, CA",earthquake,0.27,0.83,0.053,5,reviewed,ci,ci
