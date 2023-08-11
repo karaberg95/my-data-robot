@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-11T13:22:04.640Z,38.8204994,-122.8249969,1.96,0.57,md,6,93,0.008261,0,nc,nc73922966,2023-08-11T13:23:40.699Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.14,0.16,8,automatic,nc,nc
+2023-08-11T13:20:28.491Z,61.3002,-152.5027,6.1,1.6,ml,,,,0.34,ak,ak023a90pdi9,2023-08-11T13:22:03.365Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-11T12:58:43.451Z,60.0292,-153.4059,166.1,1.6,ml,,,,0.51,ak,ak023a90c49l,2023-08-11T13:01:03.344Z,"47 km NE of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-11T12:47:23.237Z,57.6798,-154.6252,43.1,1.8,ml,,,,0.55,ak,ak023a909ptv,2023-08-11T12:49:39.697Z,"15 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-11T12:45:19.723Z,61.2996,-152.4265,0,0.6,ml,,,,0.59,ak,ak023a909a4k,2023-08-11T12:47:07.258Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -162,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T19:47:53.880Z,46.203,-122.18816666666666,5.44,0.05,ml,12,91,0.003358,0.17,uw,uw61949026,2023-08-11T00:17:51.600Z,"38 km NNE of Amboy, Washington",earthquake,0.52,0.85,0.10241233328329387,6,reviewed,uw,uw
 2023-08-10T19:45:52.700Z,19.384,-155.279,1.42,2.34,ml,36,68,,0.12,hv,hv73518842,2023-08-10T20:39:48.180Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.205347511933028,13,reviewed,hv,hv
 2023-08-10T19:37:00.230Z,17.9326666666667,-66.8426666666667,15.14,2.52,md,7,217,0.05468,0.09,pr,pr71421113,2023-08-10T20:50:32.260Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.55,0.66,0.0630042834091342,5,reviewed,pr,pr
-2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"12 km SW of El Reno, Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
+2023-08-10T19:35:43.090Z,35.45933333,-98.05316667,5.33,1.15,ml,31,89,0.04049205408,0.25,ok,ok2023ppgz,2023-08-10T20:19:46.205Z,"Oklahoma",earthquake,,0.8,0.24,4,reviewed,ok,ok
 2023-08-10T19:17:18.370Z,35.9345,-120.484,9.5,4.28,mw,72,54,0.01574,0.11,nc,nc73922596,2023-08-11T12:58:10.389Z,"6 km NW of Parkfield, CA",earthquake,0.14,0.2,,4,reviewed,nc,nc
 2023-08-10T19:14:52.650Z,38.8146667,-122.8184967,2.54,1.1,md,25,51,0.01016,0.02,nc,nc73922591,2023-08-10T21:46:11.569Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.14,25,automatic,nc,nc
 2023-08-10T19:08:59.425Z,61.3867,-151.9144,88.1,1.2,ml,,,,0.57,ak,ak023a7go4fq,2023-08-10T19:10:48.026Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -233,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T13:32:52.000Z,53.8543333333333,-166.802,5.31,-0.36,ml,5,126,,0.07,av,av91112898,2023-08-10T23:18:03.840Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.33,0.92,0.231640750343833,5,reviewed,av,av
 2023-08-10T13:32:08.870Z,53.855,-166.8025,5.76,-0.61,ml,5,127,,0.06,av,av91112893,2023-08-10T23:15:07.320Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.38,1.04,0.301177712483154,6,reviewed,av,av
 2023-08-10T13:30:31.820Z,35.47183333,-98.038,6.33,2.15,ml,97,66,0.04859046489,0.32,ok,ok2023poux,2023-08-10T14:19:34.203Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.5,0.19,20,reviewed,ok,ok
-2023-08-10T13:20:36.410Z,38.7654991,-122.7405014,1.89,0.7,md,7,130,0.01283,0.03,nc,nc73922506,2023-08-10T14:39:16.138Z,"2 km SE of The Geysers, CA",earthquake,1.18,1.45,0.11,8,automatic,nc,nc
