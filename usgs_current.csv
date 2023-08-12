@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T11:26:40.997Z,61.5196,-146.5043,26.8,2.2,ml,,,,0.44,ak,ak023aan361v,2023-08-12T11:28:14.257Z,"44 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T11:26:00.389Z,61.3386,-147.389,19.3,1.4,ml,,,,0.5,ak,ak023aan32x2,2023-08-12T11:27:43.004Z,"54 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T11:23:29.703Z,61.6999,-150.0846,31.6,1.4,ml,,,,0.66,ak,ak023aan2i16,2023-08-12T11:25:35.294Z,"5 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-12T11:18:16.720Z,44.6111666666667,-112.583,8.21,1.68,ml,10,79,0.04398,0.06,mb,mb90024343,2023-08-12T13:21:51.710Z,"2 km SSE of Lima, Montana",earthquake,0.36,0.56,0.136564205813595,10,reviewed,mb,mb
 2023-08-12T11:12:37.190Z,19.1828327178955,-155.509506225586,31.7000007629395,1.76999998,md,33,155,,0.159999996,hv,hv73521007,2023-08-12T11:15:44.460Z,"3 km SW of Pāhala, Hawaii",earthquake,0.73,1.23000002,1.04999995,8,automatic,hv,hv
 2023-08-12T11:06:57.649Z,63.1672,-147.773,250,1.7,ml,,,,0.73,ak,ak023aamyx0k,2023-08-12T11:09:18.234Z,"64 km ESE of Cantwell, Alaska",earthquake,,8.8,,,automatic,ak,ak
 2023-08-12T11:03:44.677Z,31.7355,-103.9417,5,2.6,ml,21,114,0.093,0.56,us,us6000kzjj,2023-08-12T11:27:29.040Z,"32 km W of Mentone, Texas",earthquake,0.83,1.793,0.055,62,reviewed,us,us
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T03:50:38.140Z,37.3141,-114.8595,16,1.3,ml,14,292.53,0.178,0.3733,nn,nn00864360,2023-08-12T03:53:05.469Z,"27 km ESE of Alamo, Nevada",earthquake,,0.8,0.45,11,automatic,nn,nn
 2023-08-12T03:45:36.030Z,33.4851667,-116.5495,7.57,0.66,ml,20,98,0.04506,0.16,ci,ci40534976,2023-08-12T03:49:05.758Z,"14 km SE of Anza, CA",earthquake,0.3,0.5,0.164,20,automatic,ci,ci
 2023-08-12T03:36:03.870Z,34.7853333,-118.8533333,12.09,0.77,ml,11,86,0.06637,0.19,ci,ci40534968,2023-08-12T03:39:41.270Z,"1 km S of Gorman, CA",earthquake,0.46,1.04,0.013,4,automatic,ci,ci
-2023-08-12T03:35:31.800Z,36.3438339233398,-89.5318298339844,7.6399998664856,2.27999997,md,7,94,0.08926,0.100000001,nm,nm60544331,2023-08-12T04:47:27.040Z,"6 km SW of Tiptonville, Tennessee",earthquake,0.5,2.16000009,0.370000005,6,reviewed,nm,nm
+2023-08-12T03:35:31.720Z,36.3395,-89.5318333333333,9.47,1.96,md,30,45,0.03187,0.07,nm,nm60544331,2023-08-12T13:16:33.219Z,"6 km SW of Tiptonville, Tennessee",earthquake,0.16,0.31,0.155058225001699,25,reviewed,nm,nm
 2023-08-12T03:27:19.170Z,38.8421669,-122.8115005,6.57,0.68,md,7,139,0.01553,0.04,nc,nc73923241,2023-08-12T04:59:15.315Z,"8 km WNW of Cobb, CA",earthquake,0.7,1.44,0.1,9,automatic,nc,nc
 2023-08-12T03:13:05.525Z,58.2564,-155.1205,0.6,1.1,ml,,,,0.57,ak,ak023aai8u61,2023-08-12T03:16:01.913Z,"86 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-12T03:02:50.820Z,38.8123322,-122.7973328,2.54,0.63,md,7,148,0.004637,0.03,nc,nc73923236,2023-08-12T03:23:19.718Z,"5 km NW of The Geysers, CA",earthquake,0.75,1.51,0.15,9,automatic,nc,nc
@@ -191,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T13:38:07.850Z,58.2247,-155.0774,1.1,0.3,ml,,,,0.2,ak,ak023a90t6sx,2023-08-12T02:44:02.030Z,"Alaska Peninsula",earthquake,,2.6,,,automatic,ak,ak
 2023-08-11T13:34:11.110Z,19.2511672973633,-155.393493652344,31.6900005340576,1.99000001,md,36,152,,0.100000001,hv,hv73519672,2023-08-11T13:37:20.830Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.699999988,0.99000001,3,automatic,hv,hv
 2023-08-11T13:30:42.850Z,19.4063339233398,-155.283340454102,1.13999998569489,2.01999998,md,18,43,,0.109999999,hv,hv73519667,2023-08-11T13:33:43.740Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.230000004,0.819999993,12,automatic,hv,hv
-2023-08-11T13:22:04.640Z,38.8204994,-122.8249969,1.96,0.57,md,6,93,0.008261,0,nc,nc73922966,2023-08-11T13:54:12.221Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.14,0.16,8,automatic,nc,nc
-2023-08-11T13:20:28.491Z,61.3002,-152.5027,6.1,1.6,ml,,,,0.34,ak,ak023a90pdi9,2023-08-12T02:37:23.200Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-11T13:20:08.517Z,38.6798,142.5387,58.495,4.9,mb,34,133,2.394,0.71,us,us6000kz8m,2023-08-11T18:53:39.040Z,"83 km ESE of Ōfunato, Japan",earthquake,6.88,5.981,0.132,21,reviewed,us,us
