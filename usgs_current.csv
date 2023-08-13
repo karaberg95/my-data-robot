@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-13T03:39:12.710Z,34.1468333,-117.4265,6.5,1.22,ml,42,41,0.04566,0.23,ci,ci40535696,2023-08-13T03:42:46.244Z,"6 km NNE of Fontana, CA",earthquake,0.31,0.9,0.172,29,automatic,ci,ci
 2023-08-13T03:18:57.680Z,38.8260002,-122.7945023,1.01,1.08,md,15,54,0.01668,0.03,nc,nc73923541,2023-08-13T03:20:34.194Z,"6 km W of Cobb, CA",earthquake,0.23,0.52,0.15,16,automatic,nc,nc
 2023-08-13T03:17:19.520Z,34.1315,-117.4173333,2.67,0.96,ml,26,66,0.06152,0.26,ci,ci40535680,2023-08-13T03:32:32.566Z,"5 km WNW of Rialto, CA",earthquake,0.43,0.62,0.218,23,automatic,ci,ci
 2023-08-13T03:11:19.825Z,58.2516,-154.7689,36.5,1,ml,,,,0.55,ak,ak023ac5rsby,2023-08-13T03:13:17.705Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-08-13T03:10:33.460Z,32.6758333,-115.6621667,8.19,1.48,ml,17,60,0.06027,0.2,ci,ci40535672,2023-08-13T03:14:23.209Z,"13 km NW of Progreso, B.C., MX",earthquake,0.42,0.84,0.269,18,automatic,ci,ci
-2023-08-13T03:10:16.830Z,38.8310013,-122.8161697,1.74,0.66,md,8,95,0.008964,0.01,nc,nc73923536,2023-08-13T03:11:52.873Z,"8 km NW of The Geysers, CA",earthquake,0.44,0.7,0.18,8,automatic,nc,nc
+2023-08-13T03:10:16.830Z,38.8310013,-122.8161697,1.74,0.66,md,8,95,0.008964,0.01,nc,nc73923536,2023-08-13T03:39:16.994Z,"8 km NW of The Geysers, CA",earthquake,0.44,0.7,0.18,8,automatic,nc,nc
 2023-08-13T02:39:14.610Z,60.6149,-151.7952,72.7,1.5,ml,,,,0.24,ak,ak023ac5ccdh,2023-08-13T02:41:05.989Z,"26 km W of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-08-13T02:24:10.480Z,38.8175011,-122.8183365,2.77,0.78,md,14,80,0.008735,0.03,nc,nc73923516,2023-08-13T02:57:15.757Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.84,0.17,17,automatic,nc,nc
 2023-08-13T02:08:13.783Z,38.2029,-117.7352,10,2.5,ml,27,62,0.128,0.66,us,us6000kzmq,2023-08-13T02:51:58.040Z,"Nevada",earthquake,3.41,2.008,0.045,66,reviewed,us,us
@@ -163,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T03:52:38.945Z,61.5664,-146.3566,32.2,1.2,ml,,,,0.42,ak,ak023aaih9o6,2023-08-12T03:54:05.096Z,"48 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T03:50:38.140Z,37.3141,-114.8595,16,1.3,ml,14,292.53,0.178,0.3733,nn,nn00864360,2023-08-12T03:53:05.469Z,"27 km ESE of Alamo, Nevada",earthquake,,0.8,0.45,11,automatic,nn,nn
 2023-08-12T03:45:36.030Z,33.4851667,-116.5495,7.57,0.66,ml,20,98,0.04506,0.16,ci,ci40534976,2023-08-12T03:49:05.758Z,"14 km SE of Anza, CA",earthquake,0.3,0.5,0.164,20,automatic,ci,ci
-2023-08-12T03:36:03.870Z,34.7853333,-118.8533333,12.09,0.77,ml,11,86,0.06637,0.19,ci,ci40534968,2023-08-12T03:39:41.270Z,"1 km S of Gorman, CA",earthquake,0.46,1.04,0.013,4,automatic,ci,ci
