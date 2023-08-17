@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-17T13:31:13.470Z,38.7801666,-122.7624969,3.45,1.82,md,35,55,0.009768,0.06,nc,nc73925096,2023-08-17T13:34:28.145Z,"1 km WNW of The Geysers, CA",earthquake,0.24,0.4,0.18,35,automatic,nc,nc
 2023-08-17T13:02:03.112Z,63.0425,-150.571,92.9,1.3,ml,,,,0.48,ak,ak023aixtjmf,2023-08-17T13:04:03.530Z,"61 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T12:58:44.190Z,33.9488333,-116.9983333,16.97,0.77,ml,12,174,0.1534,0.12,ci,ci40538800,2023-08-17T13:02:10.563Z,"3 km NW of Beaumont, CA",earthquake,0.5,0.88,0.189,15,automatic,ci,ci
 2023-08-17T12:56:06.880Z,34.0045,-117.1755,13.98,1.13,ml,41,35,0.06083,0.2,ci,ci40538792,2023-08-17T12:59:36.732Z,"6 km S of Redlands, CA",earthquake,0.26,0.56,0.176,26,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T10:54:55.459Z,38.1621,-117.8201,9.2,1.7,ml,17,133.06,0.122,0.2561,nn,nn00864586,2023-08-17T10:57:24.310Z,"35 km SE of Mina, Nevada",earthquake,,0.4,0.85,9,automatic,nn,nn
 2023-08-17T10:47:12.409Z,-17.59,-178.5738,552.732,4.3,mb,48,31,3.22,0.58,us,us7000knzp,2023-08-17T11:21:16.040Z,"229 km ENE of Levuka, Fiji",earthquake,10.53,5.721,0.065,67,reviewed,us,us
 2023-08-17T10:43:34.900Z,38.8346672,-122.8011703,1.59,0.49,md,13,58,0.009244,0.01,nc,nc73925066,2023-08-17T11:50:13.941Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.63,0.29,15,automatic,nc,nc
-2023-08-17T10:43:26.644Z,34.92081833,-96.06190491,3.251857996,1.75,ml,14,158.1468735,0.3607046008,0.7469871754,ok,ok2023qbjy,2023-08-17T10:46:42.576Z,"4 km ENE of Stuart, Oklahoma",earthquake,4.018720987,2.691616591,0.27,8,automatic,ok,ok
+2023-08-17T10:43:26.550Z,34.931,-96.05483333,5.31,1.61,ml,78,131,0.3509311353,0.41,ok,ok2023qbjy,2023-08-17T13:26:50.685Z,"5 km NE of Stuart, Oklahoma",earthquake,,1.4,0.26,21,reviewed,ok,ok
 2023-08-17T10:40:18.973Z,37.1137,-117.7806,4,1.4,ml,18,219.65,0.297,0.386,nn,nn00864582,2023-08-17T10:42:52.537Z,"45 km E of Big Pine, California",earthquake,,4.5,0.88,12,automatic,nn,nn
 2023-08-17T10:38:02.750Z,46.23416666666667,-122.12333333333333,7.98,0.17,ml,10,184,0.01399,0.08,uw,uw61941832,2023-08-17T12:26:30.620Z,"37 km SSE of Morton, Washington",earthquake,0.57,1,0.08523718164610819,9,reviewed,uw,uw
 2023-08-17T10:34:00.800Z,33.9903333,-116.5723333,8.84,0.89,ml,28,73,0.05443,0.22,ci,ci40538712,2023-08-17T10:37:25.464Z,"6 km S of Morongo Valley, CA",earthquake,0.31,0.79,0.157,26,automatic,ci,ci
