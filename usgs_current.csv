@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T14:00:12.186Z,52.0343,179.5742,148,2.4,ml,,,,0.82,ak,ak023aiyelgl,2023-08-17T14:21:35.802Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-08-17T13:42:38.730Z,33.5948333,-117.2176667,15.72,0.75,ml,13,142,0.01926,0.22,ci,ci40538816,2023-08-17T13:46:12.378Z,"5 km N of Murrieta, CA",earthquake,0.51,0.93,0.13,8,automatic,ci,ci
 2023-08-17T13:31:13.470Z,38.7801666,-122.7624969,3.45,1.82,md,35,55,0.009768,0.06,nc,nc73925096,2023-08-17T14:05:19.793Z,"1 km WNW of The Geysers, CA",earthquake,0.24,0.4,0.18,35,automatic,nc,nc
+2023-08-17T13:28:36.571Z,7.3366,-75.5938,54.138,4.6,mb,49,105,1.14,0.82,us,us7000kp07,2023-08-17T14:55:45.040Z,"northern Colombia",earthquake,6.32,8.121,0.049,126,reviewed,us,us
 2023-08-17T13:16:05.696Z,4.3774,96.337,10,4.7,mb,26,153,1.042,0.74,us,us7000kp06,2023-08-17T14:31:58.040Z,"34 km NE of Meulaboh, Indonesia",earthquake,6.52,1.911,0.147,14,reviewed,us,us
 2023-08-17T13:02:03.112Z,63.0425,-150.571,92.9,1.3,ml,,,,0.48,ak,ak023aixtjmf,2023-08-17T13:04:03.530Z,"61 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T12:58:44.190Z,33.9488333,-116.9983333,16.97,0.77,ml,12,174,0.1534,0.12,ci,ci40538800,2023-08-17T13:02:10.563Z,"3 km NW of Beaumont, CA",earthquake,0.5,0.88,0.189,15,automatic,ci,ci
