@@ -177,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T07:20:42.720Z,38.8431664,-122.8306656,1.93,0.7,md,10,89,0.005922,0.03,nc,nc73924656,2023-08-16T07:40:11.966Z,"10 km WNW of Cobb, CA",earthquake,0.33,0.55,0.41,13,automatic,nc,nc
 2023-08-16T07:19:12.445Z,39.6741,-120.3464,0.8,0,ml,3,221.41,0.118,0.1772,nn,nn00864558,2023-08-16T21:07:58.425Z,"Northern California",earthquake,,159,0.22,2,reviewed,nn,nn
 2023-08-16T07:17:19.975Z,61.2997,-152.5213,5.8,1.8,ml,,,,0.15,ak,ak023ah6sujh,2023-08-16T07:18:34.397Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-16T07:08:40.093Z,64.493,-148.5567,15.9,0.4,ml,,,,0.41,ak,ak023ah6qyni,2023-08-16T07:11:09.709Z,"27 km ESE of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-16T07:05:02.660Z,19.4038333892822,-155.285003662109,0.610000014305115,1.84000003,md,18,46,,0.119999997,hv,hv73528997,2023-08-16T07:07:56.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.189999998,1.38,14,automatic,hv,hv
-2023-08-16T07:04:39.779Z,60.5513,-153.1136,141.4,1.4,ml,,,,0.66,ak,ak023ah6q3rd,2023-08-16T07:07:24.115Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
