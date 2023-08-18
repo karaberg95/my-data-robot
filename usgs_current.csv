@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T11:41:16.210Z,38.840168,-122.8115005,2.21,0.6,md,9,69,0.01662,0.01,nc,nc73925081,2023-08-17T12:17:19.115Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.4,0.23,9,automatic,nc,nc
 2023-08-17T11:38:58.149Z,36.80816667,-97.4605,5,1.74,ml,86,86,0.2024602704,0.28,ok,ok2023qblt,2023-08-17T13:17:45.509Z,"1 km WNW of Nardin, Oklahoma",earthquake,,0.8,0.24,36,reviewed,ok,ok
 2023-08-17T11:38:40.700Z,52.1396666666667,-176.208666666667,3.16,0.54,ml,5,310,,0.26,av,av92006021,2023-08-18T03:01:14.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.33,0.8,0.449210992445191,5,reviewed,av,av
-2023-08-17T11:32:16.300Z,52.775,-169.968,12.78,0.41,ml,4,299,,0.1,av,av92006011,2023-08-17T18:19:38.430Z,"76 km WSW of Nikolski, Alaska",earthquake,2.42,1.33,0.252670755173253,4,reviewed,av,av
