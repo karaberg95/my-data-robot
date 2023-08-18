@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T07:22:10.830Z,38.8071671,-122.8180008,2.77,1.04,md,22,58,0.008896,0.02,nc,nc73925551,2023-08-18T07:23:44.053Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.52,0.28,22,automatic,nc,nc
 2023-08-18T06:41:43.780Z,38.8170013,-122.7965012,3.03,0.81,md,7,115,0.009069,0.01,nc,nc73925536,2023-08-18T07:05:13.548Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.99,0.07,9,automatic,nc,nc
 2023-08-18T06:35:02.580Z,34.0633333,-117.1365,10.81,1.26,ml,47,42,0.03424,0.18,ci,ci39643594,2023-08-18T06:45:34.420Z,"1 km SSW of Mentone, CA",earthquake,0.21,0.34,0.243,28,automatic,ci,ci
 2023-08-18T06:26:44.970Z,32.4173333,-115.1538333,1.67,2.29,ml,16,73,0.04877,0.3,ci,ci39643586,2023-08-18T06:30:19.214Z,"8 km NNE of Delta, B.C., MX",earthquake,0.65,1.18,0.048,8,automatic,ci,ci
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T01:48:10.060Z,17.9996666666667,-66.764,12.74,2.53,md,12,179,0.03309,0.1,pr,pr71421713,2023-08-18T02:04:36.580Z,"2 km SSE of Magas Arriba, Puerto Rico",earthquake,0.42,0.45,0.278064558859509,6,reviewed,pr,pr
 2023-08-18T01:32:30.368Z,62.0846,-149.4549,34,2,ml,,,,0.51,ak,ak023akee54x,2023-08-18T01:34:35.965Z,"22 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T01:27:56.539Z,65.1528,-149.462,9.6,0.9,ml,,,,0.72,ak,ak023aked5vp,2023-08-18T01:30:04.708Z,"5 km W of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-18T01:15:26.839Z,4.3337,-73.4946,10.351,5,mb,73,71,0.968,0.86,us,us7000kp5l,2023-08-18T06:04:16.969Z,"7 km N of Cumaral, Colombia",earthquake,3.99,4.088,0.034,279,reviewed,us,us
+2023-08-18T01:15:26.839Z,4.3337,-73.4946,10.351,5,mb,73,71,0.968,0.86,us,us7000kp5l,2023-08-18T07:24:32.754Z,"7 km N of Cumaral, Colombia",earthquake,3.99,4.088,0.034,279,reviewed,us,us
 2023-08-18T01:11:56.320Z,38.8375015,-122.7949982,1.85,0.6,md,7,122,0.003746,0.01,nc,nc73925406,2023-08-18T01:33:14.698Z,"6 km WNW of Cobb, CA",earthquake,0.67,1.25,0.29,7,automatic,nc,nc
 2023-08-18T01:10:22.815Z,64.8055,-147.34,22.7,0.9,ml,,,,0.1,ak,ak023ake9g3t,2023-08-18T01:12:51.217Z,"6 km N of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-18T01:00:32.430Z,38.7931667,-122.7618333,2.76,0.12,md,12,90,0.02038,0.02,nc,nc73925401,2023-08-18T05:15:14.907Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.5,0.307,12,reviewed,nc,nc
@@ -85,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-18T04:55:20.461Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
@@ -240,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T07:33:00.040Z,52.7553333333333,-169.9445,8.45,1.08,ml,5,267,,0.27,av,av91113528,2023-08-17T19:05:09.670Z,"75 km WSW of Nikolski, Alaska",earthquake,3.31,3.2,0.2675032626737,5,reviewed,av,av
 2023-08-17T07:31:06.200Z,52.0748333333333,-176.170333333333,2.65,0.47,ml,6,170,,0.33,av,av92005831,2023-08-18T02:27:25.020Z,"38 km NE of Adak, Alaska",earthquake,1.16,1.7,0.462228661959361,6,reviewed,av,av
 2023-08-17T07:29:59.590Z,52.7826666666667,-169.9805,15.13,0.84,ml,4,305,,0.08,av,av91113523,2023-08-17T18:55:31.390Z,"77 km WSW of Nikolski, Alaska",earthquake,2.49,1.1,0.222278426391655,4,reviewed,av,av
-2023-08-17T07:25:11.020Z,52.7531666666667,-169.942666666667,8.18,1.42,ml,5,268,,0.25,av,av92005821,2023-08-17T17:33:54.730Z,"75 km WSW of Nikolski, Alaska",earthquake,2.95,3.05,0.310907098547084,6,reviewed,av,av
-2023-08-17T07:23:15.900Z,58.1915,-155.272,1.98,0.53,ml,6,139,,0.07,av,av92005816,2023-08-18T02:21:16.930Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.46,0.296862419609124,6,reviewed,av,av
-2023-08-17T07:20:32.960Z,52.7555,-169.91,-1.03,0.68,ml,5,261,,0.12,av,av91113518,2023-08-17T18:41:58.600Z,"73 km WSW of Nikolski, Alaska",earthquake,1.36,0.54,0.33432800768376,5,reviewed,av,av
