@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T06:42:55.326Z,62.1742,-148.49,38.9,1.1,ml,,,,0.67,ak,ak023am4yw1o,2023-08-19T06:45:59.978Z,"42 km N of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-19T06:32:40.249Z,58.1938,-155.5445,16,0.4,ml,,,,0.6,ak,ak023am4wpq0,2023-08-19T06:34:20.115Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T06:19:59.459Z,35.48096085,-98.07014465,15.35982895,2.01,ml,11,100.3518677,0.06570744514,0.8617922298,ok,ok2023qesg,2023-08-19T06:39:47.725Z,"11 km WSW of El Reno, Oklahoma",earthquake,,4.1427273,0.28,7,automatic,ok,ok
 2023-08-19T05:38:24.497Z,37.5488,72.3189,191.6,4.2,mb,34,90,1.968,0.69,us,us7000kpf7,2023-08-19T05:57:49.040Z,"66 km N of Khandūd, Afghanistan",earthquake,7.22,8.637,0.152,12,reviewed,us,us
