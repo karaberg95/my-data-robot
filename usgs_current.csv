@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.07,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:47:20.171Z,"Oklahoma",earthquake,3.969960187,,0.33,4,automatic,ok,ok
+2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.03,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:48:29.741Z,"5 km WSW of El Reno, Oklahoma",earthquake,3.969960187,,0.28,13,automatic,ok,ok
 2023-08-19T02:34:35.839Z,64.9522,-148.3258,13.2,0.6,ml,,,,0.39,ak,ak023am2jee7,2023-08-19T02:36:51.784Z,"18 km NW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T02:26:04.254Z,61.8516,-149.8519,32.3,2,ml,,,,0.47,ak,ak023am2hm89,2023-08-19T02:27:47.006Z,"15 km NE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T02:36:51.007Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:45:48.547Z,38.5509,-118.4409,2.3,2.1,ml,15,100.25,0.304,0.1641,nn,nn00864627,2023-08-18T20:01:22.345Z,"16 km E of Hawthorne, Nevada",earthquake,,2,0.29,8,reviewed,nn,nn
 2023-08-18T18:41:15.120Z,54.7496666666667,-164.108166666667,1.64,1.75,ml,7,105,,0.3,av,av92007871,2023-08-18T19:13:40.610Z,"46 km WSW of False Pass, Alaska",earthquake,0.99,0.45,0.178034906132903,7,reviewed,av,av
 2023-08-18T18:39:35.930Z,33.4941667,-116.5838333,9.42,0.35,ml,16,114,0.01536,0.12,ci,ci39644082,2023-08-18T22:47:06.531Z,"11 km SE of Anza, CA",earthquake,0.37,0.49,0.161,8,reviewed,ci,ci
+2023-08-18T18:36:22.510Z,58.1756666666667,-155.308,2.56,0.02,ml,10,106,,0.11,av,av92007861,2023-08-19T02:54:16.720Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.44,0.367280837711728,10,reviewed,av,av
 2023-08-18T18:35:17.701Z,12.8401,124.3111,115.242,5,mb,26,132,5.868,0.96,us,us7000kpba,2023-08-18T19:15:21.275Z,"18 km NNW of Biri, Philippines",earthquake,15.3,10.472,0.133,18,reviewed,us,us
 2023-08-18T18:34:43.580Z,38.7874985,-122.7473297,0.1,1.66,md,8,100,0.0427,0.02,nc,nc73925726,2023-08-18T22:10:11.625Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.86,0.22,9,automatic,nc,nc
 2023-08-18T18:33:04.850Z,42.3131,143.0566,61.336,4.9,mww,240,65,0.307,0.64,us,us7000kpb9,2023-08-18T19:43:45.040Z,"20 km W of Hiroo, Japan",earthquake,6.89,4.429,0.098,10,reviewed,us,us
@@ -64,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:29:17.060Z,54.7485,-164.111,1.21,2.07,ml,8,106,,0.27,av,av92007851,2023-08-18T18:55:48.750Z,"46 km WSW of False Pass, Alaska",earthquake,0.79,0.47,0.287829617560938,13,reviewed,av,av
 2023-08-18T18:27:48.970Z,60.3819,-141.149,16.8,1.4,ml,,,,0.46,ak,ak023akohild,2023-08-18T18:30:13.355Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T18:26:09.173Z,56.0182,-160.4702,164.3,3,ml,,,,0.62,ak,ak023akoh7ul,2023-08-18T18:39:31.830Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-08-18T18:24:20.400Z,60.5563333333333,-152.818,7.2,-0.48,ml,7,92,,0.05,av,av92007836,2023-08-19T02:47:22.200Z,"Southern Alaska",earthquake,0.33,0.64,0.486185078732433,7,reviewed,av,av
 2023-08-18T18:23:57.700Z,62.3644,-149.0897,12.5,1,ml,,,,0.21,ak,ak023akogoe2,2023-08-18T18:25:30.498Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T18:22:02.700Z,35.48616667,-98.04383333,4.31,1.7,ml,85,60,0.06298763968,0.32,ok,ok2023qduo,2023-08-18T18:51:43.777Z,"9 km WSW of El Reno, Oklahoma",earthquake,,0.8,0.23,42,reviewed,ok,ok
 2023-08-18T18:20:51.817Z,55.5219,-158.4388,20.2,1.8,ml,,,,0.27,ak,ak023akog1ds,2023-08-18T19:28:58.622Z,"62 km SE of Perryville, Alaska",earthquake,,1.2,,,reviewed,ak,ak
