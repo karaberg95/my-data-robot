@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T11:16:58.350Z,19.1310005187988,-155.494003295898,30.5200004577637,1.80999994,md,36,165,,0.150000006,hv,hv73533522,2023-08-19T11:20:20.180Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.71,0.980000019,0.180000007,5,automatic,hv,hv
 2023-08-19T10:43:42.140Z,33.4783333,-116.8876667,11.66,0.74,ml,26,58,0.07077,0.19,ci,ci39644538,2023-08-19T10:47:13.748Z,"4 km NNW of Aguanga, CA",earthquake,0.32,0.92,0.122,19,automatic,ci,ci
 2023-08-19T10:23:07.220Z,33.5773333,-116.8176667,7.07,0.47,ml,11,122,0.05824,0.12,ci,ci39644530,2023-08-19T10:26:34.766Z,"14 km W of Anza, CA",earthquake,0.45,0.59,0.182,10,automatic,ci,ci
 2023-08-19T10:22:42.110Z,33.4881667,-116.7571667,5.7,0.78,ml,31,75,0.04538,0.17,ci,ci39644522,2023-08-19T10:26:17.109Z,"11 km SW of Anza, CA",earthquake,0.21,0.57,0.165,22,automatic,ci,ci
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T11:52:42.656Z,61.3048,-150.4877,42,1.2,ml,,,,0.63,ak,ak023akkgtrd,2023-08-18T11:54:40.029Z,"26 km S of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-18T11:47:54.570Z,33.685,-116.9668333,15.65,2.56,ml,117,13,0.03592,0.2,ci,ci39643762,2023-08-19T06:06:45.733Z,"7 km S of Hemet, CA",earthquake,0.12,0.27,0.172,152,reviewed,ci,ci
 2023-08-18T11:24:24.600Z,52.8178333333333,-169.943666666667,13.32,0.39,ml,5,174,,0.17,av,av91113738,2023-08-19T01:08:54.760Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.56,1,0.266047116611538,5,reviewed,av,av
-2023-08-18T11:22:39.269Z,51.8727,178.0084,137.728,4.2,mb,37,159,0.359,0.4,us,us7000kp7b,2023-08-18T15:55:39.598Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.09,6.296,0.065,66,reviewed,us,us
-2023-08-18T11:19:54.113Z,31.61848698,-104.0880086,5.823071289,1.9,ml,16,62,0.02434825716,0.1,tx,tx2023qdgq,2023-08-18T13:21:46.695Z,"43 km NW of Toyah, Texas",earthquake,0.599534136,0.4818309469,0.1,18,reviewed,tx,tx
