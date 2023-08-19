@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T23:31:18.070Z,39.8178329,-123.7823334,-0.7,2.57,md,25,151,0.07492,0.15,nc,nc73926026,2023-08-19T23:38:13.388Z,"9 km NNE of Rockport, CA",earthquake,0.44,2,0.13,20,automatic,nc,nc
 2023-08-19T23:26:02.219Z,59.9753,-152.6394,86.7,1.1,ml,,,,0.44,ak,ak023amezprx,2023-08-19T23:28:01.521Z,"50 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-19T23:19:04.080Z,34.1553333,-117.6521667,6.84,1.5,ml,11,97,0.2272,0.28,ci,ci39644954,2023-08-19T23:31:12.275Z,"6 km N of Upland, CA",earthquake,0.73,31.61,0.436,13,automatic,ci,ci
-2023-08-19T23:10:59.764Z,14.8968,144.3714,10,5.4,mww,77,47,1.386,0.69,us,us7000kpiw,2023-08-19T23:40:45.613Z,"134 km W of San Jose Village, Northern Mariana Islands",earthquake,5,1.843,0.061,26,reviewed,us,us
+2023-08-19T23:10:59.764Z,14.8968,144.3714,10,5.4,mww,77,47,1.386,0.69,us,us7000kpiw,2023-08-19T23:48:26.360Z,"134 km W of San Jose Village, Northern Mariana Islands",earthquake,5,1.843,0.061,26,reviewed,us,us
 2023-08-19T22:59:30.616Z,1.798,128.8364,10,4.5,mb,28,114,1.788,0.41,us,us7000kpir,2023-08-19T23:30:51.040Z,"92 km E of Tobelo, Indonesia",earthquake,6.64,1.924,0.127,18,reviewed,us,us
 2023-08-19T22:58:07.910Z,19.4146671295166,-154.918502807617,2.84999990463257,1.87,md,26,190,,0.200000003,hv,hv73534017,2023-08-19T23:01:28.980Z,"Hawaii region, Hawaii",earthquake,0.63,0.439999998,0.209999993,5,automatic,hv,hv
 2023-08-19T22:55:17.853Z,62.4223,-149.0292,35.2,1.5,ml,,,,0.65,ak,ak023amekj55,2023-08-19T22:56:58.266Z,"Central Alaska",earthquake,,4.9,,,automatic,ak,ak
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T20:18:57.476Z,57.9551,-155.2973,82.9,1.3,ml,,,,0.51,ak,ak023amd5thv,2023-08-19T20:21:17.630Z,"66 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-19T20:06:58.037Z,35.46537018,-98.08110809,13.93910027,1.96,ml,10,111.8497772,0.05889113992,0.7144686023,ok,ok2023qftn,2023-08-19T20:10:08.583Z,"13 km WSW of El Reno, Oklahoma",earthquake,,6.233247201,0.31,5,automatic,ok,ok
 2023-08-19T19:37:53.920Z,34.132,-117.4145,3.64,1.38,ml,42,65,0.06139,0.16,ci,ci39644914,2023-08-19T19:41:33.465Z,"5 km NW of Rialto, CA",earthquake,0.2,0.63,0.128,27,automatic,ci,ci
-2023-08-19T18:51:32.999Z,36.7008,-116.2826,7.2,0.7,ml,22,81.32,0.042,0.2275,nn,nn00864672,2023-08-19T18:53:36.587Z,"48 km ESE of Beatty, Nevada",earthquake,,0.5,0.95,17,automatic,nn,nn
+2023-08-19T18:51:33.471Z,36.7001,-116.2838,7.1,0.7,ml,27,81.29,0.04,0.1283,nn,nn00864672,2023-08-19T23:47:46.410Z,"48 km ESE of Beatty, Nevada",earthquake,,0.7,0.86,12,reviewed,nn,nn
 2023-08-19T18:48:43.632Z,61.0349,-148.2742,13.9,2.7,ml,,,,0.5,ak,ak023amc5crs,2023-08-19T18:50:34.458Z,"36 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T18:45:55.569Z,61.6361,-152.0916,3.2,1.2,ml,,,,0.38,ak,ak023amc4qh0,2023-08-19T18:47:40.466Z,"53 km SW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T18:43:40.230Z,34.4178333,-119.1898333,1.91,2.3,ml,49,62,0.04726,0.28,ci,ci39644898,2023-08-19T18:47:16.915Z,"6 km SE of Ojai, CA",earthquake,0.33,0.61,0.167,26,automatic,ci,ci
@@ -162,6 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T23:53:54.490Z,58.1858333333333,-155.301166666667,1.04,-0.08,ml,5,153,,0.06,av,av91113758,2023-08-19T04:01:16.660Z,"Alaska Peninsula",earthquake,0.25,0.86,0.302008565179674,5,reviewed,av,av
 2023-08-18T23:53:36.470Z,58.1893333333333,-155.302333333333,2.6,0.46,ml,12,95,,0.1,av,av92008266,2023-08-19T03:59:10.790Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.35,0.25772594424946,13,reviewed,av,av
 2023-08-18T23:49:18.386Z,58.1854,-155.2778,1.1,0.3,ml,,,,0.24,ak,ak023akrlbzy,2023-08-19T03:56:08.890Z,"84 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-08-18T23:47:27.630Z,58.1866666666667,-155.300166666667,1.7,0.8,ml,7,151,,0.06,av,av91113753,2023-08-19T03:49:36.210Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.41,0.374918014256097,7,reviewed,av,av
-2023-08-18T23:47:09.246Z,58.2004,-155.296,0,1.6,ml,,,,0.34,ak,ak023akrkvv0,2023-08-19T03:46:45.760Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-18T23:44:45.911Z,61.6967,-149.8105,34.1,1.6,ml,,,,0.38,ak,ak023akrkbjj,2023-08-18T23:47:08.594Z,"7 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
