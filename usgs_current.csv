@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T15:27:38.896Z,63.4779,-151.1523,10,1.1,ml,,,,0.46,ak,ak023ama8jhd,2023-08-19T15:29:59.102Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-19T15:23:09.275Z,38.172,-117.8484,8.5,1.5,ml,9,134.51,0.111,0.1239,nn,nn00864665,2023-08-19T15:25:52.921Z,"Nevada",earthquake,,0.4,0.94,6,automatic,nn,nn
 2023-08-19T15:20:35.074Z,26.2891,92.8188,35,4.7,mb,41,115,6.89,0.69,us,us7000kpgy,2023-08-19T21:22:00.736Z,"30 km ENE of Rahā, India",earthquake,11.15,1.924,0.062,80,reviewed,us,us
-2023-08-19T15:16:14.236Z,63.2945,-152.2101,0,2.1,ml,,,,0.81,ak,ak023ama64pb,2023-08-19T15:18:20.262Z,"36 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
