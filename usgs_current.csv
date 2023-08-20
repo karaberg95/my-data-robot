@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T23:19:04.080Z,34.1553333,-117.6521667,6.84,1.5,ml,11,97,0.2272,0.28,ci,ci39644954,2023-08-19T23:31:12.275Z,"6 km N of Upland, CA",earthquake,0.73,31.61,0.436,13,automatic,ci,ci
 2023-08-19T23:10:59.410Z,14.895,144.3776,10,5.4,mww,75,40,1.382,0.46,us,us7000kpiw,2023-08-20T01:21:03.858Z,"133 km W of San Jose Village, Northern Mariana Islands",earthquake,7.44,1.834,0.066,22,reviewed,us,us
 2023-08-19T23:06:55.883Z,30.2957,94.8814,10,4.6,mb,42,94,3.31,0.47,us,us7000kpiu,2023-08-20T00:21:03.040Z,"201 km NNE of Shi Yomi, India",earthquake,6.71,1.84,0.065,70,reviewed,us,us
-2023-08-19T23:06:46.890Z,16.818,-94.2753,127.635,4.6,mb,53,125,2.119,0.42,us,us7000kpis,2023-08-20T00:13:06.040Z,"37 km NNE of Santo Domingo Zanatepec, Mexico",earthquake,8.76,8.535,0.046,140,reviewed,us,us
+2023-08-19T23:06:46.890Z,16.818,-94.2753,127.635,4.6,mb,53,125,2.119,0.42,us,us7000kpis,2023-08-20T02:41:51.669Z,"37 km NNE of Santo Domingo Zanatepec, Mexico",earthquake,8.76,8.535,0.046,140,reviewed,us,us
 2023-08-19T22:59:30.616Z,1.798,128.8364,10,4.5,mb,28,114,1.788,0.41,us,us7000kpir,2023-08-19T23:30:51.040Z,"92 km E of Tobelo, Indonesia",earthquake,6.64,1.924,0.127,18,reviewed,us,us
 2023-08-19T22:58:07.910Z,19.4146671295166,-154.918502807617,2.84999990463257,1.87,md,26,190,,0.200000003,hv,hv73534017,2023-08-19T23:01:28.980Z,"Hawaii region, Hawaii",earthquake,0.63,0.439999998,0.209999993,5,automatic,hv,hv
 2023-08-19T22:55:17.853Z,62.4223,-149.0292,35.2,1.5,ml,,,,0.65,ak,ak023amekj55,2023-08-19T22:56:58.266Z,"Central Alaska",earthquake,,4.9,,,automatic,ak,ak
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T02:57:33.720Z,33.3036667,-116.1676667,2.81,2.07,ml,60,24,0.1322,0.23,ci,ci39644314,2023-08-19T03:08:05.590Z,"18 km N of Ocotillo Wells, CA",earthquake,0.23,0.71,0.169,25,automatic,ci,ci
 2023-08-19T02:57:25.608Z,61.3004,-152.5085,5.4,1.9,ml,,,,0.28,ak,ak023am2ob2o,2023-08-19T03:07:01.040Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T02:49:04.101Z,31.67990188,-104.3839139,5.10324707,3,ml,16,56,0.03579236913,0.2,tx,tx2023qelh,2023-08-19T03:16:25.040Z,"54 km S of Whites City, New Mexico",earthquake,0.7796391236,1.002780777,0.1,12,reviewed,tx,tx
-2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.03,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:48:29.741Z,"5 km WSW of El Reno, Oklahoma",earthquake,3.969960187,,0.28,13,automatic,ok,ok
