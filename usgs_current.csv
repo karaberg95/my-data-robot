@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T17:32:35.632Z,61.6513,-149.5971,40.3,1.4,ml,,,,0.17,ak,ak023apmj60b,2023-08-21T17:33:50.091Z,"2 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-21T17:26:07.590Z,34.4041667,-119.1945,1.99,2.18,ml,30,90,0.05734,0.25,ci,ci39646570,2023-08-21T17:37:12.370Z,"7 km SE of Ojai, CA",earthquake,0.39,0.67,0.148,26,automatic,ci,ci
 2023-08-21T17:22:05.110Z,33.6753333,-116.7776667,16.93,0.94,ml,31,70,0.06709,0.17,ci,ci39646562,2023-08-21T17:25:41.220Z,"9 km SW of Idyllwild, CA",earthquake,0.31,0.45,0.181,23,automatic,ci,ci
-2023-08-21T17:08:55.020Z,38.3546677,-122.3986664,3.73,1.94,md,4,182,0.4754,0.08,nc,nc73926796,2023-08-21T19:25:14.794Z,"6 km SSW of Yountville, CA",earthquake,9.29,10.03,,1,automatic,nc,nc
+2023-08-21T17:09:04.400Z,38.768,-122.713,1.71,0.44,md,13,78,0.01073,0.02,nc,nc73926796,2023-08-22T03:44:45.756Z,"2 km WSW of Anderson Springs, CA",earthquake,0.4,0.58,0.123,8,reviewed,nc,nc
 2023-08-21T16:52:01.231Z,60.3337,-151.3907,4.3,0.9,ml,,,,0.72,ak,ak023apm1y73,2023-08-21T17:53:48.818Z,"6 km SW of Cohoe, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-08-21T16:42:28.339Z,36.4495,-98.77916667,8,1.98,ml,87,66,0.01799646848,0.21,ok,ok2023qjdu,2023-08-21T16:51:51.217Z,"17 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.2,33,reviewed,ok,ok
 2023-08-21T16:37:58.048Z,59.2614,-153.6798,123.5,1.3,ml,,,,0.3,ak,ak023aplyupo,2023-08-21T16:39:42.362Z,"56 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -241,7 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T03:58:28.050Z,34.4368333,-119.1623333,1.01,1.37,ml,12,123,0.02053,0.21,ci,ci39646018,2023-08-21T04:01:56.556Z,"8 km E of Ojai, CA",earthquake,0.48,0.69,0.084,11,automatic,ci,ci
 2023-08-21T03:57:23.390Z,19.1853332519531,-155.487167358398,35.0999984741211,1.79,ml,42,71,,0.0900000036,hv,hv73535672,2023-08-21T04:03:02.520Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.46,0.660000026,3.93,5,automatic,hv,hv
 2023-08-21T03:53:01.844Z,63.3523,-145.1474,2,1.5,ml,,,,0.46,ak,ak023apebixs,2023-08-21T03:55:16.638Z,"37 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-21T03:50:24.436Z,63.0662,-151.5921,44.8,1.3,ml,,,,0.97,ak,ak023apeaxdy,2023-08-21T03:53:07.597Z,"53 km S of Denali National Park, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-08-21T03:50:08.932Z,60.7081,-146.286,22.4,1.5,ml,,,,0.54,ak,ak023apeawd9,2023-08-21T03:52:00.038Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-21T03:47:52.930Z,44.5351666666667,-115.229333333333,11.41,2.49,ml,14,93,0.6273,0.16,mb,mb90024913,2023-08-21T14:45:55.780Z,"42 km NNW of Stanley, Idaho",earthquake,0.44,0.92,0.220373072019169,28,reviewed,mb,mb
-2023-08-21T03:46:16.050Z,34.4241676,-119.1880035,2.45,1.99,ml,24,61,0.04364,0.31,ci,ci39646002,2023-08-21T03:55:35.097Z,"6 km ESE of Ojai, CA",earthquake,0.49,0.77,0.335,31,automatic,ci,ci
