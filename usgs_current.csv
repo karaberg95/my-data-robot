@@ -273,5 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T09:43:46.086Z,39.7679,-120.5935,8.4,0.4,ml,6,219.3,0.121,0.1508,nn,nn00864814,2023-08-22T21:57:48.230Z,"Northern California",earthquake,,2.8,0.09,2,reviewed,nn,nn
 2023-08-22T09:42:45.446Z,60.1497,-141.0176,16.3,1.3,ml,,,,0.58,ak,ak023ar5d7kw,2023-08-22T09:44:28.833Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-22T09:34:39.104Z,60.3688,-147.7298,14.3,1.2,ml,,,,0.6,ak,ak023ar5bgmo,2023-08-22T09:37:19.122Z,"37 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-22T09:27:50.730Z,47.70883333333333,-120.22316666666667,-0.5,0.05,ml,6,133,0.04472,0.09,uw,uw61943232,2023-08-23T05:18:03.640Z,"3 km NNW of Entiat, Washington",earthquake,0.48,11.17,0.2864725017382631,5,reviewed,uw,uw
-2023-08-22T09:25:52.800Z,35.6761667,-117.4963333,5.87,0.86,ml,12,143,0.06015,0.17,ci,ci39647162,2023-08-22T09:29:31.990Z,"13 km SW of Searles Valley, CA",earthquake,0.68,1.4,0.149,5,automatic,ci,ci
