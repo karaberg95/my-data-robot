@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T07:24:36.410Z,33.3251667,-116.33,9.18,1.14,ml,44,45,0.0925,0.21,ci,ci39649234,2023-08-24T07:28:13.710Z,"9 km NNE of Borrego Springs, CA",earthquake,0.25,0.84,0.221,26,automatic,ci,ci
 2023-08-24T07:08:24.850Z,34.9225,-119.4715,9.79,1.39,ml,17,64,0.05107,0.28,ci,ci39649226,2023-08-24T07:12:04.789Z,"16 km SSW of Maricopa, CA",earthquake,0.6,1.01,0.165,14,automatic,ci,ci
 2023-08-24T07:04:53.320Z,19.3854999542236,-155.279495239258,0.629999995231628,2.5,ml,31,65,,0.209999993,hv,hv73541472,2023-08-24T07:10:23.370Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.200000003,0.87,14,automatic,hv,hv
 2023-08-24T07:02:34.880Z,19.3888339996338,-155.276672363281,0.720000028610229,1.74,ml,16,61,,0.140000001,hv,hv73541467,2023-08-24T07:08:06.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.219999999,0.22,6,automatic,hv,hv
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T06:10:35.780Z,19.3846666666667,-155.280666666667,1.29,1.58,ml,17,74,,0.08,hv,hv73541342,2023-08-24T06:43:32.330Z,"8 km SW of Volcano, Hawaii",earthquake,0.16,0.17,0.21206386336774,6,reviewed,hv,hv
 2023-08-24T06:05:22.930Z,38.8370018,-122.8068314,2,0.78,md,15,67,0.01295,0.02,nc,nc73927866,2023-08-24T06:49:15.093Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.64,0.16,16,automatic,nc,nc
 2023-08-24T06:04:56.500Z,38.8353348,-122.8048325,2.07,1.35,md,25,61,0.01172,0.02,nc,nc73927856,2023-08-24T07:04:11.186Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.4,0.14,26,automatic,nc,nc
-2023-08-24T06:01:35.870Z,38.8195,-122.7963333,3.43,1.78,md,36,28,0.01142,0.04,nc,nc73927851,2023-08-24T06:38:11.032Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.34,0.19,35,automatic,nc,nc
+2023-08-24T06:01:35.870Z,38.8195,-122.7963333,3.43,1.78,md,36,28,0.01142,0.04,nc,nc73927851,2023-08-24T07:32:14.340Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.34,0.19,35,automatic,nc,nc
 2023-08-24T05:50:33.344Z,65.0213,-149.0737,12.1,1.1,ml,,,,0.35,ak,ak023aue3uxy,2023-08-24T05:52:20.795Z,"19 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T05:47:37.700Z,33.4726667,-116.9125,4.91,-0.02,ml,16,71,0.0922,0.33,ci,ci39649210,2023-08-24T05:51:15.546Z,"6 km NW of Aguanga, CA",earthquake,0.68,4.79,0.119,3,automatic,ci,ci
 2023-08-24T05:39:43.280Z,38.8195,-122.7975006,3.29,2.25,md,58,30,0.01056,0.04,nc,nc73927846,2023-08-24T07:05:18.193Z,"6 km NW of The Geysers, CA",earthquake,0.14,0.2,0.16,62,automatic,nc,nc
