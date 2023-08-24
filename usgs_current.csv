@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T10:37:52.220Z,38.8274994,-122.8201675,1.71,1.31,md,25,49,0.008886,0.02,nc,nc73927896,2023-08-24T10:41:02.923Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.36,0.23,25,automatic,nc,nc
 2023-08-24T10:31:24.715Z,58.2566,-155.966,128.8,2.1,ml,,,,0.96,ak,ak023augyxp3,2023-08-24T10:34:25.601Z,"62 km SE of King Salmon, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-08-24T10:30:28.097Z,55.811,-158.7613,40,2.7,ml,,,,0.85,ak,ak023augyq8p,2023-08-24T10:32:19.899Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-08-24T10:18:50.080Z,34.3646667,-119.1795,0.96,1.47,ml,13,174,0.08001,0.33,ci,ci39649298,2023-08-24T10:22:39.835Z,"11 km NNE of Ventura, CA",earthquake,0.9,1.17,0.186,22,automatic,ci,ci
 2023-08-24T10:11:18.823Z,58.0757,-154.653,40.2,1.7,ml,,,,1.28,ak,ak023augumx6,2023-08-24T10:13:10.462Z,"57 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-08-24T09:54:27.850Z,38.7794991,-122.6380005,6.59,1.3,md,7,119,0.04922,0.03,nc,nc73927891,2023-08-24T10:27:11.321Z,"4 km NNW of Middletown, CA",earthquake,0.53,1.5,0.1,9,automatic,nc,nc
+2023-08-24T09:48:19.090Z,18.9935,-68.4643,10,3.74,md,18,171,0.4867,0.87,pr,pr2023236000,2023-08-24T10:35:30.815Z,"43 km NNE of Otra Banda, Dominican Republic",earthquake,2.7,2.85,0.14,16,reviewed,pr,pr
 2023-08-24T09:35:39.560Z,32.9251667,-118.0193333,10.97,1.57,ml,6,264,0.5798,0.11,ci,ci39649290,2023-08-24T09:39:23.599Z,"33 km ENE of San Clemente Is. (SE tip), CA",earthquake,2.52,31.61,0.15,12,automatic,ci,ci
 2023-08-24T09:35:16.040Z,19.3894996643066,-155.281829833984,0.430000007152557,1.90999997,md,17,60,,0.230000004,hv,hv73541677,2023-08-24T09:38:30.030Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.270000011,1.46000004,10,automatic,hv,hv
 2023-08-24T09:17:59.800Z,38.8123322,-122.814003,2.24,0.79,md,9,117,0.01147,0.05,nc,nc73927881,2023-08-24T09:34:13.022Z,"6 km NW of The Geysers, CA",earthquake,0.52,0.66,0.12,10,automatic,nc,nc
@@ -331,6 +333,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T10:48:59.440Z,35.6705,-117.4885,2.3,1.05,ml,13,110,0.05303,0.15,ci,ci39648194,2023-08-23T10:52:24.854Z,"13 km SW of Searles Valley, CA",earthquake,0.38,0.69,0.135,8,automatic,ci,ci
 2023-08-23T10:47:59.810Z,19.3553333333333,-155.3075,1.65,0.8,md,16,85,,0.1,hv,hv73539327,2023-08-23T11:17:22.070Z,"12 km SW of Volcano, Hawaii",earthquake,0.26,0.36,0.176618281031137,3,reviewed,hv,hv
 2023-08-23T10:47:28.100Z,35.7190018,-121.1086655,6.44,0.85,md,5,160,0.05181,0.06,nc,nc73927371,2023-08-23T11:29:19.414Z,"11 km NE of San Simeon, CA",earthquake,0.97,1.51,0.11,2,automatic,nc,nc
-2023-08-23T10:40:39.130Z,19.3901666666667,-155.274833333333,1.57,2,ml,35,49,,0.13,hv,hv73539317,2023-08-23T22:25:31.320Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.14,0.194752800915297,14,reviewed,hv,hv
-2023-08-23T10:36:04.210Z,33.9786667,-116.9821667,13.83,0.81,ml,26,50,0.1209,0.16,ci,ci39648186,2023-08-23T10:39:35.779Z,"6 km N of Beaumont, CA",earthquake,0.26,0.78,0.219,20,automatic,ci,ci
-2023-08-23T10:35:51.869Z,39.2289,-119.5848,4.2,0.7,ml,11,165.62,0.14,0.1048,nn,nn00864888,2023-08-23T19:03:30.556Z,"1 km SE of Dayton, Nevada",earthquake,,3,0.34,6,reviewed,nn,nn
