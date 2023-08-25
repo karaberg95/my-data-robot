@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T09:24:59.950Z,33.7773333,-116.144,0.93,0.68,ml,16,105,0.06741,0.19,ci,ci39650394,2023-08-25T09:28:37.994Z,"9 km NE of Indio, CA",earthquake,0.42,0.9,0.113,8,automatic,ci,ci
+2023-08-25T09:24:17.150Z,33.77,-116.1395,3.48,0.73,ml,14,105,0.07335,0.2,ci,ci39650386,2023-08-25T09:27:50.625Z,"9 km NE of Indio, CA",earthquake,0.46,1.91,0.151,10,automatic,ci,ci
 2023-08-25T09:11:15.363Z,38.1549,-117.8184,10.1,2,ml,21,131.84,0.117,0.3487,nn,nn00864998,2023-08-25T09:13:49.965Z,"36 km SE of Mina, Nevada",earthquake,,0.4,0.56,14,automatic,nn,nn
 2023-08-25T08:59:02.690Z,63.1039,-151.4373,3.8,1.1,ml,,,,0.76,ak,ak023aw3hdcg,2023-08-25T09:01:42.957Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-25T08:48:51.170Z,34.0586662,-117.1166687,10.17,0.84,ml,15,112,0.05008,0.11,ci,ci39650378,2023-08-25T08:52:20.962Z,"2 km SE of Mentone, CA",earthquake,0.31,0.88,0.292,2,automatic,ci,ci
