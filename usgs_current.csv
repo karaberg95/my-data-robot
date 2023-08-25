@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T10:19:53.825Z,61.4691,-149.6414,31.3,1,ml,,,,0.58,ak,ak023aw4fruh,2023-08-25T10:22:38.950Z,"4 km ENE of Knik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-25T10:11:34.570Z,19.3411674499512,-155.316162109375,2.99000000953674,1.81,ml,27,73,,0.129999995,hv,hv73543642,2023-08-25T10:17:04.810Z,"14 km SW of Volcano, Hawaii",earthquake,0.26,0.75999999,0.19,7,automatic,hv,hv
 2023-08-25T10:08:48.505Z,37.2611,-115.1252,7.1,1.3,ml,17,321.03,0.702,0.2127,nn,nn00865000,2023-08-25T10:11:09.717Z,"12 km SSE of Alamo, Nevada",earthquake,,3.6,0.2,12,automatic,nn,nn
 2023-08-25T09:58:46.501Z,31.66361198,-104.3428616,7.982543944999999,3.1,ml,44,66,0.06694570549,0.3,tx,tx2023qpym,2023-08-25T10:18:05.596Z,"56 km S of Whites City, New Mexico",earthquake,0.9641644206999999,1.170037522,0.1,24,reviewed,tx,tx
