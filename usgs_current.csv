@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T14:15:58.630Z,38.7963333,-122.8268333,1.62,1.55,md,37,63,0.007069,0.04,nc,nc73928416,2023-08-25T18:51:15.780Z,"6 km WNW of The Geysers, CA",earthquake,0.17,0.26,0.268,29,reviewed,nc,nc
 2023-08-25T14:15:35.310Z,38.8131667,-122.8168333,3.56,1.43,md,25,52,0.01056,0.05,nc,nc73928411,2023-08-25T21:18:15.636Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.34,0.345,17,reviewed,nc,nc
 2023-08-25T14:14:45.620Z,38.8246667,-122.8105,3.04,3.96,mw,107,18,0.001313,0.07,nc,nc73928421,2023-08-25T22:39:55.911Z,"7 km NW of The Geysers, CA",earthquake,0.08,0.12,,5,reviewed,nc,nc
-2023-08-25T14:13:27.410Z,33.8203333,-118.2518333,7.98,2.65,ml,60,72,0.05336,0.3,ci,ci39650530,2023-08-25T22:39:28.513Z,"3 km ESE of Carson, CA",earthquake,0.35,1.04,0.095,23,automatic,ci,ci
+2023-08-25T14:13:27.410Z,33.8203333,-118.2518333,7.98,2.65,ml,60,72,0.05336,0.3,ci,ci39650530,2023-08-25T22:49:34.757Z,"3 km ESE of Carson, CA",earthquake,0.35,1.04,0.095,23,automatic,ci,ci
 2023-08-25T14:05:05.410Z,38.8208351,-122.7971649,2.99,0.74,md,11,88,0.01293,0.02,nc,nc73928396,2023-08-25T14:30:15.298Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.97,0.09,12,automatic,nc,nc
 2023-08-25T14:02:05.308Z,59.7525,-153.3712,116.2,2,ml,,,,0.69,ak,ak023aw6prci,2023-08-25T14:05:19.653Z,"41 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-25T13:58:58.087Z,40.0761,-119.6509,11.2,0.3,ml,3,184.2,0.113,0.023,nn,nn00865039,2023-08-25T21:03:40.145Z,"14 km NNW of Sutcliffe, Nevada",earthquake,,7.8,0.25,2,reviewed,nn,nn
@@ -184,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T09:26:27.480Z,33.769,-116.1428333,4.84,0.82,ml,17,104,0.07115,0.19,ci,ci39650402,2023-08-25T09:29:57.187Z,"9 km NE of Indio, CA",earthquake,0.33,0.81,0.133,13,automatic,ci,ci
 2023-08-25T09:24:59.950Z,33.7773333,-116.144,0.93,0.68,ml,16,105,0.06741,0.19,ci,ci39650394,2023-08-25T09:28:37.994Z,"9 km NE of Indio, CA",earthquake,0.42,0.9,0.113,8,automatic,ci,ci
 2023-08-25T09:24:17.150Z,33.77,-116.1395,3.48,0.73,ml,14,105,0.07335,0.2,ci,ci39650386,2023-08-25T09:27:50.625Z,"9 km NE of Indio, CA",earthquake,0.46,1.91,0.151,10,automatic,ci,ci
+2023-08-25T09:20:05.918Z,37.2038,-117.6511,11.8,0.1,ml,5,201.68,0.03,0.1154,nn,nn00865052,2023-08-25T22:46:08.746Z,"56 km E of Big Pine, California",earthquake,,3,0.58,4,reviewed,nn,nn
 2023-08-25T09:11:16.065Z,38.148,-117.8411,8.4,2,ml,11,87.49,0.124,0.1772,nn,nn00864998,2023-08-25T17:31:51.876Z,"35 km SE of Mina, Nevada",earthquake,,1,0.26,8,reviewed,nn,nn
 2023-08-25T09:04:27.740Z,39.6031,-119.9859,2.2,0.7,ml,9,83.14,0.02,0.1421,nn,nn00865029,2023-08-25T16:57:33.693Z,"8 km S of Cold Springs, Nevada",earthquake,,2.9,0.3,5,reviewed,nn,nn
 2023-08-25T08:59:02.690Z,63.1039,-151.4373,3.8,1.1,ml,,,,0.76,ak,ak023aw3hdcg,2023-08-25T09:01:42.957Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -317,4 +318,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T23:13:50.406Z,62.9721,-150.4534,102,1.3,ml,,,,0.21,ak,ak023auolrnk,2023-08-24T23:16:11.723Z,"Central Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-24T23:03:55.310Z,58.1711666666667,-155.371666666667,1.95,0.78,ml,10,77,,0.11,av,av92019996,2023-08-25T18:40:16.450Z,"86 km NW of Karluk, Alaska",earthquake,0.24,0.75,0.224715285159598,10,reviewed,av,av
 2023-08-24T22:52:04.178Z,39.5077,-119.3335,13.5,1.2,ml,4,254.5,0.207,0.0721,nn,nn00864989,2023-08-24T23:20:06.728Z,"13 km SSW of Fernley, Nevada",earthquake,,17.9,0.26,3,reviewed,nn,nn
-2023-08-24T22:48:26.168Z,39.5662,143.2837,35,5.8,mww,110,101,2.094,0.88,us,us7000kqtq,2023-08-25T19:10:46.040Z,"115 km E of Yamada, Japan",earthquake,7.2,1.883,0.068,21,reviewed,us,us
