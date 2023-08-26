@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-26T11:13:08.130Z,37.9684982,-122.0709991,14.79,1.23,md,7,178,0.07273,0.06,nc,nc73929461,2023-08-26T11:14:46.144Z,"2 km SSE of Pacheco, CA",earthquake,0.67,1.33,0.09,4,automatic,nc,nc
+2023-08-26T11:13:08.130Z,37.9684982,-122.0709991,14.79,1.23,md,7,178,0.07273,0.06,nc,nc73929461,2023-08-26T11:25:38.546Z,"2 km SSE of Pacheco, CA",earthquake,0.67,1.33,0.09,4,automatic,nc,nc
 2023-08-26T10:52:56.113Z,37.511,-117.4467,4,0.7,ml,8,128.37,0.441,0.2123,nn,nn00865075,2023-08-26T10:56:13.088Z,"California-Nevada border region",earthquake,,3.8,0.56,4,automatic,nn,nn
 2023-08-26T10:52:41.440Z,19.3764991760254,-155.281661987305,0.649999976158142,1.71,ml,14,185,,0.119999997,hv,hv73545392,2023-08-26T10:58:12.780Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.209999993,0.25,6,automatic,hv,hv
 2023-08-26T10:44:29.430Z,17.927,-66.958,5.2,2.31,md,13,228,0.06503,0.07,pr,pr71422188,2023-08-26T10:59:47.160Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.43,0.27,0.0693998957308446,4,reviewed,pr,pr
