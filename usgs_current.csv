@@ -207,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T19:17:03.210Z,40.7373333,-122.3131667,-0.58,1.33,md,9,88,0.1357,0.06,nc,nc73928996,2023-08-25T21:31:09.024Z,"8 km NE of Shasta Lake, CA",quarry blast,0.43,31.61,0.178,9,reviewed,nc,nc
 2023-08-25T19:14:47.539Z,-1.8432,152.1945,10,5.1,mb,111,84,2.333,0.78,us,us7000kr0x,2023-08-26T17:08:13.040Z,"175 km ENE of Kavieng, Papua New Guinea",earthquake,7.55,1.662,0.058,103,reviewed,us,us
 2023-08-25T19:13:49.019Z,59.9831,-139.2433,5.1,1.8,ml,,,,0.66,ak,ak023aw9rdn1,2023-08-25T19:16:13.446Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-25T19:13:42.147Z,6.2472,124.7493,14.969,5,mww,172,59,1.161,0.6,us,us7000kr0t,2023-08-26T16:17:11.601Z,"Mindanao, Philippines",earthquake,6.47,3.601,0.098,10,reviewed,us,us
+2023-08-25T19:13:42.147Z,6.2472,124.7493,14.969,5,mww,172,59,1.161,0.6,us,us7000kr0t,2023-08-26T16:17:11.601Z,"4 km ENE of Lake Sebu, Philippines",earthquake,6.47,3.601,0.098,10,reviewed,us,us
 2023-08-25T19:06:22.670Z,38.8226662,-122.8161697,3.65,0.27,md,8,119,0.01474,0.02,nc,nc73928976,2023-08-25T19:07:57.563Z,"7 km NW of The Geysers, CA",earthquake,0.56,1.69,0.15,10,automatic,nc,nc
 2023-08-25T18:58:09.010Z,34.9911667,-118.1871667,-0.93,1.12,ml,16,57,0.1171,0.2,ci,ci39650994,2023-08-25T20:35:29.502Z,"7 km S of Mojave, CA",quarry blast,0.42,31.61,0.109,10,reviewed,ci,ci
 2023-08-25T18:53:29.460Z,38.8261667,-122.813,3.27,0.47,md,22,44,0.003589,0.02,nc,nc73928961,2023-08-25T21:39:15.754Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.61,0.089,19,reviewed,nc,nc
@@ -221,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T17:48:16.120Z,38.8256667,-122.8091667,2.75,0.13,md,15,76,0.002377,0.01,nc,nc73928911,2023-08-25T20:56:34.783Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.74,0.375,13,reviewed,nc,nc
 2023-08-25T17:47:58.540Z,40.2081667,-121.1613333,1.8,1.67,md,9,178,0.04133,0.1,nc,nc73928916,2023-08-25T22:11:17.924Z,"0 km W of Prattville, CA",earthquake,0.57,0.47,0.17,13,reviewed,nc,nc
 2023-08-25T17:45:46.280Z,38.8258324,-122.8066635,2.62,0.28,md,12,72,0.003608,0.01,nc,nc73928901,2023-08-25T17:47:22.457Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.93,0.15,12,automatic,nc,nc
-2023-08-25T17:38:56.050Z,38.8213348,-122.8306656,0.52,0.96,md,10,74,0.0125,0.03,nc,nc73928896,2023-08-25T17:40:34.272Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.85,0.18,12,automatic,nc,nc
-2023-08-25T17:34:27.120Z,46.198,-122.18883333333333,0.7,0.06,ml,6,155,0.03231,0.08,uw,uw61944467,2023-08-26T05:03:22.960Z,"37 km NNE of Amboy, Washington",earthquake,0.51,0.33,0.1592551543249202,5,reviewed,uw,uw
-2023-08-25T17:34:03.650Z,44.7775,-110.8838333,6.36,0.89,ml,11,110,0.02609,0.1,uu,uu60548322,2023-08-25T20:46:41.410Z,"21 km NE of West Yellowstone, Montana",earthquake,0.44,0.85,0.049,2,reviewed,uu,uu
