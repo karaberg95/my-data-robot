@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-27T02:37:15.020Z,38.8333321,-122.8096695,2,1.88,md,38,37,0.009928,0.03,nc,nc73929736,2023-08-27T02:38:48.423Z,"8 km W of Cobb, CA",earthquake,0.15,0.26,0.16,34,automatic,nc,nc
+2023-08-27T02:37:15.020Z,38.8333321,-122.8096695,2,1.88,md,38,37,0.009928,0.03,nc,nc73929736,2023-08-27T02:40:36.980Z,"8 km W of Cobb, CA",earthquake,0.15,0.26,0.16,34,automatic,nc,nc
 2023-08-27T02:27:01.440Z,33.0138333,-116.3468333,10.12,0.84,ml,18,69,0.06806,0.19,ci,ci39652154,2023-08-27T02:30:36.379Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.33,0.65,0.306,8,automatic,ci,ci
 2023-08-27T02:18:41.452Z,-21.9915,-179.3382,578.049,4.5,mb,34,91,3.934,0.71,us,us7000kr9j,2023-08-27T02:36:44.040Z,"Fiji region",earthquake,6.42,11.234,0.093,34,reviewed,us,us
 2023-08-27T02:11:03.120Z,35.916,-117.6786667,1.71,0.92,ml,9,134,0.1176,0.13,ci,ci39652138,2023-08-27T02:14:41.293Z,"21 km E of Little Lake, CA",earthquake,0.35,0.55,0.034,5,automatic,ci,ci
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T03:02:31.074Z,37.1361,-115.5076,6.5,0.8,ml,9,164.42,0.377,0.1449,nn,nn00865065,2023-08-26T03:04:40.611Z,"Nevada",earthquake,,0,0.14,4,automatic,nn,nn
 2023-08-26T03:00:47.633Z,37.144,-115.5443,4.6,1.2,ml,24,236.33,0.35,0.2849,nn,nn00865064,2023-08-26T03:03:12.113Z,"41 km SW of Alamo, Nevada",earthquake,,1.3,0.89,18,automatic,nn,nn
 2023-08-26T02:47:33.460Z,19.3783340454102,-155.282165527344,1.07000005245209,1.80999994,md,16,86,,0.180000007,hv,hv73544922,2023-08-26T02:50:30.960Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.300000012,0.209999993,13,automatic,hv,hv
-2023-08-26T02:45:19.720Z,38.8204994,-122.8156662,2.86,0.76,md,7,185,0.005239,0.01,nc,nc73929256,2023-08-26T03:02:13.556Z,"7 km NW of The Geysers, CA",earthquake,0.82,1.92,0.04,8,automatic,nc,nc
