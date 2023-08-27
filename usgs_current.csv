@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-27T05:21:09.648Z,62.365,-152.6888,140.3,1.5,ml,,,,0.83,ak,ak023azcjmtw,2023-08-27T05:23:37.731Z,"79 km WNW of Skwentna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-08-27T05:13:08.331Z,64.9934,-147.4251,15.1,0.6,ml,,,,0.97,ak,ak023azchx01,2023-08-27T05:14:55.173Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-27T05:06:24.990Z,38.8278351,-122.7985001,2.17,0.77,md,7,108,0.01007,0.02,nc,nc73929806,2023-08-27T05:07:58.787Z,"7 km W of Cobb, CA",earthquake,0.47,1,0.12,9,automatic,nc,nc
 2023-08-27T05:05:51.990Z,17.9116666666667,-66.8898333333333,12.53,2.4,md,11,228,0.06282,0.07,pr,pr71422283,2023-08-27T05:13:26.750Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.56,0.35,0.173192530154073,6,reviewed,pr,pr
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T05:39:25.290Z,38.8071671,-122.8198318,0.79,0.73,md,10,77,0.007497,0.01,nc,nc73929351,2023-08-26T06:05:13.569Z,"6 km WNW of The Geysers, CA",earthquake,0.27,0.82,0.26,10,automatic,nc,nc
 2023-08-26T05:32:10.340Z,38.814167,-122.8314972,1.3,0.75,md,7,104,0.005593,0.01,nc,nc73929346,2023-08-26T05:54:12.501Z,"8 km WNW of The Geysers, CA",earthquake,0.43,0.81,0.43,9,automatic,nc,nc
 2023-08-26T05:27:18.721Z,37.1251,-115.4901,4.5,0.8,ml,12,168.3,0.389,0.1743,nn,nn00865071,2023-08-26T05:30:01.796Z,"39 km SW of Alamo, Nevada",earthquake,,1.9,0.06,8,automatic,nn,nn
-2023-08-26T05:21:41.451Z,37.1391,-115.5122,7.1,0.7,ml,9,163.39,0.374,0.175,nn,nn00865070,2023-08-26T05:23:51.222Z,"39 km SW of Alamo, Nevada",earthquake,,150.4,1.08,5,automatic,nn,nn
