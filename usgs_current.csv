@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-30T20:22:07.030Z,38.8354988,-122.7925034,1.99,2.42,md,32,43,0.00336,0.03,nc,nc73931061,2023-08-30T20:23:44.477Z,"6 km WNW of Cobb, CA",earthquake,0.14,0.25,0.25,28,automatic,nc,nc
-2023-08-30T20:21:53.780Z,38.8348351,-122.7929993,1.86,2.62,md,44,40,0.004127,0.06,nc,nc73931056,2023-08-30T20:23:28.844Z,"6 km WNW of Cobb, CA",earthquake,0.16,0.25,0.15,30,automatic,nc,nc
+2023-08-30T20:30:28.300Z,32.6549988,-115.6548309,8.48,1.87,ml,29,84,0.06062,0.22,ci,ci39655362,2023-08-30T20:32:37.298Z,"11 km NW of Progreso, B.C., MX",earthquake,0.31,1.33,0.334,16,automatic,ci,ci
+2023-08-30T20:26:12.940Z,38.8353348,-122.7926636,2.04,0.91,md,18,52,0.003564,0.02,nc,nc73931071,2023-08-30T20:27:48.707Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.41,0.26,18,automatic,nc,nc
+2023-08-30T20:22:07.030Z,38.8354988,-122.7925034,1.99,2.42,md,32,43,0.00336,0.03,nc,nc73931061,2023-08-30T20:28:11.017Z,"6 km WNW of Cobb, CA",earthquake,0.14,0.25,0.25,28,automatic,nc,nc
+2023-08-30T20:21:53.780Z,38.8348351,-122.7929993,1.86,2.62,md,44,40,0.004127,0.06,nc,nc73931056,2023-08-30T20:28:10.017Z,"6 km WNW of Cobb, CA",earthquake,0.16,0.25,0.15,30,automatic,nc,nc
 2023-08-30T20:12:56.800Z,33.5023333,-116.9128333,10.8,0.85,ml,27,52,0.08727,0.23,ci,ci39655346,2023-08-30T20:16:29.709Z,"8 km NW of Aguanga, CA",earthquake,0.3,0.73,0.106,21,automatic,ci,ci
 2023-08-30T20:03:15.617Z,63.209,-151.7886,8.3,1,ml,,,,0.82,ak,ak023b4jzbyp,2023-08-30T20:05:29.881Z,"37 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-30T20:02:45.190Z,35.6015,-117.4321667,8.1,1.42,ml,17,89,0.02869,0.16,ci,ci39655330,2023-08-30T20:13:24.940Z,"19 km S of Searles Valley, CA",earthquake,0.32,0.56,0.247,14,automatic,ci,ci
@@ -20,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T18:01:47.180Z,33.596,-116.745,12.63,0.38,ml,13,75,0.09225,0.29,ci,ci39655178,2023-08-30T18:05:23.425Z,"8 km NW of Anza, CA",earthquake,0.8,1.46,0.038,5,automatic,ci,ci
 2023-08-30T17:58:46.351Z,67.5325,-169.714,51.3,4.7,ml,,,,2.44,ak,ak023b4iivvc,2023-08-30T19:46:55.099Z,"Bering Strait",earthquake,,2.9,,,reviewed,ak,ak
 2023-08-30T17:56:53.929Z,34.2845,-96.38416667,0,1.41,ml,48,86,0.2033600938,0.6,ok,ok2023qzrt,2023-08-30T18:07:38.241Z,"10 km SSE of Wapanucka, Oklahoma",quarry blast,,1,0.18,16,reviewed,ok,ok
+2023-08-30T17:40:51.890Z,32.6031667,-115.7363333,8.4,1.33,ml,12,133,0.04679,0.12,ci,ci37569084,2023-08-30T20:31:32.292Z,"14 km W of Progreso, B.C., MX",earthquake,0.3,0.57,0.249,6,reviewed,ci,ci
 2023-08-30T17:40:38.230Z,32.601,-115.7283333,8.83,1.05,ml,13,116,0.04822,0.21,ci,ci39655170,2023-08-30T20:19:39.233Z,"14 km W of Progreso, B.C., MX",earthquake,0.44,0.86,0.114,4,reviewed,ci,ci
 2023-08-30T17:21:47.118Z,31.48403417,-103.9671807,7.391259766,2,ml,21,68,0.125230161,0.3,tx,tx2023qzqp,2023-08-30T17:40:42.335Z,"25 km NW of Toyah, Texas",earthquake,1.063471095,1.73465716,0.2,13,reviewed,tx,tx
 2023-08-30T17:11:05.740Z,35.3501667,-118.547,2.26,1.13,ml,13,76,0.1188,0.25,ci,ci39655154,2023-08-30T17:14:38.213Z,"26 km NNW of Tehachapi, CA",earthquake,0.55,0.84,0.275,8,automatic,ci,ci
