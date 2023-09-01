@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T22:46:27.888Z,56.5207,-158.1394,32.6,2,ml,,,,1.14,ak,ak023b7wi4w4,2023-09-01T22:48:39.078Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-09-01T22:23:12.120Z,38.8343315,-122.8144989,1.58,1.03,md,15,57,0.01145,0.01,nc,nc73931876,2023-09-01T22:25:05.267Z,"8 km W of Cobb, CA",earthquake,0.29,0.64,0.13,18,automatic,nc,nc
-2023-09-01T22:20:51.550Z,38.795166,-122.80867,3.15,1.07,md,18,83,0.008112,0.03,nc,nc73931871,2023-09-01T22:22:25.324Z,"5 km WNW of The Geysers, CA",earthquake,0.33,0.66,0.25,18,automatic,nc,nc
+2023-09-01T22:20:51.550Z,38.795166,-122.80867,3.15,1.07,md,18,83,0.008112,0.03,nc,nc73931871,2023-09-01T22:48:11.175Z,"5 km WNW of The Geysers, CA",earthquake,0.33,0.66,0.25,18,automatic,nc,nc
 2023-09-01T22:19:32.400Z,38.8181648,-122.8308334,1.14,0.89,md,9,87,0.005932,0.02,nc,nc73931866,2023-09-01T22:37:13.115Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.91,0.39,12,automatic,nc,nc
 2023-09-01T22:16:59.060Z,33.5818333,-116.755,12.8,1.38,ml,44,40,0.01406,0.17,ci,ci39657114,2023-09-01T22:28:10.050Z,"8 km WNW of Anza, CA",earthquake,0.2,0.38,0.19,27,automatic,ci,ci
 2023-09-01T22:16:00.800Z,17.9476666666667,-66.926,16.31,2.02,md,6,209,0.05217,0.06,pr,pr71423083,2023-09-01T22:30:14.950Z,"3 km SW of Guánica, Puerto Rico",earthquake,1.64,0.58,0.131761513216208,4,reviewed,pr,pr
