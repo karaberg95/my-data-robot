@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-02T01:35:55.500Z,38.8058319,-122.8131638,3.18,1.07,md,20,68,0.01287,0.03,nc,nc73932001,2023-09-02T01:37:30.324Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.51,0.19,23,automatic,nc,nc
 2023-09-02T01:34:59.050Z,33.5815,-116.7523333,11.94,0.41,ml,12,77,0.01563,0.07,ci,ci39657146,2023-09-02T01:38:29.698Z,"8 km WNW of Anza, CA",earthquake,0.27,0.34,0.056,10,automatic,ci,ci
-2023-09-02T01:32:56.420Z,38.8071671,-122.8123322,3.39,1.05,md,23,57,0.01327,0.03,nc,nc73931996,2023-09-02T01:34:30.397Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.54,0.2,24,automatic,nc,nc
+2023-09-02T01:32:56.420Z,38.8071671,-122.8123322,3.39,1.05,md,23,57,0.01327,0.03,nc,nc73931996,2023-09-02T01:57:15.549Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.54,0.2,24,automatic,nc,nc
 2023-09-02T01:25:55.960Z,33.149,-116.6588333,18.54,0.92,ml,28,48,0.05095,0.21,ci,ci39657138,2023-09-02T01:29:32.639Z,"9 km NW of Julian, CA",earthquake,0.39,0.71,0.162,19,automatic,ci,ci
 2023-09-02T00:45:14.700Z,19.1760005950928,-155.490661621094,29.2299995422363,1.80999994,md,31,208,,0.119999997,hv,hv73557302,2023-09-02T00:48:30.080Z,"3 km SSW of Pāhala, Hawaii",earthquake,1.09,0.99000001,1.09000003,11,automatic,hv,hv
 2023-09-02T00:33:28.380Z,38.8163338,-122.7968369,1.45,0.75,md,10,64,0.008439,0.01,nc,nc73931971,2023-09-02T00:35:05.150Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.97,0.47,12,automatic,nc,nc
@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T02:19:07.245Z,5.1704,-76.663,10,4.9,mb,42,91,1.517,0.76,us,us7000ksjh,2023-09-01T08:05:06.649Z,"2 km ENE of Istmina, Colombia",earthquake,6.93,1.892,0.094,35,reviewed,us,us
 2023-09-01T02:18:36.640Z,33.4251667,-116.9183333,7.51,1.48,ml,57,35,0.05678,0.2,ci,ci39656418,2023-09-01T19:20:47.000Z,"5 km WSW of Aguanga, CA",earthquake,0.17,0.59,0.139,24,reviewed,ci,ci
 2023-09-01T02:13:26.940Z,19.3676666666667,-155.289,2,1.86,ml,20,110,,0.1,hv,hv73555697,2023-09-01T21:54:31.402Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.28,0.0843716423276011,7,reviewed,hv,hv
-2023-09-01T01:53:53.210Z,33.2651667,-116.4328333,4.89,0.96,ml,30,45,0.01348,0.17,ci,ci39656410,2023-09-01T19:10:47.834Z,"6 km W of Borrego Springs, CA",earthquake,0.23,0.4,0.14,21,reviewed,ci,ci
