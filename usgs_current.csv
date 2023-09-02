@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T08:44:48.930Z,33.5043333,-116.4993333,14.39,0.79,ml,22,91,0.05926,0.11,ci,ci39656562,2023-09-01T20:30:43.720Z,"17 km ESE of Anza, CA",earthquake,0.21,0.41,0.123,11,reviewed,ci,ci
 2023-09-01T08:44:29.750Z,33.503,-116.5035,13.25,1.18,ml,43,71,0.05901,0.19,ci,ci39656554,2023-09-01T19:44:51.285Z,"17 km ESE of Anza, CA",earthquake,0.24,0.38,0.176,26,reviewed,ci,ci
 2023-09-01T08:44:00.592Z,38.144,-116.0701,12.6,2.3,ml,12,118.57,0.561,0.2504,nn,nn00865350,2023-09-01T16:07:49.443Z,"62 km NNW of Rachel, Nevada",earthquake,,2.1,0.1,7,reviewed,nn,nn
-2023-09-01T08:34:11.400Z,38.8411674,-122.8793335,2.82,0.58,md,10,98,0.004358,0.01,nc,nc73931616,2023-09-01T08:53:23.545Z,"13 km ENE of Cloverdale, CA",earthquake,0.48,0.66,0.39,11,automatic,nc,nc
