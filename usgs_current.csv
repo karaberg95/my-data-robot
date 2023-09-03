@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-03T16:51:54.863Z,39.1814,-118.8251,9.5,1.4,ml,8,142.19,0.577,0.1442,nn,nn00865391,2023-09-03T16:54:24.299Z,"25 km N of Schurz, Nevada",earthquake,,1.6,0.29,6,automatic,nn,nn
-2023-09-03T16:35:58.271Z,40.3003,48.2495,74.861,5,mb,69,49,1.218,0.77,us,us7000kt1k,2023-09-03T16:49:03.040Z,"Azerbaijan",earthquake,6.26,4.784,0.062,84,reviewed,us,us
+2023-09-03T16:35:58.271Z,40.3003,48.2495,74.861,5,mb,69,49,1.218,0.77,us,us7000kt1k,2023-09-03T16:49:03.040Z,"9 km ESE of Kyurdarmir, Azerbaijan",earthquake,6.26,4.784,0.062,84,reviewed,us,us
 2023-09-03T16:34:19.990Z,19.0653,-64.6136,24,3.53,md,6,318,0.7911,0.27,pr,pr2023246003,2023-09-03T16:53:46.536Z,"83 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.13,22.81,0.03,3,reviewed,pr,pr
 2023-09-03T16:31:58.830Z,38.8429985,-122.8806686,2.47,0.25,md,9,101,0.005241,0.03,nc,nc73932626,2023-09-03T16:48:16.112Z,"12 km ENE of Cloverdale, CA",earthquake,0.39,0.69,0.14,11,automatic,nc,nc
 2023-09-03T16:28:17.800Z,18.5993333333333,-66.751,7.38,2.55,md,13,223,0.2428,0.15,pr,pr71423458,2023-09-03T16:50:13.410Z,"13 km NNE of Carrizales, Puerto Rico",earthquake,0.5,0.76,0.232381001459128,7,reviewed,pr,pr
@@ -167,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T20:25:37.610Z,38.8243332,-122.8168335,3.15,0.77,md,15,139,0.005363,0.04,nc,nc73932341,2023-09-02T20:51:14.983Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.87,0.16,17,automatic,nc,nc
 2023-09-02T20:22:03.410Z,38.822834,-122.8178329,3,0.76,md,14,75,0.006087,0.01,nc,nc73932336,2023-09-02T20:39:14.912Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.73,0.16,15,automatic,nc,nc
 2023-09-02T20:21:54.350Z,31.9875,-103.8243,5,2.6,ml,23,88,0.106,0.34,us,us7000kswp,2023-09-02T21:21:56.040Z,"35 km SE of Malaga, New Mexico",earthquake,0.88,1.956,0.071,26,reviewed,us,us
-2023-09-02T20:14:31.450Z,60.4757,-151.6008,31.8,1.2,ml,,,,1.81,ak,ak023b9inrjd,2023-09-02T20:15:52.533Z,"18 km WNW of Kalifornsky, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-02T20:14:31.450Z,60.4757,-151.6008,31.8,1.2,ml,,,,1.81,ak,ak023b9inrjd,2023-09-02T20:15:52.533Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-02T20:04:29.920Z,19.3886661529541,-155.276672363281,0.360000014305115,1.84,ml,12,122,,0.159999996,hv,hv73558737,2023-09-02T20:10:01.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.25,6,automatic,hv,hv
 2023-09-02T20:03:08.675Z,-3.1435,137.9069,58.105,4.3,mb,18,107,2.862,0.46,us,us7000kswm,2023-09-02T21:11:45.040Z,"266 km N of Agats, Indonesia",earthquake,9.55,11.435,0.169,10,reviewed,us,us
 2023-09-02T20:02:22.137Z,62.3387,-149.6013,43.9,2.2,ml,,,,0.56,ak,ak023b9il685,2023-09-02T20:04:28.260Z,"23 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
