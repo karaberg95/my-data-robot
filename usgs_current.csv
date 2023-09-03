@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T14:21:49.640Z,38.8086662,-122.7948303,3.64,0.85,md,8,106,0.000789,0.01,nc,nc73932586,2023-09-03T14:23:23.506Z,"5 km NW of The Geysers, CA",earthquake,0.71,1.36,0.11,8,automatic,nc,nc
+2023-09-03T14:19:25.660Z,19.38450050354,-155.280838012695,1.57000005245209,1.82000005,md,17,74,,0.119999997,hv,hv73559852,2023-09-03T14:22:28.110Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.230000004,0.939999998,14,automatic,hv,hv
+2023-09-03T14:13:33.990Z,38.145,-117.8383,7.7,1.5,ml,8,130.22,0.123,0.2147,nn,nn00865388,2023-09-03T14:16:12.720Z,"36 km SE of Mina, Nevada",earthquake,,0.6,0.21,6,automatic,nn,nn
 2023-09-03T14:08:47.790Z,38.8390007,-122.8108368,1.89,0.72,md,14,57,0.01559,0.01,nc,nc73932576,2023-09-03T14:10:24.187Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.76,0.13,13,automatic,nc,nc
 2023-09-03T14:07:51.127Z,62.2697,-150.965,66.4,1.2,ml,,,,0.36,ak,ak023bb2l1wo,2023-09-03T14:09:48.859Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-03T13:47:01.893Z,61.3039,-150.6455,52.9,1.6,ml,,,,0.41,ak,ak023bb28359,2023-09-03T13:48:35.372Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -56,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T08:17:57.800Z,38.7876663,-122.74617,1.72,1.15,md,14,84,0.008605,0.02,nc,nc73932501,2023-09-03T09:14:14.372Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.47,0.35,14,automatic,nc,nc
 2023-09-03T08:17:53.430Z,38.7874985,-122.7460022,1.68,1.63,md,10,84,0.01693,0.01,nc,nc73932496,2023-09-03T08:49:14.213Z,"1 km NE of The Geysers, CA",earthquake,0.31,0.79,0.13,10,automatic,nc,nc
 2023-09-03T08:02:17.170Z,35.33330154,-97.94405365,0.7944366932,2.68,ml,63,40.75735474,0.06139500812,0.7345536144,ok,ok2023rgge,2023-09-03T11:46:44.287Z,"2 km N of Minco, Oklahoma",earthquake,1.555486477,1.061266933,0.27,42,automatic,ok,ok
-2023-09-03T07:49:43.700Z,18.9421,-64.5248,4,4.28,md,29,218,0.7308,0.35,pr,pr2023246000,2023-09-03T14:02:49.209Z,"73 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,1.11,0.07,14,reviewed,pr,pr
+2023-09-03T07:49:43.700Z,18.9421,-64.5248,4,4.28,md,29,218,0.7308,0.35,pr,pr2023246000,2023-09-03T14:21:48.740Z,"73 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.18,1.11,0.07,14,reviewed,pr,pr
 2023-09-03T07:48:45.636Z,31.5855,-103.9267,5,2.7,mb_lg,24,65,0.057,0.27,us,us7000ksz2,2023-09-03T08:31:15.040Z,"western Texas",earthquake,1.16,1.405,0.095,32,reviewed,us,us
 2023-09-03T07:24:42.893Z,62.8848,-150.9072,100.9,3,ml,,,,0.55,ak,ak023bayin68,2023-09-03T10:04:56.470Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-03T07:08:28.700Z,19.3659992218018,-155.286499023438,1.9099999666214,1.97000003,md,17,125,,0.159999996,hv,hv73559482,2023-09-03T07:11:36.400Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.430000007,0.639999986,14,automatic,hv,hv
