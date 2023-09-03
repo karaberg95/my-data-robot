@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T11:04:22.358Z,58.2627,-155.0847,2.4,0.9,ml,,,,0.19,ak,ak023bb0s1q3,2023-09-03T11:06:02.531Z,"85 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-03T10:52:02.290Z,38.8268318,-122.8531647,2.35,0.32,md,7,163,0.002983,0.01,nc,nc73932536,2023-09-03T10:53:38.291Z,"10 km WNW of The Geysers, CA",earthquake,0.58,2.61,0.2,9,automatic,nc,nc
 2023-09-03T10:46:05.922Z,39.1211,-118.7104,13.9,1.4,ml,13,76.51,0.478,0.1514,nn,nn00865385,2023-09-03T10:48:23.718Z,"20 km NNE of Schurz, Nevada",earthquake,,0.9,0.16,4,automatic,nn,nn
 2023-09-03T10:41:56.320Z,34.4131667,-117.7081667,4.19,0.92,ml,14,114,0.122,0.19,ci,ci39657706,2023-09-03T10:45:31.651Z,"6 km WSW of Pinon Hills, CA",earthquake,0.48,1.08,0.262,16,automatic,ci,ci
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T11:17:05.880Z,40.6056667,-121.8226667,13.98,1.6,md,20,73,0.1014,0.16,nc,nc73932141,2023-09-02T19:39:15.528Z,"14 km NNE of Shingletown, CA",earthquake,0.48,0.97,0.318,18,reviewed,nc,nc
 2023-09-02T11:11:02.030Z,-8.2324,-74.2484,149.196,5.3,mww,61,80,4.522,0.56,us,us7000ksul,2023-09-02T11:28:25.040Z,"36 km ENE of San Fernando, Peru",earthquake,9.29,3.358,0.069,20,reviewed,us,us
 2023-09-02T11:09:30.857Z,37.4101,-114.3267,16,1.9,ml,13,197.86,0.412,0.2232,nn,nn00865368,2023-09-02T11:12:29.194Z,"28 km SE of Caliente, Nevada",earthquake,,0.7,0.78,10,automatic,nn,nn
-2023-09-02T10:59:40.290Z,33.496,-116.5891667,10.93,0.41,ml,19,115,0.01097,0.2,ci,ci39657322,2023-09-02T11:03:14.849Z,"10 km SE of Anza, CA",earthquake,0.5,0.66,0.193,9,automatic,ci,ci
