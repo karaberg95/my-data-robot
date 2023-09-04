@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-04T23:24:13.250Z,35.0304985,-117.6839981,-0.69,1.57,ml,38,51,0.09642,0.21,ci,ci39658378,2023-09-04T23:26:41.739Z,"5 km NW of Boron, CA",earthquake,0.46,1.28,0.102,11,automatic,ci,ci
+2023-09-04T23:29:17.671Z,63.6028,-150.6715,0.8,1.9,ml,,,,0.91,ak,ak023bcvly0n,2023-09-04T23:31:14.695Z,"52 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-04T23:26:20.417Z,63.1207,-149.8098,80.7,1.6,ml,,,,0.46,ak,ak023bcvlb2x,2023-09-04T23:28:36.394Z,"52 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-04T23:24:13.330Z,35.0266667,-117.6773333,0.29,1.65,ml,27,50,0.09337,0.23,ci,ci39658378,2023-09-04T23:27:59.744Z,"4 km NW of Boron, CA",quarry blast,0.52,31.61,0.127,30,automatic,ci,ci
 2023-09-04T23:20:01.622Z,58.2429,-155.087,1.4,0.7,ml,,,,0.32,ak,ak023bcvjzae,2023-09-04T23:22:29.729Z,"Alaska Peninsula",earthquake,,3.3,,,automatic,ak,ak
+2023-09-04T23:13:33.909Z,-27.2774,-71.1339,26.769,4.5,mb,29,137,0.698,0.91,us,us7000kt9t,2023-09-04T23:30:26.040Z,"Near the coast of Atacama, Chile",earthquake,2.77,6.521,0.163,11,reviewed,us,us
 2023-09-04T23:13:06.300Z,34.0493333,-117.0628333,12.7,1.04,ml,31,38,0.06412,0.22,ci,ci39658370,2023-09-04T23:16:47.102Z,"2 km NW of Yucaipa, CA",earthquake,0.31,0.77,0.175,25,automatic,ci,ci
 2023-09-04T23:12:29.140Z,34.048,-117.0596667,12.75,1.34,ml,53,38,0.04554,0.22,ci,ci39658362,2023-09-04T23:22:45.680Z,"2 km NW of Yucaipa, CA",earthquake,0.23,0.64,0.164,27,automatic,ci,ci
 2023-09-04T23:05:47.310Z,38.8171654,-122.7618332,1.72,1.08,md,13,115,0.01471,0.02,nc,nc73933131,2023-09-04T23:24:12.372Z,"3 km W of Cobb, CA",earthquake,0.31,0.54,0.06,14,automatic,nc,nc
@@ -180,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T00:07:08.110Z,38.8246651,-122.8533325,2.64,1.56,md,33,58,0.00399,0.04,nc,nc73932776,2023-09-04T00:47:18.713Z,"10 km WNW of The Geysers, CA",earthquake,0.2,0.38,0.2,33,automatic,nc,nc
 2023-09-04T00:02:37.830Z,45.950833333333335,-119.438,7.29,1.05,md,4,351,0.3547,0.06,uw,uw61956936,2023-09-04T05:20:14.690Z,"7 km NE of Irrigon, Oregon",earthquake,5.23,8.22,0.0037707944955316375,4,reviewed,uw,uw
 2023-09-03T23:57:54.777Z,-5.1825,150.1745,260.415,4.6,mb,30,83,2.214,0.92,us,us7000kt33,2023-09-04T00:13:09.040Z,"New Britain region, Papua New Guinea",earthquake,9.96,6.604,0.092,35,reviewed,us,us
-2023-09-03T23:33:52.170Z,38.8495,-122.8163333,1.62,0.26,md,16,116,0.00752,0.06,nc,nc73932821,2023-09-04T07:47:49.701Z,"9 km WNW of Cobb, CA",earthquake,0.44,0.43,0.242,15,reviewed,nc,nc
