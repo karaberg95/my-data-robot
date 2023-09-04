@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T10:25:56.930Z,33.7121658,-116.7269974,18.42,0.68,ml,15,105,0.01074,0.09,ci,ci39658114,2023-09-04T10:29:28.726Z,"3 km SSW of Idyllwild, CA",earthquake,0.54,0.81,0.108,4,automatic,ci,ci
 2023-09-04T10:21:35.890Z,38.7953339,-122.8098297,3.38,0.77,md,10,180,0.01697,0.02,nc,nc73932906,2023-09-04T10:23:11.724Z,"5 km WNW of The Geysers, CA",earthquake,0.63,1.48,0.33,10,automatic,nc,nc
-2023-09-04T10:13:20.450Z,38.7728348,-122.7360001,0.38,0.52,md,7,101,0.0104,0.02,nc,nc73932901,2023-09-04T10:14:57.332Z,"2 km ESE of The Geysers, CA",earthquake,0.35,1.12,0.15,6,automatic,nc,nc
+2023-09-04T10:13:20.450Z,38.7728348,-122.7360001,0.38,0.52,md,7,101,0.0104,0.02,nc,nc73932901,2023-09-04T10:30:12.996Z,"2 km ESE of The Geysers, CA",earthquake,0.35,1.12,0.15,6,automatic,nc,nc
 2023-09-04T09:57:27.340Z,17.9728333333333,-66.9168333333333,14.71,2.21,md,4,183,0.03583,0.04,pr,pr71423633,2023-09-04T10:15:57.780Z,"Puerto Rico",earthquake,2.13,0.58,0.0133462748979847,3,reviewed,pr,pr
 2023-09-04T09:32:34.750Z,34.1885,-117.3026667,8.15,1.52,ml,54,32,0.04889,0.17,ci,ci39658106,2023-09-04T09:36:15.090Z,"5 km NE of Muscoy, CA",earthquake,0.18,0.57,0.163,24,automatic,ci,ci
 2023-09-04T09:11:28.323Z,64.9303,-147.2859,2.3,1.2,ml,,,,0.86,ak,ak023bcn61hc,2023-09-04T09:12:46.192Z,"13 km WNW of Two Rivers, Alaska",earthquake,,3.6,,,automatic,ak,ak
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:52:02.290Z,38.8268318,-122.8531647,2.35,0.32,md,7,163,0.002983,0.01,nc,nc73932536,2023-09-03T11:11:18.022Z,"10 km WNW of The Geysers, CA",earthquake,0.58,2.61,0.2,9,automatic,nc,nc
 2023-09-03T10:46:05.922Z,39.1211,-118.7104,13.9,1.4,ml,13,76.51,0.478,0.1514,nn,nn00865385,2023-09-03T10:48:23.718Z,"20 km NNE of Schurz, Nevada",earthquake,,0.9,0.16,4,automatic,nn,nn
 2023-09-03T10:41:56.320Z,34.4131667,-117.7081667,4.19,0.92,ml,14,114,0.122,0.19,ci,ci39657706,2023-09-03T10:45:31.651Z,"6 km WSW of Pinon Hills, CA",earthquake,0.48,1.08,0.262,16,automatic,ci,ci
-2023-09-03T10:29:01.628Z,58.2553,-155.0602,0.1,1.8,ml,,,,0.44,ak,ak023bb0bxf6,2023-09-03T10:30:18.645Z,"84 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-03T10:28:56.913Z,-5.3203,153.7259,56.486,5.1,mww,80,61,1.919,0.73,us,us7000kt06,2023-09-03T14:59:46.007Z,"New Ireland region, Papua New Guinea",earthquake,7.08,4.552,0.093,11,reviewed,us,us
