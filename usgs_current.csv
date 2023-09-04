@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T07:24:15.356Z,63.1626,-152.1655,12,1.1,ml,,,,0.82,ak,ak023bcm1xkv,2023-09-04T07:26:15.500Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-04T07:11:09.273Z,63.1025,-150.4633,86.7,1.4,ml,,,,0.45,ak,ak023bclz4sv,2023-09-04T07:13:14.030Z,"69 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-04T07:04:26.580Z,38.8219986,-122.8026657,3.27,0.42,md,9,97,0.005953,0.01,nc,nc73932866,2023-09-04T07:06:01.782Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.04,0.34,10,automatic,nc,nc
 2023-09-04T07:03:54.900Z,38.8453331,-122.8148346,1.42,1.34,md,24,51,0.01144,0.03,nc,nc73932861,2023-09-04T07:05:32.225Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.33,0.17,26,automatic,nc,nc
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T06:45:51.240Z,33.019,-116.3535,10.36,0.92,ml,17,87,0.06723,0.19,ci,ci39658074,2023-09-04T06:49:21.611Z,"24 km ESE of Julian, CA",earthquake,0.39,0.77,0.182,11,automatic,ci,ci
 2023-09-04T06:30:18.345Z,60.5219,-150.9513,48.6,1.5,ml,,,,0.47,ak,ak023bclhsi2,2023-09-04T06:32:27.383Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-04T06:24:43.640Z,18.3706,-68.8551,119,3.89,md,14,208,0.4949,0.47,pr,pr2023247003,2023-09-04T07:15:18.195Z,"Mona Passage",earthquake,3.71,1.96,0.13,12,reviewed,pr,pr
+2023-09-04T06:14:03.410Z,36.4648333,-121.0375,4.97,1.17,md,21,117,0.01906,0.11,nc,nc73932846,2023-09-04T07:27:47.778Z,"12 km SE of Pinnacles, CA",earthquake,0.31,0.4,0.123,13,reviewed,nc,nc
 2023-09-04T06:09:50.610Z,19.6371,-65.5166,12,3.75,md,14,259,1.3983,0.44,pr,pr2023247002,2023-09-04T06:48:36.587Z,"138 km NNE of Suárez, Puerto Rico",earthquake,3.36,5.22,0.11,14,reviewed,pr,pr
 2023-09-04T06:07:00.080Z,18.0115,-66.7323333333333,14.97,2.4,md,10,181,0.124,0.12,pr,pr71423593,2023-09-04T06:19:16.630Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.42,0.89,0.0845493883948394,6,reviewed,pr,pr
 2023-09-04T06:01:07.009Z,63.1361,-147.6525,8.6,1.2,ml,,,,1.06,ak,ak023bclbjpd,2023-09-04T06:03:39.137Z,"71 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -178,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:05:49.380Z,39.2808333,-123.1878333,7.9,1.37,md,19,59,0.1036,0.07,nc,nc73932526,2023-09-04T07:13:13.892Z,"2 km NE of Redwood Valley, CA",earthquake,0.18,0.63,0.159,19,reviewed,nc,nc
 2023-09-03T09:59:03.114Z,9.2036,93.8861,10,4.7,mb,54,136,6.649,0.48,us,us7000kt05,2023-09-04T07:14:53.462Z,"299 km SSE of Port Blair, India",earthquake,10.12,1.913,0.085,42,reviewed,us,us
 2023-09-03T09:52:13.610Z,37.3001667,-121.6165,6.1,0.94,md,25,46,0.04632,0.09,nc,nc73932521,2023-09-04T05:13:05.172Z,"19 km N of Morgan Hill, CA",earthquake,0.2,0.39,0.158,21,reviewed,nc,nc
-2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"2 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T11:11:55.718Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
 2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
 2023-09-03T09:22:56.900Z,18.109,-65.746,19.73,2.27,md,8,143,0.08968,0.14,pr,pr71423383,2023-09-03T10:00:06.410Z,"Puerto Rico region",earthquake,0.72,0.39,0.00390427148370698,5,reviewed,pr,pr
@@ -206,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T07:48:45.636Z,31.5855,-103.9267,5,2.7,mb_lg,24,65,0.057,0.27,us,us7000ksz2,2023-09-03T08:31:15.040Z,"32 km NNW of Toyah, Texas",earthquake,1.16,1.405,0.095,32,reviewed,us,us
 2023-09-03T07:40:32.990Z,37.1456667,-121.5396667,6.36,0.6,md,13,51,0.07085,0.14,nc,nc71131299,2023-09-04T05:03:31.104Z,"9 km NE of San Martin, CA",earthquake,0.44,1.04,0.208,12,reviewed,nc,nc
 2023-09-03T07:40:10.370Z,37.7836667,-122.5568333,7.23,1.09,md,27,151,0.0659,0.09,nc,nc73932481,2023-09-04T04:58:34.380Z,"8 km NW of San Francisco Zoo, CA",earthquake,0.31,0.43,0.165,22,reviewed,nc,nc
-2023-09-03T07:24:42.893Z,62.8848,-150.9072,100.9,3,ml,,,,0.55,ak,ak023bayin68,2023-09-03T10:04:56.470Z,"43 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
