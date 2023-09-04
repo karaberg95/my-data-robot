@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T21:08:45.562Z,61.8413,-150.6465,68.8,1.4,ml,,,,0.51,ak,ak023bb6rafg,2023-09-03T21:11:11.981Z,"33 km WNW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-03T21:05:02.280Z,35.5013333,-118.393,9.57,1.27,ml,18,66,0.1741,0.11,ci,ci39657946,2023-09-03T21:08:34.474Z,"13 km SE of Bodfish, CA",earthquake,0.2,0.98,0.097,11,automatic,ci,ci
 2023-09-03T21:03:50.570Z,32.6558333,-116.3106667,12.02,1.55,ml,28,97,0.1478,0.21,ci,ci39657938,2023-09-03T21:07:31.035Z,"16 km ENE of Campo, CA",earthquake,0.38,1.21,0.199,25,automatic,ci,ci
-2023-09-03T20:49:49.870Z,46.19316666666667,-122.19383333333333,4.55,0.13,ml,15,115,0.006931,0.1,uw,uw61956896,2023-09-04T04:07:07.360Z,"37 km NNE of Amboy, Washington",earthquake,0.46,0.5,0.151508782018349,7,reviewed,uw,uw
-2023-09-03T20:48:34.563Z,62.2229,-150.1203,23.7,1.3,ml,,,,0.18,ak,ak023bb6eem8,2023-09-03T20:50:01.667Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-03T20:48:29.320Z,35.7705002,-120.322998,7.76,1.65,md,28,103,0.014,0.06,nc,nc73932716,2023-09-03T22:08:12.812Z,"6 km NNW of Cholame, CA",earthquake,0.28,0.39,0.17,16,automatic,nc,nc
