@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-05T19:54:37.970Z,34.3779984,-117.2108307,5.37,1.24,ml,13,206,0.2472,0.37,ci,ci39658986,2023-09-05T19:58:08.821Z,"10 km ESE of Hesperia, CA",earthquake,1.97,12.56,0.439,7,automatic,ci,ci
+2023-09-05T19:50:34.890Z,19.1851673126221,-155.484664916992,29.4300003051758,1.82000005,md,38,82,,0.170000002,hv,hv73564192,2023-09-05T19:53:41.680Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.63,1.02999997,0.720000029,9,automatic,hv,hv
 2023-09-05T19:48:00.300Z,38.8079987,-122.8138351,3.34,0.26,md,7,102,0.01202,0.01,nc,nc73933476,2023-09-05T19:49:38.188Z,"6 km NW of The Geysers, CA",earthquake,0.43,1.15,0.03,7,automatic,nc,nc
 2023-09-05T19:43:58.090Z,38.8071671,-122.8134995,3.16,1.02,md,19,58,0.01237,0.03,nc,nc73933471,2023-09-05T19:45:33.331Z,"6 km NW of The Geysers, CA",earthquake,0.31,0.44,0.26,18,automatic,nc,nc
 2023-09-05T19:42:30.690Z,35.7953333,-117.5728333,1.53,0.97,ml,13,166,0.1567,0.23,ci,ci39658978,2023-09-05T19:46:07.764Z,"16 km WNW of Searles Valley, CA",earthquake,0.63,0.53,0.045,5,automatic,ci,ci
@@ -35,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T15:22:28.234Z,61.8057,-150.2784,29.3,1.6,ml,,,,0.31,ak,ak023beeccgq,2023-09-05T15:24:27.243Z,"14 km WNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-05T15:10:39.760Z,38.8273315,-122.80233,1.8,0.69,md,12,65,0.007214,0.01,nc,nc73933376,2023-09-05T15:12:12.837Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.97,0.08,13,automatic,nc,nc
 2023-09-05T15:10:33.040Z,38.7725,-122.7116667,1.91,0.36,md,18,65,0.007861,0.04,nc,nc73933371,2023-09-05T19:38:02.626Z,"2 km W of Anderson Springs, CA",earthquake,0.24,0.38,0.175,14,reviewed,nc,nc
-2023-09-05T15:10:24.720Z,38.7723333,-122.7093333,2.06,0.35,md,12,71,0.006354,0.02,nc,nc71131304,2023-09-05T19:40:33.883Z,"2 km W of Anderson Springs, CA",earthquake,0.45,0.67,0.232,5,reviewed,nc,nc
+2023-09-05T15:10:24.720Z,38.7723333,-122.7093333,2.06,0.35,md,12,71,0.006354,0.02,nc,nc71131304,2023-09-05T19:54:15.470Z,"2 km W of Anderson Springs, CA",earthquake,0.45,0.67,0.232,5,reviewed,nc,nc
 2023-09-05T15:09:38.186Z,37.632,-115.5829,0,1.5,ml,32,108.22,0.131,0.205,nn,nn00865433,2023-09-05T17:58:24.182Z,"14 km E of Rachel, Nevada",earthquake,,0,0.19,20,reviewed,nn,nn
 2023-09-05T15:03:17.142Z,-5.3239,142.8832,53.627,5.8,mww,167,15,3.538,0.75,us,us7000ktef,2023-09-05T18:25:00.956Z,"33 km WNW of Porgera, Papua New Guinea",earthquake,7.83,3.794,0.061,26,reviewed,us,us
 2023-09-05T14:58:03.886Z,2.5554,95.8525,24.275,5,mb,64,110,2.124,0.63,us,us7000ktee,2023-09-05T15:31:15.040Z,"59 km W of Sinabang, Indonesia",earthquake,8.89,4.595,0.074,58,reviewed,us,us
@@ -192,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T01:13:16.880Z,38.8209991,-122.786499,1.83,0.69,md,11,81,0.008965,0.04,nc,nc73933216,2023-09-05T01:42:15.166Z,"6 km W of Cobb, CA",earthquake,0.36,0.85,0.25,12,automatic,nc,nc
 2023-09-05T01:11:37.940Z,38.7725,-122.7356667,1.33,0.28,md,13,66,0.01075,0.03,nc,nc73933211,2023-09-05T19:05:28.617Z,"2 km ESE of The Geysers, CA",earthquake,0.29,0.35,0.154,7,reviewed,nc,nc
 2023-09-05T01:06:56.630Z,19.371,-155.280833333333,5.07,0.55,md,16,162,,0.06,hv,hv73562557,2023-09-05T03:44:41.710Z,"9 km SSW of Volcano, Hawaii",earthquake,0.63,0.54,0.208351533012639,3,reviewed,hv,hv
-2023-09-05T00:58:32.250Z,37.0411666666667,-88.9761666666667,15.44,1.65,md,22,88,0.2655,0.14,nm,nm60548891,2023-09-05T19:46:01.745Z,"Illinois-Kentucky border region",earthquake,0.31,1.25,0.0575784855490118,14,reviewed,nm,nm
+2023-09-05T00:58:32.250Z,37.0411666666667,-88.9761666666667,15.44,1.65,md,22,88,0.2655,0.14,nm,nm60548891,2023-09-05T19:51:03.392Z,"Illinois-Kentucky border region",earthquake,0.31,1.25,0.0575784855490118,14,reviewed,nm,nm
 2023-09-05T00:55:24.251Z,-23.9441,175.472,12.047,5.7,mww,116,25,6.623,0.48,us,us7000ktai,2023-09-05T02:58:38.545Z,"south of the Fiji Islands",earthquake,3.4,3.64,0.049,40,reviewed,us,us
 2023-09-05T00:54:30.378Z,-4.7339,141.3112,10.71,4.9,mb,54,72,2.287,0.47,us,us7000ktaj,2023-09-05T01:26:41.040Z,"153 km N of Kiunga, Papua New Guinea",earthquake,5.87,4.228,0.072,61,reviewed,us,us
 2023-09-05T00:52:21.520Z,19.1366672515869,-155.376663208008,28.3299999237061,2.51,ml,51,184,,0.140000001,hv,hv73562527,2023-09-05T03:15:58.040Z,"12 km SE of Pāhala, Hawaii",earthquake,0.52,0.730000019,2.8,27,automatic,hv,hv
@@ -250,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T20:13:08.991Z,37.1944,-117.5522,10,0.7,ml,7,154.17,0.084,0.0689,nn,nn00865413,2023-09-05T18:13:59.377Z,"62 km S of Silver Peak, Nevada",earthquake,,2.1,0.24,4,reviewed,nn,nn
 2023-09-04T20:01:35.097Z,51.7962,-167.9039,4.488,4,mb,49,177,1.314,0.98,us,us7000kt8f,2023-09-05T17:39:46.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,8.83,8.636,0.087,36,reviewed,us,us
 2023-09-04T19:59:59.486Z,31.6315,-104.4332,5,2.5,ml,25,87,0.069,0.49,us,us7000kt8c,2023-09-05T17:11:49.040Z,"60 km S of Whites City, New Mexico",earthquake,1.71,1.906,0.091,50,reviewed,us,us
-2023-09-04T19:57:37.688Z,28.6472,52.0481,10,4.2,mb,37,206,8.919,0.69,us,us7000kt8d,2023-09-05T16:56:29.040Z,"55 km WSW of Fīrūzābād, Iran",earthquake,6.38,1.965,0.103,26,reviewed,us,us
