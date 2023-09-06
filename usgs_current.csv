@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T10:31:38.660Z,33.4669991,-116.5568314,9.23,1.74,ml,16,110,0.04692,0.06,ci,ci39659346,2023-09-06T10:33:45.227Z,"15 km SE of Anza, CA",earthquake,0.44,0.77,0.564,5,automatic,ci,ci
+2023-09-06T10:31:38.490Z,38.7751656,-122.7188339,7.28,0.91,md,7,86,0.01435,0.02,nc,nc73933681,2023-09-06T10:33:13.254Z,"2 km W of Anderson Springs, CA",earthquake,1.27,3.7,0.45,7,automatic,nc,nc
+2023-09-06T10:29:20.160Z,35.6851667,-117.534,1.85,1.16,ml,18,133,0.092,0.25,ci,ci39659338,2023-09-06T10:32:47.731Z,"15 km ENE of Ridgecrest, CA",earthquake,0.61,0.86,0.165,11,automatic,ci,ci
 2023-09-06T10:05:54.850Z,38.8208351,-122.8148346,3.09,0.86,md,8,141,0.01638,0.03,nc,nc73933671,2023-09-06T10:07:28.699Z,"7 km NW of The Geysers, CA",earthquake,0.75,0.76,0.22,9,automatic,nc,nc
 2023-09-06T10:05:38.640Z,38.8291664,-122.8043365,2.58,0.75,md,16,53,0.0073,0.06,nc,nc73933666,2023-09-06T10:23:17.590Z,"7 km W of Cobb, CA",earthquake,0.31,0.67,0.28,17,automatic,nc,nc
 2023-09-06T09:54:17.840Z,19.1515,-64.476,81,3.87,md,7,306,0.9324,0.27,pr,pr2023249004,2023-09-06T10:21:08.826Z,"96 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.39,12,0.09,6,reviewed,pr,pr
@@ -217,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T10:50:01.213Z,47.1251,-129.3293,10,3.1,ml,21,169,0.813,0.57,us,us7000ktda,2023-09-06T09:14:47.040Z,"off the coast of Washington",earthquake,6.13,2.006,0.048,56,reviewed,us,us
 2023-09-05T10:44:42.829Z,36.7252,-116.0748,2.7,-0.4,ml,13,87.78,0.029,0.1244,nn,nn00865448,2023-09-05T22:12:35.706Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.18,7,reviewed,nn,nn
 2023-09-05T10:38:35.853Z,60.6103,-151.2044,60.7,3.7,ml,,,,0.77,ak,ak023bebgmhd,2023-09-05T17:46:03.497Z,"6 km E of Salamatof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-09-05T10:34:10.870Z,46.85333333333333,-121.7575,1.18,0.45,ml,18,73,0.02443,0.08,uw,uw61957321,2023-09-05T17:07:22.660Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.36,0.3468645010138516,8,reviewed,uw,uw
