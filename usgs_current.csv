@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T06:38:46.869Z,35.33016667,-97.9435,7.17,1.82,ml,88,51,0.0638874631,0.23,ok,ok2023rlpx,2023-09-06T12:42:18.558Z,"Oklahoma",earthquake,,0.3,0.26,42,reviewed,ok,ok
 2023-09-06T06:34:43.880Z,43.3175,-110.6245,4.6,1.38,ml,11,211,0.1708,0.14,mb,mb90026448,2023-09-06T19:10:49.500Z,"13 km ENE of Hoback, Wyoming",earthquake,0.9,1.76,0.265997305769119,10,reviewed,mb,mb
 2023-09-06T06:13:08.100Z,38.8328323,-122.817337,1.72,0.59,md,9,87,0.011,0.02,nc,nc73933601,2023-09-06T06:14:41.697Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.79,0.38,9,automatic,nc,nc
-2023-09-06T06:02:57.810Z,33.1778333,-116.4065,11.88,0.62,ml,13,81,0.09056,0.27,ci,ci39659282,2023-09-06T06:06:30.885Z,"9 km SSW of Borrego Springs, CA",earthquake,0.65,1.65,0.154,8,automatic,ci,ci
+2023-09-06T06:02:57.740Z,33.1798333,-116.3978333,12.42,0.66,ml,25,51,0.0896,0.19,ci,ci39659282,2023-09-06T22:28:18.662Z,"9 km SSW of Borrego Springs, CA",earthquake,0.29,0.77,0.127,12,reviewed,ci,ci
 2023-09-06T05:47:17.770Z,38.8326683,-122.8171692,1.57,0.8,md,8,70,0.01548,0.01,nc,nc73933596,2023-09-06T05:48:52.385Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.49,0.22,8,automatic,nc,nc
 2023-09-06T05:37:59.800Z,18.9126,-64.7488,40,4.06,md,20,226,0.5975,0.38,pr,pr2023249000,2023-09-06T06:16:27.494Z,"64 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.86,8.68,0.14,16,reviewed,pr,pr
 2023-09-06T05:34:36.750Z,17.8203333333333,-66.1925,6.65,2.38,md,7,218,0.1658,0.31,pr,pr71423898,2023-09-06T05:47:03.790Z,"Puerto Rico region",earthquake,1.06,0.84,0.113369949733264,6,reviewed,pr,pr
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T22:54:49.640Z,19.3915,-155.2765,1.68,1.88,ml,32,50,,0.11,hv,hv73564462,2023-09-06T21:43:09.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.19086767356969,13,reviewed,hv,hv
 2023-09-05T22:42:13.660Z,19.2573337554932,-155.393005371094,29.5599994659424,1.96,ml,32,130,,0.140000001,hv,hv73564447,2023-09-05T22:47:45.340Z,"10 km NE of Pāhala, Hawaii",earthquake,0.69,1.04999995,3.62,6,automatic,hv,hv
 2023-09-05T22:38:55.780Z,33.542,-116.5588333,14.75,1.04,ml,39,44,0.02792,0.13,ci,ci39659130,2023-09-06T20:43:07.990Z,"11 km E of Anza, CA",earthquake,0.16,0.26,0.206,25,reviewed,ci,ci
-2023-09-05T22:26:58.110Z,41.5291667,-112.684,1.85,0.99,md,12,141,0.2225,0.2,uu,uu60549267,2023-09-05T22:59:47.610Z,"35 km SW of Howell, Utah",earthquake,0.7,11.42,0.138,6,reviewed,uu,uu
