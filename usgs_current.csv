@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T04:30:49.960Z,31.73209265,-104.094982,6.632873535,2.8,ml,36,66,0.03134506905,0.2,tx,tx2023rlls,2023-09-06T13:43:01.186Z,"47 km W of Mentone, Texas",earthquake,0.4161967978,0.4488458372,0.2,18,reviewed,tx,tx
 2023-09-06T04:30:14.279Z,59.2228,-153.4925,102.3,1.7,ml,,,,0.46,ak,ak023bfvdlyr,2023-09-06T04:32:33.473Z,"67 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T04:26:25.828Z,61.0536,-154.4497,6.6,1.7,ml,,,,0.41,ak,ak023bfvcrzq,2023-09-06T04:28:24.835Z,"62 km ESE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-06T04:17:38.712Z,65.0065,-151.7931,12.3,1.2,ml,,,,0.25,ak,ak023bfvavjj,2023-09-06T04:19:42.932Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-06T04:17:38.712Z,65.0065,-151.7931,12.3,1.2,ml,,,,0.25,ak,ak023bfvavjj,2023-09-06T04:19:42.932Z,"22 km SE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T04:12:03.976Z,61.6223,-146.3233,35.8,2.1,ml,,,,0.61,ak,ak023bfv9qa5,2023-09-06T04:13:36.345Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-06T04:11:20.140Z,33.3513333,-117.9876667,19.19,1.55,ml,20,164,0.3611,0.22,ci,ci39659250,2023-09-06T04:15:02.573Z,"28 km SW of Laguna Beach, CA",earthquake,0.74,1.42,0.186,21,automatic,ci,ci
 2023-09-06T04:07:54.820Z,38.7911667,-122.779,1.94,-0.07,md,17,80,0.007253,0.02,nc,nc73933566,2023-09-06T05:49:33.798Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.38,0.206,16,reviewed,nc,nc
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T15:42:20.867Z,-5.4455,34.9428,10,5.2,mww,54,56,4.355,0.56,us,us7000ktfe,2023-09-06T12:18:08.112Z,"39 km SSE of Ikungi, Tanzania",earthquake,9.02,1.866,0.093,11,reviewed,us,us
 2023-09-05T15:36:21.980Z,33.2348333,-116.7718333,14.21,1.13,ml,35,30,0.01102,0.14,ci,ci39658730,2023-09-05T15:47:17.243Z,"1 km SW of Lake Henshaw, CA",earthquake,0.21,0.45,0.141,25,automatic,ci,ci
 2023-09-05T15:28:00.950Z,35.901,-117.7463333,8.78,1.29,ml,13,151,0.07541,0.16,ci,ci39658714,2023-09-05T15:31:34.291Z,"15 km ESE of Little Lake, CA",earthquake,0.54,0.92,0.122,7,automatic,ci,ci
-2023-09-05T15:22:28.234Z,61.8057,-150.2784,29.3,1.6,ml,,,,0.31,ak,ak023beeccgq,2023-09-05T15:24:27.243Z,"14 km WNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
