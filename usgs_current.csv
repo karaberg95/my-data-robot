@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T23:30:28.000Z,33.7773333,-117.0941667,0.46,0.76,ml,11,162,0.06624,0.37,ci,ci39660066,2023-09-06T23:34:00.685Z,"5 km NNW of Green Acres, CA",earthquake,1.27,31.61,0.181,15,automatic,ci,ci
 2023-09-06T23:18:24.620Z,33.429,-116.4223333,9.61,0.7,ml,20,130,0.09419,0.18,ci,ci39660058,2023-09-06T23:21:54.801Z,"20 km NNW of Borrego Springs, CA",earthquake,0.33,0.88,0.119,15,automatic,ci,ci
 2023-09-06T23:17:57.740Z,33.4288333,-116.4215,11.74,0.73,ml,23,101,0.09438,0.18,ci,ci39660050,2023-09-06T23:21:36.192Z,"20 km NNW of Borrego Springs, CA",earthquake,0.33,0.9,0.136,18,automatic,ci,ci
+2023-09-06T23:11:31.410Z,-17.9261,-178.5194,580.727,4.3,mb,43,85,3.27,0.51,us,us7000ktt2,2023-09-06T23:30:10.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,7.873,0.091,34,reviewed,us,us
 2023-09-06T23:04:42.678Z,61.3426,-147.0887,19.1,1.9,ml,,,,0.47,ak,ak023bg6jc17,2023-09-06T23:06:15.249Z,"46 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T22:59:15.018Z,63.9662,-149.5119,0,1.8,ml,,,,0.67,ak,ak023bg69mod,2023-09-06T23:00:52.958Z,"20 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T22:42:23.710Z,19.0698,-66.7621,52,3.64,md,19,196,0.6962,0.35,pr,pr2023249005,2023-09-06T23:25:02.504Z,"64 km N of Hatillo, Puerto Rico",earthquake,2.18,7.12,0.1,14,reviewed,pr,pr
