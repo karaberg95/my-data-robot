@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-07T20:37:25.020Z,33.6921667,-117.1446667,2.4,1.08,ml,20,93,0.1179,0.27,ci,ci39660818,2023-09-07T20:40:58.027Z,"4 km S of Menifee, CA",earthquake,0.62,0.93,0.27,25,automatic,ci,ci
+2023-09-07T20:40:41.240Z,19.1790008544922,-155.495834350586,30.5200004577637,1.99000001,md,30,94,,0.129999995,hv,hv73568307,2023-09-07T20:43:51.670Z,"3 km SW of Pāhala, Hawaii",earthquake,0.67,0.939999998,1.05999994,16,automatic,hv,hv
+2023-09-07T20:37:25.020Z,33.6921667,-117.1446667,2.4,1.08,ml,20,93,0.1179,0.27,ci,ci39660818,2023-09-07T20:48:11.068Z,"4 km S of Menifee, CA",earthquake,0.62,0.93,0.27,25,automatic,ci,ci
 2023-09-07T20:15:16.618Z,60.0298,-152.3037,66.6,1.7,ml,,,,0.29,ak,ak023bhscokt,2023-09-07T20:17:03.533Z,"33 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-07T20:14:07.850Z,33.9771667,-116.6908333,19.34,1.03,ml,22,68,0.07081,0.18,ci,ci39660794,2023-09-07T20:17:42.395Z,"11 km NE of Cabazon, CA",earthquake,0.35,0.8,0.15,23,automatic,ci,ci
 2023-09-07T19:49:24.830Z,17.9461666666667,-66.804,13.74,2.47,md,6,214,0.07718,0.06,pr,pr71424083,2023-09-07T20:10:34.810Z,"Puerto Rico region",earthquake,0.95,0.5,0.0454730246848198,4,reviewed,pr,pr
@@ -73,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T10:20:40.942Z,57.1731,-155.0531,21,1.9,ml,,,,0.31,ak,ak023bhmfhce,2023-09-07T13:06:34.508Z,"Alaska Peninsula",earthquake,,4,,,reviewed,ak,ak
 2023-09-07T10:16:23.030Z,34.6846667,-118.0316667,6.65,0.57,ml,15,86,0.05189,0.1,ci,ci39660242,2023-09-07T15:32:06.541Z,"11 km E of Lancaster, CA",earthquake,0.21,0.49,0.102,8,reviewed,ci,ci
 2023-09-07T10:10:05.180Z,34.0365,-117.1448333,5.8,0.77,ml,26,119,0.02694,0.11,ci,ci39660234,2023-09-07T15:24:15.916Z,"4 km SSW of Mentone, CA",earthquake,0.16,0.33,0.215,11,reviewed,ci,ci
+2023-09-07T10:08:38.750Z,60.0416666666667,-153.06,4.96,-0.61,ml,5,146,,0.19,av,av92033681,2023-09-07T20:44:06.490Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.65,1.64,0.224033282300202,5,reviewed,av,av
 2023-09-07T10:04:01.520Z,38.4823333,-112.845,0.39,-0.22,md,8,192,0.01106,0.08,uu,uu60549412,2023-09-07T13:31:28.220Z,"17 km ENE of Milford, Utah",earthquake,0.66,0.84,0.434,3,reviewed,uu,uu
 2023-09-07T10:02:55.290Z,36.0838333,-117.8946667,-0.49,1.16,ml,10,179,0.04662,0.13,ci,ci39660226,2023-09-07T13:29:48.187Z,"6 km NE of Coso Junction, CA",earthquake,0.36,31.61,0.159,9,reviewed,ci,ci
 2023-09-07T09:49:25.240Z,58.2433333333333,-155.124833333333,3.61,-0.16,ml,9,80,,0.26,av,av92033646,2023-09-07T20:29:22.830Z,"84 km NNW of Karluk, Alaska",earthquake,0.47,1.16,0.23916042779841,9,reviewed,av,av
@@ -225,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T21:17:59.410Z,38.8230019,-122.8056641,2.1,0.77,md,10,74,0.003467,0.07,nc,nc73933866,2023-09-06T21:38:21.278Z,"7 km NW of The Geysers, CA",earthquake,0.46,1.32,0.09,11,automatic,nc,nc
 2023-09-06T21:16:58.760Z,58.19,-155.322333333333,1.77,0.41,ml,8,101,,0.06,av,av92032826,2023-09-07T04:53:00.870Z,"86 km NW of Karluk, Alaska",earthquake,0.2,0.35,0.35110991589914,8,reviewed,av,av
 2023-09-06T20:56:35.970Z,54.5221666666667,-164.678833333333,10.19,0.1,ml,4,106,,0.24,av,av91115113,2023-09-07T04:49:14.020Z,"Unimak Island region, Alaska",earthquake,1.06,2.17,0.279483037881278,4,reviewed,av,av
-2023-09-06T20:50:09.870Z,44.6876666666667,-114.372833333333,4.36,1.8,ml,14,108,0.5362,0.26,mb,mb90026488,2023-09-06T21:32:35.640Z,"23 km NNW of Challis, Idaho",earthquake,0.73,1.56,0.314330417791596,12,reviewed,mb,mb
-2023-09-06T20:48:27.750Z,34.5395,-119.985,-0.56,0.98,ml,6,115,0.01295,0.12,ci,ci39659914,2023-09-07T00:59:56.518Z,"12 km SE of Santa Ynez, CA",quarry blast,0.52,31.61,0.156,5,reviewed,ci,ci
