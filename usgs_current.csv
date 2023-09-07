@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-07T23:37:06.340Z,38.8468323,-122.8174973,1.43,0.61,md,8,127,0.009054,0.02,nc,nc73934426,2023-09-07T23:38:41.517Z,"9 km WNW of Cobb, CA",earthquake,0.42,0.85,0.2,9,automatic,nc,nc
-2023-09-07T23:31:35.020Z,39.4893341,-121.7994995,16.8,2.66,ml,5,170,0.2034,0.01,nc,nc73934421,2023-09-07T23:39:16.459Z,"11 km NW of Biggs, CA",earthquake,1.33,3.53,1.251,4,automatic,nc,nc
-2023-09-07T23:30:10.850Z,39.4718323,-122.5343323,2.36,2.9,md,6,152,0.3599,0.34,nc,nc73934416,2023-09-07T23:39:15.459Z,"13 km S of Stony Gorge Reservoir, CA",earthquake,5.02,23.92,0.15,4,automatic,nc,nc
+2023-09-07T23:31:35.020Z,39.4893341,-121.7994995,16.8,2.66,ml,5,170,0.2034,0.01,nc,nc73934421,2023-09-07T23:40:12.464Z,"11 km NW of Biggs, CA",earthquake,1.33,3.53,1.251,4,automatic,nc,nc
+2023-09-07T23:30:10.850Z,39.4718323,-122.5343323,2.36,2.9,md,6,152,0.3599,0.34,nc,nc73934416,2023-09-07T23:40:12.640Z,"13 km S of Stony Gorge Reservoir, CA",earthquake,5.02,23.92,0.15,4,automatic,nc,nc
+2023-09-07T23:27:03.296Z,-31.304,-177.6233,10,4.9,mb,17,137,2.051,0.72,us,us7000ku28,2023-09-07T23:45:54.040Z,"Kermadec Islands region",earthquake,8.38,1.909,0.155,13,reviewed,us,us
 2023-09-07T23:18:58.430Z,33.6723333,-116.7745,15.5,1.05,ml,37,42,0.06349,0.18,ci,ci39660922,2023-09-07T23:22:27.984Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.42,0.183,26,automatic,ci,ci
 2023-09-07T23:07:47.944Z,56.2251,163.7617,10,4.8,mb,82,73,4.372,0.64,us,us7000ku23,2023-09-07T23:37:01.040Z,"79 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.56,1.849,0.037,225,reviewed,us,us
 2023-09-07T23:02:17.459Z,56.2452,163.9004,10,5,mb,100,71,4.441,0.78,us,us7000ku1x,2023-09-07T23:23:02.040Z,"88 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,9.03,1.784,0.027,434,reviewed,us,us
