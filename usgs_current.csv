@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-08T05:11:20.420Z,33.6916667,-116.8075,15.57,0.78,ml,19,49,0.07009,0.2,ci,ci39661002,2023-09-08T05:14:59.332Z,"10 km WSW of Idyllwild, CA",earthquake,0.43,0.75,0.121,14,automatic,ci,ci
+2023-09-08T05:08:42.790Z,19.3688335418701,-155.287170410156,1.13999998569489,1.7,ml,16,119,,0.129999995,hv,hv73569022,2023-09-08T05:14:15.270Z,"9 km SW of Volcano, Hawaii",earthquake,0.24,0.310000002,0.23,3,automatic,hv,hv
 2023-09-08T04:49:14.374Z,64.7001,-149.6033,14.5,0.9,ml,,,,0.75,ak,ak023bj6kdkd,2023-09-08T04:52:03.625Z,"25 km WNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-08T04:48:23.636Z,59.9982,-153.0166,108.3,1.5,ml,,,,0.31,ak,ak023bj6k6kb,2023-09-08T04:50:06.520Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-08T04:32:00.910Z,38.8120003,-122.8274994,1.75,1.89,md,36,44,0.003392,0.05,nc,nc73934486,2023-09-08T05:09:14.404Z,"7 km WNW of The Geysers, CA",earthquake,0.17,0.25,0.13,36,automatic,nc,nc
@@ -37,7 +39,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T23:37:06.340Z,38.8468323,-122.8174973,1.43,0.61,md,8,127,0.009054,0.02,nc,nc73934426,2023-09-07T23:55:13.567Z,"9 km WNW of Cobb, CA",earthquake,0.42,0.85,0.2,9,automatic,nc,nc
 2023-09-07T23:35:53.360Z,18.3641666666667,-66.3693333333333,120.8,3.31,md,6,224,0.04559,0.09,pr,pr71424088,2023-09-08T03:57:11.559Z,"Puerto Rico region",earthquake,2.45,0.83,0.0305771554547727,3,reviewed,pr,pr
 2023-09-07T23:31:35.020Z,39.4893341,-121.7994995,16.8,2.66,ml,5,170,0.2034,0.01,nc,nc73934421,2023-09-08T01:15:14.077Z,"11 km NW of Biggs, CA",earthquake,1.33,3.53,1.251,4,automatic,nc,nc
-2023-09-07T23:30:10.850Z,39.4718323,-122.5343323,2.36,2.9,md,6,152,0.3599,0.34,nc,nc73934416,2023-09-08T00:59:19.116Z,"13 km S of Stony Gorge Reservoir, CA",earthquake,5.02,23.92,0.15,4,automatic,nc,nc
 2023-09-07T23:27:03.296Z,-31.304,-177.6233,10,4.9,mb,17,137,2.051,0.72,us,us7000ku28,2023-09-07T23:45:54.040Z,"Kermadec Islands region",earthquake,8.38,1.909,0.155,13,reviewed,us,us
 2023-09-07T23:22:05.480Z,1.8914,-101.7984,10,4.6,mb,43,243,16.841,0.35,us,us7000ku29,2023-09-07T23:58:33.040Z,"Galapagos Triple Junction region",earthquake,13.01,1.976,0.054,103,reviewed,us,us
 2023-09-07T23:18:58.340Z,33.6686667,-116.771,15.89,0.98,ml,31,61,0.06358,0.09,ci,ci39660922,2023-09-08T00:31:24.630Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.25,0.151,23,reviewed,ci,ci
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T18:25:15.750Z,58.1901666666667,-155.29,2.01,0.27,ml,7,146,,0.07,av,av92034361,2023-09-08T00:35:26.610Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.42,0.289305145177255,7,reviewed,av,av
 2023-09-07T18:16:23.390Z,35.8733333,-117.6816667,5.87,1.36,ml,21,115,0.09354,0.15,ci,ci39660626,2023-09-07T18:24:14.737Z,"22 km ESE of Little Lake, CA",earthquake,0.26,0.72,0.146,6,reviewed,ci,ci
 2023-09-07T18:14:39.700Z,51.8595,-177.937,5.52,0.03,ml,4,204,,0.16,av,av92034341,2023-09-07T23:06:18.820Z,"89 km W of Adak, Alaska",earthquake,0.75,1.73,0.519452885767298,4,reviewed,av,av
-2023-09-07T18:12:38.440Z,40.9138333,-127.203,10,2.87,ml,18,310,2.222,0.23,nc,nc73934286,2023-09-08T04:56:14.342Z,"250 km W of Ferndale, CA",earthquake,2.44,31.61,0.131,3,reviewed,nc,nc
+2023-09-07T18:12:38.440Z,40.9138333,-127.203,10,2.87,ml,18,310,2.222,0.23,nc,nc73934286,2023-09-08T05:11:11.413Z,"250 km W of Ferndale, CA",earthquake,2.44,31.61,0.131,3,reviewed,nc,nc
 2023-09-07T18:04:16.796Z,62.2635,-148.4687,24.7,1.1,ml,,,,0.13,ak,ak023bhr3gi7,2023-09-07T18:05:52.738Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-07T17:57:58.855Z,57.8513,-153.5363,51.7,1.7,ml,,,,0.14,ak,ak023bhqtkuj,2023-09-07T20:39:54.774Z,"38 km W of Port Lions, Alaska",earthquake,,2.8,,,reviewed,ak,ak
 2023-09-07T17:52:20.316Z,62.3889,-151.4103,94.6,2,ml,,,,0.2,ak,ak023bhqsbjj,2023-09-07T17:54:02.345Z,"35 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
