@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-08T10:35:44.180Z,19.3854999542236,-155.275497436523,1.25999999046326,1.92,ml,22,59,,0.129999995,hv,hv73569387,2023-09-08T10:41:15.680Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.25,11,automatic,hv,hv
+2023-09-08T10:33:43.150Z,38.8283348,-122.8099976,1.44,0.92,md,14,42,0.004933,0.02,nc,nc73934541,2023-09-08T10:35:21.977Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.73,0.18,15,automatic,nc,nc
 2023-09-08T10:21:15.066Z,63.4411,-147.6559,14.7,1.4,ml,,,,0.68,ak,ak023bj9yz76,2023-09-08T10:22:56.805Z,"64 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-08T10:06:07.180Z,36.1135,-117.9483333,7.45,0.85,ml,11,149,0.0758,0.13,ci,ci39661106,2023-09-08T10:09:35.863Z,"8 km N of Coso Junction, CA",earthquake,0.46,1.13,0.058,5,automatic,ci,ci
 2023-09-08T10:00:03.846Z,62.6164,-149.3467,48.3,1.5,ml,,,,0.52,ak,ak023bj9ugao,2023-09-08T10:02:05.822Z,"43 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
