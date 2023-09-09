@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-09T20:40:35.680Z,36.0221667,-117.844,-0.13,1.38,ml,11,138,0.04879,0.11,ci,ci39662042,2023-09-09T20:44:14.417Z,"10 km ESE of Coso Junction, CA",earthquake,0.3,31.61,0.18,9,automatic,ci,ci
+2023-09-09T20:34:46.370Z,19.3911666870117,-155.274505615234,1.58000004291534,2.17,ml,23,59,,0.159999996,hv,hv73572507,2023-09-09T20:40:19.780Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.3,10,automatic,hv,hv
 2023-09-09T20:24:13.860Z,19.3336658477783,-155.191665649414,1.70000004768372,1.91,ml,41,108,,0.159999996,hv,hv73572482,2023-09-09T20:29:44.890Z,"12 km SSE of Volcano, Hawaii",earthquake,0.32,0.49000001,2.12,18,automatic,hv,hv
 2023-09-09T20:16:04.740Z,17.9758333333333,-66.8478333333333,13.14,2.5,md,8,194,0.05799,0.14,pr,pr71424313,2023-09-09T20:26:57.570Z,"3 km SW of Indios, Puerto Rico",earthquake,0.78,0.56,0.0293251225645985,5,reviewed,pr,pr
 2023-09-09T20:14:07.625Z,57.9351,-154.8575,16.3,0.9,ml,,,,0.24,ak,ak023bl3f55m,2023-09-09T20:21:02.657Z,"Kodiak Island region, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -192,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"Alaska Peninsula",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T20:33:48.777Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
+2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T20:39:08.798Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"48 km NNE of Tarama, Japan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
 2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
@@ -207,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T20:47:15.150Z,40.9641667,-121.5641667,14.25,1.94,md,27,36,0.09621,0.08,nc,nc73934806,2023-09-09T11:32:12.932Z,"11 km WSW of Fall River Mills, CA",earthquake,0.22,0.6,0.216,28,reviewed,nc,nc
 2023-09-08T20:46:17.871Z,64.3853,-148.3124,4.5,2,ml,,,,0.74,ak,ak023bjg2odi,2023-09-08T20:48:49.937Z,"42 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-08T20:45:50.734Z,-1.6723,-78.0946,164.39,4.4,mb,135,56,0.192,1.17,us,us7000kuel,2023-09-09T14:31:53.040Z,"Ecuador",earthquake,4.19,4.923,0.045,147,reviewed,us,us
-2023-09-08T20:41:10.560Z,54.7256666666667,-163.935166666667,-0.95,1.02,ml,7,121,,0.16,av,av91115363,2023-09-09T02:40:10.160Z,"36 km WSW of False Pass, Alaska",earthquake,0.39,0.45,0.442452249430622,7,reviewed,av,av
-2023-09-08T20:41:00.950Z,38.7928352,-122.7594986,2.84,0.91,md,10,131,0.02021,0.02,nc,nc73934801,2023-09-08T20:42:37.615Z,"2 km N of The Geysers, CA",earthquake,0.37,0.74,0.18,10,automatic,nc,nc
-2023-09-08T20:37:00.180Z,47.73616666666667,-122.55666666666667,33.18,1.27,ml,18,74,0.05512,0.29,uw,uw61958281,2023-09-09T00:34:57.970Z,"Seattle-Tacoma urban area, Washington",earthquake,0.69,1.01,0.11998037683227247,7,reviewed,uw,uw
