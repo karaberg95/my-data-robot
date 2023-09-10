@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T17:13:00.530Z,35.3398333,-117.4995,7.19,1.07,ml,20,104,0.2042,0.16,ci,ci39661970,2023-09-09T17:16:37.493Z,"13 km ESE of Johannesburg, CA",earthquake,0.34,13.96,0.174,11,automatic,ci,ci
 2023-09-09T16:44:33.570Z,19.3864994049072,-155.279495239258,1.28999996185303,2.26,ml,31,63,,0.140000001,hv,hv73572042,2023-09-09T16:50:04.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.230000004,0.31,10,automatic,hv,hv
 2023-09-09T16:37:33.698Z,-24.404,-176.2719,11.872,4.6,mb,47,78,3.367,1.06,us,us7000kumk,2023-09-09T17:26:39.040Z,"south of the Fiji Islands",earthquake,9.8,2.771,0.107,30,reviewed,us,us
-2023-09-09T16:27:51.194Z,36.4398,-117.0575,12.2,1.9,ml,20,88.85,0.159,0.1539,nn,nn00865653,2023-09-09T18:59:51.415Z,"18 km W of Furnace Creek, California",earthquake,,2.1,0.65,8,reviewed,nn,nn
