@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T11:34:32.002Z,10.7735,-62.403,80.472,4.7,mb,77,72,3.646,0.51,us,us7000kut1,2023-09-10T11:56:41.040Z,"24 km NNW of Güiria, Venezuela",earthquake,9.05,7.489,0.035,251,reviewed,us,us
 2023-09-10T11:08:13.177Z,-21.5675,-68.426,131.917,4.2,mb,15,106,1.119,0.24,us,us7000kusz,2023-09-10T11:42:19.040Z,"41 km SSW of Ollagüe, Chile",earthquake,7.57,8.658,0.236,5,reviewed,us,us
 2023-09-10T11:04:26.189Z,58.163,-155.3842,1.1,0.6,ml,,,,0.52,ak,ak023bmljhh6,2023-09-10T11:06:06.211Z,"86 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-09-10T10:58:03.290Z,34.5768333,-116.2591667,2.37,1.44,ml,14,95,0.1382,0.13,ci,ci39662242,2023-09-10T11:01:32.685Z,"18 km SSW of Ludlow, CA",earthquake,0.36,1.67,0.14,21,automatic,ci,ci
@@ -184,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T12:09:39.890Z,33.3786667,-116.329,4.87,0.62,ml,12,191,0.1326,0.2,ci,ci39661858,2023-09-09T12:13:11.658Z,"14 km NNE of Borrego Springs, CA",earthquake,0.94,1.94,0.124,11,automatic,ci,ci
 2023-09-09T12:07:31.326Z,62.3338,-151.2848,82,1.4,ml,,,,0.58,ak,ak023bkym84s,2023-09-09T12:09:51.321Z,"32 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-09T12:06:12.970Z,45.8148333333333,-111.960666666667,6.18,1.18,ml,11,135,0.06227,0.05,mb,mb90026923,2023-09-09T13:06:51.440Z,"5 km S of Cardwell, Montana",earthquake,0.34,0.84,0.256895812677171,12,reviewed,mb,mb
-2023-09-09T11:53:21.920Z,18.9483333333333,-64.9966666666667,22.78,3.43,md,12,281,0.594,0.27,pr,pr71424278,2023-09-09T12:58:26.040Z,"67 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.32,18.67,0.116335348036709,8,reviewed,pr,pr
-2023-09-09T11:52:06.712Z,-24.8681,-175.28,10,4.8,mb,20,93,3.682,0.7,us,us7000kukn,2023-09-09T12:16:31.040Z,"south of Tonga",earthquake,7.06,1.861,0.139,23,reviewed,us,us
-2023-09-09T11:51:38.470Z,18.9388333333333,-64.9776666666667,21.18,3.19,md,11,284,0.5837,0.17,pr,pr71424273,2023-09-09T12:17:15.540Z,"66 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1,14.73,0.0910554035071827,5,reviewed,pr,pr
-2023-09-09T11:51:21.532Z,37.545,-115.5774,2.2,1.4,ml,15,221.63,0.44,0.3105,nn,nn00865636,2023-09-09T11:53:45.451Z,"18 km SE of Rachel, Nevada",earthquake,,13.4,0.79,10,automatic,nn,nn
