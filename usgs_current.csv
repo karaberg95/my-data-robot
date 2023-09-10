@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T17:30:53.230Z,38.8151665,-122.8239975,2.09,1.09,md,18,53,0.007479,0.02,nc,nc73935416,2023-09-10T17:32:30.792Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.4,0.15,19,automatic,nc,nc
 2023-09-10T17:14:37.845Z,60.6301,-152.2215,87.3,1.4,ml,,,,0.35,ak,ak023bmp6960,2023-09-10T17:16:12.820Z,"49 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-10T16:47:59.364Z,64.9402,-148.6083,17.5,1.2,ml,,,,0.47,ak,ak023bmorxuo,2023-09-10T16:49:44.025Z,"29 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-10T16:30:21.062Z,-32.6221,-177.56,32.274,4.7,mb,22,213,3.365,1.16,us,us7000kuut,2023-09-10T16:55:42.040Z,"south of the Kermadec Islands",earthquake,15.11,9.693,0.08,47,reviewed,us,us
@@ -129,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T00:49:13.582Z,57.5849,-156.5397,117,2.1,ml,,,,0.2,ak,ak023bmf9c2m,2023-09-10T00:51:51.968Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-09-10T00:45:39.690Z,19.4103336334229,-155.283172607422,0.730000019073486,1.88,ml,17,53,,0.170000002,hv,hv73573067,2023-09-10T00:51:09.610Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.26,9,automatic,hv,hv
 2023-09-10T00:45:00.896Z,57.7247,-155.9662,1.6,1.5,ml,,,,0.49,ak,ak023bmf8gfo,2023-09-10T00:47:41.040Z,"88 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-09-10T00:43:32.300Z,40.966,-121.5583333,11.66,1.9,md,24,45,0.09793,0.09,nc,nc73935231,2023-09-10T17:34:58.205Z,"11 km WSW of Fall River Mills, CA",earthquake,0.23,0.63,0.215,27,reviewed,nc,nc
 2023-09-10T00:42:58.332Z,36.6828,-116.2615,0.8,0.3,ml,16,89.16,0.06,0.2489,nn,nn00865665,2023-09-10T00:44:55.187Z,"Nevada",earthquake,,1.6,0.73,11,automatic,nn,nn
 2023-09-10T00:41:15.544Z,17.4391,145.7614,10,4.6,mb,30,110,3.923,0.98,us,us7000kupq,2023-09-10T01:03:06.040Z,"246 km N of Saipan, Northern Mariana Islands",earthquake,11.29,1.909,0.109,25,reviewed,us,us
 2023-09-10T00:37:57.190Z,19.4203338623047,-155.277496337891,-0.159999996423721,1.91,ml,14,78,,0.0500000007,hv,hv73573057,2023-09-10T00:43:28.140Z,"5 km WSW of Volcano, Hawaii",earthquake,0.15,0.170000002,0.47,7,automatic,hv,hv
@@ -181,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T18:06:17.978Z,-21.0506,-178.6705,555.24,4.5,mb,65,82,3.239,0.88,us,us7000kumy,2023-09-09T18:50:08.040Z,"Fiji region",earthquake,14.05,8.32,0.072,62,reviewed,us,us
 2023-09-09T18:06:00.187Z,51.6036,177.8036,76.989,4.8,mb,169,154,0.559,0.92,us,us7000kumw,2023-09-09T18:30:27.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.09,5.319,0.028,399,reviewed,us,us
 2023-09-09T18:05:28.580Z,33.4878333,-116.5888333,8.53,1.34,ml,38,54,0.0131,0.21,ci,ci39661986,2023-09-09T18:16:29.550Z,"11 km SE of Anza, CA",earthquake,0.24,0.57,0.218,27,automatic,ci,ci
-2023-09-09T17:30:59.708Z,1.5798,99.7027,173.001,4.6,mb,65,43,3.805,0.63,us,us7000kumr,2023-09-09T17:57:13.040Z,"northern Sumatra, Indonesia",earthquake,7.1,5.016,0.08,53,reviewed,us,us
