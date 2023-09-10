@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T08:27:20.142Z,61.5711,-149.4143,40,1,ml,,,,0.28,ak,ak023bmjw3oz,2023-09-10T08:29:39.273Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-10T08:12:05.420Z,19.3861675262451,-155.276000976562,1.0900000333786,1.96,ml,16,71,,0.0799999982,hv,hv73573862,2023-09-10T08:17:36.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.180000007,0.22,9,automatic,hv,hv
 2023-09-10T08:10:38.040Z,19.3636665344238,-155.285171508789,2.61999988555908,1.76999998,md,16,122,,0.109999999,hv,hv73573857,2023-09-10T08:13:39.700Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.49000001,0.529999971,13,automatic,hv,hv
 2023-09-10T08:02:04.360Z,33.4325,-116.909,5.67,0.35,ml,11,95,0.08772,0.14,ci,ci39662210,2023-09-10T08:05:36.690Z,"4 km WSW of Aguanga, CA",earthquake,0.38,2.1,0.128,9,automatic,ci,ci
@@ -199,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T08:47:50.530Z,58.249,-155.143,3.63,0.28,ml,16,75,,0.09,av,av92036536,2023-09-10T06:15:10.570Z,"86 km NNW of Karluk, Alaska",earthquake,0.2,0.4,0.274552465349568,16,reviewed,av,av
 2023-09-09T08:46:06.280Z,19.238000869751,-155.407836914062,29.6800003051758,1.96000004,md,40,133,,0.119999997,hv,hv73571297,2023-09-09T08:49:16.970Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.769999981,1.78999996,14,automatic,hv,hv
 2023-09-09T08:44:38.810Z,38.833168,-122.8051682,0.35,0.75,md,11,67,0.01048,0.06,nc,nc73934961,2023-09-09T08:46:11.941Z,"7 km W of Cobb, CA",earthquake,0.29,0.99,0.23,12,automatic,nc,nc
-2023-09-09T08:32:54.520Z,33.7113333,-116.754,15.85,0.7,ml,18,65,0.0352,0.22,ci,ci39661842,2023-09-09T08:36:29.953Z,"4 km SW of Idyllwild, CA",earthquake,0.54,0.74,0.098,14,automatic,ci,ci
-2023-09-09T08:29:19.180Z,33.9221667,-117.1028333,15.34,0.82,ml,26,62,0.1017,0.2,ci,ci39661834,2023-09-09T08:32:56.786Z,"9 km SSW of Calimesa, CA",earthquake,0.29,0.72,0.129,17,automatic,ci,ci
-2023-09-09T08:28:34.744Z,2.0776,-101.7565,10,4.6,mb,73,192,11.79,0.42,us,us7000kujs,2023-09-09T08:44:44.040Z,"Galapagos Triple Junction region",earthquake,13.16,1.957,0.065,71,reviewed,us,us
