@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T09:11:32.840Z,35.9944992,-120.5513306,2.81,0.81,md,7,145,0.01908,0.01,nc,nc73935351,2023-09-10T09:13:08.947Z,"15 km NW of Parkfield, CA",earthquake,0.52,1,0.07,3,automatic,nc,nc
 2023-09-10T08:58:00.840Z,36.148,-118.0523333,2.3,1.18,ml,14,161,0.1627,0.17,ci,ci39662218,2023-09-10T13:58:59.638Z,"15 km NW of Coso Junction, CA",earthquake,0.45,1.64,0.119,7,reviewed,ci,ci
 2023-09-10T08:52:10.884Z,38.1697,-117.8301,7.7,2,ml,21,138.67,0.125,0.2716,nn,nn00865678,2023-09-10T08:55:09.420Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.23,14,automatic,nn,nn
-2023-09-10T08:51:34.997Z,63.2471,-151.1921,11,1.2,ml,,,,0.58,ak,ak023bmk19zv,2023-09-10T08:54:06.194Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-10T08:50:31.590Z,18.389,-64.451,137,4.05,md,16,342,0.5068,0.19,pr,pr2023253001,2023-09-10T09:50:08.040Z,"36 km E of Cruz Bay, U.S. Virgin Islands",earthquake,4.6,1.18,0.13,12,reviewed,pr,pr
