@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T22:49:10.305Z,63.091,-150.4666,105.9,2.5,ml,,,,0.54,ak,ak023bofw7ky,2023-09-11T22:51:07.464Z,"68 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T22:27:22.216Z,58.1666,-155.3897,1.1,0.5,ml,,,,0.16,ak,ak023bofrisd,2023-09-11T22:28:51.992Z,"Alaska Peninsula",earthquake,,2.5,,,automatic,ak,ak
 2023-09-11T22:25:56.190Z,38.8223343,-122.8434982,2.13,1.21,md,20,73,0.006661,0.02,nc,nc73935856,2023-09-11T22:44:14.701Z,"9 km WNW of The Geysers, CA",earthquake,0.24,0.39,0.29,21,automatic,nc,nc
 2023-09-11T22:16:04.610Z,33.9906667,-117.2423333,12.81,1.28,ml,42,42,0.07215,0.28,ci,ci39663122,2023-09-11T22:27:09.240Z,"7 km SSE of Loma Linda, CA",earthquake,0.35,0.73,0.195,27,automatic,ci,ci
@@ -7,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T22:06:29.410Z,33.5241667,-116.5251667,12.07,0.78,ml,27,70,0.07075,0.18,ci,ci39663114,2023-09-11T22:10:02.855Z,"14 km ESE of Anza, CA",earthquake,0.29,0.54,0.12,21,automatic,ci,ci
 2023-09-11T22:05:19.600Z,36.0195007,-120.5781631,3.44,1.5,md,15,81,0.03516,0.05,nc,nc73935846,2023-09-11T22:34:14.641Z,"19 km NW of Parkfield, CA",earthquake,0.31,0.55,0.1,9,automatic,nc,nc
 2023-09-11T21:59:17.110Z,38.7840004,-122.769165,3.84,0.73,md,10,112,0.01353,0.02,nc,nc73935841,2023-09-11T22:00:54.469Z,"1 km NW of The Geysers, CA",earthquake,0.52,1.55,0.05,9,automatic,nc,nc
-2023-09-11T21:55:43.470Z,33.4925,-116.4995,10.98,0.73,ml,15,92,0.06893,0.18,ci,ci39663098,2023-09-11T21:59:14.489Z,"18 km ESE of Anza, CA",earthquake,0.41,0.89,0.233,10,automatic,ci,ci
-2023-09-11T21:55:22.550Z,33.491,-116.4913333,11.85,0.85,ml,21,59,0.06365,0.23,ci,ci39663090,2023-09-11T21:58:51.487Z,"18 km ESE of Anza, CA",earthquake,0.34,0.79,0.169,22,automatic,ci,ci
+2023-09-11T21:55:43.390Z,33.4923333,-116.5066667,11.16,0.53,ml,13,91,0.07441,0.13,ci,ci39663098,2023-09-11T22:53:24.396Z,"17 km ESE of Anza, CA",earthquake,0.26,0.62,0.154,11,reviewed,ci,ci
+2023-09-11T21:55:22.640Z,33.4866667,-116.505,10.13,0.8,ml,23,92,0.07571,0.13,ci,ci39663090,2023-09-11T22:51:14.080Z,"17 km ESE of Anza, CA",earthquake,0.19,0.45,0.121,17,reviewed,ci,ci
 2023-09-11T21:48:37.630Z,38.831665,-122.8099976,2.13,1.1,md,13,46,0.008258,0.01,nc,nc73935836,2023-09-11T22:11:17.487Z,"8 km W of Cobb, CA",earthquake,0.31,0.96,0.26,13,automatic,nc,nc
 2023-09-11T21:44:27.880Z,33.4895,-116.5853333,9.23,0.53,ml,14,76,0.01502,0.08,ci,ci39663074,2023-09-11T22:47:48.899Z,"11 km SE of Anza, CA",earthquake,0.19,0.35,0.081,12,reviewed,ci,ci
 2023-09-11T21:40:22.305Z,-20.8106,-65.2729,331.007,4.1,mb,29,57,2.496,1.05,us,us7000kv5x,2023-09-11T21:57:15.040Z,"Potosi-Chuquisaca border region, Bolivia",earthquake,10.41,11.208,0.158,11,reviewed,us,us
@@ -153,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T05:14:00.244Z,-55.7972,-27.1835,35,5.1,mb,33,116,5.561,0.84,us,us7000kuyi,2023-09-11T05:32:54.040Z,"South Sandwich Islands region",earthquake,12.81,1.945,0.097,34,reviewed,us,us
 2023-09-11T05:05:00.350Z,40.9628333,-121.5678333,14.09,2.08,md,39,35,0.09538,0.12,nc,nc73935621,2023-09-11T21:17:20.162Z,"12 km WSW of Fall River Mills, CA",earthquake,0.18,0.46,0.204,45,reviewed,nc,nc
 2023-09-11T04:48:36.880Z,63.2355,-154.4712,14.2,1.6,ml,,,,0.3,ak,ak023bo5692g,2023-09-11T04:50:46.738Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-11T04:44:30.920Z,52.0811666666667,-176.138333333333,-1.8,0.52,ml,6,141,,0.24,av,av92039176,2023-09-11T22:53:05.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.61,1.09,0.167025661848102,6,reviewed,av,av
 2023-09-11T04:42:53.560Z,37.5801667,-121.8036667,4.18,1.19,md,16,82,0.0485,0.07,nc,nc73935616,2023-09-11T21:17:19.163Z,"8 km ESE of Sunol, CA",earthquake,0.26,0.53,0.302,17,reviewed,nc,nc
 2023-09-11T04:41:31.850Z,38.8356667,-122.8050003,1.43,0.36,md,8,108,0.01177,0.06,nc,nc73935606,2023-09-11T04:43:09.498Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.14,0.29,9,automatic,nc,nc
 2023-09-11T04:41:18.714Z,59.5765,-152.982,89.2,1.6,ml,,,,0.38,ak,ak023bo54pnj,2023-09-11T04:43:13.622Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
