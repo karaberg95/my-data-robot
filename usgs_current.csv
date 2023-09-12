@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T08:37:29.563Z,63.1477,-149.8004,77.3,2,ml,,,,0.47,ak,ak023bpv0yim,2023-09-12T08:39:31.480Z,"50 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:37:09.090Z,34.4421667,-117.9155,11.4,1.19,ml,14,73,0.03367,0.14,ci,ci39663274,2023-09-12T08:40:46.149Z,"7 km S of Pearblossom, CA",earthquake,0.31,0.53,0.347,23,automatic,ci,ci
 2023-09-12T08:37:08.260Z,38.8201675,-122.817337,2.27,0.79,md,17,60,0.006525,0.03,nc,nc73935986,2023-09-12T08:38:44.232Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.67,0.17,19,automatic,nc,nc
-2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T13:40:16.329Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
+2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-12T13:50:35.113Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
 2023-09-12T08:23:57.461Z,63.0135,-150.74,116.3,2.2,ml,,,,0.44,ak,ak023bpuy0mq,2023-09-12T08:26:00.358Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:12:18.530Z,33.4895,-116.4983333,8.47,0.61,ml,19,93,0.08695,0.15,ci,ci39663266,2023-09-12T13:34:46.993Z,"18 km ESE of Anza, CA",earthquake,0.24,0.8,0.184,15,reviewed,ci,ci
 2023-09-12T08:10:58.464Z,39.5659,-118.1042,5,2.3,ml,12,144.95,0.237,0.076,nn,nn00865715,2023-09-12T08:13:37.543Z,"55 km ENE of Fallon Station, Nevada",earthquake,,0.8,0.19,8,automatic,nn,nn
@@ -182,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T14:13:53.900Z,34.7201667,-120.162,2.64,1.54,ml,16,83,0.09836,0.16,ci,ci39662626,2023-09-11T20:00:43.287Z,"7 km NW of Los Olivos, CA",earthquake,0.26,0.55,0.167,15,reviewed,ci,ci
 2023-09-11T13:57:43.350Z,38.8198318,-122.8206635,5.02,0.79,md,7,139,0.009005,0.01,nc,nc73935741,2023-09-11T13:59:17.877Z,"7 km NW of The Geysers, CA",earthquake,1.4,1.33,0.11,7,automatic,nc,nc
 2023-09-11T13:52:41.853Z,64.36,-147.5256,8.1,2.8,ml,,,,0.81,ak,ak023boak0rd,2023-09-11T14:21:04.040Z,"35 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-11T13:49:55.826Z,64.3482,-147.5248,8.3,1.8,ml,,,,0.58,ak,ak023boajeou,2023-09-11T13:51:44.922Z,"35 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-11T13:48:32.322Z,64.3915,-147.4557,1.5,1,ml,,,,0.82,ak,ak023boaj55s,2023-09-11T13:50:20.051Z,"30 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-11T13:45:17.860Z,33.985,-116.96,7.08,0.88,ml,17,105,0.1101,0.1,ci,ci39662602,2023-09-11T19:57:39.271Z,"6 km NNE of Beaumont, CA",earthquake,0.21,1.03,0.12,15,reviewed,ci,ci
