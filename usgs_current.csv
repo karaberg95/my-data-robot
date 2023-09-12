@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-12T14:44:58.310Z,60.2407,-152.7746,17.5,1.4,ml,,,,0.28,ak,ak023bpyn4ef,2023-09-12T14:46:36.003Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-12T14:26:47.020Z,33.2915,-117.2168333,9.47,1.45,ml,9,140,0.1642,0.27,ci,ci39663314,2023-09-12T14:30:28.375Z,"10 km ESE of Camp Pendleton North, CA",earthquake,1.28,3.39,0.341,7,automatic,ci,ci
 2023-09-12T14:26:44.300Z,38.8165016,-122.8198318,2.41,1.08,md,20,49,0.01027,0.02,nc,nc73936056,2023-09-12T14:28:19.431Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.51,0.24,21,automatic,nc,nc
 2023-09-12T14:25:47.061Z,62.9823,-149.457,77.5,1.8,ml,,,,0.31,ak,ak023bpyj0xe,2023-09-12T14:27:36.711Z,"52 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-12T14:06:40.308Z,61.9926,-154.2997,8.5,1.3,ml,,,,0.26,ak,ak023bpyexsu,2023-09-12T14:08:12.079Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-12T13:58:01.065Z,30.1715,142.1454,10,4.8,mb,50,118,3.545,0.68,us,us7000kva1,2023-09-12T14:47:18.040Z,"Izu Islands, Japan region",earthquake,11.43,1.887,0.101,30,reviewed,us,us
 2023-09-12T13:34:44.144Z,58.1695,-155.3833,0.1,0.3,ml,,,,0.42,ak,ak023bpxziji,2023-09-12T13:37:09.813Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-12T13:29:48.027Z,58.1804,-155.2408,0,0.6,ml,,,,0.6,ak,ak023bpxyg9e,2023-09-12T13:31:09.759Z,"82 km NW of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-09-12T12:42:27.710Z,36.002,-117.8123333,-0.04,1.37,ml,11,120,0.05268,0.17,ci,ci39663290,2023-09-12T12:46:02.605Z,"11 km NE of Little Lake, CA",earthquake,0.39,0.63,0.128,8,automatic,ci,ci
@@ -181,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T15:52:09.500Z,58.2548,-155.1312,29.3,1,ml,,,,0.62,ak,ak023bobqth2,2023-09-12T01:44:40.000Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-11T15:41:26.870Z,35.79216667,-96.97166667,7.37,1.29,ml,67,39,0.1853636253,0.22,ok,ok2023rvli,2023-09-11T15:52:36.647Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.24,30,reviewed,ok,ok
 2023-09-11T15:39:17.950Z,61.2063333333333,-152.244,11.32,-0.04,ml,7,201,,0.32,av,av92040151,2023-09-12T01:38:01.930Z,"61 km WNW of Tyonek, Alaska",earthquake,2.18,1.5,0.366432418082752,7,reviewed,av,av
-2023-09-11T14:48:20.254Z,61.0296,-151.2141,63.3,1.9,ml,,,,0.27,ak,ak023bob4igc,2023-09-11T14:49:55.275Z,"5 km SW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-11T14:44:19.550Z,58.1901666666667,-155.314333333333,2.6,0.56,ml,11,99,,0.1,av,av92040096,2023-09-12T01:03:58.790Z,"Alaska Peninsula",earthquake,0.23,0.31,0.306012898342126,12,reviewed,av,av
