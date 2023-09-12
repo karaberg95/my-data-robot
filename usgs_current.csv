@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-12T20:43:33.600Z,38.8198318,-122.7634964,2.17,1.09,md,11,117,0.01175,0.02,nc,nc73936136,2023-09-12T20:45:07.978Z,"4 km W of Cobb, CA",earthquake,0.33,0.73,0.1,13,automatic,nc,nc
+2023-09-12T20:42:16.190Z,19.3584995269775,-155.061492919922,4.71999979019165,1.80999994,md,22,177,,0.129999995,hv,hv73576447,2023-09-12T20:45:31.410Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.46,0.49000001,0.899999976,8,automatic,hv,hv
 2023-09-12T20:32:53.000Z,38.840332,-122.8111649,1.86,0.61,md,12,59,0.01693,0.02,nc,nc73936131,2023-09-12T20:34:28.614Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.73,0.39,12,automatic,nc,nc
 2023-09-12T20:29:09.980Z,35.5,-118.4006667,5.2,1.3,ml,19,67,0.1731,0.18,ci,ci39663626,2023-09-12T20:34:36.740Z,"13 km SE of Bodfish, CA",earthquake,0.34,2.54,0.109,12,reviewed,ci,ci
 2023-09-12T20:25:07.853Z,62.2074,-148.6049,30,1.4,ml,,,,0.42,ak,ak023bq23jj5,2023-09-12T20:27:10.275Z,"46 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T11:28:17.493Z,65.013,-147.0587,1.3,1.1,ml,,,,0.61,ak,ak023bpwraz9,2023-09-12T11:29:39.942Z,"15 km N of Two Rivers, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-09-12T11:04:07.444Z,62.9388,-149.6214,66.6,1.1,ml,,,,0.61,ak,ak023bpwm50o,2023-09-12T11:06:42.717Z,"59 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T11:03:18.873Z,19.2687,121.2178,41.281,6.3,mww,133,21,4.049,0.96,us,us7000kv90,2023-09-12T15:30:41.040Z,"73 km N of Namuac, Philippines",earthquake,8.03,5.112,0.046,46,reviewed,us,us
-2023-09-12T11:02:18.460Z,19.1860008239746,-155.495666503906,33.0800018310547,2.66,ml,45,75,,0.119999997,hv,hv73576197,2023-09-12T11:15:58.948Z,"Island of Hawaii, Hawaii",earthquake,0.45,0.589999974,3.54,26,automatic,hv,hv
+2023-09-12T11:02:18.350Z,19.1768333333333,-155.494666666667,34.37,3.12,ml,53,87,,0.12,hv,hv73576197,2023-09-12T20:44:41.540Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.42,0.52,0.202257776170861,38,reviewed,hv,hv
 2023-09-12T11:02:13.070Z,38.8203316,-122.73983,0.98,0.75,md,7,148,0.02507,0.01,nc,nc73936021,2023-09-12T11:03:47.550Z,"2 km W of Cobb, CA",earthquake,0.48,1.75,0.05,8,automatic,nc,nc
 2023-09-12T10:48:59.380Z,32.6308333,-117.1045,11.08,2.03,ml,44,106,0.04479,0.13,ci,ci39663282,2023-09-12T15:31:55.320Z,"5 km S of National City, CA",earthquake,0.17,0.27,0.147,45,reviewed,ci,ci
 2023-09-12T10:48:40.310Z,38.7928352,-122.7616653,0.24,0.81,md,7,177,0.007927,0.01,nc,nc73936011,2023-09-12T10:50:17.414Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.82,0.21,8,automatic,nc,nc
@@ -182,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:58:48.720Z,60.0228333333333,-153.091333333333,0.98,-0.44,ml,6,114,,0.16,av,av91115598,2023-09-12T02:41:17.820Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.38,0.48,0.240746234935645,6,reviewed,av,av
 2023-09-11T20:57:55.912Z,56.0501,-157.2211,19.3,2,ml,,,,0.58,ak,ak023boer9a1,2023-09-11T23:41:03.368Z,"78 km ESE of Chignik, Alaska",earthquake,,4.5,,,reviewed,ak,ak
 2023-09-11T20:49:57.910Z,36.2150002,-120.8000031,5.17,2.11,md,34,98,0.00136,0.17,nc,nc73935826,2023-09-11T22:29:19.615Z,"22 km ENE of San Lucas, CA",earthquake,0.36,0.49,0.19,28,automatic,nc,nc
-2023-09-11T20:43:45.119Z,31.67839101,-104.4043579,4.948999022999999,1.9,ml,15,85,0.03241481248,0.1,tx,tx2023rvvh,2023-09-12T14:42:18.423Z,"55 km S of Whites City, New Mexico",earthquake,0.9084142548000002,1.018492647,0.1,7,reviewed,tx,tx
