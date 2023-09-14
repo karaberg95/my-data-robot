@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-14T16:49:11.150Z,38.8376656,-122.7968369,1.37,0.28,md,9,87,0.005125,0.01,nc,nc73936776,2023-09-14T16:50:46.655Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.97,0.21,11,automatic,nc,nc
 2023-09-14T16:22:38.860Z,38.7849998,-122.7464981,1.29,0.94,md,5,159,0.007838,0.01,nc,nc73936766,2023-09-14T16:24:13.505Z,"1 km NE of The Geysers, CA",earthquake,1.22,0.74,0.25,6,automatic,nc,nc
 2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"13 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:28:10.775Z,58.386,-154.4523,0,1.1,ml,,,,0.29,ak,ak023bta7pvc,2023-09-14T15:32:04.951Z,"91 km N of Karluk, Alaska",earthquake,,66.2,,,automatic,ak,ak
@@ -49,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T09:07:15.800Z,18.0311666666667,-67.0765,16.87,2.39,md,13,79,0.03998,0.09,pr,pr71424693,2023-09-14T09:16:33.170Z,"Mona Passage",earthquake,0.37,0.51,0.0464726177992802,4,reviewed,pr,pr
 2023-09-14T08:49:23.518Z,64.761,-149.2094,17.7,1.1,ml,,,,0.25,ak,ak023bt667nj,2023-09-14T08:51:11.219Z,"18 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-14T08:48:31.182Z,-19.9418,-69.7691,67.671,3.7,ml,8,114,0.472,0.27,us,us7000kvps,2023-09-14T13:40:25.575Z,"6 km N of Huara, Chile",earthquake,4.16,6.411,0.085,18,reviewed,us,us
+2023-09-14T08:46:50.330Z,46.1945,-122.19433333333333,3.17,-0.1,ml,12,107,0.008376,0.09,uw,uw61950817,2023-09-14T16:56:10.220Z,"37 km NNE of Amboy, Washington",earthquake,0.51,0.73,0.05865591259867342,6,reviewed,uw,uw
 2023-09-14T08:16:52.550Z,38.8256683,-122.8026657,1.74,0.68,md,10,75,0.006216,0.02,nc,nc73936661,2023-09-14T08:18:25.410Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.98,0.31,11,automatic,nc,nc
 2023-09-14T08:08:10.580Z,46.19266666666667,-122.188,6.76,0.5,ml,23,63,0.007387,0.18,uw,uw61950807,2023-09-14T16:34:54.260Z,"37 km NNE of Amboy, Washington",earthquake,0.33,0.39,0.14247759591794398,16,reviewed,uw,uw
 2023-09-14T07:53:03.720Z,34.4656667,-117.9541667,9.77,0.58,ml,13,69,0.01672,0.1,ci,ci39664746,2023-09-14T15:43:38.516Z,"6 km SW of Pearblossom, CA",earthquake,0.24,0.45,0.119,6,reviewed,ci,ci
