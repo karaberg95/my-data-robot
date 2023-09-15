@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-15T06:39:12.287Z,62.3267,-150.1994,54.9,1.4,ml,,,,0.36,ak,ak023busgiws,2023-09-15T06:40:58.236Z,"2 km NE of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-15T06:33:04.249Z,63.2614,-150.4349,118.8,1.4,ml,,,,0.16,ak,ak023busf7zs,2023-09-15T06:34:56.593Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T06:27:06.159Z,62.0614,-147.0463,44.3,2.2,ml,,,,0.31,ak,ak023busdxuf,2023-09-15T06:28:23.661Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-15T06:26:44.007Z,63.202,-150.4424,94.6,1.7,ml,,,,1.22,ak,ak023busdt6k,2023-09-15T06:28:36.370Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
