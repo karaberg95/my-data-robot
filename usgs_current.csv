@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-15T11:36:57.681Z,62.4673,-152.0895,111.1,1.2,ml,,,,0.39,ak,ak023buvf5ag,2023-09-15T11:38:57.308Z,"64 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-15T11:17:34.220Z,34.4028333,-119.2026667,2.25,2.22,ml,23,82,0.06371,0.27,ci,ci39665770,2023-09-15T11:29:17.525Z,"6 km SE of Ojai, CA",earthquake,0.35,0.6,0.207,9,automatic,ci,ci
 2023-09-15T11:17:00.320Z,34.4083333,-119.2051667,1.93,2.5,ml,44,69,0.06279,0.32,ci,ci39665754,2023-09-15T11:20:52.389Z,"6 km SE of Ojai, CA",earthquake,0.35,0.74,0.153,26,automatic,ci,ci
 2023-09-15T11:16:59.160Z,34.3779984,-119.1289978,-0.1,2.16,ml,28,85,0.0592,0.24,ci,ci39665762,2023-09-15T11:19:20.144Z,"7 km WNW of Santa Paula, CA",earthquake,0.38,0.8,0.296,9,automatic,ci,ci
@@ -169,5 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T11:54:57.570Z,33.1006667,-116.345,12.66,1.93,ml,53,32,0.1194,0.18,ci,ci39664810,2023-09-14T13:04:27.311Z,"18 km S of Borrego Springs, CA",earthquake,0.22,0.72,0.16,26,reviewed,ci,ci
 2023-09-14T11:42:31.739Z,61.3112,-150.054,35.7,1.9,ml,,,,0.3,ak,ak023bt7x139,2023-09-14T11:44:22.194Z,"6 km SW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-14T11:40:12.320Z,44.68,-111.876666666667,13.06,1.24,ml,15,66,0.1585,0.15,mb,mb90027233,2023-09-14T22:41:25.120Z,"Idaho-Montana border region",earthquake,0.43,1.12,0.0868372322792215,15,reviewed,mb,mb
-2023-09-14T11:36:17.900Z,38.4908333,-112.8381667,0.14,1.14,ml,9,110,0.02711,0.06,uu,uu60550107,2023-09-14T13:49:40.030Z,"18 km NE of Milford, Utah",earthquake,0.26,31.61,0.717,3,reviewed,uu,uu
-2023-09-14T11:34:35.400Z,34.014,-117.1128333,13.6,0.58,ml,22,51,0.02142,0.17,ci,ci39664802,2023-09-14T17:36:33.504Z,"6 km WNW of Calimesa, CA",earthquake,0.25,0.77,0.156,11,reviewed,ci,ci
