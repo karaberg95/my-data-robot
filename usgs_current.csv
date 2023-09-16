@@ -209,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T14:23:22.610Z,58.284,-155.005,3.75,0.59,ml,14,126,,0.21,av,av92046051,2023-09-15T23:17:20.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.36,0.69,0.279821283240574,14,reviewed,av,av
 2023-09-15T14:23:13.400Z,58.2951666666667,-155.008833333333,2.94,-0.01,ml,6,193,,0.1,av,av91115958,2023-09-15T23:20:48.610Z,"87 km NNW of Karluk, Alaska",earthquake,0.4,0.44,0.282758862081428,6,reviewed,av,av
 2023-09-15T14:06:47.900Z,46.55283333333333,-122.42966666666666,14.32,0.85,ml,13,106,0.09505,0.14,uw,uw61960011,2023-09-15T15:37:50.880Z,"4 km ENE of Mossyrock, Washington",earthquake,0.43,1.11,0.15058586726034096,5,reviewed,uw,uw
-2023-09-15T13:59:43.622Z,40.3283,-119.5108,11.9,0.6,ml,3,304.18,0.232,0.0168,nn,nn00865890,2023-09-16T00:41:36.382Z,"30 km SSW of Empire, Nevada",earthquake,,18.2,0.16,2,reviewed,nn,nn
-2023-09-15T13:57:12.728Z,39.7858,-120.8092,7.3,0.3,ml,3,331.68,0.355,0.1736,nn,nn00865889,2023-09-16T00:32:19.355Z,"9 km WNW of Plumas Eureka (historical), California",earthquake,,13.1,0.16,2,reviewed,nn,nn
-2023-09-15T13:53:32.910Z,52.0903333333333,-176.148833333333,2.8,0.04,ml,6,172,,0.29,av,av91115948,2023-09-15T23:07:23.400Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.29,1.87,0.223044258731127,6,reviewed,av,av
