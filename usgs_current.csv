@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T13:29:31.317Z,61.7987,-150.772,61.7,1.6,ml,,,,0.45,ak,ak023bwk3sy3,2023-09-16T13:31:21.499Z,"31 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-16T13:29:30.886Z,6.8025,-72.988,154.93,4.9,mb,50,41,0.909,0.74,us,us7000kw6m,2023-09-16T13:45:26.040Z,"5 km NNW of Cepitá, Colombia",earthquake,7.8,6.143,0.025,498,reviewed,us,us
 2023-09-16T13:29:07.770Z,33.5451667,-116.9961667,13.21,0.69,ml,26,47,0.07646,0.2,ci,ci39666930,2023-09-16T13:32:40.775Z,"15 km E of Murrieta Hot Springs, CA",earthquake,0.29,0.8,0.188,17,automatic,ci,ci
-2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
+2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
 2023-09-16T13:24:10.120Z,34.0795,-117.2651667,11.74,1.11,ml,47,33,0.05662,0.24,ci,ci39666922,2023-09-16T13:35:04.210Z,"4 km N of Loma Linda, CA",earthquake,0.28,0.7,0.148,31,automatic,ci,ci
 2023-09-16T13:13:59.010Z,34.0418333,-117.2573333,15.42,0.91,ml,24,82,0.07093,0.18,ci,ci39666906,2023-09-16T13:17:24.682Z,"1 km SSE of Loma Linda, CA",earthquake,0.32,0.57,0.162,20,automatic,ci,ci
 2023-09-16T13:11:14.510Z,40.7121658,-124.5656662,23.02,2.29,md,21,226,0.2933,0.14,nc,nc73937486,2023-09-16T14:16:15.002Z,"30 km WNW of Ferndale, CA",earthquake,1.09,3.76,0.13,11,automatic,nc,nc
@@ -196,8 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T18:22:16.195Z,62.3825,-148.7726,18.2,1.3,ml,,,,0.34,ak,ak023buzi3ar,2023-09-15T19:35:04.103Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T18:21:13.660Z,38.8143349,-122.8248367,2.41,0.76,md,11,75,0.006427,0.02,nc,nc73937136,2023-09-15T18:22:49.644Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.72,0.16,14,automatic,nc,nc
 2023-09-15T18:17:29.979Z,63.0459,-151.5355,0,1.3,ml,,,,1.21,ak,ak023buzh1s2,2023-09-15T18:19:47.965Z,"55 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-15T18:16:51.420Z,37.6581667,-122.0333333,1.95,1,md,9,183,0.02163,0.02,nc,nc73937131,2023-09-16T07:45:35.728Z,"2 km SSE of Fairview, CA",earthquake,1.03,0.46,0.077,4,reviewed,nc,nc
-2023-09-15T18:16:00.163Z,1.1214,126.3254,6.17,5,mb,134,44,1.098,0.75,us,us7000kw16,2023-09-16T15:58:54.040Z,"123 km WNW of Ternate, Indonesia",earthquake,5.76,3.736,0.054,123,reviewed,us,us
-2023-09-15T18:07:39.035Z,-27.3076,-71.5699,5.209,5.7,mww,117,70,1.082,0.67,us,us7000kw0l,2023-09-16T15:28:22.636Z,"122 km W of Copiapó, Chile",earthquake,4.47,2.945,0.043,53,reviewed,us,us
-2023-09-15T18:02:26.810Z,40.231,-121.1586667,0.03,2.71,md,62,32,0.2421,0.19,nc,nc73937126,2023-09-15T20:44:12.043Z,"2 km NE of Almanor, CA",earthquake,0.21,1.57,0.164,83,reviewed,nc,nc
-2023-09-15T18:00:46.520Z,19.5216,-64.7276,85,3.86,md,12,331,1.1914,0.11,pr,pr2023258003,2023-09-15T19:31:23.040Z,"131 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,6.17,0.06,3,reviewed,pr,pr
