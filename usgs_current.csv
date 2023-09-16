@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T07:22:40.270Z,38.8238335,-122.8028336,2.57,0.93,md,15,105,0.005673,0.02,nc,nc73937376,2023-09-16T07:24:16.526Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.45,0.23,19,automatic,nc,nc
 2023-09-16T07:11:01.873Z,60.6502,-151.78,77.6,2.1,ml,,,,0.35,ak,ak023bwgfa5n,2023-09-16T07:14:01.389Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-16T07:03:17.710Z,38.8408318,-122.8096695,2.17,0.77,md,7,163,0.01741,0.02,nc,nc73937371,2023-09-16T07:04:52.404Z,"8 km WNW of Cobb, CA",earthquake,0.71,1.07,0.17,9,automatic,nc,nc
+2023-09-16T06:56:12.520Z,17.9106666666667,-66.8681666666667,11.67,2.78,md,7,228,0.0649,0.1,pr,pr71424918,2023-09-16T07:25:13.770Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.83,0.76,0.263509058073788,3,reviewed,pr,pr
 2023-09-16T06:50:03.450Z,19.2603340148926,-155.378173828125,30.75,1.82000005,md,37,135,,0.100000001,hv,hv73578677,2023-09-16T06:53:13.040Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.74000001,1.61000001,6,automatic,hv,hv
 2023-09-16T06:47:31.736Z,59.7518,-153.1478,105.8,2.2,ml,,,,0.95,ak,ak023bwg1mn4,2023-09-16T06:50:31.893Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-16T06:42:19.240Z,36.6708333333333,-89.534,11.55,2.69,md,45,49,0.05463,0.17,nm,nm60551786,2023-09-16T06:59:33.000Z,"9 km N of New Madrid, Missouri",earthquake,0.27,0.43,0.127903215572039,35,reviewed,nm,nm
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T07:42:25.488Z,29.05426025,-97.88017004,2.665568034,2.2,ml,12,79,0.07312723092,0.2,tx,tx2023scdo,2023-09-15T13:39:47.954Z,"15 km ENE of Falls City, Texas",earthquake,1.260968539,3.279940555,0.1,7,reviewed,tx,tx
 2023-09-15T07:38:57.840Z,51.973,178.410666666667,4.05,0.3,ml,4,341,,0.27,av,av91115933,2023-09-15T21:40:02.280Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.46,2.33,0.495838100700894,4,reviewed,av,av
 2023-09-15T07:38:14.870Z,40.9616667,-121.5541667,10.53,1.79,md,27,39,0.1032,0.07,nc,nc73936966,2023-09-15T19:54:11.753Z,"11 km WSW of Fall River Mills, CA",earthquake,0.16,0.6,0.193,33,reviewed,nc,nc
-2023-09-15T07:28:10.860Z,57.8215,-156.0845,13.14,0.25,ml,4,168,,0.25,av,av91115928,2023-09-15T21:34:51.050Z,"Alaska Peninsula",earthquake,2.65,4.04,0.159996188927899,4,reviewed,av,av
