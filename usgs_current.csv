@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T13:29:31.317Z,61.7987,-150.772,61.7,1.6,ml,,,,0.45,ak,ak023bwk3sy3,2023-09-16T13:31:21.499Z,"31 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-16T13:29:30.886Z,6.8025,-72.988,154.93,4.9,mb,50,41,0.909,0.74,us,us7000kw6m,2023-09-16T13:45:26.040Z,"5 km NNW of Cepitá, Colombia",earthquake,7.8,6.143,0.025,498,reviewed,us,us
 2023-09-16T13:29:07.770Z,33.5451667,-116.9961667,13.21,0.69,ml,26,47,0.07646,0.2,ci,ci39666930,2023-09-16T13:32:40.775Z,"15 km E of Murrieta Hot Springs, CA",earthquake,0.29,0.8,0.188,17,automatic,ci,ci
-2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
+2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
 2023-09-16T13:24:10.120Z,34.0795,-117.2651667,11.74,1.11,ml,47,33,0.05662,0.24,ci,ci39666922,2023-09-16T13:35:04.210Z,"4 km N of Loma Linda, CA",earthquake,0.28,0.7,0.148,31,automatic,ci,ci
 2023-09-16T13:13:59.010Z,34.0418333,-117.2573333,15.42,0.91,ml,24,82,0.07093,0.18,ci,ci39666906,2023-09-16T13:17:24.682Z,"1 km SSE of Loma Linda, CA",earthquake,0.32,0.57,0.162,20,automatic,ci,ci
 2023-09-16T13:11:14.510Z,40.7121658,-124.5656662,23.02,2.29,md,21,226,0.2933,0.14,nc,nc73937486,2023-09-16T14:16:15.002Z,"30 km WNW of Ferndale, CA",earthquake,1.09,3.76,0.13,11,automatic,nc,nc
@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T23:57:50.820Z,17.8128333333333,-66.9496666666667,6.91,2.13,md,6,268,0.1747,0.06,pr,pr71424883,2023-09-16T00:31:09.460Z,"18 km SSW of Guánica, Puerto Rico",earthquake,0.82,0.39,0.129003950020925,6,reviewed,pr,pr
 2023-09-15T23:56:39.750Z,58.1811666666667,-155.347833333333,1.23,0.09,ml,10,114,,0.09,av,av92046561,2023-09-16T04:11:55.000Z,"86 km NW of Karluk, Alaska",earthquake,0.21,0.8,0.161316721431096,11,reviewed,av,av
 2023-09-15T23:56:35.630Z,38.8346672,-122.8034973,1.68,1.01,md,14,56,0.01093,0.01,nc,nc73937276,2023-09-15T23:58:10.239Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.75,0.27,15,automatic,nc,nc
-2023-09-15T23:47:57.100Z,35.7741667,-117.5933333,9.18,0.91,ml,13,157,0.1436,0.15,ci,ci39666578,2023-09-16T00:05:26.648Z,"17 km W of Searles Valley, CA",earthquake,0.4,1.39,0.082,7,reviewed,ci,ci
