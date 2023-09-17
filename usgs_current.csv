@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T13:15:52.810Z,44.2835,-114.831833333333,2.05,2.2,ml,14,64,0.7815,0.22,mb,mb90027513,2023-09-17T14:17:38.160Z,"11 km NE of Stanley, Idaho",earthquake,0.52,3.33,0.19489451620371,13,reviewed,mb,mb
 2023-09-17T13:02:36.867Z,60.7231,-151.9834,73.3,1.6,ml,,,,0.77,ak,ak023by7hdja,2023-09-17T13:05:38.936Z,"38 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-17T12:58:45.533Z,-15.6024,168.1502,10,4.6,mb,26,136,6.142,0.74,us,us7000kwb6,2023-09-17T13:18:56.040Z,"95 km ENE of Norsup, Vanuatu",earthquake,9.4,1.84,0.133,18,reviewed,us,us
-2023-09-17T12:26:28.430Z,39.2088,-118.2007,8.6,1.2,ml,8,122.43,0.12,0.1443,nn,nn00865947,2023-09-17T16:43:09.573Z,"44 km NNW of Gabbs, Nevada",earthquake,,2.3,0.55,5,reviewed,nn,nn
+2023-09-17T12:26:28.430Z,39.2088,-118.2007,8.6,1.2,ml,8,122.43,0.12,0.1443,nn,nn00865947,2023-09-17T16:43:09.573Z,"Nevada",earthquake,,2.3,0.55,5,reviewed,nn,nn
 2023-09-17T12:24:43.210Z,46.3025,-122.22783333333334,3.55,0.6,ml,16,125,0.02564,0.09,uw,uw61960446,2023-09-17T18:29:59.400Z,"28 km S of Morton, Washington",earthquake,0.38,0.56,0.1774128540846064,12,reviewed,uw,uw
 2023-09-17T12:12:18.100Z,33.4938333,-116.5005,11.01,0.67,ml,16,92,0.0691,0.16,ci,ci39667442,2023-09-17T13:54:37.399Z,"17 km ESE of Anza, CA",earthquake,0.29,0.92,0.151,15,reviewed,ci,ci
 2023-09-17T12:03:17.690Z,38.8390007,-122.8368301,1.37,0.6,md,8,113,0.001127,0.01,nc,nc73937831,2023-09-17T12:04:50.913Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.65,0.22,8,automatic,nc,nc
@@ -132,5 +132,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T20:21:11.381Z,36.7637,-116.2601,6.6,-0.5,ml,8,116.2,0.027,0.0405,nn,nn00865922,2023-09-16T22:22:46.007Z,"47 km ESE of Beatty, Nevada",earthquake,,1.8,0.52,6,reviewed,nn,nn
 2023-09-16T20:10:24.430Z,46.77466583251953,-121.97016906738281,8.47000026702881,1.6842713356018066,ml,48,65,0.043,0.150000006,uw,uw61960331,2023-09-17T04:07:54.000Z,"4 km ENE of Ashford, Washington",earthquake,0.28,0.389999986,0.3138725757598877,30,reviewed,uw,uw
 2023-09-16T20:04:53.050Z,38.8271675,-122.8013306,1.72,1.68,md,26,34,0.0078,0.01,nc,nc73937581,2023-09-16T20:42:13.658Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.31,0.15,26,automatic,nc,nc
-2023-09-16T19:41:16.853Z,37.4333,-117.0999,0,1.2,ml,9,201.24,0.417,0.3112,nn,nn00865914,2023-09-16T19:43:36.731Z,"32 km SSE of Goldfield, Nevada",earthquake,,57.7,1.21,6,automatic,nn,nn
-2023-09-16T19:38:39.970Z,35.6385,-117.4188333,6.55,1.65,ml,19,91,0.02685,0.22,ci,ci39667178,2023-09-16T19:42:16.845Z,"14 km S of Searles Valley, CA",earthquake,0.38,0.72,0.176,17,automatic,ci,ci
