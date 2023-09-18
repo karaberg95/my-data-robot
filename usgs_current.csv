@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T15:34:13.949Z,59.8025,-153.179,124.6,2.3,ml,,,,0.88,ak,ak023bzweedu,2023-09-18T15:36:27.262Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-18T15:26:00.360Z,34.455,-117.9578333,11.76,1.11,ml,18,63,0.006367,0.28,ci,ci39667962,2023-09-18T15:29:31.603Z,"7 km SW of Pearblossom, CA",earthquake,0.58,0.95,0.352,21,automatic,ci,ci
 2023-09-18T15:23:11.380Z,61.4392,-151.1748,17.2,1.5,ml,,,,0.17,ak,ak023bzwc1b6,2023-09-18T15:24:49.237Z,"33 km N of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-18T15:14:53.357Z,39.219,-120.0804,10.5,1.7,ml,12,60.77,0.037,0.2413,nn,nn00865985,2023-09-18T15:16:57.651Z,"Northern California",earthquake,,0.5,0.22,8,automatic,nn,nn
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T06:24:05.461Z,-22.3842,68.9751,10,4.7,mb,26,68,5.851,0.48,us,us7000kwet,2023-09-18T07:28:20.040Z,"Mid-Indian Ridge",earthquake,4.79,1.876,0.126,19,reviewed,us,us
 2023-09-18T06:23:26.710Z,38.8066673,-122.7926636,0.94,0.3,md,8,64,0.002437,0.01,nc,nc73938201,2023-09-18T06:25:01.810Z,"4 km NW of The Geysers, CA",earthquake,0.49,0.98,0.09,7,automatic,nc,nc
 2023-09-18T06:22:30.130Z,38.8066673,-122.7914963,1.8,1.26,md,14,46,0.003245,0.01,nc,nc73938191,2023-09-18T07:10:13.374Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.57,0.26,16,automatic,nc,nc
-2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T15:26:22.281Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
+2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T15:38:17.080Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
 2023-09-18T06:09:43.120Z,60.2568,-152.6606,15.1,3.4,ml,,,,0.46,ak,ak023bzqw7a7,2023-09-18T13:21:25.040Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T06:01:34.761Z,31.60797089,-103.9421687,7.674047852000001,2.2,ml,12,62,0.02291620459,0,tx,tx2023shms,2023-09-18T10:31:02.399Z,"34 km WSW of Mentone, Texas",earthquake,0.788380015,0.6699370546,0.1,22,reviewed,tx,tx
 2023-09-18T05:41:12.930Z,34.1506667,-116.4198333,7.72,1.14,ml,26,54,0.04743,0.15,ci,ci39667794,2023-09-18T05:51:43.100Z,"4 km NNE of Yucca Valley, CA",earthquake,0.23,0.67,0.15,27,automatic,ci,ci
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T16:03:59.775Z,63.0088,-145.0581,6.9,2.2,ml,,,,0.63,ak,ak023by99xu1,2023-09-17T16:05:52.445Z,"29 km ESE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-17T15:48:42.130Z,38.7804985,-122.7543335,0.68,1.04,md,13,69,0.01323,0.03,nc,nc73937871,2023-09-17T15:50:17.637Z,"0 km NNE of The Geysers, CA",earthquake,0.24,0.55,0.3,12,automatic,nc,nc
 2023-09-17T15:46:37.900Z,38.7804985,-122.7614975,0.12,1.48,md,20,62,0.01031,0.05,nc,nc73937866,2023-09-17T16:24:13.243Z,"1 km NW of The Geysers, CA",earthquake,0.22,0.49,0.15,19,automatic,nc,nc
-2023-09-17T15:33:48.920Z,33.3138333,-116.1468333,2.54,1.2,ml,40,32,0.139,0.29,ci,ci39667522,2023-09-17T15:44:09.210Z,"18 km SSW of Oasis, CA",earthquake,0.32,0.93,0.123,27,automatic,ci,ci
