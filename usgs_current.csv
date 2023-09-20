@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T19:46:19.090Z,17.9525,-67.0808333333333,7.4,2.13,md,15,230,0.0387,0.08,pr,pr71425358,2023-09-20T19:56:44.430Z,"Puerto Rico region",earthquake,0.37,0.13,0.117024628529108,4,reviewed,pr,pr
 2023-09-20T19:26:10.290Z,38.8284988,-122.854332,1.78,0.66,md,12,71,0.002201,0.01,nc,nc73939496,2023-09-20T19:27:45.592Z,"10 km NW of The Geysers, CA",earthquake,0.34,0.52,0.32,12,automatic,nc,nc
 2023-09-20T19:22:32.588Z,-44.8387,35.2805,7.56,5.8,mww,43,44,16.779,0.99,us,us7000kwz5,2023-09-20T21:25:39.463Z,"Prince Edward Islands region",earthquake,11.32,4.438,0.083,14,reviewed,us,us
-2023-09-20T19:15:32.284Z,37.2925,-104.4932,5.906,2.8,mb_lg,9,65,0.167,0.07,us,us7000kwz1,2023-09-20T22:20:45.094Z,"7 km NNW of El Moro, Colorado",earthquake,2.15,5.987,0.109,40,reviewed,us,us
+2023-09-20T19:15:32.284Z,37.2925,-104.4932,5.906,2.8,mb_lg,9,65,0.167,0.07,us,us7000kwz1,2023-09-20T22:33:15.087Z,"7 km NNW of El Moro, Colorado",earthquake,2.15,5.987,0.109,40,reviewed,us,us
 2023-09-20T19:11:17.160Z,34.7131667,-116.3385,8.39,0.9,ml,8,101,0.116,0.09,ci,ci37573244,2023-09-20T21:02:30.154Z,"16 km W of Ludlow, CA",earthquake,0.26,0.92,0.192,5,reviewed,ci,ci
 2023-09-20T19:10:38.380Z,34.2051667,-117.0576667,2.92,1.2,ml,42,49,0.06731,0.14,ci,ci39669778,2023-09-20T20:52:59.190Z,"5 km E of Running Springs, CA",earthquake,0.18,0.53,0.125,28,reviewed,ci,ci
 2023-09-20T18:56:15.550Z,34.9891667,-118.193,-0.93,1.27,ml,18,64,0.1139,0.21,ci,ci39669754,2023-09-20T20:42:06.931Z,"7 km SSW of Mojave, CA",earthquake,0.52,31.61,0.071,11,reviewed,ci,ci
@@ -204,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T23:07:30.140Z,38.8431664,-122.8793335,2.51,0.29,md,8,97,0.005892,0.01,nc,nc73939136,2023-09-19T23:09:08.231Z,"13 km ENE of Cloverdale, CA",earthquake,0.56,0.63,0.16,7,automatic,nc,nc
 2023-09-19T23:03:34.899Z,57.4698,-155.8091,74.2,1.7,ml,,,,0.17,ak,ak023c1oim4x,2023-09-19T23:05:07.608Z,"81 km W of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-19T22:44:21.540Z,38.8111649,-122.8278351,2.48,1.32,md,25,61,0.002522,0.02,nc,nc73939131,2023-09-19T22:45:58.153Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.39,0.15,25,automatic,nc,nc
-2023-09-19T22:35:03.430Z,38.8380013,-122.8270035,2.01,0.26,md,7,93,0.006651,0.01,nc,nc73939121,2023-09-19T22:36:37.775Z,"9 km NW of The Geysers, CA",earthquake,0.73,1.76,0.17,8,automatic,nc,nc
-2023-09-19T22:35:00.830Z,19.1325,-65.485,46,3.66,md,18,249,0.9383,0.37,pr,pr2023262002,2023-09-19T23:17:46.040Z,"86 km NNE of Vieques, Puerto Rico",earthquake,2.59,8.96,0.12,13,reviewed,pr,pr
-2023-09-19T22:33:19.690Z,32.9131667,-116.2466667,11.06,0.83,ml,24,95,0.0631,0.14,ci,ci39669226,2023-09-19T22:55:49.035Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.39,0.095,10,reviewed,ci,ci
