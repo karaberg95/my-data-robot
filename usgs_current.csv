@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T19:18:55.740Z,33.8396667,-117.4928333,0.55,1.45,ml,35,41,0.04557,0.34,ci,ci40569992,2023-09-21T19:22:33.031Z,"5 km SSE of Home Gardens, CA",quarry blast,0.43,31.61,0.194,31,automatic,ci,ci
 2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T18:57:15.110Z,38.8134995,-122.7953339,1.12,0.77,md,9,74,0.005523,0.02,nc,nc73939956,2023-09-21T18:58:51.048Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.91,0.11,9,automatic,nc,nc
-2023-09-21T18:51:35.430Z,33.9016667,-116.8551667,13.71,1.04,ml,24,62,0.1388,0.18,ci,ci40569984,2023-09-21T18:55:05.890Z,"3 km SE of Banning, CA",earthquake,0.32,0.89,0.145,22,automatic,ci,ci
+2023-09-21T18:51:35.400Z,33.8968333,-116.8551667,13.5,1.01,ml,32,70,0.07932,0.15,ci,ci40569984,2023-09-21T20:47:31.730Z,"4 km SSE of Banning, CA",earthquake,0.18,0.57,0.117,18,reviewed,ci,ci
 2023-09-21T18:41:18.112Z,60.0297,-152.8553,90.7,2,ml,,,,0.38,ak,ak023c4wu90j,2023-09-21T18:43:12.286Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T18:32:32.130Z,19.2671661376953,-155.402160644531,30.1800003051758,2.33,ml,52,133,,0.129999995,hv,hv73582402,2023-09-21T19:24:09.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.660000026,3.03,23,automatic,hv,hv
 2023-09-21T18:23:22.771Z,-6.2293,122.6361,12.127,4.7,mb,40,57,3.114,0.94,us,us7000kx63,2023-09-21T19:54:05.040Z,"84 km S of Baubau, Indonesia",earthquake,7.54,4.709,0.1,30,reviewed,us,us
@@ -81,7 +81,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:55:56.140Z,54.7408333333333,-164.129,1.5,1.47,ml,4,193,,0.09,av,av92052601,2023-09-21T18:15:33.050Z,"47 km WSW of False Pass, Alaska",earthquake,0.47,0.43,0.137302150236888,4,reviewed,av,av
 2023-09-21T10:48:38.780Z,48.178333333333335,-121.4965,9.97,0.91,ml,11,108,0.09702,0.18,uw,uw61961181,2023-09-21T17:20:34.780Z,"11 km SE of Darrington, Washington",earthquake,0.46,1.09,0.2310148067392258,2,reviewed,uw,uw
 2023-09-21T10:35:05.310Z,33.4913333,-116.5856667,9.83,0.51,ml,22,73,0.01422,0.12,ci,ci39670138,2023-09-21T14:30:10.503Z,"11 km SE of Anza, CA",earthquake,0.2,0.38,0.226,7,reviewed,ci,ci
+2023-09-21T10:29:52.830Z,56.8765,-158.094833333333,3.99,1.07,ml,4,218,,0.08,av,av92052586,2023-09-21T20:48:45.760Z,"67 km NNE of Chignik, Alaska",earthquake,0.62,1.01,0.231521004820526,4,reviewed,av,av
 2023-09-21T10:22:25.969Z,36.14516667,-98.09733333,6.91,1.3,ml,45,44,0.2051597407,0.17,ok,ok2023snhv,2023-09-21T20:22:27.708Z,"13 km SE of Ames, Oklahoma",earthquake,,0.4,0.23,6,reviewed,ok,ok
+2023-09-21T10:15:49.160Z,58.2165,-155.1145,4.08,0.21,ml,6,93,,0.13,av,av92052571,2023-09-21T20:46:30.160Z,"82 km NNW of Karluk, Alaska",earthquake,0.32,1.29,0.238362325698514,7,reviewed,av,av
 2023-09-21T10:11:05.100Z,33.6348333,-116.686,13.42,0.33,ml,18,66,0.03547,0.1,ci,ci39670130,2023-09-21T14:25:19.472Z,"9 km N of Anza, CA",earthquake,0.24,0.43,0.109,6,reviewed,ci,ci
 2023-09-21T10:09:24.493Z,-23.2426,-66.7283,204.544,4.5,mb,56,34,1.367,1.16,us,us7000kx27,2023-09-21T10:39:35.040Z,"107 km W of El Aguilar, Argentina",earthquake,7.87,7.616,0.065,70,reviewed,us,us
 2023-09-21T10:07:45.150Z,44.4545,-111.0051667,6.7,0.83,ml,9,130,0.1213,0.25,uu,uu60550547,2023-09-21T13:22:02.980Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.48,7.02,0.251,2,reviewed,uu,uu
@@ -203,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T21:25:47.530Z,33.3545,-116.8883333,11.67,1.11,ml,32,35,0.02151,0.16,ci,ci39669906,2023-09-20T22:02:00.140Z,"2 km W of Palomar Observatory, CA",earthquake,0.19,0.44,0.131,24,reviewed,ci,ci
 2023-09-20T21:08:05.690Z,38.8443336,-122.8381653,1.67,0.63,md,8,137,0.006106,0.01,nc,nc73939556,2023-09-20T21:09:39.954Z,"10 km WNW of Cobb, CA",earthquake,0.39,0.65,0.15,9,automatic,nc,nc
 2023-09-20T21:01:10.360Z,38.8376656,-122.7985001,2.19,0.21,md,9,70,0.006413,0.02,nc,nc73939551,2023-09-20T21:02:44.711Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.49,0.09,9,automatic,nc,nc
-2023-09-20T20:48:45.218Z,31.64950204,-104.4291219,4.254882812,1.974378152,ml(texnet),17,78.40931208,0.007152892132,0.2259094218,tx,tx2023smgz,2023-09-21T17:43:32.375Z,"58 km S of Whites City, New Mexico",earthquake,1.546488992,1.030026856,0.1073502336,7,reviewed,tx,tx
