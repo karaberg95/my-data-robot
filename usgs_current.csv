@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T13:43:42.330Z,38.7756653,-122.7356644,1.93,1.1,md,14,64,0.007606,0.02,nc,nc73940286,2023-09-22T13:45:19.687Z,"2 km E of The Geysers, CA",earthquake,0.3,0.5,0.09,17,automatic,nc,nc
+2023-09-22T13:42:38.450Z,35.7773333,-117.5828333,6.92,2.12,ml,25,92,0.1512,0.17,ci,ci40570312,2023-09-22T13:46:38.297Z,"16 km W of Searles Valley, CA",earthquake,0.3,0.96,0.134,26,automatic,ci,ci
 2023-09-22T13:35:20.515Z,60.0739,-151.5672,61.3,1.3,ml,,,,0.42,ak,ak023c6hd5df,2023-09-22T13:36:39.682Z,"6 km ENE of Ninilchik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-22T13:08:14.620Z,38.8226662,-122.8544998,2.49,0.67,md,13,94,0.005212,0.02,nc,nc73940271,2023-09-22T13:09:49.101Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.56,0.35,13,automatic,nc,nc
 2023-09-22T12:58:12.060Z,38.8053322,-122.7634964,3.31,0.72,md,6,168,0.02499,0.03,nc,nc73940266,2023-09-22T12:59:48.840Z,"3 km N of The Geysers, CA",earthquake,1.19,1.58,0.16,7,automatic,nc,nc
