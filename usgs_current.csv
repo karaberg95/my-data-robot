@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T06:59:28.795Z,62.5551,-153.1008,5.4,1.4,ml,,,,0.59,ak,ak023c6dc9o9,2023-09-22T07:01:52.506Z,"82 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-22T06:55:36.420Z,38.8176651,-122.7639999,1.83,0.44,md,10,112,0.0136,0.02,nc,nc73940186,2023-09-22T06:57:13.144Z,"4 km W of Cobb, CA",earthquake,0.32,0.78,0.24,11,automatic,nc,nc
 2023-09-22T06:55:20.460Z,38.838501,-122.8186646,2.03,0.26,md,8,171,0.01314,0.02,nc,nc73940181,2023-09-22T06:56:54.113Z,"8 km WNW of Cobb, CA",earthquake,0.73,1.46,0.15,8,automatic,nc,nc
-2023-09-22T06:46:37.322Z,43.5237,-127.2753,10,3,ml,48,274,2.353,0.67,us,us7000kxaw,2023-09-22T12:26:23.040Z,"236 km W of Bandon, Oregon",earthquake,11.15,2.023,0.037,98,reviewed,us,us
