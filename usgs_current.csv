@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-23T13:48:20.190Z,35.6185,-117.471,1.17,1.25,ml,17,70,0.06039,0.19,ci,ci40570936,2023-09-23T13:51:58.434Z,"18 km SSW of Searles Valley, CA",earthquake,0.79,1.85,0.087,12,automatic,ci,ci
 2023-09-23T13:39:13.020Z,63.116,-143.5973,0,1.2,ml,,,,1.58,ak,ak023c84xc5i,2023-09-23T13:40:53.640Z,"23 km NNE of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-23T13:31:13.390Z,37.6858,-116.1786,4,1.1,ml,8,217.81,0.49,0.1426,nn,nn00866293,2023-09-23T13:33:36.791Z,"Nevada",earthquake,,17.5,1.11,6,automatic,nn,nn
 2023-09-23T13:23:54.558Z,62.2424,-150.839,68.3,1.5,ml,,,,0.52,ak,ak023c84tzwf,2023-09-23T13:26:18.959Z,"28 km S of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -164,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T20:12:24.222Z,34.06218338,-97.41573334,5,2.49,ml,30,83.47467041,0.1896961629,0.8489113718,ok,ok2023spwu,2023-09-22T20:18:07.475Z,"11 km S of Wilson, Oklahoma",earthquake,2.753033374,,0.4,14,automatic,ok,ok
 2023-09-22T20:10:17.540Z,33.0221667,-116.346,9.85,1.01,ml,23,49,0.07398,0.17,ci,ci40570544,2023-09-22T20:13:50.686Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.33,0.61,0.262,15,automatic,ci,ci
 2023-09-22T20:06:30.048Z,51.4683,-179.1587,64.6,3.8,ml,,,,0.51,ak,ak023c6lczmt,2023-09-22T23:14:47.641Z,"180 km WSW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-09-22T19:50:56.440Z,44.69683333333333,-123.2685,-0.34,1.31,ml,5,156,0.1143,0.21,uw,uw61961586,2023-09-23T04:07:44.020Z,"Oregon",explosion,0.62,31.61,0.1727752065254078,4,reviewed,uw,uw
+2023-09-22T19:50:56.440Z,44.69683333333333,-123.2685,-0.34,1.31,ml,5,156,0.1143,0.21,uw,uw61961586,2023-09-23T04:07:44.020Z,"4 km NW of Adair Village, Oregon",explosion,0.62,31.61,0.1727752065254078,4,reviewed,uw,uw
 2023-09-22T19:44:58.950Z,54.7281666666667,-164.130833333333,1.85,1.48,ml,5,206,,0.18,av,av91116503,2023-09-22T23:57:36.090Z,"48 km WSW of False Pass, Alaska",earthquake,0.78,1.31,0.187954266376411,5,reviewed,av,av
 2023-09-22T19:38:11.844Z,37.1386,-116.3073,7.4,-0.3,ml,5,156.25,0.043,0.0388,nn,nn00866272,2023-09-22T21:33:13.733Z,"47 km ENE of Beatty, Nevada",earthquake,,2.6,0.25,4,reviewed,nn,nn
 2023-09-22T19:36:06.305Z,58.6067,-153.9341,77.3,1.7,ml,,,,0.22,ak,ak023c6kxxme,2023-09-22T19:37:32.347Z,"85 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -176,6 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T19:14:49.700Z,40.7403333,-112.0525,9.1,1.41,ml,22,43,0.01839,0.13,uu,uu60550672,2023-09-22T21:32:53.440Z,"5 km NE of Magna, Utah",earthquake,0.29,0.61,0.159,6,reviewed,uu,uu
 2023-09-22T19:13:40.573Z,43.3373,138.9871,219.462,4.1,mb,66,64,2.728,0.59,us,us7000kxi2,2023-09-22T20:59:32.040Z,"117 km WNW of Suttsu, Japan",earthquake,7.96,8.031,0.072,57,reviewed,us,us
 2023-09-22T19:09:13.241Z,35.54133606,-96.75125122,3.585733414,1.88,ml,17,59.79899216,0.1148170531,0.3818920009,ok,ok2023spus,2023-09-22T19:13:16.834Z,"8 km NW of Prague, Oklahoma",earthquake,2.752431611,2.412850997,0.22,7,automatic,ok,ok
+2023-09-22T19:03:04.180Z,46.0063333333333,-112.470166666667,-2,1.95,ml,19,60,0.05893,0.09,mb,mb90027993,2023-09-23T13:49:53.020Z,"western Montana",quarry blast,0.27,31.61,0.161143740214416,15,reviewed,mb,mb
 2023-09-22T18:51:55.609Z,35.53883333,-96.75333333,7.91,2.97,ml,100,35,0.1169770451,0.21,ok,ok2023spud,2023-09-22T20:57:15.933Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.21,24,reviewed,ok,ok
 2023-09-22T18:50:38.790Z,46.029666666666664,-122.7305,-0.58,1.33,ml,10,243,0.1233,0.22,uw,uw61961546,2023-09-23T04:33:05.390Z,"9 km ENE of Kalama, Washington",explosion,1.04,31.61,0.1974463225411751,6,reviewed,uw,uw
 2023-09-22T18:42:35.030Z,47.160333333333334,-121.82083333333334,-0.77,1.49,ml,15,133,0.04673,0.08,uw,uw61961541,2023-09-23T04:43:18.910Z,"Washington",explosion,0.39,31.61,0.19024715546346715,12,reviewed,uw,uw
@@ -218,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T14:13:05.893Z,61.9964,-151.0981,68.1,1.4,ml,,,,0.29,ak,ak023c6htu3h,2023-09-22T14:15:20.124Z,"15 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-22T14:10:49.396Z,62.9237,-151.2328,112.1,1.6,ml,,,,2.82,ak,ak023c6htaaz,2023-09-22T14:13:14.557Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-22T14:07:50.602Z,60.7066,-147.0295,20,1.9,ml,,,,0.48,ak,ak023c6hsn90,2023-09-22T14:09:44.533Z,"25 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-22T13:53:51.447Z,36.6683,71.0422,216.467,4.2,mb,28,72,2.56,0.41,us,us7000kxe1,2023-09-23T05:00:02.040Z,"28 km SE of Jurm, Afghanistan",earthquake,7.94,3.843,0.166,10,reviewed,us,us
