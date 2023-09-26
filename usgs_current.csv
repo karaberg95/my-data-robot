@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T06:07:59.010Z,38.8069992,-122.8126678,9.26,0.86,md,7,78,0.01303,0.06,nc,nc73941651,2023-09-25T06:09:36.721Z,"6 km NW of The Geysers, CA",earthquake,1.62,7.34,0.16,7,automatic,nc,nc
 2023-09-25T05:56:28.727Z,41.5672,81.6635,10,4.4,mb,43,87,1.877,0.57,us,us7000kxy2,2023-09-25T16:46:05.040Z,"106 km W of Kuqa, China",earthquake,7.67,1.932,0.126,18,reviewed,us,us
 2023-09-25T05:53:23.720Z,33.243,-116.1256667,7.01,0.64,ml,20,86,0.094,0.14,ci,ci40572016,2023-09-25T19:13:18.370Z,"11 km N of Ocotillo Wells, CA",earthquake,0.23,0.72,0.04,7,reviewed,ci,ci
-2023-09-25T05:49:15.810Z,38.8325005,-122.8018341,2.04,0.76,md,11,53,0.01114,0.01,nc,nc73941646,2023-09-25T05:50:51.501Z,"7 km W of Cobb, CA",earthquake,0.32,1.29,0.06,12,automatic,nc,nc
