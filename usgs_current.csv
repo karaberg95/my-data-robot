@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-26T21:27:38.400Z,38.8321648,-122.8171692,1.7,1.05,md,20,53,0.01036,0.02,nc,nc73942271,2023-09-26T21:29:12.126Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.19,23,automatic,nc,nc
 2023-09-26T21:23:26.480Z,58.2775,-154.1828,77.2,2.4,ml,,,,0.68,ak,ak023cd87g20,2023-09-26T21:30:44.026Z,"78 km WNW of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-09-26T21:23:03.724Z,63.4008,-151.5053,9.8,1.3,ml,,,,0.43,ak,ak023cd87eb4,2023-09-26T21:35:11.552Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-26T21:21:30.400Z,38.7741661,-122.7433319,1.33,0.76,md,8,76,0.01043,0.02,nc,nc73942266,2023-09-26T21:23:07.259Z,"1 km ESE of The Geysers, CA",earthquake,0.39,0.95,0.27,7,automatic,nc,nc
 2023-09-26T21:19:30.210Z,33.7821667,-116.0375,2.88,0.99,ml,16,154,0.1327,0.21,ci,ci40573096,2023-09-26T21:23:00.993Z,"17 km NE of Coachella, CA",earthquake,0.51,2,0.149,19,automatic,ci,ci
 2023-09-26T21:15:41.670Z,38.8323326,-122.8151703,1.68,0.69,md,9,87,0.009772,0.01,nc,nc73942261,2023-09-26T21:17:16.069Z,"8 km NW of The Geysers, CA",earthquake,0.33,1.6,0.21,11,automatic,nc,nc
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T21:48:06.532Z,44.461,-115.195,10,2.5,ml,16,63,0.686,0.24,us,us7000ky20,2023-09-26T19:52:58.720Z,"33 km NW of Stanley, Idaho",earthquake,1.91,2.012,0.081,20,reviewed,us,us
 2023-09-25T21:46:45.960Z,60.0163,-139.5237,0,1.7,ml,,,,0.92,ak,ak023cbkt2u9,2023-09-25T21:49:44.113Z,"53 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T21:42:05.940Z,38.8413315,-122.8253326,1.89,1.04,md,14,103,0.00839,0.02,nc,nc73941871,2023-09-25T21:43:40.444Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.47,0.13,15,automatic,nc,nc
-2023-09-25T21:37:54.209Z,31.61,-104.261,6.6714,1.8,ml(texnet),21,70,0.1,0.2,tx,tx2023svmd,2023-09-26T13:26:56.544Z,"55 km NW of Toyah, Texas",earthquake,1.214100441,1.716464403,0,7,reviewed,tx,tx
