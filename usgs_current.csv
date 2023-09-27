@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T15:48:03.868Z,65.3974,-144.7962,0,2.5,ml,,,,0.65,ak,ak023cesbi2q,2023-09-27T15:50:13.361Z,"19 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-27T15:37:37.120Z,38.8185005,-122.7639999,1.67,1.44,md,28,101,0.01281,0.04,nc,nc73942571,2023-09-27T15:40:49.815Z,"4 km W of Cobb, CA",earthquake,0.22,0.33,0.19,29,automatic,nc,nc
 2023-09-27T15:35:28.080Z,38.3591652,-122.3763351,8.25,1.52,md,7,97,0.07628,0.04,nc,nc73942561,2023-09-27T15:37:04.602Z,"5 km SSW of Yountville, CA",earthquake,0.61,2.11,0.33,6,automatic,nc,nc
 2023-09-27T15:23:34.720Z,33.7416667,-116.8153333,19.36,1.11,ml,25,130,0.08344,0.28,ci,ci40573384,2023-09-27T15:27:14.075Z,"7 km E of Valle Vista, CA",earthquake,0.66,0.84,0.226,24,automatic,ci,ci
@@ -181,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T16:16:00.560Z,38.7625008,-122.758667,10.9,1.1,md,12,131,0.0099,0.09,nc,nc73942176,2023-09-26T16:17:37.343Z,"2 km S of The Geysers, CA",earthquake,0.88,0.91,0.13,13,automatic,nc,nc
 2023-09-26T16:00:43.899Z,36.19316667,-95.84783333,0,1.77,ml,39,115,0.2861438488,0.42,ok,ok2023swwn,2023-09-27T15:09:43.983Z,"8 km S of Owasso, Oklahoma",quarry blast,,0.6,0.25,4,reviewed,ok,ok
 2023-09-26T15:59:53.850Z,33.7,-116.781,13.71,0.83,ml,25,136,0.05929,0.11,ci,ci40572872,2023-09-26T16:43:27.377Z,"7 km SW of Idyllwild, CA",earthquake,0.25,0.36,0.178,11,reviewed,ci,ci
-2023-09-26T15:54:13.561Z,51.4749,15.984,5,4.5,mb,50,42,1.146,1.1,us,us7000ky7u,2023-09-26T16:38:58.040Z,"6 km WSW of Polkowice, Poland",earthquake,1.98,1.894,0.108,25,reviewed,us,us
