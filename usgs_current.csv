@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T13:29:24.794Z,64.7874,-149.3976,30.2,0.7,ml,,,,1.02,ak,ak023cer0lvj,2023-09-27T13:31:00.266Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-27T13:02:35.300Z,33.5436667,-116.5883333,1.01,0.46,ml,13,135,0.04207,0.3,ci,ci40573328,2023-09-27T13:06:13.502Z,"8 km E of Anza, CA",earthquake,0.74,0.89,0.144,7,automatic,ci,ci
 2023-09-27T12:34:05.800Z,19.1714992523193,-155.47966003418,33.8600006103516,1.90999997,md,28,163,,0.109999999,hv,hv73586432,2023-09-27T12:37:08.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.8,1.38999999,0.949999988,3,automatic,hv,hv
-2023-09-27T12:16:49.937Z,61.3563,-150.1079,32.9,1.9,ml,,,,0.69,ak,ak023ceqcfwh,2023-09-27T12:31:39.198Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-27T12:16:49.937Z,61.3563,-150.1079,32.9,1.9,ml,,,,0.69,ak,ak023ceqcfwh,2023-09-27T12:31:39.198Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-27T12:01:28.980Z,32.91,-116.2458333,8.57,1.03,ml,24,80,0.06573,0.29,ci,ci40573320,2023-09-27T12:05:00.094Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.44,1.33,0.116,15,automatic,ci,ci
 2023-09-27T11:57:51.164Z,63.0589,-150.4707,115.7,1.7,ml,,,,0.19,ak,ak023cepzsr0,2023-09-27T11:59:13.611Z,"64 km NNE of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-09-27T11:56:08.590Z,38.838665,-122.836998,1.59,1.09,md,19,118,0.001182,0.02,nc,nc73942536,2023-09-27T11:57:45.185Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.38,0.14,21,automatic,nc,nc
@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T05:40:03.161Z,-4.4378,153.0896,10,4.5,mb,38,124,0.955,0.5,us,us6000lb1j,2023-09-27T06:37:43.040Z,"91 km E of Kokopo, Papua New Guinea",earthquake,7.66,1.889,0.094,34,reviewed,us,us
 2023-09-27T05:31:29.344Z,58.1705,-155.4122,0,1.4,ml,,,,0.59,ak,ak023cem9kti,2023-09-27T05:33:44.271Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-27T05:28:09.610Z,37.2201653,-121.6086655,3.16,1.33,md,11,71,0.05836,0.06,nc,nc73942466,2023-09-27T05:29:42.840Z,"11 km NNE of Morgan Hill, CA",earthquake,0.26,0.91,0.12,8,automatic,nc,nc
-2023-09-27T05:27:58.180Z,37.519001,-118.8541641,5.85,2.84,md,23,113,0.07365,0.03,nc,nc73942461,2023-09-27T08:07:21.118Z,"16 km WSW of Toms Place, CA",earthquake,0.49,0.83,0.1,30,automatic,nc,nc
+2023-09-27T05:27:58.180Z,37.519001,-118.8541641,5.85,2.84,md,23,113,0.07365,0.03,nc,nc73942461,2023-09-27T15:49:02.636Z,"16 km WSW of Toms Place, CA",earthquake,0.49,0.83,0.1,30,automatic,nc,nc
 2023-09-27T05:20:44.304Z,32.752,-100.639,6.8962,2.4,ml(texnet),16,80,0.1,0.2,tx,tx2023sxwx,2023-09-27T14:26:35.601Z,"17 km NE of Hermleigh, Texas",earthquake,0.8360448463,1.669633226,0,6,reviewed,tx,tx
 2023-09-27T05:05:24.990Z,35.7483333,-117.998,1.83,1.5,ml,23,42,0.1198,0.13,ci,ci40573272,2023-09-27T13:34:41.240Z,"20 km NW of Inyokern, CA",earthquake,0.16,0.49,0.222,14,reviewed,ci,ci
 2023-09-27T04:56:51.960Z,36.1173325,-120.2118301,9.33,1.5,md,7,195,0.03614,0.06,nc,nc73942446,2023-09-27T04:58:29.156Z,"13 km E of Coalinga, CA",earthquake,1.06,0.58,0.13,5,automatic,nc,nc
