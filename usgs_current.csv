@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-28T19:29:53.640Z,59.9606,-152.4085,77,1.7,ml,,,,0.26,ak,ak023cgi4m84,2023-09-28T19:31:41.480Z,"37 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-28T19:29:27.880Z,32.7048333,-115.5576667,15.47,1.53,ml,13,69,0.08045,0.31,ci,ci40574040,2023-09-28T19:33:04.855Z,"4 km SW of Heber, CA",earthquake,0.74,1.07,0.384,18,automatic,ci,ci
 2023-09-28T19:25:22.530Z,35.5901667,-117.4646667,2.82,1.31,ml,15,64,0.1044,0.16,ci,ci40574032,2023-09-28T19:28:48.832Z,"19 km E of Ridgecrest, CA",earthquake,0.33,0.71,0.213,11,automatic,ci,ci
 2023-09-28T19:23:17.570Z,32.7226667,-115.5538333,8.04,1.68,ml,17,96,0.0707,0.21,ci,ci40574024,2023-09-28T19:26:59.865Z,"2 km WSW of Heber, CA",earthquake,0.52,2.29,0.244,24,automatic,ci,ci
+2023-09-28T19:21:17.447Z,-5.2575,152.7555,48.948,5.7,mww,67,56,1.212,0.81,us,us6000lbhd,2023-09-28T19:39:04.791Z,"114 km SSE of Kokopo, Papua New Guinea",earthquake,7.07,6.324,0.061,26,reviewed,us,us
 2023-09-28T18:45:37.140Z,19.3276672363281,-155.242004394531,7.05000019073486,2.14,ml,26,177,,0.200000003,hv,hv73587482,2023-09-28T18:51:09.700Z,"12 km S of Volcano, Hawaii",earthquake,1.06,0.860000014,0.33,8,automatic,hv,hv
 2023-09-28T18:45:31.120Z,19.3444995880127,-155.254501342773,30.3600006103516,2.21,ml,52,111,,0.140000001,hv,hv73587487,2023-09-28T18:51:15.710Z,"11 km S of Volcano, Hawaii",earthquake,0.4,0.469999999,1.87,20,automatic,hv,hv
-2023-09-28T17:56:18.980Z,38.2998352,-119.3659973,5.51,2.72,md,30,93,0.07621,0.17,nc,nc73943081,2023-09-28T18:54:00.565Z,"13 km WNW of Bridgeport, CA",earthquake,0.35,1.01,0.23,20,automatic,nc,nc
+2023-09-28T17:56:18.980Z,38.2998352,-119.3659973,5.51,2.72,md,30,93,0.07621,0.17,nc,nc73943081,2023-09-28T19:35:31.736Z,"13 km WNW of Bridgeport, CA",earthquake,0.35,1.01,0.23,20,automatic,nc,nc
 2023-09-28T17:52:30.440Z,32.7331667,-115.5568333,12.86,1.69,ml,23,98,0.03722,0.24,ci,ci40573984,2023-09-28T18:37:08.042Z,"3 km W of Heber, CA",earthquake,0.48,0.59,0.275,16,reviewed,ci,ci
 2023-09-28T17:51:20.700Z,17.922,-66.948,9.01,2.27,md,6,232,0.08406,0.07,pr,pr71426413,2023-09-28T18:37:35.970Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.9,1.24,0.0158514446743454,3,reviewed,pr,pr
 2023-09-28T17:51:03.653Z,60.4346,-143.2918,19.7,1,ml,,,,0.21,ak,ak023cgh2cwt,2023-09-28T17:52:35.041Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -223,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T20:05:00.940Z,38.4896667,-112.8388333,0.1,-0.02,md,7,207,0.0268,0.09,uu,uu60550987,2023-09-28T18:31:13.050Z,"18 km NE of Milford, Utah",earthquake,0.82,7.83,0.742,3,reviewed,uu,uu
 2023-09-27T20:00:21.390Z,38.558,-119.5118333,4.58,3.6,ml,25,112,0.02859,0.07,nc,nc73942611,2023-09-28T16:50:25.875Z,"6 km NNW of Walker, CA",earthquake,0.2,0.34,0.182,161,reviewed,nc,nc
 2023-09-27T19:56:53.767Z,57.5072,-156.2358,87.9,2.2,ml,,,,0.22,ak,ak023ceur22o,2023-09-27T19:59:40.321Z,"69 km E of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-27T19:39:34.492Z,31.601,-104.55,5.5403,2.5,ml(texnet),27,75,0.1,0.2,tx,tx2023syzg,2023-09-28T11:16:53.529Z,"65 km SSW of Whites City, New Mexico",earthquake,1.715207165,1.405031439,0.1,19,reviewed,tx,tx
-2023-09-27T19:34:27.271Z,31.641,-104.515,6.3886,2.3,ml(texnet),14,77,0,0.1,tx,tx2023syzc,2023-09-28T13:32:36.294Z,"western Texas",earthquake,0.9153169496,0.4359606895,0.1,22,reviewed,tx,tx
