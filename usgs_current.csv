@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T06:28:04.373Z,1.1982,-78.823,52.807,4.1,mb,17,97,0.097,0.72,us,us6000lbba,2023-09-28T07:11:48.040Z,"9 km S of San Lorenzo de Esmeraldas, Ecuador",earthquake,6.4,5.554,0.234,5,reviewed,us,us
 2023-09-28T05:58:49.570Z,39.1534996,-123.0634995,5.73,1.79,md,12,97,0.02558,0.08,nc,nc73942921,2023-09-28T06:00:26.641Z,"9 km ENE of Talmage, CA",earthquake,0.39,0.8,0.13,10,automatic,nc,nc
 2023-09-28T05:58:00.960Z,38.831665,-122.8188324,1.26,0.66,md,15,58,0.01072,0.02,nc,nc73942916,2023-09-28T05:59:34.656Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.64,0.42,16,automatic,nc,nc
-2023-09-28T05:53:11.904Z,11.5766,43.2248,9.795,4.6,mb,50,87,0.373,0.69,us,us6000lbb5,2023-09-28T12:04:26.860Z,"8 km E of Djibouti, Djibouti",earthquake,8.29,5.222,0.09,37,reviewed,us,us
+2023-09-28T05:53:11.904Z,11.5766,43.2248,9.795,4.6,mb,50,87,0.373,0.69,us,us6000lbb5,2023-09-28T14:52:33.365Z,"8 km E of Djibouti, Djibouti",earthquake,8.29,5.222,0.09,37,reviewed,us,us
 2023-09-28T05:47:45.500Z,19.6526,-65.6818,76,3.62,md,10,315,1.4852,0.48,pr,pr2023271000,2023-09-28T06:17:03.862Z,"136 km N of Suárez, Puerto Rico",earthquake,8.41,20.67,0.02,4,reviewed,pr,pr
 2023-09-28T05:45:11.060Z,33.2748333,-116.7763333,9.26,0.58,ml,11,105,0.04145,0.2,ci,ci40573752,2023-09-28T05:48:49.509Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.63,1.71,0.134,12,automatic,ci,ci
 2023-09-28T05:43:11.310Z,17.9393333333333,-66.2811666666667,14.02,2.45,md,11,193,0.1605,0.24,pr,pr71426253,2023-09-28T05:55:06.060Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.85,2.2,0.104480786819726,5,reviewed,pr,pr
@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T15:06:44.618Z,60.2363,-148.5686,13.9,2.1,ml,,,,0.98,ak,ak023ces2l5c,2023-09-27T15:09:17.156Z,"36 km WNW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-27T15:05:05.940Z,18.0315,-66.7883333333333,13.23,2.46,md,9,152,0.1031,0.2,pr,pr71426138,2023-09-27T15:17:30.610Z,"1 km NNE of Guayanilla, Puerto Rico",earthquake,0.61,0.72,0.0698640880846977,5,reviewed,pr,pr
 2023-09-27T15:00:09.750Z,35.804,-95.02966667,5.83,1.73,ml,49,75,0.3635286633,0.31,ok,ok2023syqa,2023-09-28T13:48:06.318Z,"2 km SE of Zeb, Oklahoma",earthquake,,1.2,0.19,8,reviewed,ok,ok
-2023-09-27T14:46:31.576Z,60.3186,-151.8798,100.3,2.1,ml,,,,0.83,ak,ak023cerppdk,2023-09-27T14:48:10.181Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
