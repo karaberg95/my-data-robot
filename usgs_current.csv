@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-28T11:16:49.631Z,62.2043,-148.9701,32.6,1.2,ml,,,,0.15,ak,ak023cgdacrn,2023-09-28T11:18:34.319Z,"46 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-28T11:13:23.838Z,31.5923,-104.5321,6.031,2.9,ml,31,62,0.081,0.37,us,us6000lbcu,2023-09-28T11:23:42.040Z,"66 km SSW of Whites City, New Mexico",earthquake,2.09,1.015,0.051,50,reviewed,us,us
 2023-09-28T10:45:21.670Z,19.1576671600342,-155.477493286133,31.4799995422363,1.72000003,md,37,127,,0.119999997,hv,hv73587222,2023-09-28T10:48:31.090Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.879999995,0.620000005,5,automatic,hv,hv
 2023-09-28T10:36:42.810Z,37.3041667,-122.0795,4.89,0.8,md,18,84,0.006344,0.13,nc,nc73942981,2023-09-28T10:57:22.134Z,"5 km WSW of Cupertino, CA",earthquake,0.31,0.3,0.314,12,reviewed,nc,nc
 2023-09-28T10:36:20.110Z,17.9355,-66.289,7.34,2.58,md,11,195,0.1759,0.2,pr,pr71426338,2023-09-28T11:08:35.750Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.78,1.33,0.16897482950755,10,reviewed,pr,pr
