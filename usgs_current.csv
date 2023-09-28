@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-28T14:17:38.361Z,58.7755,-154.6568,118.1,1.9,ml,,,,0.41,ak,ak023cgf2tos,2023-09-28T14:19:43.989Z,"74 km S of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-28T14:12:10.327Z,61.7117,-151.848,92.4,1.7,ml,,,,0.85,ak,ak023cgf1poo,2023-09-28T14:14:23.939Z,"39 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-28T14:04:25.668Z,62.7841,-148.5683,13.3,1.2,ml,,,,0.42,ak,ak023cgf0152,2023-09-28T14:06:00.357Z,"70 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-28T14:00:45.712Z,-6.3468,130.1077,173.15,4.9,mb,35,96,1.824,0.66,us,us6000lbd8,2023-09-28T14:20:08.040Z,"Banda Sea",earthquake,10.72,8.621,0.072,61,reviewed,us,us
 2023-09-28T13:45:08.414Z,63.2401,-150.3968,112.2,1.4,ml,,,,0.29,ak,ak023cgenck9,2023-09-28T13:47:01.877Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-28T13:36:22.590Z,38.793335,-122.8238297,2.1,0.77,md,15,100,0.008753,0.03,nc,nc73943026,2023-09-28T13:37:57.918Z,"6 km WNW of The Geysers, CA",earthquake,0.29,0.62,0.17,16,automatic,nc,nc
 2023-09-28T13:35:02.220Z,19.1456661224365,-155.477661132812,33.6500015258789,2.25999999,md,43,165,,0.100000001,hv,hv73587292,2023-09-28T13:38:19.330Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,0.910000026,0.230000004,21,automatic,hv,hv
@@ -197,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T15:00:09.750Z,35.804,-95.02966667,5.83,1.73,ml,49,75,0.3635286633,0.31,ok,ok2023syqa,2023-09-28T13:48:06.318Z,"2 km SE of Zeb, Oklahoma",earthquake,,1.2,0.19,8,reviewed,ok,ok
 2023-09-27T14:46:31.576Z,60.3186,-151.8798,100.3,2.1,ml,,,,0.83,ak,ak023cerppdk,2023-09-27T14:48:10.181Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-27T14:41:05.604Z,62.0216,-149.4133,51,1.4,ml,,,,0.99,ak,ak023ceroklc,2023-09-27T14:43:46.331Z,"27 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-27T14:27:48.980Z,40.0856667,-123.8231659,6.11,1.48,md,5,263,0.06219,0.04,nc,nc73942556,2023-09-27T14:29:24.849Z,"4 km S of Redway, CA",earthquake,2.07,1.1,0.15,3,automatic,nc,nc
-2023-09-27T14:26:19.734Z,57.9819,-151.6332,3,2.6,ml,,,,0.76,ak,ak023cerldxx,2023-09-27T14:29:24.947Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
