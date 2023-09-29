@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T23:29:53.871Z,63.2732,-149.7153,81.9,1.2,ml,,,,0.37,ak,ak023ci81p5n,2023-09-29T23:31:34.642Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T23:05:15.621Z,61.3753,-146.4033,32.5,1.2,ml,,,,0.64,ak,ak023ci7wh0q,2023-09-29T23:07:32.337Z,"27 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T23:01:10.790Z,59.1782,-152.9346,69.8,2.1,ml,,,,0.33,ak,ak023ci7vls7,2023-09-29T23:16:00.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T22:52:52.551Z,62.4489,-151.3153,84.8,1.2,ml,,,,0.38,ak,ak023ci7l6x3,2023-09-29T22:54:49.234Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -139,12 +140,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:22:37.333Z,57.9765,-154.4933,250,1.4,ml,,,,0.74,ak,ak023chz2nsl,2023-09-29T08:25:43.861Z,"45 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-29T08:16:38.220Z,33.3115,-116.2376667,4.51,1.74,ml,52,24,0.1193,0.2,ci,ci40574288,2023-09-29T12:58:55.350Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.93,0.158,27,reviewed,ci,ci
 2023-09-29T08:14:19.400Z,18.0343333333333,-66.7975,17.05,2.08,md,6,146,0.09762,0.09,pr,pr71426458,2023-09-29T08:23:14.120Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.56,0.98,0.0216757970324064,5,reviewed,pr,pr
+2023-09-29T08:10:39.600Z,60.5173333333333,-152.7415,4.16,-0.28,ml,7,121,,0.04,av,av92066721,2023-09-29T23:34:22.840Z,"78 km W of Salamatof, Alaska",earthquake,0.29,0.7,0.250938177866698,7,reviewed,av,av
 2023-09-29T08:09:55.350Z,37.5701667,-118.827,5.39,0.37,md,9,279,0.0199,0.01,nc,nc73943221,2023-09-29T09:27:40.845Z,"13 km W of Toms Place, CA",earthquake,2.19,2.17,0.194,9,reviewed,nc,nc
 2023-09-29T08:05:50.078Z,61.437,-149.9849,164.6,2,ml,,,,1,ak,ak023chyz1lr,2023-09-29T08:09:03.725Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T08:00:12.742Z,37.5257,-117.9572,0,1.7,ml,12,94.49,0.158,0.1478,nn,nn00866534,2023-09-29T16:15:05.827Z,"18 km SSE of Dyer, Nevada",earthquake,,4.1,0.59,10,reviewed,nn,nn
 2023-09-29T07:58:12.570Z,-15.7285,-70.4541,218.576,4.3,mb,49,139,2.073,0.92,us,us6000lbmj,2023-09-29T12:27:53.040Z,"16 km ESE of Santa Lucía, Peru",earthquake,12.69,10.721,0.092,33,reviewed,us,us
 2023-09-29T07:57:51.936Z,36.8474,140.3369,115.362,4.5,mb,83,133,1.737,0.93,us,us6000lbmk,2023-09-29T11:03:22.180Z,"9 km N of Daigo, Japan",earthquake,8.37,6.908,0.067,65,reviewed,us,us
-2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T07:58:25.883Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
+2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T23:29:57.810Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
 2023-09-29T07:43:15.720Z,19.2938327789307,-155.407333374023,29.6900005340576,1.76999998,md,33,113,,0.109999999,hv,hv73587917,2023-09-29T07:46:20.660Z,"12 km NE of Pāhala, Hawaii",earthquake,0.61,0.730000019,1.15999997,8,automatic,hv,hv
 2023-09-29T07:42:24.717Z,61.6887,-151.8128,103,1.4,ml,,,,0.42,ak,ak023chylhjb,2023-09-29T07:45:09.232Z,"40 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T07:40:56.535Z,51.4694,-177.9601,80.024,3.7,mb,35,196,0.289,0.19,us,us6000lbmq,2023-09-29T08:35:39.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,6.91,8.37,0.205,6,reviewed,us,us
@@ -226,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T23:48:41.393Z,63.2382,-150.703,125.5,1.4,ml,,,,0.23,ak,ak023cgkmeaz,2023-09-28T23:58:41.364Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-09-28T23:44:53.320Z,31.8246667,-116.1605,5.37,2.49,ml,17,76,0.2548,0.38,ci,ci40574184,2023-09-29T21:54:16.044Z,"40 km ENE of Maneadero, B.C., MX",earthquake,0.55,31.61,0.138,59,reviewed,ci,ci
 2023-09-28T23:41:04.960Z,60.0228333333333,-153.075666666667,5.46,-0.51,ml,5,98,,0.16,av,av92066121,2023-09-29T17:13:41.750Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.72,1.23,0.22270658773676,5,reviewed,av,av
-2023-09-28T23:34:06.653Z,60.4545,-152.0082,72,1.4,ml,,,,0.39,ak,ak023cgkjbll,2023-09-28T23:36:40.142Z,"39 km W of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
