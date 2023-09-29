@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T02:03:37.850Z,33.7185,-116.8391667,15.13,0.85,ml,32,62,0.07722,0.15,ci,ci40574208,2023-09-29T02:07:25.783Z,"6 km ESE of Valle Vista, CA",earthquake,0.26,0.46,0.106,25,automatic,ci,ci
 2023-09-29T02:01:56.110Z,33.7161667,-116.8426667,15.76,1.69,ml,67,20,0.07361,0.23,ci,ci40574200,2023-09-29T02:13:10.440Z,"6 km SE of Valle Vista, CA",earthquake,0.22,0.48,0.233,26,automatic,ci,ci
 2023-09-29T02:01:21.660Z,33.72,-116.8371667,15.09,0.77,ml,23,84,0.07935,0.15,ci,ci40574192,2023-09-29T02:05:12.022Z,"6 km ESE of Valle Vista, CA",earthquake,0.39,0.53,0.164,19,automatic,ci,ci
+2023-09-29T01:54:18.358Z,-21.0437,-68.841,108.152,4.2,mwr,40,58,0.604,1.02,us,us6000lbkm,2023-09-29T02:34:02.040Z,"64 km WNW of Ollagüe, Chile",earthquake,6.61,6.45,,,reviewed,us,guc
 2023-09-29T01:53:17.797Z,-5.2209,152.8158,39.063,5,mb,50,132,1.212,0.68,us,us6000lbkp,2023-09-29T02:13:28.040Z,"New Britain region, Papua New Guinea",earthquake,11.62,7.427,0.051,125,reviewed,us,us
 2023-09-29T01:42:43.663Z,64.4721,-146.9036,0.2,1.2,ml,,,,0.83,ak,ak023chv0xda,2023-09-29T01:44:50.241Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-29T01:39:44.087Z,-17.9494,-178.0632,461.429,4.3,mb,46,38,3.705,0.68,us,us6000lbkk,2023-09-29T02:23:16.040Z,"277 km E of Levuka, Fiji",earthquake,11.4,6.394,0.073,56,reviewed,us,us
@@ -228,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T03:16:53.069Z,63.1644,-147.7062,5.8,1,ml,,,,0.69,ak,ak023cg8iw7b,2023-09-28T03:19:15.950Z,"67 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-28T02:59:54.407Z,62.2358,-151.0494,74.8,1.3,ml,,,,0.16,ak,ak023cg86ohc,2023-09-28T03:01:37.449Z,"32 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T02:57:45.861Z,38.1223,-118.0552,12.8,1.6,ml,11,58.12,0.095,0.1277,nn,nn00866450,2023-09-28T15:39:22.987Z,"California-Nevada border region",earthquake,,1.3,0.15,7,reviewed,nn,nn
-2023-09-28T02:37:47.020Z,61.6376,-149.9946,12.9,1.5,ml,,,,0.45,ak,ak023cg81y5q,2023-09-28T02:39:39.418Z,"9 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-28T02:32:43.631Z,39.7405,-120.5561,6.7,1.5,ml,6,193.15,0.142,0.0797,nn,nn00866476,2023-09-28T18:45:28.982Z,"0 km ENE of Valley Ranch, California",earthquake,,4.8,0.29,4,reviewed,nn,nn
