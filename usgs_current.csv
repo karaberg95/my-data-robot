@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T03:53:55.950Z,38.8190002,-122.8219986,2.19,1.09,md,15,55,0.01098,0.02,nc,nc73943601,2023-09-30T03:55:33.329Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.78,0.18,14,automatic,nc,nc
 2023-09-30T03:49:06.819Z,61.1276,-148.2473,13.4,0.9,ml,,,,0.67,ak,ak023cjjsk8p,2023-09-30T03:50:28.181Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-30T03:46:05.553Z,59.8516,-152.1295,60.8,1.1,ml,,,,0.56,ak,ak023cjjrwzv,2023-09-30T03:48:48.648Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-30T03:36:30.492Z,59.6752,-152.2534,59.2,1.2,ml,,,,0.11,ak,ak023cjjptrd,2023-09-30T03:37:41.661Z,"26 km WSW of Anchor Point, Alaska",earthquake,,5.3,,,automatic,ak,ak
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:11:16.620Z,38.8190002,-122.82267,2.07,0.62,md,9,119,0.01049,0.02,nc,nc73943596,2023-09-30T03:12:53.509Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.02,0.19,10,automatic,nc,nc
 2023-09-30T02:57:50.850Z,61.5416,-150.5898,44.5,1.9,ml,,,,0.65,ak,ak023cjj8xqa,2023-09-30T02:59:32.102Z,"4 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-30T02:42:39.220Z,19.147,-155.372333333333,29.77,3.17,ml,62,182,,0.12,hv,hv73588382,2023-09-30T03:10:15.981Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.4,0.48,0.152552057449013,44,reviewed,hv,hv
-2023-09-30T02:41:32.185Z,63.3703,-150.1421,115.8,2.4,ml,,,,0.26,ak,ak023cjj5gv1,2023-09-30T02:43:22.387Z,"59 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-30T02:41:32.185Z,63.3703,-150.1421,115.8,2.4,ml,,,,0.26,ak,ak023cjj5gv1,2023-09-30T03:52:17.040Z,"59 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-30T02:38:27.610Z,33.5755,-116.7213333,9.06,1.21,ml,26,55,0.01671,0.33,ci,ci40574712,2023-09-30T02:57:25.413Z,"5 km WNW of Anza, CA",earthquake,0.6,1.14,0.272,27,automatic,ci,ci
 2023-09-30T02:32:55.030Z,32.7131667,-115.5683333,15.8,1.65,ml,16,61,0.06828,0.27,ci,ci40574688,2023-09-30T02:36:39.496Z,"4 km WSW of Heber, CA",earthquake,0.65,0.93,0.298,24,automatic,ci,ci
 2023-09-30T02:31:24.810Z,38.8183327,-122.8178329,2.61,0.71,md,9,80,0.007892,0.01,nc,nc73943591,2023-09-30T02:32:57.771Z,"7 km NW of The Geysers, CA",earthquake,0.42,1.02,0.1,11,automatic,nc,nc
@@ -245,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T04:56:21.653Z,31.659,-104.445,6.6971,2,ml(texnet),23,65,0,0.2,tx,tx2023tbnc,2023-09-29T15:12:04.114Z,"western Texas",earthquake,0.8367379712,0.5352454885,0.1,6,reviewed,tx,tx
 2023-09-29T04:02:29.700Z,48.480333333333334,-121.8625,4.21,0.53,ml,6,102,0.1452,0.14,uw,uw61962891,2023-09-29T20:28:37.830Z,"10 km ESE of Hamilton, Washington",earthquake,0.71,11.5,0.024258578159957578,3,reviewed,uw,uw
 2023-09-29T04:01:30.050Z,58.257,-154.954333333333,1.89,0.37,ml,15,144,,0.21,av,av92066406,2023-09-29T21:09:17.100Z,"82 km NNW of Karluk, Alaska",earthquake,0.41,0.78,0.366563428184109,15,reviewed,av,av
-2023-09-29T03:57:48.659Z,36.544,-98.9535,6.54,1.64,ml,82,48,0.05039011174,0.24,ok,ok2023tble,2023-09-29T11:55:17.249Z,"7 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.21,26,reviewed,ok,ok
-2023-09-29T03:57:17.770Z,46.19383333333333,-122.2035,3.21,-0.05,ml,12,113,0.01061,0.08,uw,uw61962881,2023-09-29T20:20:44.770Z,"36 km NNE of Amboy, Washington",earthquake,0.6,0.48,0.07941682513645076,6,reviewed,uw,uw
-2023-09-29T03:52:50.200Z,33.274,-116.7796667,13.15,0.6,ml,28,50,0.04177,0.18,ci,ci40574240,2023-09-29T14:29:11.342Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.28,0.82,0.117,14,reviewed,ci,ci
