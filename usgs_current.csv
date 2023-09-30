@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T22:52:52.551Z,62.4489,-151.3153,84.8,1.2,ml,,,,0.38,ak,ak023ci7l6x3,2023-09-29T22:54:49.234Z,"28 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T22:51:10.026Z,60.5809,-143.0542,13.9,0.6,ml,,,,0.2,ak,ak023ci7kvx6,2023-09-29T22:52:09.338Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T22:45:39.230Z,19.1696662902832,-155.363494873047,25.9699993133545,1.92999995,md,40,192,,0.119999997,hv,hv73588262,2023-09-29T22:48:59.450Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.66,1.37,1.33000004,10,automatic,hv,hv
-2023-09-29T22:36:09.731Z,-57.9647,-25.4653,35,5.2,mb,114,75,7.179,0.51,us,us6000lbte,2023-09-29T23:07:54.040Z,"South Sandwich Islands region",earthquake,5.05,1.879,0.065,78,reviewed,us,us
