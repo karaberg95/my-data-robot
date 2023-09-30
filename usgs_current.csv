@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T06:21:26.740Z,36.004,-117.987,1.04,1.44,ml,16,125,0.1439,0.16,ci,ci40574744,2023-09-30T06:25:00.897Z,"6 km SW of Coso Junction, CA",earthquake,0.33,0.5,0.117,10,automatic,ci,ci
+2023-09-30T06:10:41.693Z,-22.4726,171.6455,85.519,4.9,mb,29,125,3.884,0.83,us,us6000lbvg,2023-09-30T06:27:12.040Z,"southeast of the Loyalty Islands",earthquake,11.23,8.003,0.114,24,reviewed,us,us
 2023-09-30T06:08:08.056Z,32.687,-100.681,2.686,2.9,mb_lg,31,35,0.44,0.58,us,us6000lbvf,2023-09-30T06:13:52.040Z,"western Texas",earthquake,1.95,8.041,0.05,105,reviewed,us,us
 2023-09-30T05:44:29.620Z,36.0721667,-117.6265,0.03,1.42,ml,10,233,0.1904,0.08,ci,ci40574736,2023-09-30T05:48:04.461Z,"29 km E of Coso Junction, CA",earthquake,0.6,31.61,0.211,7,automatic,ci,ci
 2023-09-30T05:24:25.632Z,63.414,-149.6925,101.3,1.7,ml,,,,0.31,ak,ak023cjku403,2023-09-30T05:26:10.769Z,"37 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
