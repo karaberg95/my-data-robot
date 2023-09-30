@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T12:19:59.940Z,38.8341675,-122.8113327,1.9,1.68,md,32,40,0.0108,0.03,nc,nc73943271,2023-09-29T12:23:03.002Z,"8 km W of Cobb, CA",earthquake,0.18,0.3,0.18,34,automatic,nc,nc
 2023-09-29T12:08:49.450Z,61.6702,-150.7771,67.8,1.2,ml,,,,0.54,ak,ak023ci1df4h,2023-09-29T12:10:36.230Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T11:55:38.621Z,-27.7378,-71.4878,15.439,4.1,mwr,27,146,0.592,0.7,us,us6000lbng,2023-09-29T12:14:29.040Z,"117 km NW of Vallenar, Chile",earthquake,3.91,4.638,0.038,68,reviewed,us,us
-2023-09-29T11:41:12.772Z,-4.2537,138.4754,130.7,4.1,mb,28,123,2.816,0.71,us,us6000lbnf,2023-09-29T12:00:05.040Z,"147 km NNE of Agats, Indonesia",earthquake,11.42,9.917,0.13,16,reviewed,us,us
-2023-09-29T11:40:52.846Z,62.1967,-150.1117,24.3,0.9,ml,,,,0.63,ak,ak023ci0yup0,2023-09-29T11:42:54.354Z,"14 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
