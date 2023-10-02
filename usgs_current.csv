@@ -23,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T11:18:25.490Z,18.0388333333333,-66.8466666666667,8.11,2.58,md,5,155,0.07061,0.33,pr,pr71427273,2023-10-02T11:49:42.650Z,"0 km NE of Yauco, Puerto Rico",earthquake,2.66,6.46,0.0175794822504762,2,reviewed,pr,pr
 2023-10-02T11:18:20.820Z,38.6836662,-122.4953308,8.23,1.37,md,12,112,0.09111,0.06,nc,nc73944511,2023-10-02T11:19:54.436Z,"13 km NNW of Angwin, CA",earthquake,0.45,1.79,0.16,11,automatic,nc,nc
 2023-10-02T11:04:11.350Z,33.2716667,-116.7795,11.25,0.61,ml,21,52,0.1323,0.16,ci,ci40575424,2023-10-02T12:57:08.744Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.25,1.14,0.128,13,reviewed,ci,ci
+2023-10-02T11:02:18.980Z,44.8323333,-110.9445,6.34,0.98,ml,14,99,0.08008,0.13,uu,uu60551287,2023-10-02T13:36:29.330Z,"20 km ENE of Hebgen Lake Estates, Montana",earthquake,0.42,1.06,0.432,3,reviewed,uu,uu
 2023-10-02T11:01:18.810Z,33.2743333,-116.78,11.47,0.87,ml,24,53,0.04219,0.18,ci,ci40575416,2023-10-02T12:57:03.656Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.25,0.81,0.12,25,reviewed,ci,ci
 2023-10-02T10:48:52.430Z,38.6838341,-122.4976654,6.52,1.07,md,9,113,0.09269,0.06,nc,nc73944506,2023-10-02T10:50:28.346Z,"13 km NNW of Angwin, CA",earthquake,0.47,2.4,0.16,8,automatic,nc,nc
 2023-10-02T10:40:04.870Z,38.6865005,-122.4986649,7.4,1.42,md,15,111,0.09488,0.06,nc,nc73944496,2023-10-02T10:41:39.323Z,"12 km SE of Middletown, CA",earthquake,0.35,1.27,0.18,16,automatic,nc,nc
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T14:01:20.257Z,61.9742,-150.7246,6.6,1.7,ml,,,,0.52,ak,ak023cldlf21,2023-10-01T14:03:42.814Z,"35 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-01T13:52:56.660Z,33.2736667,-116.7756667,11.63,1.13,ml,32,49,0.04017,0.21,ci,ci40575120,2023-10-01T13:56:29.705Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.28,0.72,0.123,26,automatic,ci,ci
 2023-10-01T13:52:17.212Z,58.8683,-154.7716,109.1,2.1,ml,,,,0.3,ak,ak023cldawqh,2023-10-01T14:04:11.040Z,"63 km S of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-01T13:34:48.807Z,63.1239,-150.8744,141.6,2.1,ml,,,,0.37,ak,ak023cld74a8,2023-10-01T13:37:28.381Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
