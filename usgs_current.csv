@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T07:55:43.300Z,39.7358,-120.6629,2.4,1.5,ml,9,276.4,0.267,0.1306,nn,nn00866666,2023-10-03T07:57:53.995Z,"3 km SE of Johnsville, California",earthquake,,12.4,0.3,6,automatic,nn,nn
+2023-10-03T07:51:24.697Z,60.7243,-147.0561,25.6,1.4,ml,,,,0.81,ak,ak023cokssyd,2023-10-03T07:54:00.478Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-03T07:25:26.385Z,36.38016129,-97.64076996,3.105782747,1.56,ml,29,55.43966675,0.1407250315,0.3466389343,ok,ok2023tjaa,2023-10-03T07:30:59.809Z,"Oklahoma",earthquake,2.396675167,1.949506471,0.23,11,automatic,ok,ok
 2023-10-03T07:13:47.019Z,31.1273,-103.2783,5,2.6,ml,26,51,0.233,0.48,us,us6000lcf4,2023-10-03T07:38:45.040Z,"western Texas",earthquake,1.34,1.91,0.056,42,reviewed,us,us
 2023-10-03T06:46:48.611Z,38.534,-119.3867,3.5,1.5,ml,12,103.81,0.116,0.0879,nn,nn00866664,2023-10-03T07:16:37.734Z,"Central California",earthquake,,1.1,0.23,8,automatic,nn,nn
@@ -107,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:25:31.985Z,38.2773,-117.8334,12.6,1.7,ml,4,205.26,0.143,0.0209,nn,nn00866640,2023-10-02T17:16:51.737Z,"27 km ESE of Mina, Nevada",earthquake,,18.4,0,1,reviewed,nn,nn
 2023-10-02T16:25:09.995Z,38.2922,-117.8251,9.1,2.4,ml,12,71.77,0.157,0.1793,nn,nn00866630,2023-10-02T17:13:44.930Z,"27 km ESE of Mina, Nevada",earthquake,,1.4,0.1,7,reviewed,nn,nn
 2023-10-02T16:24:50.378Z,-21.8767,-68.5751,130.933,4.5,mwr,42,48,1.107,1.11,us,us6000lc9w,2023-10-02T17:22:34.040Z,"Chile-Bolivia border region",earthquake,5.48,6.444,,,reviewed,us,guc
-2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"49 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-02T16:17:49.488Z,65.4145,-152.9673,0,1.6,ml,,,,0.52,ak,ak023cn2f4hr,2023-10-02T16:20:19.400Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-02T16:14:25.170Z,47.0375,-123.96866666666666,36.59,2.58,ml,44,53,0.04405,0.31,uw,uw61963546,2023-10-03T07:07:28.192Z,"8 km NW of Hoquiam, Washington",earthquake,0.58,0.84,0.22352185883621134,29,reviewed,uw,uw
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
