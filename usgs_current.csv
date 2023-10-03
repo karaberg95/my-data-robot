@@ -193,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T05:53:15.890Z,40.1996651,-121.5425034,9.19,2.16,md,8,190,0.2174,0.04,nc,nc73944441,2023-10-02T06:14:14.075Z,"18 km S of Mineral, CA",earthquake,0.84,2.16,0.15,9,automatic,nc,nc
 2023-10-02T05:46:09.660Z,44.746,-110.9076667,7.8,0.39,md,12,95,0.05874,0.15,uu,uu60551277,2023-10-02T15:21:16.470Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.39,0.55,0.237,8,reviewed,uu,uu
 2023-10-02T05:44:35.675Z,37.4447,-116.5385,13.3,1.4,ml,37,112.52,0.171,0.183,nn,nn00866624,2023-10-02T16:54:35.882Z,"62 km NNE of Beatty, Nevada",earthquake,,1.9,0.27,22,reviewed,nn,nn
-2023-10-02T05:38:25.478Z,60.6008,-142.6703,25.3,1.4,ml,,,,0.23,ak,ak023cmvzt03,2023-10-02T05:40:34.434Z,"93 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-02T05:34:18.944Z,-20.8347,-178.7686,593.558,4.6,mb,97,82,3.347,0.6,us,us6000lc75,2023-10-02T06:06:48.040Z,"Fiji region",earthquake,12.74,8.57,0.033,279,reviewed,us,us
