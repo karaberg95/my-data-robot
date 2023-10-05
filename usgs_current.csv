@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T06:49:31.060Z,37.7661667,-122.5625,10.78,1.22,md,27,157,0.07521,0.07,nc,nc73945206,2023-10-04T23:33:14.096Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.25,0.57,0.294,21,reviewed,nc,nc
 2023-10-04T06:42:24.160Z,44.1105,-110.3201667,8.64,1,md,13,198,0.2142,0.16,uu,uu60551602,2023-10-04T17:56:45.260Z,"59 km NNE of Kelly, Wyoming",earthquake,0.87,2.09,0.074,6,reviewed,uu,uu
 2023-10-04T06:39:39.550Z,32.8595,-116.0401667,7.71,0.74,ml,23,63,0.06566,0.2,ci,ci40576616,2023-10-04T16:01:06.112Z,"14 km NNW of Ocotillo, CA",earthquake,0.28,0.84,0.128,7,reviewed,ci,ci
-2023-10-04T06:19:36.394Z,66.3311,-154.7298,0,2,ml,,,,1.39,ak,ak023cq7jvtz,2023-10-04T06:22:05.473Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
