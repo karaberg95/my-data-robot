@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-05T06:45:21.530Z,40.2290001,-121.1461639,-0.57,2.58,md,26,55,0.2325,0.26,nc,nc73945666,2023-10-05T06:52:27.588Z,"2 km NNE of Prattville, CA",earthquake,0.54,7.1,0.1,20,automatic,nc,nc
+2023-10-05T07:05:12.668Z,61.3223,-146.4517,27.2,2.4,ml,,,,0.5,ak,ak023crvlm2q,2023-10-05T07:06:50.202Z,"22 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-05T06:59:58.221Z,59.7033,-152.3079,75.1,2.1,ml,,,,0.66,ak,ak023crvkili,2023-10-05T07:02:35.610Z,"28 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-10-05T06:56:26.640Z,33.3176667,-116.2396667,3.47,1.03,ml,28,43,0.1252,0.22,ci,ci40577448,2023-10-05T07:00:00.919Z,"14 km ENE of Borrego Springs, CA",earthquake,0.29,1.25,0.185,18,automatic,ci,ci
+2023-10-05T06:52:10.140Z,19.4566669464111,-155.441497802734,0.529999971389771,1.97,ml,48,69,,0.189999998,hv,hv73592567,2023-10-05T06:57:40.400Z,"21 km W of Volcano, Hawaii",earthquake,0.33,0.560000002,2.96,9,automatic,hv,hv
+2023-10-05T06:45:21.530Z,40.2290001,-121.1461639,-0.57,2.58,md,26,55,0.2325,0.26,nc,nc73945666,2023-10-05T07:07:11.722Z,"2 km NNE of Prattville, CA",earthquake,0.54,7.1,0.1,20,automatic,nc,nc
 2023-10-05T06:22:12.859Z,30.0809,139.9795,10,5.6,mww,107,55,3.028,1.19,us,us6000ld0f,2023-10-05T06:43:50.317Z,"Izu Islands, Japan region",earthquake,6.59,1.844,0.062,25,reviewed,us,us
 2023-10-05T06:12:12.638Z,61.5633,-147.8018,22,1.3,ml,,,,0.39,ak,ak023crv1ohb,2023-10-05T06:13:18.825Z,"28 km SSW of Glacier View, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-05T06:05:46.260Z,19.371166229248,-155.284164428711,1.63999998569489,2.02,ml,26,108,,0.270000011,hv,hv73592527,2023-10-05T06:11:17.900Z,"9 km SSW of Volcano, Hawaii",earthquake,0.33,0.430000007,0.29,5,automatic,hv,hv
@@ -229,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T07:18:20.700Z,60.0948333333333,-152.9625,12.61,-0.05,ml,5,311,,0.26,av,av92072721,2023-10-05T03:39:56.360Z,"70 km WNW of Happy Valley, Alaska",earthquake,2.34,1.4,0.300786222475339,5,reviewed,av,av
 2023-10-04T07:17:19.100Z,44.7538333,-110.7833333,8.17,0.12,md,7,171,0.05898,0.21,uu,uu60551607,2023-10-04T18:30:16.420Z,"Yellowstone National Park, Wyoming",earthquake,2.02,2.62,0.259,5,reviewed,uu,uu
 2023-10-04T07:13:31.300Z,37.8568344,-122.2366638,10.32,2.6,md,73,31,0.01937,0.07,nc,nc73945226,2023-10-05T06:15:29.730Z,"4 km N of Piedmont, CA",earthquake,0.13,0.27,0.15,77,automatic,nc,nc
-2023-10-04T07:01:04.170Z,38.6865005,-122.4948349,3.84,1.12,md,5,126,0.09249,0.05,nc,nc73945216,2023-10-04T07:18:14.509Z,"13 km SE of Middletown, CA",earthquake,0.47,4.16,0.14,4,automatic,nc,nc
-2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T13:17:58.100Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,reviewed,ci,ci
-2023-10-04T06:55:03.117Z,31.615,-103.977,5.5146,2.1,ml(texnet),14,54,0,0.1,tx,tx2023tkun,2023-10-04T12:41:56.705Z,"37 km WSW of Mentone, Texas",earthquake,0.5080405585,0.9039526874,0.1,6,reviewed,tx,tx
