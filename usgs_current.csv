@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T23:26:27.840Z,19.3549995422363,-155.295333862305,1.99000000953674,1.98000002,md,18,114,,0.109999999,hv,hv73594507,2023-10-05T23:29:38.640Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.49000001,0.519999981,13,automatic,hv,hv
 2023-10-05T23:14:22.414Z,60.3318,-147.6832,12.5,1.9,ml,,,,0.52,ak,ak023cs56hy9,2023-10-05T23:16:35.853Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T22:51:57.949Z,36.2893,-115.2903,1.4,1.6,ml,12,255.37,0.241,0.2899,nn,nn00866862,2023-10-05T22:54:24.690Z,"18 km WNW of North Las Vegas, Nevada",earthquake,,29.2,0.94,10,automatic,nn,nn
 2023-10-05T22:33:32.838Z,58.3566,-133.4743,0,2.3,ml,,,,0.65,ak,ak023cs4p5r7,2023-10-05T23:14:14.040Z,"55 km E of Juneau, Alaska",earthquake,,0.5,,,automatic,ak,ak
