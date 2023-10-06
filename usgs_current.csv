@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-06T09:24:09.792Z,39.9604,-120.0235,2.2,1.6,ml,9,156.56,0.153,0.0639,nn,nn00866893,2023-10-06T09:26:23.750Z,"10 km SE of Doyle, California",earthquake,,1.4,0.39,6,automatic,nn,nn
 2023-10-06T09:15:50.840Z,38.8373337,-122.7996674,2.42,1.07,md,15,67,0.00736,0.01,nc,nc73946181,2023-10-06T09:17:28.790Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.57,0.22,14,automatic,nc,nc
 2023-10-06T09:13:55.990Z,19.3470001220703,-155.294830322266,2.52999997138977,1.98,ml,36,116,,0.189999998,hv,hv73595812,2023-10-06T09:19:27.360Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.50999999,0.06,3,automatic,hv,hv
 2023-10-06T09:10:51.210Z,19.3601665496826,-155.289337158203,1.60000002384186,1.82000005,md,16,123,,0.129999995,hv,hv73595807,2023-10-06T09:13:42.560Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.419999987,0.540000021,13,automatic,hv,hv
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T09:30:22.320Z,53.8783333333333,-166.9215,1.63,0.11,ml,6,227,,0.16,av,av92074566,2023-10-05T21:39:15.160Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.8,3.62,0.146957283285653,6,reviewed,av,av
 2023-10-05T09:29:53.490Z,38.8421669,-122.8395004,1.69,0.98,md,11,119,0.004753,0.02,nc,nc73945706,2023-10-05T11:17:21.145Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.51,0.3,12,automatic,nc,nc
 2023-10-05T09:29:08.960Z,53.866,-166.903,5.4,1.07,ml,8,161,,0.19,av,av91117428,2023-10-05T21:43:45.180Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.53,0.98,0.318700478398357,8,reviewed,av,av
-2023-10-05T09:28:37.426Z,61.2776,-151.6054,82.4,1.9,ml,,,,0.87,ak,ak023crwxgny,2023-10-05T09:30:22.091Z,"31 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-05T09:24:25.070Z,19.3735,-155.282833333333,1.18,1,ml,15,101,,0.11,hv,hv73592807,2023-10-05T09:40:44.550Z,"9 km SW of Volcano, Hawaii",earthquake,0.22,0.2,0.147051467619457,2,reviewed,hv,hv
