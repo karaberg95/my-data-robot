@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T03:59:46.850Z,33.4928333,-116.5838333,9.65,0.56,ml,21,63,0.01546,0.13,ci,ci40578464,2023-10-07T15:20:50.256Z,"11 km SE of Anza, CA",earthquake,0.25,0.46,0.108,17,reviewed,ci,ci
 2023-10-07T03:57:23.260Z,33.042,-116.3973333,7.93,2.32,ml,64,42,0.07088,0.23,ci,ci40578456,2023-10-07T04:08:07.790Z,"20 km ESE of Julian, CA",earthquake,0.22,1.32,0.183,25,automatic,ci,ci
 2023-10-07T03:53:43.880Z,48.0796666666667,-115.071666666667,4.99,0.46,ml,5,160,0.298,0.08,mb,mb90029288,2023-10-07T13:19:34.260Z,"Western Montana",earthquake,0.84,7.68,0.0230016001699704,2,reviewed,mb,mb
-2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"17 km SSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-10-07T03:44:52.809Z,39.1884,-120.4297,9.8,1,ml,10,124.43,0.253,0.1802,nn,nn00866970,2023-10-07T15:06:36.917Z,"14 km S of Kingvale, California",earthquake,,6.1,0.22,3,reviewed,nn,nn
 2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:35:39.240Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
 2023-10-07T03:14:56.486Z,61.2437,-152.4966,9.3,1.2,ml,,,,0.15,ak,ak023cv4clgw,2023-10-07T03:16:28.075Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T15:55:28.387Z,60.7894,-151.5717,65.3,2.1,ml,,,,0.42,ak,ak023cto76fa,2023-10-06T15:57:22.767Z,"18 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-06T15:55:18.100Z,38.8236656,-122.8526688,2.26,0.94,md,17,84,0.005078,0.03,nc,nc73946316,2023-10-06T16:12:14.760Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.51,0.25,17,automatic,nc,nc
 2023-10-06T15:55:05.510Z,19.388500213623,-155.275665283203,1.50999999046326,2.49,ml,38,53,,0.180000007,hv,hv73596772,2023-10-06T16:00:35.790Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.180000007,0.46,18,automatic,hv,hv
-2023-10-06T15:52:40.520Z,19.3883333333333,-155.280333333333,1.42,2.03,ml,27,60,,0.12,hv,hv73596767,2023-10-07T01:54:34.440Z,"Island of Hawaii, Hawaii",earthquake,0.18,0.14,0.215206562074913,13,reviewed,hv,hv
-2023-10-06T15:51:08.871Z,58.3145,-133.3528,0,2.4,ml,,,,0.94,ak,ak023cto6a1z,2023-10-06T15:56:55.621Z,"62 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
