@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T21:55:47.850Z,38.8236656,-122.7631683,1.81,0.75,md,8,126,0.008598,0.01,nc,nc73946446,2023-10-06T23:29:18.284Z,"4 km W of Cobb, CA",earthquake,0.44,1.08,0.06,8,automatic,nc,nc
 2023-10-06T21:45:24.260Z,61.1883333333333,-152.206166666667,5.16,0.16,ml,7,182,,0.13,av,av91117563,2023-10-06T22:50:43.050Z,"Southern Alaska",earthquake,0.64,1.32,0.153068162322867,7,reviewed,av,av
 2023-10-06T21:44:28.549Z,65.376,-144.7853,0.1,1.6,ml,,,,0.42,ak,ak023ctrpf6u,2023-10-06T21:46:59.141Z,"21 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-06T21:30:57.461Z,58.3601,-133.5475,0,1.8,ml,,,,0.7,ak,ak023ctrmkqb,2023-10-06T21:50:22.271Z,"51 km E of Juneau, Alaska",ice quake,,0,,,reviewed,ak,ak
-2023-10-06T21:27:45.610Z,19.329833984375,-155.296173095703,3.74000000953674,1.89999998,md,20,161,,0.25,hv,hv73597332,2023-10-06T21:30:53.250Z,"Island of Hawaii, Hawaii",earthquake,0.84,1.66999996,1.04999995,13,automatic,hv,hv
