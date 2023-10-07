@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-07T13:10:40.232Z,-5.6561,145.9001,38.283,5.7,mww,183,39,6.05,0.75,us,us6000lduj,2023-10-07T13:28:22.040Z,"49 km SSE of Madang, Papua New Guinea",earthquake,7.91,5.991,0.098,10,reviewed,us,us
+2023-10-07T13:10:40.232Z,-5.6561,145.9001,38.283,5.7,mww,183,39,6.05,0.75,us,us6000lduj,2023-10-07T13:31:29.628Z,"49 km SSE of Madang, Papua New Guinea",earthquake,7.91,5.991,0.098,10,reviewed,us,us
 2023-10-07T13:09:54.709Z,63.5297,-154.6551,13.8,1.6,ml,,,,0.23,ak,ak023cva9usv,2023-10-07T13:13:16.597Z,"59 km NNW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T12:47:36.016Z,-6.9899,125.6959,487.374,4.6,mb,24,80,3.09,0.55,us,us6000ldue,2023-10-07T13:10:14.040Z,"170 km N of Metinaro, Timor Leste",earthquake,13.75,7.618,0.157,12,reviewed,us,us
 2023-10-07T12:35:46.627Z,60.3114,-152.1584,73.9,1.6,ml,,,,0.12,ak,ak023cv9tz6u,2023-10-07T12:37:06.639Z,"39 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T03:59:46.850Z,33.4928333,-116.5838333,9.65,0.56,ml,21,63,0.01546,0.13,ci,ci40578464,2023-10-07T04:03:16.648Z,"11 km SE of Anza, CA",earthquake,0.25,0.46,0.108,17,automatic,ci,ci
 2023-10-07T03:57:23.260Z,33.042,-116.3973333,7.93,2.32,ml,64,42,0.07088,0.23,ci,ci40578456,2023-10-07T04:08:07.790Z,"20 km ESE of Julian, CA",earthquake,0.22,1.32,0.183,25,automatic,ci,ci
 2023-10-07T03:53:43.880Z,48.0796666666667,-115.071666666667,4.99,0.46,ml,5,160,0.298,0.08,mb,mb90029288,2023-10-07T13:19:34.260Z,"5 km E of Happys Inn, Montana",earthquake,0.84,7.68,0.0230016001699704,2,reviewed,mb,mb
-2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"17 km SSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:35:39.240Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
 2023-10-07T03:14:56.486Z,61.2437,-152.4966,9.3,1.2,ml,,,,0.15,ak,ak023cv4clgw,2023-10-07T03:16:28.075Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-07T03:13:35.440Z,19.3913326263428,-155.279327392578,1.12000000476837,1.9,ml,13,54,,0.150000006,hv,hv73597857,2023-10-07T03:19:07.540Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.270000011,0.11,4,automatic,hv,hv
@@ -262,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T13:40:40.970Z,19.3886666666667,-155.2785,1.17,1.7,md,17,57,,0.1,hv,hv73596412,2023-10-06T15:53:50.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.13,0.17402562549827,2,reviewed,hv,hv
 2023-10-06T13:40:35.520Z,19.3875,-155.279333333333,1.43,1.32,ml,14,106,,0.1,hv,hv73596407,2023-10-06T15:58:07.450Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.37,0.203267977206167,4,reviewed,hv,hv
 2023-10-06T13:40:30.750Z,19.3823333333333,-155.2845,1.25,1.12,ml,13,166,,0.1,hv,hv73596402,2023-10-06T16:02:29.270Z,"8 km SW of Volcano, Hawaii",earthquake,0.35,0.23,0.103519789572327,2,reviewed,hv,hv
-2023-10-06T13:34:43.500Z,19.3838333333333,-155.2775,1.67,1.85,ml,19,67,,0.1,hv,hv73596392,2023-10-06T16:07:12.580Z,"Island of Hawaii, Hawaii",earthquake,0.16,0.14,0.19260689846758,6,reviewed,hv,hv
-2023-10-06T13:34:14.570Z,19.3895,-155.2795,1.35,1.49,ml,15,76,,0.08,hv,hv73596387,2023-10-06T16:18:32.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.21,0.253621925149341,7,reviewed,hv,hv
-2023-10-06T13:31:47.000Z,19.387,-155.2795,1.16,0.76,md,14,120,,0.1,hv,hv73596377,2023-10-06T16:42:50.480Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.18,0.172189920082976,2,reviewed,hv,hv
