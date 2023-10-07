@@ -270,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T11:33:07.980Z,55.8295,-153.7912,12,3.9,ml,,,,0.53,ak,ak023ctlopez,2023-10-06T14:02:10.145Z,"126 km S of Akhiok, Alaska",earthquake,,7.9,,,reviewed,ak,ak
 2023-10-06T11:28:06.584Z,47.2315,153.8567,10,4.6,mb,31,133,6.379,0.49,us,us6000ldf4,2023-10-06T12:13:09.040Z,"Kuril Islands",earthquake,7.63,1.904,0.109,25,reviewed,us,us
 2023-10-06T11:26:20.900Z,38.7923317,-122.7618332,2.68,0.8,md,12,91,0.008445,0.02,nc,nc73946206,2023-10-06T13:21:12.820Z,"2 km NNW of The Geysers, CA",earthquake,0.33,0.7,0.28,15,automatic,nc,nc
-2023-10-06T11:13:14.030Z,19.3875007629395,-155.27799987793,1.27999997138977,1.97,ml,25,59,,0.159999996,hv,hv73596057,2023-10-06T11:18:44.830Z,"Island of Hawaii, Hawaii",earthquake,0.18,0.200000003,0.26,9,automatic,hv,hv
