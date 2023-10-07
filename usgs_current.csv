@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-07T12:35:46.627Z,60.3114,-152.1584,73.9,1.6,ml,,,,0.12,ak,ak023cv9tz6u,2023-10-07T12:37:06.639Z,"39 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-07T12:29:11.590Z,58.351,-133.4517,0,2.8,ml,,,,0.73,ak,ak023cv9sm6w,2023-10-07T12:31:38.130Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-07T12:29:11.590Z,58.351,-133.4517,0,2.8,ml,,,,0.73,ak,ak023cv9sm6w,2023-10-07T12:47:45.040Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T12:05:53.460Z,38.841835,-122.8789978,2.55,0.94,md,10,95,0.005011,0.01,nc,nc73946686,2023-10-07T12:42:16.019Z,"13 km ENE of Cloverdale, CA",earthquake,0.45,0.61,0.25,10,automatic,nc,nc
 2023-10-07T12:05:42.820Z,37.8681679,-122.2446671,8.86,0.82,md,11,59,0.009922,0.02,nc,nc73946681,2023-10-07T12:32:15.091Z,"3 km E of Berkeley, CA",earthquake,0.31,0.63,0.06,5,automatic,nc,nc
 2023-10-07T12:02:23.920Z,19.1983337402344,-155.32600402832,30.2800006866455,2.02999997,md,30,173,,0.159999996,hv,hv73598677,2023-10-07T12:05:40.030Z,"Hawaii region, Hawaii",earthquake,0.68,0.949999988,2.02999997,4,automatic,hv,hv
@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T04:02:44.473Z,63.0842,-151.5059,8.8,1.3,ml,,,,0.24,ak,ak023cv4vfjz,2023-10-07T04:04:21.151Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-07T03:59:46.850Z,33.4928333,-116.5838333,9.65,0.56,ml,21,63,0.01546,0.13,ci,ci40578464,2023-10-07T04:03:16.648Z,"11 km SE of Anza, CA",earthquake,0.25,0.46,0.108,17,automatic,ci,ci
 2023-10-07T03:57:23.260Z,33.042,-116.3973333,7.93,2.32,ml,64,42,0.07088,0.23,ci,ci40578456,2023-10-07T04:08:07.790Z,"20 km ESE of Julian, CA",earthquake,0.22,1.32,0.183,25,automatic,ci,ci
-2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"17 km SSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-10-07T03:48:46.490Z,62.3508,-150.9111,68.5,3.9,ml,,,,0.65,ak,ak023cv4juze,2023-10-07T12:31:51.501Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:35:39.240Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
 2023-10-07T03:14:56.486Z,61.2437,-152.4966,9.3,1.2,ml,,,,0.15,ak,ak023cv4clgw,2023-10-07T03:16:28.075Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-07T03:13:35.440Z,19.3913326263428,-155.279327392578,1.12000000476837,1.9,ml,13,54,,0.150000006,hv,hv73597857,2023-10-07T03:19:07.540Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.270000011,0.11,4,automatic,hv,hv
@@ -266,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T13:13:21.570Z,19.3868333333333,-155.278333333333,1.3,1.34,ml,16,106,,0.09,hv,hv73596332,2023-10-06T23:53:38.190Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.19,0.193521262879331,6,reviewed,hv,hv
 2023-10-06T13:12:30.314Z,58.3435,-133.3569,1.4,2.8,ml,,,,1.17,ak,ak023ctmr3jl,2023-10-07T04:36:55.040Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-06T13:06:57.663Z,30.0893,140.1026,10,4.9,mb,55,135,3.027,0.51,us,us6000ldfp,2023-10-06T13:33:52.040Z,"Izu Islands, Japan region",earthquake,10.01,1.896,0.052,117,reviewed,us,us
-2023-10-06T12:50:29.352Z,61.2255,-149.2708,30.7,1.7,ml,,,,0.82,ak,ak023ctmdt3r,2023-10-06T12:52:43.348Z,"19 km SE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-06T12:46:32.140Z,38.8163338,-122.7981644,2.26,0.78,md,13,54,0.008648,0.01,nc,nc73946251,2023-10-06T15:49:12.645Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.52,0.5,13,automatic,nc,nc
