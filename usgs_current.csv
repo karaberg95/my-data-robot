@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:26:59.618Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
+2023-10-07T03:23:16.710Z,34.273,-117.5511667,7.12,2.22,ml,79,21,0.09524,0.2,ci,ci40578448,2023-10-07T03:35:39.240Z,"5 km WNW of Lytle Creek, CA",earthquake,0.17,0.84,0.173,26,automatic,ci,ci
 2023-10-07T03:14:56.486Z,61.2437,-152.4966,9.3,1.2,ml,,,,0.15,ak,ak023cv4clgw,2023-10-07T03:16:28.075Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-07T03:13:35.440Z,19.3913326263428,-155.279327392578,1.12000000476837,1.9,ml,13,54,,0.150000006,hv,hv73597857,2023-10-07T03:19:07.540Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.270000011,0.11,4,automatic,hv,hv
 2023-10-07T03:09:08.540Z,34.5263333,-118.1216667,13.87,0.61,ml,13,70,0.01916,0.2,ci,ci40578440,2023-10-07T03:12:42.004Z,"3 km N of Vincent, CA",earthquake,0.51,0.68,0.115,10,automatic,ci,ci
