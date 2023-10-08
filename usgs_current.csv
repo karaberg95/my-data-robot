@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T11:19:21.080Z,19.3593330383301,-155.29216003418,1.44000005722046,2.04,ml,31,111,,0.159999996,hv,hv73599817,2023-10-08T11:24:52.400Z,"11 km SSW of Volcano, Hawaii",earthquake,0.25,0.389999986,1.82,11,automatic,hv,hv
+2023-10-08T11:19:16.530Z,19.3363342285156,-155.303497314453,6.53000020980835,2.24,ml,18,81,,0.300000012,hv,hv73599812,2023-10-08T11:24:46.390Z,"13 km SSW of Volcano, Hawaii",earthquake,0.73,1.39999998,0.34,11,automatic,hv,hv
+2023-10-08T11:16:04.230Z,19.3799991607666,-155.291000366211,0.610000014305115,1.7,ml,12,86,,0.109999999,hv,hv73599797,2023-10-08T11:21:34.990Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.25,0.23,6,automatic,hv,hv
 2023-10-08T11:09:35.920Z,38.7821655,-122.7770004,3.57,1.52,md,28,82,0.01442,0.06,nc,nc73947091,2023-10-08T11:12:58.363Z,"2 km WNW of The Geysers, CA",earthquake,0.26,0.49,0.17,28,automatic,nc,nc
-2023-10-08T11:06:58.640Z,38.6851654,-122.4944992,7.86,1.17,md,9,111,0.09147,0.06,nc,nc73947086,2023-10-08T11:08:34.396Z,"13 km NNW of Angwin, CA",earthquake,0.42,2.01,0.05,8,automatic,nc,nc
+2023-10-08T11:06:58.640Z,38.6851654,-122.4944992,7.86,1.17,md,9,111,0.09147,0.06,nc,nc73947086,2023-10-08T11:23:14.722Z,"13 km NNW of Angwin, CA",earthquake,0.42,2.01,0.05,8,automatic,nc,nc
 2023-10-08T11:06:47.860Z,19.1898326873779,-155.498672485352,35.560001373291,2.03999996,md,40,156,,0.109999999,hv,hv73599787,2023-10-08T11:10:05.300Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,0.660000026,1.07000005,12,automatic,hv,hv
 2023-10-08T10:55:26.770Z,36.1065,-117.8796667,1.31,0.87,ml,9,143,0.02293,0.1,ci,ci40578960,2023-10-08T10:58:58.510Z,"9 km NE of Coso Junction, CA",earthquake,0.62,0.64,0.095,4,automatic,ci,ci
 2023-10-08T10:54:55.200Z,33.5083333,-116.4916667,15.67,0.56,ml,16,118,0.05712,0.13,ci,ci40578952,2023-10-08T10:58:45.325Z,"18 km ESE of Anza, CA",earthquake,0.42,0.64,0.118,12,automatic,ci,ci
@@ -30,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T07:45:25.940Z,19.2625007629395,-155.410659790039,32.3600006103516,1.83000004,md,32,121,,0.140000001,hv,hv73599507,2023-10-08T07:48:32.460Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.75999999,1.82000005,6,automatic,hv,hv
 2023-10-08T07:31:53.900Z,37.4318352,-118.5568314,13.22,1.77,md,12,170,0.147,0.06,nc,nc73947026,2023-10-08T07:51:17.476Z,"4 km ENE of Round Valley, CA",earthquake,0.88,2.99,0.05,9,automatic,nc,nc
 2023-10-08T07:30:11.507Z,65.4199,-144.6904,20.4,1.6,ml,,,,0.71,ak,ak023cwud0da,2023-10-08T07:31:59.724Z,"17 km SSE of Central, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-10-08T07:28:53.500Z,-21.2067,-69.5765,72.148,5,mb,62,69,0.183,0.77,us,us6000ldz5,2023-10-08T08:08:14.461Z,"Tarapaca-Antofagasta border region, Chile",earthquake,7.1,4.128,0.031,332,reviewed,us,us
+2023-10-08T07:28:53.500Z,-21.2067,-69.5765,72.148,5,mb,62,69,0.183,0.77,us,us6000ldz5,2023-10-08T11:24:16.670Z,"Tarapaca-Antofagasta border region, Chile",earthquake,7.1,4.128,0.031,332,reviewed,us,us
 2023-10-08T07:22:33.895Z,18.4204,-71.584,12.978,4.4,mb,78,33,0.625,0.92,us,us6000ldz3,2023-10-08T08:44:46.040Z,"7 km NW of Duvergé, Dominican Republic",earthquake,2.56,5.195,0.069,61,reviewed,us,us
 2023-10-08T07:12:16.554Z,66.3566,-154.7355,0,3.5,ml,,,,0.66,ak,ak023cwu95uu,2023-10-08T07:28:53.040Z,"40 km NNW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-08T07:10:09.710Z,38.6865005,-122.5031662,1.9,1.45,md,11,111,0.09209,0.05,nc,nc73947016,2023-10-08T07:26:14.349Z,"12 km SE of Middletown, CA",earthquake,0.31,7.95,0.1,13,automatic,nc,nc
@@ -201,7 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T11:32:41.430Z,19.4808330535889,-155.496170043945,-1.76999998092651,2.22,ml,38,43,,0.189999998,hv,hv73598637,2023-10-07T11:38:13.490Z,"27 km W of Volcano, Hawaii",earthquake,0.36,0.439999998,2.93,17,automatic,hv,hv
 2023-10-07T11:27:42.535Z,34.5599,62.0272,10.877,4.3,mb,34,112,5.79,0.72,us,us6000ldts,2023-10-07T18:39:37.591Z,"28 km NW of Herāt, Afghanistan",earthquake,7.65,5.401,0.148,13,reviewed,us,us
 2023-10-07T11:27:35.400Z,38.8170013,-122.7624969,1.58,1.33,md,20,114,0.01464,0.02,nc,nc73946661,2023-10-07T13:54:15.399Z,"4 km W of Cobb, CA",earthquake,0.25,0.47,0.12,23,automatic,nc,nc
-2023-10-07T11:23:30.170Z,38.8186684,-122.7653351,1.86,0.74,md,8,109,0.01232,0.01,nc,nc73946656,2023-10-07T13:27:16.253Z,"4 km W of Cobb, CA",earthquake,0.38,0.81,0.04,8,automatic,nc,nc
-2023-10-07T11:21:29.880Z,38.7916679,-122.7608337,2.25,0.8,md,13,87,0.008987,0.03,nc,nc73946651,2023-10-07T12:59:17.108Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.7,0.31,13,automatic,nc,nc
-2023-10-07T11:20:42.599Z,39.1476,-119.6251,3.9,0.9,ml,6,143.24,0.062,0.0763,nn,nn00866973,2023-10-07T15:22:28.031Z,"10 km SSW of Dayton, Nevada",earthquake,,3.3,0.03,2,reviewed,nn,nn
-2023-10-07T11:19:38.840Z,38.786335,-122.7460022,0.88,2.04,md,39,47,0.007883,0.07,nc,nc73946646,2023-10-07T12:32:14.965Z,"1 km NE of The Geysers, CA",earthquake,0.18,0.3,0.18,38,automatic,nc,nc
