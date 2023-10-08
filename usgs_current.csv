@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T14:39:15.590Z,38.8093338,-122.7919998,3.07,1.26,md,22,45,0.002919,0.02,nc,nc73947201,2023-10-08T14:40:49.915Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.48,0.18,24,automatic,nc,nc
+2023-10-08T14:37:38.570Z,38.8371658,-122.8008347,1.95,0.55,md,13,66,0.008287,0.01,nc,nc73947196,2023-10-08T14:39:14.067Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.84,0.4,14,automatic,nc,nc
 2023-10-08T14:29:20.360Z,34.1495,-117.3248333,7.41,0.87,ml,22,76,0.02732,0.21,ci,ci40579024,2023-10-08T14:32:55.857Z,"2 km ESE of Muscoy, CA",earthquake,0.36,0.98,0.11,22,automatic,ci,ci
 2023-10-08T14:28:44.600Z,38.8088341,-122.7926636,2.88,0.75,md,16,39,0.002236,0.02,nc,nc73947186,2023-10-08T14:30:19.294Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.6,0.08,17,automatic,nc,nc
 2023-10-08T14:25:18.010Z,38.8069992,-122.7945023,3.04,0.6,md,9,95,0.001152,0.04,nc,nc73947181,2023-10-08T14:26:53.710Z,"5 km NW of The Geysers, CA",earthquake,0.65,0.95,0.36,8,automatic,nc,nc
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T08:39:49.405Z,65.2362,-151.2494,1.6,1.2,ml,,,,0.7,ak,ak023cwv0gcc,2023-10-08T08:41:34.893Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-08T08:36:37.240Z,38.7718315,-122.7368317,1.29,0.72,md,6,95,0.01139,0.01,nc,nc73947041,2023-10-08T08:54:12.800Z,"2 km ESE of The Geysers, CA",earthquake,0.95,2.07,0.15,7,automatic,nc,nc
 2023-10-08T08:34:51.485Z,38.1725,-117.9389,7,1.5,ml,11,107.79,0.045,0.3019,nn,nn00866986,2023-10-08T08:36:58.736Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.11,7,automatic,nn,nn
-2023-10-08T08:25:06.220Z,38.6886673,-122.4958344,6.77,2.5,md,54,58,0.09444,0.11,nc,nc73947036,2023-10-08T12:42:13.163Z,"12 km SE of Middletown, CA",earthquake,0.19,0.68,0.11,64,automatic,nc,nc
+2023-10-08T08:25:06.220Z,38.6886673,-122.4958344,6.77,2.5,md,54,58,0.09444,0.11,nc,nc73947036,2023-10-08T14:34:28.240Z,"12 km SE of Middletown, CA",earthquake,0.19,0.68,0.11,64,automatic,nc,nc
 2023-10-08T08:02:55.350Z,44.1678333333333,-115.096666666667,5.16,1.78,ml,9,125,0.1903,0.3,mb,mb90029333,2023-10-08T14:07:43.020Z,"13 km WSW of Stanley, Idaho",earthquake,0.94,1.5,0.372217620907197,9,reviewed,mb,mb
 2023-10-08T07:59:38.400Z,38.6861649,-122.4946671,8.16,1.32,md,11,111,0.09218,0.06,nc,nc73947031,2023-10-08T12:27:13.089Z,"13 km SE of Middletown, CA",earthquake,0.4,1.88,0.17,10,automatic,nc,nc
 2023-10-08T07:54:18.000Z,36.007,-117.7396667,3.43,1.08,ml,11,182,0.0612,0.19,ci,ci40578912,2023-10-08T13:57:59.986Z,"17 km ENE of Little Lake, CA",earthquake,0.7,1.39,0.103,8,reviewed,ci,ci
