@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T17:43:55.860Z,38.6876678,-122.5003357,6.74,1.81,md,26,57,0.09456,0.09,nc,nc73947341,2023-10-08T17:45:28.812Z,"12 km SE of Middletown, CA",earthquake,0.27,1.03,0.11,26,automatic,nc,nc
+2023-10-08T17:43:25.330Z,38.6878319,-122.4974976,7.78,1.38,md,13,110,0.09495,0.06,nc,nc73947336,2023-10-08T17:44:58.697Z,"12 km SE of Middletown, CA",earthquake,0.39,1.43,0.14,12,automatic,nc,nc
+2023-10-08T17:39:59.490Z,62.3804,-150.2952,18.3,1.3,ml,,,,0.25,ak,ak023cx0ddkd,2023-10-08T17:41:17.890Z,"7 km NNW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-08T17:30:50.393Z,57.9176,-156.8061,12.8,1.4,ml,,,,0.34,ak,ak023cx0bff3,2023-10-08T17:32:49.408Z,"47 km SE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-08T17:21:01.890Z,38.786335,-122.7243347,1.72,1.05,md,14,84,0.01017,0.03,nc,nc73947331,2023-10-08T17:22:38.678Z,"3 km ENE of The Geysers, CA",earthquake,0.29,0.62,0.09,14,automatic,nc,nc
 2023-10-08T17:11:06.200Z,38.8243332,-122.8111649,1.57,1.21,md,19,38,0.001266,0.02,nc,nc73947321,2023-10-08T17:12:43.457Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.37,0.19,20,automatic,nc,nc
@@ -252,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T18:05:51.640Z,33.4728333,-116.5773333,11.47,0.6,ml,14,113,0.08427,0.25,ci,ci40578688,2023-10-07T18:09:27.647Z,"13 km SE of Anza, CA",earthquake,0.64,2.1,0.168,13,automatic,ci,ci
 2023-10-07T18:00:31.873Z,62.5038,-151.3559,9.8,1.1,ml,,,,0.96,ak,ak023cvd71mb,2023-10-07T18:02:28.397Z,"30 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T17:57:19.503Z,-21.6187,-68.5933,139.956,4.4,mb,21,64,0.629,0.56,us,us6000ldvg,2023-10-07T18:43:21.040Z,"56 km SW of Ollagüe, Chile",earthquake,6.28,8.231,0.189,8,reviewed,us,us
-2023-10-07T17:42:05.610Z,38.8146667,-122.8119965,2.66,1.24,md,24,46,0.008844,0.02,nc,nc73946761,2023-10-07T20:19:11.654Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.42,0.26,23,automatic,nc,nc
-2023-10-07T17:40:23.830Z,37.4693336,-118.6353302,10.38,1.74,md,15,140,0.1294,0.02,nc,nc73946756,2023-10-07T19:51:12.486Z,"7 km NNW of Round Valley, CA",earthquake,0.58,2.43,0.04,13,automatic,nc,nc
