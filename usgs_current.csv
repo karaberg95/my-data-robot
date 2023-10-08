@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T08:48:42.520Z,18.021,-66.7401666666667,14.99,1.85,md,6,172,0.1293,0.06,pr,pr71427943,2023-10-08T09:16:48.880Z,"3 km E of Magas Arriba, Puerto Rico",earthquake,0.5,1.66,0.0380825402044265,3,reviewed,pr,pr
 2023-10-08T08:44:49.630Z,38.8195,-122.7623367,1.75,0.74,md,7,119,0.01245,0.01,nc,nc73947046,2023-10-08T09:06:12.884Z,"3 km W of Cobb, CA",earthquake,0.5,0.87,0.19,8,automatic,nc,nc
 2023-10-08T08:39:49.405Z,65.2362,-151.2494,1.6,1.2,ml,,,,0.7,ak,ak023cwv0gcc,2023-10-08T08:41:34.893Z,"39 km NW of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-08T08:36:37.240Z,38.7718315,-122.7368317,1.29,0.72,md,6,95,0.01139,0.01,nc,nc73947041,2023-10-08T08:54:12.800Z,"2 km ESE of The Geysers, CA",earthquake,0.95,2.07,0.15,7,automatic,nc,nc
@@ -114,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T20:14:40.320Z,17.9081666666667,-66.9278333333333,13.39,3,md,22,225,0.06626,0.19,pr,pr71427813,2023-10-07T20:44:03.720Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.33,0.114878600441292,7,reviewed,pr,pr
 2023-10-07T20:02:20.700Z,33.1945,-116.0325,7.39,0.74,ml,15,58,0.05047,0.19,ci,ci40578728,2023-10-07T20:05:50.042Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.43,0.93,0.163,9,automatic,ci,ci
 2023-10-07T20:01:10.140Z,17.8865,-66.9275,13.66,3.28,md,18,245,0.08711,0.08,pr,pr71427808,2023-10-07T21:55:35.040Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.21,0.0660349343433331,9,reviewed,pr,pr
-2023-10-07T19:52:47.410Z,17.9158,-66.9118,8,4.01,md,14,219,0.1429,0.09,pr,pr2023280001,2023-10-08T03:05:04.621Z,"6 km S of Guánica, Puerto Rico",earthquake,0.46,1.77,0.13,10,reviewed,pr,pr
+2023-10-07T19:52:47.410Z,17.9158,-66.9118,8,4.01,md,14,219,0.1429,0.09,pr,pr2023280001,2023-10-08T03:05:04.621Z,"Puerto Rico region",earthquake,0.46,1.77,0.13,10,reviewed,pr,pr
 2023-10-07T19:50:49.517Z,61.3452,-149.9684,39.3,1.6,ml,,,,0.33,ak,ak023cve38dz,2023-10-07T19:52:30.560Z,"1 km SSE of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-07T19:41:24.410Z,32.679,-115.5446667,13.08,1.51,ml,11,133,0.1074,0.34,ci,ci40578720,2023-10-07T19:45:02.771Z,"4 km W of Calexico, CA",earthquake,1.32,2.57,0.302,13,automatic,ci,ci
 2023-10-07T19:40:41.210Z,38.776165,-122.7161636,2.23,1.07,md,9,87,0.01542,0.03,nc,nc73946786,2023-10-07T20:14:12.626Z,"2 km W of Anderson Springs, CA",earthquake,0.53,0.97,0.17,10,automatic,nc,nc
