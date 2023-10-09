@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T19:40:22.840Z,64.8309,-147.5366,8.9,1.2,ml,,,,0.56,ak,ak023cyp3q5o,2023-10-09T19:42:21.852Z,"3 km N of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-09T19:11:57.487Z,64.4869,-147.8611,8.9,1.1,ml,,,,0.6,ak,ak023cyoxl2c,2023-10-09T19:13:53.604Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-09T19:07:30.910Z,38.8144989,-122.8311691,1.27,0.57,md,8,103,0.005834,0.01,nc,nc73948216,2023-10-09T20:37:12.967Z,"8 km WNW of The Geysers, CA",earthquake,0.33,0.69,0.28,8,automatic,nc,nc
-2023-10-09T18:58:14.930Z,35.0096667,-118.317,24.04,1.35,ml,11,118,0.02772,0.36,ci,ci40579952,2023-10-09T19:01:46.513Z,"14 km WSW of Mojave, CA",earthquake,1.23,2.1,0.119,15,automatic,ci,ci
+2023-10-09T18:58:16.570Z,34.996,-118.1885,-0.93,1.24,ml,19,54,0.1215,0.26,ci,ci40579952,2023-10-09T23:36:53.395Z,"6 km SSW of Mojave, CA",quarry blast,0.52,31.61,0.074,14,reviewed,ci,ci
 2023-10-09T18:48:39.690Z,19.2463340759277,-155.408996582031,28.7399997711182,1.87,ml,18,129,,0.119999997,hv,hv73602167,2023-10-09T18:54:11.120Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.66,1.34000003,3.76,3,automatic,hv,hv
 2023-10-09T18:43:15.800Z,34.37916667,-96.84966667,0,1.42,ml,49,121,0.2600489695,0.46,ok,ok2023tuvk,2023-10-09T18:54:14.531Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.6,0.22,17,reviewed,ok,ok
 2023-10-09T18:35:31.962Z,60.1326,-152.5689,93.7,1.6,ml,,,,0.35,ak,ak023cyoh8fv,2023-10-09T20:10:59.578Z,"50 km W of Ninilchik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
@@ -200,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T02:40:56.000Z,34.49033333,-97.76433333,5.99,1.76,ml,60,46,0.1241756325,0.49,ok,ok2023ttpr,2023-10-09T12:47:17.884Z,"8 km WNW of Velma, Oklahoma",earthquake,,1.2,0.25,22,reviewed,ok,ok
 2023-10-09T02:37:43.403Z,57.8623,-154.5366,54.4,1.3,ml,,,,0.5,ak,ak023cyeyrb8,2023-10-09T02:39:46.278Z,"33 km N of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-09T02:31:28.880Z,38.8231659,-122.7900009,1.33,0.74,md,9,89,0.01228,0.02,nc,nc73947986,2023-10-09T03:25:12.005Z,"6 km W of Cobb, CA",earthquake,0.38,0.81,0.17,10,automatic,nc,nc
-2023-10-09T02:21:08.750Z,48.02433333333333,-122.70166666666667,57.17,4.32,ml,78,32,0.05476,0.19,uw,uw61965081,2023-10-09T23:33:44.454Z,"Washington",earthquake,0.37,0.53,0.1435800604490347,71,reviewed,uw,uw
+2023-10-09T02:21:08.750Z,48.02433333333333,-122.70166666666667,57.17,4.32,ml,78,32,0.05476,0.19,uw,uw61965081,2023-10-09T23:38:46.279Z,"Washington",earthquake,0.37,0.53,0.1435800604490347,71,reviewed,uw,uw
 2023-10-09T02:13:37.020Z,38.7993317,-122.7508316,2.3,1.1,md,14,99,0.007058,0.03,nc,nc73947981,2023-10-09T05:50:12.043Z,"2 km N of The Geysers, CA",earthquake,0.38,0.77,0.15,13,automatic,nc,nc
 2023-10-09T02:13:33.870Z,33.999,-117.8418333,6.4,1.14,ml,31,86,0.02304,0.2,ci,ci40579248,2023-10-09T18:05:38.353Z,"3 km SE of Walnut, CA",earthquake,0.37,0.6,0.188,22,reviewed,ci,ci
 2023-10-09T02:11:57.010Z,62.2311,-150.0845,19.9,1.6,ml,,,,0.38,ak,ak023cyet7qt,2023-10-09T02:13:41.428Z,"10 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -234,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-08T23:51:24.210Z,38.8354988,-122.8188324,2.3,0.89,md,8,107,0.01337,0.01,nc,nc73947891,2023-10-08T23:53:01.417Z,"8 km W of Cobb, CA",earthquake,0.51,1.58,0.41,9,automatic,nc,nc
 2023-10-08T23:50:28.940Z,61.3482,-146.4028,14.8,2.7,ml,,,,0.63,ak,ak023cx409mu,2023-10-09T05:03:49.262Z,"24 km N of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-10-08T23:43:19.140Z,19.3600006103516,-155.283660888672,2.26999998092651,1.83,ml,13,123,,0.140000001,hv,hv73600767,2023-10-08T23:48:51.310Z,"10 km SSW of Volcano, Hawaii",earthquake,0.36,0.540000021,0.4,3,automatic,hv,hv
-2023-10-08T23:36:32.558Z,38.174,-117.7811,11.4,1.9,ml,10,67.31,0.162,0.1187,nn,nn00867025,2023-10-09T18:24:29.945Z,"37 km SE of Mina, Nevada",earthquake,,2,0.36,7,reviewed,nn,nn
-2023-10-08T23:35:05.063Z,8.8156,-77.1671,25.935,4.6,mb,45,96,0.791,0.65,us,us6000le4f,2023-10-08T23:49:07.040Z,"Panama-Colombia border region",earthquake,6.6,5.928,0.063,75,reviewed,us,us
