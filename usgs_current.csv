@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T19:40:22.840Z,64.8309,-147.5366,8.9,1.2,ml,,,,0.56,ak,ak023cyp3q5o,2023-10-09T19:42:21.852Z,"3 km N of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-09T19:30:17.920Z,32.6431667,-116.9713333,-0.5,0.82,ml,10,202,0.04955,0.13,ci,ci40580040,2023-10-10T00:24:26.198Z,"6 km ESE of Bonita, CA",quarry blast,0.75,31.61,0.12,5,reviewed,ci,ci
 2023-10-09T19:11:57.487Z,64.4869,-147.8611,8.9,1.1,ml,,,,0.6,ak,ak023cyoxl2c,2023-10-09T19:13:53.604Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-09T19:07:30.910Z,38.8144989,-122.8311691,1.27,0.57,md,8,103,0.005834,0.01,nc,nc73948216,2023-10-09T20:37:12.967Z,"8 km WNW of The Geysers, CA",earthquake,0.33,0.69,0.28,8,automatic,nc,nc
-2023-10-09T19:02:41.810Z,46.0003333333333,-112.468833333333,-2,1.11,ml,11,167,0.06081,0.06,mb,mb90029368,2023-10-10T15:19:21.620Z,"5 km E of Butte, Montana",quarry blast,0.44,31.61,0.0978720913555062,5,reviewed,mb,mb
