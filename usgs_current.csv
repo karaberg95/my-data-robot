@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T08:59:28.690Z,17.9563333333333,-66.9258333333333,16.24,2,md,9,203,0.04808,0.17,pr,pr71428098,2023-10-10T09:08:14.500Z,"Puerto Rico region",earthquake,0.69,1.54,0.0639773192385207,4,reviewed,pr,pr
+2023-10-10T08:57:04.480Z,38.7788315,-122.7178345,1.69,1.23,md,9,89,0.01799,0.02,nc,nc73948426,2023-10-10T08:58:38.247Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.81,0.08,10,automatic,nc,nc
 2023-10-10T08:43:43.985Z,61.2391,-151.9349,82.7,1.9,ml,,,,0.94,ak,ak023d063zrr,2023-10-10T08:46:52.525Z,"47 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-10T08:32:45.420Z,57.836,-139.0594,9.628,4.3,mb,71,129,1.515,1.03,us,us6000legc,2023-10-10T08:45:33.040Z,"165 km WSW of Elfin Cove, Alaska",earthquake,3.64,5.205,0.063,72,reviewed,us,us
 2023-10-10T08:12:03.343Z,61.6766,-141.8241,8.9,1.6,ml,,,,0.45,ak,ak023d05x9fy,2023-10-10T08:40:33.763Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T07:43:04.610Z,19.367000579834,-155.291000366211,0.740000009536743,1.83,ml,23,109,,0.209999993,hv,hv73602867,2023-10-10T07:48:35.600Z,"10 km SW of Volcano, Hawaii",earthquake,0.25,0.400000006,0.28,4,automatic,hv,hv
 2023-10-10T07:21:32.234Z,-15.545,-174.2009,25.023,5.7,mww,57,57,3.092,1.21,us,us6000leg0,2023-10-10T08:28:52.479Z,"62 km NW of Hihifo, Tonga",earthquake,7.49,5.196,0.089,12,reviewed,us,us
 2023-10-10T07:19:26.980Z,40.3120003,-124.3486633,5.2,1.49,md,7,213,0.02399,0.04,nc,nc73948411,2023-10-10T07:59:19.735Z,"6 km WSW of Petrolia, CA",earthquake,1.77,1.71,0.02,5,automatic,nc,nc
-2023-10-10T07:10:15.680Z,38.6846657,-122.4981689,6.66,1.14,md,7,128,0.09349,0.06,nc,nc73948401,2023-10-10T07:40:14.637Z,"13 km SE of Middletown, CA",earthquake,0.53,3.48,0.25,6,automatic,nc,nc
+2023-10-10T07:10:15.680Z,38.6846657,-122.4981689,6.66,1.14,md,7,128,0.09349,0.06,nc,nc73948401,2023-10-10T08:55:14.056Z,"13 km SE of Middletown, CA",earthquake,0.53,3.48,0.25,6,automatic,nc,nc
 2023-10-10T07:06:44.270Z,19.363166809082,-155.287338256836,2.20000004768372,1.79,ml,17,115,,0.129999995,hv,hv73602832,2023-10-10T07:12:15.060Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.479999989,0.36,6,automatic,hv,hv
 2023-10-10T06:58:56.810Z,38.821167,-122.7618332,1.78,1.11,md,16,123,0.01123,0.02,nc,nc73948391,2023-10-10T07:59:19.850Z,"3 km W of Cobb, CA",earthquake,0.29,0.45,0.15,15,automatic,nc,nc
 2023-10-10T06:55:57.160Z,19.3388328552246,-155.300994873047,2.92000007629395,1.72000003,md,25,113,,0.180000007,hv,hv73602822,2023-10-10T06:59:04.700Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.689999998,1.40999997,14,automatic,hv,hv
@@ -195,6 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T09:23:59.700Z,35.419,-118.6793333,5.93,1.69,ml,34,47,0.09095,0.19,ci,ci40579360,2023-10-09T12:53:14.020Z,"25 km SW of Bodfish, CA",earthquake,0.23,1.14,0.239,26,reviewed,ci,ci
 2023-10-09T09:22:51.693Z,66.4099,-154.5058,0.8,1.8,ml,,,,0.92,ak,ak023cyj1ld9,2023-10-09T09:25:08.766Z,"41 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-09T09:19:10.560Z,17.8951666666667,-66.9308333333333,12.81,2.41,md,6,240,0.0934,0.08,pr,pr71428043,2023-10-09T10:12:50.420Z,"Puerto Rico region",earthquake,0.75,0.83,0.0200451506220913,3,reviewed,pr,pr
-2023-10-09T09:02:32.090Z,19.3449993133545,-155.311340332031,2.11999988555908,1.82,ml,28,67,,0.170000002,hv,hv73601517,2023-10-09T09:08:03.170Z,"13 km SW of Volcano, Hawaii",earthquake,0.31,0.50999999,0.15,9,automatic,hv,hv
-2023-10-09T08:59:33.030Z,34.0003333,-117.8378333,5.79,0.7,ml,18,98,0.03093,0.17,ci,ci40579352,2023-10-09T18:27:36.307Z,"3 km SE of Walnut, CA",earthquake,0.36,0.87,0.2,9,reviewed,ci,ci
-2023-10-09T08:58:59.030Z,38.3046667,-112.3873333,9.73,1.51,ml,18,92,0.265,0.1,uu,uu60552012,2023-10-09T13:06:26.360Z,"16 km WNW of Junction, Utah",earthquake,0.45,1.18,0.239,7,reviewed,uu,uu
