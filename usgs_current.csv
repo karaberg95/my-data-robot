@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T12:53:20.170Z,38.6814995,-122.4941635,9.64,1.24,md,8,131,0.0891,0.06,nc,nc73948546,2023-10-10T12:54:58.608Z,"12 km NNW of Angwin, CA",earthquake,0.63,2.26,0.23,9,automatic,nc,nc
+2023-10-10T12:50:58.656Z,62.6378,-151.2817,85.1,2.1,ml,,,,0.54,ak,ak023d08j9c9,2023-10-10T12:52:59.999Z,"30 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-10T12:29:04.610Z,37.7633324,-122.5674973,11.34,1.6,md,29,97,0.07996,0.05,nc,nc73948536,2023-10-10T12:30:39.192Z,"7 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.65,0.17,18,automatic,nc,nc
+2023-10-10T12:27:41.581Z,15.9832,146.9409,36.505,4.9,mb,70,76,1.333,0.89,us,us6000leh9,2023-10-10T12:54:47.040Z,"153 km ENE of Saipan, Northern Mariana Islands",earthquake,9.76,4.03,0.066,73,reviewed,us,us
 2023-10-10T11:55:33.930Z,38.6845016,-122.4954987,8.32,1.41,md,12,112,0.09171,0.06,nc,nc73948516,2023-10-10T12:39:35.975Z,"13 km NNW of Angwin, CA",earthquake,0.4,1.78,0.19,13,automatic,nc,nc
 2023-10-10T11:52:40.890Z,38.6868324,-122.5021667,5.56,2.83,md,66,44,0.09294,0.15,nc,nc73948511,2023-10-10T12:41:27.104Z,"12 km SE of Middletown, CA",earthquake,0.22,0.79,0.13,81,automatic,nc,nc
 2023-10-10T11:44:31.770Z,38.6863327,-122.4980011,6.3,1.27,md,9,111,0.09437,0.05,nc,nc73948501,2023-10-10T12:16:13.155Z,"12 km SE of Middletown, CA",earthquake,0.43,2.62,0.13,9,automatic,nc,nc
@@ -23,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T10:21:16.182Z,28.9683,-98.0699,5.83,2.6,mb_lg,11,57,0.256,0.57,us,us6000legt,2023-10-10T11:09:28.040Z,"5 km WSW of Falls City, Texas",earthquake,1.56,4.075,0.088,34,reviewed,us,us
 2023-10-10T10:21:11.070Z,35.5313333,-118.388,8.96,0.82,ml,9,115,0.1487,0.08,ci,ci40580408,2023-10-10T10:24:49.675Z,"11 km SE of Bodfish, CA",earthquake,0.28,1.01,0.087,6,automatic,ci,ci
 2023-10-10T10:19:31.562Z,60.9272,-150.9347,13.6,1.6,ml,,,,0.65,ak,ak023d075oul,2023-10-10T10:22:15.766Z,"13 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-10T10:18:24.180Z,38.814167,-122.8133316,2.96,0.29,md,9,199,0.009559,0.01,nc,nc73948451,2023-10-10T10:37:14.574Z,"6 km NW of The Geysers, CA",earthquake,0.66,0.81,0.18,10,automatic,nc,nc
+2023-10-10T10:18:24.180Z,38.814167,-122.8133316,2.96,0.29,md,9,199,0.009559,0.01,nc,nc73948451,2023-10-10T12:50:14.344Z,"6 km NW of The Geysers, CA",earthquake,0.66,0.81,0.18,10,automatic,nc,nc
 2023-10-10T10:04:02.900Z,33.8518333,-117.7398333,2.64,1.9,ml,54,46,0.04744,0.21,ci,ci40580392,2023-10-10T10:27:40.172Z,"8 km ESE of Yorba Linda, CA",earthquake,0.2,0.35,0.174,27,automatic,ci,ci
 2023-10-10T10:03:59.900Z,17.8853333333333,-66.9246666666667,13.35,2.12,md,5,245,0.08773,0.07,pr,pr71428118,2023-10-10T10:53:41.440Z,"9 km S of Guánica, Puerto Rico",earthquake,1.71,0.8,0.134375785466082,3,reviewed,pr,pr
 2023-10-10T10:03:58.260Z,19.3643341064453,-155.298004150391,1.78999996185303,1.99,ml,20,104,,0.129999995,hv,hv73603032,2023-10-10T10:09:29.480Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.419999987,1.86,10,automatic,hv,hv
@@ -184,8 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T13:08:27.190Z,19.1663341522217,-155.484832763672,34.1500015258789,1.86000001,md,34,106,,0.129999995,hv,hv73601772,2023-10-09T13:11:45.250Z,"Hawaii region, Hawaii",earthquake,0.57,0.829999983,0.930000007,3,automatic,hv,hv
 2023-10-09T13:06:09.040Z,34.2571667,-117.165,4,0.87,ml,22,67,0.06291,0.13,ci,ci40579480,2023-10-09T22:22:24.994Z,"2 km ENE of Lake Arrowhead, CA",earthquake,0.22,0.35,0.092,18,reviewed,ci,ci
 2023-10-09T13:03:54.309Z,-23.6804,-66.8729,216.661,4.1,ml,21,134,1.402,0.27,us,us6000le8j,2023-10-09T15:55:02.040Z,"Jujuy, Argentina",earthquake,12.9,15.964,,,reviewed,us,guc
-2023-10-09T12:58:54.580Z,40.4785,-111.3333333,11.72,1.1,md,17,87,0.2138,0.19,uu,uu60552022,2023-10-09T13:24:33.560Z,"Utah",earthquake,0.59,1.39,0.261,10,reviewed,uu,uu
-2023-10-09T12:54:45.430Z,34.2621667,-117.1646667,3.46,0.94,ml,33,68,0.06527,0.14,ci,ci40579472,2023-10-09T21:58:58.882Z,"3 km NE of Lake Arrowhead, CA",earthquake,0.21,0.39,0.107,23,reviewed,ci,ci
-2023-10-09T12:53:16.152Z,59.8827,-153.5136,127.6,1.8,ml,,,,0.68,ak,ak023cyl0gmu,2023-10-09T14:06:56.375Z,"34 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-10-09T12:47:21.630Z,34.0011667,-117.8335,6.14,0.82,ml,14,97,0.01596,0.19,ci,ci40579464,2023-10-09T21:53:59.323Z,"4 km SE of Walnut, CA",earthquake,0.43,0.69,0.072,8,reviewed,ci,ci
-2023-10-09T12:43:31.192Z,51.4936,178.9807,32.248,3.8,mb,36,174,0.232,0.99,us,us6000le90,2023-10-10T04:41:55.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.14,7.655,0.17,9,reviewed,us,us
