@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-12T20:25:38.980Z,38.7681656,-122.7411652,0.08,1.47,md,18,81,0.01434,0.06,nc,nc73946505,2023-10-12T20:27:17.243Z,"2 km SE of The Geysers, CA",earthquake,0.25,0.66,0.16,18,automatic,nc,nc
+2023-10-12T20:21:47.010Z,33.472168,-116.4941635,14.27,1.09,ml,19,139,0.07671,0.12,ci,ci40581816,2023-10-12T20:23:56.006Z,"19 km ESE of Anza, CA",earthquake,0.47,0.83,0.135,10,automatic,ci,ci
 2023-10-12T20:05:52.813Z,57.249,-156.6248,91.4,1.9,ml,,,,0.35,ak,ak023d3o3rht,2023-10-12T20:08:12.124Z,"54 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-12T20:05:36.541Z,38.2346,-118.284,8.2,1.4,ml,9,111.54,0.174,0.1293,nn,nn00867212,2023-10-12T20:08:30.224Z,"23 km SW of Mina, Nevada",earthquake,,0.8,0.37,5,automatic,nn,nn
 2023-10-12T20:02:41.620Z,38.8221664,-122.7904968,0.95,1.5,md,25,34,0.01174,0.04,nc,nc73946495,2023-10-12T20:15:11.641Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.3,0.14,27,automatic,nc,nc
 2023-10-12T20:00:40.715Z,14.8766,-87.5663,10,4.6,mb,93,70,0.863,0.71,us,us6000lf7c,2023-10-12T20:20:39.625Z,"13 km NNE of La Libertad, Honduras",earthquake,5.56,1.892,0.06,82,reviewed,us,us
-2023-10-12T20:00:31.615Z,38.1753,-118.3512,7.6,2.4,ml,17,150.6,0.143,0.2958,nn,nn00867207,2023-10-12T20:03:40.566Z,"California-Nevada border region",earthquake,,0.7,0.82,9,automatic,nn,nn
+2023-10-12T20:00:30.917Z,38.2264,-118.2822,8.2,2.4,ml,16,76.55,0.177,0.1722,nn,nn00867207,2023-10-12T20:27:29.836Z,"23 km SW of Mina, Nevada",earthquake,,1.2,0.22,11,reviewed,nn,nn
 2023-10-12T19:59:48.990Z,38.7661667,-122.7238312,0.54,1.29,md,14,61,0.004637,0.08,nc,nc73946485,2023-10-12T20:17:19.653Z,"3 km WSW of Anderson Springs, CA",earthquake,0.3,0.35,0.13,13,automatic,nc,nc
 2023-10-12T19:48:01.840Z,33.0308342,-116.3516693,4.92,1.11,ml,18,109,0.07694,0.15,ci,ci40581776,2023-10-12T19:50:24.824Z,"24 km ESE of Julian, CA",earthquake,0.31,0.72,0.23,4,automatic,ci,ci
 2023-10-12T19:42:15.608Z,61.6423,-151.4042,72.3,1.2,ml,,,,0.39,ak,ak023d3nq6ig,2023-10-12T19:44:29.637Z,"38 km S of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -148,6 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T02:15:41.175Z,62.1149,-147.4062,20,1.9,ml,,,,0.83,ak,ak023d3dg2v9,2023-10-12T02:17:39.101Z,"23 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T02:15:02.080Z,38.6778336,-122.4953308,10.17,1.41,md,8,136,0.08781,0.05,nc,nc73946280,2023-10-12T05:52:14.769Z,"12 km NNW of Angwin, CA",earthquake,0.7,2.55,0.18,9,automatic,nc,nc
 2023-10-12T02:14:16.970Z,38.822834,-122.8121643,1.82,1.09,md,22,48,0.001726,0.01,nc,nc73946275,2023-10-12T02:54:15.576Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.46,0.16,23,automatic,nc,nc
+2023-10-12T02:12:16.070Z,46.19866666666667,-122.17983333333333,6.15,0.9,ml,27,61,0.004224,0.17,uw,uw61965501,2023-10-12T20:28:03.980Z,"38 km NNE of Amboy, Washington",earthquake,0.34,0.55,0.11464089626066765,15,reviewed,uw,uw
 2023-10-12T01:51:18.590Z,38.8168335,-122.8001633,2.5,0.4,md,7,93,0.009633,0.02,nc,nc73946270,2023-10-12T02:44:13.387Z,"6 km NW of The Geysers, CA",earthquake,0.57,2.07,0.23,9,automatic,nc,nc
 2023-10-12T01:41:40.981Z,60.2271,-141.0887,1.1,1.4,ml,,,,0.5,ak,ak023d3d07v6,2023-10-12T01:43:37.328Z,"107 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-12T01:35:34.855Z,62.1683,-145.7025,0,1.4,ml,,,,0.88,ak,ak023d3cyx3h,2023-10-12T01:37:46.718Z,"10 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -189,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T21:23:33.677Z,63.4466,-147.7207,0,1.8,ml,,,,0.91,ak,ak023d219o0n,2023-10-11T21:25:33.675Z,"61 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-11T20:49:28.420Z,44.511,-115.222666666667,5.83,2.05,ml,10,75,0.4865,0.09,mb,mb90029498,2023-10-11T22:21:59.000Z,"39 km NW of Stanley, Idaho",earthquake,0.34,1.4,0.244245520627057,16,reviewed,mb,mb
 2023-10-11T20:39:00.540Z,43.5071666666667,-110.679166666667,3.22,0.37,ml,6,203,0.07215,0.22,mb,mb90029493,2023-10-11T21:59:09.740Z,"7 km ENE of Jackson, Wyoming",earthquake,1.08,3.74,0.19365940501336,6,reviewed,mb,mb
-2023-10-11T20:28:44.860Z,19.1476669311523,-155.477661132812,32.5400009155273,2.25,ml,41,166,,0.109999999,hv,hv73605652,2023-10-11T20:34:16.170Z,"6 km S of Pāhala, Hawaii",earthquake,0.64,0.850000024,4.13,5,automatic,hv,hv
