@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-12T18:51:09.040Z,36.0003319,-120.5618362,1.46,1.51,md,10,88,0.02237,0.07,nc,nc73946465,2023-10-12T18:52:47.534Z,"16 km NW of Parkfield, CA",earthquake,0.31,0.67,0.13,5,automatic,nc,nc
 2023-10-12T18:30:23.399Z,58.7189,-154.199,12.3,2.1,ml,,,,0.31,ak,ak023d3n26wz,2023-10-12T18:31:59.623Z,"86 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T18:17:52.288Z,63.5357,-147.4749,16.5,1.5,ml,,,,0.57,ak,ak023d3mzgu4,2023-10-12T18:19:57.151Z,"74 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T18:06:07.299Z,63.7499,-150.6135,5.5,1.2,ml,,,,0.35,ak,ak023d3mx0hl,2023-10-12T18:07:37.344Z,"59 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
