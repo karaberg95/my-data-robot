@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T10:30:33.448Z,63.5031,-151.0049,0,1.6,ml,,,,1.01,ak,ak023d6tdfu8,2023-10-14T10:32:22.848Z,"36 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-14T09:56:26.972Z,63.3994,-149.8735,141.5,3.2,ml,,,,0.85,ak,ak023d6sxiv9,2023-10-14T10:09:07.976Z,"46 km W of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-14T09:51:41.204Z,60.0545,-152.9328,111.1,2.6,ml,,,,0.42,ak,ak023d6swivc,2023-10-14T10:01:14.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-14T09:46:42.268Z,61.2412,-149.917,42,2.1,ml,,,,0.5,ak,ak023d6svgd3,2023-10-14T09:48:25.455Z,"2 km NNW of Anchorage, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T08:49:30.080Z,19.3355007171631,-155.300994873047,2.66000008583069,1.87,md,18,126,,0.159999996,hv,hv73608152,2023-10-14T08:55:02.180Z,"13 km SSW of Volcano, Hawaii",earthquake,0.37,0.74000001,0.639999986,10,automatic,hv,hv
 2023-10-14T08:44:36.990Z,36.7565002,-121.2761688,7.8,1.26,md,9,139,0.03397,0.04,nc,nc73947040,2023-10-14T09:15:12.451Z,"5 km SE of Tres Pinos, CA",earthquake,0.46,0.78,0.06,7,automatic,nc,nc
 2023-10-14T08:41:15.127Z,64.4685,-149.4192,7.4,1.3,ml,,,,0.44,ak,ak023d6s8w3l,2023-10-14T08:43:58.904Z,"17 km NW of Anderson, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-14T08:29:35.141Z,7.5261,-36.6975,10,5.4,mww,79,59,13.289,0.73,us,us6000lfid,2023-10-14T08:46:46.590Z,"central Mid-Atlantic Ridge",earthquake,10.87,1.884,0.093,11,reviewed,us,us
+2023-10-14T08:29:35.141Z,7.5261,-36.6975,10,5.4,mww,79,59,13.289,0.73,us,us6000lfid,2023-10-14T10:32:53.756Z,"central Mid-Atlantic Ridge",earthquake,10.87,1.884,0.093,11,reviewed,us,us
 2023-10-14T08:15:41.420Z,33.6383333,-116.7158333,17.58,0.83,ml,24,62,0.07492,0.16,ci,ci40582448,2023-10-14T08:19:16.366Z,"10 km NNW of Anza, CA",earthquake,0.35,0.5,0.228,25,automatic,ci,ci
 2023-10-14T08:05:12.808Z,23.9729,122.3284,21.476,4.8,mb,66,81,0.7,0.51,us,us6000lfi8,2023-10-14T08:22:25.040Z,"Taiwan region",earthquake,2.18,5.624,0.083,45,reviewed,us,us
 2023-10-14T07:53:30.141Z,23.9691,122.267,19.372,4.9,mww,54,71,0.647,0.89,us,us6000lfi5,2023-10-14T08:07:54.040Z,"Taiwan region",earthquake,4.53,4.468,0.083,14,reviewed,us,us
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T10:45:37.126Z,39.4665,-118.4743,8,1,ml,5,112.34,0.316,0.0714,nn,nn00867268,2023-10-14T02:04:49.264Z,"21 km ENE of Fallon Station, Nevada",earthquake,,13,0.23,3,reviewed,nn,nn
 2023-10-13T10:44:35.533Z,63.077,-151.5182,0.9,1.6,ml,,,,0.85,ak,ak023d55x3j5,2023-10-13T10:46:18.951Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-13T10:34:15.250Z,34.054,-117.257,17.39,1.19,ml,57,40,0.05558,0.16,ci,ci40582008,2023-10-13T19:12:56.188Z,"1 km NNE of Loma Linda, CA",earthquake,0.17,0.37,0.12,23,reviewed,ci,ci
-2023-10-13T10:32:59.821Z,67.1781,-154.814,1.1,2.5,ml,,,,0.7,ak,ak023d55ukta,2023-10-13T10:36:05.166Z,"94 km ENE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
