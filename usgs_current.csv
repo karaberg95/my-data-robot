@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T22:11:05.472Z,14.8581,-87.5784,10,4.8,mb,39,60,0.85,0.95,us,us6000lflx,2023-10-14T22:23:41.040Z,"11 km NNE of La Libertad, Honduras",earthquake,2.9,1.927,0.039,199,reviewed,us,us
+2023-10-14T22:10:04.625Z,-58.981,-25.6245,45.753,5.1,mb,51,69,15.725,0.67,us,us6000lfly,2023-10-14T22:29:02.040Z,"South Sandwich Islands region",earthquake,11.92,7.309,0.063,82,reviewed,us,us
 2023-10-14T21:57:21.445Z,56.9552,-156.91,102.5,2.1,ml,,,,0.91,ak,ak023d702z6b,2023-10-14T21:59:38.703Z,"68 km SSE of Ugashik, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-14T21:53:08.515Z,31.8328,79.4271,10,4.4,mb,29,160,5.496,0.75,us,us6000lflt,2023-10-14T22:11:39.040Z,"142 km N of Joshīmath, India",earthquake,9.86,1.947,0.149,13,reviewed,us,us
 2023-10-14T21:52:06.330Z,38.7798347,-122.7561646,1.01,1.3,md,19,66,0.01179,0.04,nc,nc73947280,2023-10-14T22:10:10.942Z,"0 km N of The Geysers, CA",earthquake,0.23,0.4,0.15,17,automatic,nc,nc
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T20:54:57.970Z,39.159668,-123.5889969,3.27,1.97,md,13,73,0.05448,0.07,nc,nc73947250,2023-10-14T21:59:14.889Z,"16 km ESE of Navarro Head, CA",earthquake,0.28,1.24,0.13,9,automatic,nc,nc
 2023-10-14T20:54:41.651Z,61.3481,-151.9295,88.2,1.2,ml,,,,0.64,ak,ak023d6zgxph,2023-10-14T20:56:30.413Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-14T20:12:28.047Z,61.3176,-146.9533,15.9,2,ml,,,,0.6,ak,ak023d6z7wl0,2023-10-14T20:14:29.109Z,"38 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-14T20:12:18.650Z,19.3526668548584,-155.294662475586,3.07999992370605,1.72000003,md,16,119,,0.140000001,hv,hv73608837,2023-10-14T20:15:18.990Z,"11 km SSW of Volcano, Hawaii",earthquake,0.38,0.75,0.660000026,13,automatic,hv,hv
+2023-10-14T20:12:18.650Z,19.3526668548584,-155.294662475586,3.07999992370605,1.72000003,md,16,119,,0.140000001,hv,hv73608837,2023-10-14T20:15:18.990Z,"Island of Hawaii, Hawaii",earthquake,0.38,0.75,0.660000026,13,automatic,hv,hv
 2023-10-14T20:11:04.440Z,38.8240013,-122.8509979,2.25,1.03,md,18,82,0.005795,0.03,nc,nc73947240,2023-10-14T21:02:11.557Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.27,21,automatic,nc,nc
 2023-10-14T20:05:13.550Z,33.4705,-116.3963333,14.6,0.66,ml,15,151,0.05819,0.18,ci,ci40582624,2023-10-14T20:08:48.994Z,"23 km SSW of La Quinta, CA",earthquake,0.58,0.89,0.166,12,automatic,ci,ci
 2023-10-14T20:04:33.000Z,38.831665,-122.8166656,1.43,0.72,md,13,57,0.009732,0.01,nc,nc73947235,2023-10-14T20:52:12.494Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.82,0.26,14,automatic,nc,nc
@@ -166,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T22:35:06.520Z,38.8448334,-122.8056641,0.58,1.12,md,17,102,0.01358,0.02,nc,nc73946950,2023-10-14T00:08:14.296Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.43,0.11,19,automatic,nc,nc
 2023-10-13T22:31:49.202Z,63.0716,-150.8571,81.8,2,ml,,,,0.79,ak,ak023d5czjjc,2023-10-13T22:33:43.522Z,"64 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-13T22:30:20.250Z,38.7895012,-122.7301636,-0.87,0.73,md,6,208,0.008088,0.11,nc,nc73946945,2023-10-13T22:45:10.801Z,"3 km ENE of The Geysers, CA",earthquake,0.96,3.97,0.27,7,automatic,nc,nc
-2023-10-13T22:26:35.810Z,38.8144989,-122.7939987,3.25,0.76,md,9,99,0.0066,0.02,nc,nc73946940,2023-10-13T22:37:10.756Z,"5 km NW of The Geysers, CA",earthquake,0.51,0.83,0.16,9,automatic,nc,nc
