@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T16:52:49.268Z,64.8251,-147.5199,10.3,1,ml,,,,0.21,ak,ak023d8km4xu,2023-10-15T16:55:25.409Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-15T16:25:41.147Z,-31.5926,-177.9056,10,4.8,mb,24,90,2.323,0.93,us,us6000lfr7,2023-10-15T16:48:13.040Z,"Kermadec Islands region",earthquake,6.4,1.868,0.119,24,reviewed,us,us
 2023-10-15T16:13:40.524Z,60.8187,-150.712,48.4,2.1,ml,,,,0.2,ak,ak023d8kdrc4,2023-10-15T16:15:16.775Z,"11 km S of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-15T16:10:21.679Z,61.1932,-146.6953,19.9,1.4,ml,,,,0.59,ak,ak023d8kd2qf,2023-10-15T16:12:09.236Z,"19 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -143,5 +144,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T17:09:15.440Z,38.8055,-122.7806702,1.52,1.08,md,13,65,0.007748,0.02,nc,nc73947175,2023-10-14T20:00:14.077Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.48,0.14,14,automatic,nc,nc
 2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
 2023-10-14T16:58:29.114Z,63.222,-150.6232,128,2.5,ml,,,,0.47,ak,ak023d6x413q,2023-10-15T05:04:17.119Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-14T16:50:38.050Z,33.9298333,-116.8575,16.88,0.83,ml,20,72,0.1082,0.19,ci,ci40582544,2023-10-14T16:54:13.995Z,"2 km ENE of Banning, CA",earthquake,0.41,0.95,0.151,22,automatic,ci,ci
-2023-10-14T16:49:47.249Z,61.8764,-150.593,13,1.6,ml,,,,0.14,ak,ak023d6x2550,2023-10-14T16:51:12.871Z,"32 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
