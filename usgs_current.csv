@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-15T19:18:32.540Z,34.3386667,-117.0051667,4.62,1.21,ml,35,70,0.08162,0.23,ci,ci40582784,2023-10-15T19:22:21.570Z,"12 km SSW of Lucerne Valley, CA",earthquake,0.37,1.14,0.182,28,automatic,ci,ci
+2023-10-15T19:30:16.420Z,34.336834,-117.004837,2.81,1.21,ml,21,56,0.0798,0.16,ci,ci40582808,2023-10-15T19:32:40.120Z,"12 km SSW of Lucerne Valley, CA",earthquake,0.3,1.02,0.216,6,automatic,ci,ci
+2023-10-15T19:30:05.780Z,34.1686668,-117.4228363,7.78,1.14,ml,15,64,0.05927,0.11,ci,ci40582800,2023-10-15T19:32:25.077Z,"6 km SSW of Devore, CA",earthquake,0.42,1.13,0.267,12,automatic,ci,ci
+2023-10-15T19:28:27.410Z,34.3363333,-117.0093333,2.45,1.38,ml,42,40,0.07936,0.18,ci,ci40582792,2023-10-15T19:32:27.992Z,"13 km SSW of Lucerne Valley, CA",earthquake,0.26,0.88,0.189,28,automatic,ci,ci
+2023-10-15T19:18:32.540Z,34.3386667,-117.0051667,4.62,1.21,ml,35,70,0.08162,0.23,ci,ci40582784,2023-10-15T19:29:31.680Z,"12 km SSW of Lucerne Valley, CA",earthquake,0.37,1.14,0.182,28,automatic,ci,ci
 2023-10-15T19:11:13.949Z,63.7499,-148.1532,90.2,1.3,ml,,,,0.77,ak,ak023d8m5ko2,2023-10-15T19:14:28.324Z,"37 km E of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T19:10:38.410Z,35.4631667,-118.8626667,12.61,1.2,ml,16,136,0.06835,0.17,ci,ci40582776,2023-10-15T19:14:10.609Z,"15 km ENE of Oildale, CA",earthquake,0.45,0.73,0.208,9,automatic,ci,ci
 2023-10-15T18:56:48.340Z,38.7910004,-122.7289963,0.52,1.84,md,20,92,0.009827,0.04,nc,nc73947570,2023-10-15T19:20:11.716Z,"3 km ENE of The Geysers, CA",earthquake,0.22,0.5,0.14,24,automatic,nc,nc
@@ -154,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T20:04:33.000Z,38.831665,-122.8166656,1.43,0.72,md,13,57,0.009732,0.01,nc,nc73947235,2023-10-14T20:52:12.494Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.82,0.26,14,automatic,nc,nc
 2023-10-14T19:55:38.360Z,38.7636681,-122.7105026,1.19,1.29,md,14,82,0.009861,0.04,nc,nc73947230,2023-10-15T00:49:15.001Z,"2 km SW of Anderson Springs, CA",earthquake,0.27,0.29,0.12,15,automatic,nc,nc
 2023-10-14T19:33:34.460Z,38.8226662,-122.8516693,2.49,1.23,md,26,61,0.006345,0.02,nc,nc73947225,2023-10-15T00:22:15.858Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28,automatic,nc,nc
-2023-10-14T19:31:21.370Z,38.7983322,-122.7505035,1.85,0.74,md,9,97,0.007551,0.02,nc,nc73947215,2023-10-14T20:10:12.144Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.79,0.04,9,automatic,nc,nc
