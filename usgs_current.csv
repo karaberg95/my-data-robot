@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-16T06:28:07.504Z,58.0696,-154.764,85,1.2,ml,,,,0.16,ak,ak023da21wz2,2023-10-16T06:30:12.857Z,"58 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-16T06:18:37.560Z,19.1429996490479,-155.370498657227,29.8299999237061,1.71000004,md,34,194,,0.0900000036,hv,hv73610137,2023-10-16T06:21:57.690Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.7,0.930000007,1.75999999,4,automatic,hv,hv
 2023-10-16T06:15:37.588Z,61.2684,-146.8441,3.4,1.4,ml,,,,0.42,ak,ak023da1z6zi,2023-10-16T06:17:28.338Z,"30 km WNW of Valdez, Alaska",earthquake,,11.2,,,automatic,ak,ak
 2023-10-16T05:50:18.070Z,32.3938333,-115.236,6.92,1.7,ml,17,60,0.06373,0.27,ci,ci40582968,2023-10-16T05:53:56.682Z,"6 km NW of Delta, B.C., MX",earthquake,0.55,1.41,0.326,17,automatic,ci,ci
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T21:54:38.820Z,18.5906666666667,-66.4938333333333,13.06,2.98,md,19,216,0.1179,0.15,pr,pr71428708,2023-10-15T22:36:41.162Z,"Puerto Rico region",earthquake,0.43,0.46,0.0555248252868956,8,reviewed,pr,pr
 2023-10-15T21:39:17.716Z,34.4708,62.2717,10,4.1,mb,19,198,5.592,0.75,us,us6000lfsn,2023-10-16T04:00:18.040Z,"western Afghanistan",earthquake,11.05,1.962,0.197,7,reviewed,us,us
 2023-10-15T21:29:42.874Z,63.5269,-160.2788,74.2,2.9,ml,,,,0.73,ak,ak023d8ngczz,2023-10-15T23:13:00.040Z,"46 km SSE of Unalakleet, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-10-15T21:09:31.610Z,34.5635,-119.1386667,6.19,2.67,ml,67,28,0.1235,0.29,ci,ci40582864,2023-10-16T04:51:54.874Z,"16 km NE of Ojai, CA",earthquake,0.28,1.35,0.188,25,automatic,ci,ci
+2023-10-15T21:09:31.610Z,34.5635,-119.1386667,6.19,2.67,ml,67,28,0.1235,0.29,ci,ci40582864,2023-10-16T06:36:02.028Z,"16 km NE of Ojai, CA",earthquake,0.28,1.35,0.188,25,automatic,ci,ci
 2023-10-15T21:08:18.470Z,34.556,-119.139,1.53,1.98,ml,39,34,0.1188,0.23,ci,ci40582856,2023-10-15T21:19:07.650Z,"15 km NE of Ojai, CA",earthquake,0.24,0.66,0.139,27,automatic,ci,ci
 2023-10-15T21:05:23.452Z,55.8102,-149.2195,12.509,3.4,ml,42,223,2.708,0.45,us,us6000lfsd,2023-10-15T21:11:54.040Z,"274 km SE of Chiniak, Alaska",earthquake,10.75,9.019,0.06,36,reviewed,us,us
 2023-10-15T21:00:49.566Z,60.7077,-147.4049,14.7,1.8,ml,,,,0.32,ak,ak023d8na5r0,2023-10-15T21:02:45.735Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -152,4 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T07:35:00.530Z,38.7803345,-122.7565002,1.13,0.7,md,7,68,0.01202,0.02,nc,nc73947390,2023-10-15T09:04:10.811Z,"0 km N of The Geysers, CA",earthquake,0.32,0.85,0.07,8,automatic,nc,nc
 2023-10-15T07:05:35.226Z,63.1102,-150.4127,96.6,1.4,ml,,,,0.2,ak,ak023d8ez4ov,2023-10-15T07:08:03.859Z,"70 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T06:49:38.632Z,10.86,-62.1783,112.889,4.5,mb,80,126,3.423,0.54,us,us6000lfp6,2023-10-16T02:14:48.720Z,"33 km NNE of Güiria, Venezuela",earthquake,10.7,12.786,0.056,93,reviewed,us,us
-2023-10-15T06:32:11.260Z,19.1718330383301,-155.614166259766,2.96000003814697,1.92999995,md,28,79,,0.270000011,hv,hv73609242,2023-10-15T06:35:28.850Z,"11 km N of Wai‘ōhinu, Hawaii",earthquake,0.47,2.19000006,0.959999979,8,automatic,hv,hv
