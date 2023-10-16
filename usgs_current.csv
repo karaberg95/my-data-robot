@@ -155,4 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T08:59:39.641Z,36.7438,-115.9941,10.4,0.9,ml,32,72.58,0.017,0.1264,nn,nn00867326,2023-10-15T16:02:16.952Z,"34 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.26,19,reviewed,nn,nn
 2023-10-15T08:59:24.552Z,62.2048,-151.283,75.4,1.3,ml,,,,0.23,ak,ak023d8fw47b,2023-10-15T09:01:22.535Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-15T08:58:34.359Z,-58.9515,-25.4244,35,4.8,mb,42,163,7.685,0.51,us,us6000lfpq,2023-10-15T09:21:37.040Z,"South Sandwich Islands region",earthquake,14.3,1.949,0.084,47,reviewed,us,us
-2023-10-15T08:45:37.660Z,38.7879982,-122.7443314,1.35,0.65,md,6,104,0.007612,0.01,nc,nc73947420,2023-10-15T10:54:12.412Z,"2 km NE of The Geysers, CA",earthquake,0.37,1.02,0.37,8,automatic,nc,nc
