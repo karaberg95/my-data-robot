@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-17T20:41:10.930Z,19.3608341217041,-155.294006347656,0.5,2.07,ml,24,110,,0.239999995,hv,hv73612342,2023-10-17T20:46:42.700Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.469999999,0.57,11,automatic,hv,hv
+2023-10-17T20:41:10.930Z,19.3608341217041,-155.294006347656,0.5,2.07,ml,24,110,,0.239999995,hv,hv73612342,2023-10-17T20:48:46.831Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.469999999,0.57,11,automatic,hv,hv
 2023-10-17T20:35:56.430Z,35.7768333,-117.5771667,0.52,2.1,ml,26,93,0.1559,0.18,ci,ci40583608,2023-10-17T20:46:50.770Z,"16 km W of Searles Valley, CA",earthquake,0.32,0.64,0.147,25,automatic,ci,ci
 2023-10-17T20:16:41.190Z,31.668,-104.373,5.8231,3.5,ml(texnet),20,57,0,0.2,tx,tx2023ujon,2023-10-17T20:35:08.407Z,"56 km S of Whites City, New Mexico",earthquake,0.7812880251,1.194637528,0.1,10,reviewed,tx,tx
 2023-10-17T20:05:35.402Z,60.6596,-148.7342,5,1.5,ml,,,,0.84,ak,ak023dbxsgln,2023-10-17T20:08:13.490Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T01:56:13.910Z,33.6636667,-116.778,13.96,0.31,ml,8,108,0.08706,0.06,ci,ci37580444,2023-10-17T14:53:21.747Z,"10 km SSW of Idyllwild, CA",earthquake,0.29,0.55,0.369,6,reviewed,ci,ci
 2023-10-17T01:40:28.530Z,38.8326683,-122.817337,1.57,1.34,md,14,55,0.01086,0.01,nc,nc73948110,2023-10-17T05:21:14.941Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.54,0.15,17,automatic,nc,nc
 2023-10-17T01:36:53.955Z,38.1672,-117.8922,12.3,1.5,ml,11,73.84,0.08,0.1173,nn,nn00867463,2023-10-17T16:27:31.753Z,"31 km SE of Mina, Nevada",earthquake,,1.1,0.37,5,reviewed,nn,nn
-2023-10-17T01:35:57.390Z,38.1678,-117.8341,10.7,1.2,ml,9,91.4,0.123,0.1607,nn,nn00867462,2023-10-17T16:08:49.602Z,"Nevada",earthquake,,2.1,0.48,4,reviewed,nn,nn
+2023-10-17T01:35:57.390Z,38.1678,-117.8341,10.7,1.2,ml,9,91.4,0.123,0.1607,nn,nn00867462,2023-10-17T16:08:49.602Z,"34 km SE of Mina, Nevada",earthquake,,2.1,0.48,4,reviewed,nn,nn
 2023-10-17T01:27:25.520Z,37.4333333,-113.1215,10.05,1.5,ml,12,62,0.07716,0.11,uu,uu60552422,2023-10-17T16:33:17.270Z,"12 km SSE of Kanarraville, Utah",earthquake,0.35,0.9,0.252,5,reviewed,uu,uu
 2023-10-17T01:20:18.710Z,38.8178329,-122.8170013,2.23,1.09,md,21,47,0.007754,0.02,nc,nc73948105,2023-10-17T01:50:12.691Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.52,0.14,21,automatic,nc,nc
 2023-10-17T01:17:53.016Z,60.2998,-143.3099,13.5,1.8,ml,,,,0.38,ak,ak023dbmju2t,2023-10-17T01:19:21.222Z,"128 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T21:07:07.539Z,36.6929,-115.8732,10.3,0.3,ml,6,274.5,0.078,0.0749,nn,nn00867485,2023-10-17T16:02:35.779Z,"22 km NW of Indian Springs, Nevada",earthquake,,3.5,0.21,2,reviewed,nn,nn
 2023-10-16T21:01:04.694Z,39.219,-118.0435,4.8,0.1,ml,5,147.49,0.109,0.106,nn,nn00867496,2023-10-17T20:27:11.180Z,"40 km NNW of Gabbs, Nevada",earthquake,,9.2,0,1,reviewed,nn,nn
 2023-10-16T20:56:32.288Z,36.6951,-115.8691,11.9,0.3,ml,14,269.99,0.082,0.1397,nn,nn00867442,2023-10-17T15:59:26.000Z,"22 km NW of Indian Springs, Nevada",earthquake,,1.4,0.6,6,reviewed,nn,nn
-2023-10-16T20:52:06.858Z,36.8713,-116.2337,4.7,0,ml,9,116.58,0.034,0.0874,nn,nn00867484,2023-10-17T15:59:29.528Z,"47 km E of Beatty, Nevada",earthquake,,2.3,0.54,6,reviewed,nn,nn
