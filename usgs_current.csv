@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T05:41:02.645Z,31.6685,-104.4698,6.574,4.2,ml,31,70,0.026,0.31,us,us6000lgay,2023-10-18T05:53:05.040Z,"western Texas",earthquake,2.62,4.366,0.043,72,reviewed,us,us
 2023-10-18T05:39:01.240Z,19.3413333892822,-155.312835693359,3.07999992370605,1.98,ml,39,57,,0.189999998,hv,hv73612907,2023-10-18T05:44:32.740Z,"13 km SW of Volcano, Hawaii",earthquake,0.38,0.75999999,0.22,11,automatic,hv,hv
 2023-10-18T05:19:35.652Z,36.6256,-116.2513,8.5,0.4,ml,14,204.76,0.073,0.0865,nn,nn00867549,2023-10-18T05:21:11.704Z,"52 km NNW of Pahrump, Nevada",earthquake,,0.8,0.32,8,automatic,nn,nn
 2023-10-18T04:59:37.180Z,19.1895008087158,-155.429504394531,31.1900005340576,1.86000001,md,38,152,,0.109999999,hv,hv73612852,2023-10-18T05:03:05.170Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.920000017,0.920000017,3,automatic,hv,hv
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T03:14:27.322Z,36.6258,-116.2477,7.5,0.9,ml,16,108.02,0.076,0.0943,nn,nn00867547,2023-10-18T03:16:30.361Z,"52 km W of Indian Springs, Nevada",earthquake,,0.8,0.29,13,automatic,nn,nn
 2023-10-18T03:13:06.300Z,36.6239,-116.251,3.2,1.4,ml,28,90.83,0.074,0.2202,nn,nn00867544,2023-10-18T03:14:41.388Z,"51 km NNW of Pahrump, Nevada",earthquake,,0.5,0.92,21,automatic,nn,nn
 2023-10-18T03:01:18.102Z,64.93,-147.2848,0.7,1.5,ml,,,,1.5,ak,ak023ddb6jmq,2023-10-18T03:03:04.517Z,"13 km WNW of Two Rivers, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-10-18T02:56:21.700Z,38.8388329,-122.8105011,2,1.28,md,23,54,0.01542,0.02,nc,nc73948455,2023-10-18T03:15:13.911Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.39,0.27,25,automatic,nc,nc
+2023-10-18T02:56:21.700Z,38.8388329,-122.8105011,2,1.28,md,23,54,0.01542,0.02,nc,nc73948455,2023-10-18T06:00:13.824Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.39,0.27,25,automatic,nc,nc
 2023-10-18T02:56:01.000Z,34.2326667,-117.5001667,8.7,1.49,ml,47,33,0.07232,0.23,ci,ci40583688,2023-10-18T03:11:49.537Z,"3 km S of Lytle Creek, CA",earthquake,0.28,0.73,0.189,29,automatic,ci,ci
 2023-10-18T02:52:00.890Z,61.9548,-147.182,85.7,1.4,ml,,,,1.5,ak,ak023ddaw07t,2023-10-18T02:54:21.259Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-18T02:46:36.390Z,35.6758333,-117.5343333,7.13,1.63,ml,21,73,0.09071,0.17,ci,ci40583680,2023-10-18T02:50:14.219Z,"14 km ENE of Ridgecrest, CA",earthquake,0.32,1.11,0.109,17,automatic,ci,ci
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T00:36:22.567Z,62.2109,-149.7294,70.2,1.6,ml,,,,0.84,ak,ak023dd9lkld,2023-10-18T00:38:36.610Z,"8 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-18T00:30:30.690Z,36.1103333,-117.8688333,2.3,1.3,ml,14,186,0.01343,0.19,ci,ci40583648,2023-10-18T00:34:17.352Z,"10 km NE of Coso Junction, CA",earthquake,0.9,0.37,0.184,11,automatic,ci,ci
 2023-10-18T00:23:55.510Z,38.8129997,-122.8343353,-0.55,1.06,md,9,102,0.005767,0.24,nc,nc73948410,2023-10-18T00:35:11.990Z,"8 km WNW of The Geysers, CA",earthquake,0.73,2,0.12,9,automatic,nc,nc
-2023-10-18T00:19:02.647Z,60.636,-141.5027,7,1.4,ml,,,,0.46,ak,ak023dd9i2ja,2023-10-18T00:21:18.656Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-18T00:19:02.647Z,60.636,-141.5027,7,1.4,ml,,,,0.46,ak,ak023dd9i2ja,2023-10-18T00:21:18.656Z,"117 km SE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-18T00:13:54.860Z,47.458,-122.58833333333334,24.19,1.32,ml,17,102,0.09674,0.35,uw,uw61957762,2023-10-18T04:16:29.220Z,"Seattle-Tacoma urban area, Washington",earthquake,1.01,1.53,0.03764168339646112,8,reviewed,uw,uw
 2023-10-18T00:02:16.306Z,61.4771,-146.5105,31,1.6,ml,,,,0.76,ak,ak023dd9ege6,2023-10-18T00:04:12.544Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-17T23:53:31.570Z,17.9063333333333,-66.95,8.58,1.54,md,4,260,0.09595,0.03,pr,pr71429048,2023-10-18T00:06:16.010Z,"Puerto Rico region",earthquake,0.66,1.55,0.207168972771014,3,reviewed,pr,pr
