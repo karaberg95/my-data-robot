@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T05:39:01.240Z,19.3413333892822,-155.312835693359,3.07999992370605,2.31999993,md,39,57,,0.189999998,hv,hv73612907,2023-10-18T05:42:05.410Z,"13 km SW of Volcano, Hawaii",earthquake,0.38,0.75999999,0.970000029,18,automatic,hv,hv
 2023-10-18T05:19:35.652Z,36.6256,-116.2513,8.5,0.4,ml,14,204.76,0.073,0.0865,nn,nn00867549,2023-10-18T05:21:11.704Z,"Nevada",earthquake,,0.8,0.32,8,automatic,nn,nn
 2023-10-18T04:59:37.180Z,19.1895008087158,-155.429504394531,31.1900005340576,1.86000001,md,38,152,,0.109999999,hv,hv73612852,2023-10-18T05:03:05.170Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.56,0.920000017,0.920000017,3,automatic,hv,hv
 2023-10-18T04:30:42.930Z,37.7630005,-122.0078354,8.13,1.57,md,18,77,,0.07,nc,nc73948475,2023-10-18T05:08:12.539Z,"3 km SW of San Ramon, CA",earthquake,0.25,0.41,0.2,14,automatic,nc,nc
