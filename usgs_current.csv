@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T00:47:05.680Z,39.510334,-122.9998322,0.46,2.28,md,15,129,0.1516,0.07,nc,nc73948425,2023-10-18T04:35:15.366Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.34,8.19,0.08,12,automatic,nc,nc
 2023-10-18T00:46:11.270Z,38.8143349,-122.8190002,2.36,0.77,md,13,98,0.009645,0.03,nc,nc73948420,2023-10-18T00:57:12.095Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.89,0.14,12,automatic,nc,nc
 2023-10-18T00:36:22.567Z,62.2109,-149.7294,70.2,1.6,ml,,,,0.84,ak,ak023dd9lkld,2023-10-18T00:38:36.610Z,"8 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-18T00:30:30.690Z,36.1103333,-117.8688333,2.3,1.3,ml,14,186,0.01343,0.19,ci,ci40583648,2023-10-18T00:34:17.352Z,"10 km NE of Coso Junction, CA",earthquake,0.9,0.37,0.184,11,automatic,ci,ci
+2023-10-18T00:30:30.690Z,36.1103333,-117.8688333,2.3,1.3,ml,14,186,0.01343,0.19,ci,ci40583648,2023-10-18T13:35:41.598Z,"10 km NE of Coso Junction, CA",earthquake,0.9,0.37,0.184,11,reviewed,ci,ci
 2023-10-18T00:23:55.510Z,38.8129997,-122.8343353,-0.55,1.06,md,9,102,0.005767,0.24,nc,nc73948410,2023-10-18T00:35:11.990Z,"8 km WNW of The Geysers, CA",earthquake,0.73,2,0.12,9,automatic,nc,nc
 2023-10-18T00:19:02.647Z,60.636,-141.5027,7,1.4,ml,,,,0.46,ak,ak023dd9i2ja,2023-10-18T00:21:18.656Z,"117 km SE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-18T00:13:54.860Z,47.458,-122.58833333333334,24.19,1.32,ml,17,102,0.09674,0.35,uw,uw61957762,2023-10-18T04:16:29.220Z,"Seattle-Tacoma urban area, Washington",earthquake,1.01,1.53,0.03764168339646112,8,reviewed,uw,uw
@@ -126,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T20:52:37.854Z,-30.3027,-72.0849,15.007,4.7,mb,48,149,0.827,0.9,us,us6000lg7y,2023-10-17T22:00:39.040Z,"81 km WSW of Coquimbo, Chile",earthquake,4.83,5.11,0.123,23,reviewed,us,us
 2023-10-17T20:41:51.107Z,31.608,-104.096,6.7871,2.1,ml(texnet),17,66,0,0.1,tx,tx2023ujpi,2023-10-18T09:38:42.629Z,"43 km NW of Toyah, Texas",earthquake,0.545584689,0.4734604705,0.1,13,reviewed,tx,tx
 2023-10-17T20:41:11.050Z,19.3593333333333,-155.295833333333,1.4,2.49,ml,32,108,,0.12,hv,hv73612342,2023-10-17T21:03:41.961Z,"11 km SW of Volcano, Hawaii",earthquake,0.17,0.23,0.201921168991039,11,reviewed,hv,hv
-2023-10-17T20:35:56.430Z,35.7768333,-117.5771667,0.52,2.1,ml,26,93,0.1559,0.18,ci,ci40583608,2023-10-17T20:46:50.770Z,"16 km W of Searles Valley, CA",earthquake,0.32,0.64,0.147,25,automatic,ci,ci
+2023-10-17T20:35:56.560Z,35.7778333,-117.5763333,2.64,2.29,ml,32,62,0.1461,0.15,ci,ci40583608,2023-10-18T13:32:26.160Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.82,0.202,50,reviewed,ci,ci
 2023-10-17T20:16:41.184Z,31.676,-104.37,6.1187,3.5,ml(texnet),32,57,0,0.2,tx,tx2023ujon,2023-10-18T00:34:27.593Z,"55 km S of Whites City, New Mexico",earthquake,0.5605538314,0.5884364837,0.1,23,reviewed,tx,tx
 2023-10-17T20:05:35.402Z,60.6596,-148.7342,5,1.5,ml,,,,0.84,ak,ak023dbxsgln,2023-10-17T20:08:13.490Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-17T19:58:34.770Z,36.7615,-116.2578,8.5,0,ml,16,88.19,0.026,0.0982,nn,nn00867530,2023-10-17T23:42:45.352Z,"California-Nevada border region",earthquake,,1,0.25,4,reviewed,nn,nn
