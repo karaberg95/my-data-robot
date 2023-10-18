@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T11:45:55.120Z,34.5203333,-116.5456667,1.28,1.45,ml,19,86,0.1393,0.19,ci,ci40583728,2023-10-18T11:49:24.729Z,"40 km ENE of Lucerne Valley, CA",earthquake,0.39,0.67,0.198,28,automatic,ci,ci
 2023-10-18T11:17:47.261Z,63.7901,-148.9257,25,1.5,ml,,,,0.57,ak,ak023ddg1i6e,2023-10-18T11:19:44.864Z,"6 km N of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-18T11:13:39.100Z,38.840332,-122.7724991,0.69,1.31,md,24,76,0.003796,0.04,nc,nc73948620,2023-10-18T11:24:10.686Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.41,0.13,24,automatic,nc,nc
+2023-10-18T11:13:39.100Z,38.840332,-122.7724991,0.69,1.31,md,24,76,0.003796,0.04,nc,nc73948620,2023-10-18T11:49:14.837Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.41,0.13,24,automatic,nc,nc
 2023-10-18T11:01:26.100Z,38.8434982,-122.8820038,2.33,0.97,md,11,106,0.005388,0.02,nc,nc73948615,2023-10-18T11:38:13.774Z,"12 km ENE of Cloverdale, CA",earthquake,0.41,0.56,0.2,11,automatic,nc,nc
 2023-10-18T10:55:36.603Z,58.3341,-154.9569,5.4,0.5,ml,,,,5.31,ak,ak023ddfo6z3,2023-10-18T10:58:22.744Z,"90 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-18T10:51:09.090Z,38.841835,-122.8778305,2.36,0.82,md,13,91,0.005682,0.03,nc,nc73948610,2023-10-18T11:26:15.698Z,"13 km ENE of Cloverdale, CA",earthquake,0.39,0.66,0.18,14,automatic,nc,nc
@@ -84,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T01:10:42.120Z,34.0501667,-116.415,9.03,0.78,ml,16,90,0.02825,0.2,ci,ci40583664,2023-10-18T01:14:16.197Z,"7 km SSE of Yucca Valley, CA",earthquake,0.39,0.76,0.124,11,automatic,ci,ci
 2023-10-18T01:07:20.550Z,19.1838,-67.0321,58,3.68,md,17,229,0.8672,0.47,pr,pr2023291000,2023-10-18T02:04:42.516Z,"75 km N of Isabela, Puerto Rico",earthquake,2.95,7.88,0.06,13,reviewed,pr,pr
 2023-10-18T01:04:49.870Z,33.1885,-115.6088333,2.13,1.6,ml,16,87,0.01239,0.16,ci,ci40583656,2023-10-18T01:12:33.710Z,"10 km SW of Niland, CA",earthquake,0.36,0.34,0.238,27,automatic,ci,ci
+2023-10-18T00:58:15.500Z,35.1743333333333,-84.5085,16.7,2.14,md,14,104,0.1575,0.06,se,se60555821,2023-10-18T11:53:57.190Z,"13 km E of Benton, Tennessee",earthquake,0.54,0.75,0.0744287502685621,13,reviewed,se,se
 2023-10-18T00:47:05.680Z,39.510334,-122.9998322,0.46,2.28,md,15,129,0.1516,0.07,nc,nc73948425,2023-10-18T04:35:15.366Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.34,8.19,0.08,12,automatic,nc,nc
 2023-10-18T00:46:11.270Z,38.8143349,-122.8190002,2.36,0.77,md,13,98,0.009645,0.03,nc,nc73948420,2023-10-18T00:57:12.095Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.89,0.14,12,automatic,nc,nc
 2023-10-18T00:36:22.567Z,62.2109,-149.7294,70.2,1.6,ml,,,,0.84,ak,ak023dd9lkld,2023-10-18T00:38:36.610Z,"8 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -191,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T12:19:27.100Z,38.8359985,-122.7991638,2.05,0.77,md,6,101,0.0152,0.02,nc,nc73948210,2023-10-17T12:39:14.500Z,"7 km WNW of Cobb, CA",earthquake,0.51,0.99,0.14,8,automatic,nc,nc
 2023-10-17T12:18:13.367Z,63.0002,-151.0058,125.2,2.1,ml,,,,0.46,ak,ak023dbt3qdn,2023-10-17T12:20:09.994Z,"57 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-17T12:01:25.414Z,14.9025,-94.1611,10,4.4,mb,145,163,2.385,0.68,us,us6000lg4n,2023-10-18T09:17:08.040Z,"117 km SSW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,8.12,1.935,0.046,136,reviewed,us,us
-2023-10-17T11:54:42.070Z,19.3395004272461,-155.297500610352,0.629999995231628,2.00999999,md,18,119,,0.189999998,hv,hv73611707,2023-10-17T11:57:40.090Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.589999974,0.839999974,10,automatic,hv,hv
-2023-10-17T11:52:17.383Z,40.2155,-119.8065,5.8,0.8,ml,3,257.93,0.073,0.0348,nn,nn00867524,2023-10-17T22:56:07.075Z,"29 km ENE of Herlong, California",earthquake,,8.2,0.13,2,reviewed,nn,nn
-2023-10-17T11:50:59.876Z,63.1202,-151.7481,2.5,1.4,ml,,,,0.33,ak,ak023dbsp9ab,2023-10-17T11:52:30.308Z,"46 km S of Denali National Park, Alaska",earthquake,,3.9,,,automatic,ak,ak
