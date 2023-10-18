@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-18T14:20:35.920Z,38.8320007,-122.819664,1.64,1.08,md,16,57,0.0114,0.01,nc,nc73948635,2023-10-18T14:31:10.722Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.43,0.15,19,automatic,nc,nc
+2023-10-18T14:33:11.502Z,61.716,-149.6989,41,1.6,ml,,,,0.3,ak,ak023ddhx5ou,2023-10-18T14:34:24.810Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-18T14:30:51.828Z,59.1881,-153.0553,80.7,2.4,ml,,,,0.44,ak,ak023ddhwlno,2023-10-18T14:32:30.322Z,"67 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-18T14:20:35.920Z,38.8320007,-122.819664,1.64,1.08,md,16,57,0.0114,0.01,nc,nc73948635,2023-10-18T14:37:14.755Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.43,0.15,19,automatic,nc,nc
 2023-10-18T13:50:40.060Z,61.0392,-151.3232,54.9,1.9,ml,,,,0.31,ak,ak023ddhffgm,2023-10-18T13:53:57.929Z,"10 km WSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-18T13:48:50.930Z,41.2633333,-111.5955,12.18,1.27,md,5,124,0.2033,0.06,uu,uu60033919,2023-10-18T14:33:31.090Z,"14 km E of Huntsville, Utah",earthquake,0.55,2.36,0.312,4,reviewed,uu,uu
+2023-10-18T13:48:26.060Z,42.066,-112.5335,3.23,1.29,md,5,154,0.08206,0.07,uu,uu60552492,2023-10-18T14:33:52.640Z,"18 km NE of Snowville, Utah",earthquake,0.52,2.46,0.166,5,reviewed,uu,uu
 2023-10-18T13:44:32.440Z,33.4698333,-116.4598333,13.1,1,ml,25,75,0.06056,0.2,ci,ci40583768,2023-10-18T13:48:06.211Z,"22 km ESE of Anza, CA",earthquake,0.31,0.74,0.144,22,automatic,ci,ci
 2023-10-18T13:16:35.980Z,46.5465,-122.394,18.54,1.1400000000000001,ml,38,63,0.12,0.14,uw,uw61957822,2023-10-18T13:45:27.610Z,"7 km ENE of Mossyrock, Washington",earthquake,0.28,0.77,0.07245303688817772,16,reviewed,uw,uw
 2023-10-18T13:08:07.910Z,40.3218346,-124.1159973,35.95,1.83,md,11,87,0.0133,0.06,nc,nc73948630,2023-10-18T13:28:13.397Z,"14 km E of Petrolia, CA",earthquake,1.22,3.45,0.16,5,automatic,nc,nc
@@ -143,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T19:38:28.447Z,62.4881,-149.2602,53.7,1.8,ml,,,,0.27,ak,ak023dbxe33w,2023-10-17T19:40:14.429Z,"43 km E of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-17T19:30:45.960Z,32.7801667,-116.8906667,-0.34,1.64,ml,23,86,0.06225,0.24,ci,ci40583568,2023-10-17T20:16:57.441Z,"5 km SE of Bostonia, CA",quarry blast,0.6,31.61,0.213,13,reviewed,ci,ci
 2023-10-17T19:29:38.516Z,61.3351,-150.0306,36.5,1.5,ml,,,,0.55,ak,ak023dbxc6fv,2023-10-17T19:31:29.343Z,"3 km SW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-17T19:29:22.468Z,31.675,-104.408,6.7984,2.6,ml(texnet),31,87,0,0.1,tx,tx2023ujmz,2023-10-17T20:30:41.715Z,"55 km S of Whites City, New Mexico",earthquake,0.5016323111,0.5603284543,0.2,21,reviewed,tx,tx
+2023-10-17T19:29:22.468Z,31.675,-104.408,6.7984,2.6,ml(texnet),31,87,0,0.1,tx,tx2023ujmz,2023-10-18T14:40:34.040Z,"55 km S of Whites City, New Mexico",earthquake,0.5016323111,0.5603284543,0.2,21,reviewed,tx,tx
 2023-10-17T19:17:35.270Z,37.1009,62.3669,10,4.6,mb,66,95,5.143,0.45,us,us6000lg7a,2023-10-17T22:00:20.040Z,"21 km S of Yolöten, Turkmenistan",earthquake,9.29,1.904,0.068,64,reviewed,us,us
 2023-10-17T19:08:31.686Z,65.739,-145.6261,0.6,1.8,ml,,,,1.6,ak,ak023dbx7nvk,2023-10-17T19:10:27.005Z,"42 km WNW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-17T19:04:10.740Z,38.821167,-122.8193359,2.58,0.7,md,13,78,0.007569,0.02,nc,nc73948340,2023-10-17T19:14:10.102Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.75,0.22,14,automatic,nc,nc
@@ -187,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T14:51:10.943Z,37.4261,23.1814,95.047,4.4,mb,106,80,1.032,0.87,us,us6000lg68,2023-10-17T19:20:34.101Z,"southern Greece",earthquake,3.68,6.658,0.07,60,reviewed,us,us
 2023-10-17T14:46:54.850Z,38.8196678,-122.7803345,0.58,1.09,md,8,90,0.006405,0.03,nc,nc73948260,2023-10-17T14:57:11.328Z,"5 km W of Cobb, CA",earthquake,0.3,0.6,0.29,11,automatic,nc,nc
 2023-10-17T14:46:34.150Z,40.3195,-124.0618333,31.45,2.8,md,45,54,0.04078,0.18,nc,nc73948255,2023-10-18T00:44:13.034Z,"19 km E of Petrolia, CA",earthquake,0.29,0.55,0.188,64,reviewed,nc,nc
-2023-10-17T14:35:10.553Z,62.6939,-150.375,74.1,2.5,ml,,,,0.19,ak,ak023dbue8jz,2023-10-17T15:30:11.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-17T14:34:08.719Z,62.1936,-150.4719,15.5,1.8,ml,,,,0.42,ak,ak023dbue0p3,2023-10-17T14:35:52.530Z,"18 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
