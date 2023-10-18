@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T03:25:32.799Z,39.1821,-120.5011,0,1.6,ml,9,193.51,0.377,0.1218,nn,nn00867548,2023-10-18T03:28:09.851Z,"Northern California",earthquake,,5.9,0.22,7,automatic,nn,nn
 2023-10-18T03:17:06.780Z,19.3834991455078,-155.282165527344,0.889999985694885,1.91999996,md,15,120,,0.270000011,hv,hv73612757,2023-10-18T03:20:14.560Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.430000007,1.28999996,14,automatic,hv,hv
 2023-10-18T03:14:27.322Z,36.6258,-116.2477,7.5,0.9,ml,16,108.02,0.076,0.0943,nn,nn00867547,2023-10-18T03:16:30.361Z,"52 km W of Indian Springs, Nevada",earthquake,,0.8,0.29,13,automatic,nn,nn
 2023-10-18T03:13:06.300Z,36.6239,-116.251,3.2,1.4,ml,28,90.83,0.074,0.2202,nn,nn00867544,2023-10-18T03:14:41.388Z,"51 km NNW of Pahrump, Nevada",earthquake,,0.5,0.92,21,automatic,nn,nn
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T17:34:20.590Z,38.7611656,-122.7269974,1.49,0.79,md,8,168,0.001724,0.02,nc,nc73948320,2023-10-17T18:11:18.702Z,"3 km SE of The Geysers, CA",earthquake,1.75,1.22,0.11,7,automatic,nc,nc
 2023-10-17T17:34:20.088Z,32.742,-100.681,7.8989,2.4,ml(texnet),24,79,0.1,0.2,tx,tx2023ujje,2023-10-17T18:34:56.796Z,"western Texas",earthquake,0.5890603504,0.9040469382,0.2,21,reviewed,tx,tx
 2023-10-17T17:20:31.720Z,19.3838329315186,-155.279998779297,0.230000004172325,1.79999995,md,13,92,,0.109999999,hv,hv73612142,2023-10-17T17:23:48.200Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.180000007,0.939999998,12,automatic,hv,hv
-2023-10-17T17:16:12.160Z,19.3846664428711,-155.277160644531,0.449999988079071,1.77,ml,6,154,,0.109999999,hv,hv73612132,2023-10-17T17:21:42.840Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.560000002,2.04,11,automatic,hv,hv
+2023-10-17T17:16:12.160Z,19.3846664428711,-155.277160644531,0.449999988079071,1.77,ml,6,154,,0.109999999,hv,hv73612132,2023-10-17T17:21:42.840Z,"Hawaii region, Hawaii",earthquake,0.32,0.560000002,2.04,11,automatic,hv,hv
 2023-10-17T17:03:52.201Z,63.8324,-146.6087,3.5,1.5,ml,,,,0.45,ak,ak023dbvzro4,2023-10-17T17:05:47.341Z,"48 km WSW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-17T16:56:21.670Z,19.3855,-155.279333333333,1.91,2.65,ml,23,65,,0.1,hv,hv73612117,2023-10-17T17:58:50.500Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.14,0.200569255104784,12,reviewed,hv,hv
 2023-10-17T16:50:36.080Z,38.6856651,-122.501503,6.33,1.7,md,11,88,0.09306,0.07,nc,nc73948310,2023-10-17T19:34:15.212Z,"12 km SE of Middletown, CA",earthquake,0.34,1.65,0.13,13,automatic,nc,nc
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T03:55:51.680Z,38.7876663,-122.7669983,2.26,0.72,md,7,96,0.01414,0.01,nc,nc73948135,2023-10-17T04:20:15.746Z,"2 km NW of The Geysers, CA",earthquake,0.51,1.01,0.42,8,automatic,nc,nc
 2023-10-17T03:50:38.750Z,38.8274994,-122.8535004,1.94,0.28,md,8,136,0.002635,0.02,nc,nc73948130,2023-10-17T04:08:14.531Z,"10 km WNW of The Geysers, CA",earthquake,0.68,1.06,0.17,8,automatic,nc,nc
 2023-10-17T03:36:39.600Z,46.35483333333333,-122.244,8.35,0.74,ml,15,128,0.01913,0.25,uw,uw61966431,2023-10-17T04:28:33.810Z,"22 km S of Morton, Washington",earthquake,0.62,1.03,0.1715533336489352,9,reviewed,uw,uw
-2023-10-17T03:27:18.270Z,19.167667388916,-155.492004394531,30.8500003814697,2.31,ml,37,149,,0.0900000036,hv,hv73611107,2023-10-17T03:32:49.370Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.839999974,3.83,8,automatic,hv,hv
