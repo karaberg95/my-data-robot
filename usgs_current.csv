@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T11:45:13.940Z,39.1324997,-123.1578369,5.14,1.63,md,9,97,0.0633,0.03,nc,nc73948920,2023-10-19T11:46:50.772Z,"1 km E of Talmage, CA",earthquake,0.32,1.12,0.22,8,automatic,nc,nc
 2023-10-19T11:29:02.694Z,62.4697,-151.2201,80.5,1.9,ml,,,,0.81,ak,ak023df3nbtp,2023-10-19T11:30:48.947Z,"23 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-19T10:56:41.285Z,39.624,-119.6308,6.7,1.8,ml,14,73.36,0.196,0.1908,nn,nn00867603,2023-10-19T10:59:22.050Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.31,9,automatic,nn,nn
 2023-10-19T10:29:51.906Z,58.1817,-155.2833,0,2.4,ml,,,,0.62,ak,ak023df31zwe,2023-10-19T10:33:15.063Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -154,4 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T12:48:04.070Z,57.0346666666667,-135.6555,6.64,0.89,ml,5,183,,0.15,av,av91118598,2023-10-18T22:30:10.240Z,"19 km W of Sitka, Alaska",earthquake,1.22,0.98,0.291675117889792,5,reviewed,av,av
 2023-10-18T12:44:05.530Z,19.363166809082,-155.276672363281,2.45000004768372,1.73,ml,22,123,,0.180000007,hv,hv73613292,2023-10-18T12:49:37.860Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.349999994,2.15,9,automatic,hv,hv
 2023-10-18T12:05:24.120Z,19.3386669158936,-155.300338745117,2.55999994277954,1.76999998,md,25,116,,0.150000006,hv,hv73613262,2023-10-18T12:08:25.280Z,"13 km SSW of Volcano, Hawaii",earthquake,0.31,0.579999983,0.600000024,17,automatic,hv,hv
-2023-10-18T11:45:55.170Z,34.5173333,-116.5438333,2,1.47,ml,26,76,0.1426,0.12,ci,ci40583728,2023-10-18T17:03:45.546Z,"40 km NE of Big Bear City, CA",earthquake,0.17,0.39,0.18,15,reviewed,ci,ci
