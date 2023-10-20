@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-20T03:50:09.230Z,19.2523326873779,-155.391006469727,31.6299991607666,1.83000004,md,32,162,,0.129999995,hv,hv73614617,2023-10-20T03:53:31.120Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.800000012,1.73000002,6,automatic,hv,hv
-2023-10-20T03:48:39.470Z,38.7973328,-122.7866669,3.88,0.73,md,8,141,0.004261,0.01,nc,nc73949185,2023-10-20T03:50:15.308Z,"3 km NW of The Geysers, CA",earthquake,0.77,1.39,0.25,7,automatic,nc,nc
-2023-10-20T03:42:54.296Z,67.6064,-156.6298,8.8,3.2,ml,,,,0.54,ak,ak023dgmi3rp,2023-10-20T03:46:45.839Z,"78 km NE of Ambler, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-10-20T03:48:39.470Z,38.7973328,-122.7866669,3.88,0.73,md,8,141,0.004261,0.01,nc,nc73949185,2023-10-20T04:07:14.944Z,"3 km NW of The Geysers, CA",earthquake,0.77,1.39,0.25,7,automatic,nc,nc
+2023-10-20T03:42:54.296Z,67.6064,-156.6298,8.8,3.2,ml,,,,0.54,ak,ak023dgmi3rp,2023-10-20T04:05:08.040Z,"78 km NE of Ambler, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-10-20T03:38:45.440Z,33.5996667,-117.2371667,10.9,1.61,ml,57,36,0.03484,0.25,ci,ci40584504,2023-10-20T03:49:31.000Z,"4 km E of Wildomar, CA",earthquake,0.29,0.55,0.133,27,automatic,ci,ci
 2023-10-20T03:14:10.886Z,35.27168655,-98.00827789,1.337628961,2.21,ml,33,46.19700623,0.1404463947,0.899569618,ok,ok2023unth,2023-10-20T03:18:20.432Z,"7 km SW of Minco, Oklahoma",earthquake,2.125047431,1.525743062,0.27,20,automatic,ok,ok
 2023-10-20T03:12:28.322Z,-4.8461,138.7144,10,4.4,mb,25,98,3.05,0.58,us,us6000lgsy,2023-10-20T03:34:42.040Z,"100 km NE of Agats, Indonesia",earthquake,9.19,1.89,0.144,14,reviewed,us,us
 2023-10-20T03:11:06.235Z,31.6444,-104.3168,10,3,mb_lg,21,72,0.159,0.36,us,us6000lgsw,2023-10-20T03:21:42.040Z,"western Texas",earthquake,2.16,2.011,0.161,10,reviewed,us,us
-2023-10-20T03:09:13.210Z,19.271,-155.3905,31.06,3.45,ml,62,106,,0.12,hv,hv73614597,2023-10-20T03:48:24.382Z,"Island of Hawaii, Hawaii",earthquake,0.42,0.38,0.168856899453812,40,reviewed,hv,hv
+2023-10-20T03:09:13.210Z,19.271,-155.3905,31.06,3.45,ml,62,106,,0.12,hv,hv73614597,2023-10-20T04:09:09.441Z,"Island of Hawaii, Hawaii",earthquake,0.42,0.38,0.168856899453812,40,reviewed,hv,hv
 2023-10-20T03:05:06.835Z,35.25792313,-98.01370239,2.909437418,2.07,ml,39,46.43988037,0.154454425,0.76151852,ok,ok2023unta,2023-10-20T03:09:08.090Z,"8 km SW of Minco, Oklahoma",earthquake,1.97659976,1.383993989,0.23,20,automatic,ok,ok
 2023-10-20T02:57:34.390Z,38.8258324,-122.7638321,2.07,0.76,md,13,130,0.01819,0.02,nc,nc73949175,2023-10-20T03:16:13.535Z,"4 km W of Cobb, CA",earthquake,0.33,0.66,0.06,12,automatic,nc,nc
 2023-10-20T02:52:41.316Z,61.6027,-147.154,29.3,1.5,ml,,,,1.13,ak,ak023dglysbn,2023-10-20T02:54:28.495Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T17:21:07.940Z,55.984,-159.6795,25.49,0.52,ml,6,307,,0.16,av,av91118693,2023-10-19T23:02:19.190Z,"15 km NW of Ivanof Bay, Alaska",earthquake,1.08,0.95,0.240492573202579,6,reviewed,av,av
 2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"55 km W of Salamatof, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-19T17:10:48.900Z,38.8381653,-122.8359985,1.27,0.51,md,12,116,0.0005819,0.01,nc,nc73949025,2023-10-19T17:27:14.155Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.63,0.37,12,automatic,nc,nc
-2023-10-19T16:51:49.780Z,37.0696678,-121.1536636,-0.26,2.51,md,56,108,0.1232,0.37,nc,nc73949020,2023-10-19T18:46:56.083Z,"25 km SSW of Gustine, CA",earthquake,0.61,9.05,0.14,57,automatic,nc,nc
+2023-10-19T16:51:49.780Z,37.0696678,-121.1536636,-0.26,2.51,md,56,108,0.1232,0.37,nc,nc73949020,2023-10-20T04:07:21.382Z,"25 km SSW of Gustine, CA",earthquake,0.61,9.05,0.14,57,automatic,nc,nc
 2023-10-19T16:50:55.180Z,60.0458333333333,-153.036333333333,1.77,-0.51,ml,5,212,,0.09,av,av92088226,2023-10-19T22:44:20.490Z,"Southern Alaska",earthquake,1,0.84,0.30196796851977,5,reviewed,av,av
 2023-10-19T16:35:03.660Z,33.1093333,-116.1361667,11.55,2.12,ml,68,36,0.05335,0.18,ci,ci40584280,2023-10-19T17:54:24.560Z,"4 km S of Ocotillo Wells, CA",earthquake,0.14,0.32,0.139,23,reviewed,ci,ci
 2023-10-19T16:34:54.940Z,38.8596649,-122.8391647,1.74,0.75,md,9,141,0.01332,0.01,nc,nc73949010,2023-10-19T18:03:11.352Z,"11 km WNW of Cobb, CA",earthquake,0.31,0.69,0.18,10,automatic,nc,nc
