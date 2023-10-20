@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T03:09:13.140Z,19.2671661376953,-155.39616394043,31.2600002288818,3.54999995,md,54,125,,0.129999995,hv,hv73614597,2023-10-20T03:13:26.969Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.5,1.59000003,47,automatic,hv,hv
+2023-10-20T03:05:06.835Z,35.25792313,-98.01370239,2.909437418,2.07,ml,39,46.43988037,0.154454425,0.76151852,ok,ok2023unta,2023-10-20T03:09:08.090Z,"8 km SW of Minco, Oklahoma",earthquake,1.97659976,1.383993989,0.23,20,automatic,ok,ok
+2023-10-20T02:57:34.390Z,38.8258324,-122.7638321,2.07,0.76,md,13,130,0.01819,0.02,nc,nc73949175,2023-10-20T03:08:10.492Z,"4 km W of Cobb, CA",earthquake,0.33,0.66,0.06,12,automatic,nc,nc
 2023-10-20T02:52:41.316Z,61.6027,-147.154,29.3,1.5,ml,,,,1.13,ak,ak023dglysbn,2023-10-20T02:54:28.495Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-20T02:48:51.244Z,63.3148,-150.9905,3.1,1.5,ml,,,,0.57,ak,ak023dglxy84,2023-10-20T02:51:12.854Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-20T02:44:12.218Z,-6.2293,103.7772,38.448,4.6,mb,32,181,2.029,0.68,us,us6000lgsp,2023-10-20T03:10:00.040Z,"186 km WSW of Bandar Lampung, Indonesia",earthquake,11.8,6.347,0.12,23,reviewed,us,us
 2023-10-20T02:34:18.620Z,35.24528885,-98.05007935,5,2.41,ml,24,50.14718628,0.1794175804,0.9849827528,ok,ok2023unrz,2023-10-20T02:37:56.722Z,"Oklahoma",earthquake,2.350273472,,0.27,24,automatic,ok,ok
 2023-10-20T02:33:24.830Z,38.8256683,-122.7655029,2.06,0.78,md,10,125,0.01715,0.02,nc,nc73949170,2023-10-20T02:50:14.389Z,"4 km W of Cobb, CA",earthquake,0.37,0.74,0.08,13,automatic,nc,nc
 2023-10-20T02:30:20.080Z,33.7853333,-116.1173333,4.73,1.99,ml,45,41,0.08751,0.17,ci,ci40584496,2023-10-20T02:41:12.290Z,"12 km NE of Indio, CA",earthquake,0.19,0.71,0.132,26,automatic,ci,ci
@@ -33,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T23:01:29.740Z,51.9188333333333,-177.135166666667,8.7,-0.25,ml,4,217,,0.04,av,av91118748,2023-10-20T01:08:26.660Z,"34 km W of Adak, Alaska",earthquake,0.62,0.78,0.296390917316873,4,reviewed,av,av
 2023-10-19T23:00:48.260Z,31.718,-103.999,6.7357,2.3,ml(texnet),33,33,0,0.2,tx,tx2023unky,2023-10-19T23:28:02.485Z,"37 km W of Mentone, Texas",earthquake,0.3621122012,0.4156867688,0.2,19,reviewed,tx,tx
 2023-10-19T22:58:30.906Z,68.9164,-144.8585,14.067,2.7,ml,16,129,0.822,0.41,us,us6000lgrh,2023-10-19T23:15:19.040Z,"92 km NNE of Arctic Village, Alaska",earthquake,3.78,8.211,0.064,32,reviewed,us,us
-2023-10-19T22:43:32.060Z,29.6291,52.0528,10,4.7,mb,73,65,5.95,0.54,us,us6000lgre,2023-10-20T01:57:07.436Z,"38 km E of Kāzerūn, Iran",earthquake,8.33,1.877,0.074,55,reviewed,us,us
+2023-10-19T22:43:32.060Z,29.6291,52.0528,10,4.7,mb,73,65,5.95,0.54,us,us6000lgre,2023-10-20T03:12:05.926Z,"38 km E of Kāzerūn, Iran",earthquake,8.33,1.877,0.074,55,reviewed,us,us
 2023-10-19T22:39:46.239Z,60.3254,-152.1537,74.2,1.5,ml,,,,0.48,ak,ak023dfa9bzz,2023-10-19T22:41:23.515Z,"40 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-19T22:39:05.390Z,38.7975006,-122.7458344,2.45,0.41,md,8,182,0.01128,0.04,nc,nc73949120,2023-10-19T23:16:12.214Z,"2 km NNE of The Geysers, CA",earthquake,0.55,1.14,0.17,7,automatic,nc,nc
 2023-10-19T22:35:48.070Z,32.9116667,-116.9433333,-0.33,1.27,ml,12,120,0.08476,0.35,ci,ci40584456,2023-10-19T23:53:04.096Z,"6 km NNW of Lakeside, CA",quarry blast,1.08,31.61,0.113,13,reviewed,ci,ci
@@ -86,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T17:37:20.675Z,68.2271,-136.691,27.4,3.3,ml,,,,1.31,ak,ak023df79okp,2023-10-19T18:34:52.203Z,"123 km W of Inuvik, Canada",earthquake,,1,,,reviewed,ak,ak
 2023-10-19T17:21:18.120Z,38.6798325,-122.4936676,9.05,1.23,md,6,133,0.08783,0.06,nc,nc73949030,2023-10-19T19:01:11.656Z,"12 km NNW of Angwin, CA",earthquake,1.58,6.04,0.36,4,automatic,nc,nc
 2023-10-19T17:21:07.940Z,55.984,-159.6795,25.49,0.52,ml,6,307,,0.16,av,av91118693,2023-10-19T23:02:19.190Z,"15 km NW of Ivanof Bay, Alaska",earthquake,1.08,0.95,0.240492573202579,6,reviewed,av,av
-2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"Southern Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"55 km W of Salamatof, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-19T17:10:48.900Z,38.8381653,-122.8359985,1.27,0.51,md,12,116,0.0005819,0.01,nc,nc73949025,2023-10-19T17:27:14.155Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.63,0.37,12,automatic,nc,nc
 2023-10-19T16:51:49.780Z,37.0696678,-121.1536636,-0.26,2.51,md,56,108,0.1232,0.37,nc,nc73949020,2023-10-19T18:46:56.083Z,"25 km SSW of Gustine, CA",earthquake,0.61,9.05,0.14,57,automatic,nc,nc
 2023-10-19T16:50:55.180Z,60.0458333333333,-153.036333333333,1.77,-0.51,ml,5,212,,0.09,av,av92088226,2023-10-19T22:44:20.490Z,"Southern Alaska",earthquake,1,0.84,0.30196796851977,5,reviewed,av,av
@@ -223,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T03:37:01.980Z,58.1753333333333,-155.363833333333,3.5,-0.15,ml,8,124,,0.11,av,av91118653,2023-10-19T19:08:00.330Z,"Alaska Peninsula",earthquake,0.29,0.59,0.150332397443352,8,reviewed,av,av
 2023-10-19T03:27:46.650Z,54.7676666666667,-163.551333333333,1.8,1.62,ml,11,150,,0.14,av,av92087581,2023-10-19T18:46:05.810Z,"Unimak Island region, Alaska",earthquake,0.46,1.14,0.420711372677177,11,reviewed,av,av
 2023-10-19T03:18:33.820Z,44.8433333333333,-116.087666666667,6.97,1.81,ml,8,102,0.252,0.08,mb,mb90030463,2023-10-19T16:00:41.112Z,"Oregon-Idaho border region",earthquake,0.43,1.14,0.190508802850985,12,reviewed,mb,mb
-2023-10-19T03:08:29.599Z,64.8513,-149.064,16.2,1.3,ml,,,,0.16,ak,ak023deyrf0v,2023-10-19T03:11:05.825Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-19T03:03:06.090Z,38.8434982,-122.8781662,2.18,1.39,md,26,95,0.006693,0.03,nc,nc73948810,2023-10-19T04:53:14.833Z,"13 km ENE of Cloverdale, CA",earthquake,0.23,0.31,0.15,29,automatic,nc,nc
