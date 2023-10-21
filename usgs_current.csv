@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T06:50:54.245Z,39.62,-119.6317,9.9,0.6,ml,10,112.95,0.21,0.0868,nn,nn00867695,2023-10-21T02:40:46.722Z,"Nevada",earthquake,,3.1,0.66,5,reviewed,nn,nn
 2023-10-20T06:33:47.410Z,36.9126667,-121.5773333,7.07,1.8,md,56,59,0.0305,0.16,nc,nc73949240,2023-10-20T21:53:19.129Z,"6 km ENE of Aromas, CA",earthquake,0.24,0.4,0.193,49,reviewed,nc,nc
 2023-10-20T06:31:44.840Z,52.0765,-176.1115,1.6,-0.23,ml,5,130,,0.31,av,av92088846,2023-10-20T21:10:22.090Z,"42 km ENE of Adak, Alaska",earthquake,0.98,2.46,0.136714184521585,5,reviewed,av,av
-2023-10-20T06:23:21.760Z,59.3581666666667,-153.4325,-0.76,0.75,ml,6,97,,0.08,av,av92088841,2023-10-20T21:07:06.350Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.16,0.22,0.239299417922501,6,reviewed,av,av
