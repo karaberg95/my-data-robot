@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T02:22:38.140Z,40.2531662,-124.617836,10.3,2.44,md,20,281,0.2135,0.2,nc,nc73949570,2023-10-21T04:36:12.563Z,"29 km WSW of Petrolia, CA",earthquake,3.87,2.23,0.2,7,automatic,nc,nc
 2023-10-21T02:20:38.710Z,38.8209991,-122.7636642,2.2,0.89,md,9,121,0.01064,0.02,nc,nc73949565,2023-10-21T02:44:11.801Z,"4 km W of Cobb, CA",earthquake,0.43,0.85,0.2,12,automatic,nc,nc
 2023-10-21T02:20:16.519Z,61.6918,-147.5803,17.5,2.1,ml,,,,0.57,ak,ak023di9b7zn,2023-10-21T02:22:15.499Z,"13 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-21T02:15:00.020Z,36.9796667,-121.6413333,5.46,1.58,md,33,48,0.05139,0.1,nc,nc73949560,2023-10-21T06:09:13.974Z,"7 km WSW of Gilroy, CA",earthquake,0.22,0.37,0.169,30,reviewed,nc,nc
+2023-10-21T02:15:00.020Z,36.9796667,-121.6413333,5.46,1.58,md,33,48,0.05139,0.1,nc,nc73949560,2023-10-21T07:55:14.631Z,"7 km WSW of Gilroy, CA",earthquake,0.22,0.37,0.169,30,reviewed,nc,nc
 2023-10-21T02:06:20.020Z,38.795166,-122.7276688,2.12,1.09,md,12,104,0.01386,0.02,nc,nc73949555,2023-10-21T03:54:12.201Z,"3 km S of Cobb, CA",earthquake,0.32,0.66,0.2,12,automatic,nc,nc
 2023-10-21T01:57:22.895Z,60.1409,-139.8738,0,1.6,ml,,,,0.82,ak,ak023di8xqdd,2023-10-21T01:59:54.097Z,"66 km N of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-21T01:41:39.029Z,58.2385,-155.172,33.7,0.5,ml,,,,0.14,ak,ak023di8uc5q,2023-10-21T01:42:54.700Z,"85 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -226,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T08:17:10.260Z,37.3466667,-121.7055,6.11,0.85,md,18,49,0.0504,0.06,nc,nc73949250,2023-10-21T05:22:12.706Z,"11 km ESE of Alum Rock, CA",earthquake,0.22,0.46,0.085,15,reviewed,nc,nc
 2023-10-20T08:11:09.470Z,52.0691666666667,-176.107666666667,-1.8,0.12,ml,5,112,,0.3,av,av92088891,2023-10-20T21:51:36.710Z,"42 km ENE of Adak, Alaska",earthquake,0.75,1.26,0.313075655697139,5,reviewed,av,av
 2023-10-20T07:57:29.125Z,-2.9427,129.7818,10,4.9,mb,47,58,1.574,0.65,us,us6000lgu3,2023-10-20T08:31:22.040Z,"98 km ENE of Masohi, Indonesia",earthquake,8.07,1.873,0.086,46,reviewed,us,us
-2023-10-20T07:54:59.610Z,46.21,-122.17516666666667,4.43,-0.12,ml,11,139,0.01215,0.12,uw,uw61958102,2023-10-20T17:18:54.380Z,"39 km NNE of Amboy, Washington",earthquake,0.43,0.81,0.08575835207009516,5,reviewed,uw,uw
-2023-10-20T07:49:45.592Z,29.16,-97.625,2.2987,2,ml(texnet),17,54,0,0.2,tx,tx2023uocl,2023-10-20T13:37:02.018Z,"southern Texas",earthquake,1.249259782,1.290104278,0.1,6,reviewed,tx,tx
-2023-10-20T07:49:09.814Z,31.666,-104.386,6.5943,1.8,ml(texnet),20,69,0,0.1,tx,tx2023uock,2023-10-20T14:27:44.232Z,"56 km S of Whites City, New Mexico",earthquake,1.084510062,1.053330905,0.1,6,reviewed,tx,tx
