@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-24T17:27:43.420Z,38.8203316,-122.7648315,1.75,1.46,md,29,101,0.01087,0.04,nc,nc73950790,2023-10-24T17:29:22.827Z,"4 km W of Cobb, CA",earthquake,0.21,0.33,0.19,29,automatic,nc,nc
+2023-10-24T17:35:39.400Z,35.0578346,-118.3518295,-0.82,1.32,ml,17,80,0.06761,0.15,ci,ci40586304,2023-10-24T17:37:44.666Z,"12 km SE of Tehachapi, CA",earthquake,0.33,0.89,0.121,4,automatic,ci,ci
+2023-10-24T17:33:46.420Z,38.8148346,-122.8291702,0.89,0.57,md,11,61,0.005958,0.01,nc,nc73950795,2023-10-24T17:35:22.793Z,"8 km WNW of The Geysers, CA",earthquake,0.26,0.67,0.39,11,automatic,nc,nc
+2023-10-24T17:30:42.650Z,19.3400001525879,-155.299499511719,2.55999994277954,1.76,ml,27,114,,0.180000007,hv,hv73622462,2023-10-24T17:36:17.060Z,"13 km SSW of Volcano, Hawaii",earthquake,0.34,0.610000014,0.11,3,automatic,hv,hv
+2023-10-24T17:27:43.420Z,38.8203316,-122.7648315,1.75,1.46,md,29,101,0.01087,0.04,nc,nc73950790,2023-10-24T17:37:10.971Z,"4 km W of Cobb, CA",earthquake,0.21,0.33,0.19,29,automatic,nc,nc
 2023-10-24T17:14:35.330Z,38.840332,-122.8351669,1.64,0.5,md,10,154,0.001758,0.02,nc,nc73950785,2023-10-24T17:25:12.019Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.74,0.4,9,automatic,nc,nc
 2023-10-24T17:04:15.930Z,35.8673333,-117.7055,10.87,0.7,ml,9,167,0.07594,0.04,ci,ci40586264,2023-10-24T17:07:58.601Z,"20 km ESE of Little Lake, CA",earthquake,0.22,0.24,0.091,6,automatic,ci,ci
 2023-10-24T16:44:07.702Z,58.1393,-155.5888,24.6,0.5,ml,,,,0.67,ak,ak023dngegg2,2023-10-24T16:45:34.114Z,"87 km SE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -228,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T17:45:22.030Z,18.0738333333333,-66.8335,8.36,1.84,md,4,156,0.2258,0.08,pr,pr71429608,2023-10-23T18:21:50.390Z,"Puerto Rico region",earthquake,0.67,9.44,0.234099543728036,3,reviewed,pr,pr
 2023-10-23T17:43:09.830Z,18.008,-66.8193333333333,8.06,2.1,md,6,180,0.2057,0.07,pr,pr71429588,2023-10-23T18:05:57.340Z,"1 km N of Indios, Puerto Rico",earthquake,0.55,31.61,0.0139696006763921,3,reviewed,pr,pr
 2023-10-23T17:41:43.700Z,38.8236656,-122.8083344,0.96,0.74,md,8,82,0.001385,0.02,nc,nc73950405,2023-10-23T17:49:11.965Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.77,0.17,10,automatic,nc,nc
-2023-10-23T17:35:50.966Z,61.1209,-147.8709,10.6,1,ml,,,,0.9,ak,ak023dltepgo,2023-10-23T17:39:02.749Z,"58 km NE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
