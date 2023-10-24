@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T02:56:31.847Z,62.8249,-148.8888,16.3,1.3,ml,,,,0.13,ak,ak023dn850fk,2023-10-24T02:57:52.904Z,"63 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-24T02:51:01.414Z,58.1694,-155.4235,0,0.2,ml,,,,0.25,ak,ak023dn83vi5,2023-10-24T02:52:04.194Z,"88 km NW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-10-24T02:45:08.830Z,19.1801662445068,-155.478332519531,32.7799987792969,1.97000003,md,41,76,,0.129999995,hv,hv73621522,2023-10-24T02:49:50.390Z,"2 km S of Pāhala, Hawaii",earthquake,0.56,0.75999999,1.19000006,16,automatic,hv,hv
+2023-10-24T02:42:41.520Z,17.9848333333333,-66.8078333333333,16.95,2.82,md,13,190,0.03826,0.09,pr,pr71429683,2023-10-24T02:57:47.230Z,"1 km SE of Indios, Puerto Rico",earthquake,0.47,0.34,0.0773135720396401,6,reviewed,pr,pr
 2023-10-24T02:35:14.670Z,33.8151667,-116.5133333,13.02,0.74,ml,17,111,0.1525,0.16,ci,ci40585880,2023-10-24T02:38:54.898Z,"2 km ESE of Palm Springs, CA",earthquake,0.32,0.92,0.24,17,automatic,ci,ci
 2023-10-24T02:26:58.152Z,59.4337,-151.8802,52.1,1.8,ml,,,,0.44,ak,ak023dn7ymzb,2023-10-24T02:29:19.828Z,"8 km NNE of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-24T02:19:31.235Z,62.9998,-150.4961,5.6,1.3,ml,,,,1.07,ak,ak023dn7x2w3,2023-10-24T02:21:32.737Z,"57 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -191,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T03:42:46.290Z,34.2928333,-118.4283333,3.3,1.02,ml,23,104,0.04377,0.17,ci,ci40585120,2023-10-23T15:51:46.827Z,"1 km ENE of San Fernando, CA",earthquake,0.22,0.29,0.088,11,reviewed,ci,ci
 2023-10-23T03:34:31.100Z,35.8993333,-117.6935,5.58,1.78,ml,33,120,0.1076,0.14,ci,ci40585112,2023-10-23T18:37:53.690Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.51,0.132,18,reviewed,ci,ci
 2023-10-23T03:13:22.050Z,38.8204994,-122.8529968,2.42,0.62,md,11,109,0.007659,0.02,nc,nc73950180,2023-10-23T03:46:10.913Z,"10 km WNW of The Geysers, CA",earthquake,0.32,0.66,0.28,10,automatic,nc,nc
-2023-10-23T02:54:52.900Z,19.1626666666667,-155.4685,30.13,1.5,md,17,92,,0.1,hv,hv73619317,2023-10-23T20:53:53.270Z,"Island of Hawaii, Hawaii",earthquake,0.77,0.93,0.0903143529505499,8,reviewed,hv,hv
