@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T03:23:18.240Z,38.831501,-122.815834,2.2,0.4,md,8,84,0.009261,0.02,nc,nc73950555,2023-10-24T03:24:56.168Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.3,0.27,8,automatic,nc,nc
+2023-10-24T03:18:16.650Z,38.829834,-122.8536682,1.82,1.72,md,33,64,0.00339,0.05,nc,nc73950550,2023-10-24T03:19:50.958Z,"10 km NW of The Geysers, CA",earthquake,0.18,0.29,0.1,33,automatic,nc,nc
 2023-10-24T03:15:02.731Z,59.9226,-152.6402,86,2.1,ml,,,,0.11,ak,ak023dn8hlfl,2023-10-24T03:16:25.047Z,"48 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-24T03:04:44.545Z,62.4864,-152.364,208.5,1.9,ml,,,,0.98,ak,ak023dn8fbs6,2023-10-24T03:07:23.826Z,"74 km NW of Skwentna, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2023-10-24T02:56:31.847Z,62.8249,-148.8888,16.3,1.3,ml,,,,0.13,ak,ak023dn850fk,2023-10-24T02:57:52.904Z,"63 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -101,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T17:11:17.774Z,58.6381,-153.9796,91.3,1.4,ml,,,,0.26,ak,ak023dlt9hpd,2023-10-23T17:14:31.143Z,"89 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-23T17:10:32.768Z,61.7845,-149.7876,61.1,1.1,ml,,,,0.28,ak,ak023dlt9b58,2023-10-23T17:11:51.779Z,"13 km ENE of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-23T17:08:53.750Z,46.17016666666667,-119.274,-0.25,1.23,ml,10,197,0.1834,0.23,uw,uw61958847,2023-10-23T22:59:40.180Z,"10 km SW of Tri-Cities, Washington",explosion,0.71,31.61,0.1202394936693294,5,reviewed,uw,uw
+2023-10-23T16:50:58.589Z,36.7297,-116.2165,6,-0.2,ml,13,124.78,0.004,0.0606,nn,nn00867813,2023-10-24T03:19:55.715Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.19,7,reviewed,nn,nn
 2023-10-23T16:49:16.530Z,18.0158333333333,-66.8068333333333,16.11,2.87,md,21,150,0.01514,0.09,pr,pr71429578,2023-10-23T17:37:40.850Z,"1 km WSW of Guayanilla, Puerto Rico",earthquake,0.32,0.38,0.14981900687875,11,reviewed,pr,pr
 2023-10-23T16:47:01.204Z,-5.6264,146.1056,89.316,4.6,mb,62,77,6.212,1.09,us,us7000l5sv,2023-10-23T20:28:33.008Z,"57 km SE of Madang, Papua New Guinea",earthquake,9.84,5.581,0.07,61,reviewed,us,us
 2023-10-23T16:44:38.430Z,19.3705005645752,-155.278503417969,2.1800000667572,1.98,ml,26,115,,0.189999998,hv,hv73620697,2023-10-23T16:50:09.050Z,"9 km SSW of Volcano, Hawaii",earthquake,0.31,0.330000013,0.41,12,automatic,hv,hv
@@ -159,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T12:13:57.880Z,46.204,-122.19733333333333,2.57,0.32,ml,12,85,0.009055,0.11,uw,uw61502838,2023-10-23T17:35:42.040Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.64,0.06803047586339353,3,reviewed,uw,uw
 2023-10-23T12:13:31.810Z,46.199333333333335,-122.199,2.4,0.21,ml,13,79,0.009417,0.16,uw,uw61958822,2023-10-23T17:31:34.710Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.58,0.10420289591367204,3,reviewed,uw,uw
 2023-10-23T12:08:32.370Z,19.3400001525879,-155.300170898438,2.94000005722046,1.86,ml,34,114,,0.230000004,hv,hv73620117,2023-10-23T12:14:04.040Z,"13 km SSW of Volcano, Hawaii",earthquake,0.38,0.730000019,0.17,13,automatic,hv,hv
-2023-10-23T11:47:19.002Z,42.1896,24.9766,7.718,3.6,ml,22,60,1.125,0.83,us,us6000lhgt,2023-10-23T17:50:42.526Z,"7 km NNE of Sadovo, Bulgaria",earthquake,5.02,5.104,0.069,28,reviewed,us,us
+2023-10-23T11:47:19.002Z,42.1896,24.9766,7.718,3.6,ml,22,60,1.125,0.83,us,us6000lhgt,2023-10-24T03:24:16.168Z,"7 km NNE of Sadovo, Bulgaria",earthquake,5.02,5.104,0.069,28,reviewed,us,us
 2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"39 km S of Mina, Nevada",earthquake,,1.3,0.18,8,reviewed,nn,nn
 2023-10-23T10:55:37.660Z,32.7438333,-115.4133333,11.85,1.74,ml,29,66,0.06748,0.27,ci,ci40585160,2023-10-23T14:10:29.204Z,"8 km SSW of Holtville, CA",earthquake,0.31,0.57,0.077,16,reviewed,ci,ci
 2023-10-23T09:15:39.405Z,31.665,-104.497,5.6688,2.1,ml(texnet),19,71,0,0.2,tx,tx2023utrt,2023-10-23T19:59:28.822Z,"57 km SSW of Whites City, New Mexico",earthquake,1.511228414,0.7636279723,0.1,7,reviewed,tx,tx
