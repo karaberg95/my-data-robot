@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-24T08:29:50.320Z,38.840168,-122.810997,1.9,0.84,md,14,90,0.01622,0.01,nc,nc73950650,2023-10-24T08:31:26.185Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.48,0.13,16,automatic,nc,nc
+2023-10-24T08:29:50.320Z,38.840168,-122.810997,1.9,0.84,md,14,90,0.01622,0.01,nc,nc73950650,2023-10-24T08:40:10.894Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.48,0.13,16,automatic,nc,nc
 2023-10-24T08:21:16.720Z,59.9168,-153.0444,110.9,1.6,ml,,,,0.34,ak,ak023dnbi2u0,2023-10-24T08:23:04.513Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T08:14:19.006Z,60.3906,-148.1799,3.5,1.6,ml,,,,0.75,ak,ak023dnbgkzw,2023-10-24T08:16:25.323Z,"37 km NNW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-24T08:10:46.720Z,18.2245,-64.7723,116,4,md,11,232,0.2242,0.09,pr,pr2023297000,2023-10-24T08:43:06.254Z,"12 km S of Cruz Bay, U.S. Virgin Islands",earthquake,3.11,1.73,0.02,3,reviewed,pr,pr
 2023-10-24T08:06:54.373Z,63.4216,-147.4248,4.2,2.3,ml,,,,0.35,ak,ak023dnbexzx,2023-10-24T08:08:34.931Z,"76 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-24T08:00:15.980Z,19.2770004272461,-155.445999145508,32.1399993896484,2.46,ml,49,100,,0.129999995,hv,hv73621867,2023-10-24T08:05:46.550Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.41,0.660000026,2.92,30,automatic,hv,hv
 2023-10-24T07:50:36.430Z,38.8258324,-122.8068314,1.93,0.76,md,8,108,0.003513,0.01,nc,nc73950645,2023-10-24T08:00:10.661Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.29,0.43,10,automatic,nc,nc
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T04:33:21.706Z,-20.222,-69.2749,99.902,4.1,mb,20,75,0.556,0.6,us,us7000l5ww,2023-10-24T04:46:49.040Z,"Tarapaca, Chile",earthquake,4.27,6.807,0.174,9,reviewed,us,us
 2023-10-24T04:23:15.455Z,61.6017,-147.9823,28.2,1.6,ml,,,,0.49,ak,ak023dn94rqx,2023-10-24T04:24:48.922Z,"28 km SW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-10-24T04:18:49.587Z,61.3076,-150.2323,54,1.1,ml,,,,0.32,ak,ak023dn93rsu,2023-10-24T04:21:42.081Z,"14 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-24T04:14:46.545Z,61.0488,-148.3794,1.4,0.6,ml,,,,0.84,ak,ak023dn92wot,2023-10-24T04:17:22.376Z,"34 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-10-24T04:14:46.545Z,61.0488,-148.3794,1.4,0.6,ml,,,,0.84,ak,ak023dn92wot,2023-10-24T04:17:22.376Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-24T04:09:57.044Z,63.3797,-151.3405,0,1.6,ml,,,,0.57,ak,ak023dn91uxk,2023-10-24T04:12:03.901Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-24T03:58:24.891Z,63.1742,-151.4419,0,1.1,ml,,,,0.92,ak,ak023dn8quxx,2023-10-24T04:01:09.127Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-24T03:50:32.315Z,41.1318,84.2368,10,4.3,mb,15,116,4.155,0.54,us,us7000l5wm,2023-10-24T04:09:50.040Z,"127 km ESE of Kuqa, China",earthquake,11.88,1.968,0.308,3,reviewed,us,us
