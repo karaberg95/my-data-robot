@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T10:10:07.647Z,5.798,-82.4066,10,5,mww,92,146,2.99,0.69,us,us7000l5yb,2023-10-24T10:29:54.040Z,"243 km SSW of Río Grande, Panama",earthquake,9.42,1.93,0.098,10,reviewed,us,us
 2023-10-24T09:38:53.765Z,64.7951,-147.8758,15.8,0.7,ml,,,,0.52,ak,ak023dnc78hn,2023-10-24T09:41:22.250Z,"4 km WSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T09:38:29.305Z,57.9649,-155.9786,4.9,1.1,ml,,,,0.15,ak,ak023dnc76ky,2023-10-24T09:40:18.035Z,"87 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-24T09:36:34.150Z,36.6910019,-121.3428345,4.18,1.43,md,16,98,0.01669,0.12,nc,nc73950665,2023-10-24T09:50:11.256Z,"11 km S of Tres Pinos, CA",earthquake,0.4,0.73,0.28,11,automatic,nc,nc
@@ -175,4 +176,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T12:28:56.994Z,36.7958,-115.969,5.7,0,ml,12,138.79,0.021,0.1738,nn,nn00867780,2023-10-23T16:36:36.956Z,"36 km NW of Indian Springs, Nevada",earthquake,,3.4,0.3,7,reviewed,nn,nn
 2023-10-23T12:13:57.880Z,46.204,-122.19733333333333,2.57,0.32,ml,12,85,0.009055,0.11,uw,uw61502838,2023-10-23T17:35:42.040Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.64,0.06803047586339353,3,reviewed,uw,uw
 2023-10-23T12:13:31.810Z,46.199333333333335,-122.199,2.4,0.21,ml,13,79,0.009417,0.16,uw,uw61958822,2023-10-23T17:31:34.710Z,"Washington",earthquake,0.39,0.58,0.10420289591367204,3,reviewed,uw,uw
-2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"California-Nevada border region",earthquake,,1.3,0.18,8,reviewed,nn,nn
+2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"39 km S of Mina, Nevada",earthquake,,1.3,0.18,8,reviewed,nn,nn
