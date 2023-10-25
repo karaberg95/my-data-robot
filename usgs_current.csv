@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T19:15:48.780Z,33.8653336,-117.5013351,1.24,1.14,ml,32,47,0.05077,0.22,ci,ci40587448,2023-10-25T19:18:01.081Z,"2 km SE of Home Gardens, CA",earthquake,0.39,0.64,0.164,8,automatic,ci,ci
 2023-10-25T19:03:35.811Z,58.5107,-154.2161,3.7,1.2,ml,,,,0.24,ak,ak023dp5hdkd,2023-10-25T19:05:01.658Z,"91 km WNW of Aleneva, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-10-25T19:00:58.610Z,38.8311653,-122.8195038,2.12,0.39,md,9,64,0.0107,0.01,nc,nc73951335,2023-10-25T19:02:34.541Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.61,0.29,9,automatic,nc,nc
+2023-10-25T19:00:58.610Z,38.8311653,-122.8195038,2.12,0.39,md,9,64,0.0107,0.01,nc,nc73951335,2023-10-25T19:16:11.421Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.61,0.29,9,automatic,nc,nc
 2023-10-25T18:52:22.040Z,33.6516667,-116.6925,16.65,0.6,ml,14,104,0.06434,0.16,ci,ci40587400,2023-10-25T18:55:55.981Z,"10 km SSE of Idyllwild, CA",earthquake,0.51,0.69,0.105,13,automatic,ci,ci
 2023-10-25T18:51:33.830Z,19.2331657409668,-155.393661499023,31.6399993896484,1.79999995,md,27,159,,0.100000001,hv,hv73624017,2023-10-25T18:54:44.290Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.82,0.680000007,0.600000024,3,automatic,hv,hv
+2023-10-25T18:40:36.110Z,37.9831667,-122.4516667,-0.03,0.87,md,16,54,0.02614,0.11,nc,nc73951325,2023-10-25T19:15:09.395Z,"7 km ESE of Santa Venetia, CA",quarry blast,0.3,31.61,0.279,12,reviewed,nc,nc
 2023-10-25T18:40:24.220Z,63.2545,-150.5635,9.1,1.7,ml,,,,0.54,ak,ak023dp53uk6,2023-10-25T18:42:17.132Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-25T18:29:37.380Z,38.8160019,-122.8191681,2.71,0.75,md,13,62,0.01025,0.02,nc,nc73951300,2023-10-25T18:41:11.231Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.83,0.09,14,automatic,nc,nc
 2023-10-25T18:28:19.290Z,37.0673333,-121.1283333,0.77,1.36,md,22,65,0.05494,0.11,nc,nc71131714,2023-10-25T19:10:38.040Z,"24 km SSW of Gustine, CA",earthquake,0.22,0.63,0.243,16,reviewed,nc,nc
-2023-10-25T18:28:03.360Z,39.4891667,-123.3046667,8.48,1.25,md,14,79,0.03239,0.06,nc,nc73951295,2023-10-25T19:00:36.476Z,"9 km NE of Brooktrails, CA",earthquake,0.21,0.4,0.245,13,reviewed,nc,nc
+2023-10-25T18:28:03.360Z,39.4891667,-123.3046667,8.48,1.25,md,14,79,0.03239,0.06,nc,nc73951295,2023-10-25T19:12:11.531Z,"9 km NE of Brooktrails, CA",earthquake,0.21,0.4,0.245,13,reviewed,nc,nc
 2023-10-25T18:24:20.070Z,35.7101667,-117.5606667,2.12,1.72,ml,28,60,0.1202,0.16,ci,ci40587384,2023-10-25T18:38:32.106Z,"14 km NE of Ridgecrest, CA",earthquake,0.24,0.42,0.106,18,reviewed,ci,ci
 2023-10-25T18:17:17.989Z,64.2042,-150.4403,6,1.4,ml,,,,0.36,ak,ak023dp4ywly,2023-10-25T18:19:12.789Z,"61 km W of Clear, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-25T18:14:28.200Z,33.2545,-116.3271667,9.16,1.14,ml,27,61,0.07944,0.16,ci,ci40587368,2023-10-25T18:26:06.253Z,"4 km E of Borrego Springs, CA",earthquake,0.24,0.8,0.112,22,reviewed,ci,ci
@@ -216,10 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T19:39:02.300Z,32.7515,-115.4253333,13.38,1.42,ml,16,68,0.05663,0.17,ci,ci40586464,2023-10-24T20:17:23.944Z,"8 km SSW of Holtville, CA",earthquake,0.48,0.64,0.304,11,reviewed,ci,ci
 2023-10-24T19:32:14.570Z,19.1903324127197,-155.481506347656,30.6000003814697,2.28,ml,45,78,,0.100000001,hv,hv73622612,2023-10-24T19:37:46.100Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.54,0.680000007,4.03,5,automatic,hv,hv
 2023-10-24T19:30:33.560Z,32.6283333,-116.981,-0.43,1.07,ml,19,224,0.04756,0.27,ci,ci40586448,2023-10-24T20:22:18.616Z,"6 km SE of Bonita, CA",quarry blast,1.22,31.61,0.062,6,reviewed,ci,ci
-2023-10-24T19:17:44.310Z,33.3616667,-116.7985,15.05,0.81,ml,24,90,0.05429,0.16,ci,ci40586432,2023-10-24T21:08:41.042Z,"6 km E of Palomar Observatory, CA",earthquake,0.24,0.52,0.149,12,reviewed,ci,ci
-2023-10-24T19:17:26.450Z,38.8279991,-122.8513336,1.56,0.36,md,7,116,0.01364,0.01,nc,nc73950880,2023-10-24T19:37:12.074Z,"10 km NW of The Geysers, CA",earthquake,0.4,1.18,0.22,8,automatic,nc,nc
-2023-10-24T19:17:04.070Z,38.8268318,-122.8503342,1.58,1.84,md,35,61,0.005157,0.04,nc,nc73950875,2023-10-24T22:34:11.646Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.23,0.12,38,automatic,nc,nc
-2023-10-24T19:16:31.710Z,38.8279991,-122.8513336,1.35,0.64,md,8,98,0.00435,0.01,nc,nc73950870,2023-10-24T19:29:11.612Z,"10 km NW of The Geysers, CA",earthquake,0.49,0.77,0.12,9,automatic,nc,nc
-2023-10-24T19:14:54.610Z,47.8461666666667,-114.324166666667,-2,0.87,ml,9,83,0.1034,0.07,mb,mb90030773,2023-10-24T19:44:36.710Z,"2 km NE of Elmo, Montana",quarry blast,0.35,31.61,0.16771570862246,3,reviewed,mb,mb
-2023-10-24T19:13:53.150Z,34.0138333,-116.6945,13.07,0.86,ml,19,103,0.04584,0.13,ci,ci40586416,2023-10-24T19:57:48.041Z,"11 km WSW of Morongo Valley, CA",earthquake,0.24,0.62,0.138,10,reviewed,ci,ci
-2023-10-24T19:13:23.020Z,38.8115005,-122.7593307,0.44,1.24,md,15,110,0.01678,0.03,nc,nc73950865,2023-10-24T22:07:11.637Z,"3 km WSW of Cobb, CA",earthquake,0.24,0.52,0.22,18,automatic,nc,nc
