@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-26T08:42:12.380Z,33.2709999,-116.7789993,12.55,1.37,ml,45,63,0.03883,0.13,ci,ci40587960,2023-10-26T08:44:26.984Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.24,0.65,0.2,10,automatic,ci,ci
+2023-10-26T08:42:12.440Z,33.2691667,-116.7803333,11.32,1.27,ml,40,65,0.03771,0.21,ci,ci40587960,2023-10-26T08:45:50.512Z,"3 km NNW of Lake Henshaw, CA",earthquake,0.28,0.66,0.145,25,automatic,ci,ci
 2023-10-26T08:15:17.910Z,18.0583333333333,-67.1006666666667,20.69,2.41,md,11,153,0.04103,0.27,pr,pr71429893,2023-10-26T08:22:35.330Z,"3 km NW of Palmarejo, Puerto Rico",earthquake,0.98,1.11,0.229930760992845,4,reviewed,pr,pr
 2023-10-26T08:12:15.788Z,36.36907959,-97.65193939,2.617623329,1.66,ml,30,45.81585693,0.1548154056,0.3867772044,ok,ok2023uzcd,2023-10-26T08:16:45.770Z,"5 km ENE of Fairmont, Oklahoma",earthquake,2.096662287,1.829324933,0.24,15,automatic,ok,ok
 2023-10-26T08:08:40.660Z,19.3398342132568,-155.303497314453,2.79999995231628,2.26,ml,44,44,,0.180000007,hv,hv73624847,2023-10-26T08:14:17.680Z,"13 km SSW of Volcano, Hawaii",earthquake,0.29,0.589999974,0.23,14,automatic,hv,hv
