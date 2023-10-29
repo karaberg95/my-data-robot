@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-29T12:07:18.760Z,38.7924995,-122.7474976,1.01,1.31,md,16,90,0.01251,0.03,nc,nc73953250,2023-10-29T12:08:56.415Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.44,0.24,16,automatic,nc,nc
+2023-10-29T12:36:43.790Z,33.2976667,-116.1806667,0.42,1.23,ml,8,100,0.3905,0.18,ci,ci40590680,2023-10-29T12:40:29.909Z,"18 km NNW of Ocotillo Wells, CA",earthquake,0.94,31.61,0.377,8,automatic,ci,ci
+2023-10-29T12:27:51.990Z,38.8313332,-122.8183365,1.6,1.01,md,10,79,0.01523,0.01,nc,nc73953260,2023-10-29T12:38:10.775Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.55,0.29,10,automatic,nc,nc
+2023-10-29T12:15:41.553Z,39.9884,-111.2791,9.938,2.5,ml,41,45,0.273,0.61,us,us7000l7dh,2023-10-29T12:38:50.040Z,"30 km ESE of Mapleton, Utah",earthquake,0.95,8.358,0.035,108,reviewed,us,us
+2023-10-29T12:12:38.348Z,69.7115,-142.3912,6.118,2.6,ml,32,189,0.469,0.57,us,us7000l7di,2023-10-29T12:30:25.040Z,"66 km SE of Kaktovik, Alaska",earthquake,4.13,7.348,0.07,27,reviewed,us,us
+2023-10-29T12:07:18.760Z,38.7924995,-122.7474976,1.01,1.31,md,16,90,0.01251,0.03,nc,nc73953250,2023-10-29T12:18:09.652Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.44,0.24,16,automatic,nc,nc
 2023-10-29T11:35:34.789Z,60.5977,-151.4167,45.5,1.9,ml,,,,0.56,ak,ak023dvn25ja,2023-10-29T11:37:23.166Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-29T11:34:18.434Z,62.5531,-151.6691,95.9,1.3,ml,,,,0.19,ak,ak023dvn1wk3,2023-10-29T11:36:23.282Z,"46 km W of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-29T11:20:18.880Z,38.8341675,-122.7809982,0.91,0.7,md,9,89,0.008439,0.02,nc,nc73953240,2023-10-29T11:53:11.478Z,"5 km WNW of Cobb, CA",earthquake,0.67,1.04,0.09,9,automatic,nc,nc
@@ -24,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T08:48:07.386Z,52.2961,-173.3196,87.439,4.1,mb,86,173,0.548,0.68,us,us7000l7cw,2023-10-29T09:42:47.040Z,"61 km E of Atka, Alaska",earthquake,9.58,13.283,0.068,59,reviewed,us,us
 2023-10-29T08:46:21.520Z,38.8336678,-122.815834,1.21,1.52,md,27,56,0.01612,0.03,nc,nc73953205,2023-10-29T09:41:12.681Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.31,0.11,25,automatic,nc,nc
 2023-10-29T08:34:11.705Z,-30.0098,-71.3637,73.916,4.3,mwr,30,168,0.142,0.67,us,us7000l7cl,2023-10-29T09:50:48.040Z,"offshore Coquimbo, Chile",earthquake,7.42,5.644,,,reviewed,us,guc
-2023-10-29T08:13:15.986Z,63.7822,-149.2733,46.6,1.6,ml,,,,1.13,ak,ak023dvl53im,2023-10-29T08:15:48.838Z,"17 km WSW of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-29T08:13:15.986Z,63.7822,-149.2733,46.6,1.6,ml,,,,1.13,ak,ak023dvl53im,2023-10-29T08:15:48.838Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-29T08:05:08.590Z,19.3518333435059,-155.292999267578,3.3199999332428,1.78999996,md,27,118,,0.25999999,hv,hv73630712,2023-10-29T08:08:08.220Z,"11 km SSW of Volcano, Hawaii",earthquake,0.55,0.970000029,0.649999976,9,automatic,hv,hv
 2023-10-29T08:03:02.780Z,17.9735,-67.0716666666667,6.99,2.34,md,14,203,0.02643,0.14,pr,pr71430288,2023-10-29T08:26:27.350Z,"2 km W of La Parguera, Puerto Rico",earthquake,0.41,0.16,0.138513936533354,5,reviewed,pr,pr
 2023-10-29T07:56:55.110Z,34.0383333,-117.306,23.34,0.99,ml,13,141,0.05511,0.19,ci,ci40590624,2023-10-29T08:00:29.074Z,"1 km NE of Grand Terrace, CA",earthquake,1.13,1.51,0.33,12,automatic,ci,ci
@@ -60,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T03:35:21.621Z,44.8468,-116.0728,11.394,2,ml,18,40,0.246,0.39,us,us7000l7b1,2023-10-29T04:02:09.135Z,"7 km SSE of McCall, Idaho",earthquake,1.96,8.071,0.062,34,reviewed,us,us
 2023-10-29T03:28:57.470Z,33.3521667,-116.3545,10.53,1.13,ml,35,78,0.2471,0.2,ci,ci40590520,2023-10-29T04:01:29.823Z,"11 km N of Borrego Springs, CA",earthquake,0.34,0.82,0.175,28,reviewed,ci,ci
 2023-10-29T03:26:53.112Z,63.3911,-151.5063,18.7,2.3,ml,,,,0.45,ak,ak023dvi8snz,2023-10-29T03:41:30.040Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-29T03:14:58.230Z,53.8868333333333,-167.898,-1.27,2.03,ml,24,135,,0.29,av,av92099721,2023-10-29T12:39:29.880Z,"89 km W of Dutch Harbor, Alaska",earthquake,0.42,1.05,0.330166981658925,24,reviewed,av,av
 2023-10-29T03:14:46.730Z,18.0093333333333,-66.7935,17.33,2.3,md,8,176,0.01077,0.08,pr,pr71430193,2023-10-29T03:22:37.280Z,"Puerto Rico",earthquake,0.42,0.55,0.0991012654250754,4,reviewed,pr,pr
 2023-10-29T03:09:12.474Z,60.1777,-152.4349,96.1,1.7,ml,,,,0.72,ak,ak023dvi52cv,2023-10-29T03:12:05.938Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T03:03:59.950Z,34.153,-117.5138333,10.31,2.74,ml,100,31,0.07029,0.24,ci,ci40590512,2023-10-29T09:26:02.245Z,"7 km ENE of Rancho Cucamonga, CA",earthquake,0.19,0.46,0.142,25,reviewed,ci,ci
@@ -193,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T12:56:05.460Z,46.845166666666664,-121.75883333333333,0.24,1.06,ml,30,83,0.02014,0.11,uw,uw61959957,2023-10-28T19:48:55.140Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.55,0.21070359308404607,18,reviewed,uw,uw
 2023-10-28T12:46:59.749Z,37.4521,-117.177,4.3,0.9,ml,8,324.89,0.475,0.2569,nn,nn00868081,2023-10-28T12:50:06.190Z,"California-Nevada border region",earthquake,,3.3,0.32,3,automatic,nn,nn
 2023-10-28T12:46:26.630Z,19.3584995269775,-155.292831420898,2.15000009536743,1.74000001,md,22,115,,0.170000002,hv,hv73629302,2023-10-28T12:49:21.480Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.519999981,0.449999988,13,automatic,hv,hv
-2023-10-28T12:32:21.630Z,19.1691665649414,-155.488830566406,32.7099990844727,1.97000003,md,42,98,,0.119999997,hv,hv73629267,2023-10-28T12:35:32.390Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.980000019,0.569999993,7,automatic,hv,hv
-2023-10-28T12:24:07.906Z,60.1694,-140.1597,1.3,1.5,ml,,,,0.57,ak,ak023du01tp2,2023-10-28T12:25:47.745Z,"73 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-28T12:21:57.150Z,38.8326683,-122.7994995,1.99,0.87,md,8,112,0.009165,0.01,nc,nc73952760,2023-10-28T12:31:10.189Z,"7 km W of Cobb, CA",earthquake,0.44,1.41,0.26,10,automatic,nc,nc
