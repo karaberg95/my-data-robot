@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-31T08:44:59.520Z,38.689167,-122.5121689,1.21,2.05,md,33,81,,0.35,nc,nc73954055,2023-10-31T08:50:10.879Z,"11 km SE of Middletown, CA",earthquake,0.55,5.9,0.14,27,automatic,nc,nc
+2023-10-31T09:07:31.760Z,38.7915001,-122.7265015,1.19,0.7,md,7,97,0.01149,0.02,nc,nc73954060,2023-10-31T09:18:10.525Z,"3 km ENE of The Geysers, CA",earthquake,0.51,2,0.18,7,automatic,nc,nc
+2023-10-31T09:06:54.506Z,59.5996,-152.3879,67.4,1.9,ml,,,,0.41,ak,ak023dywrt2i,2023-10-31T09:08:44.777Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-31T08:44:59.520Z,38.689167,-122.5121689,1.21,2.05,md,33,81,,0.35,nc,nc73954055,2023-10-31T09:06:10.428Z,"11 km SE of Middletown, CA",earthquake,0.55,5.9,0.14,27,automatic,nc,nc
 2023-10-31T08:35:02.777Z,61.823,-146.3033,15.9,1.5,ml,,,,1.1,ak,ak023dywch8l,2023-10-31T08:37:07.536Z,"28 km SSE of Mendeltna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-31T08:05:21.710Z,35.7381667,-117.548,6.29,1.1,ml,21,87,0.1247,0.15,ci,ci40592424,2023-10-31T08:08:58.304Z,"13 km WSW of Searles Valley, CA",earthquake,0.35,1.32,0.116,7,automatic,ci,ci
 2023-10-31T08:04:17.634Z,62.0095,-149.3752,29.3,1.5,ml,,,,0.78,ak,ak023dyw5v6r,2023-10-31T08:06:46.145Z,"30 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -201,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T09:32:17.690Z,38.8286667,-122.7919998,1.1,0.7,md,11,54,0.009814,0.02,nc,nc73953620,2023-10-30T10:04:10.430Z,"6 km W of Cobb, CA",earthquake,0.26,0.92,0.07,14,automatic,nc,nc
 2023-10-30T09:29:24.740Z,61.775,-150.7443,41,1.8,ml,,,,0.61,ak,ak023dx9dbqy,2023-10-30T09:31:26.661Z,"28 km NNW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-30T09:28:16.040Z,46.9213333333333,-112.526166666667,10.73,2.22,ml,18,136,0.07819,0.12,mb,mb90031228,2023-10-30T14:45:22.820Z,"12 km ESE of Lincoln, Montana",earthquake,0.42,0.59,0.268855889620108,16,reviewed,mb,mb
-2023-10-30T09:06:05.480Z,53.8998333333333,-167.930166666667,5.21,2.48,ml,14,142,,0.13,av,av92100826,2023-10-31T04:35:51.840Z,"91 km W of Dutch Harbor, Alaska",earthquake,0.43,0.65,0.293844433057742,17,reviewed,av,av
