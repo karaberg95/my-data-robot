@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-31T09:56:20.986Z,60.3914,-151.6089,62,2,ml,,,,0.4,ak,ak023dyx2gau,2023-10-31T09:57:36.989Z,"16 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-31T09:20:00.360Z,34.0036667,-116.8465,17.85,0.9,ml,22,84,0.04495,0.23,ci,ci40592432,2023-10-31T09:23:42.364Z,"9 km NNE of Banning, CA",earthquake,0.41,0.87,0.195,20,automatic,ci,ci
 2023-10-31T09:19:08.661Z,37.7747,74.9141,10,4.9,mb,66,59,2.973,0.73,us,us7000l7qj,2023-10-31T09:49:43.040Z,"Tajikistan-Afghanistan-Xinjiang border region",earthquake,3.12,1.858,0.088,41,reviewed,us,us
 2023-10-31T09:13:41.976Z,32.0542,59.7592,10,5,mb,115,77,8.158,0.78,us,us7000l7qg,2023-10-31T09:32:55.040Z,"103 km SSE of Bīrjand, Iran",earthquake,8.79,1.862,0.05,126,reviewed,us,us
