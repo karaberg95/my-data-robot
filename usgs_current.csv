@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-01T11:18:57.800Z,34.2175,-117.4596667,10.73,1.01,ml,19,131,0.1661,0.16,ci,ci40593576,2023-11-01T11:22:30.342Z,"5 km W of Devore, CA",earthquake,0.37,0.7,0.19,19,automatic,ci,ci
 2023-11-01T11:15:01.106Z,36.6594,-116.2572,13.718,2.7,ml,40,32,0.242,0.59,us,us7000l81x,2023-11-01T11:22:24.040Z,"California-Nevada border region",earthquake,1.28,7.952,0.064,32,reviewed,us,us
-2023-11-01T11:12:30.300Z,37.972332,-122.0619965,13.98,1.26,md,10,117,,0.03,nc,nc73954560,2023-11-01T11:23:11.050Z,"2 km SE of Pacheco, CA",earthquake,0.72,0.98,0.07,7,automatic,nc,nc
+2023-11-01T11:12:30.300Z,37.972332,-122.0619965,13.98,1.26,md,10,117,,0.03,nc,nc73954560,2023-11-01T11:29:17.086Z,"2 km SE of Pacheco, CA",earthquake,0.72,0.98,0.07,7,automatic,nc,nc
 2023-11-01T11:10:53.650Z,38.8165016,-122.8181686,2.4,2.01,md,37,46,0.009347,0.05,nc,nc73954555,2023-11-01T11:17:11.016Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.13,38,automatic,nc,nc
-2023-11-01T10:59:18.880Z,38.8180008,-122.8213348,2.38,0.39,md,8,86,0.01031,0.01,nc,nc73954550,2023-11-01T11:15:15.003Z,"7 km NW of The Geysers, CA",earthquake,0.86,2.08,0.19,8,automatic,nc,nc
+2023-11-01T10:59:18.880Z,38.8180008,-122.8213348,2.38,0.39,md,8,86,0.01031,0.01,nc,nc73954550,2023-11-01T11:32:14.102Z,"7 km NW of The Geysers, CA",earthquake,0.86,2.08,0.19,8,automatic,nc,nc
 2023-11-01T10:46:13.717Z,35.86900711,-98.05119324,1.421819568,2.73,ml,77,30.50343657,0.09933012724,0.6626778208,ok,ok2023vkgg,2023-11-01T11:05:28.040Z,"10 km W of Kingfisher, Oklahoma",earthquake,1.335375944,1.209647989,0.27,56,automatic,ok,ok
 2023-11-01T10:40:15.387Z,1.5491,129.2877,10,4.9,mb,49,106,2.07,0.63,us,us7000l81n,2023-11-01T10:56:15.040Z,"Halmahera, Indonesia",earthquake,8.64,1.878,0.087,42,reviewed,us,us
 2023-11-01T10:39:46.814Z,32.0727,59.721,10,4.7,mb,56,110,7.745,0.65,us,us7000l81l,2023-11-01T11:00:52.040Z,"99 km SSE of Bīrjand, Iran",earthquake,6.28,1.723,0.07,62,reviewed,us,us
@@ -194,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T12:39:31.520Z,33.997,-117.2541667,12.77,1.64,ml,52,52,0.06478,0.18,ci,ci40592488,2023-10-31T14:55:19.300Z,"6 km S of Loma Linda, CA",earthquake,0.2,0.45,0.201,27,reviewed,ci,ci
 2023-10-31T12:33:43.935Z,-28.7471,-71.5702,35,6.6,mww,128,66,0.695,1.03,us,us7000l7si,2023-11-01T01:24:29.387Z,"Near the coast of Atacama, Chile",earthquake,4.28,1.872,0.069,20,reviewed,us,us
 2023-10-31T12:27:52.395Z,60.685,-151.1004,41.7,1.9,ml,,,,0.48,ak,ak023dyyolnu,2023-10-31T12:29:15.736Z,"10 km E of Nikiski, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-10-31T12:26:49.914Z,67.2794,-156.6134,0.1,2.7,ml,,,,0.86,ak,ak023dyyodun,2023-10-31T12:37:26.143Z,"43 km NNE of Kobuk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-31T12:26:49.914Z,67.2794,-156.6134,0.1,2.7,ml,,,,0.86,ak,ak023dyyodun,2023-11-01T11:32:05.040Z,"43 km NNE of Kobuk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-31T12:20:33.020Z,38.847168,-122.815834,1.55,0.74,md,9,81,0.009508,0.01,nc,nc73954120,2023-10-31T14:06:11.303Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.97,0.14,12,automatic,nc,nc
 2023-10-31T12:20:18.462Z,-27.1784,-63.2874,550.615,4.8,mb,70,45,5.239,0.81,us,us7000l7se,2023-10-31T12:35:45.040Z,"17 km SSW of El Hoyo, Argentina",earthquake,11.36,8.522,0.074,56,reviewed,us,us
 2023-10-31T12:15:01.770Z,34.626,-119.0545,6.56,0.53,ml,10,96,0.1144,0.24,ci,ci40592464,2023-10-31T18:44:29.561Z,"24 km SSW of Frazier Park, CA",earthquake,0.68,2.09,0.154,3,reviewed,ci,ci
