@@ -17,10 +17,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T18:09:14.569Z,61.8863,-151.0785,67.8,1.4,ml,,,,0.51,ak,ak023e0pom2o,2023-11-01T18:11:56.252Z,"20 km SE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T18:05:27.647Z,62.6593,-150.2519,66.8,1.5,ml,,,,0.81,ak,ak023e0pns7w,2023-11-01T18:07:41.087Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-01T17:54:13.895Z,58.2004,-154.371,88,2,ml,,,,0.31,ak,ak023e0pctn1,2023-11-01T17:56:11.332Z,"70 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-01T17:49:02.110Z,35.0553333,-118.338,0.15,1.09,ml,15,80,0.06465,0.23,ci,ci40594016,2023-11-01T17:52:47.482Z,"13 km SE of Tehachapi, CA",earthquake,0.65,31.61,0.171,14,automatic,ci,ci
+2023-11-01T17:49:01.910Z,35.0578333,-118.347,-0.93,1.08,ml,16,60,0.06723,0.18,ci,ci40594016,2023-11-01T20:57:53.345Z,"12 km SE of Tehachapi, CA",quarry blast,0.34,31.61,0.105,8,reviewed,ci,ci
 2023-11-01T17:46:14.602Z,55.3661,-159.5551,40.7,2.2,ml,,,,0.4,ak,ak023e0pb4t7,2023-11-01T20:19:33.848Z,"59 km S of Ivanof Bay, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-01T17:44:01.208Z,64.5436,-150.6383,16.8,1.3,ml,,,,0.79,ak,ak023e0pani0,2023-11-01T17:45:25.421Z,"51 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-01T17:43:09.320Z,34.4343333,-116.889,2.73,1.16,ml,12,260,0.1736,0.38,ci,ci40594000,2023-11-01T17:47:01.107Z,"7 km E of Lucerne Valley, CA",earthquake,3.28,4.77,0.124,17,automatic,ci,ci
+2023-11-01T17:43:10.490Z,34.3406667,-116.8446667,-1.88,1.1,ml,13,62,0.1004,0.23,ci,ci40594000,2023-11-01T21:02:00.516Z,"9 km N of Big Bear City, CA",quarry blast,0.6,31.61,0.125,12,reviewed,ci,ci
 2023-11-01T17:33:10.495Z,60.1807,-151.9625,57.9,0.7,ml,,,,0.48,ak,ak023e0p8bo8,2023-11-01T17:35:30.961Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-01T17:27:54.700Z,38.8313332,-122.8191681,1.49,0.72,md,16,59,0.01064,0.02,nc,nc73954655,2023-11-01T18:07:12.365Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.56,0.08,15,automatic,nc,nc
 2023-11-01T17:09:46.360Z,38.8326683,-122.8191681,1.39,0.83,md,19,51,0.01167,0.02,nc,nc73954650,2023-11-01T19:18:11.769Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.46,0.22,19,automatic,nc,nc
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T12:38:52.585Z,61.7731,-148.4127,10,1.4,ml,,,,1,ak,ak023e0mab56,2023-11-01T12:41:45.012Z,"3 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T12:31:56.297Z,38.1468,-118.1934,7.8,2.6,ml,17,43.13,0.172,0.1552,nn,nn00868265,2023-11-01T15:59:44.707Z,"28 km SSW of Mina, Nevada",earthquake,,1.5,0.32,11,reviewed,nn,nn
 2023-11-01T12:25:35.820Z,38.8356667,-122.7919998,2.03,1.19,md,18,43,0.003028,0.05,nc,nc73954580,2023-11-01T13:08:09.670Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.44,0.21,18,automatic,nc,nc
-2023-11-01T12:13:19.131Z,36.6355,-116.2549,9,0.1,ml,10,194.83,0.068,0.0719,nn,nn00868263,2023-11-01T12:14:57.537Z,"52 km W of Indian Springs, Nevada",earthquake,,1.1,0.33,5,automatic,nn,nn
+2023-11-01T12:13:19.761Z,36.6227,-116.253,5.8,0,ml,18,107.33,0.073,0.0903,nn,nn00868263,2023-11-01T20:58:41.154Z,"51 km NNW of Pahrump, Nevada",earthquake,,1.6,0.26,4,reviewed,nn,nn
 2023-11-01T12:00:31.486Z,51.0133,179.7144,4.9,2.1,ml,,,,0.62,ak,ak023e0m24vu,2023-11-01T13:21:51.167Z,"271 km WSW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2023-11-01T11:38:04.290Z,33.757,-116.9348333,15.63,0.42,ml,12,104,0.07034,0.11,ci,ci37586204,2023-11-01T18:16:00.112Z,"4 km ENE of Hemet, CA",earthquake,0.32,0.56,0.131,7,reviewed,ci,ci
 2023-11-01T11:38:01.720Z,36.6579,-116.2716,6.5,0.3,ml,27,93.28,0.056,0.1185,nn,nn00868260,2023-11-01T20:39:51.352Z,"California-Nevada border region",earthquake,,0.8,0.46,12,reviewed,nn,nn
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T01:32:02.007Z,60.9119,-150.305,45.7,1.6,ml,,,,0.49,ak,ak023e0fp5ag,2023-11-01T01:34:06.463Z,"20 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T20:53:50.690Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
 2023-11-01T01:12:42.160Z,33.7043333,-116.8271667,17.26,0.74,ml,24,93,0.07611,0.14,ci,ci40593336,2023-11-01T16:26:15.043Z,"8 km SE of Valle Vista, CA",earthquake,0.33,0.46,0.13,12,reviewed,ci,ci
-2023-11-01T01:11:01.905Z,38.3492,-118.903,9.4,2.2,ml,15,47.83,0.174,0.1975,nn,nn00868237,2023-11-01T16:56:36.085Z,"30 km ENE of Bridgeport, California",earthquake,,1.9,0.25,8,reviewed,nn,nn
+2023-11-01T01:11:01.905Z,38.3492,-118.903,9.4,2.2,ml,15,47.83,0.174,0.1975,nn,nn00868237,2023-11-01T16:56:36.085Z,"California-Nevada border region",earthquake,,1.9,0.25,8,reviewed,nn,nn
 2023-11-01T01:09:44.415Z,62.8689,-151.0007,102.2,1.4,ml,,,,0.28,ak,ak023e0fkb3d,2023-11-01T01:11:54.411Z,"43 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-01T01:03:34.708Z,63.5832,-150.6909,2.8,1.4,ml,,,,0.95,ak,ak023e0fj02d,2023-11-01T01:06:38.430Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T00:51:02.940Z,46.19583333333333,-122.18216666666666,3.66,0.07,ml,14,97,0.004943,0.17,uw,uw61960797,2023-11-01T04:23:09.710Z,"Mount St. Helens area, Washington",earthquake,0.35,1.23,0.15855956499325027,11,reviewed,uw,uw
@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T21:09:29.888Z,45.7248,-112.3201,4.17,2.4,ml,35,34,0.134,0.41,us,us7000l7xd,2023-10-31T23:54:11.040Z,"20 km N of Twin Bridges, Montana",earthquake,0.79,3.386,0.055,44,reviewed,us,us
 2023-10-31T21:08:15.600Z,38.824501,-122.7651672,2.17,0.74,md,9,123,0.00702,0.03,nc,nc73954305,2023-10-31T21:49:11.356Z,"4 km W of Cobb, CA",earthquake,0.45,1.03,0.21,9,automatic,nc,nc
 2023-10-31T21:07:58.410Z,38.6843338,-122.4944992,8.22,1.33,md,9,128,0.09098,0.07,nc,nc73954300,2023-11-01T00:48:11.499Z,"13 km NNW of Angwin, CA",earthquake,0.73,2.88,0.29,9,automatic,nc,nc
-2023-10-31T21:03:15.320Z,45.7165,-112.333,9.55,1.8,ml,16,89,0.1345,0.06,mb,mb90031528,2023-10-31T22:59:41.890Z,"19 km N of Twin Bridges, Montana",earthquake,0.32,0.93,0.203080311519167,18,reviewed,mb,mb
