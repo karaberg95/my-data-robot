@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T14:13:10.140Z,33.4886667,-116.4805,13.89,1.07,ml,37,75,0.05742,0.21,ci,ci40593720,2023-11-01T14:16:43.492Z,"19 km ESE of Anza, CA",earthquake,0.3,0.5,0.119,25,automatic,ci,ci
+2023-11-01T14:10:58.560Z,19.4825000762939,-155.489334106445,-0.409999996423721,2.45,ml,48,35,,0.219999999,hv,hv73635632,2023-11-01T14:16:29.180Z,"27 km W of Volcano, Hawaii",earthquake,0.37,0.620000005,3.25,27,automatic,hv,hv
 2023-11-01T13:37:34.990Z,33.8975,-117.874,5.33,1.31,ml,34,56,0.06318,0.24,ci,ci40593688,2023-11-01T13:51:46.675Z,"3 km N of Placentia, CA",earthquake,0.35,0.72,0.282,32,automatic,ci,ci
 2023-11-01T13:16:54.919Z,61.4999,-151.1868,7.4,1.2,ml,,,,0.44,ak,ak023e0mr16b,2023-11-01T13:19:19.578Z,"36 km W of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-01T13:16:37.610Z,36.0219994,-120.5821686,0.22,0.62,md,8,141,0.03901,0.08,nc,nc73954590,2023-11-01T13:52:09.907Z,"19 km NW of Parkfield, CA",earthquake,0.41,1.61,0.01,3,automatic,nc,nc
@@ -207,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T14:51:18.190Z,38.8326683,-122.8170013,1.81,0.78,md,15,55,0.0156,0.02,nc,nc73954155,2023-10-31T15:25:11.716Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.75,0.2,16,automatic,nc,nc
 2023-10-31T14:41:30.628Z,63.1828,-149.1835,74.5,1.2,ml,,,,0.85,ak,ak023dyzyfba,2023-10-31T14:44:51.335Z,"26 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-31T14:34:01.602Z,61.3525,-151.8834,104.3,2.1,ml,,,,0.41,ak,ak023dyzwv3d,2023-10-31T14:35:41.088Z,"49 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-31T14:24:31.210Z,34.46116667,-96.84233333,0,1.49,ml,56,116,0.248351265,0.51,ok,ok2023viry,2023-11-01T13:14:35.201Z,"6 km NNW of Mill Creek, Oklahoma",quarry blast,,0.6,0.2,24,reviewed,ok,ok
-2023-10-31T14:22:38.244Z,44.2288,-115.0747,6.602,2.6,ml,17,69,0.205,0.96,us,us7000l7tz,2023-11-01T14:10:45.040Z,"10 km W of Stanley, Idaho",earthquake,1.47,1.033,0.053,46,reviewed,us,us
-2023-10-31T14:22:11.400Z,19.438,-155.598833333333,39.69,2.25,md,33,68,,0.16,hv,hv73634302,2023-10-31T21:36:56.250Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.47,0.63,0.343442061446922,13,reviewed,hv,hv
