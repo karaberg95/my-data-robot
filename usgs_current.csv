@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T07:41:27.430Z,36.5768318,-121.1638336,3.75,1.22,md,7,163,0.0181,0.12,nc,nc73954505,2023-11-01T07:43:03.610Z,"5 km NNW of Pinnacles, CA",earthquake,0.84,1.08,0.17,4,automatic,nc,nc
 2023-11-01T07:30:44.809Z,60.9507,-150.7187,34.3,2.1,ml,,,,0.18,ak,ak023e0j9esg,2023-11-01T07:32:00.748Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-01T06:57:43.180Z,38.779335,-122.7203369,1.19,1.56,md,22,74,0.01339,0.04,nc,nc73954495,2023-11-01T07:14:13.644Z,"2 km W of Anderson Springs, CA",earthquake,0.23,0.49,0.2,24,automatic,nc,nc
 2023-11-01T06:51:43.829Z,-10.952,166.6274,66.405,5.2,mww,43,122,9.806,0.78,us,us7000l80q,2023-11-01T07:11:40.040Z,"Santa Cruz Islands",earthquake,11.51,5.85,0.069,20,reviewed,us,us
