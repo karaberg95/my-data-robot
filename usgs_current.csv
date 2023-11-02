@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T22:35:41.118Z,61.7709,-150.7327,43.8,1.1,ml,,,,0.47,ak,ak023e0s7z5r,2023-11-01T22:37:04.952Z,"27 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-11-01T22:17:12.569Z,60.9489,-150.7332,32,2.1,ml,,,,0.65,ak,ak023e0s422g,2023-11-01T22:19:06.088Z,"3 km NW of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-01T22:15:43.700Z,38.3953323,-122.4993362,3.22,2.42,md,15,60,,0.07,nc,nc73954770,2023-11-02T01:47:18.005Z,"4 km NE of Glen Ellen, CA",earthquake,0.28,1.61,0.13,15,automatic,nc,nc
-2023-11-01T22:06:18.330Z,33.9883333,-116.383,9.85,0.8,ml,19,92,0.05213,0.08,ci,ci40594472,2023-11-02T00:56:41.822Z,"11 km ENE of Desert Hot Springs, CA",earthquake,0.22,0.32,0.104,12,reviewed,ci,ci
-2023-11-01T22:04:34.212Z,31.653,-104.294,7.1856,2.9,ml(texnet),15,68,0,0.3,tx,tx2023vlcq,2023-11-01T22:27:06.676Z,"58 km S of Whites City, New Mexico",earthquake,1.273632707,1.118733783,0.3,11,reviewed,tx,tx
