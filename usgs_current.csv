@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-02T18:32:43.080Z,38.8111649,-122.8014984,2.43,1.09,md,26,36,0.005798,0.02,nc,nc73955180,2023-11-02T18:34:22.009Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.39,0.13,27,automatic,nc,nc
+2023-11-02T18:31:37.490Z,38.8103333,-122.8016663,2.53,2.24,md,38,38,0.005504,0.03,nc,nc73955175,2023-11-02T18:36:11.210Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.29,0.18,46,automatic,nc,nc
+2023-11-02T18:28:16.707Z,60.6258,-144.3221,5.5,1.6,ml,,,,0.44,ak,ak023e2dbw26,2023-11-02T18:30:54.586Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-02T18:05:44.920Z,34.0476667,-117.266,10.95,1.2,ml,36,51,0.1057,0.21,ci,ci39704906,2023-11-02T18:09:27.082Z,"0 km W of Loma Linda, CA",earthquake,0.27,0.56,0.16,28,automatic,ci,ci
+2023-11-02T18:05:00.361Z,31.671,-104.392,5.902,1.5,ml(texnet),18,69,0,0.3,tx,tx2023vmqg,2023-11-02T18:32:25.789Z,"55 km S of Whites City, New Mexico",earthquake,0,2.478128125,0.1,12,automatic,tx,tx
+2023-11-02T18:04:32.523Z,31.681,-104.397,5.3811,1.6,ml(texnet),10,115,0,0.2,tx,tx2023vmqf,2023-11-02T18:32:16.740Z,"54 km S of Whites City, New Mexico",earthquake,0,3.095155493,0.2,8,automatic,tx,tx
 2023-11-02T17:55:10.580Z,38.8284988,-122.8151703,2.41,0.76,md,14,64,0.006467,0.02,nc,nc73955165,2023-11-02T18:16:12.961Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.94,0.38,16,automatic,nc,nc
 2023-11-02T17:49:27.730Z,38.8284988,-122.8151703,2.27,0.76,md,10,61,0.006467,0.02,nc,nc73955160,2023-11-02T18:06:12.909Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.95,0.07,12,automatic,nc,nc
 2023-11-02T17:43:41.182Z,28.922,-98.257,8.4858,2.6,ml(texnet),16,77,0.1,0.4,tx,tx2023vmpo,2023-11-02T18:20:04.544Z,"22 km ESE of Pleasanton, Texas",earthquake,1.696028396,3.312732872,0.2,13,reviewed,tx,tx
@@ -100,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T05:27:16.034Z,-24.9688,-71.0125,26.857,4.4,mb,29,144,1.232,0.7,us,us7000l893,2023-11-02T06:33:00.040Z,"Off the coast of Antofagasta, Chile",earthquake,5.58,1.836,0.203,11,reviewed,us,us
 2023-11-02T05:15:34.535Z,64.28,-148.5152,3.7,1.2,ml,,,,0.42,ak,ak023e25injh,2023-11-02T05:17:41.939Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-02T04:51:38.256Z,59.4249,-145.0736,59.2,2,ml,,,,0.62,ak,ak023e254y01,2023-11-02T04:53:39.013Z,"130 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T18:37:44.613Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
 2023-11-02T04:39:10.360Z,46.118,-122.16933333333333,10.3,1.06,ml,22,109,0.01801,0.22,uw,uw61961002,2023-11-02T17:29:24.370Z,"31 km NE of Amboy, Washington",earthquake,0.46,0.65,0.061441837591982074,13,reviewed,uw,uw
 2023-11-02T04:37:41.900Z,19.4348,-64.762,34,3.71,md,12,300,1.0997,0.5,pr,pr2023306000,2023-11-02T05:12:27.040Z,"122 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.1,30.22,0.07,4,reviewed,pr,pr
 2023-11-02T04:33:13.496Z,56.002,-156.5314,10,2.8,ml,,,,0.33,ak,ak023e25120f,2023-11-02T12:25:52.446Z,"120 km ESE of Chignik, Alaska",earthquake,,0,,,reviewed,ak,ak
