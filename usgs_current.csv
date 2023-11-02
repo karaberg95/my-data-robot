@@ -139,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T05:27:16.034Z,-24.9688,-71.0125,26.857,4.4,mb,29,144,1.232,0.7,us,us7000l893,2023-11-02T06:33:00.040Z,"Off the coast of Antofagasta, Chile",earthquake,5.58,1.836,0.203,11,reviewed,us,us
 2023-11-02T05:15:34.535Z,64.28,-148.5152,3.7,1.2,ml,,,,0.42,ak,ak023e25injh,2023-11-02T05:17:41.939Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-02T04:51:38.256Z,59.4249,-145.0736,59.2,2,ml,,,,0.62,ak,ak023e254y01,2023-11-02T04:53:39.013Z,"130 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T19:03:13.241Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
+2023-11-02T04:40:49.110Z,38.9323333,-123.1391667,5.76,1.17,md,18,63,0.04233,0.08,nc,nc73954935,2023-11-02T21:33:11.116Z,"18 km NW of Cloverdale, CA",earthquake,0.2,0.47,0.197,17,reviewed,nc,nc
 2023-11-02T04:39:10.360Z,46.118,-122.16933333333333,10.3,1.06,ml,22,109,0.01801,0.22,uw,uw61961002,2023-11-02T17:29:24.370Z,"31 km NE of Amboy, Washington",earthquake,0.46,0.65,0.061441837591982074,13,reviewed,uw,uw
 2023-11-02T04:37:41.900Z,19.4348,-64.762,34,3.71,md,12,300,1.0997,0.5,pr,pr2023306000,2023-11-02T05:12:27.040Z,"122 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.1,30.22,0.07,4,reviewed,pr,pr
 2023-11-02T04:33:13.496Z,56.002,-156.5314,10,2.8,ml,,,,0.33,ak,ak023e25120f,2023-11-02T12:25:52.446Z,"120 km ESE of Chignik, Alaska",earthquake,,0,,,reviewed,ak,ak
@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T22:04:34.212Z,31.653,-104.294,7.1856,2.9,ml(texnet),15,68,0,0.3,tx,tx2023vlcq,2023-11-01T22:27:06.676Z,"58 km S of Whites City, New Mexico",earthquake,1.273632707,1.118733783,0.3,11,reviewed,tx,tx
 2023-11-01T21:52:18.024Z,13.56,-90.7073,60.673,5.1,mb,61,148,1.227,0.96,us,us7000l875,2023-11-02T00:40:45.242Z,"41 km S of Iztapa, Guatemala",earthquake,7.36,7.001,0.026,493,reviewed,us,us
 2023-11-01T21:50:28.570Z,19.4905,-155.541833333333,38.51,1.57,md,21,61,,0.19,hv,hv73636057,2023-11-02T02:23:53.790Z,"32 km NNW of Pāhala, Hawaii",earthquake,0.9,0.74,0.072091115642935,8,reviewed,hv,hv
-2023-11-01T21:33:06.392Z,36.724,-117.198,0,1.1,ml,17,204.96,0.178,0.1506,nn,nn00868291,2023-11-01T22:16:22.784Z,"43 km NW of Furnace Creek, California",earthquake,,0,0.25,6,reviewed,nn,nn
-2023-11-01T21:27:07.780Z,19.1663341522217,-155.500839233398,32.5099983215332,1.85000002,md,31,212,,0.129999995,hv,hv73636022,2023-11-01T21:30:15.250Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.88,0.899999976,0.239999995,5,automatic,hv,hv
