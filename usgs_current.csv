@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T23:36:09.200Z,38.8370018,-122.7976685,2.34,0.67,md,7,119,0.00589,0.01,nc,nc73955310,2023-11-02T23:37:45.814Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.84,0.38,8,automatic,nc,nc
+2023-11-02T23:36:09.200Z,38.8370018,-122.7976685,2.34,0.67,md,7,119,0.00589,0.01,nc,nc73955310,2023-11-02T23:47:11.903Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.84,0.38,8,automatic,nc,nc
 2023-11-02T23:33:19.410Z,35.779,-117.5625,1.16,0.56,ml,10,174,0.1602,0.15,ci,ci39705666,2023-11-02T23:37:01.830Z,"14 km W of Searles Valley, CA",earthquake,0.38,0.53,0.22,5,automatic,ci,ci
 2023-11-02T23:05:34.391Z,61.3637,-150.0785,36.1,1.6,ml,,,,0.45,ak,ak023e2g6b9b,2023-11-02T23:07:34.712Z,"5 km W of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-02T23:01:59.950Z,38.8071671,-122.8225021,1.49,1.14,md,23,67,,0.02,nc,nc73955300,2023-11-02T23:15:10.723Z,"7 km WNW of The Geysers, CA",earthquake,0.19,0.37,0.18,24,automatic,nc,nc
@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T00:00:25.280Z,47.002,-122.24233333333333,-0.54,1.43,ml,16,158,0.02205,0.27,uw,uw61960977,2023-11-02T17:00:00.590Z,"2 km NW of Kapowsin, Washington",explosion,0.96,31.61,0.08255634106679843,8,reviewed,uw,uw
 2023-11-01T23:55:51.730Z,18.0265,-66.7713333333333,12.67,2.18,md,12,160,0.02028,0.23,pr,pr71430578,2023-11-02T00:16:04.990Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.72,0.65,0.104200947102403,5,reviewed,pr,pr
 2023-11-01T23:52:58.360Z,33.6755,-116.7275,14.13,0.22,ml,19,102,0.03727,0.11,ci,ci40594584,2023-11-02T01:06:26.436Z,"7 km S of Idyllwild, CA",earthquake,0.29,0.46,0.092,9,reviewed,ci,ci
-2023-11-01T23:50:32.060Z,33.6726667,-116.73,14.47,0.58,ml,22,74,0.04061,0.1,ci,ci40594576,2023-11-02T01:03:24.266Z,"8 km S of Idyllwild, CA",earthquake,0.25,0.39,0.138,13,reviewed,ci,ci
-2023-11-01T23:48:48.750Z,33.4191667,-116.3746667,12.42,1.61,ml,51,62,0.1124,0.21,ci,ci40594568,2023-11-02T00:54:35.850Z,"18 km N of Borrego Springs, CA",earthquake,0.26,0.77,0.15,26,reviewed,ci,ci
