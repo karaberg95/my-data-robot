@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T02:32:53.860Z,31.6613,-104.1939,5.465,2.5,ml,27,65,0.262,0.61,us,us7000l88e,2023-11-02T02:44:58.040Z,"western Texas",earthquake,1.08,4.093,0.057,40,reviewed,us,us
+2023-11-02T02:32:54.074Z,31.671,-104.181,3.8461,2.5,ml(texnet),22,103,0.1,0.5,tx,tx2023vllm,2023-11-02T02:53:51.457Z,"54 km NW of Toyah, Texas",earthquake,0,1.229753607,0.2,16,automatic,tx,tx
+2023-11-02T02:32:53.918Z,31.674,-104.181,6.3886,2.6,ml(texnet),25,64,0.1,0.2,tx,tx2023vlln,2023-11-02T02:53:04.458Z,"western Texas",earthquake,0.7204721256,0.9931162644,0.2,32,reviewed,tx,tx
 2023-11-02T02:27:45.510Z,38.8216667,-122.8535004,2.56,0.77,md,17,92,0.006434,0.01,nc,nc73954890,2023-11-02T02:44:12.337Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.19,18,automatic,nc,nc
 2023-11-02T02:26:34.670Z,33.6715,-116.7516667,15.08,0.65,ml,23,70,0.05043,0.26,ci,ci40594712,2023-11-02T02:30:12.047Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.71,0.096,12,automatic,ci,ci
 2023-11-02T02:25:34.334Z,61.3467,-146.9233,20.7,1.8,ml,,,,0.65,ak,ak023e23shvd,2023-11-02T02:27:29.553Z,"39 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T20:27:48.940Z,34.0225,-116.715,-1,1.5,mh,2,333,0.3105,0,ci,ci40594320,2023-11-02T00:44:30.135Z,"13 km WSW of Morongo Valley, CA",earthquake,2.23,3.52,,0,reviewed,ci,ci
 2023-11-01T20:27:21.427Z,52.7806,-168.1666,22.8,3.7,ml,,,,0.71,ak,ak023e0qz7j9,2023-11-01T22:03:38.188Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-11-01T20:21:04.161Z,36.6597,-116.2721,6.4,-0.3,ml,12,108.44,0.056,0.0644,nn,nn00868315,2023-11-02T02:34:16.760Z,"51 km ESE of Beatty, Nevada",earthquake,,1.4,0.39,6,reviewed,nn,nn
-2023-11-01T20:06:42.802Z,64.9527,-148.9756,24.6,1,ml,,,,0.27,ak,ak023e0quwbc,2023-11-01T20:08:38.030Z,"28 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-01T20:06:42.802Z,64.9527,-148.9756,24.6,1,ml,,,,0.27,ak,ak023e0quwbc,2023-11-01T20:08:38.030Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T20:04:04.000Z,18.1683333333333,-66.4048333333333,8.36,1.83,md,8,107,0.09772,0.11,pr,pr71430563,2023-11-01T20:19:49.190Z,"6 km SSW of Orocovis, Puerto Rico",earthquake,0.4,2.08,0.222931306354206,5,reviewed,pr,pr
 2023-11-01T19:41:36.650Z,19.625,-155.9455,12.95,1.92,md,41,125,,0.17,hv,hv73635877,2023-11-02T01:20:46.539Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.73,0.223194703446749,16,reviewed,hv,hv
 2023-11-01T19:40:20.925Z,53.8722,-166.3265,9.4,1.4,ml,,,,0.48,ak,ak023e0qgpo0,2023-11-01T20:28:04.951Z,"13 km E of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
@@ -173,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T07:30:52.876Z,38.3525,-118.8983,10.7,1.4,ml,7,108.41,0.325,0.137,nn,nn00868304,2023-11-01T23:46:48.162Z,"30 km SW of Hawthorne, Nevada",earthquake,,2.6,0.11,4,reviewed,nn,nn
 2023-11-01T07:30:44.809Z,60.9507,-150.7187,34.3,2.1,ml,,,,0.18,ak,ak023e0j9esg,2023-11-01T07:32:00.748Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-01T07:11:44.384Z,-32.8069,-178.9441,50.704,4.8,mb,27,124,3.641,1.02,us,us7000l80w,2023-11-01T09:42:25.040Z,"south of the Kermadec Islands",earthquake,10.92,8.894,0.109,26,reviewed,us,us
-2023-11-01T07:06:59.550Z,46.8355,-122.0125,7.08,0.66,ml,27,85,0.04413,0.12,uw,uw61960852,2023-11-01T20:23:38.740Z,"8 km N of Ashford, Washington",earthquake,0.23,0.46,0.13262921165851893,15,reviewed,uw,uw
+2023-11-01T07:06:59.550Z,46.8355,-122.0125,7.08,0.66,ml,27,85,0.04413,0.12,uw,uw61960852,2023-11-01T20:23:38.740Z,"Washington",earthquake,0.23,0.46,0.13262921165851893,15,reviewed,uw,uw
 2023-11-01T07:04:44.471Z,31.403,-103.531,3.9978,1.9,ml(texnet),18,63,0,0.5,tx,tx2023vjyy,2023-11-01T15:50:12.659Z,"3 km N of Lindsay, Texas",earthquake,2.807889571,1.683972485,0.2,12,reviewed,tx,tx
 2023-11-01T06:57:43.180Z,38.779335,-122.7203369,1.19,1.56,md,22,74,0.01339,0.04,nc,nc73954495,2023-11-01T08:35:17.132Z,"2 km W of Anderson Springs, CA",earthquake,0.23,0.49,0.2,24,automatic,nc,nc
 2023-11-01T06:51:43.829Z,-10.952,166.6274,66.405,5.2,mww,43,122,9.806,0.78,us,us7000l80q,2023-11-01T07:11:40.040Z,"Santa Cruz Islands",earthquake,11.51,5.85,0.069,20,reviewed,us,us
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:06:28.531Z,61.0493,-150.4944,57.1,1.2,ml,,,,0.1,ak,ak023e0gqhxh,2023-11-01T03:08:09.605Z,"17 km NE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T16:16:39.181Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,reviewed,ci,ci
 2023-11-01T03:00:31.757Z,31.639,-104.176,4.4863,1.8,ml(texnet),25,63,0.1,0.2,tx,tx2023vjqx,2023-11-01T13:14:56.945Z,"51 km NW of Toyah, Texas",earthquake,0.5871480856,1.120971258,0.2,19,reviewed,tx,tx
-2023-11-01T02:57:10.340Z,19.407,-155.291666666667,7.4,2,md,13,94,,0.1,hv,hv73635132,2023-11-01T03:40:14.070Z,"7 km WSW of Volcano, Hawaii",earthquake,0.51,0.63,0.00835473475477178,2,reviewed,hv,hv
-2023-11-01T02:51:13.443Z,53.3941,-165.7998,41.2,2.3,ml,,,,0.38,ak,ak023e0gek01,2023-11-01T04:43:47.819Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
