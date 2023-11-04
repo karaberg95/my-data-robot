@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T16:26:20.720Z,33.7621667,-116.9378333,13.99,0.94,ml,29,73,0.07565,0.2,ci,ci39707586,2023-11-04T16:30:02.547Z,"3 km SE of San Jacinto, CA",earthquake,0.33,0.66,0.103,23,automatic,ci,ci
 2023-11-04T16:23:47.747Z,-4.0351,127.3691,226.33,4.5,mb,26,72,2.574,0.51,us,us7000l8vy,2023-11-04T16:37:55.040Z,"Banda Sea",earthquake,7.5,6.754,0.121,23,reviewed,us,us
 2023-11-04T16:17:22.559Z,58.9098,-152.5063,63.5,1.8,ml,,,,0.43,ak,ak023e5n5iov,2023-11-04T16:19:47.973Z,"59 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-04T16:00:00.860Z,37.7244987,-122.1516647,6.06,1.06,md,7,147,0.02567,0.07,nc,nc73956005,2023-11-04T16:42:13.537Z,"0 km E of San Leandro, CA",earthquake,0.65,1.48,0.05,2,automatic,nc,nc
+2023-11-04T16:00:00.860Z,37.7244987,-122.1516647,6.06,1.06,md,7,147,0.02567,0.07,nc,nc73956005,2023-11-04T16:53:16.596Z,"0 km E of San Leandro, CA",earthquake,0.65,1.48,0.05,2,automatic,nc,nc
 2023-11-04T15:53:07.690Z,19.1608333587646,-155.513168334961,37.0699996948242,2.19,ml,43,110,,0.159999996,hv,hv73638977,2023-11-04T15:58:38.790Z,"5 km SW of Pāhala, Hawaii",earthquake,0.54,0.720000029,5.15,3,automatic,hv,hv
 2023-11-04T15:47:31.780Z,31.686,-104.508,6.7607,1.6,ml(texnet),14,127,0,0.2,tx,tx2023vqcs,2023-11-04T16:06:21.000Z,"55 km SSW of Whites City, New Mexico",earthquake,0,2.506552121,0.1,12,automatic,tx,tx
 2023-11-04T15:42:46.395Z,58.5929,-154.2861,8.7,1.1,ml,,,,0.36,ak,ak023e5mphtr,2023-11-04T15:44:55.040Z,"98 km SSE of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
