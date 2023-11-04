@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T21:37:41.736Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
 2023-11-04T21:15:44.660Z,32.7493333,-115.4173333,9.03,1.49,ml,16,159,0.0611,0.3,ci,ci39707930,2023-11-04T21:19:21.645Z,"8 km SSW of Holtville, CA",earthquake,1.16,1.88,0.178,15,automatic,ci,ci
 2023-11-04T21:13:06.082Z,61.8121,-150.7436,52,1.1,ml,,,,0.53,ak,ak023e5q3s6d,2023-11-04T21:16:04.752Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-04T21:12:41.170Z,33.4908333,-116.4185,6.75,1.11,ml,41,63,0.03303,0.18,ci,ci39707914,2023-11-04T21:16:14.628Z,"22 km SSW of La Quinta, CA",earthquake,0.22,0.56,0.204,27,automatic,ci,ci
@@ -190,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T21:54:31.411Z,60.9532,-150.7064,34.4,1.9,ml,,,,0.21,ak,ak023e42taed,2023-11-03T21:55:59.825Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-03T21:51:45.500Z,47.5775,-114.002,18.45,0.63,ml,8,135,0.06824,0.05,mb,mb90031953,2023-11-04T14:55:24.520Z,"9 km ESE of Pablo, Montana",earthquake,0.43,0.75,0.176572373234478,2,reviewed,mb,mb
 2023-11-03T21:48:22.910Z,47.7649,153.5117,10,4.8,mb,48,137,5.98,0.61,us,us7000l8rm,2023-11-03T23:35:50.040Z,"Kuril Islands",earthquake,7.16,1.791,0.068,67,reviewed,us,us
-2023-11-03T21:44:51.840Z,58.5976666666667,-153.635666666667,-3.19,1.32,ml,9,177,,0.32,av,av91120668,2023-11-04T04:07:15.120Z,"Kodiak Island region, Alaska",earthquake,4.33,1.84,0.359067520931581,9,reviewed,av,av
-2023-11-03T21:44:37.202Z,58.7149,-153.6963,12.8,1.6,ml,,,,0.38,ak,ak023e42r5oo,2023-11-04T04:05:23.970Z,"86 km NNW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
