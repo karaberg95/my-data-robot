@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T13:44:10.770Z,36.8045006,-121.3246689,8.04,1.16,md,8,140,0.03189,0.04,nc,nc73956415,2023-11-05T13:45:47.039Z,"2 km NNW of Tres Pinos, CA",earthquake,0.41,1.06,0.16,7,automatic,nc,nc
+2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T13:43:37.404Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
 2023-11-05T13:27:10.000Z,50.42,176.66,66,5.3,Mb,42,316.799974656002,1.921496,0.92,at,at00s3nk1a,2023-11-05T13:33:39.752Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,22,reviewed,at,at
 2023-11-05T13:18:15.569Z,37.3952,-117.1018,1.9,1.7,ml,28,111.43,0.158,0.2758,nn,nn00868477,2023-11-05T13:20:18.828Z,"36 km SSE of Goldfield, Nevada",earthquake,,5.5,0.39,20,automatic,nn,nn
 2023-11-05T13:00:07.570Z,38.8318329,-122.815834,1.47,1.05,md,21,52,0.009552,0.01,nc,nc73956400,2023-11-05T13:16:10.805Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.46,0.11,22,automatic,nc,nc
@@ -199,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T14:03:24.481Z,14.0271,-91.5425,54.866,4.2,mb,25,178,1.716,0.75,us,us7000l8vc,2023-11-04T16:31:38.040Z,"32 km SW of Nueva Concepción, Guatemala",earthquake,4.83,17.899,0.084,39,reviewed,us,us
 2023-11-04T13:56:23.133Z,31.609,-104.24,8.0371,1.5,ml(texnet),13,137,0.1,0.3,tx,tx2023vpzb,2023-11-04T14:14:50.790Z,"western Texas",earthquake,0,8.970390356,0.3,11,automatic,tx,tx
 2023-11-04T13:50:15.210Z,36.9700012,-121.6273346,3.95,1.19,md,8,88,0.03913,0.03,nc,nc73955985,2023-11-04T15:27:12.126Z,"7 km SW of Gilroy, CA",earthquake,0.36,0.54,0.16,7,automatic,nc,nc
-2023-11-04T13:46:37.490Z,40.4883347,-123.7938309,21.83,1.73,md,15,111,0.06512,0.08,nc,nc73955980,2023-11-04T15:01:11.966Z,"26 km E of Rio Dell, CA",earthquake,0.56,0.43,0.16,8,automatic,nc,nc
