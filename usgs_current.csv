@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T19:44:10.808Z,60.9864,-141.2028,16.1,1,ml,,,,0.29,ak,ak023e7cmxfc,2023-11-05T19:45:47.658Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T19:12:01.640Z,38.7923317,-122.7598343,0.78,0.82,md,17,72,0.008282,0.02,nc,nc73956495,2023-11-05T19:31:11.168Z,"2 km N of The Geysers, CA",earthquake,0.21,0.47,0.28,16,automatic,nc,nc
 2023-11-05T19:01:55.550Z,61.0425,-148.4227,11.8,1.5,ml,,,,0.81,ak,ak023e7cdt37,2023-11-05T19:03:14.207Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-05T19:00:27.880Z,38.8358345,-122.8191681,2.23,0.83,md,9,92,0.01304,0.02,nc,nc73956490,2023-11-05T19:18:12.091Z,"8 km W of Cobb, CA",earthquake,0.38,1.36,0.23,10,automatic,nc,nc
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T20:28:54.447Z,58.722,-153.7647,15,1.7,ml,,,,0.43,ak,ak023e5plog4,2023-11-04T20:30:35.822Z,"89 km NW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T19:56:34.281Z,38.8958,-118.8326,1.1,2.3,ml,16,59.9,0.545,0.2101,nn,nn00868445,2023-11-04T19:58:55.123Z,"6 km SSW of Schurz, Nevada",earthquake,,7,0.27,10,automatic,nn,nn
 2023-11-04T19:55:33.875Z,37.5842,73.9941,10,4.5,mwr,49,105,2.557,0.56,us,us7000l8wg,2023-11-04T21:20:23.040Z,"65 km S of Murghob, Tajikistan",earthquake,7.15,1.892,0.052,36,reviewed,us,us
-2023-11-04T19:41:59.863Z,31.572,-104.016,4.8992,1.7,ml(texnet),13,62,0,0.3,tx,tx2023vqkl,2023-11-04T19:51:53.056Z,"35 km NW of Toyah, Texas",earthquake,0,1.434398456,0.2,10,automatic,tx,tx
