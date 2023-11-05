@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T10:03:08.010Z,38.8180008,-122.7955017,2.38,1.09,md,16,42,0.01002,0.03,nc,nc73955925,2023-11-04T10:41:18.410Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.59,0.22,16,automatic,nc,nc
 2023-11-04T10:00:13.370Z,18.0211666666667,-66.7746666666667,14.9,2.84,md,18,152,0.01609,0.15,pr,pr71430743,2023-11-04T10:18:38.320Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.31,0.43,0.146030643841454,8,reviewed,pr,pr
 2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30,116,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"Banda Sea",earthquake,9.46,7.13,0.105,27,reviewed,us,us
-2023-11-04T09:49:43.120Z,38.7913322,-122.7596664,0.85,0.89,md,13,69,0.009279,0.02,nc,nc73955920,2023-11-04T10:30:13.353Z,"2 km N of The Geysers, CA",earthquake,0.23,0.67,0.15,13,automatic,nc,nc
-2023-11-04T09:43:38.320Z,35.5113335,-120.8126678,5.27,1.74,md,17,66,,0.08,nc,nc73955915,2023-11-04T12:40:10.131Z,"10 km NE of Cayucos, CA",earthquake,0.29,1.12,0.14,9,automatic,nc,nc
