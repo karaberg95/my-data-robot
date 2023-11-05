@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T04:21:58.820Z,33.5308342,-116.5090027,14.28,1.15,ml,19,107,0.03232,0.1,ci,ci39708234,2023-11-05T04:24:05.239Z,"16 km E of Anza, CA",earthquake,0.4,0.61,0.426,7,automatic,ci,ci
+2023-11-05T03:43:03.472Z,31.652,-104.331,4.0766,1.6,mlv,19,69,0.1,0.3,tx,tx2023vrah,2023-11-05T04:09:17.950Z,"western Texas",earthquake,0,1.248808579,0.2,14,automatic,tx,tx
 2023-11-05T03:40:57.850Z,33.465,-116.4786667,15.4,0.64,ml,17,147,0.07315,0.24,ci,ci39708218,2023-11-05T03:44:36.968Z,"21 km ESE of Anza, CA",earthquake,0.74,0.98,0.1,11,automatic,ci,ci
 2023-11-05T03:38:06.110Z,63.4812,-148.8759,13.2,0.8,ml,,,,0.53,ak,ak023e732p3f,2023-11-05T03:41:04.048Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T03:31:53.080Z,38.9526672,-123.1558304,5.12,2.25,md,25,62,,0.08,nc,nc73956235,2023-11-05T03:39:40.695Z,"19 km ESE of Boonville, CA",earthquake,0.25,0.59,0.1,24,automatic,nc,nc
@@ -86,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T17:08:13.460Z,38.7966652,-122.8154984,3.14,0.74,md,8,92,0.01279,0.02,nc,nc73956025,2023-11-04T17:58:13.972Z,"6 km WNW of The Geysers, CA",earthquake,0.46,1.55,0.44,10,automatic,nc,nc
 2023-11-04T16:59:23.350Z,34.0241667,-117.6051667,3.03,1.54,ml,49,35,0.0411,0.2,ci,ci39707626,2023-11-04T17:10:16.160Z,"4 km SSE of Ontario, CA",earthquake,0.21,0.3,0.168,28,automatic,ci,ci
 2023-11-04T16:39:27.210Z,33.4895,-116.7565,6.12,0.83,ml,29,74,0.04549,0.18,ci,ci39707594,2023-11-04T16:42:57.136Z,"11 km SW of Anza, CA",earthquake,0.22,0.57,0.125,22,automatic,ci,ci
+2023-11-04T16:30:17.120Z,46.855,-121.7635,1.09,0.66,ml,13,114,0.02662,0.08,uw,uw61970301,2023-11-05T04:20:39.540Z,"Washington",earthquake,0.21,0.75,0.14628316647878475,6,reviewed,uw,uw
 2023-11-04T16:26:20.720Z,33.7621667,-116.9378333,13.99,0.94,ml,29,73,0.07565,0.2,ci,ci39707586,2023-11-04T16:30:02.547Z,"3 km SE of San Jacinto, CA",earthquake,0.33,0.66,0.103,23,automatic,ci,ci
 2023-11-04T16:23:47.747Z,-4.0351,127.3691,226.33,4.5,mb,26,72,2.574,0.51,us,us7000l8vy,2023-11-04T16:37:55.040Z,"97 km WSW of Ambon, Indonesia",earthquake,7.5,6.754,0.121,23,reviewed,us,us
 2023-11-04T16:17:22.559Z,58.9098,-152.5063,63.5,1.8,ml,,,,0.43,ak,ak023e5n5iov,2023-11-04T16:19:47.973Z,"59 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -188,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T04:58:46.951Z,62.278,-149.65,59.2,1.1,ml,,,,0.49,ak,ak023e5g95kj,2023-11-04T05:01:03.091Z,"16 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-04T04:48:54.550Z,38.8098335,-122.821167,1.93,0.79,md,14,60,0.006333,0.02,nc,nc73955815,2023-11-04T06:41:16.964Z,"7 km WNW of The Geysers, CA",earthquake,0.26,0.58,0.19,14,automatic,nc,nc
 2023-11-04T04:25:21.670Z,38.8313332,-122.8168335,1.64,0.94,md,14,51,0.009524,0.01,nc,nc73955810,2023-11-04T06:11:18.783Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.57,0.23,15,automatic,nc,nc
-2023-11-04T04:13:15.280Z,38.8160019,-122.8191681,2.55,1.53,md,28,50,0.01025,0.02,nc,nc73955805,2023-11-04T07:01:10.102Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.15,28,automatic,nc,nc
