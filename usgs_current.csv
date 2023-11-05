@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T11:41:36.376Z,59.6427,-152.7744,86.2,1.4,ml,,,,0.46,ak,ak023e5kbix1,2023-11-04T11:43:49.154Z,"55 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-04T11:26:14.752Z,60.4349,-152.147,86.4,1.3,ml,,,,0.44,ak,ak023e5k89ib,2023-11-04T11:28:06.040Z,"46 km W of Cohoe, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-04T11:00:36.451Z,6.7225,-73.078,158.062,4.6,mb,74,45,0.825,0.64,us,us7000l8uy,2023-11-04T11:48:59.040Z,"2 km ESE of Jordán, Colombia",earthquake,9.53,8.188,0.029,344,reviewed,us,us
-2023-11-04T10:47:18.780Z,60.9286,-150.5079,33.5,1.5,ml,,,,0.66,ak,ak023e5jrc92,2023-11-04T10:49:31.387Z,"9 km E of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
