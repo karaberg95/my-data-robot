@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-06T20:54:35.207Z,58.1909,-155.2703,1.3,0.6,ml,,,,0.2,ak,ak023e90twkg,2023-11-06T20:56:35.622Z,"84 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-06T20:33:19.950Z,33.5203323,-116.5268326,11.33,1.04,ml,30,100,0.03723,0.16,ci,ci39709482,2023-11-06T20:35:24.068Z,"14 km ESE of Anza, CA",earthquake,0.45,0.65,0.285,8,automatic,ci,ci
 2023-11-06T20:13:16.320Z,36.1956673,-117.9833298,0.95,2.9,ml,42,45,0.1299,0.19,ci,ci39709442,2023-11-06T20:27:48.040Z,"10 km SSE of Olancha, CA",earthquake,0.25,0.7,0.203,25,automatic,ci,ci
 2023-11-06T20:09:35.792Z,58.8317,-153.6986,15.8,1.4,ml,,,,0.16,ak,ak023e90k9e3,2023-11-06T20:11:33.036Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T14:14:36.935Z,63.5319,-147.7374,20.7,1.2,ml,,,,0.44,ak,ak023e8x0qfi,2023-11-06T14:16:58.164Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-06T14:00:41.623Z,36.7004,-115.8222,6,0.3,ml,10,322.03,0.119,0.1523,nn,nn00868506,2023-11-06T16:06:52.305Z,"19 km NW of Indian Springs, Nevada",earthquake,,4.2,0.42,3,reviewed,nn,nn
 2023-11-06T14:00:21.790Z,38.8756676,-122.7331696,17.18,0.94,md,7,207,0.05811,0.03,nc,nc73956830,2023-11-06T15:59:18.292Z,"6 km N of Cobb, CA",earthquake,3.14,4.48,0.02,4,automatic,nc,nc
-2023-11-06T13:51:10.713Z,-33.0813,-71.9791,29.004,5.2,mww,83,78,0.65,0.89,us,us7000l951,2023-11-06T19:23:56.575Z,"33 km W of Valparaíso, Chile",earthquake,4.87,3.988,0.08,15,reviewed,us,us
+2023-11-06T13:51:10.713Z,-33.0813,-71.9791,29.004,5.2,mww,83,78,0.65,0.89,us,us7000l951,2023-11-06T20:51:46.478Z,"33 km W of Valparaíso, Chile",earthquake,4.87,3.988,0.08,15,reviewed,us,us
 2023-11-06T13:49:19.929Z,59.2973,-152.4229,74.1,2.2,ml,,,,0.26,ak,ak023e8wmrko,2023-11-06T16:53:49.040Z,"29 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-06T13:33:22.840Z,36.8924,-116.0155,5.7,-0.3,ml,6,189.31,0.024,0.0527,nn,nn00868505,2023-11-06T16:00:33.382Z,"California-Nevada border region",earthquake,,6.6,0.13,4,reviewed,nn,nn
 2023-11-06T13:29:03.657Z,31.746,-104.133,4.5214,1.7,ml(texnet),18,71,0,0.3,tx,tx2023vtpd,2023-11-06T13:51:49.912Z,"western Texas",earthquake,0,1.227947498,0.2,13,automatic,tx,tx
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T21:15:01.684Z,63.1353,-151.3316,2.4,2.3,ml,,,,0.42,ak,ak023e7dnk60,2023-11-05T21:16:58.938Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T21:13:57.850Z,38.8138351,-122.8280029,1.84,0.73,md,7,85,0.005044,0.01,nc,nc73956520,2023-11-05T22:15:14.095Z,"7 km WNW of The Geysers, CA",earthquake,0.42,1.01,0.3,9,automatic,nc,nc
 2023-11-05T21:00:51.640Z,34.6473333,-116.293,3.01,1.72,ml,18,78,0.122,0.18,ci,ci39708850,2023-11-06T14:32:26.880Z,"15 km SW of Ludlow, CA",earthquake,0.31,1.51,0.128,26,reviewed,ci,ci
-2023-11-05T20:58:16.978Z,57.9388,-156.0843,9.7,1.4,ml,,,,0.17,ak,ak023e7dbdj5,2023-11-05T21:00:08.803Z,"82 km ESE of Egegik, Alaska",earthquake,,3.3,,,automatic,ak,ak
-2023-11-05T20:53:08.251Z,60.0487,-152.1191,75.8,1.9,ml,,,,0.46,ak,ak023e7daaa1,2023-11-05T20:56:01.868Z,"24 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
