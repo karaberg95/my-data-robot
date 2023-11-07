@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-07T22:36:42.420Z,38.7953339,-122.8066635,3.33,0.26,md,9,108,0.00754,0.02,nc,nc73957470,2023-11-07T22:38:18.717Z,"5 km WNW of The Geysers, CA",earthquake,0.61,1.31,0.02,9,automatic,nc,nc
+2023-11-07T22:48:24.610Z,37.1731682,-117.8000031,2.16,2.42,ml,21,99,0.1367,0.36,ci,ci39710146,2023-11-07T22:50:34.648Z,"43 km E of Big Pine, CA",earthquake,0.5,1.89,0.238,19,automatic,ci,ci
+2023-11-07T22:46:53.862Z,59.2344,-151.9219,53.9,2.3,ml,,,,0.51,ak,ak023eapifze,2023-11-07T22:49:10.690Z,"13 km S of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-07T22:36:42.420Z,38.7953339,-122.8066635,3.33,0.26,md,9,108,0.00754,0.02,nc,nc73957470,2023-11-07T22:49:10.058Z,"5 km WNW of The Geysers, CA",earthquake,0.61,1.31,0.02,9,automatic,nc,nc
 2023-11-07T22:27:07.850Z,33.980999,-117.1466675,16.68,1.06,ml,22,183,0.1286,0.13,ci,ci39710138,2023-11-07T22:29:23.551Z,"9 km W of Calimesa, CA",earthquake,0.86,1.23,0.3,6,automatic,ci,ci
 2023-11-07T22:24:45.280Z,38.8251648,-122.7850037,0.15,0.7,md,12,66,0.01236,0.01,nc,nc73957460,2023-11-07T22:38:10.994Z,"5 km W of Cobb, CA",earthquake,0.23,0.5,0.12,12,automatic,nc,nc
 2023-11-07T22:09:56.940Z,19.1639995574951,-155.476501464844,30.8199996948242,1.92999995,md,22,212,,0.270000011,hv,hv73641162,2023-11-07T22:12:59.790Z,"Island of Hawaii, Hawaii",earthquake,2.1,1.57000005,0.959999979,3,automatic,hv,hv
