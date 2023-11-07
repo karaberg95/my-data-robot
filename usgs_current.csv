@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-07T11:38:02.020Z,19.3621673583984,-155.306671142578,27.0499992370605,1.72000003,md,33,68,,0.119999997,hv,hv73640877,2023-11-07T11:41:06.630Z,"Hawaii region, Hawaii",earthquake,0.67,0.680000007,1.13999999,3,automatic,hv,hv
 2023-11-07T11:09:09.109Z,60.01,-152.5746,101.2,2.5,ml,,,,0.41,ak,ak023eaiqnd3,2023-11-07T11:10:52.489Z,"47 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-07T11:02:22.200Z,38.8364983,-122.8176651,2.23,0.48,md,8,92,0.01407,0.01,nc,nc73957250,2023-11-07T11:22:14.191Z,"8 km W of Cobb, CA",earthquake,0.35,1.21,0.21,7,automatic,nc,nc
 2023-11-07T10:59:27.530Z,19.1496658325195,-155.481506347656,32.5499992370605,2.3599999,md,38,169,,0.100000001,hv,hv73640852,2023-11-07T11:02:47.160Z,"5 km S of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.550000012,17,automatic,hv,hv
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T12:04:21.255Z,-1.2269,-24.137,10,5.5,mww,63,49,11.8,0.44,us,us7000l94t,2023-11-06T14:07:43.922Z,"central Mid-Atlantic Ridge",earthquake,9.75,1.872,0.086,13,reviewed,us,us
 2023-11-06T12:03:16.690Z,32.9551667,-115.8488333,7.86,1.04,ml,35,62,0.02063,0.2,ci,ci39709146,2023-11-06T19:23:27.662Z,"23 km WSW of Westmorland, CA",earthquake,0.23,0.45,0.212,7,reviewed,ci,ci
 2023-11-06T12:01:56.980Z,44.2841667,-110.6265,13.59,1.19,md,9,73,0.07369,0.13,uu,uu60553702,2023-11-06T19:29:39.670Z,"56 km SE of West Yellowstone, Montana",earthquake,1.13,1.02,0.1,4,reviewed,uu,uu
-2023-11-06T11:42:06.741Z,62.3333,-147.8359,41.5,1.4,ml,,,,0.21,ak,ak023e8vedc2,2023-11-06T11:43:42.763Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
