@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-07T07:45:47.420Z,38.7866669,-122.7734985,1.54,1.09,md,18,83,0.01301,0.03,nc,nc73957180,2023-11-07T07:47:23.722Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.42,0.09,19,automatic,nc,nc
 2023-11-07T07:35:47.420Z,38.7941666,-122.748497,1.81,0.82,md,8,120,0.01088,0.02,nc,nc73957165,2023-11-07T07:37:23.811Z,"2 km NNE of The Geysers, CA",earthquake,0.48,1.45,0.12,8,automatic,nc,nc
 2023-11-07T07:31:35.400Z,19.1921672821045,-155.505661010742,32.7700004577637,2.1500001,md,35,153,,0.109999999,hv,hv73640727,2023-11-07T07:34:54.050Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.75999999,1.59000003,14,automatic,hv,hv
 2023-11-07T07:29:09.980Z,17.9253333333333,-66.9696666666667,15.37,2.57,md,12,231,0.07448,0.09,pr,pr71430988,2023-11-07T07:39:48.270Z,"Puerto Rico region",earthquake,0.42,0.39,0.0600833617568179,4,reviewed,pr,pr
