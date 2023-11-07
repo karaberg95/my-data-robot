@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-07T18:28:48.300Z,36.2680016,-120.4195023,5.26,1.89,md,12,112,0.07759,0.05,nc,nc73957330,2023-11-07T18:32:19.075Z,"15 km NNW of Coalinga, CA",earthquake,0.51,0.75,0.14,7,automatic,nc,nc
+2023-11-07T18:28:48.300Z,36.2680016,-120.4195023,5.26,1.89,md,12,112,0.07759,0.05,nc,nc73957330,2023-11-07T18:44:10.811Z,"15 km NNW of Coalinga, CA",earthquake,0.51,0.75,0.14,7,automatic,nc,nc
 2023-11-07T18:18:37.750Z,35.8173332,-117.6449966,7.6,1,ml,14,137,0.09783,0.11,ci,ci39709978,2023-11-07T18:20:44.676Z,"22 km N of Ridgecrest, CA",earthquake,0.47,1.28,0.124,5,automatic,ci,ci
 2023-11-07T18:15:34.330Z,18.7821,145.2967,623.202,5.6,mww,111,42,5.18,0.55,us,us7000l9eg,2023-11-07T18:37:03.070Z,"Pagan region, Northern Mariana Islands",earthquake,10.4,6.48,0.08,15,reviewed,us,us
-2023-11-07T18:09:48.983Z,40.5164,77.7055,8.555,5.4,mww,168,23,1.214,0.7,us,us7000l9ef,2023-11-07T18:32:08.551Z,"southern Xinjiang, China",earthquake,4.53,3.895,0.073,18,reviewed,us,us
+2023-11-07T18:09:48.983Z,40.5164,77.7055,8.555,5.4,mww,168,23,1.214,0.7,us,us7000l9ef,2023-11-07T18:40:32.361Z,"southern Xinjiang, China",earthquake,4.53,3.895,0.073,18,reviewed,us,us
 2023-11-07T18:00:12.290Z,32.9041672,-116.939003,5.11,1.77,ml,22,62,0.07965,0.23,ci,ci39709954,2023-11-07T18:02:37.957Z,"5 km NNW of Lakeside, CA",earthquake,0.53,1.1,0.213,18,automatic,ci,ci
 2023-11-07T17:57:19.906Z,38.8848,-118.586,11,3,ml,17,65.21,0.411,0.0964,nn,nn00868546,2023-11-07T18:19:49.278Z,"California-Nevada border region",earthquake,,1.4,0.13,7,reviewed,nn,nn
 2023-11-07T17:48:18.767Z,63.1276,-144.2723,0,1.9,ml,,,,0.74,ak,ak023eamjmok,2023-11-07T17:50:16.706Z,"34 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T04:23:31.030Z,38.8136673,-122.8146667,2.65,0.77,md,15,59,0.01035,0.03,nc,nc73957110,2023-11-07T05:46:11.425Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.57,0.19,15,automatic,nc,nc
 2023-11-07T04:20:47.756Z,31.747,-104.172,4.2464,1.6,ml(texnet),14,117,0,0.1,tx,tx2023vuso,2023-11-07T04:55:20.809Z,"51 km SSE of Whites City, New Mexico",earthquake,0,1.315036095,0.2,12,automatic,tx,tx
 2023-11-07T04:02:46.661Z,31.664,-104.311,6.1316,3.4,ml(texnet),44,58,0,0.2,tx,tx2023vury,2023-11-07T18:32:13.376Z,"57 km S of Whites City, New Mexico",earthquake,0.6108414684,0.5871808792,0.2,26,reviewed,tx,tx
+2023-11-07T03:56:15.000Z,33.5388333,-116.6688333,10.28,0.14,ml,19,78,0.04234,0.09,ci,ci39709666,2023-11-07T18:40:24.957Z,"2 km SSE of Anza, CA",earthquake,0.2,0.35,0.149,11,reviewed,ci,ci
 2023-11-07T03:37:05.950Z,38.8338318,-122.8168335,1.12,0.63,md,9,69,0.01168,0.04,nc,nc73957100,2023-11-07T04:53:11.976Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.14,0.5,8,automatic,nc,nc
 2023-11-07T03:33:46.371Z,-0.8851,-79.2441,16.139,5.1,mb,54,113,0.711,0.92,us,us7000l99x,2023-11-07T17:55:00.784Z,"6 km NNW of La Maná, Ecuador",earthquake,2.11,1.81,0.038,219,reviewed,us,us
 2023-11-07T03:18:55.956Z,60.1112,-147.089,18.7,2.3,ml,,,,0.56,ak,ak023eae17ln,2023-11-07T03:20:37.781Z,"51 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T18:55:37.390Z,37.0553322,-121.1291656,-0.18,2.4,md,45,111,0.1349,0.35,nc,nc73956925,2023-11-06T22:27:13.784Z,"25 km W of Los Banos, CA",earthquake,0.65,9.1,0.1,44,automatic,nc,nc
 2023-11-06T18:50:32.505Z,61.9984,-149.9274,30.8,1.4,ml,,,,0.83,ak,ak023e8zm6aa,2023-11-06T18:52:46.637Z,"18 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T18:49:24.720Z,38.7799988,-122.7580032,1.5,1.06,md,11,82,0.01694,0.02,nc,nc73956915,2023-11-06T19:30:13.704Z,"0 km NNW of The Geysers, CA",earthquake,0.31,0.54,0.27,10,automatic,nc,nc
-2023-11-06T18:39:05.000Z,33.6811667,-116.7081667,15.78,0.77,ml,25,89,0.03034,0.13,ci,ci39709362,2023-11-06T21:24:43.218Z,"7 km S of Idyllwild, CA",earthquake,0.28,0.43,0.145,11,reviewed,ci,ci
