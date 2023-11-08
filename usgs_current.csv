@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-08T07:16:56.380Z,37.9906654,-122.0121689,22.46,1.19,md,6,114,0.03631,0.04,nc,nc73957650,2023-11-08T07:18:35.561Z,"3 km N of Concord, CA",earthquake,0.87,1.35,0.22,4,automatic,nc,nc
 2023-11-08T07:00:17.941Z,38.1394,-117.9824,7.5,0.7,ml,8,106,0.06,0.2241,nn,nn00868584,2023-11-08T07:02:54.974Z,"29 km SSE of Mina, Nevada",earthquake,,0.9,0.88,3,automatic,nn,nn
 2023-11-08T06:30:02.400Z,38.8470001,-122.814003,1.26,0.26,md,6,95,0.01057,0.01,nc,nc73957645,2023-11-08T06:54:14.571Z,"8 km WNW of Cobb, CA",earthquake,0.4,1.47,0.13,7,automatic,nc,nc
 2023-11-08T06:17:23.990Z,34.1803322,-118.5216675,5.72,1.61,ml,23,54,0.02287,0.13,ci,ci39710250,2023-11-08T06:24:22.248Z,"3 km SSE of Reseda, CA",earthquake,0.34,0.49,0.229,24,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T04:27:24.540Z,19.1456661224365,-155.47216796875,30.3700008392334,2.30999994,md,44,166,,0.150000006,hv,hv73641297,2023-11-08T04:30:40.800Z,"Hawaii region, Hawaii",earthquake,0.65,0.949999988,0.579999983,27,automatic,hv,hv
 2023-11-08T04:18:27.670Z,33.6396675,-116.7773361,15.4,1.29,ml,23,56,0.04717,0.11,ci,ci39710226,2023-11-08T04:24:45.601Z,"12 km SSW of Idyllwild, CA",earthquake,0.35,0.7,0.507,13,automatic,ci,ci
 2023-11-08T04:13:01.334Z,60.081,-153.0992,113.9,2.6,ml,,,,0.75,ak,ak023ec24swl,2023-11-08T04:15:22.687Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-11-08T03:53:24.420Z,36.7643318,-121.394165,6.33,1.15,md,9,86,0.06641,0.08,nc,nc73957615,2023-11-08T07:07:10.666Z,"6 km SSW of Ridgemark, CA",earthquake,0.47,1.51,0.16,7,automatic,nc,nc
+2023-11-08T03:53:24.420Z,36.7643318,-121.394165,6.33,1.15,md,9,86,0.06641,0.08,nc,nc73957615,2023-11-08T07:08:13.671Z,"6 km SSW of Ridgemark, CA",earthquake,0.47,1.51,0.16,7,automatic,nc,nc
 2023-11-08T03:48:57.151Z,31.609,-104.288,4.2484,2,ml(texnet),17,75,0.1,0.2,tx,tx2023vwna,2023-11-08T04:38:05.967Z,"western Texas",earthquake,0,1.520277296,0.2,12,automatic,tx,tx
 2023-11-08T03:45:57.270Z,38.8323326,-122.81633,1.76,1.3,md,23,53,0.01017,0.02,nc,nc73957610,2023-11-08T06:41:18.632Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.19,23,automatic,nc,nc
 2023-11-08T03:44:27.227Z,-23.3322,-179.571,550.924,4.5,mb,28,103,4.582,0.52,us,us7000l9gv,2023-11-08T04:03:55.040Z,"south of the Fiji Islands",earthquake,14.26,12.428,0.113,23,reviewed,us,us
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T07:31:35.400Z,19.1921672821045,-155.505661010742,32.7700004577637,2.1500001,md,35,153,,0.109999999,hv,hv73640727,2023-11-07T07:34:54.050Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.75999999,1.59000003,14,automatic,hv,hv
 2023-11-07T07:30:45.952Z,-8.3377,160.89,43.558,5.4,mww,58,62,9.601,0.93,us,us7000l9ax,2023-11-07T09:34:09.509Z,"52 km NNE of Auki, Solomon Islands",earthquake,10.41,6.798,0.075,17,reviewed,us,us
 2023-11-07T07:29:09.980Z,17.9253333333333,-66.9696666666667,15.37,2.57,md,12,231,0.07448,0.09,pr,pr71430988,2023-11-07T10:02:25.137Z,"Puerto Rico region",earthquake,0.42,0.39,0.0600833617568179,4,reviewed,pr,pr
-2023-11-07T07:11:18.201Z,38.2065,-117.7713,6.7,1,ml,9,84.14,0.139,0.1562,nn,nn00868538,2023-11-08T02:03:49.209Z,"35 km SE of Mina, Nevada",earthquake,,2.9,0.28,3,reviewed,nn,nn
