@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-09T21:47:56.810Z,33.7173347,-117.3476639,3.22,1.21,ml,22,62,0.04519,0.19,ci,ci39710962,2023-11-09T21:50:01.846Z,"6 km NNW of Lake Elsinore, CA",earthquake,0.46,0.62,0.273,10,automatic,ci,ci
-2023-11-09T21:46:39.340Z,33.8651657,-116.604332,18.22,1.11,ml,29,91,0.07396,0.1,ci,ci39710954,2023-11-09T21:48:44.470Z,"7 km SW of Garnet, CA",earthquake,0.31,0.52,0.169,7,automatic,ci,ci
-2023-11-09T21:39:55.820Z,38.8308334,-122.814003,1.65,0.7,md,11,79,0.008037,0.01,nc,nc73960631,2023-11-09T21:41:31.366Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.96,0.09,11,automatic,nc,nc
+2023-11-09T21:52:24.122Z,62.9904,-150.3542,81.8,2.2,ml,,,,0.38,ak,ak023ee00xd8,2023-11-09T21:54:56.335Z,"58 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-09T21:47:56.810Z,33.7173347,-117.3476639,3.22,1.21,ml,22,62,0.04519,0.19,ci,ci39710962,2023-11-09T21:54:19.514Z,"6 km NNW of Lake Elsinore, CA",earthquake,0.46,0.62,0.273,10,automatic,ci,ci
+2023-11-09T21:46:39.340Z,33.8651657,-116.604332,18.22,1.11,ml,29,91,0.07396,0.1,ci,ci39710954,2023-11-09T21:53:06.506Z,"7 km SW of Garnet, CA",earthquake,0.31,0.52,0.169,7,automatic,ci,ci
+2023-11-09T21:39:55.820Z,38.8308334,-122.814003,1.65,0.7,md,11,79,0.008037,0.01,nc,nc73960631,2023-11-09T21:53:10.902Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.96,0.09,11,automatic,nc,nc
 2023-11-09T21:37:56.490Z,36.5356674,-120.6993332,8.15,2.13,md,11,197,0.1888,0.1,nc,nc73960621,2023-11-09T21:42:10.844Z,"13 km N of New Idria, CA",earthquake,0.78,1.32,0.12,11,automatic,nc,nc
 2023-11-09T21:16:27.380Z,38.795166,-122.7678299,3.26,0.59,md,8,108,0.008364,0.01,nc,nc73960611,2023-11-09T21:29:11.792Z,"2 km NNW of The Geysers, CA",earthquake,0.98,2.21,0.16,7,automatic,nc,nc
 2023-11-09T21:16:03.690Z,33.492,-116.505,9.07,0.39,ml,15,133,0.06884,0.13,ci,ci39710930,2023-11-09T21:49:16.371Z,"17 km ESE of Anza, CA",earthquake,0.3,0.56,0.097,8,reviewed,ci,ci
@@ -221,8 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T22:09:21.280Z,17.9306666666667,-66.2923333333333,9.21,2.45,md,17,196,0.1121,0.23,pr,pr71431078,2023-11-08T22:30:55.290Z,"5 km S of Salinas, Puerto Rico",earthquake,0.58,0.92,0.168027658713301,11,reviewed,pr,pr
 2023-11-08T22:03:11.060Z,38.8476677,-122.81633,0.97,0.21,md,11,62,0.008876,0.04,nc,nc73960201,2023-11-08T22:43:15.865Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.61,0.12,8,automatic,nc,nc
 2023-11-08T22:03:01.860Z,38.8453331,-122.8146667,1.42,1.07,md,19,55,0.01152,0.03,nc,nc73960196,2023-11-08T22:32:13.799Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.42,0.16,20,automatic,nc,nc
-2023-11-08T21:57:46.110Z,38.8303337,-122.8178329,1.9,1.08,md,22,49,0.009205,0.02,nc,nc73960191,2023-11-08T22:20:14.744Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.4,0.2,24,automatic,nc,nc
-2023-11-08T21:56:08.450Z,40.9568329,-121.5709991,3.69,2.1,md,13,79,0.1634,0.16,nc,nc73960186,2023-11-09T01:19:11.783Z,"11 km NE of Burney, CA",earthquake,0.68,11.87,0.18,11,automatic,nc,nc
-2023-11-08T21:55:18.100Z,42.328833333333336,-124.41466666666666,-0.54,1.3,ml,12,203,0.1113,0.33,uw,uw61971371,2023-11-09T21:07:16.800Z,"Oregon",earthquake,2.05,2.74,0.1283421269543622,5,reviewed,uw,uw
-2023-11-08T21:54:28.220Z,17.974,-66.9488333333333,12.09,2.52,md,7,180,0.06623,0.1,pr,pr71431058,2023-11-08T22:06:29.740Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.41,0.74,0.103714981470211,4,reviewed,pr,pr
-2023-11-08T21:51:03.014Z,37.1244,-117.8093,7.1,0.2,ml,3,243.65,0.17,0.1583,nn,nn00868633,2023-11-09T00:25:19.723Z,"42 km E of Big Pine, California",earthquake,,11.9,0,1,reviewed,nn,nn
