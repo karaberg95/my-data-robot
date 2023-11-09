@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-09T13:26:26.920Z,38.8378334,-122.8256683,1.78,1.03,md,19,74,0.007705,0.02,nc,nc73960456,2023-11-09T13:38:10.893Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.45,0.25,21,automatic,nc,nc
+2023-11-09T13:38:11.110Z,38.8246651,-122.8238297,0.89,0.27,md,6,162,0.008885,0.02,nc,nc73960461,2023-11-09T13:39:46.944Z,"8 km NW of The Geysers, CA",earthquake,0.69,0.7,0.12,7,automatic,nc,nc
+2023-11-09T13:26:26.920Z,38.8378334,-122.8256683,1.78,1.03,md,19,74,0.007705,0.02,nc,nc73960456,2023-11-09T13:45:14.931Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.45,0.25,21,automatic,nc,nc
 2023-11-09T13:04:55.161Z,31.636,-103.987,4.1188,1.6,ml(texnet),15,88,0,0.4,tx,tx2023vzax,2023-11-09T13:18:28.041Z,"37 km WSW of Mentone, Texas",earthquake,0,1.234190915,0.2,12,automatic,tx,tx
 2023-11-09T13:04:05.425Z,31.627,-103.994,8.2171,2,ml(texnet),16,46,0,0.6,tx,tx2023vzav,2023-11-09T13:18:23.848Z,"38 km WSW of Mentone, Texas",earthquake,0,2.438334591,0.2,12,automatic,tx,tx
 2023-11-09T12:56:26.458Z,31.59,-104.546,3.4441,1.5,ml(texnet),7,161,0.1,0.1,tx,tx2023vzao,2023-11-09T13:30:57.148Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.404712334,0.1,7,automatic,tx,tx
@@ -15,10 +16,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T12:01:12.150Z,-21.8525,-68.7276,141.668,4.4,mb,24,51,0.972,0.7,us,us7000l9tr,2023-11-09T12:32:24.040Z,"69 km NNE of Calama, Chile",earthquake,6.35,8.422,0.22,7,reviewed,us,us
 2023-11-09T11:53:39.050Z,38.2982,-119.3175,1.5,1.7,ml,10,88.73,0.328,0.2864,nn,nn00868645,2023-11-09T11:56:13.750Z,"8 km WNW of Bridgeport, California",earthquake,,14.1,0.14,7,automatic,nn,nn
 2023-11-09T11:52:21.120Z,31.624,-103.98,6.2215,1.9,ml(texnet),27,51,0,0.1,tx,tx2023vyym,2023-11-09T12:17:15.014Z,"37 km WSW of Mentone, Texas",earthquake,0.3538405212,0.3393308014,0.2,17,reviewed,tx,tx
-2023-11-09T11:44:20.506Z,31.607,-104.513,7.1771,1.5,ml(texnet),17,147,0.1,0.5,tx,tx2023vyyf,2023-11-09T12:12:57.635Z,"64 km SSW of Whites City, New Mexico",earthquake,0,4.329731887,0.1,12,automatic,tx,tx
+2023-11-09T11:44:20.506Z,31.607,-104.513,7.1771,1.5,ml(texnet),17,147,0.1,0.5,tx,tx2023vyyf,2023-11-09T12:12:57.635Z,"western Texas",earthquake,0,4.329731887,0.1,12,automatic,tx,tx
 2023-11-09T11:42:24.620Z,31.597,-104.529,3.7918,2,mlv,17,154,0.1,0.2,tx,tx2023vyyd,2023-11-09T12:12:51.586Z,"65 km SSW of Whites City, New Mexico",earthquake,0,1.681904027,0.2,13,automatic,tx,tx
 2023-11-09T11:29:28.860Z,31.628,-103.993,4.9879,1.6,ml(texnet),9,127,0.1,0.1,tx,tx2023vyxu,2023-11-09T11:54:44.898Z,"38 km WSW of Mentone, Texas",earthquake,0,1.657596545,0.2,6,automatic,tx,tx
-2023-11-09T11:24:30.180Z,38.8323326,-122.817337,2.24,0.76,md,7,112,0.01058,0.01,nc,nc73960416,2023-11-09T11:40:14.255Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.81,0.41,8,automatic,nc,nc
+2023-11-09T11:24:30.180Z,38.8323326,-122.817337,2.24,0.76,md,7,112,0.01058,0.01,nc,nc73960416,2023-11-09T13:45:13.931Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.81,0.41,8,automatic,nc,nc
 2023-11-09T11:21:41.432Z,31.633,-103.995,5.7666,2.4,ml(texnet),16,44,0,0.2,tx,tx2023vyxl,2023-11-09T11:54:38.822Z,"38 km WSW of Mentone, Texas",earthquake,0,2.058710489,0.2,12,automatic,tx,tx
 2023-11-09T10:58:12.410Z,18.0203333333333,-66.8158333333333,18.28,2,md,9,151,0.07531,0.13,pr,pr71431118,2023-11-09T12:00:05.750Z,"Puerto Rico region",earthquake,0.55,0.63,0.206927758627796,5,reviewed,pr,pr
 2023-11-09T10:57:29.442Z,31.594,-104.28,0.6259,1.6,ml(texnet),16,75,0.1,1,tx,tx2023vywq,2023-11-09T11:34:08.303Z,"western Texas",earthquake,0,1.495303511,0.3,13,automatic,tx,tx
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T04:56:54.970Z,17.8538333333333,-66.853,7.52,2.39,md,7,251,0.1231,0.08,pr,pr71431113,2023-11-09T05:05:16.610Z,"14 km SSE of Guánica, Puerto Rico",earthquake,0.6,0.34,0.0314283619921156,6,reviewed,pr,pr
 2023-11-09T04:43:33.500Z,35.7498322,-120.3041687,1.75,1.38,md,18,143,0.04815,0.06,nc,nc73960286,2023-11-09T07:23:11.800Z,"3 km NNW of Cholame, CA",earthquake,0.52,2.53,0.17,7,automatic,nc,nc
 2023-11-09T04:38:50.584Z,59.3643,-152.9681,76.7,2.1,ml,,,,0.13,ak,ak023edptm3m,2023-11-09T04:40:47.928Z,"59 km W of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-09T04:23:24.711Z,61.6654,-149.6195,35.7,1.9,ml,,,,0.68,ak,ak023edpqcd3,2023-11-09T04:25:13.105Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-11-09T04:23:24.711Z,61.6654,-149.6195,35.7,1.9,ml,,,,0.68,ak,ak023edpqcd3,2023-11-09T04:25:13.105Z,"4 km NNW of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-09T04:13:23.126Z,-24.3375,-67.2001,183.697,4.3,mb,33,70,1.645,0.74,us,us7000l9rl,2023-11-09T04:38:00.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,9.67,12.693,0.189,8,reviewed,us,us
 2023-11-09T04:12:30.555Z,31.636,-104.01,6.0159,2.1,ml(texnet),20,58,0,0.2,tx,tx2023vyji,2023-11-09T12:23:30.825Z,"39 km W of Mentone, Texas",earthquake,0.5539182356,0.4543536886,0.2,7,reviewed,tx,tx
 2023-11-09T03:41:33.390Z,31.629,-103.996,5.9821,1.7,ml(texnet),15,82,0,0.2,tx,tx2023vyil,2023-11-09T04:33:24.061Z,"western Texas",earthquake,0,2.100478109,0.2,12,automatic,tx,tx
@@ -146,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T21:16:47.440Z,36.463,-121.0381667,6.84,0.55,md,5,116,0.01773,0.13,nc,nc73960166,2023-11-08T23:05:17.006Z,"12 km SE of Pinnacles, CA",earthquake,0.63,0.78,0.124,6,reviewed,nc,nc
 2023-11-08T21:16:33.630Z,38.8146667,-122.7628326,2.13,1.11,md,15,109,0.01402,0.03,nc,nc73960156,2023-11-09T00:38:13.538Z,"4 km WSW of Cobb, CA",earthquake,0.3,0.54,0.13,17,automatic,nc,nc
 2023-11-08T21:14:37.780Z,38.8320007,-122.8180008,1.51,0.73,md,12,70,0.01059,0.01,nc,nc73960151,2023-11-08T21:33:14.478Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.62,0.13,14,automatic,nc,nc
+2023-11-08T21:13:26.666Z,31.628,-104.011,6.3886,2.2,ml(texnet),15,50,0,0.1,tx,tx2023vxvn,2023-11-09T13:41:25.978Z,"39 km WSW of Mentone, Texas",earthquake,0.6273465089,0.5187623918,0.1,19,reviewed,tx,tx
 2023-11-08T21:05:02.793Z,31.666,-104.021,4.8365,1.8,ml(texnet),15,50,0,0.2,tx,tx2023vxvf,2023-11-08T21:34:43.950Z,"40 km W of Mentone, Texas",earthquake,0,1.244947522,0.2,12,automatic,tx,tx
 2023-11-08T21:03:14.574Z,31.719,-104.279,1.8806,1.5,mlv,7,137,0,1,tx,tx2023vxvd,2023-11-08T21:49:39.782Z,"51 km S of Whites City, New Mexico",earthquake,0,3.845481421,0.7,7,automatic,tx,tx
 2023-11-08T20:57:39.310Z,33.2763333,-116.2613333,7.04,1.97,ml,75,25,0.1019,0.21,ci,ci39710466,2023-11-09T00:41:55.130Z,"11 km ENE of Borrego Springs, CA",earthquake,0.16,0.76,0.161,24,reviewed,ci,ci
