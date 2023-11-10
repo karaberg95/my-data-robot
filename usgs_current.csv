@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T02:57:02.894Z,64.0233,-22.3655,10,4.5,mb,21,101,0.856,1.26,us,us7000l9ri,2023-11-09T04:13:13.040Z,"4 km NNE of Vogar, Iceland",earthquake,7.82,1.926,0.164,11,reviewed,us,us
 2023-11-09T02:56:42.190Z,33.0658333,-115.575,10.06,1.51,ml,21,58,0.0281,0.19,ci,ci39710594,2023-11-09T14:27:12.082Z,"5 km NE of Westmorland, CA",earthquake,0.28,0.46,0.275,14,reviewed,ci,ci
 2023-11-09T02:56:36.530Z,63.9775,-22.2277,11.878,4.3,mb,15,121,0.867,0.98,us,us7000l9rj,2023-11-09T04:39:09.040Z,"7 km E of Vogar, Iceland",earthquake,7.6,3.598,0.154,12,reviewed,us,us
-2023-11-09T02:42:23.460Z,38.8354988,-122.7988358,2.41,0.68,md,8,117,0.007241,0.01,nc,nc73960256,2023-11-09T03:00:11.347Z,"7 km WNW of Cobb, CA",earthquake,0.75,1.33,0.45,11,automatic,nc,nc
