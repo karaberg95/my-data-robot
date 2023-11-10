@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T07:09:41.427Z,62.2108,-151.0427,70.3,1.2,ml,,,,0.7,ak,ak023efez0yk,2023-11-10T07:19:13.089Z,"30 km NE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-10T07:08:26.290Z,38.5456657,-119.5656662,4.68,2.56,md,8,100,0.05391,0.18,nc,nc73960796,2023-11-10T07:16:10.904Z,"8 km WNW of Walker, CA",earthquake,0.9,6.83,0.13,6,automatic,nc,nc
 2023-11-10T07:07:20.757Z,62.0317,-145.2018,15.4,2.1,ml,,,,0.54,ak,ak023efeyjwr,2023-11-10T07:09:05.390Z,"7 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-10T06:57:08.545Z,62.2318,-151.1227,65.4,2.4,ml,,,,0.56,ak,ak023efent56,2023-11-10T06:59:05.755Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
