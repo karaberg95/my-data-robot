@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T05:06:47.390Z,35.9148331,-117.7116699,4.12,1.22,ml,24,118,0.0927,0.15,ci,ci39711994,2023-11-12T05:08:53.279Z,"18 km E of Little Lake, CA",earthquake,0.4,0.75,0.223,3,automatic,ci,ci
 2023-11-12T04:42:57.140Z,38.8001671,-122.8216629,2.27,1.5,md,30,62,0.01049,0.03,nc,nc73961926,2023-11-12T04:54:10.019Z,"6 km WNW of The Geysers, CA",earthquake,0.2,0.32,0.11,32,automatic,nc,nc
+2023-11-12T04:38:13.365Z,31.65,-104.462,4.4087,2.2,ml(texnet),19,92,0,0.2,tx,tx2023wdwr,2023-11-12T05:01:59.969Z,"western Texas",earthquake,0,1.37663393,0.1,13,automatic,tx,tx
 2023-11-12T04:36:50.907Z,63.1473,-150.5803,103.5,1.9,ml,,,,0.27,ak,ak023eiof86a,2023-11-12T04:39:28.679Z,"72 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
