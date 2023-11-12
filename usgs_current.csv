@@ -177,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T19:19:13.760Z,38.8325005,-122.8153305,1.89,1.01,md,13,86,0.009976,0.02,nc,nc73961711,2023-11-11T21:34:11.116Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.56,0.27,15,automatic,nc,nc
 2023-11-11T18:54:26.930Z,38.8030014,-122.807663,1.66,1.04,md,18,57,0.01086,0.02,nc,nc73961696,2023-11-11T19:04:10.345Z,"5 km WNW of The Geysers, CA",earthquake,0.22,0.51,0.26,18,automatic,nc,nc
 2023-11-11T18:48:18.805Z,59.6415,-151.6801,45.5,2.1,ml,,,,0.52,ak,ak023eh9ag9k,2023-11-11T18:50:15.133Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-11T18:39:36.830Z,19.2636661529541,-155.408004760742,29.5400009155273,1.94000006,md,30,148,,0.159999996,hv,hv73644252,2023-11-11T18:42:49.850Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.930000007,1.16999996,8,automatic,hv,hv
-2023-11-11T18:37:51.249Z,38.1221,-118.1728,4.7,1.2,ml,8,141.73,0.167,0.1048,nn,nn00868779,2023-11-11T22:06:31.708Z,"30 km S of Mina, Nevada",earthquake,,2.7,0.06,2,reviewed,nn,nn
