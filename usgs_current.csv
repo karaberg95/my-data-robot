@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T02:20:27.070Z,33.684,-116.7866667,14.43,0.55,ml,32,67,0.06624,0.11,ci,ci39712322,2023-11-13T02:26:44.960Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.29,0.256,11,automatic,ci,ci
 2023-11-13T01:59:32.376Z,59.4281,-152.242,56.7,1.5,ml,,,,0.75,ak,ak023ekab5w5,2023-11-13T02:01:19.228Z,"19 km WNW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-11-13T01:59:19.890Z,40.2211685,-121.1498337,0.95,2.31,md,10,142,0.2356,0.26,nc,nc73962286,2023-11-13T02:05:17.424Z,"2 km NNE of Prattville, CA",earthquake,1.04,17.26,0.11,7,automatic,nc,nc
+2023-11-13T01:54:18.576Z,-0.597,135.7235,35,4.5,mb,22,159,4.169,0.81,us,us7000lak9,2023-11-13T02:18:16.040Z,"69 km NNW of Insrom, Indonesia",earthquake,9.7,1.886,0.128,18,reviewed,us,us
 2023-11-13T01:53:53.814Z,58.2538,-155.0439,12.4,1.1,ml,,,,0.84,ak,ak023eka9x91,2023-11-13T01:56:21.323Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-11-13T01:39:40.900Z,19.3693332672119,-155.301666259766,2.50999999046326,1.71000004,md,13,93,,0.119999997,hv,hv73645902,2023-11-13T01:45:12.800Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.649999976,1.02999997,12,automatic,hv,hv
 2023-11-13T01:23:00.210Z,35.5078333,-118.385,8.42,1.08,ml,29,64,0.1708,0.12,ci,ci39712314,2023-11-13T01:33:25.685Z,"13 km SE of Bodfish, CA",earthquake,0.15,0.6,0.125,12,automatic,ci,ci
@@ -201,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T02:39:11.026Z,-20.6016,-178.367,557.955,4.8,mb,76,57,3.011,0.81,us,us7000laex,2023-11-12T03:04:23.040Z,"Fiji region",earthquake,12.26,6.503,0.036,243,reviewed,us,us
 2023-11-12T02:38:52.620Z,38.8214989,-122.8123322,3.07,0.77,md,19,53,0.002588,0.02,nc,nc73961916,2023-11-12T04:45:10.968Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.61,0.18,18,automatic,nc,nc
 2023-11-12T02:34:11.540Z,51.8745,-177.931666666667,7.54,1.31,ml,4,223,,0.13,av,av92115766,2023-11-12T05:33:05.530Z,"89 km W of Adak, Alaska",earthquake,0.78,1.27,0.292591441026768,4,reviewed,av,av
-2023-11-12T02:31:38.896Z,57.9565,-154.3806,53.8,2.3,ml,,,,0.64,ak,ak023ein79gh,2023-11-12T02:33:38.774Z,"43 km N of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-11-12T02:30:41.940Z,32.8201667,-115.4718333,7.42,1.24,ml,19,66,0.02577,0.17,ci,ci39711938,2023-11-12T02:37:22.558Z,"9 km W of Holtville, CA",earthquake,0.43,0.39,0.303,10,automatic,ci,ci
