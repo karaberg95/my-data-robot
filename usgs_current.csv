@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-13T05:28:17.960Z,38.8138351,-122.8263321,1.83,1.07,md,23,55,0.005435,0.02,nc,nc73962326,2023-11-13T05:29:53.143Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.38,0.17,23,automatic,nc,nc
+2023-11-13T05:28:17.960Z,38.8138351,-122.8263321,1.83,1.07,md,23,55,0.005435,0.02,nc,nc73962326,2023-11-13T05:39:10.324Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.38,0.17,23,automatic,nc,nc
 2023-11-13T05:25:10.920Z,59.3726,-144.1719,62.7,1.9,ml,,,,0.24,ak,ak023ekchkb8,2023-11-13T05:26:56.156Z,"Gulf of Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-11-13T05:24:21.670Z,38.7751656,-122.7440033,2.27,0.81,md,9,126,0.009865,0.02,nc,nc73962321,2023-11-13T05:35:11.295Z,"1 km ESE of The Geysers, CA",earthquake,0.43,1.01,0.2,8,automatic,nc,nc
 2023-11-13T04:56:18.320Z,19.2329998016357,-155.38883972168,30.9200000762939,1.99000001,md,26,161,,0.119999997,hv,hv73646157,2023-11-13T04:59:34.890Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,1.04999995,0.99000001,3,automatic,hv,hv
