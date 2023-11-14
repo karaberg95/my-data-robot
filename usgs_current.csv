@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T10:39:51.650Z,19.2711658477783,-155.428161621094,32.0200004577637,1.99000001,md,33,128,,0.109999999,hv,hv73647442,2023-11-14T10:43:06.310Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.720000029,0.99000001,3,automatic,hv,hv
 2023-11-14T10:29:03.040Z,32.2806667,-115.3451667,-0.05,1.96,ml,28,67,0.1425,0.24,ci,ci39712938,2023-11-14T10:35:34.136Z,"16 km WSW of Delta, B.C., MX",earthquake,0.27,0.86,0.186,17,automatic,ci,ci
 2023-11-14T10:14:52.353Z,61.0453,-148.5112,2.7,1.4,ml,,,,0.83,ak,ak023em2xt5f,2023-11-14T10:16:46.445Z,"31 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-14T10:11:25.930Z,57.6436,-156.0552,90.9,2,ml,,,,0.22,ak,ak023em2x3yp,2023-11-14T10:13:31.260Z,"81 km E of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
