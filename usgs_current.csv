@@ -5,11 +5,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T16:12:22.248Z,37.5576,-116.8655,6.2,1.2,ml,15,225.76,0.406,0.2658,nn,nn00868878,2023-11-14T16:14:39.778Z,"36 km ESE of Goldfield, Nevada",earthquake,,0,1.05,6,automatic,nn,nn
 2023-11-14T15:55:32.620Z,18.2058333333333,-65.9941666666667,132.14,3.05,md,11,120,0.1333,0.44,pr,pr71431388,2023-11-14T16:23:45.820Z,"3 km WNW of San Lorenzo, Puerto Rico",earthquake,5.22,1.52,0.104113476507909,5,reviewed,pr,pr
 2023-11-14T15:52:06.040Z,38.8308334,-122.8164978,1.95,0.85,md,8,130,0.008964,0.01,nc,nc73962851,2023-11-14T16:06:11.971Z,"8 km NW of The Geysers, CA",earthquake,0.47,0.9,0.21,8,automatic,nc,nc
-2023-11-14T15:30:22.490Z,55.5534,-158.869,38,2.7,ml,,,,0.45,ak,ak023em60cbt,2023-11-14T15:32:09.833Z,"43 km SSE of Perryville, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2023-11-14T15:30:22.490Z,55.5534,-158.869,38,2.7,ml,,,,0.45,ak,ak023em60cbt,2023-11-14T16:53:30.040Z,"43 km SSE of Perryville, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-11-14T15:26:08.109Z,60.2565,-141.663,0.1,1.6,ml,,,,0.42,ak,ak023em5zgcq,2023-11-14T15:27:44.179Z,"134 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-14T15:21:29.080Z,38.8380013,-122.8108368,1.98,1.09,md,25,56,0.0146,0.02,nc,nc73962836,2023-11-14T15:32:10.756Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.4,0.16,26,automatic,nc,nc
-2023-11-14T15:18:45.860Z,45.6671666666667,-111.940833333333,2.28,2.63,ml,27,44,0.06478,0.09,mb,mb90032793,2023-11-14T15:52:59.708Z,"3 km WNW of Pony, Montana",earthquake,0.2,0.57,0.21404862537747,36,reviewed,mb,mb
-2023-11-14T15:10:14.760Z,33.2888333,-116.3185,12.39,0.87,ml,44,49,0.05557,0.18,ci,ci39713002,2023-11-14T15:16:38.591Z,"6 km NE of Borrego Springs, CA",earthquake,0.21,0.56,0.173,13,automatic,ci,ci
+2023-11-14T15:18:45.860Z,45.6671666666667,-111.940833333333,2.28,2.63,ml,27,44,0.06478,0.09,mb,mb90032793,2023-11-14T16:54:27.472Z,"3 km WNW of Pony, Montana",earthquake,0.2,0.57,0.21404862537747,36,reviewed,mb,mb
+2023-11-14T15:10:14.850Z,33.2875,-116.3205,12.49,0.87,ml,38,91,0.05528,0.22,ci,ci39713002,2023-11-14T16:58:33.235Z,"6 km NE of Borrego Springs, CA",earthquake,0.31,0.92,0.108,9,reviewed,ci,ci
 2023-11-14T15:08:50.446Z,54.4084,-159.7303,35,3.9,mb,13,224,1.037,0.45,us,us6000lnc6,2023-11-14T16:45:23.040Z,"114 km SSE of Sand Point, Alaska",earthquake,7.24,2.019,0.21,6,reviewed,us,us
 2023-11-14T14:53:18.969Z,60.0062,-140.7273,5.5,1.9,ml,,,,0.46,ak,ak023em5jtx4,2023-11-14T14:55:17.534Z,"75 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-14T14:45:45.250Z,19.1746673583984,-155.492660522461,30.3700008392334,1.98000002,md,32,154,,0.170000002,hv,hv73647572,2023-11-14T14:49:03.050Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.83,1.13999999,1.98000002,4,automatic,hv,hv
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T17:17:43.470Z,46.1975,-122.1865,5.19,0.15,ml,16,58,0.003789,0.11,uw,uw61972071,2023-11-13T19:30:49.870Z,"37 km NNE of Amboy, Washington",earthquake,0.46,0.4,0.0515514403787482,6,reviewed,uw,uw
 2023-11-13T17:13:49.820Z,33.6001667,-118.0313333,13.58,1.94,ml,43,172,0.1118,0.21,ci,ci39712570,2023-11-14T01:15:15.013Z,"10 km WSW of Newport Beach, CA",earthquake,0.39,0.54,0.161,16,reviewed,ci,ci
 2023-11-13T17:11:39.400Z,38.8019981,-122.7724991,1.04,0.9,md,14,76,0.01009,0.02,nc,nc73962466,2023-11-13T17:43:10.522Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.47,0.19,15,automatic,nc,nc
-2023-11-13T16:56:28.623Z,61.6063,-141.539,0,1.2,ml,,,,0.62,ak,ak023ekj80j2,2023-11-13T16:57:57.477Z,"76 km ENE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
