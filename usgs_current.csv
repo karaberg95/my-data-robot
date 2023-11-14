@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-14T18:09:42.860Z,37.8779984,-122.2493362,9.09,2.07,md,5,174,0.000588,0,nc,nc73962886,2023-11-14T18:15:11.798Z,"2 km ENE of Berkeley, CA",earthquake,1.87,2.1,1.11,2,automatic,nc,nc
+2023-11-14T18:09:42.860Z,37.8779984,-122.2493362,9.09,2.07,md,5,174,0.000588,0,nc,nc73962886,2023-11-14T18:31:53.908Z,"2 km ENE of Berkeley, CA",earthquake,1.87,2.1,1.11,2,automatic,nc,nc
 2023-11-14T17:47:27.870Z,38.8330002,-122.7948303,2.08,1.07,md,12,71,0.006438,0.03,nc,nc73962881,2023-11-14T17:57:09.692Z,"6 km W of Cobb, CA",earthquake,0.28,0.49,0.28,11,automatic,nc,nc
 2023-11-14T17:45:12.669Z,31.629,-103.972,4.8289,2,ml(texnet),16,57,0,0.2,tx,tx2023winr,2023-11-14T18:16:01.697Z,"36 km WSW of Mentone, Texas",earthquake,0,1.181062566,0.2,12,automatic,tx,tx
 2023-11-14T17:43:57.690Z,19.1761665344238,-155.479339599609,31.5,1.82000005,md,24,157,,0.159999996,hv,hv73647712,2023-11-14T17:47:12.560Z,"2 km S of Pāhala, Hawaii",earthquake,0.91,1.15999997,0.180000007,5,automatic,hv,hv
@@ -198,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T18:56:33.790Z,35.9718333,-117.4983333,3.13,0.95,ml,18,86,0.2521,0.17,ci,ci39712658,2023-11-14T01:33:04.115Z,"24 km NNW of Searles Valley, CA",earthquake,0.39,1.02,0.104,6,reviewed,ci,ci
 2023-11-13T18:54:22.232Z,3.7904,31.2355,8.407,4.9,mb,71,54,4.391,1.99,us,us7000larp,2023-11-14T17:46:07.843Z,"35 km N of Yumbe, Uganda",earthquake,9.85,4.288,0.068,68,reviewed,us,us
 2023-11-13T18:42:57.676Z,-24.3232,-179.9245,521.248,4.6,mb,51,101,5.235,0.68,us,us7000larm,2023-11-13T19:48:21.040Z,"south of the Fiji Islands",earthquake,13.69,7.048,0.082,44,reviewed,us,us
-2023-11-13T18:35:34.679Z,34.48383333,-97.2015,0,1.27,ml,70,83,0.148470865,0.56,ok,ok2023wgtu,2023-11-14T14:54:47.741Z,"7 km WSW of Davis, Oklahoma",quarry blast,,0.6,0.19,25,reviewed,ok,ok
-2023-11-13T18:34:53.931Z,-6.4428,147.3724,77.465,4.6,mb,50,69,5.269,0.44,us,us7000larj,2023-11-13T20:16:57.040Z,"51 km NE of Lae, Papua New Guinea",earthquake,11.49,7.718,0.087,39,reviewed,us,us
-2023-11-13T18:31:55.370Z,38.8341675,-122.8154984,1.06,0.72,md,12,70,0.01156,0.01,nc,nc73962536,2023-11-13T18:49:09.741Z,"8 km W of Cobb, CA",earthquake,0.23,0.66,0.09,12,automatic,nc,nc
