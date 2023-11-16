@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T09:14:08.200Z,36.8868333,-112.416,20.49,1.84,md,7,178,0.1731,0.13,uu,uu60554242,2023-11-15T14:25:00.730Z,"Arizona",earthquake,1.1,1.33,0.133,4,reviewed,uu,uu
 2023-11-15T09:05:07.304Z,61.5808,-149.847,32.8,1.7,ml,,,,0.22,ak,ak023enptp4a,2023-11-15T11:48:49.820Z,"5 km SSW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-15T09:04:08.059Z,31.684,-104.292,9.2679,1.8,ml(texnet),19,65,0,0.3,tx,tx2023wjry,2023-11-15T14:14:14.188Z,"55 km S of Whites City, New Mexico",earthquake,0.6752217411,0.920349526,0.2,15,reviewed,tx,tx
-2023-11-15T08:53:06.688Z,61.0794,-147.883,14.8,1,ml,,,,0.8,ak,ak023enpiju4,2023-11-15T08:54:38.102Z,"55 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
