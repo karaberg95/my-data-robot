@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-17T19:50:23.402Z,37.3192,-117.9006,1.8,1.1,ml,14,182.96,0.075,0.2495,nn,nn00869029,2023-11-17T19:53:13.848Z,"38 km ENE of Big Pine, California",earthquake,,8,0.21,8,automatic,nn,nn
 2023-11-17T19:38:51.420Z,38.7868347,-122.7563324,2.01,1.11,md,16,75,0.01402,0.02,nc,nc73963946,2023-11-17T19:47:11.656Z,"1 km N of The Geysers, CA",earthquake,0.26,0.59,0.21,16,automatic,nc,nc
 2023-11-17T19:31:12.310Z,38.7815018,-122.7563324,1.3,0.51,md,9,90,0.01304,0.02,nc,nc73963941,2023-11-17T19:42:10.143Z,"0 km N of The Geysers, CA",earthquake,0.4,0.75,0.26,8,automatic,nc,nc
 2023-11-17T19:30:44.980Z,38.8180008,-122.8216629,2.97,0.75,md,10,82,0.01053,0.02,nc,nc73963936,2023-11-17T19:39:10.126Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.12,0.06,11,automatic,nc,nc
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T14:20:26.110Z,38.7541656,-122.7236633,2.85,1.54,md,26,85,0.007475,0.04,nc,nc73963851,2023-11-17T18:00:10.440Z,"4 km SW of Anderson Springs, CA",earthquake,0.28,0.44,0.2,26,automatic,nc,nc
 2023-11-17T14:14:35.240Z,40.7288333,-112.0711667,9.22,0.7,md,8,97,0.08081,0.08,uu,uu60554382,2023-11-17T18:27:50.150Z,"3 km NE of Magna, Utah",earthquake,0.36,1.32,0.12,6,reviewed,uu,uu
 2023-11-17T14:11:54.990Z,35.864,-117.673,8.64,0.59,ml,15,62,0.09292,0.13,ci,ci39714218,2023-11-17T16:00:54.910Z,"22 km ESE of Little Lake, CA",earthquake,0.3,0.66,0.214,5,reviewed,ci,ci
-2023-11-17T14:11:20.660Z,32.4148333,-115.2226667,8.92,2.7,ml,25,55,0.06979,0.38,ci,ci39714210,2023-11-17T14:18:02.269Z,"7 km NNW of Delta, B.C., MX",earthquake,0.47,1.3,0.194,26,automatic,ci,ci
+2023-11-17T14:11:20.380Z,32.3985,-115.1836667,18.73,2.75,ml,22,62,0.08021,0.34,ci,ci39714210,2023-11-17T19:48:38.264Z,"5 km N of Delta, B.C., MX",earthquake,0.61,1.34,0.223,18,reviewed,ci,ci
 2023-11-17T13:52:07.950Z,40.2496667,-121.3911667,8.81,1.81,md,13,187,0.1496,0.12,nc,nc73963836,2023-11-17T19:47:11.324Z,"15 km WSW of Chester, CA",earthquake,0.6,1.39,0.178,16,reviewed,nc,nc
 2023-11-17T13:49:22.135Z,36.6516,-116.2716,6,-0.4,ml,5,199.44,0.054,0.0392,nn,nn00869026,2023-11-17T15:53:44.382Z,"52 km ESE of Beatty, Nevada",earthquake,,3.9,0.2,2,reviewed,nn,nn
 2023-11-17T13:37:26.956Z,61.757,-149.7188,45.3,2,ml,,,,0.44,ak,ak023er3h0yf,2023-11-17T13:39:32.685Z,"15 km NNE of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -175,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T00:36:37.525Z,60.2565,-141.4129,4.3,2,ml,,,,0.84,ak,ak023eqvq76w,2023-11-17T00:38:33.398Z,"123 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-17T00:30:48.730Z,46.19466666666667,-122.19166666666666,3.04,0.51,ml,16,75,0.005145,0.08,uw,uw61972561,2023-11-17T01:39:14.700Z,"37 km NNE of Amboy, Washington",earthquake,0.28,0.37,0.1386431306384316,13,reviewed,uw,uw
 2023-11-17T00:25:50.088Z,60.1951,-152.9954,117.4,2,ml,,,,0.41,ak,ak023eqvnvac,2023-11-17T06:48:23.787Z,"73 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-11-17T00:15:22.980Z,32.929,-116.25,10.19,1.31,ml,60,44,0.05164,0.18,ci,ci39714002,2023-11-17T00:21:43.324Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.39,0.163,24,automatic,ci,ci
+2023-11-17T00:15:22.890Z,32.9288333,-116.2493333,11.09,1.29,ml,48,40,0.05221,0.2,ci,ci39714002,2023-11-17T19:48:04.021Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.45,0.142,22,reviewed,ci,ci
 2023-11-17T00:05:36.141Z,39.7084,-119.9972,3.9,1.5,ml,9,83.97,0.105,0.1641,nn,nn00868986,2023-11-17T00:07:24.989Z,"3 km NNW of Cold Springs, Nevada",earthquake,,5.8,0.14,5,automatic,nn,nn
 2023-11-17T00:02:20.930Z,58.1893333333333,-155.288166666667,2.16,0.39,ml,9,92,,0.1,av,av92120956,2023-11-17T00:37:46.220Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.58,0.335134500246592,9,reviewed,av,av
 2023-11-16T23:59:10.976Z,60.0221,-145.5104,14.6,2.2,ml,,,,0.74,ak,ak023epm0p15,2023-11-17T00:01:56.004Z,"59 km SSE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
