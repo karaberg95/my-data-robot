@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T19:30:44.980Z,38.8180008,-122.8216629,2.97,0.75,md,10,82,0.01053,0.02,nc,nc73963936,2023-11-17T19:39:10.126Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.12,0.06,11,automatic,nc,nc
 2023-11-17T19:29:30.220Z,47.7276666666667,-113.818,1.71,1.01,ml,10,196,0.1883,0.05,mb,mb90033193,2023-11-17T21:10:46.070Z,"18 km E of Finley Point, Montana",earthquake,0.51,0.77,0.297035708620727,4,reviewed,mb,mb
 2023-11-17T19:27:38.170Z,47.735,-113.797833333333,4.5,0.55,ml,8,134,0.193,0.05,mb,mb90033183,2023-11-17T21:03:24.040Z,"19 km E of Finley Point, Montana",earthquake,0.43,6.22,0.137815563265836,2,reviewed,mb,mb
-2023-11-17T19:21:34.090Z,35.0535,-118.3453333,-0.93,1.09,ml,24,37,0.06283,0.22,ci,ci39714330,2023-11-17T22:18:40.362Z,"13 km SE of Tehachapi, CA",quarry blast,0.39,31.61,0.187,11,reviewed,ci,ci
