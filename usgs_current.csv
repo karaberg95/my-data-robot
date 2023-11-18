@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-18T09:28:58.600Z,38.8106651,-122.8235016,-0.44,0.87,md,8,79,0.004784,0.02,nc,nc73964131,2023-11-18T09:37:09.965Z,"7 km WNW of The Geysers, CA",earthquake,0.25,2.19,0.44,10,automatic,nc,nc
+2023-11-18T09:28:58.600Z,38.8106651,-122.8235016,-0.44,0.87,md,8,79,0.004784,0.02,nc,nc73964131,2023-11-18T09:45:18.013Z,"7 km WNW of The Geysers, CA",earthquake,0.25,2.19,0.44,10,automatic,nc,nc
 2023-11-18T09:13:33.806Z,62.0681,-150.3079,52.6,1.2,ml,,,,0.52,ak,ak023esohidg,2023-11-18T09:15:24.394Z,"26 km WSW of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-18T09:03:53.320Z,35.6725,-117.5106667,2.83,1.05,ml,27,58,0.07119,0.13,ci,ci39714642,2023-11-18T09:09:52.077Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.21,0.246,8,automatic,ci,ci
 2023-11-18T08:56:05.730Z,38.7903328,-122.7576675,1.25,2.69,md,63,43,0.0104,0.11,nc,nc73964111,2023-11-18T09:42:17.040Z,"2 km N of The Geysers, CA",earthquake,0.17,0.25,0.17,72,automatic,nc,nc
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T10:17:59.211Z,59.5605,-153.082,101.5,1.9,ml,,,,0.17,ak,ak023er1kib5,2023-11-17T10:20:27.752Z,"62 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-17T10:01:19.220Z,37.3781667,-118.4446667,10.99,1.41,md,25,114,0.09413,0.06,nc,nc73963771,2023-11-17T23:04:10.342Z,"2 km NNE of West Bishop, CA",earthquake,0.4,0.89,0.263,22,reviewed,nc,nc
 2023-11-17T10:00:16.004Z,36.8041,-115.9104,7,-0.1,ml,13,212.8,0.027,0.1759,nn,nn00869022,2023-11-17T15:24:52.646Z,"33 km NW of Indian Springs, Nevada",earthquake,,1.5,0.22,8,reviewed,nn,nn
-2023-11-17T09:51:46.100Z,19.291166305542,-155.385498046875,4.11999988555908,1.80999994,md,22,156,,0.150000006,hv,hv73650432,2023-11-17T09:55:01.660Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,1.61000001,0.180000007,6,automatic,hv,hv
