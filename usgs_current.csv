@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-20T21:37:38.750Z,33.6926651,-116.7193298,17.1,1.18,ml,20,87,0.01895,0.14,ci,ci39715858,2023-11-20T21:39:54.059Z,"5 km S of Idyllwild, CA",earthquake,0.52,0.61,0.219,11,automatic,ci,ci
+2023-11-20T21:37:30.820Z,33.6698333,-116.7356667,13.51,0.81,ml,24,63,0.04495,0.32,ci,ci39715850,2023-11-20T21:43:49.854Z,"8 km S of Idyllwild, CA",earthquake,0.54,1.11,0.093,16,automatic,ci,ci
 2023-11-20T21:27:04.305Z,58.9888,-137.7729,0.1,3.9,ml,,,,0.91,ak,ak023ew6scda,2023-11-20T21:33:50.620Z,"110 km WSW of Covenant Life, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-20T21:06:30.690Z,19.3386669158936,-155.106826782227,2.50999999046326,2.38,ml,46,132,,0.25,hv,hv73654622,2023-11-20T21:12:00.830Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.43,0.709999979,2.9,17,automatic,hv,hv
 2023-11-20T21:03:09.511Z,-30.7779,-71.3877,48.701,5.2,mb,37,141,0.539,0.94,us,us6000lpnu,2023-11-20T21:17:25.040Z,"26 km SW of Ovalle, Chile",earthquake,5.64,7.794,0.065,77,reviewed,us,us
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T20:00:51.640Z,38.8321648,-122.802002,2.08,1.03,md,14,62,0.01079,0.01,nc,nc73965051,2023-11-20T20:10:10.957Z,"7 km W of Cobb, CA",earthquake,0.31,0.6,0.2,16,automatic,nc,nc
 2023-11-20T19:53:26.660Z,38.831665,-122.8089981,1.55,1.02,md,13,63,0.008301,0.01,nc,nc73965046,2023-11-20T20:03:10.905Z,"8 km W of Cobb, CA",earthquake,0.27,0.67,0.2,13,automatic,nc,nc
 2023-11-20T19:50:58.480Z,19.3476657867432,-155.126998901367,0.639999985694885,1.76999998,md,37,121,,0.200000003,hv,hv73654537,2023-11-20T20:00:04.951Z,"13 km S of Fern Forest, Hawaii",earthquake,0.29,0.379999995,0.660000026,19,automatic,hv,hv
-2023-11-20T19:45:12.790Z,19.3415,-155.111833333333,7.34,3.27,ml,29,125,,0.07,hv,hv73654532,2023-11-20T21:21:34.216Z,"13 km S of Fern Forest, Hawaii",earthquake,0.36,0.53,0.179825530331449,44,reviewed,hv,hv
+2023-11-20T19:45:12.790Z,19.3415,-155.111833333333,7.34,3.27,ml,29,125,,0.07,hv,hv73654532,2023-11-20T21:38:39.040Z,"13 km S of Fern Forest, Hawaii",earthquake,0.36,0.53,0.179825530331449,44,reviewed,hv,hv
 2023-11-20T19:44:19.360Z,19.3395004272461,-155.3056640625,1.61000001430511,1.72000003,md,19,61,,0.200000003,hv,hv73654527,2023-11-20T19:58:32.403Z,"13 km SSW of Volcano, Hawaii",earthquake,0.37,0.50999999,0.550000012,11,automatic,hv,hv
 2023-11-20T19:37:16.180Z,36.7433319,-121.3846664,6.26,1.35,md,7,106,0.04713,0.1,nc,nc73965031,2023-11-20T20:41:13.148Z,"8 km SW of Tres Pinos, CA",earthquake,0.58,1.3,0.23,7,automatic,nc,nc
 2023-11-20T19:36:37.090Z,40.2258339,-124.1695023,13.28,2.41,md,15,155,0.02407,0.08,nc,nc73965026,2023-11-20T20:29:17.520Z,"15 km SE of Petrolia, CA",earthquake,0.47,0.75,0.06,12,automatic,nc,nc
@@ -44,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T16:16:55.830Z,62.7205,-150.429,3.5,1.9,ml,,,,0.47,ak,ak023ew3qxfz,2023-11-20T16:18:33.773Z,"30 km NE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-20T16:10:13.860Z,34.0021667,-116.775,11.82,1.13,ml,36,87,0.0427,0.13,ci,ci39715690,2023-11-20T20:36:08.212Z,"10 km N of Cabazon, CA",earthquake,0.16,0.43,0.117,20,reviewed,ci,ci
 2023-11-20T16:09:15.980Z,38.802166,-122.8180008,2.61,0.73,md,8,97,0.01596,0.02,nc,nc73964976,2023-11-20T16:49:10.753Z,"6 km WNW of The Geysers, CA",earthquake,0.71,1.09,0.09,9,automatic,nc,nc
+2023-11-20T16:06:42.540Z,46.19916666666666,-122.19733333333333,7.68,-0.06,md,13,58,0.00454,0.21,uw,uw61973236,2023-11-20T21:37:12.260Z,"37 km NNE of Amboy, Washington",earthquake,0.93,0.67,0.3534671130802052,9,reviewed,uw,uw
 2023-11-20T16:01:10.070Z,44.6425,-111.0671667,11.84,0.25,md,10,106,0.04384,0.15,uu,uu60554712,2023-11-20T16:34:53.140Z,"3 km SE of West Yellowstone, Montana",earthquake,0.59,1.2,0.321,5,reviewed,uu,uu
 2023-11-20T15:56:43.420Z,19.3715,-155.286166666667,2.03,1.94,ml,39,57,,0.1,hv,hv73654252,2023-11-20T20:13:12.250Z,"9 km SW of Volcano, Hawaii",earthquake,0.15,0.19,0.157599271181624,16,reviewed,hv,hv
 2023-11-20T15:54:56.395Z,61.5065,-149.577,13,1.3,ml,,,,0.83,ak,ak023ew3dn3b,2023-11-20T15:56:56.329Z,"1 km ESE of Knik-Fairview, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -176,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T01:53:30.761Z,65.2798,-148.9596,5.9,1.2,ml,,,,0.47,ak,ak023evv1az4,2023-11-20T01:56:26.026Z,"23 km NE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-20T01:53:21.239Z,31.678,-104.421,6.8,1.5,ml(texnet),21,65,0,0.2,tx,tx2023wshg,2023-11-20T19:35:17.084Z,"55 km S of Whites City, New Mexico",earthquake,0.7657179055,0.4898507403,0.2,17,reviewed,tx,tx
 2023-11-20T01:52:27.290Z,38.7804985,-122.7568359,1.09,0.96,md,14,65,0.01199,0.03,nc,nc73964786,2023-11-20T02:11:17.522Z,"0 km N of The Geysers, CA",earthquake,0.24,0.44,0.21,14,automatic,nc,nc
-2023-11-20T01:51:54.800Z,35.7305,-117.6115,10.52,1.15,ml,25,63,0.09102,0.13,ci,ci39715498,2023-11-20T01:57:56.434Z,"14 km NNE of Ridgecrest, CA",earthquake,0.19,0.39,0.123,8,automatic,ci,ci
+2023-11-20T01:51:54.820Z,35.7318333,-117.6103333,10.44,1.16,ml,25,64,0.09264,0.15,ci,ci39715498,2023-11-20T21:37:56.371Z,"14 km NNE of Ridgecrest, CA",earthquake,0.24,0.48,0.123,8,reviewed,ci,ci
 2023-11-20T01:48:18.300Z,41.912,-112.6555,6.37,2.16,ml,20,168,0.1596,0.09,uu,uu60554672,2023-11-20T14:26:24.030Z,"7 km SE of Snowville, Utah",earthquake,0.36,0.72,0.195,6,reviewed,uu,uu
 2023-11-20T01:47:10.163Z,-31.6697,-69.0919,110.681,4.6,mb,30,88,0.369,0.68,us,us6000lpj5,2023-11-20T05:02:31.029Z,"36 km WSW of Villa Basilio Nievas, Argentina",earthquake,6.01,6.443,0.244,5,reviewed,us,us
 2023-11-20T01:42:16.803Z,65.297,-148.9472,2.9,1.2,ml,,,,0.24,ak,ak023evuywz4,2023-11-20T01:44:21.408Z,"24 km NE of Minto, Alaska",earthquake,,5.2,,,automatic,ak,ak
