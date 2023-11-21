@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-21T11:13:46.505Z,61.2436,-147.4659,20,3.1,ml,,,,0.45,ak,ak023exoag0k,2023-11-21T11:24:29.799Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-21T11:13:46.505Z,61.2436,-147.4659,20,3.1,ml,,,,0.45,ak,ak023exoag0k,2023-11-21T11:44:25.040Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-21T11:04:45.941Z,58.0904,-154.4188,37,1.7,ml,,,,0.66,ak,ak023exo8ik2,2023-11-21T11:06:51.886Z,"58 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-21T11:02:24.985Z,61.2766,-146.8517,24.8,1.9,ml,,,,0.24,ak,ak023exo81ia,2023-11-21T11:04:35.625Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-21T10:45:00.018Z,62.9391,-150.8791,87.3,1.4,ml,,,,0.58,ak,ak023exnvois,2023-11-21T10:47:27.236Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T11:57:18.430Z,36.0116653,-120.57267,2.51,0.88,md,8,112,0.02932,0.05,nc,nc73964936,2023-11-20T13:46:11.598Z,"18 km NW of Parkfield, CA",earthquake,0.4,0.82,0.03,3,automatic,nc,nc
 2023-11-20T11:54:33.960Z,39.117,-111.4501667,-0.73,1.48,ml,10,105,0.1389,0.12,uu,uu60554702,2023-11-20T19:34:41.130Z,"22 km E of Mayfield, Utah",earthquake,0.54,31.61,0.116,3,reviewed,uu,uu
 2023-11-20T11:53:06.047Z,61.4178,-152.3449,108.6,1.6,ml,,,,0.25,ak,ak023ew0zl2k,2023-11-20T11:54:50.788Z,"74 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-20T11:50:24.467Z,31.763,-103.831,4.5377,1.8,ml(texnet),20,60,0,0.2,tx,tx2023wtay,2023-11-20T19:49:36.932Z,"22 km WNW of Mentone, Texas",earthquake,0.819199161,0.9475594108,0,6,reviewed,tx,tx
