@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T10:38:36.800Z,19.3465003967285,-155.283996582031,1.66999995708466,2.66,ml,43,65,,0.289999992,hv,hv73657507,2023-11-22T10:44:07.420Z,"11 km SSW of Volcano, Hawaii",earthquake,0.36,0.639999986,2.91,21,automatic,hv,hv
 2023-11-22T09:41:33.940Z,34.0256667,-116.8986667,13.81,1.57,ml,68,38,0.07443,0.17,ci,ci39716530,2023-11-22T09:52:44.510Z,"11 km N of Banning, CA",earthquake,0.14,0.33,0.206,28,automatic,ci,ci
 2023-11-22T09:26:16.356Z,61.1516,-146.8472,6.7,1.8,ml,,,,0.51,ak,ak023ezapnb7,2023-11-22T09:28:36.174Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-22T09:20:23.054Z,61.7213,-148.4215,29,1.4,ml,,,,0.64,ak,ak023ezaodj5,2023-11-22T09:21:47.412Z,"8 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -281,5 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T11:04:45.941Z,58.0904,-154.4188,37,1.7,ml,,,,0.66,ak,ak023exo8ik2,2023-11-21T11:06:51.886Z,"58 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-21T11:02:24.985Z,61.2766,-146.8517,24.8,1.9,ml,,,,0.24,ak,ak023exo81ia,2023-11-21T11:04:35.625Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-21T10:56:55.090Z,34.3,-81.2606666666667,5.38,1.64,md,6,91,0.01817,0.2,se,se60501323,2023-11-21T19:30:37.096Z,"4 km NE of Jenkinsville, South Carolina",earthquake,2.59,0.87,0.0786130366514524,5,reviewed,se,se
-2023-11-21T10:45:00.018Z,62.9391,-150.8791,87.3,1.4,ml,,,,0.58,ak,ak023exnvois,2023-11-21T10:47:27.236Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-21T10:41:48.750Z,36.3484993,-120.920166,1.91,1.96,md,8,119,0.03933,0.15,nc,nc73965256,2023-11-21T14:08:13.630Z,"23 km WSW of New Idria, CA",earthquake,0.57,1.18,0.16,6,automatic,nc,nc
