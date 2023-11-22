@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T11:43:19.670Z,19.3586673736572,-155.288162231445,1.78999996185303,1.70000005,md,17,65,,0.100000001,hv,hv73657622,2023-11-22T11:46:18.710Z,"Hawaii region, Hawaii",earthquake,0.3,0.560000002,0.569999993,9,automatic,hv,hv
 2023-11-22T11:27:33.679Z,62.3858,-149.8601,12.4,1.7,ml,,,,0.31,ak,ak023ezbwrkn,2023-11-22T11:29:10.269Z,"14 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T11:26:30.290Z,19.3843326568604,-155.267837524414,-1.05999994277954,2.01,ml,9,116,,0.140000001,hv,hv73657592,2023-11-22T11:32:02.580Z,"7 km SSW of Volcano, Hawaii",earthquake,0.33,0.649999976,2.29,10,automatic,hv,hv
 2023-11-22T11:26:29.220Z,19.380500793457,-155.273330688477,1.71000003814697,2.01,ml,35,47,,0.270000011,hv,hv73657597,2023-11-22T11:32:08.600Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.280000001,2.28,10,automatic,hv,hv
@@ -289,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T12:26:16.409Z,58.8328,-138.1875,0,3,ml,,,,0.96,ak,ak023exoylmw,2023-11-21T12:37:10.040Z,"118 km SE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-21T12:19:36.850Z,44.2121667,-110.7645,1.76,1.36,md,11,75,0.06547,0.18,uu,uu60554762,2023-11-21T14:22:55.060Z,"45 km ENE of Warm River, Idaho",earthquake,0.79,10.28,0.219,6,reviewed,uu,uu
 2023-11-21T12:05:56.780Z,33.2795,-116.7666667,10.5,0.78,ml,18,142,0.04391,0.12,ci,ci39716026,2023-11-21T16:58:51.816Z,"4 km N of Lake Henshaw, CA",earthquake,0.31,0.45,0.09,10,reviewed,ci,ci
-2023-11-21T11:51:40.270Z,19.3108329772949,-155.353164672852,0.589999973773956,2.44,ml,39,106,,0.280000001,hv,hv73655372,2023-11-21T11:57:10.710Z,"17 km NE of Pāhala, Hawaii",earthquake,0.42,0.50999999,4.38,3,automatic,hv,hv
