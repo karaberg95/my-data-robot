@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T04:31:08.370Z,35.7561684,-121.2473297,5.26,2.02,md,31,177,0.106,0.1,nc,nc73965781,2023-11-22T04:35:10.722Z,"14 km NNW of San Simeon, CA",earthquake,0.4,1.08,0.14,24,automatic,nc,nc
 2023-11-22T04:20:27.530Z,33.7253333,-116.7028333,2.11,0.45,ml,22,57,0.01351,0.26,ci,ci39716482,2023-11-22T04:27:01.484Z,"2 km SE of Idyllwild, CA",earthquake,0.38,1.77,0.151,6,automatic,ci,ci
 2023-11-22T04:18:52.836Z,61.7387,-150.4044,65.3,1.7,ml,,,,0.11,ak,ak023ez7oudf,2023-11-22T04:20:16.163Z,"Southern Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-11-22T04:10:03.307Z,60.3565,-152.6315,94.4,1.6,ml,,,,0.44,ak,ak023ez7n0tm,2023-11-22T04:12:03.002Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-22T04:04:50.000Z,34.0886667,-117.2903333,11.2,1.05,ml,50,59,0.06756,0.16,ci,ci39716474,2023-11-22T04:11:19.877Z,"3 km NE of Colton, CA",earthquake,0.16,0.34,0.15,22,automatic,ci,ci
 2023-11-22T03:48:50.510Z,19.3451671600342,-155.293334960938,0.850000023841858,1.91999996,md,17,66,,0.219999999,hv,hv73656857,2023-11-22T03:51:59.120Z,"12 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.589999974,15,automatic,hv,hv
 2023-11-22T03:45:51.890Z,35.593,-117.6053333,5.61,0.99,ml,21,87,0.06159,0.15,ci,ci39716466,2023-11-22T03:51:53.334Z,"7 km ESE of Ridgecrest, CA",earthquake,0.2,0.78,0.118,8,automatic,ci,ci
+2023-11-22T03:42:15.300Z,31.61,-104.102,3.7686,1.5,mlv,17,72,0,0.5,tx,tx2023wwbw,2023-11-22T04:28:35.833Z,"western Texas",earthquake,0,1.233120679,0.2,13,automatic,tx,tx
 2023-11-22T03:40:34.678Z,61.3133,-151.4564,71.8,1.8,ml,,,,0.46,ak,ak023ez7834b,2023-11-22T03:42:56.701Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-22T03:37:26.030Z,37.6339989,-118.8916702,5.95,0.93,md,8,98,0.01116,0.03,nc,nc73965751,2023-11-22T03:43:10.558Z,"8 km E of Mammoth Lakes, CA",earthquake,0.7,1.26,0.12,8,automatic,nc,nc
-2023-11-22T03:34:16.440Z,37.6274986,-118.8883362,6.23,1.18,md,16,107,0.01817,0.02,nc,nc73965741,2023-11-22T03:43:10.436Z,"8 km E of Mammoth Lakes, CA",earthquake,0.47,0.67,0.16,16,automatic,nc,nc
+2023-11-22T03:34:16.440Z,37.6274986,-118.8883362,6.23,1.18,md,16,107,0.01817,0.02,nc,nc73965741,2023-11-22T04:29:14.688Z,"8 km E of Mammoth Lakes, CA",earthquake,0.47,0.67,0.16,16,automatic,nc,nc
 2023-11-22T03:33:44.600Z,37.6338348,-118.8929977,6.2,0.91,md,9,99,0.01097,0.03,nc,nc73965736,2023-11-22T04:19:12.629Z,"8 km E of Mammoth Lakes, CA",earthquake,0.65,0.99,0.12,9,automatic,nc,nc
 2023-11-22T03:30:39.558Z,62.2799,-147.2536,31.8,2.1,ml,,,,0.91,ak,ak023ez75yc3,2023-11-22T03:32:29.180Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T03:24:45.630Z,19.3801670074463,-155.292007446289,1.57000005245209,1.82000005,md,20,51,,0.330000013,hv,hv73656802,2023-11-22T03:27:40.000Z,"Hawaii region, Hawaii",earthquake,0.38,0.560000002,0.289999992,9,automatic,hv,hv
