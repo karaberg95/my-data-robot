@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T11:14:34.590Z,59.7785,-152.5876,80.2,2.4,ml,,,,0.18,ak,ak023ezbtzc3,2023-11-22T11:15:56.687Z,"42 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-22T11:13:10.230Z,36.1553333,-118.0498333,1.85,1.03,ml,23,76,0.1623,0.15,ci,ci39716546,2023-11-22T11:19:10.298Z,"15 km SSW of Olancha, CA",earthquake,0.25,0.81,0.184,10,automatic,ci,ci
+2023-11-22T11:10:23.870Z,19.3619995117188,-155.287338256836,1.78999996185303,1.75,md,22,68,,0.109999999,hv,hv73657562,2023-11-22T11:13:33.340Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.379999995,0.560000002,12,automatic,hv,hv
 2023-11-22T11:04:02.690Z,19.3371658325195,-155.29817199707,2.70000004768372,1.74,ml,39,65,,0.219999999,hv,hv73657542,2023-11-22T11:09:32.260Z,"13 km SSW of Volcano, Hawaii",earthquake,0.34,0.629999995,2.39,8,automatic,hv,hv
 2023-11-22T11:00:22.560Z,33.182,-116.4146667,12.8,0.83,ml,48,56,0.08599,0.19,ci,ci39716538,2023-11-22T11:06:45.349Z,"9 km SSW of Borrego Springs, CA",earthquake,0.21,0.51,0.166,11,automatic,ci,ci
 2023-11-22T10:53:56.225Z,62.6835,-149.6482,51.5,1.8,ml,,,,0.71,ak,ak023ezbgybq,2023-11-22T10:55:56.303Z,"35 km NE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -284,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T12:05:56.780Z,33.2795,-116.7666667,10.5,0.78,ml,18,142,0.04391,0.12,ci,ci39716026,2023-11-21T16:58:51.816Z,"4 km N of Lake Henshaw, CA",earthquake,0.31,0.45,0.09,10,reviewed,ci,ci
 2023-11-21T11:51:40.270Z,19.3108329772949,-155.353164672852,0.589999973773956,2.44,ml,39,106,,0.280000001,hv,hv73655372,2023-11-21T11:57:10.710Z,"17 km NE of Pāhala, Hawaii",earthquake,0.42,0.50999999,4.38,3,automatic,hv,hv
 2023-11-21T11:29:16.980Z,51.8635,-177.8435,9.34,1.16,ml,4,227,,0.18,av,av92125861,2023-11-22T00:23:54.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.02,1.47,0.259560201348689,4,reviewed,av,av
-2023-11-21T11:13:46.505Z,61.2436,-147.4659,20,3.1,ml,,,,0.45,ak,ak023exoag0k,2023-11-21T11:44:25.040Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
