@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-22T13:39:29.940Z,19.3606662750244,-155.289169311523,0.670000016689301,2.3900001,md,36,114,,0.25,hv,hv73657762,2023-11-22T13:42:40.850Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.389999986,0.519999981,19,automatic,hv,hv
+2023-11-22T13:49:17.984Z,63.365,-150.3442,111.6,1.8,ml,,,,0.28,ak,ak023ezd8bbq,2023-11-22T13:51:33.389Z,"69 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-11-22T13:47:57.120Z,19.3050003051758,-155.379333496094,2.94000005722046,2.28999996,md,42,109,,0.180000007,hv,hv73657772,2023-11-22T13:51:04.930Z,"15 km NE of Pāhala, Hawaii",earthquake,0.34,0.889999986,0.730000019,20,automatic,hv,hv
+2023-11-22T13:42:45.260Z,39.911335,-122.6851654,10.16,2.11,md,8,93,0.01232,0.36,nc,nc73965921,2023-11-22T13:49:14.898Z,"27 km WSW of Rancho Tehama Reserve, CA",earthquake,1.62,1.28,0.19,6,automatic,nc,nc
+2023-11-22T13:39:29.940Z,19.3606662750244,-155.289169311523,0.670000016689301,2.25,ml,36,114,,0.25,hv,hv73657762,2023-11-22T13:45:01.730Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.389999986,1.98,14,automatic,hv,hv
 2023-11-22T13:38:36.340Z,19.3640003204346,-155.289505004883,1.62999999523163,1.95,ml,26,60,,0.150000006,hv,hv73657757,2023-11-22T13:44:08.150Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.379999995,3.8,4,automatic,hv,hv
 2023-11-22T13:33:38.797Z,60.8948,-147.6212,20,1.7,ml,,,,0.71,ak,ak023ezd4xh3,2023-11-22T13:35:35.203Z,"51 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T13:28:07.230Z,33.486,-116.445,9.93,0.74,ml,37,122,0.04064,0.16,ci,ci39716562,2023-11-22T13:34:25.063Z,"22 km ESE of Anza, CA",earthquake,0.22,0.35,0.123,13,automatic,ci,ci
