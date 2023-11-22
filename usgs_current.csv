@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-22T11:43:19.670Z,19.3586673736572,-155.288162231445,1.78999996185303,1.70000005,md,17,65,,0.100000001,hv,hv73657622,2023-11-22T11:46:18.710Z,"Hawaii region, Hawaii",earthquake,0.3,0.560000002,0.569999993,9,automatic,hv,hv
+2023-11-22T11:43:04.925Z,63.5342,-154.6684,0.1,1.9,ml,,,,0.89,ak,ak023ezc04t8,2023-11-22T11:55:08.952Z,"59 km NNW of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-22T11:27:33.679Z,62.3858,-149.8601,12.4,1.7,ml,,,,0.31,ak,ak023ezbwrkn,2023-11-22T11:29:10.269Z,"14 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T11:26:30.290Z,19.3843326568604,-155.267837524414,-1.05999994277954,2.01,ml,9,116,,0.140000001,hv,hv73657592,2023-11-22T11:32:02.580Z,"7 km SSW of Volcano, Hawaii",earthquake,0.33,0.649999976,2.29,10,automatic,hv,hv
 2023-11-22T11:26:29.220Z,19.380500793457,-155.273330688477,1.71000003814697,2.01,ml,35,47,,0.270000011,hv,hv73657597,2023-11-22T11:32:08.600Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.280000001,2.28,10,automatic,hv,hv
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T06:55:19.529Z,60.2144,-151.7677,34.6,1.6,ml,,,,0.76,ak,ak023ez93kgk,2023-11-22T06:57:30.527Z,"19 km NNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-22T06:39:12.705Z,61.6937,-149.9106,33.8,2.3,ml,,,,0.4,ak,ak023ez904iu,2023-11-22T06:40:51.302Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-22T06:37:16.310Z,18.0393333333333,-66.8005,15.28,2.36,md,13,75,0.02104,0.13,pr,pr71431773,2023-11-22T06:51:56.530Z,"Puerto Rico region",earthquake,0.41,1.14,0.21006594663606,7,reviewed,pr,pr
-2023-11-22T06:30:53.450Z,37.4528333,-121.7793333,7.22,0.8,md,19,64,0.01692,0.07,nc,nc71131854,2023-11-22T11:34:11.077Z,"10 km NNE of Alum Rock, CA",earthquake,0.34,0.24,0.114,15,reviewed,nc,nc
+2023-11-22T06:30:53.450Z,37.4528333,-121.7793333,7.22,0.8,md,19,64,0.01692,0.07,nc,nc71131854,2023-11-22T11:59:22.216Z,"10 km NNE of Alum Rock, CA",earthquake,0.34,0.24,0.114,15,reviewed,nc,nc
 2023-11-22T06:01:50.400Z,38.8311653,-122.8148346,1.79,0.73,md,19,50,0.008604,0.01,nc,nc73965806,2023-11-22T06:30:11.369Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.5,0.17,19,automatic,nc,nc
 2023-11-22T05:51:21.310Z,38.8204994,-122.8040009,1.7,1.1,md,26,49,0.005556,0.02,nc,nc73965796,2023-11-22T08:30:10.051Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.33,0.16,26,automatic,nc,nc
 2023-11-22T05:40:58.830Z,38.8219986,-122.8498306,2.65,0.29,md,8,118,0.01162,0.02,nc,nc73965791,2023-11-22T05:57:15.196Z,"10 km WNW of The Geysers, CA",earthquake,0.51,1.12,0.18,8,automatic,nc,nc
