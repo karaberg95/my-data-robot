@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T21:32:02.122Z,61.2302,-147.9078,0.6,1.5,ml,,,,1.26,ak,ak023f2syson,2023-11-24T21:34:42.018Z,"59 km ESE of Knik River, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-24T21:20:30.050Z,40.9558334,-121.5650024,15.78,2.12,md,10,136,0.1603,0.03,nc,nc73966971,2023-11-24T21:27:10.869Z,"12 km NE of Burney, CA",earthquake,0.44,1.16,0.19,6,automatic,nc,nc
 2023-11-24T21:13:44.280Z,19.3905,-155.277333333333,1.36,0.59,md,18,48,,0.09,hv,hv73660492,2023-11-24T21:26:10.170Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.18,0.102979769648741,4,reviewed,hv,hv
+2023-11-24T21:08:59.540Z,19.551,-155.251666666667,27.64,1.48,md,26,183,,0.11,hv,hv73660482,2023-11-24T21:35:08.560Z,"Hawaii region, Hawaii",earthquake,0.87,0.68,0.183862016345157,8,reviewed,hv,hv
 2023-11-24T21:01:18.578Z,18.4435,145.6102,208.505,5,mb,100,31,3.189,0.93,us,us6000lqkm,2023-11-24T21:21:24.690Z,"Pagan region, Northern Mariana Islands",earthquake,9.59,7.164,0.029,372,reviewed,us,us
 2023-11-24T20:59:31.400Z,19.3770008087158,-155.277496337891,1.24000000953674,2,ml,25,48,,0.25,hv,hv73660467,2023-11-24T21:05:01.990Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.239999995,2.46,7,automatic,hv,hv
 2023-11-24T20:50:28.780Z,33.1935,-116.0285,6.65,1.14,ml,38,56,0.04701,0.22,ci,ci39717546,2023-11-24T20:56:36.204Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.21,0.64,0.107,22,automatic,ci,ci
@@ -242,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T21:45:22.180Z,38.7931671,-122.7600021,0.22,1.15,md,10,93,0.02072,0.02,nc,nc73966501,2023-11-23T23:14:14.532Z,"2 km N of The Geysers, CA",earthquake,0.23,0.78,0.28,9,automatic,nc,nc
 2023-11-23T21:45:18.560Z,38.7941666,-122.7584991,0.6,1.68,md,8,202,0.006518,0.01,nc,nc73966496,2023-11-24T02:40:09.855Z,"2 km N of The Geysers, CA",earthquake,0.48,0.66,0.13,9,automatic,nc,nc
 2023-11-23T21:38:12.280Z,38.8231659,-122.8551636,2.53,0.5,md,14,95,0.004572,0.02,nc,nc73966491,2023-11-23T21:51:11.046Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.54,0.26,16,automatic,nc,nc
-2023-11-23T21:30:56.750Z,33.946,-118.298,12.99,2.45,ml,99,42,0.03393,0.27,ci,ci39717138,2023-11-24T17:23:10.309Z,"5 km ESE of Inglewood, CA",earthquake,0.19,0.37,0.214,26,automatic,ci,ci
