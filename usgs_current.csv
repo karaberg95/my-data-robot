@@ -249,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T16:11:05.263Z,37.38,-116.0213,8.6,0.6,ml,13,143.87,0.166,0.1898,nn,nn00869276,2023-11-24T19:41:09.277Z,"38 km SW of Rachel, Nevada",earthquake,,3.9,0.2,9,reviewed,nn,nn
 2023-11-24T16:04:53.471Z,20.0143,145.4378,10,4.7,mb,25,122,4.759,0.63,us,us6000lqif,2023-11-24T16:47:29.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,11.13,1.797,0.075,54,reviewed,us,us
 2023-11-24T16:00:28.140Z,19.2868328094482,-155.386505126953,0.589999973773956,2.02,ml,42,117,,0.219999999,hv,hv73660087,2023-11-24T16:05:58.660Z,"Hawaii region, Hawaii",earthquake,0.36,0.660000026,0.31,8,automatic,hv,hv
-2023-11-24T15:53:05.830Z,38.8366661,-122.810997,1.92,1.11,md,22,56,0.01327,0.02,nc,nc73966836,2023-11-24T18:46:11.654Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.5,0.16,23,automatic,nc,nc
-2023-11-24T15:52:57.210Z,38.8370018,-122.8111649,1.98,1.05,md,22,56,0.01361,0.01,nc,nc73966831,2023-11-24T16:17:20.706Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.47,0.14,15,automatic,nc,nc
-2023-11-24T15:50:09.147Z,61.9677,-149.5108,46.1,1.6,ml,,,,0.42,ak,ak023f2pi2k2,2023-11-24T15:51:35.776Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
