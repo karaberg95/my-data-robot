@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T18:25:34.102Z,56.2638,-149.214,3.4,3.2,ml,,,,0.6,ak,ak023f2r522i,2023-11-25T04:08:05.738Z,"Gulf of Alaska",earthquake,,0,,,reviewed,ak,ak
 2023-11-24T18:22:27.312Z,61.7496,-146.8855,74,1.8,ml,,,,1.2,ak,ak023f2r4eq3,2023-11-24T18:24:25.797Z,"25 km SE of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-24T18:18:33.279Z,61.5808,-146.3459,23.7,1.6,ml,,,,1.12,ak,ak023f2r3kbj,2023-11-24T18:21:02.726Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-24T17:55:47.370Z,58.1731,-155.3339,0,0.8,ml,,,,0.5,ak,ak023f2qq3ap,2023-11-24T17:57:22.286Z,"Alaska Peninsula",earthquake,,20.1,,,automatic,ak,ak
