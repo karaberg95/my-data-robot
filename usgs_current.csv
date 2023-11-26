@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T17:10:06.177Z,61.5255,-152.1632,0,1.9,ml,,,,1.07,ak,ak023f61j1vt,2023-11-26T17:12:10.820Z,"65 km SW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-26T17:05:23.406Z,31.678,-104.179,3.801,1.8,ml(texnet),20,102,0.1,0.3,tx,tx2023xeki,2023-11-26T17:16:41.178Z,"54 km NW of Toyah, Texas",earthquake,0,1.442267432,0.2,16,automatic,tx,tx
 2023-11-26T17:00:37.190Z,38.7939987,-122.8069992,4.64,0.8,md,8,81,0.006443,0.02,nc,nc73967771,2023-11-26T17:13:10.991Z,"5 km WNW of The Geysers, CA",earthquake,0.53,1.35,0.19,9,automatic,nc,nc
-2023-11-26T16:59:36.860Z,38.8226662,-122.8525009,2.42,1.05,md,21,63,0.005949,0.03,nc,nc73967766,2023-11-26T17:10:09.978Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.27,20,automatic,nc,nc
+2023-11-26T16:59:36.860Z,38.8226662,-122.8525009,2.42,1.05,md,21,63,0.005949,0.03,nc,nc73967766,2023-11-26T17:25:15.058Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.27,20,automatic,nc,nc
 2023-11-26T16:58:36.440Z,38.8303337,-122.8148346,1.73,1.41,md,23,47,0.007863,0.02,nc,nc73967761,2023-11-26T17:15:16.004Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.17,24,automatic,nc,nc
 2023-11-26T16:46:17.850Z,38.7486649,-122.7463303,3.56,0.96,md,7,138,0.004291,0.12,nc,nc73967756,2023-11-26T17:04:15.943Z,"3 km SSE of The Geysers, CA",earthquake,1.01,1.22,0.18,7,automatic,nc,nc
 2023-11-26T16:37:44.420Z,38.8216667,-122.8526688,2.6,0.77,md,16,90,0.01385,0.02,nc,nc73967746,2023-11-26T16:54:13.883Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.54,0.17,15,automatic,nc,nc
