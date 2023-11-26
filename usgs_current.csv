@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-26T15:41:07.970Z,38.7801666,-122.765831,0.66,1.07,md,14,81,0.009432,0.03,nc,nc73967721,2023-11-26T15:49:11.505Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.42,0.23,14,automatic,nc,nc
+2023-11-26T16:00:30.750Z,38.8436661,-122.8174973,1.73,1.09,md,16,67,0.01189,0.02,nc,nc73967736,2023-11-26T16:02:06.110Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.46,0.27,17,automatic,nc,nc
+2023-11-26T15:51:29.940Z,38.7668343,-122.7411652,1.85,1.02,md,12,79,0.01378,0.03,nc,nc73967726,2023-11-26T16:00:10.586Z,"2 km SE of The Geysers, CA",earthquake,0.27,0.5,0.13,14,automatic,nc,nc
+2023-11-26T15:41:07.970Z,38.7801666,-122.765831,0.66,1.07,md,14,81,0.009432,0.03,nc,nc73967721,2023-11-26T15:57:15.568Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.42,0.23,14,automatic,nc,nc
 2023-11-26T15:33:22.070Z,19.2859992980957,-155.384506225586,1.44000005722046,1.76,ml,30,160,,0.180000007,hv,hv73663917,2023-11-26T15:38:52.710Z,"13 km NE of Pāhala, Hawaii",earthquake,0.56,0.639999986,3.24,4,automatic,hv,hv
 2023-11-26T15:24:53.677Z,61.9034,-150.7122,67.6,2.5,ml,,,,0.23,ak,ak023f60fad3,2023-11-26T15:26:30.476Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-26T15:19:41.340Z,38.7955017,-122.7486649,2.38,1.03,md,15,93,0.01003,0.02,nc,nc73967711,2023-11-26T15:34:15.409Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.6,0.22,14,automatic,nc,nc
@@ -13,12 +15,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T14:01:18.580Z,38.8419991,-122.8404999,1.82,2,md,33,90,0.005189,0.03,nc,nc73967681,2023-11-26T14:20:13.925Z,"10 km NW of The Geysers, CA",earthquake,0.17,0.26,0.2,37,automatic,nc,nc
 2023-11-26T13:53:52.710Z,38.8423347,-122.8421631,1.74,1.09,md,16,121,0.006417,0.02,nc,nc73967676,2023-11-26T14:20:12.924Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.4,0.15,19,automatic,nc,nc
 2023-11-26T13:53:36.700Z,38.8423347,-122.841835,1.78,1.06,md,20,91,0.00621,0.02,nc,nc73967671,2023-11-26T14:10:13.863Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.39,0.14,21,automatic,nc,nc
-2023-11-26T13:43:00.190Z,37.1505013,-121.5220032,9.4,1.07,md,10,81,0.06318,0.03,nc,nc73967666,2023-11-26T14:00:13.801Z,"11 km NE of San Martin, CA",earthquake,0.35,1.26,0.2,8,automatic,nc,nc
+2023-11-26T13:43:00.190Z,37.1505013,-121.5220032,9.4,1.07,md,10,81,0.06318,0.03,nc,nc73967666,2023-11-26T15:55:10.552Z,"11 km NE of San Martin, CA",earthquake,0.35,1.26,0.2,8,automatic,nc,nc
 2023-11-26T13:33:30.872Z,-21.4607,-68.867,97.544,4.9,mb,55,50,0.712,0.99,us,us6000lqvd,2023-11-26T14:58:23.601Z,"Chile-Bolivia border region",earthquake,4.95,5.516,0.048,134,reviewed,us,us
 2023-11-26T13:16:44.180Z,32.9291667,-116.254,10.05,2.24,ml,87,43,0.04866,0.22,ci,ci39718138,2023-11-26T13:42:21.007Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.4,0.152,25,automatic,ci,ci
 2023-11-26T13:13:31.870Z,32.9305,-116.2538333,9.69,1.32,ml,63,43,0.0481,0.2,ci,ci39718130,2023-11-26T13:24:11.580Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.42,0.072,25,automatic,ci,ci
 2023-11-26T13:05:29.440Z,61.1903,-146.8769,19,1.9,ml,,,,0.47,ak,ak023f5z4aog,2023-11-26T13:07:12.449Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-26T13:04:57.950Z,38.5656662,-122.4396667,4.69,1.56,md,17,98,0.0709,0.11,nc,nc73967661,2023-11-26T15:28:10.370Z,"1 km SE of Angwin, CA",earthquake,0.32,1.25,0.18,14,automatic,nc,nc
+2023-11-26T13:04:57.950Z,38.5656662,-122.4396667,4.69,1.56,md,17,98,0.0709,0.11,nc,nc73967661,2023-11-26T15:57:16.567Z,"1 km SE of Angwin, CA",earthquake,0.32,1.25,0.18,14,automatic,nc,nc
 2023-11-26T12:59:59.810Z,19.394832611084,-155.253005981445,-0.400000005960464,1.94,ml,23,55,,0.270000011,hv,hv73663782,2023-11-26T13:39:25.395Z,"5 km SSW of Volcano, Hawaii",earthquake,0.24,0.270000011,1.92,11,automatic,hv,hv
 2023-11-26T12:58:55.639Z,61.3707,-146.7375,29.1,1.7,ml,,,,0.67,ak,ak023f5yua1n,2023-11-26T13:00:44.955Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-26T12:58:22.560Z,17.9085,-66.8663333333333,13.3,2.98,md,26,205,0.06733,0.17,pr,pr71432283,2023-11-26T13:58:34.040Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.31,0.0678816715978074,13,reviewed,pr,pr
