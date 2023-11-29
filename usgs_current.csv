@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T17:01:55.590Z,36.1028333,-117.8635,7.73,1.56,ml,23,85,0.01629,0.17,ci,ci39718922,2023-11-28T19:01:39.503Z,"10 km NE of Coso Junction, CA",earthquake,0.24,0.42,0.133,7,reviewed,ci,ci
 2023-11-28T16:54:35.600Z,36.6761665,-121.3426666,1.09,1.92,md,23,63,0.03139,0.14,nc,nc73969071,2023-11-28T18:35:11.339Z,"13 km S of Tres Pinos, CA",earthquake,0.31,0.92,0.22,25,automatic,nc,nc
 2023-11-28T16:54:00.110Z,38.8404999,-122.824501,2.1,0.62,md,8,93,0.008789,0,nc,nc73969066,2023-11-28T18:07:15.026Z,"9 km WNW of Cobb, CA",earthquake,0.49,1.27,0.23,9,automatic,nc,nc
-2023-11-28T16:45:19.761Z,36.4324,71.2196,91.424,4.3,mb,68,75,2.592,0.64,us,us7000lec7,2023-11-28T17:23:11.040Z,"Afghanistan-Tajikistan-Pakistan region",earthquake,7.11,3.097,0.079,46,reviewed,us,us
