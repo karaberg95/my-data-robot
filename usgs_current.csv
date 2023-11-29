@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T21:45:05.850Z,38.810833,-122.8021698,0.29,1.49,md,8,113,0.00608,0.02,nc,nc73969641,2023-11-29T21:46:40.637Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.76,0.16,9,automatic,nc,nc
+2023-11-29T21:45:05.850Z,38.810833,-122.8021698,0.29,1.49,md,8,113,0.00608,0.02,nc,nc73969641,2023-11-29T21:55:10.067Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.76,0.16,9,automatic,nc,nc
 2023-11-29T21:43:50.580Z,36.8843,-116.2117,4.1,0.5,ml,12,155.73,0.037,0.2668,nn,nn00869467,2023-11-29T21:45:45.947Z,"48 km E of Beatty, Nevada",earthquake,,1.1,0.15,9,automatic,nn,nn
 2023-11-29T21:34:09.908Z,62.3527,-149.8079,7.4,1.7,ml,,,,0.78,ak,ak023fb2nz9a,2023-11-29T21:36:50.673Z,"15 km ENE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:41:16.981Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T22:19:09.450Z,38.831501,-122.819664,1.83,0.76,md,11,96,0.01103,0.01,nc,nc73969221,2023-11-28T22:29:11.681Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.84,0.13,12,automatic,nc,nc
 2023-11-28T22:15:08.570Z,62.7173,-150.628,73.3,1.5,ml,,,,0.73,ak,ak023f9flznt,2023-11-28T22:17:03.983Z,"25 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T22:07:34.010Z,33.62,-116.6745,13.99,1.03,ml,27,64,0.04878,0.1,ci,ci39719210,2023-11-28T22:14:16.240Z,"7 km N of Anza, CA",earthquake,0.29,0.77,0.181,27,automatic,ci,ci
-2023-11-28T21:56:00.530Z,33.2711667,-116.7808333,12.23,0.91,ml,35,41,0.03967,0.15,ci,ci39719194,2023-11-28T22:02:06.265Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.17,0.5,0.121,22,automatic,ci,ci
