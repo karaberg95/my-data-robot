@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T05:16:04.140Z,38.6198349,-122.8043365,8.81,1.79,md,38,46,0.08927,0.09,nc,nc73969371,2023-11-29T06:38:13.736Z,"6 km E of Healdsburg, CA",earthquake,0.25,0.66,0.15,29,automatic,nc,nc
 2023-11-29T05:14:34.520Z,34.1151667,-117.9811667,11.11,1.46,ml,52,35,0.06077,0.19,ci,ci39719418,2023-11-29T05:25:25.950Z,"3 km S of Duarte, CA",earthquake,0.18,0.36,0.2,33,automatic,ci,ci
 2023-11-29T05:05:11.530Z,38.8428345,-122.8796692,2.53,0.45,md,7,98,0.005471,0.02,nc,nc73969361,2023-11-29T06:11:17.563Z,"13 km ENE of Cloverdale, CA",earthquake,0.55,0.74,0.3,8,automatic,nc,nc
-2023-11-29T04:48:03.130Z,52.104,-176.214833333333,12.68,0.82,ml,6,295,,0.32,av,av91122828,2023-11-30T00:48:46.920Z,"38 km NE of Adak, Alaska",earthquake,2.94,1.55,0.220701443030972,6,reviewed,av,av
