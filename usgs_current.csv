@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-30T09:16:16.120Z,33.5568352,-118.2823334,0.09,1.57,ml,13,116,0.1557,0.18,ci,ci39720178,2023-11-30T09:18:33.057Z,"20 km S of San Pedro, CA",earthquake,0.74,1.33,0.145,10,automatic,ci,ci
-2023-11-30T09:06:54.610Z,35.3078346,-120.4373322,5.72,1.49,md,14,88,0.01978,0.05,nc,nc73969856,2023-11-30T09:15:11.607Z,"18 km ESE of Santa Margarita, CA",earthquake,0.26,0.43,0.14,11,automatic,nc,nc
+2023-11-30T09:16:16.340Z,33.564,-118.3038333,-0.2,1.71,ml,29,103,0.1485,0.29,ci,ci39720178,2023-11-30T09:22:55.184Z,"19 km S of San Pedro, CA",earthquake,0.42,0.77,0.135,28,automatic,ci,ci
+2023-11-30T09:06:54.610Z,35.3078346,-120.4373322,5.72,1.49,md,14,88,0.01978,0.05,nc,nc73969856,2023-11-30T09:24:12.669Z,"18 km ESE of Santa Margarita, CA",earthquake,0.26,0.43,0.14,11,automatic,nc,nc
 2023-11-30T08:40:14.700Z,19.2858333587646,-155.383499145508,2.39000010490417,2.26,ml,42,129,,0.25,hv,hv73667497,2023-11-30T08:45:45.670Z,"Island of Hawaii, Hawaii",earthquake,0.42,1.10000002,2.21,11,automatic,hv,hv
 2023-11-30T08:36:53.228Z,62.6068,-151.2852,90.1,1.9,ml,,,,0.39,ak,ak023fcih7nu,2023-11-30T08:38:49.953Z,"29 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-30T08:33:38.300Z,35.0278333,-119.1031667,1.28,1.52,ml,46,35,0.03457,0.26,ci,ci39720162,2023-11-30T08:44:33.130Z,"18 km WNW of Grapevine, CA",earthquake,0.27,1.28,0.148,30,automatic,ci,ci
