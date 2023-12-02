@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T18:37:13.150Z,61.6252,-148.2346,27.5,1.8,ml,,,,0.58,ak,ak023ffzidbn,2023-12-02T18:39:05.094Z,"22 km SSE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-02T18:35:35.830Z,19.1905002593994,-155.512496948242,35.2000007629395,1.78999996,md,31,138,,0.109999999,hv,hv73670537,2023-12-02T18:38:41.410Z,"Hawaii region, Hawaii",earthquake,0.74,1.11000001,1.80999994,4,automatic,hv,hv
+2023-12-02T18:34:06.380Z,34.0526657,-118.2526703,8.67,1.35,ml,15,157,0.131,0.25,ci,ci39721706,2023-12-02T18:40:16.838Z,"1 km WSW of Los Angeles, CA",earthquake,0.81,3.46,0.228,9,automatic,ci,ci
 2023-12-02T18:32:13.198Z,36.4849,-116.5968,2.2,0.9,ml,26,118.05,0.108,0.2874,nn,nn00869594,2023-12-02T18:34:30.443Z,"California-Nevada border region",earthquake,,1.4,0.29,18,automatic,nn,nn
 2023-12-02T18:29:06.690Z,33.2411667,-116.1083333,9.32,0.94,ml,49,52,0.0988,0.18,ci,ci39721698,2023-12-02T18:35:13.026Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.16,0.6,0.13,15,automatic,ci,ci
 2023-12-02T18:27:26.220Z,33.932,-116.3106667,2.44,1.04,ml,38,62,0.08201,0.18,ci,ci39721690,2023-12-02T18:33:39.095Z,"14 km NNE of Thousand Palms, CA",earthquake,0.18,0.33,0.139,24,automatic,ci,ci
 2023-12-02T18:24:52.350Z,33.9325,-116.3098333,1.96,0.9,ml,28,62,0.08265,0.14,ci,ci39721674,2023-12-02T18:31:08.660Z,"14 km NNE of Thousand Palms, CA",earthquake,0.15,0.29,0.104,22,automatic,ci,ci
-2023-12-02T18:20:41.634Z,8.6178,126.709,62.422,5.4,mb,53,96,1.902,0.91,us,us7000lfkr,2023-12-02T18:36:16.040Z,"49 km ENE of Hinatuan, Philippines",earthquake,5.18,8.11,0.044,177,reviewed,us,us
+2023-12-02T18:20:41.634Z,8.6178,126.709,62.422,5.4,mb,53,96,1.902,0.91,us,us7000lfkr,2023-12-02T18:40:17.171Z,"49 km ENE of Hinatuan, Philippines",earthquake,5.18,8.11,0.044,177,reviewed,us,us
 2023-12-02T18:09:26.869Z,8.4439,126.9194,54.935,6.2,mww,173,25,1.905,0.64,us,us7000lfkh,2023-12-02T18:36:36.358Z,"62 km ENE of Barcelona, Philippines",earthquake,8.42,4.603,0.093,11,reviewed,us,us
 2023-12-02T18:03:33.420Z,32.7396667,-115.8755,3.84,1.56,ml,34,47,0.09999,0.21,ci,ci39721658,2023-12-02T18:14:28.240Z,"11 km E of Ocotillo, CA",earthquake,0.21,1.09,0.141,30,automatic,ci,ci
 2023-12-02T18:01:23.310Z,8.4711,126.9229,42.51,5.2,mb,112,34,1.927,0.71,us,us7000lfkd,2023-12-02T18:30:54.377Z,"Mindanao, Philippines",earthquake,8.81,6.784,0.041,193,reviewed,us,us
@@ -59,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T14:56:55.884Z,59.5123,-153.3123,98.5,2.3,ml,,,,0.36,ak,ak023ffx8st0,2023-12-02T14:59:14.736Z,"54 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-02T14:48:40.700Z,38.7931671,-122.7623367,3.79,0.78,md,13,75,0.007724,0.02,nc,nc73970776,2023-12-02T15:35:18.970Z,"2 km NNW of The Geysers, CA",earthquake,0.34,1.07,0.12,15,automatic,nc,nc
 2023-12-02T14:46:49.820Z,63.4002,-147.1509,72.5,1.6,ml,,,,0.61,ak,ak023ffx6n6s,2023-12-02T14:48:56.060Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-02T14:37:03.945Z,8.5266,126.4487,32.763,7.6,mww,79,79,1.685,1.03,us,us7000lff4,2023-12-02T18:38:06.190Z,"Mindanao, Philippines",earthquake,8.77,4.168,0.033,86,reviewed,us,us
+2023-12-02T14:37:03.945Z,8.5266,126.4487,32.763,7.6,mww,79,79,1.685,1.03,us,us7000lff4,2023-12-02T18:43:20.418Z,"Mindanao, Philippines",earthquake,8.77,4.168,0.033,86,reviewed,us,us
 2023-12-02T14:35:38.180Z,19.3819999694824,-155.279495239258,0.779999971389771,1.92,ml,26,74,,0.189999998,hv,hv73669987,2023-12-02T14:41:08.270Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.25999999,0.22,8,automatic,hv,hv
 2023-12-02T14:28:35.450Z,32.6878333,-115.985,8.75,1.38,ml,35,42,0.0662,0.21,ci,ci39721586,2023-12-02T16:42:21.208Z,"5 km S of Ocotillo, CA",earthquake,0.25,0.47,0.196,17,reviewed,ci,ci
 2023-12-02T14:26:35.670Z,19.3843326568604,-155.278671264648,1.75999999046326,2.42,ml,32,67,,0.200000003,hv,hv73669967,2023-12-02T14:32:05.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.289999992,0.27,12,automatic,hv,hv
@@ -182,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T03:45:19.800Z,62.9701,-150.4863,100.2,1.9,ml,,,,0.27,ak,ak023ffqmlho,2023-12-02T03:46:53.267Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T03:36:23.570Z,32.7318333,-115.8795,3.99,1.55,ml,32,46,0.09149,0.21,ci,ci39721330,2023-12-02T03:42:44.836Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.8,0.137,18,automatic,ci,ci
 2023-12-02T03:35:57.310Z,32.7425,-115.8738333,1.33,1.12,ml,18,48,0.1031,0.15,ci,ci39721322,2023-12-02T03:41:58.835Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.42,0.248,9,automatic,ci,ci
-2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T18:12:40.582Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
+2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T18:45:40.357Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
 2023-12-02T03:29:14.451Z,32.7425,-100.5327,9.338,3,mb_lg,21,90,0.759,0.59,us,us7000lfa8,2023-12-02T13:22:53.097Z,"western Texas",earthquake,1.87,7.797,0.058,78,reviewed,us,us
 2023-12-02T03:21:33.685Z,63.1761,-150.5978,130.5,1.9,ml,,,,0.2,ak,ak023ffqhhdk,2023-12-02T03:23:30.833Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-02T03:15:09.320Z,38.8001671,-122.7393341,1.01,1.1,md,8,106,0.01593,0.02,nc,nc73970636,2023-12-02T06:35:13.837Z,"3 km SSW of Cobb, CA",earthquake,0.34,0.69,0.13,8,automatic,nc,nc
@@ -272,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T19:04:45.245Z,63.0147,-148.6211,70.3,1.8,ml,,,,1.04,ak,ak023fecdga4,2023-12-01T19:06:56.886Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-01T18:57:09.507Z,31.644,-104.597,2.2868,1.9,ml,17,192,0.1,0.3,tx,tx2023xnrn,2023-12-01T19:38:48.028Z,"western Texas",earthquake,0,2.531884761,0.2,13,automatic,tx,tx
 2023-12-01T18:50:05.383Z,-2.778,129.4716,8.999,4.7,mww,138,42,1.786,0.8,us,us7000lf7b,2023-12-01T22:05:31.040Z,"80 km NE of Masohi, Indonesia",earthquake,6.86,3.873,0.089,12,reviewed,us,us
-2023-12-01T18:45:46.940Z,33.2721667,-116.779,12.39,0.56,ml,24,82,0.03988,0.13,ci,ci39721018,2023-12-01T22:59:31.330Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.22,0.47,0.212,7,reviewed,ci,ci
