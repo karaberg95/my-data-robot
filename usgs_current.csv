@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T14:24:18.920Z,38.836834,-122.8356705,1.68,0.98,md,24,58,0.001758,0.02,nc,nc73971206,2023-12-03T14:25:52.138Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.36,0.21,24,automatic,nc,nc
 2023-12-03T14:08:34.700Z,38.8376656,-122.8365021,1.53,0.4,md,7,115,0.001216,0.01,nc,nc73971196,2023-12-03T14:19:10.059Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.08,0.26,9,automatic,nc,nc
-2023-12-03T14:08:21.550Z,38.8320007,-122.8195038,1.52,0.93,md,9,81,0.01132,0.02,nc,nc73971191,2023-12-03T14:09:57.653Z,"8 km NW of The Geysers, CA",earthquake,0.41,0.81,0.23,11,automatic,nc,nc
+2023-12-03T14:08:21.550Z,38.8320007,-122.8195038,1.52,0.93,md,9,81,0.01132,0.02,nc,nc73971191,2023-12-03T14:23:11.087Z,"8 km NW of The Geysers, CA",earthquake,0.41,0.81,0.23,11,automatic,nc,nc
 2023-12-03T14:07:45.210Z,38.8354988,-122.8333359,1.89,2.24,md,46,48,0.003513,0.04,nc,nc73971186,2023-12-03T14:20:12.210Z,"9 km NW of The Geysers, CA",earthquake,0.14,0.22,0.2,46,automatic,nc,nc
 2023-12-03T14:03:31.900Z,38.8364983,-122.8358307,1.66,0.77,md,17,88,0.002105,0.01,nc,nc73971181,2023-12-03T14:20:12.064Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.45,0.28,18,automatic,nc,nc
+2023-12-03T13:54:55.960Z,19.4731,-66.2395,32,3.89,md,18,238,1.1745,0.48,pr,pr2023337000,2023-12-03T14:26:01.984Z,"111 km N of Brenas, Puerto Rico",earthquake,2.74,28.95,0.12,17,reviewed,pr,pr
 2023-12-03T13:38:06.140Z,38.8046684,-122.8085022,1.54,1.33,md,12,55,0.01083,0.03,nc,nc73971176,2023-12-03T14:08:12.005Z,"5 km NW of The Geysers, CA",earthquake,0.29,0.8,0.15,12,automatic,nc,nc
 2023-12-03T13:37:59.583Z,31.648,-104.46,6.5006,1.6,ml,15,93,0,0.3,tx,tx2023xqya,2023-12-03T14:18:11.836Z,"western Texas",earthquake,0,3.53228974,0.1,13,automatic,tx,tx
 2023-12-03T13:26:22.250Z,38.7916679,-122.769165,1.64,1.06,md,12,82,0.0116,0.01,nc,nc73971166,2023-12-03T13:45:11.880Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.48,0.22,15,automatic,nc,nc
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T12:39:06.987Z,8.3449,126.7401,53.657,4.4,mb,52,74,1.712,0.37,us,us7000lfw2,2023-12-03T13:20:03.040Z,"Mindanao, Philippines",earthquake,9.28,7.224,0.086,39,reviewed,us,us
 2023-12-03T12:37:12.084Z,8.6493,126.9959,37.7,4.3,mb,39,97,2.106,0.63,us,us7000lfw0,2023-12-03T13:11:24.040Z,"Mindanao, Philippines",earthquake,10.2,7.538,0.103,27,reviewed,us,us
 2023-12-03T12:28:34.133Z,8.4943,126.9573,49.52,4.8,mb,60,90,1.967,0.85,us,us7000lfvr,2023-12-03T12:43:50.040Z,"68 km ENE of Barcelona, Philippines",earthquake,8.88,3.974,0.068,67,reviewed,us,us
-2023-12-03T12:24:03.810Z,38.7916679,-122.7278366,0.66,0.56,md,8,127,0.01091,0.03,nc,nc73971151,2023-12-03T12:56:11.591Z,"3 km ENE of The Geysers, CA",earthquake,0.3,0.76,0.24,8,automatic,nc,nc
+2023-12-03T12:24:03.810Z,38.7916679,-122.7278366,0.66,0.56,md,8,127,0.01091,0.03,nc,nc73971151,2023-12-03T14:26:11.104Z,"3 km ENE of The Geysers, CA",earthquake,0.3,0.76,0.24,8,automatic,nc,nc
 2023-12-03T12:17:00.220Z,38.7911682,-122.7278366,0.78,0.86,md,8,124,0.01053,0.02,nc,nc73971146,2023-12-03T14:08:12.129Z,"3 km ENE of The Geysers, CA",earthquake,0.31,0.84,0.21,7,automatic,nc,nc
 2023-12-03T12:14:32.700Z,38.8134995,-122.8228302,2.8,0.56,md,7,89,0.006781,0.01,nc,nc73971141,2023-12-03T13:42:12.864Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.74,0.28,9,automatic,nc,nc
 2023-12-03T12:13:46.569Z,8.562,126.8711,54.475,4.6,mb,39,119,1.959,0.35,us,us7000lfvq,2023-12-03T12:33:18.040Z,"62 km ENE of Hinatuan, Philippines",earthquake,10.34,7.65,0.098,31,reviewed,us,us
@@ -172,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T23:24:25.606Z,8.4162,126.755,65.157,4.6,mb,20,140,1.774,0.58,us,us7000lfp5,2023-12-02T23:43:46.040Z,"Mindanao, Philippines",earthquake,7.75,9.554,0.137,16,reviewed,us,us
 2023-12-02T23:19:52.706Z,8.2772,126.7127,51.626,4.6,mb,38,131,1.644,0.49,us,us7000lfp4,2023-12-02T23:48:55.040Z,"Mindanao, Philippines",earthquake,12.6,8.616,0.099,30,reviewed,us,us
 2023-12-02T23:16:46.194Z,59.8907,-151.9188,75.8,1.8,ml,,,,0.24,ak,ak023fg2d3uz,2023-12-02T23:18:16.763Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-12-02T23:13:53.780Z,35.3898333333333,-90.7526666666667,4.03,1.88,md,10,287,0.08145,0.14,nm,nm60561601,2023-12-03T14:23:51.490Z,"Arkansas",earthquake,1.71,0.88,0.135670972691853,9,reviewed,nm,nm
 2023-12-02T22:51:54.476Z,63.2161,-150.557,125.1,1.9,ml,,,,0.21,ak,ak023fg1z6yf,2023-12-03T03:51:50.059Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-02T22:45:21.071Z,8.4974,126.8487,68.682,5,mb,65,93,1.896,0.61,us,us7000lfnx,2023-12-02T23:30:30.662Z,"58 km ENE of Hinatuan, Philippines",earthquake,9.35,6.932,0.054,107,reviewed,us,us
 2023-12-02T22:37:25.699Z,36.463,71.1933,111.531,4.1,mb,19,196,2.796,0.54,us,us7000lfnw,2023-12-02T23:12:16.040Z,"Hindu Kush region, Afghanistan",earthquake,11.14,20.108,0.212,6,reviewed,us,us
@@ -277,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T14:46:49.820Z,63.4002,-147.1509,72.5,1.6,ml,,,,0.61,ak,ak023ffx6n6s,2023-12-02T14:48:56.060Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-02T14:37:03.945Z,8.5266,126.4487,32.763,7.6,mww,79,79,1.685,1.03,us,us7000lff4,2023-12-03T13:46:17.170Z,"Mindanao, Philippines",earthquake,8.77,4.168,0.033,86,reviewed,us,us
 2023-12-02T14:35:38.180Z,19.3819999694824,-155.279495239258,0.779999971389771,1.92,ml,26,74,,0.189999998,hv,hv73669987,2023-12-02T14:41:08.270Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.25999999,0.22,8,automatic,hv,hv
-2023-12-02T14:28:35.450Z,32.6878333,-115.985,8.75,1.38,ml,35,42,0.0662,0.21,ci,ci39721586,2023-12-02T16:42:21.208Z,"5 km S of Ocotillo, CA",earthquake,0.25,0.47,0.196,17,reviewed,ci,ci
-2023-12-02T14:26:35.670Z,19.3843326568604,-155.278671264648,1.75999999046326,2.42,ml,32,67,,0.200000003,hv,hv73669967,2023-12-02T14:32:05.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.289999992,0.27,12,automatic,hv,hv
