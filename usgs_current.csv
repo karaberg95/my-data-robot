@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T08:50:00.200Z,38.8151665,-122.819664,2.47,1.03,md,7,76,0.009737,0.01,nc,nc73971111,2023-12-03T08:51:36.978Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.5,0.14,8,automatic,nc,nc
 2023-12-03T08:23:27.070Z,38.7886658,-122.7411652,5.39,0.76,md,8,175,0.006436,0.07,nc,nc73971096,2023-12-03T08:44:12.200Z,"2 km NE of The Geysers, CA",earthquake,1.12,2.56,0.2,8,automatic,nc,nc
 2023-12-03T08:02:56.700Z,19.4138336181641,-155.274169921875,8.6899995803833,1.98000002,md,16,69,,0.200000003,hv,hv73671687,2023-12-03T08:06:00.940Z,"5 km SW of Volcano, Hawaii",earthquake,0.99,0.649999976,0.239999995,6,automatic,hv,hv
 2023-12-03T07:58:30.110Z,36.9944992,-121.4641647,5.49,1.72,md,32,101,0.03486,0.13,nc,nc73971091,2023-12-03T08:32:13.129Z,"9 km E of Gilroy, CA",earthquake,0.32,0.76,0.2,24,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T06:53:35.790Z,36.9976654,-121.4609985,5.89,1.64,md,28,103,0.03346,0.11,nc,nc73971066,2023-12-03T07:10:10.655Z,"10 km E of Gilroy, CA",earthquake,0.31,0.67,0.25,22,automatic,nc,nc
 2023-12-03T06:53:33.909Z,39.9225,-111.886,17.124,2.5,ml,23,42,0.149,0.46,us,us7000lfs7,2023-12-03T07:53:36.036Z,"3 km SSE of Goshen, Utah",earthquake,2.14,5.643,0.037,98,reviewed,us,us
 2023-12-03T06:39:33.666Z,31.668,-104.193,3.5768,2.4,ml,18,70,0.1,0.3,tx,tx2023xqkf,2023-12-03T07:03:48.235Z,"54 km NW of Toyah, Texas",earthquake,0,1.276431583,0.2,14,automatic,tx,tx
-2023-12-03T06:39:21.160Z,38.793499,-122.7648315,2.77,1.29,md,21,77,0.01804,0.03,nc,nc73971061,2023-12-03T06:57:12.559Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.62,0.21,21,automatic,nc,nc
+2023-12-03T06:39:21.160Z,38.793499,-122.7648315,2.77,1.29,md,21,77,0.01804,0.03,nc,nc73971061,2023-12-03T08:54:12.267Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.62,0.21,21,automatic,nc,nc
 2023-12-03T06:37:32.451Z,59.9571,-152.982,108.7,2.4,ml,,,,0.91,ak,ak023fhfwk1p,2023-12-03T06:40:25.420Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:36:58.385Z,60.1609,-141.5288,13.5,1.5,ml,,,,0.53,ak,ak023fhfweby,2023-12-03T06:38:36.017Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:32:33.970Z,33.3383333,-116.4103333,10.83,1.06,ml,71,20,0.03797,0.18,ci,ci39721978,2023-12-03T06:43:33.120Z,"10 km NNW of Borrego Springs, CA",earthquake,0.15,0.28,0.143,27,automatic,ci,ci
