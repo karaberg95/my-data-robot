@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-05T03:05:34.950Z,39.3396683,-123.1928329,6.92,2.44,md,27,56,0.06061,0.11,nc,nc73971946,2023-12-05T03:08:57.950Z,"8 km N of Redwood Valley, CA",earthquake,0.28,0.86,0.14,24,automatic,nc,nc
-2023-12-05T03:05:01.790Z,38.8325005,-122.8174973,1.67,1.03,md,18,55,0.01078,0.01,nc,nc73971941,2023-12-05T03:06:36.825Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.59,0.22,18,automatic,nc,nc
+2023-12-05T03:18:15.450Z,32.498333,-116.7425003,1.83,1.48,ml,19,212,0.1113,0.25,ci,ci40616024,2023-12-05T03:20:33.680Z,"13 km SW of Tecate, B.C., MX",earthquake,1.82,0.81,0.061,4,automatic,ci,ci
+2023-12-05T03:17:42.680Z,19.1634998321533,-155.490173339844,32.9900016784668,1.92999995,md,34,116,,0.119999997,hv,hv73673282,2023-12-05T03:21:05.000Z,"Hawaii region, Hawaii",earthquake,0.73,0.99000001,0.959999979,8,automatic,hv,hv
+2023-12-05T03:17:13.110Z,36.1150017,-117.8803329,4.98,1.03,ml,9,139,0.02079,0.12,ci,ci40616016,2023-12-05T03:19:27.724Z,"10 km NE of Coso Junction, CA",earthquake,0.99,0.95,0.114,3,automatic,ci,ci
+2023-12-05T03:05:34.950Z,39.3396683,-123.1928329,6.92,2.44,md,27,56,0.06061,0.11,nc,nc73971946,2023-12-05T03:16:10.253Z,"8 km N of Redwood Valley, CA",earthquake,0.28,0.86,0.14,24,automatic,nc,nc
+2023-12-05T03:05:01.790Z,38.8325005,-122.8174973,1.67,1.03,md,18,55,0.01078,0.01,nc,nc73971941,2023-12-05T03:16:10.374Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.59,0.22,18,automatic,nc,nc
 2023-12-05T02:50:14.100Z,33.0125,-116.4318333,5.2,1.17,ml,53,48,0.06484,0.19,ci,ci40616000,2023-12-05T03:01:02.650Z,"18 km ESE of Julian, CA",earthquake,0.17,0.67,0.174,26,automatic,ci,ci
-2023-12-05T02:44:57.990Z,38.7791672,-122.7628326,0.25,0.97,md,9,92,0.008736,0.02,nc,nc73971931,2023-12-05T02:54:10.133Z,"1 km WNW of The Geysers, CA",earthquake,0.31,0.76,0.26,9,automatic,nc,nc
+2023-12-05T02:44:57.990Z,38.7791672,-122.7628326,0.25,0.97,md,9,92,0.008736,0.02,nc,nc73971931,2023-12-05T03:09:18.219Z,"1 km WNW of The Geysers, CA",earthquake,0.31,0.76,0.26,9,automatic,nc,nc
 2023-12-05T02:44:22.325Z,8.4811,127.1615,49.74,4.7,mb,35,143,2.104,0.7,us,us7000lgat,2023-12-05T02:58:29.040Z,"87 km ENE of Barcelona, Philippines",earthquake,9.94,6.414,0.098,32,reviewed,us,us
 2023-12-05T02:35:32.310Z,19.9156665802002,-155.679672241211,3.58999991416931,2.17,ml,25,137,,0.389999986,hv,hv73673267,2023-12-05T02:54:59.004Z,"11 km ESE of Waikoloa, Hawaii",earthquake,1.04,1.11000001,5.21,3,automatic,hv,hv
 2023-12-05T02:28:05.912Z,62.5598,-149.1795,53.7,1.8,ml,,,,0.58,ak,ak023fkojj4f,2023-12-05T02:30:09.149Z,"49 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -220,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T05:06:40.870Z,37.068,-118.523,11.82,1.65,md,33,44,0.2347,0.06,nc,nc73971551,2023-12-04T23:48:16.063Z,"23 km WSW of Big Pine, CA",earthquake,0.34,1.41,0.285,29,reviewed,nc,nc
 2023-12-04T05:05:53.420Z,58.1913,-155.0823,46.9,0.7,ml,,,,0.77,ak,ak023fj2nnn2,2023-12-04T05:07:26.506Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2023-12-04T05:05:06.290Z,37.0773333,-118.4953333,18.03,2.33,md,40,49,0.2134,0.06,nc,nc73971546,2023-12-05T00:05:17.161Z,"21 km WSW of Big Pine, CA",earthquake,0.31,0.9,0.243,47,reviewed,nc,nc
-2023-12-04T04:59:02.588Z,8.858,126.65,64.399,5.4,mww,87,85,2.069,0.44,us,us7000lg1m,2023-12-05T03:08:17.379Z,"Mindanao, Philippines",earthquake,9.08,5.573,0.098,10,reviewed,us,us
+2023-12-04T04:59:02.588Z,8.858,126.65,64.399,5.4,mww,87,85,2.069,0.44,us,us7000lg1m,2023-12-05T03:09:48.343Z,"Mindanao, Philippines",earthquake,9.08,5.573,0.098,10,reviewed,us,us
 2023-12-04T04:43:48.915Z,8.395,126.8967,62.398,5.1,mb,86,74,1.854,0.55,us,us7000lg1k,2023-12-05T02:47:22.243Z,"Mindanao, Philippines",earthquake,8.98,6.216,0.04,205,reviewed,us,us
 2023-12-04T04:32:15.700Z,37.0465,-121.4853333,4.88,2.43,md,84,32,0.02107,0.14,nc,nc73971541,2023-12-05T03:00:10.170Z,"9 km ENE of Gilroy, CA",earthquake,0.15,0.29,0.14,119,reviewed,nc,nc
 2023-12-04T04:30:12.840Z,37.6888333,-113.1605,4.26,1.22,ml,9,82,0.06151,0.23,uu,uu60555782,2023-12-04T20:43:43.060Z,"Utah",earthquake,0.84,3.08,0.078,4,reviewed,uu,uu
