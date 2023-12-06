@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-06T22:51:21.530Z,35.9441681,-117.2898331,0.7,1.67,ml,11,110,0.05337,0.11,ci,ci40617000,2023-12-06T22:53:40.081Z,"22 km NNE of Trona, CA",earthquake,0.78,1.19,0.22,3,automatic,ci,ci
+2023-12-06T23:07:21.540Z,19.2954998016357,-155.386993408203,2.1800000667572,2.03999996,md,21,158,,0.159999996,hv,hv73674907,2023-12-06T23:10:14.000Z,"14 km NE of Pāhala, Hawaii",earthquake,0.47,0.670000017,0.970000029,17,automatic,hv,hv
+2023-12-06T23:01:16.040Z,38.8375015,-122.824501,1.72,1.01,md,17,84,0.008648,0.01,nc,nc73972586,2023-12-06T23:02:53.105Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.49,0.28,20,automatic,nc,nc
+2023-12-06T22:51:21.740Z,35.9326667,-117.304,-0.65,1.33,ml,20,84,0.2842,0.26,ci,ci40617000,2023-12-06T22:57:42.101Z,"20 km NNE of Trona, CA",earthquake,0.39,1.57,0.121,8,automatic,ci,ci
+2023-12-06T22:40:12.646Z,8.6879,127.2772,10,4.5,mb,43,130,2.327,0.43,us,us7000lgs0,2023-12-06T22:59:20.040Z,"Philippine Islands region",earthquake,5.74,1.871,0.086,40,reviewed,us,us
 2023-12-06T22:17:53.662Z,63.1786,-150.9589,142.3,1.8,ml,,,,0.22,ak,ak023fmnxaiu,2023-12-06T22:19:51.052Z,"Central Alaska",earthquake,,3,,,automatic,ak,ak
 2023-12-06T22:03:32.407Z,39.6894,-120.5907,13.8,2,ml,12,145.6,0.086,0.1297,nn,nn00869759,2023-12-06T22:42:54.994Z,"4 km SW of Whitehawk, California",earthquake,,1.3,0.34,6,reviewed,nn,nn
 2023-12-06T21:43:09.905Z,-24.3203,-67.335,182.492,4.2,mb,17,114,1.567,0.78,us,us7000lgrr,2023-12-06T22:42:31.040Z,"103 km W of San Antonio de los Cobres, Argentina",earthquake,10.99,11.814,0.305,3,reviewed,us,us
@@ -113,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T05:53:08.310Z,39.3868,-119.1266,5.4,0.6,ml,6,155.01,0.381,0.1034,nn,nn00869742,2023-12-06T18:37:07.749Z,"Nevada",earthquake,,4.8,0,1,reviewed,nn,nn
 2023-12-06T05:34:34.780Z,35.095,-97.432,6.73,0.81,ml,7,279,0.07648499104,0.11,ok,ok2023xvuo,2023-12-06T15:49:30.273Z,"5 km SW of Noble, Oklahoma",earthquake,,0.8,0.06,4,reviewed,ok,ok
 2023-12-06T04:54:58.410Z,35.5943333,-117.4093333,8.82,1.56,ml,29,54,0.04379,0.13,ci,ci40616800,2023-12-06T15:45:50.881Z,"19 km S of Trona, CA",earthquake,0.17,0.29,0.119,16,reviewed,ci,ci
-2023-12-06T04:53:42.830Z,34.0283333,-117.1566667,13.38,1,ml,48,70,0.09181,0.15,ci,ci40616792,2023-12-06T05:00:12.186Z,"4 km SE of Redlands, CA",earthquake,0.15,0.46,0.182,18,automatic,ci,ci
+2023-12-06T04:53:42.830Z,34.0273333,-117.1565,13.87,0.99,ml,38,80,0.09258,0.18,ci,ci40616792,2023-12-06T23:03:22.132Z,"4 km SE of Redlands, CA",earthquake,0.21,0.61,0.167,15,reviewed,ci,ci
 2023-12-06T04:48:31.365Z,31.581,-104.032,8.1882,2.6,ml,27,66,0,0.1,tx,tx2023xvtb,2023-12-06T15:46:49.135Z,"37 km NW of Toyah, Texas",earthquake,0.6198544285,0.5102200392,0.2,17,reviewed,tx,tx
 2023-12-06T04:42:37.810Z,38.7886658,-122.7505035,3.63,0.77,md,12,108,0.01206,0.02,nc,nc73972411,2023-12-06T07:10:13.346Z,"1 km NNE of The Geysers, CA",earthquake,0.38,0.98,0.31,13,automatic,nc,nc
 2023-12-06T04:38:26.570Z,32.7386667,-115.8805,1.68,1.77,ml,47,35,0.09748,0.23,ci,ci40616784,2023-12-06T04:47:01.183Z,"11 km E of Ocotillo, CA",earthquake,0.2,0.39,0.188,26,automatic,ci,ci
@@ -186,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T23:26:14.840Z,35.3448333,-118.5255,5.28,1.35,ml,36,70,0.1009,0.15,ci,ci40616584,2023-12-06T15:49:43.590Z,"25 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,19,reviewed,ci,ci
 2023-12-05T23:25:45.830Z,32.7275,-115.428,15.74,2.59,ml,33,70,0.0792,0.3,ci,ci40616576,2023-12-06T17:27:50.938Z,"8 km NE of Calexico, CA",earthquake,0.45,0.66,0.147,37,reviewed,ci,ci
 2023-12-05T23:25:41.330Z,32.7393333,-115.4211667,15.09,1.54,ml,17,106,0.1228,0.21,ci,ci40616568,2023-12-05T23:32:13.475Z,"9 km SSW of Holtville, CA",earthquake,0.88,1.18,0.193,2,automatic,ci,ci
-2023-12-05T22:59:45.689Z,60.3739,-152.6239,89.7,1.9,ml,,,,0.15,ak,ak023fl0mxhk,2023-12-05T23:01:11.352Z,"64 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-12-05T22:57:12.160Z,37.4678333,-121.2595,1.78,1.53,md,18,93,0.08451,0.11,nc,nc73972291,2023-12-06T07:35:17.485Z,"10 km SSW of Westley, CA",earthquake,0.24,0.99,0.263,20,reviewed,nc,nc
