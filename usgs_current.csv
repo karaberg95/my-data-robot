@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:01:16.773Z,31.666,-104.206,4.6768,1.5,ml,19,63,0.1,0.3,tx,tx2023xvpn,2023-12-06T03:45:47.650Z,"western Texas",earthquake,0,1.173683551,0.1,15,automatic,tx,tx
 2023-12-06T02:53:19.132Z,31.673,-104.204,4.9104,1.7,ml,19,66,0.1,0.4,tx,tx2023xvpi,2023-12-06T03:08:52.511Z,"western Texas",earthquake,0,1.177574134,0.1,15,automatic,tx,tx
 2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T09:16:09.587Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
-2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T09:24:13.097Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
+2023-12-06T02:32:58.460Z,37.4406667,-118.993,18.77,1.73,md,26,141,0.1711,0.05,nc,nc73972376,2023-12-06T09:42:11.335Z,"22 km S of Mammoth Lakes, CA",earthquake,0.43,1.32,0.221,23,reviewed,nc,nc
 2023-12-06T02:22:01.960Z,33.394,-116.446,12.16,1.08,ml,56,30,0.09411,0.18,ci,ci40616720,2023-12-06T02:28:17.478Z,"17 km NNW of Borrego Springs, CA",earthquake,0.18,0.44,0.153,28,automatic,ci,ci
 2023-12-06T02:16:41.570Z,38.8255005,-122.8054962,2.52,0.78,md,18,53,0.004148,0.01,nc,nc73972366,2023-12-06T02:44:12.801Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.53,0.16,17,automatic,nc,nc
 2023-12-06T02:15:33.780Z,38.8083344,-122.8191681,2.61,0.8,md,18,62,0.007839,0.02,nc,nc73972361,2023-12-06T02:32:12.739Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.65,0.25,19,automatic,nc,nc
@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T09:56:36.070Z,35.10916667,-97.5605,6.85,0.86,ml,34,50,0.04859046489,0.41,ok,ok2023xuhs,2023-12-05T20:17:39.959Z,"1 km NE of Cole, Oklahoma",earthquake,,0.9,0.15,17,reviewed,ok,ok
 2023-12-05T09:56:11.923Z,59.6979,-152.8526,89.7,2.6,ml,,,,0.71,ak,ak023fksvkvc,2023-12-05T09:58:30.267Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-05T09:52:38.665Z,9.1558,126.7482,56.752,4.9,mb,82,115,2.374,0.59,us,us7000lgdp,2023-12-05T10:12:55.040Z,"Mindanao, Philippines",earthquake,9.62,7.022,0.066,72,reviewed,us,us
-2023-12-05T09:42:54.918Z,9.1263,126.7094,45.905,5.4,mww,94,88,2.33,0.72,us,us7000lgdg,2023-12-05T21:49:25.040Z,"50 km ENE of Bacolod, Philippines",earthquake,8.85,6.251,0.078,16,reviewed,us,us
