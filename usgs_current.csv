@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T08:56:55.214Z,60.2416,-152.5746,77.8,2.1,ml,,,,0.44,ak,ak023fksa8lt,2023-12-05T08:58:24.811Z,"54 km WNW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-12-05T08:51:53.989Z,63.8772,-146.3715,16.3,1.6,ml,,,,0.43,ak,ak023fks95xi,2023-12-05T08:53:40.068Z,"36 km WSW of Delta Junction, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-05T08:48:00.320Z,35.1065,-97.51833333,5.18,0.82,ml,16,89,0.03329346669,0.22,ok,ok2023xufl,2023-12-05T20:08:11.537Z,"4 km E of Cole, Oklahoma",earthquake,,0.8,0.18,13,reviewed,ok,ok
-2023-12-05T08:39:21.420Z,37.5495,-118.8613333,6.49,0.98,md,23,99,0.04788,0.04,nc,nc73972046,2023-12-06T06:53:17.241Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.37,0.48,0.163,20,reviewed,nc,nc
