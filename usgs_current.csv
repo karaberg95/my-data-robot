@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-07T18:50:58.680Z,33.3571663,-116.8686676,15.26,1.07,ml,26,66,0.00616,0.22,ci,ci40617304,2023-12-07T18:53:04.448Z,"0 km WNW of Palomar Observatory, CA",earthquake,0.44,1.16,0.202,8,automatic,ci,ci
+2023-12-07T18:50:34.831Z,63.3416,-150.4126,8.2,1.7,ml,,,,1.38,ak,ak023fo99xsg,2023-12-07T18:53:00.783Z,"69 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T18:33:42.545Z,61.2159,-147.21,0,1.8,ml,,,,0.82,ak,ak023fo96b72,2023-12-07T18:35:26.727Z,"47 km W of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-07T18:25:03.956Z,61.4313,-147.461,20.4,1.9,ml,,,,0.62,ak,ak023fo94ihn,2023-12-07T18:26:52.955Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-07T18:08:53.002Z,31.616,-104.156,5.6929,1.6,ml,16,64,0,0.3,tx,tx2023xyoz,2023-12-07T18:35:17.035Z,"47 km NW of Toyah, Texas",earthquake,0,3.175826745,0.2,11,automatic,tx,tx
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T16:36:32.810Z,46.2191666666667,-110.934833333333,4.82,0.64,ml,5,207,0.2027,0.02,mb,mb90035458,2023-12-07T16:45:26.890Z,"29 km NNW of Sedan, Montana",earthquake,1.03,4.69,0.113549814118652,3,reviewed,mb,mb
 2023-12-07T16:34:52.256Z,63.3238,-151.7765,0,2.5,ml,,,,0.68,ak,ak023fo7zofm,2023-12-07T16:36:42.765Z,"24 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T16:30:22.150Z,32.7681667,-115.829,5.14,1.62,ml,23,59,0.118,0.21,ci,ci40617232,2023-12-07T16:38:03.388Z,"16 km ENE of Ocotillo, CA",earthquake,0.25,0.79,0.172,30,automatic,ci,ci
-2023-12-07T16:29:03.220Z,38.8474998,-122.81633,1.73,1.07,md,14,57,0.009009,0.02,nc,nc73972851,2023-12-07T16:54:14.650Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.5,0.17,16,automatic,nc,nc
+2023-12-07T16:29:03.220Z,38.8474998,-122.81633,1.73,1.07,md,14,57,0.009009,0.02,nc,nc73972851,2023-12-07T18:54:10.340Z,"9 km WNW of Cobb, CA",earthquake,0.27,0.5,0.17,16,automatic,nc,nc
 2023-12-07T16:24:08.080Z,19.3834991455078,-155.278503417969,1.16999995708466,1.77,ml,15,83,,0.109999999,hv,hv73675937,2023-12-07T16:29:38.420Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.219999999,0.16,5,automatic,hv,hv
 2023-12-07T16:23:44.580Z,19.3846664428711,-155.281829833984,0.689999997615814,1.77,ml,12,79,,0.0900000036,hv,hv73675932,2023-12-07T16:29:15.680Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,0.16,5,automatic,hv,hv
 2023-12-07T16:22:28.650Z,33.1705,-116.818,15.96,0.68,ml,28,50,0.08204,0.17,ci,ci40617224,2023-12-07T16:29:14.257Z,"9 km SSW of Lake Henshaw, CA",earthquake,0.25,0.63,0.061,9,automatic,ci,ci
@@ -228,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T19:36:35.818Z,36.7543,-115.9449,12.6,0.2,ml,13,186.87,0.042,0.1175,nn,nn00869775,2023-12-07T00:46:52.194Z,"Nevada",earthquake,,1,0.04,5,reviewed,nn,nn
 2023-12-06T19:14:45.259Z,8.6173,126.9084,56.409,4.9,mb,106,38,2.025,0.63,us,us7000lgqn,2023-12-06T19:39:09.040Z,"Mindanao, Philippines",earthquake,8.22,3.895,0.054,109,reviewed,us,us
 2023-12-06T19:11:39.375Z,8.952,126.841,47.851,4.8,mb,102,55,2.249,0.62,us,us7000lgqm,2023-12-06T19:31:29.040Z,"Mindanao, Philippines",earthquake,9.12,6.826,0.055,110,reviewed,us,us
-2023-12-06T18:50:56.697Z,64.919,-147.4024,5.4,1.5,ml,,,,0.79,ak,ak023fmlqmx1,2023-12-06T19:00:09.902Z,"11 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
