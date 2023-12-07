@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-07T10:13:20.260Z,37.5068321,-121.8238297,4.38,1.36,md,18,56,0.03771,0.06,nc,nc73972751,2023-12-07T10:24:11.801Z,"11 km NE of Milpitas, CA",earthquake,0.25,0.45,0.07,8,automatic,nc,nc
+2023-12-07T10:30:28.800Z,38.8165016,-122.7941666,2.12,0.77,md,12,52,0.008567,0.01,nc,nc73972756,2023-12-07T10:32:05.258Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.73,0.18,13,automatic,nc,nc
+2023-12-07T10:27:29.537Z,60.0979,-152.885,114.6,1.8,ml,,,,0.24,ak,ak023fo4dj21,2023-12-07T10:29:24.142Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-12-07T10:13:20.260Z,37.5068321,-121.8238297,4.38,1.36,md,18,56,0.03771,0.06,nc,nc73972751,2023-12-07T10:30:11.841Z,"11 km NE of Milpitas, CA",earthquake,0.25,0.45,0.07,8,automatic,nc,nc
 2023-12-07T09:36:42.525Z,59.8819,-153.2085,130.7,2.4,ml,,,,1.04,ak,ak023fo3u1wc,2023-12-07T09:40:27.609Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T09:34:25.799Z,64.0389,-151.6322,0,1.8,ml,,,,0.77,ak,ak023fo3tl6b,2023-12-07T09:36:32.716Z,"37 km ENE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-07T09:25:34.710Z,32.7373333,-115.8808333,4.91,1.98,ml,53,34,0.09614,0.24,ci,ci40617104,2023-12-07T09:36:29.920Z,"10 km E of Ocotillo, CA",earthquake,0.21,0.61,0.205,26,automatic,ci,ci
