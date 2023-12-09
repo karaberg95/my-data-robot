@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T12:20:25.350Z,19.2901668548584,-155.384994506836,1.53999996185303,1.92999995,md,27,164,,0.170000002,hv,hv73679652,2023-12-09T12:23:34.400Z,"13 km NE of Pāhala, Hawaii",earthquake,0.37,0.50999999,0.439999998,5,automatic,hv,hv
 2023-12-09T12:17:43.830Z,33.143,-115.9775,7.22,1.12,ml,35,54,0.03041,0.18,ci,ci40617976,2023-12-09T12:23:45.212Z,"14 km E of Ocotillo Wells, CA",earthquake,0.18,0.4,0.212,11,automatic,ci,ci
 2023-12-09T12:07:41.371Z,31.523,-104.163,3.9257,1.5,ml,19,74,0.1,0.3,tx,tx2023ybub,2023-12-09T12:29:58.608Z,"42 km WNW of Toyah, Texas",earthquake,0,1.401873029,0.2,13,automatic,tx,tx
-2023-12-09T12:04:25.230Z,37.3878326,-121.6624985,8.24,1.5,md,21,84,0.04877,0.07,nc,nc73973716,2023-12-09T14:09:12.436Z,"15 km E of Alum Rock, CA",earthquake,0.26,0.67,0.15,14,automatic,nc,nc
+2023-12-09T12:04:25.170Z,37.3873333,-121.6595,8.74,1.54,md,44,64,0.04756,0.07,nc,nc73973716,2023-12-09T19:25:09.461Z,"15 km E of Alum Rock, CA",earthquake,0.14,0.29,0.248,41,reviewed,nc,nc
 2023-12-09T11:50:35.190Z,33.9201667,-117.7686667,16.06,1.11,ml,35,55,0.02976,0.17,ci,ci40617968,2023-12-09T11:57:01.320Z,"5 km NE of Yorba Linda, CA",earthquake,0.29,0.37,0.209,15,automatic,ci,ci
 2023-12-09T11:37:20.102Z,56.5854,-34.1813,10,4.7,mb,46,70,16.152,0.36,us,us7000lhqm,2023-12-09T12:18:57.040Z,"Reykjanes Ridge",earthquake,6.03,1.891,0.084,44,reviewed,us,us
 2023-12-09T11:13:29.004Z,31.682,-104.452,9.3074,1.5,ml,6,125,0,0.2,tx,tx2023ybsg,2023-12-09T11:23:56.090Z,"55 km S of Whites City, New Mexico",earthquake,0,4.344370626,0.3,5,automatic,tx,tx
@@ -139,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:55:11.830Z,36.5625,-121.1606667,6.04,1.54,md,34,125,0.02193,0.06,nc,nc73973531,2023-12-09T17:19:11.569Z,"4 km NNW of Pinnacles, CA",earthquake,0.18,0.24,0.191,32,reviewed,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.270Z,36.5366667,-121.127,3.66,1.1,md,22,104,0.01501,0.11,nc,nc73973526,2023-12-09T17:30:12.629Z,"2 km ENE of Pinnacles, CA",earthquake,0.24,0.4,0.136,18,reviewed,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T19:11:06.227Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T19:22:11.835Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -223,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T22:05:23.370Z,37.606,-118.8545,5.67,1.65,md,23,144,0.0146,0.05,nc,nc73973356,2023-12-09T18:44:10.068Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.38,0.43,0.111,22,reviewed,nc,nc
 2023-12-08T22:03:58.010Z,19.4155,-155.644166666667,-0.05,2.27,ml,29,158,,0.16,hv,hv73678832,2023-12-09T07:43:49.021Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.47,0.190258817279929,18,reviewed,hv,hv
 2023-12-08T22:00:44.980Z,56.4893,-34.231,10,4.9,mb,82,90,7.454,0.45,us,us7000lhlz,2023-12-08T22:36:54.040Z,"Reykjanes Ridge",earthquake,8.91,1.862,0.051,122,reviewed,us,us
-2023-12-08T21:46:48.740Z,37.4891667,-118.8475,1.95,0.96,md,18,265,0.1017,0.04,nc,nc73973351,2023-12-09T18:38:11.034Z,"17 km WSW of Toms Place, CA",earthquake,0.51,2.1,0.094,14,reviewed,nc,nc
+2023-12-08T21:46:48.740Z,37.4891667,-118.8475,1.95,0.96,md,18,265,0.1017,0.04,nc,nc73973351,2023-12-09T19:18:12.251Z,"17 km WSW of Toms Place, CA",earthquake,0.51,2.1,0.094,14,reviewed,nc,nc
 2023-12-08T21:40:46.026Z,63.2731,-151.0808,7.4,1.4,ml,,,,0.87,ak,ak023fpyjgsa,2023-12-08T21:43:28.022Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-08T21:40:17.444Z,19.1556,-68.3555,10,2.7,ml,11,206,0.638,0.38,us,us7000lhlm,2023-12-08T22:09:06.040Z,"63 km N of Punta Cana, Dominican Republic",earthquake,2.98,1.914,0.077,22,reviewed,us,us
 2023-12-08T21:32:52.800Z,33.77,-116.112,1.72,1.28,ml,34,50,0.09505,0.14,ci,ci40617720,2023-12-08T23:48:03.515Z,"11 km ENE of Indio, CA",earthquake,0.17,0.27,0.063,21,reviewed,ci,ci
@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T19:47:26.300Z,32.7673333,-115.8341667,3.42,1.8,ml,36,58,0.1217,0.22,ci,ci40617680,2023-12-08T19:58:52.650Z,"15 km ENE of Ocotillo, CA",earthquake,0.22,0.62,0.16,27,automatic,ci,ci
 2023-12-08T19:32:24.700Z,51.8648333333333,-177.8345,7.52,0.95,ml,4,235,,0.07,av,av91123883,2023-12-09T03:13:47.670Z,"82 km W of Adak, Alaska",earthquake,0.57,0.85,0.226470094068844,4,reviewed,av,av
 2023-12-08T19:26:26.900Z,33.8433333,-117.4915,-0.53,1.67,ml,51,45,0.04653,0.25,ci,ci40617672,2023-12-08T23:10:29.990Z,"5 km SE of Home Gardens, CA",quarry blast,0.27,31.61,0.259,23,reviewed,ci,ci
-2023-12-08T19:21:34.538Z,62.259,-150.4403,18.7,1.6,ml,,,,0.45,ak,ak023fpx8i31,2023-12-08T19:23:15.891Z,"12 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
