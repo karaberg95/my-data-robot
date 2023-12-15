@@ -198,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T14:41:11.378Z,5.0444,-82.8125,16.824,4.4,mb,23,259,3.727,0.78,us,us7000liz1,2023-12-14T14:57:25.040Z,"south of Panama",earthquake,14.19,8.244,0.095,32,reviewed,us,us
 2023-12-14T14:39:41.020Z,36.5043,-116.579,5.8,1.1,ml,27,110.21,0.107,0.1554,nn,nn00870127,2023-12-14T18:31:34.859Z,"25 km ENE of Furnace Creek, California",earthquake,,1.9,0.32,8,reviewed,nn,nn
 2023-12-14T14:25:10.487Z,68.6198,-148.1812,2.7,2.6,ml,,,,0.73,ak,ak023fzri814,2023-12-14T14:29:25.579Z,"121 km WNW of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-14T14:10:09.050Z,38.505,-122.7301667,4.97,1.25,md,35,43,0.07882,0.07,nc,nc73976096,2023-12-14T21:58:13.155Z,"2 km ESE of Larkfield-Wikiup, CA",earthquake,0.17,0.57,0.125,29,reviewed,nc,nc
-2023-12-14T14:07:34.700Z,19.3821666666667,-155.2415,1.83,2.43,ml,23,77,,0.09,hv,hv73685507,2023-12-14T18:01:38.548Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.17,0.263300984944305,22,reviewed,hv,hv
-2023-12-14T13:59:07.500Z,19.4505,-155.277666666667,13.2,2.33,md,13,276,,0.11,hv,hv73685502,2023-12-14T17:56:50.040Z,"4 km W of Volcano, Hawaii",earthquake,1.25,0.64,0.143890558574465,2,reviewed,hv,hv
-2023-12-14T13:56:52.530Z,60.0755,-153.062166666667,2.2,-0.39,ml,4,271,,0.06,av,av92154056,2023-12-14T23:59:34.330Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.84,0.54,0.420562827641233,5,reviewed,av,av
