@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T22:23:37.640Z,36.1768333,-118.0213333,4.93,1.16,ml,14,84,0.1471,0.11,ci,ci40447319,2023-12-19T00:25:49.152Z,"12 km S of Olancha, CA",earthquake,0.21,1.41,0.23,8,reviewed,ci,ci
 2023-12-18T22:20:44.911Z,5.957,94.8264,10.199,4.5,mb,50,117,2.231,0.58,us,us7000ljyb,2023-12-18T23:02:02.040Z,"54 km W of Sabang, Indonesia",earthquake,8.75,4.642,0.093,34,reviewed,us,us
 2023-12-18T22:14:15.940Z,52.0933333333333,-176.1545,-1.78,0.78,ml,4,265,,0.31,av,av92158026,2023-12-19T21:29:09.370Z,"41 km NE of Adak, Alaska",earthquake,3.61,2.52,0.156251930108984,4,reviewed,av,av
-2023-12-18T21:54:41.185Z,59.1021,-154.106,129,2,ml,,,,0.21,ak,ak023g6hzxdi,2023-12-18T22:33:39.040Z,"53 km SE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
