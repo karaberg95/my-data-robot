@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T15:13:36.970Z,33.5931667,-116.6286667,13.44,0.13,ml,19,101,0.02772,0.08,ci,ci37532397,2023-12-19T18:40:13.727Z,"6 km NE of Anza, CA",earthquake,0.2,0.31,0.212,9,reviewed,ci,ci
 2023-12-19T15:13:07.550Z,33.5948333,-116.631,13.6,0.43,ml,19,100,0.02809,0.13,ci,ci40447759,2023-12-19T18:28:20.272Z,"6 km NE of Anza, CA",earthquake,0.3,0.5,0.178,6,reviewed,ci,ci
 2023-12-19T14:57:45.960Z,38.8133316,-122.8166656,2.69,1.05,md,14,57,0.01074,0.01,nc,nc73978191,2023-12-19T15:23:14.257Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.73,0.21,16,automatic,nc,nc
-2023-12-19T14:52:36.820Z,36.5768333,-121.1758333,5.86,1.12,md,21,135,0.00925,0.06,nc,nc73978186,2023-12-19T19:06:33.011Z,"6 km NNW of Pinnacles, CA",earthquake,0.26,0.32,0.203,19,reviewed,nc,nc
+2023-12-19T14:52:36.820Z,36.5768333,-121.1758333,5.86,1.12,md,21,135,0.00925,0.06,nc,nc73978186,2023-12-19T19:16:11.109Z,"6 km NNW of Pinnacles, CA",earthquake,0.26,0.32,0.203,19,reviewed,nc,nc
 2023-12-19T14:21:26.136Z,63.4732,-145.4956,5,1.3,ml,,,,0.36,ak,ak023g8164ud,2023-12-19T14:23:05.217Z,"43 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-19T14:17:36.720Z,33.621,-116.787,11.48,0.42,ml,15,112,0.03327,0.08,ci,ci40447751,2023-12-19T18:05:30.561Z,"13 km NW of Anza, CA",earthquake,0.26,0.35,0.168,8,reviewed,ci,ci
 2023-12-19T14:10:28.198Z,31.664,-104.185,6.183,2.1,ml,18,72,0.1,0.2,tx,tx2023yufd,2023-12-19T18:31:01.433Z,"53 km NW of Toyah, Texas",earthquake,0.6861532777,0.7435205308,0.2,14,reviewed,tx,tx
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T19:37:56.680Z,38.7718333,-122.7378333,0.44,0.55,md,7,97,0.01142,0.01,nc,nc73977856,2023-12-19T05:19:10.824Z,"2 km ESE of The Geysers, CA",earthquake,0.47,0.95,0.169,4,reviewed,nc,nc
 2023-12-18T19:29:54.430Z,38.8123333,-122.8211667,3.45,0.69,md,12,61,0.007152,0.02,nc,nc73977851,2023-12-19T05:28:13.861Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.74,0.135,10,reviewed,nc,nc
 2023-12-18T19:29:10.080Z,44.4536667,-110.9381667,7.47,0.57,md,10,186,0.07333,0.25,uu,uu60556707,2023-12-18T20:05:59.490Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.89,1.38,0.188,7,reviewed,uu,uu
-2023-12-18T19:21:09.780Z,39.3958,-119.7372,8,0.9,ml,7,120.17,0.022,0.1253,nn,nn00870294,2023-12-19T01:27:07.101Z,"12 km NW of Virginia City, Nevada",earthquake,,1.4,0.2,3,reviewed,nn,nn
-2023-12-18T19:19:33.786Z,61.4514,-146.5594,22,1.8,ml,,,,0.78,ak,ak023g6gljj6,2023-12-18T19:21:30.429Z,"37 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
