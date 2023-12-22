@@ -236,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T04:19:41.160Z,34.8823,-97.5609,17.139,2.5,mb_lg,63,33,0.045,0.85,us,us7000lkj2,2023-12-21T04:32:11.040Z,"6 km NE of Lindsay, Oklahoma",earthquake,1.22,5.865,0.079,42,reviewed,us,us
 2023-12-21T04:09:18.460Z,31.567,-115.6198333,10.95,2.81,ml,12,65,0.2243,0.19,ci,ci40448967,2023-12-21T14:42:21.668Z,"85 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.34,1.09,0.16,10,reviewed,ci,ci
 2023-12-21T04:05:44.096Z,36.7101,-116.3061,9.4,-0.4,ml,8,218.51,0.022,0.06,nn,nn00870398,2023-12-21T06:57:52.589Z,"46 km ESE of Beatty, Nevada",earthquake,,1.7,1.05,6,reviewed,nn,nn
-2023-12-21T03:54:06.030Z,53.8601666666667,-166.806833333333,6.2,-0.09,ml,7,94,,0.14,av,av92160386,2023-12-21T21:43:20.010Z,"17 km W of Dutch Harbor, Alaska",earthquake,0.42,1.21,0.219991453865521,5,reviewed,av,av
-2023-12-21T03:53:26.474Z,31.605,-103.97,8.651,2,ml,20,58,0,0.1,tx,tx2023yxbu,2023-12-21T20:40:20.219Z,"36 km NNW of Toyah, Texas",earthquake,0.6563459731,0.7569853134,0.1,18,reviewed,tx,tx
