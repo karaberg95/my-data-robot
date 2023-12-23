@@ -216,6 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T06:12:46.064Z,62.0121,-150.3065,42.3,1.4,ml,,,,0.37,ak,ak023gcuytl0,2023-12-22T06:15:31.497Z,"29 km SW of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-22T06:10:47.087Z,37.567,138.9565,170.971,4,mb,28,136,0.728,0.59,us,us7000lku6,2023-12-22T14:07:17.040Z,"4 km NNE of Mitsuke, Japan",earthquake,8.62,7.283,0.144,13,reviewed,us,us
 2023-12-22T06:04:48.740Z,38.8468323,-122.8176651,1.29,0.73,md,10,91,0.008988,0.01,nc,nc73979371,2023-12-22T06:47:19.998Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.91,0.36,10,automatic,nc,nc
+2023-12-22T06:04:34.082Z,37.3468,-116.4535,6.3,-0.1,ml,7,246.47,0.055,0.1006,nn,nn00870536,2023-12-23T02:41:28.801Z,"55 km NNE of Beatty, Nevada",earthquake,,2,0.34,4,reviewed,nn,nn
 2023-12-22T05:56:37.143Z,-17.9825,-178.5293,585.226,4.4,mb,97,78,3.264,0.67,us,us7000lku1,2023-12-22T06:13:22.040Z,"228 km E of Levuka, Fiji",earthquake,15.06,9.223,0.053,100,reviewed,us,us
 2023-12-22T05:47:02.150Z,19.2123336791992,-155.378005981445,31.3500003814697,1.90999997,md,44,158,,0.109999999,hv,hv73693342,2023-12-22T05:50:10.130Z,"10 km E of Pāhala, Hawaii",earthquake,0.48,0.75999999,0.800000012,15,automatic,hv,hv
 2023-12-22T05:43:57.357Z,51.2391,-175.4025,33.194,3.8,mb,23,218,0.816,0.62,us,us7000lkvx,2023-12-22T14:03:37.040Z,"110 km SE of Adak, Alaska",earthquake,6.35,13.911,0.09,32,reviewed,us,us
