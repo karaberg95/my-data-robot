@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-28T06:33:35.620Z,38.8144989,-122.7979965,2.22,1.09,md,13,69,0.006852,0.03,nc,nc73981976,2023-12-28T06:50:11.110Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.68,0.16,16,automatic,nc,nc
+2023-12-28T07:00:43.420Z,40.3914986,-125,2.22,3.82,ml,77,265,0.5185,0.36,nc,nc73981981,2023-12-28T07:07:14.215Z,"61 km W of Petrolia, CA",earthquake,2.54,4.68,0.15,13,reviewed,nc,nc
+2023-12-28T06:58:50.340Z,19.2019996643066,-155.371337890625,32.5800018310547,1.97000003,md,35,167,,0.189999998,hv,hv73699012,2023-12-28T07:01:50.780Z,"11 km E of Pāhala, Hawaii",earthquake,0.6,0.819999993,1.38,10,automatic,hv,hv
+2023-12-28T06:52:50.330Z,35.924,-117.6861667,2.55,1.27,ml,31,63,0.1097,0.17,ci,ci40452007,2023-12-28T06:59:09.612Z,"20 km E of Little Lake, CA",earthquake,0.23,0.45,0.157,13,automatic,ci,ci
+2023-12-28T06:33:35.620Z,38.8144989,-122.7979965,2.22,1.09,md,13,69,0.006852,0.03,nc,nc73981976,2023-12-28T07:07:13.215Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.68,0.16,16,automatic,nc,nc
 2023-12-28T06:27:05.100Z,37.637001,-122.503334,3.09,1,md,5,234,0.05048,0.02,nc,nc73981966,2023-12-28T06:45:13.085Z,"3 km NNW of Pacifica, CA",earthquake,1.2,3.8,0.46,4,automatic,nc,nc
 2023-12-28T06:13:28.226Z,31.747,-104.131,4.6992,1.6,ml,15,76,0,0.3,tx,tx2023zkay,2023-12-28T06:38:49.408Z,"50 km W of Mentone, Texas",earthquake,0,1.295841219,0.2,13,automatic,tx,tx
 2023-12-28T06:08:01.871Z,63.1429,-151.2962,0,1.9,ml,,,,0.52,ak,ak023gms5y9n,2023-12-28T06:09:44.779Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -205,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T07:14:51.220Z,37.6218338,-122.4686661,6.48,1.56,md,13,124,0.01609,0.06,nc,nc73981666,2023-12-27T14:42:56.827Z,"2 km ENE of Pacifica, CA",earthquake,0.39,0.44,0.34,9,automatic,nc,nc
 2023-12-27T07:13:46.560Z,54.0838333333333,-166.123,13.72,-0.01,ml,5,309,,0.09,av,av92166101,2023-12-27T23:03:16.960Z,"23 km WSW of Akutan, Alaska",earthquake,0.9,0.71,0.277156610965616,6,reviewed,av,av
 2023-12-27T07:09:31.410Z,17.9376666666667,-66.9685,15.3,2.33,md,9,225,0.06653,0.12,pr,pr71435443,2023-12-27T07:19:56.270Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.64,0.48,0.132935613363531,4,reviewed,pr,pr
-2023-12-27T07:07:24.500Z,33.9645,-116.3445,4.52,1.59,ml,66,38,0.05846,0.14,ci,ci40451599,2023-12-27T07:18:10.730Z,"14 km E of Desert Hot Springs, CA",earthquake,0.11,0.33,0.17,25,automatic,ci,ci
-2023-12-27T07:07:09.569Z,66.3453,-150.2253,0.4,2.1,ml,,,,0.92,ak,ak023gl57u98,2023-12-27T07:09:36.851Z,"63 km NW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
