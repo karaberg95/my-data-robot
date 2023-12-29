@@ -277,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T21:52:55.868Z,-13.8184,167.1815,206.264,4.9,mb,89,52,7.244,0.76,us,us6000m09s,2023-12-28T22:10:08.040Z,"40 km W of Sola, Vanuatu",earthquake,9.24,7.363,0.056,98,reviewed,us,us
 2023-12-28T21:44:32.010Z,38.7929993,-122.7480011,1.91,1.32,md,14,91,0.0119,0.03,nc,nc73982191,2023-12-28T23:52:10.217Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.54,0.12,17,automatic,nc,nc
 2023-12-28T21:42:04.547Z,60.2911,-152.2021,86.9,1.9,ml,,,,0.67,ak,ak023gn1aqw6,2023-12-28T21:44:46.320Z,"39 km NW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-12-28T21:26:48.274Z,36.7752,-116.2257,3.5,0.2,ml,7,217.1,0.029,0.0802,nn,nn00870873,2023-12-29T05:11:30.023Z,"49 km ESE of Beatty, Nevada",earthquake,,3.2,0.05,4,reviewed,nn,nn
