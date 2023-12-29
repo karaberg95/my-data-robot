@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T10:31:07.250Z,38.833168,-122.791832,-0.81,0.77,md,5,151,0.0153,0.12,nc,nc73982586,2023-12-29T11:05:17.414Z,"6 km WNW of Cobb, CA",earthquake,0.81,2.17,0.13,7,automatic,nc,nc
 2023-12-29T10:27:37.466Z,63.2383,-150.4752,116.4,1.5,ml,,,,0.67,ak,ak023goi76cd,2023-12-29T10:30:25.461Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-29T10:20:01.203Z,31.6,-103.981,6.4478,1.7,ml,15,62,0,0.3,tx,tx2023zmeo,2023-12-29T10:32:26.151Z,"36 km NNW of Toyah, Texas",earthquake,0,2.485314725,0.2,12,automatic,tx,tx
-2023-12-29T09:57:13.365Z,36.7112,-115.9591,3.2,0.3,ml,11,174.6,0.027,0.1151,nn,nn00870891,2023-12-29T17:57:52.573Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.22,4,reviewed,nn,nn
+2023-12-29T09:57:13.328Z,36.7132,-115.9573,3.4,0.5,ml,25,176.93,0.027,0.1249,nn,nn00870891,2023-12-29T18:45:20.258Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.2,10,reviewed,nn,nn
 2023-12-29T09:53:51.950Z,36.7278,-116.2985,6.2,0.1,ml,9,155.48,0.02,0.054,nn,nn00870906,2023-12-29T17:01:20.229Z,"45 km ESE of Beatty, Nevada",earthquake,,1.9,0.13,4,reviewed,nn,nn
 2023-12-29T09:47:31.040Z,35.7596667,-117.5816667,2.74,1.49,ml,33,66,0.1282,0.13,ci,ci40452383,2023-12-29T17:04:04.684Z,"16 km W of Searles Valley, CA",earthquake,0.18,0.4,0.181,18,reviewed,ci,ci
 2023-12-29T09:44:52.314Z,36.7293,-115.8684,2.1,0.3,ml,10,269.12,0.092,0.119,nn,nn00870905,2023-12-29T16:58:04.028Z,"25 km NW of Indian Springs, Nevada",earthquake,,6.4,0.17,3,reviewed,nn,nn
