@@ -72,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T12:58:32.070Z,44.2791666666667,-114.834166666667,4.99,2.16,ml,16,68,0.1732,0.25,mb,mb90037983,2024-01-04T18:19:45.360Z,"10 km NE of Stanley, Idaho",earthquake,0.48,1.2,0.233364618576749,21,reviewed,mb,mb
 2024-01-04T12:36:59.960Z,18.7093333333333,-64.5618333333333,63.41,3.43,md,12,216,0.516,0.34,pr,pr71436218,2024-01-04T13:22:14.040Z,"48 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.19,4.06,0.0811745006865454,4,reviewed,pr,pr
 2024-01-04T12:31:46.066Z,31.495,-103.931,4.6172,1.5,ml,13,105,0,0.5,tx,tx2024agli,2024-01-04T12:50:07.842Z,"23 km NNW of Toyah, Texas",earthquake,0,1.526602563,0.1,10,automatic,tx,tx
+2024-01-04T12:31:17.819Z,37.6498,-115.8095,9,1.2,ml,6,246.78,0.05,0.1813,nn,nn00871303,2024-01-04T21:36:44.040Z,"5 km W of Rachel, Nevada",earthquake,,2.4,0.04,2,reviewed,nn,nn
 2024-01-04T12:30:38.438Z,37.7925,137.7386,10,4.3,mb,23,104,0.479,0.7,us,us6000m1ri,2024-01-04T13:16:54.040Z,"60 km WSW of Sado, Japan",earthquake,5.11,1.706,0.178,9,reviewed,us,us
 2024-01-04T12:27:09.875Z,61.7842,-149.7322,33.9,2,ml,,,,1.02,ak,ak0246tgdur,2024-01-04T12:29:34.453Z,"16 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-04T11:54:32.970Z,19.3028335571289,-155.356002807617,1.33000004291534,1.85000002,md,39,116,,0.270000011,hv,hv73709657,2024-01-04T11:58:06.910Z,"16 km NE of Pāhala, Hawaii",earthquake,0.36,0.5,0.579999983,17,automatic,hv,hv
@@ -161,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T04:21:35.980Z,38.784832,-122.723999,1.6,0.73,md,8,85,0.01007,0,nc,nc73984941,2024-01-04T04:39:17.112Z,"3 km ENE of The Geysers, CA",earthquake,0.48,0.84,0.31,8,automatic,nc,nc
 2024-01-04T04:17:45.726Z,62.1781,-149.8117,10.4,1.9,ml,,,,0.64,ak,ak0246omv3g,2024-01-04T04:20:08.108Z,"2 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-04T04:10:10.159Z,31.671,-103.938,2.7713,1.8,mlv,5,185,0.1,0.6,tx,tx2024afuu,2024-01-04T04:41:25.829Z,"32 km W of Mentone, Texas",earthquake,0,3.345883981,0.4,5,automatic,tx,tx
-2024-01-04T04:09:19.620Z,33.3445,-116.2445,11.62,1.72,ml,75,21,0.05733,0.19,ci,ci40454927,2024-01-04T21:36:24.220Z,"16 km NE of Borrego Springs, CA",earthquake,0.13,0.33,0.169,26,reviewed,ci,ci
+2024-01-04T04:09:19.620Z,33.3445,-116.2445,11.62,1.72,ml,75,21,0.05733,0.19,ci,ci40454927,2024-01-04T21:36:56.440Z,"16 km NE of Borrego Springs, CA",earthquake,0.13,0.33,0.169,26,reviewed,ci,ci
 2024-01-04T04:00:45.120Z,19.203,-155.382,31.36,1.63,md,38,220,,0.12,hv,hv73709442,2024-01-04T21:00:27.920Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.65,0.177749706808872,15,reviewed,hv,hv
 2024-01-04T04:00:11.322Z,37.5967,-97.7615,4.927,2.1,ml,27,67,0.391,0.36,us,us6000m1l4,2024-01-04T15:02:45.690Z,"4 km SSE of Cheney, Kansas",earthquake,1.25,4.361,0.085,18,reviewed,us,us
 2024-01-04T03:49:05.470Z,44.5855,-110.731666666667,11.48,0.15,md,8,87,0.06626,0.12,uu,uu80034271,2024-01-04T15:29:18.340Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.73,1.74,0.196879260125742,5,reviewed,uu,uu
@@ -246,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T21:54:21.380Z,38.7606659,-122.7338333,1.15,1.65,md,23,64,0.007075,0.06,nc,nc73984866,2024-01-04T02:52:11.478Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.4,0.12,25,automatic,nc,nc
 2024-01-03T21:53:31.780Z,33.513,-116.5425,9.44,0.6,ml,15,120,0.04541,0.08,ci,ci40454783,2024-01-04T00:23:53.626Z,"13 km ESE of Anza, CA",earthquake,0.26,0.33,0.166,8,reviewed,ci,ci
 2024-01-03T21:48:09.280Z,36.1274986,-121.2894974,12.65,1.23,md,6,125,0.1087,0.03,nc,nc73984861,2024-01-04T02:25:10.298Z,"17 km WSW of King City, CA",earthquake,1.21,2.57,0.18,3,automatic,nc,nc
-2024-01-03T21:41:35.890Z,33.2706667,-116.7783333,12.8,0.95,ml,36,42,0.03828,0.14,ci,ci40454775,2024-01-04T00:08:11.236Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.18,0.41,0.15,20,reviewed,ci,ci
