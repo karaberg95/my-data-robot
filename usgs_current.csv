@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T15:35:44.920Z,38.8343315,-122.8063354,2.09,0.83,md,11,60,0.0113,0.02,nc,nc73985401,2024-01-05T16:01:11.954Z,"7 km W of Cobb, CA",earthquake,0.32,0.82,0.26,11,automatic,nc,nc
 2024-01-05T15:31:29.433Z,64.7783,-148.9976,15.2,0.9,ml,,,,0.86,ak,ak0248isy0f,2024-01-05T15:34:31.527Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-05T15:17:28.160Z,36.78583333,-97.65616667,3.22,1.9,ml,92,94,0.1763653911,0.26,ok,ok2024aimh,2024-01-05T16:14:14.931Z,"7 km ESE of Medford, Oklahoma",earthquake,,0.7,0.2,35,reviewed,ok,ok
-2024-01-05T15:07:45.320Z,38.7926674,-122.7616653,0.66,0.73,md,13,67,0.008091,0.02,nc,nc73985391,2024-01-05T15:38:10.943Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.49,0.18,13,automatic,nc,nc
+2024-01-05T15:07:45.320Z,38.7926674,-122.7616653,0.66,0.73,md,13,67,0.008091,0.02,nc,nc73985391,2024-01-05T17:32:10.521Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.49,0.18,13,automatic,nc,nc
 2024-01-05T14:59:17.840Z,33.3608333,-116.3276667,10.27,1.19,ml,59,33,0.0152,0.21,ci,ci40455655,2024-01-05T15:05:22.900Z,"12 km NNE of Borrego Springs, CA",earthquake,0.19,0.34,0.128,25,automatic,ci,ci
 2024-01-05T14:54:36.290Z,17.8408333333333,-66.7936666666667,7.35,2.16,md,5,258,0.1564,0.32,pr,pr71436338,2024-01-05T15:16:11.950Z,"17 km S of Indios, Puerto Rico",earthquake,2.22,0.95,0.128390089603815,3,reviewed,pr,pr
 2024-01-05T14:53:52.510Z,17.912,-66.2796666666667,14.88,2.21,md,7,192,0.124,0.25,pr,pr71436323,2024-01-05T15:06:29.990Z,"7 km SSE of Salinas, Puerto Rico",earthquake,1.28,1.78,0.191813509163932,5,reviewed,pr,pr
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T17:56:07.311Z,63.0624,-150.4782,28.6,2.1,ml,,,,1.6,ak,ak0246wlrx7,2024-01-04T17:58:54.456Z,"64 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-04T17:37:28.017Z,31.999,-103.815,8.2396,2.8,ml,20,85,0,0.2,tx,tx2024agvj,2024-01-04T20:22:35.531Z,"34 km SE of Malaga, New Mexico",earthquake,1.007270147,0.8969773241,0.2,13,reviewed,tx,tx
 2024-01-04T17:33:22.520Z,44.7931666666667,-110.801333333333,3.6,-0.08,md,7,228,0.03534,0.15,uu,uu80034371,2024-01-04T20:14:41.420Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.24,1.32,0.362567842520968,5,reviewed,uu,uu
-2024-01-04T17:28:27.590Z,33.2066667,-116.701,8.13,0.92,ml,38,38,0.04567,0.19,ci,ci40455183,2024-01-04T17:34:35.940Z,"7 km SE of Lake Henshaw, CA",earthquake,0.2,0.46,0.076,15,automatic,ci,ci
