@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T23:09:54.719Z,31.676,-104.185,3.7053,1.7,ml,13,112,0.1,0.2,tx,tx2024ajbx,2024-01-05T23:45:24.479Z,"54 km NW of Toyah, Texas",earthquake,0,1.456589374,0.2,11,automatic,tx,tx
 2024-01-05T23:01:28.600Z,33.2568333,-116.3055,10.96,1.63,ml,74,22,0.07718,0.2,ci,ci40455927,2024-01-05T23:07:51.933Z,"6 km E of Borrego Springs, CA",earthquake,0.15,0.32,0.146,27,automatic,ci,ci
 2024-01-05T22:53:22.700Z,38.8269997,-122.7868347,0.3,0.26,md,7,114,0.01172,0.02,nc,nc73985576,2024-01-06T01:20:10.309Z,"6 km W of Cobb, CA",earthquake,0.39,0.99,0.11,8,automatic,nc,nc
-2024-01-05T22:49:24.155Z,65.0365,-147.2094,0,1.4,ml,,,,1.04,ak,ak0248n2tq7,2024-01-05T22:51:46.697Z,"20 km NNW of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
