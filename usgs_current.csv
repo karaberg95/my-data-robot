@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-15T19:23:10.550Z,38.8333321,-122.8181686,1.5,0.71,md,14,59,0.01177,0.01,nc,nc73989706,2024-01-15T19:24:45.429Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.74,0.29,14,automatic,nc,nc
-2024-01-15T19:20:27.240Z,38.7311668,-122.9151688,5.81,1.09,md,12,181,0.06552,0.02,nc,nc73989701,2024-01-15T19:33:10.303Z,"12 km SE of Cloverdale, CA",earthquake,1.06,1.47,0.16,13,automatic,nc,nc
+2024-01-15T19:36:26.160Z,33.2665,-116.4375,3.53,1.22,ml,51,40,0.01713,0.2,ci,ci40460263,2024-01-15T19:42:41.133Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.29,0.136,27,automatic,ci,ci
+2024-01-15T19:32:59.680Z,33.5548333,-116.6335,16.46,0.75,ml,27,56,0.01206,0.13,ci,ci40460255,2024-01-15T19:39:07.450Z,"4 km E of Anza, CA",earthquake,0.25,0.4,0.111,16,automatic,ci,ci
+2024-01-15T19:23:10.550Z,38.8333321,-122.8181686,1.5,0.71,md,14,59,0.01177,0.01,nc,nc73989706,2024-01-15T19:39:11.343Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.74,0.29,14,automatic,nc,nc
+2024-01-15T19:20:27.240Z,38.7311668,-122.9151688,5.81,1.09,md,12,181,0.06552,0.02,nc,nc73989701,2024-01-15T19:43:13.367Z,"12 km SE of Cloverdale, CA",earthquake,1.06,1.47,0.16,13,automatic,nc,nc
 2024-01-15T19:14:11.970Z,38.8380013,-122.8066635,0.95,0.72,md,6,131,0.01275,0.02,nc,nc73989696,2024-01-15T19:32:14.298Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.44,0.52,8,automatic,nc,nc
 2024-01-15T19:07:04.980Z,33.8195,-117.485,2.25,1.71,ml,65,49,0.03336,0.2,ci,ci40460247,2024-01-15T19:14:23.490Z,"7 km SSE of Home Gardens, CA",earthquake,0.17,0.26,0.237,31,automatic,ci,ci
 2024-01-15T19:02:01.915Z,58.1881,-155.3238,1.1,0.6,ml,,,,0.17,ak,ak024p4dvhb,2024-01-15T19:03:46.706Z,"86 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
