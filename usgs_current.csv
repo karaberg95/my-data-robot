@@ -254,6 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T11:19:37.430Z,19.1453342437744,-155.370666503906,28.6100006103516,2.1099999,md,36,190,,0.109999999,hv,hv73725502,2024-01-23T11:22:48.840Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.65,0.790000021,0.170000002,5,automatic,hv,hv
 2024-01-23T11:13:30.981Z,63.5435,-150.8787,0,1.4,ml,,,,0.56,ak,ak024127zlpm,2024-01-23T11:15:33.733Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-23T11:07:05.849Z,41.3247,78.7778,10,4.2,mb,16,171,0.353,0.58,us,us7000lt69,2024-01-24T09:33:07.040Z,"121 km WNW of Aykol, China",earthquake,4.57,1.89,0.199,7,reviewed,us,us
-2024-01-23T10:44:37.840Z,36.4941666666667,-89.5613333333333,9.09,1.78,md,31,44,0.04738,0.06,nm,nm60566016,2024-01-23T14:36:33.150Z,"5 km ESE of Marston, Missouri",earthquake,0.41,0.7,0.132530473961528,29,reviewed,nm,nm
-2024-01-23T10:43:34.194Z,-23.4409,-179.7725,530.308,4.5,mb,46,97,4.796,0.79,us,us7000lt65,2024-01-23T11:14:39.040Z,"south of the Fiji Islands",earthquake,11.47,8.531,0.081,44,reviewed,us,us
-2024-01-23T10:43:29.187Z,63.4695,-148.8011,14.3,1.6,ml,,,,0.6,ak,ak024127kl4q,2024-01-23T10:45:28.344Z,"11 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
