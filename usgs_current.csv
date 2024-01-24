@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-24T05:32:00.170Z,32.921833,-116.2356644,8.73,1.11,ml,31,101,0.06565,0.18,ci,ci39755762,2024-01-24T05:34:05.170Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.32,1.01,0.18,7,automatic,ci,ci
+2024-01-24T05:20:54.520Z,34.242,-116.7945,8.46,0.88,ml,18,196,0.1065,0.12,ci,ci39755754,2024-01-24T05:27:04.386Z,"5 km ESE of Big Bear City, CA",earthquake,0.36,0.53,0.132,14,automatic,ci,ci
 2024-01-24T05:05:58.955Z,64.4793,-146.9608,4.9,0.9,ml,,,,0.98,ak,ak02413rwp07,2024-01-24T05:08:08.154Z,"5 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-24T04:56:25.385Z,53.4743,160.3751,57.258,4.7,mb,74,82,1.131,0.88,us,us7000ltdz,2024-01-24T05:17:27.040Z,"125 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.98,3.062,0.04,185,reviewed,us,us
 2024-01-24T04:49:09.464Z,65.0521,-152.0818,1.6,1.4,ml,,,,0.94,ak,ak02413rkl36,2024-01-24T04:51:08.954Z,"13 km S of Tanana, Alaska",earthquake,,1,,,automatic,ak,ak
