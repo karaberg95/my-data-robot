@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-29T08:13:20.580Z,38.7853317,-122.7229996,1.47,1.06,md,10,115,0.01093,0.03,nc,nc73996096,2024-01-29T08:24:09.978Z,"3 km WNW of Anderson Springs, CA",earthquake,0.36,1.18,0.11,10,automatic,nc,nc
+2024-01-29T08:13:20.580Z,38.7853317,-122.7229996,1.47,1.06,md,10,115,0.01093,0.03,nc,nc73996096,2024-01-29T08:35:18.042Z,"3 km WNW of Anderson Springs, CA",earthquake,0.36,1.18,0.11,10,automatic,nc,nc
 2024-01-29T07:38:51.940Z,33.6943333,-117.4015,10.4,0.64,ml,27,59,0.04957,0.18,ci,ci39759026,2024-01-29T07:45:02.355Z,"8 km WNW of Lake Elsinore, CA",earthquake,0.26,0.45,0.278,10,automatic,ci,ci
 2024-01-29T07:37:21.642Z,8.4736,127.4284,10,5.1,mb,78,43,2.303,0.65,us,us7000lunx,2024-01-29T07:57:10.040Z,"114 km ENE of Barcelona, Philippines",earthquake,6.16,1.858,0.053,117,reviewed,us,us
 2024-01-29T07:20:47.605Z,63.5096,-151.0558,0,1.9,ml,,,,0.51,ak,ak0241c2vhjs,2024-01-29T07:22:30.291Z,"33 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
