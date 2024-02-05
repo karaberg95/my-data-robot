@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-04T06:04:55.520Z,57.042,-135.649166666667,7.45,0.1,ml,4,175,,0.03,av,av91130433,2024-02-05T03:54:56.780Z,"19 km W of Sitka, Alaska",earthquake,0.9,0.69,0.298522186207475,4,reviewed,av,av
 2024-02-04T06:04:49.250Z,54.1301666666667,-165.915666666667,3.03,0.05,ml,5,135,,0.09,av,av91130428,2024-02-05T03:47:36.920Z,"9 km W of Akutan, Alaska",earthquake,0.26,0.65,0.413942860789907,5,reviewed,av,av
 2024-02-04T05:58:57.720Z,31.598,-104.278,4.573,2.1,ml,17,73,0.1,0.2,tx,tx2024ckoy,2024-02-04T06:23:50.521Z,"55 km NW of Toyah, Texas",earthquake,0,1.396263777,0.2,13,automatic,tx,tx
-2024-02-04T05:48:58.600Z,47.8,-122.87933333333334,24.43,0.92,ml,10,83,0.02488,0.17,uw,uw61981751,2024-02-04T16:18:03.090Z,"2 km S of Quilcene, Washington",earthquake,0.58,0.68,0.1239298930379008,8,reviewed,uw,uw
