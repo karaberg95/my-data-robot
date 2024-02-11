@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-11T10:31:41.330Z,35.7816667,-117.6068333,4,0.62,ml,23,91,0.1313,0.16,ci,ci40665696,2024-02-11T10:38:46.809Z,"18 km W of Searles Valley, CA",earthquake,0.28,0.61,0.229,4,automatic,ci,ci
+2024-02-11T10:29:51.080Z,33.273,-116.7785,12.07,0.79,ml,52,25,0.04046,0.16,ci,ci40665688,2024-02-11T10:36:26.319Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.14,0.42,0.138,22,automatic,ci,ci
+2024-02-11T10:27:56.110Z,33.2708333,-116.778,12.53,0.88,ml,55,29,0.03832,0.15,ci,ci40665680,2024-02-11T10:33:58.770Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.15,0.37,0.152,27,automatic,ci,ci
 2024-02-11T10:27:05.325Z,64.4658,-146.9103,9,1.6,ml,,,,0.6,ak,ak0241xmopj8,2024-02-11T10:28:52.144Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-11T10:20:14.860Z,36.5750008,-121.2506638,10.88,1.39,md,18,118,0.05264,0.06,nc,nc74001066,2024-02-11T10:28:10.050Z,"11 km WNW of Pinnacles, CA",earthquake,0.29,0.77,0.33,16,automatic,nc,nc
+2024-02-11T10:20:14.860Z,36.5750008,-121.2506638,10.88,1.39,md,18,118,0.05264,0.06,nc,nc74001066,2024-02-11T10:38:55.764Z,"11 km WNW of Pinnacles, CA",earthquake,0.29,0.77,0.33,16,automatic,nc,nc
 2024-02-11T10:19:30.700Z,33.535,-116.6308333,13.83,0.77,ml,54,39,0.02255,0.2,ci,ci40665672,2024-02-11T10:25:47.372Z,"4 km ESE of Anza, CA",earthquake,0.18,0.33,0.142,23,automatic,ci,ci
 2024-02-11T10:17:25.010Z,61.6682,-150.3213,28.6,1.9,ml,,,,0.47,ak,ak0241xmmlw5,2024-02-11T10:19:32.898Z,"17 km NE of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-11T09:53:30.990Z,38.8246651,-122.8079987,2.82,0.68,md,15,74,0.002058,0.01,nc,nc74001051,2024-02-11T10:11:17.945Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.8,0.38,16,automatic,nc,nc
