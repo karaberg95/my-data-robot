@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-12T04:52:33.130Z,36.2244987,-120.2681656,11.22,1.64,md,15,193,0.0659,0.06,nc,nc74001496,2024-02-12T05:03:10.763Z,"12 km NE of Coalinga, CA",earthquake,0.63,0.46,0.17,8,automatic,nc,nc
 2024-02-12T04:41:20.120Z,19.2733325958252,-155.379669189453,31.0699996948242,1.97000003,md,39,128,0.06001,0.129999995,hv,hv74107806,2024-02-12T04:43:02.170Z,"12 km NE of Pāhala, Hawaii",earthquake,0.49,0.720000029,0.469999999,10,automatic,hv,hv
 2024-02-12T04:33:41.070Z,19.1784992218018,-155.491668701172,32.6500015258789,1.70000005,md,31,138,0.03617,0.119999997,hv,hv74107791,2024-02-12T04:35:15.180Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.66,0.620000005,0.50999999,5,automatic,hv,hv
 2024-02-12T04:31:07.200Z,56.0521,-155.9842,58,2.8,ml,,,,0.33,ak,ak0241z6obeo,2024-02-12T04:33:28.098Z,"149 km SW of Akhiok, Alaska",earthquake,,5.3,,,automatic,ak,ak
+2024-02-12T04:26:07.580Z,19.385,-64.9973,49,3.48,md,7,302,1.5066,0.3,pr,pr2024043000,2024-02-12T05:06:49.986Z,"115 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.85,18.41,0.09,7,reviewed,pr,pr
 2024-02-12T04:21:24.340Z,19.1841659545898,-155.240661621094,42.7900009155273,2.25,md,40,211,0.09773,0.200000003,hv,hv74107761,2024-02-12T04:23:13.970Z,"25 km E of Pāhala, Hawaii",earthquake,0.64,0.689999998,0.0700000003,9,automatic,hv,hv
 2024-02-12T04:11:10.942Z,5.5084,-32.837,10,5.5,mww,42,77,18.424,0.98,us,us7000lyjh,2024-02-12T04:30:14.973Z,"central Mid-Atlantic Ridge",earthquake,7.96,1.836,0.098,10,reviewed,us,us
 2024-02-12T04:05:53.830Z,35.895,-117.7216667,8.65,0.68,ml,25,83,0.07832,0.15,ci,ci40666248,2024-02-12T04:11:33.921Z,"17 km ESE of Little Lake, CA",earthquake,0.24,0.5,0.213,7,automatic,ci,ci
@@ -186,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T10:47:47.720Z,38.7891655,-122.80867,1.58,1.69,md,19,118,0.004456,0.14,nc,nc74001086,2024-02-11T13:23:12.146Z,"5 km WNW of The Geysers, CA",earthquake,0.5,0.66,0.12,21,automatic,nc,nc
 2024-02-11T10:45:35.519Z,37.3554,-116.0699,1.7,1.2,ml,8,198.05,0.157,0.2757,nn,nn00873253,2024-02-11T10:47:53.921Z,"43 km SW of Rachel, Nevada",earthquake,,5.7,0.29,5,automatic,nn,nn
 2024-02-11T10:42:42.616Z,39.3047,-119.8902,9,0.3,ml,9,66.74,0.091,0.1548,nn,nn00873266,2024-02-11T16:40:42.500Z,"9 km NE of Incline Village, Nevada",earthquake,,1.8,0.49,3,reviewed,nn,nn
-2024-02-11T10:39:31.690Z,40.4473343,-124.3963318,30,2.57,md,25,228,0.05302,0.11,nc,nc74001081,2024-02-11T12:56:10.982Z,"17 km NW of Petrolia, CA",earthquake,1.42,1.41,0.09,17,automatic,nc,nc
+2024-02-11T10:39:31.690Z,40.4473343,-124.3963318,30,2.57,md,25,228,0.05302,0.11,nc,nc74001081,2024-02-12T04:55:11.450Z,"17 km NW of Petrolia, CA",earthquake,1.42,1.41,0.09,17,automatic,nc,nc
 2024-02-11T10:35:06.013Z,60.2957,-153.0712,136.8,1.8,ml,,,,0.81,ak,ak0241xmqfbd,2024-02-11T10:42:04.642Z,"69 km E of Port Alsworth, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-11T10:31:41.330Z,35.7816667,-117.6068333,4,0.62,ml,23,91,0.1313,0.16,ci,ci40665696,2024-02-11T10:38:46.809Z,"18 km W of Searles Valley, CA",earthquake,0.28,0.61,0.229,4,automatic,ci,ci
 2024-02-11T10:29:51.080Z,33.273,-116.7785,12.07,0.79,ml,52,25,0.04046,0.16,ci,ci40665688,2024-02-11T14:58:06.900Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.14,0.42,0.138,22,reviewed,ci,ci
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T05:20:21.260Z,19.1923332214355,-155.483001708984,31.7399997711182,2.37,ml,46,143,0.0417,0.150000006,hv,hv74106221,2024-02-11T05:25:01.990Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.56,0.74000001,0.19,3,automatic,hv,hv
 2024-02-11T05:20:09.240Z,19.2119998931885,-155.442337036133,35.310001373291,2.28,ml,39,185,0.05931,0.140000001,hv,hv74106211,2024-02-11T05:24:49.530Z,"3 km ENE of Pāhala, Hawaii",earthquake,0.83,0.75,0.72,4,automatic,hv,hv
 2024-02-11T05:14:55.066Z,31.611,-104.012,3.3762,1.9,ml,16,51,0,1.4,tx,tx2024cxib,2024-02-11T05:52:59.061Z,"38 km NNW of Toyah, Texas",earthquake,0,1.220788327,0.2,12,automatic,tx,tx
-2024-02-11T04:57:13.118Z,41.2877,78.7329,10,4.9,mb,49,71,1.237,0.75,us,us7000lyeh,2024-02-11T05:24:42.833Z,"123 km WNW of Aykol, China",earthquake,6.81,1.888,0.06,87,reviewed,us,us
-2024-02-11T04:54:58.570Z,64.4887,-146.9308,1.6,1.7,ml,,,,0.53,ak,ak0241xja0ch,2024-02-12T01:10:06.045Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
