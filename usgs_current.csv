@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-12T07:54:16.800Z,38.8201675,-122.8069992,3.21,0.76,md,12,113,0.004019,0.02,nc,nc74001561,2024-02-12T07:55:54.335Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.2,0.26,13,automatic,nc,nc
 2024-02-12T07:44:09.730Z,38.8268318,-122.8021698,1.57,1.08,md,15,38,0.007064,0.01,nc,nc74001551,2024-02-12T07:45:43.183Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.48,0.17,16,automatic,nc,nc
-2024-02-12T07:44:08.890Z,35.5393333,-117.4836655,5.14,1.04,ml,10,102,0.05021,0.15,ci,ci40666280,2024-02-12T07:46:25.701Z,"20 km ESE of Ridgecrest, CA",earthquake,0.58,0.87,0.153,3,automatic,ci,ci
+2024-02-12T07:44:08.810Z,35.5361667,-117.4816667,5.87,0.84,ml,28,51,0.05267,0.15,ci,ci40666280,2024-02-12T07:49:59.115Z,"20 km ESE of Ridgecrest, CA",earthquake,0.17,0.46,0.163,9,automatic,ci,ci
 2024-02-12T07:20:02.201Z,62.1097,-145.5854,4.2,2.1,ml,,,,0.92,ak,ak0241z8e8yk,2024-02-12T07:22:01.601Z,"2 km W of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-12T06:51:14.750Z,17.9471666666667,-66.3396666666667,13.35,2.65,md,13,167,0.06818,0.22,pr,pr71439633,2024-02-12T07:11:26.940Z,"3 km SE of Jauca, Puerto Rico",earthquake,0.64,0.55,0.145532327802976,9,reviewed,pr,pr
 2024-02-12T06:46:29.906Z,39.4218,-119.9506,3.3,1.1,ml,11,117.59,0.109,0.1039,nn,nn00873291,2024-02-12T06:48:19.251Z,"6 km ENE of Floriston, California",earthquake,,0.9,0.21,5,automatic,nn,nn
