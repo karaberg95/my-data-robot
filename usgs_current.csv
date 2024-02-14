@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T01:57:18.100Z,39.4,-119.723,6.2,0.7,ml,9,123.04,0.034,0.1895,nn,nn00873412,2024-02-14T03:50:49.603Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.6,0.3,2,reviewed,nn,nn
 2024-02-14T01:37:15.886Z,39.4089,-119.855,9.1,0.9,ml,9,89.39,0.066,0.1613,nn,nn00873411,2024-02-14T03:47:42.636Z,"13 km SSE of Mogul, Nevada",earthquake,,1.9,0.63,4,reviewed,nn,nn
 2024-02-14T01:36:42.651Z,35.55541229,-96.74601746,3.523414373,1.79,ml,30,48.86549377,0.02039850503,0.2793566532,ok,ok2024dcni,2024-02-14T01:41:13.022Z,"8 km SE of Sparks, Oklahoma",earthquake,2.189624082,1.847060679,0.26,9,automatic,ok,ok
-2024-02-14T01:32:53.670Z,37.1367,136.9413,10,4.9,mb,29,90,1.172,0.85,us,us7000lz26,2024-02-14T05:42:14.701Z,"9 km NNW of Nanao, Japan",earthquake,6.13,1.864,0.088,41,reviewed,us,us
+2024-02-14T01:32:53.670Z,37.1367,136.9413,10,4.9,mb,29,90,1.172,0.85,us,us7000lz26,2024-02-14T06:47:12.712Z,"9 km NNW of Nanao, Japan",earthquake,6.13,1.864,0.088,41,reviewed,us,us
 2024-02-14T01:31:41.355Z,-28.9162,-71.5264,22.405,6,mww,74,93,0.73,1.08,us,us7000lz23,2024-02-14T05:47:24.723Z,"83 km WSW of Vallenar, Chile",earthquake,4.5,4.159,0.08,15,reviewed,us,us
 2024-02-14T01:16:32.476Z,39.4049,-119.7175,5.7,0.7,ml,9,124,0.04,0.1763,nn,nn00873410,2024-02-14T03:44:35.651Z,"12 km NNW of Virginia City, Nevada",earthquake,,1.8,0.45,2,reviewed,nn,nn
 2024-02-14T01:14:50.290Z,38.8223343,-122.8441696,2.17,0.66,md,12,87,0.007182,0.01,nc,nc74002491,2024-02-14T01:41:16.693Z,"9 km WNW of The Geysers, CA",earthquake,0.32,0.66,0.41,12,automatic,nc,nc
