@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-14T05:17:17.600Z,17.9465,-66.9616666666667,15.98,2.38,md,7,213,0.08183,0.14,pr,pr71439873,2024-02-14T05:28:50.190Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.78,0.8,0.0650220157103001,5,reviewed,pr,pr
 2024-02-14T05:14:50.650Z,33.6566667,-116.7115,16.2,0.8,ml,46,35,0.03373,0.15,ci,ci40669528,2024-02-14T05:20:59.278Z,"9 km S of Idyllwild, CA",earthquake,0.18,0.29,0.226,26,automatic,ci,ci
 2024-02-14T04:58:35.280Z,19.2000007629395,-155.374160766602,31.0799999237061,1.89999998,md,39,173,0.09422,0.129999995,hv,hv74109602,2024-02-14T05:00:22.010Z,"10 km E of Pāhala, Hawaii",earthquake,0.58,0.620000005,0.340000004,5,automatic,hv,hv
 2024-02-14T04:57:41.950Z,17.9578333333333,-66.9636666666667,14.18,2.58,md,15,201,0.05429,0.15,pr,pr71439858,2024-02-14T05:12:37.090Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.52,0.52,0.0670466474937377,7,reviewed,pr,pr
@@ -6,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T04:54:34.045Z,38.1858,-117.8478,2.5,1.8,ml,15,108.88,0.109,0.2894,nn,nn00873418,2024-02-14T04:57:30.820Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.17,10,automatic,nn,nn
 2024-02-14T04:42:29.463Z,-58.38,-24.8391,22.334,5.2,mb,39,88,7.663,0.6,us,us7000lz2w,2024-02-14T04:59:02.040Z,"South Sandwich Islands region",earthquake,10.51,5.621,0.073,62,reviewed,us,us
 2024-02-14T04:41:03.940Z,38.8148346,-122.8300018,1.48,0.94,md,9,97,0.005993,0.02,nc,nc74002576,2024-02-14T04:57:25.906Z,"8 km WNW of The Geysers, CA",earthquake,0.38,0.66,0.19,12,automatic,nc,nc
+2024-02-14T04:39:55.470Z,17.9933333333333,-66.7705,16.86,2.47,md,9,189,0.03322,0.11,pr,pr71439853,2024-02-14T05:29:25.490Z,"2 km S of Magas Arriba, Puerto Rico",earthquake,0.98,0.6,0.0216239647667567,6,reviewed,pr,pr
 2024-02-14T04:31:30.020Z,46.16566666666667,-122.417,9.2,0.17,ml,15,143,0.04836,0.22,uw,uw61983016,2024-02-14T05:02:03.740Z,"28 km N of Amboy, Washington",earthquake,0.59,0.7,0.0708895801728876,6,reviewed,uw,uw
 2024-02-14T04:30:58.323Z,-58.2826,-24.971,35,5.7,mww,55,49,7.556,0.95,us,us7000lz2v,2024-02-14T04:50:30.907Z,"South Sandwich Islands region",earthquake,10.29,1.895,0.098,10,reviewed,us,us
 2024-02-14T04:27:31.920Z,39.6809998,-123.4453354,9.21,2.48,md,26,131,0.04486,0.16,nc,nc74002571,2024-02-14T04:34:12.753Z,"3 km ESE of Laytonville, CA",earthquake,0.44,0.58,0.06,24,automatic,nc,nc
@@ -106,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T20:11:56.030Z,33.0408333,-116.1753333,5.41,1.45,ml,51,55,0.1147,0.2,ci,ci40669208,2024-02-13T20:23:02.720Z,"12 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.61,0.218,28,automatic,ci,ci
 2024-02-13T20:10:10.987Z,65.425,-148.4204,3.5,1.5,ml,,,,0.15,ak,ak024213m3u2,2024-02-13T20:12:16.032Z,"12 km SSE of Livengood, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2024-02-13T20:09:53.010Z,19.2503337860107,-155.397171020508,27.9400005340576,2.21000004,md,36,132,0.08334,0.119999997,hv,hv74109107,2024-02-13T20:11:26.600Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.49,0.670000017,0.439999998,6,automatic,hv,hv
-2024-02-13T20:08:28.424Z,31.68,-104.416,6.1316,3.9,ml,66,69,0,0.2,tx,tx2024dccm,2024-02-13T20:45:40.700Z,"55 km S of Whites City, New Mexico",earthquake,0.7157695851,0.7346273152,0,42,reviewed,tx,tx
+2024-02-13T20:08:28.424Z,31.68,-104.416,6.1316,3.9,ml,66,69,0,0.2,tx,tx2024dccm,2024-02-13T22:15:38.290Z,"55 km S of Whites City, New Mexico",earthquake,0.7157695851,0.7346273152,0,42,reviewed,tx,tx
 2024-02-13T20:05:42.130Z,34.9896667,-118.1896667,0.34,1.14,ml,16,100,0.1151,0.15,ci,ci40669192,2024-02-13T20:12:04.959Z,"7 km SSW of Mojave, CA",earthquake,0.42,0.67,0.075,15,automatic,ci,ci
 2024-02-13T20:05:38.760Z,38.7876663,-122.7718353,4.53,0.71,md,9,113,0.01372,0.12,nc,nc74002341,2024-02-13T22:10:11.110Z,"2 km NW of The Geysers, CA",earthquake,0.99,1.06,0.09,8,automatic,nc,nc
 2024-02-13T20:02:18.300Z,46.0116666666667,-112.454666666667,-2,1.75,ml,10,87,0.07109,0.1,mb,mb90040658,2024-02-13T21:09:57.130Z,"6 km E of Butte, Montana",quarry blast,0.39,31.61,0.33138805544407,16,reviewed,mb,mb
@@ -270,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T05:49:28.420Z,33.6916667,-116.7288333,17.79,0.75,ml,39,61,0.02297,0.13,ci,ci40668784,2024-02-13T14:39:35.020Z,"6 km S of Idyllwild, CA",earthquake,0.19,0.34,0.133,16,reviewed,ci,ci
 2024-02-13T05:44:20.190Z,36.5661666666667,-89.6046666666667,8.73,2.3,md,46,42,0.01766,0.1,nm,nm60569926,2024-02-13T15:07:27.560Z,"0 km WSW of Howardville, Missouri",earthquake,0.13,0.29,0.0596103716725342,38,reviewed,nm,nm
 2024-02-13T05:37:18.620Z,38.8221664,-122.7878342,1.88,0.77,md,12,56,0.0105,0.01,nc,nc74002106,2024-02-13T05:48:09.962Z,"6 km W of Cobb, CA",earthquake,0.34,0.53,0.15,13,automatic,nc,nc
-2024-02-13T05:27:27.880Z,38.7958336,-122.8030014,1.56,1.31,md,24,53,0.007497,0.03,nc,nc74002101,2024-02-13T08:40:10.950Z,"4 km WNW of The Geysers, CA",earthquake,0.21,0.32,0.24,25,automatic,nc,nc
