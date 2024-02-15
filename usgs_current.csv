@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-15T07:55:08.780Z,40.2946663,-124.3508301,10.4,1.94,md,12,243,0.008855,0.08,nc,nc74003041,2024-02-15T07:56:43.937Z,"6 km WSW of Petrolia, CA",earthquake,1.21,0.87,0.05,7,automatic,nc,nc
+2024-02-15T07:50:39.990Z,19.4253330230713,-155.464340209961,5.59000015258789,2.31,ml,52,38,0.05341,0.180000007,hv,hv74112386,2024-02-15T07:53:18.930Z,"24 km W of Volcano, Hawaii",earthquake,0.23,0.569999993,0.3,20,automatic,hv,hv
+2024-02-15T07:50:12.310Z,19.4286670684814,-155.454498291016,23.9300003051758,2.27,ml,9,233,0.09106,0.319999993,hv,hv74112381,2024-02-15T07:52:52.320Z,"23 km W of Volcano, Hawaii",earthquake,3.85,2.50999999,0.25,19,automatic,hv,hv
 2024-02-15T07:44:58.107Z,64.766,-147.9303,13.2,1,ml,,,,1.12,ak,ak0242475jxu,2024-02-15T07:47:02.882Z,"8 km SW of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-15T07:39:58.689Z,62.5213,-150.8949,69.4,2.4,ml,,,,0.79,ak,ak0242474hd5,2024-02-15T07:41:56.057Z,"7 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-15T07:16:53.720Z,38.8333321,-122.8454971,2.72,0.36,md,8,123,0.0106,0.04,nc,nc74003026,2024-02-15T07:44:11.732Z,"10 km NW of The Geysers, CA",earthquake,0.62,1.31,0.24,9,automatic,nc,nc
 2024-02-15T07:14:24.159Z,60.1925,-139.6681,4.3,1.8,ml,,,,0.94,ak,ak024246z1u7,2024-02-15T07:16:19.077Z,"71 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-02-15T07:12:22.562Z,-46.2069,95.6035,10,5,mb,44,44,17.328,0.39,us,us7000lzck,2024-02-15T07:57:00.040Z,"southeast Indian Ridge",earthquake,11.16,1.834,0.092,38,reviewed,us,us
 2024-02-15T07:08:51.010Z,62.4665,-149.281,6.1,1.5,ml,,,,0.78,ak,ak024246xtm5,2024-02-15T07:10:47.509Z,"42 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-15T06:57:14.490Z,33.6273333,-116.6903333,12.97,0.56,ml,33,59,0.04369,0.12,ci,ci40670536,2024-02-15T07:03:22.975Z,"8 km N of Anza, CA",earthquake,0.17,0.31,0.193,11,automatic,ci,ci
 2024-02-15T06:50:50.918Z,60.2027,-139.6846,7.8,1.8,ml,,,,0.76,ak,ak024246le2r,2024-02-15T06:52:52.144Z,"73 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -249,9 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T08:01:59.770Z,57.0475,-135.643666666667,6.79,0.01,ml,4,171,,0.04,av,av91132068,2024-02-15T02:56:11.370Z,"18 km W of Sitka, Alaska",earthquake,0.93,0.68,0.177061076950739,4,reviewed,av,av
 2024-02-14T08:01:33.740Z,33.1328333,-115.6208333,8.76,1.9,ml,46,41,0.03607,0.22,ci,ci40669648,2024-02-14T08:16:55.056Z,"10 km W of Calipatria, CA",earthquake,0.2,0.44,0.292,28,automatic,ci,ci
 2024-02-14T07:59:36.697Z,8.4297,126.6365,70.762,4.8,mb,52,126,1.71,0.84,us,us7000lz4c,2024-02-14T11:51:05.707Z,"33 km E of Hinatuan, Philippines",earthquake,9.26,7.088,0.06,86,reviewed,us,us
-2024-02-14T07:57:12.530Z,57.0346666666667,-135.6405,6.83,0.03,ml,4,184,,0.07,av,av91132058,2024-02-15T02:47:54.370Z,"18 km W of Sitka, Alaska",earthquake,1.02,1.01,0.194461155708996,4,reviewed,av,av
-2024-02-14T07:56:21.310Z,33.1371667,-115.62,7.75,2.58,ml,53,42,0.03706,0.23,ci,ci40669640,2024-02-14T16:56:52.130Z,"10 km W of Calipatria, CA",earthquake,0.19,0.36,0.158,22,reviewed,ci,ci
-2024-02-14T07:55:24.030Z,33.1336667,-115.619,7.69,2.39,ml,40,92,0.03491,0.2,ci,ci40669632,2024-02-14T16:11:26.189Z,"10 km W of Calipatria, CA",earthquake,0.2,0.38,0.187,29,reviewed,ci,ci
-2024-02-14T07:54:01.580Z,57.0395,-135.642,7.36,0.05,ml,4,178,,0.07,av,av91132053,2024-02-15T02:45:03.490Z,"18 km W of Sitka, Alaska",earthquake,1.07,0.85,0.283255967905621,4,reviewed,av,av
-2024-02-14T07:53:13.600Z,33.1276667,-115.623,9.84,4.04,mw,74,41,0.03654,0.26,ci,ci40669624,2024-02-15T04:44:44.578Z,"10 km N of Westmorland, CA",earthquake,0.2,0.41,,7,reviewed,ci,ci
-2024-02-14T07:51:02.480Z,33.9306667,-117.0623333,6.08,0.93,ml,51,39,0.09332,0.19,ci,ci40669616,2024-02-14T14:21:32.438Z,"6 km S of Calimesa, CA",earthquake,0.16,0.75,0.126,17,reviewed,ci,ci
