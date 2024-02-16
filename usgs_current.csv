@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-15T04:49:33.335Z,31.5352,-114.2895,10,3.8,ml,16,178,1.047,1.16,us,us7000lzbq,2024-02-16T01:43:52.387Z,"25 km SE of Golfo de Santa Clara, Mexico",earthquake,4.24,1.982,0.048,58,reviewed,us,us
 2024-02-15T04:48:01.140Z,19.146,-66.08,22.13,3.41,md,13,250,0.8325,0.2,pr,pr71439978,2024-02-15T05:01:20.190Z,"75 km N of San Juan, Puerto Rico",earthquake,0.85,17.84,0.0474926489614262,10,reviewed,pr,pr
 2024-02-15T04:44:14.580Z,39.5233345,-123.3395004,11.2,1.49,md,10,100,0.0543,0.13,nc,nc74003001,2024-02-15T06:53:18.418Z,"10 km NNE of Brooktrails, CA",earthquake,0.62,1.44,0.39,5,automatic,nc,nc
-2024-02-15T04:28:42.520Z,17.9565,-66.3393333333333,14.53,2.3,md,12,162,0.123,0.27,pr,pr71439968,2024-02-15T04:49:17.900Z,"3 km ESE of Jauca, Puerto Rico",earthquake,0.87,1.51,0.0395989208200211,4,reviewed,pr,pr
