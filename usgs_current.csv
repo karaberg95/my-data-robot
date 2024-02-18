@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-18T06:56:41.710Z,38.8143349,-122.828331,1.65,1.3,md,23,48,0.005499,0.03,nc,nc74004236,2024-02-18T07:08:10.945Z,"8 km WNW of The Geysers, CA",earthquake,0.19,0.34,0.08,25,automatic,nc,nc
+2024-02-18T07:21:47.290Z,38.8328323,-122.8156662,1.53,1.08,md,19,54,0.01039,0.02,nc,nc74004241,2024-02-18T07:23:23.669Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.55,0.28,20,automatic,nc,nc
+2024-02-18T06:56:41.710Z,38.8143349,-122.828331,1.65,1.3,md,23,48,0.005499,0.03,nc,nc74004236,2024-02-18T07:20:13.022Z,"8 km WNW of The Geysers, CA",earthquake,0.19,0.34,0.08,25,automatic,nc,nc
 2024-02-18T06:51:04.230Z,38.814167,-122.8276672,1.67,1.97,md,35,45,0.005421,0.04,nc,nc74004231,2024-02-18T07:09:12.952Z,"7 km WNW of The Geysers, CA",earthquake,0.15,0.25,0.13,37,automatic,nc,nc
 2024-02-18T06:33:44.480Z,36.0185013,-120.9358368,7.15,1.83,md,21,104,0.03828,0.09,nc,nc74004226,2024-02-18T06:58:12.898Z,"3 km W of San Ardo, CA",earthquake,0.39,0.67,0.28,14,automatic,nc,nc
 2024-02-18T06:12:45.740Z,18.011,-66.7996666666667,15.45,2.3,md,9,165,0.08376,0.19,pr,pr71440313,2024-02-18T06:28:58.000Z,"1 km SW of Guayanilla, Puerto Rico",earthquake,0.67,1.35,0.0307472387954886,5,reviewed,pr,pr
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T07:58:49.210Z,33.6781667,-116.7068333,15.65,0.69,ml,41,58,0.02906,0.16,ci,ci40671880,2024-02-17T08:04:59.900Z,"7 km S of Idyllwild, CA",earthquake,0.22,0.36,0.229,15,automatic,ci,ci
 2024-02-17T07:56:11.909Z,63.2736,-151.1171,0,1.9,ml,,,,0.36,ak,ak02427iapye,2024-02-17T07:58:30.736Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-17T07:43:22.340Z,38.833168,-122.7910004,1.76,1.52,md,31,45,0.005258,0.03,nc,nc74003881,2024-02-17T08:32:11.510Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.3,0.18,29,automatic,nc,nc
-2024-02-17T07:19:57.981Z,31.609,-104.581,2.7649,1.5,ml,15,178,0.1,0.6,tx,tx2024dile,2024-02-17T07:38:01.843Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.44440001991633,0.2,13,automatic,tx,tx
