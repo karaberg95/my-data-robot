@@ -132,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T05:25:08.595Z,31.67,-104.42,7.5867,1.6,ml,26,66,0,0.2,tx,tx2024dlyj,2024-02-19T18:57:11.267Z,"56 km S of Whites City, New Mexico",earthquake,0.6988017355968908,0.8010068757853095,0.1,20,reviewed,tx,tx
 2024-02-19T05:20:50.750Z,38.8023338,-122.7815018,2.64,0.91,md,14,64,0.01043,0.02,nc,nc74004666,2024-02-19T05:36:15.011Z,"4 km NW of The Geysers, CA",earthquake,0.33,0.57,0.16,18,automatic,nc,nc
 2024-02-19T05:15:27.899Z,64.7087,-149.0902,16.4,0.9,ml,,,,0.55,ak,ak0242arxslx,2024-02-19T05:17:29.958Z,"11 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-02-19T05:05:19.060Z,19.1728333333333,-155.480333333333,29.19,1.72,md,38,83,0.02443,0.09,hv,hv74116076,2024-02-19T23:46:41.260Z,"3 km S of Pāhala, Hawaii",earthquake,0.5,0.62,0.110296473554164,23,reviewed,hv,hv
 2024-02-19T04:57:22.551Z,63.2699,-151.4175,9,1.4,ml,,,,0.62,ak,ak0242arlcnz,2024-02-19T04:59:23.729Z,"33 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-19T04:38:23.420Z,37.9263333333333,-90.258,5.09,1.89,md,14,93,0.1446,0.18,nm,nm60501638,2024-02-19T14:42:09.800Z,"5 km NW of Weingarten, Missouri",earthquake,0.33,2.67,0.110444878627248,9,reviewed,nm,nm
 2024-02-19T04:08:15.120Z,19.1708335876465,-155.490325927734,30.0300006866455,2.35,ml,52,95,0.03077,0.129999995,hv,hv74116056,2024-02-19T04:10:55.220Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.38,0.529999971,0.12,6,automatic,hv,hv
