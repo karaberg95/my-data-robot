@@ -148,4 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-19T15:33:21.000Z,61.9323,-150.99,77.4,2.1,ml,,,,0.37,ak,ak0242axzz0k,2024-02-19T15:35:18.972Z,"22 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-19T15:32:31.060Z,33.6231667,-116.6975,12.31,1.41,ml,63,38,0.04971,0.17,ci,ci40672904,2024-02-19T20:58:52.320Z,"8 km NNW of Anza, CA",earthquake,0.15,0.3,0.143,27,reviewed,ci,ci
 2024-02-19T15:31:49.967Z,63.3635,-149.7586,103.4,1,ml,,,,0.71,ak,ak0242axzm8g,2024-02-19T19:14:10.434Z,"40 km W of Cantwell, Alaska",earthquake,,3.8,,,reviewed,ak,ak
-2024-02-19T15:27:11.681Z,-11.5411,166.3658,67.231,4.6,mb,49,63,6.649,0.44,us,us7000m068,2024-02-19T15:55:19.040Z,"109 km SE of Lata, Solomon Islands",earthquake,10.58,7.035,0.087,42,reviewed,us,us
