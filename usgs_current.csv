@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-22T17:06:21.059Z,64.9275,-148.9355,10.6,1.8,ml,,,,0.69,ak,ak0242fxn3dl,2024-02-22T17:08:27.150Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-22T17:05:16.040Z,34.6883333,-116.4196667,10.84,1.39,ml,18,62,0.1463,0.15,ci,ci40674328,2024-02-22T17:11:40.857Z,"24 km W of Ludlow, CA",earthquake,0.21,0.42,0.122,16,automatic,ci,ci
 2024-02-22T17:04:31.480Z,19.1386661529541,-155.381500244141,32.060001373291,2.55,ml,23,232,0.07801,0.140000001,hv,hv74119041,2024-02-22T17:07:09.510Z,"12 km SE of Pāhala, Hawaii",earthquake,0.94,0.800000012,0.19,8,automatic,hv,hv
-2024-02-22T17:03:41.798Z,64.9548,-148.9147,0,2.8,ml,,,,0.99,ak,ak0242fxmhtv,2024-02-22T17:05:55.130Z,"29 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-02-22T17:03:41.798Z,64.9548,-148.9147,0,2.8,ml,,,,0.99,ak,ak0242fxmhtv,2024-02-22T17:37:35.040Z,"29 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-22T17:03:18.294Z,64.9494,-148.9176,14.1,1.4,ml,,,,0.15,ak,ak0242fxmg0l,2024-02-22T17:04:35.132Z,"30 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-22T16:49:06.510Z,19.4886665344238,-155.181335449219,0.699999988079071,2.74000001,md,15,196,0.1109,0.349999994,hv,hv74119021,2024-02-22T16:50:35.500Z,"5 km WNW of Fern Forest, Hawaii",earthquake,1.4,0.99000001,0.289999992,6,automatic,hv,hv
 2024-02-22T16:40:33.770Z,38.7493324,-122.6998367,1.03,1.17,md,9,86,0.01882,0.02,nc,nc74006106,2024-02-22T16:57:17.451Z,"3 km SSW of Anderson Springs, CA",earthquake,0.28,0.55,0.13,9,automatic,nc,nc
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T18:06:58.220Z,17.9115,-66.2893333333333,8.52,2.38,md,19,189,0.1279,0.28,pr,pr71440768,2024-02-21T18:22:48.000Z,"7 km S of Salinas, Puerto Rico",earthquake,0.58,1.07,0.202154962936942,10,reviewed,pr,pr
 2024-02-21T18:06:14.633Z,36.7428,-116.2889,8.3,-0.2,ml,8,118.87,0.032,0.035,nn,nn00873765,2024-02-22T02:16:57.401Z,"45 km ESE of Beatty, Nevada",earthquake,,2.3,0.12,4,reviewed,nn,nn
 2024-02-21T17:58:11.113Z,31.557,-104.016,8.0994,1.6,ml,13,64,0,0.1,tx,tx2024dqof,2024-02-22T01:23:53.422Z,"34 km NW of Toyah, Texas",earthquake,0.7914285912257819,0.7220219979257873,0.1,11,reviewed,tx,tx
-2024-02-21T17:36:51.470Z,19.1743333333333,-155.485666666667,30.26,3.02,ml,61,85,0.02915,0.11,hv,hv74118166,2024-02-21T20:39:25.820Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.39,0.49,0.154224919830041,27,reviewed,hv,hv
-2024-02-21T17:33:58.910Z,38.494,-112.899166666667,2.71,0.86,md,10,139,0.01092,0.07,uu,uu80045271,2024-02-21T22:08:04.110Z,"14 km NE of Milford, Utah",earthquake,0.39,0.51,0.741842996885567,5,reviewed,uu,uu
