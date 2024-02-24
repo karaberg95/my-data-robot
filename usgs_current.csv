@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-24T23:14:36.660Z,38.8341675,-122.7949982,1.42,0.24,md,7,88,0.005581,0.02,nc,nc74007336,2024-02-24T23:25:10.997Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.11,0.09,8,automatic,nc,nc
+2024-02-24T22:59:01.549Z,38.6651,25.4683,7.637,4.2,mb,41,49,1.896,0.68,us,us7000m1ep,2024-02-24T23:17:05.040Z,"16 km NNW of Psará, Greece",earthquake,3.08,5.654,0.198,7,reviewed,us,us
 2024-02-24T22:53:25.757Z,36.7321,-115.8805,1.5,-0.2,ml,8,260.17,0.083,0.09,nn,nn00873876,2024-02-24T22:55:21.615Z,"26 km NW of Indian Springs, Nevada",earthquake,,5.6,0.2,3,automatic,nn,nn
 2024-02-24T22:47:02.940Z,38.8325005,-122.8164978,1.88,0.76,md,9,112,0.01038,0.01,nc,nc74007321,2024-02-24T23:03:14.882Z,"8 km NW of The Geysers, CA",earthquake,0.4,0.98,0.49,11,automatic,nc,nc
 2024-02-24T22:38:50.490Z,33.9583333,-116.9906667,16.22,1.35,ml,50,38,0.1423,0.13,ci,ci40675864,2024-02-24T22:53:40.659Z,"3 km NNW of Beaumont, CA",earthquake,0.13,0.42,0.142,27,automatic,ci,ci
@@ -210,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T23:37:55.020Z,46.55166666666667,-119.87733333333334,6.74,0.9,ml,11,148,0.01699,0.06,uw,uw61984226,2024-02-24T21:32:27.900Z,"14 km SSE of Desert Aire, Washington",earthquake,0.31,0.13,0.1983121259723607,11,reviewed,uw,uw
 2024-02-23T23:36:40.942Z,59.8325,-152.9907,97.7,1.4,ml,,,,0.32,ak,ak0242hoxiim,2024-02-23T23:39:09.780Z,"62 km E of Pedro Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-02-23T23:29:41.962Z,39.4931,-119.4851,4.5,1.8,ml,12,74.54,0.231,0.1956,nn,nn00873835,2024-02-23T23:31:44.485Z,"16 km NW of Stagecoach, Nevada",earthquake,,1.7,0.22,8,automatic,nn,nn
-2024-02-23T23:22:35.752Z,59.9692,-147.288,59,2,ml,,,,1.15,ak,ak0242houi3b,2024-02-23T23:26:49.898Z,"41 km ESE of Chenega, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2024-02-23T23:16:59.430Z,45.8435,-122.48583333333333,-0.72,1.59,ml,19,200,0.1004,0.2,uw,uw61984216,2024-02-24T03:11:00.989Z,"4 km NE of Lewisville, Washington",explosion,0.77,31.61,0.1290767541481712,17,reviewed,uw,uw
