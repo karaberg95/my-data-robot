@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-02T19:38:35.285Z,60.38,-143.0312,13.8,1.7,ml,,,,0.45,ak,ak0242uuuz1k,2024-03-02T19:40:36.870Z,"117 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-02T19:17:42.591Z,54.4272,-161.7601,50.079,4.4,mwr,62,144,1.055,0.52,us,us6000mgch,2024-03-02T19:40:46.040Z,"79 km SSE of King Cove, Alaska",earthquake,5.83,5.966,0.052,35,reviewed,us,us
 2024-03-02T19:16:02.550Z,34.1043333,-117.3083333,14.31,1.3,ml,22,114,0.1124,0.18,ci,ci40680152,2024-03-02T19:22:27.118Z,"3 km SSW of San Bernardino, CA",earthquake,0.45,0.77,0.246,33,automatic,ci,ci
 2024-03-02T19:15:00.474Z,57.593,-154.5192,17.1,2.3,ml,,,,0.29,ak,ak0242uupyvz,2024-03-02T19:16:33.439Z,"4 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-02T18:51:30.370Z,19.2268333435059,-155.462829589844,29.2000007629395,1.73000002,md,29,100,0.04033,0.119999997,hv,hv74126576,2024-03-02T18:53:02.370Z,"3 km NNE of Pāhala, Hawaii",earthquake,0.55,0.850000024,0.129999995,7,automatic,hv,hv
@@ -189,8 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T20:07:49.694Z,62.8808,-150.7527,91.5,1.9,ml,,,,0.38,ak,ak0242t7qg2h,2024-03-01T20:09:56.168Z,"42 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-01T20:03:22.540Z,51.8956666666667,179.579333333333,10.08,0.87,ml,5,251,,0.2,av,av92220626,2024-03-02T02:50:49.510Z,"260 km W of Adak, Alaska",earthquake,0.97,1.05,0.235897906640946,5,reviewed,av,av
 2024-03-01T19:52:55.690Z,40.9028333,-121.7933333,15.94,2.36,md,35,56,0.1503,0.08,nc,nc74010391,2024-03-01T21:22:07.323Z,"11 km WNW of Burney, CA",earthquake,0.2,0.74,0.165,34,reviewed,nc,nc
-2024-03-01T19:44:12.650Z,19.2178325653076,-155.481826782227,34.7400016784668,2.05999994,md,13,99,0.06483,0.200000003,hv,hv74125636,2024-03-01T19:45:46.070Z,"1 km NNW of Pāhala, Hawaii",earthquake,1.01,1.35000002,0.270000011,3,automatic,hv,hv
-2024-03-01T19:43:03.633Z,51.8559,178.2753,125.472,4.2,mb,23,192,0.209,0.61,us,us6000mg6f,2024-03-01T20:29:11.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.51,5.552,0.159,11,reviewed,us,us
-2024-03-01T19:39:35.499Z,59.6026,-151.9315,43.2,2.2,ml,,,,0.45,ak,ak0242t7bump,2024-03-01T19:47:49.107Z,"20 km SSW of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2024-03-01T19:38:27.280Z,51.9158333333333,-178.333,17.85,0.67,ml,4,332,,0.16,av,av91135033,2024-03-02T02:57:38.240Z,"117 km W of Adak, Alaska",earthquake,1.84,1.91,0.217361116260855,4,reviewed,av,av
-2024-03-01T19:37:16.520Z,37.8811667,-118.4633333,9.1,1.73,md,18,105,0.1487,0.05,nc,nc74010386,2024-03-01T20:48:06.221Z,"40 km NNE of Toms Place, CA",earthquake,0.28,1.21,0.11,16,reviewed,nc,nc
