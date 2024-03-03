@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-03T11:34:05.720Z,19.2013339996338,-155.500335693359,31.3799991607666,2.86,ml,60,65,0.04681,0.119999997,hv,hv74127456,2024-03-03T11:36:42.810Z,"2 km W of Pāhala, Hawaii",earthquake,0.33,0.449999988,0.36,38,automatic,hv,hv
+2024-03-03T11:34:05.720Z,19.2013339996338,-155.500335693359,31.3799991607666,2.86,ml,60,65,0.04681,0.119999997,hv,hv74127456,2024-03-03T11:38:19.040Z,"2 km W of Pāhala, Hawaii",earthquake,0.33,0.449999988,0.36,38,automatic,hv,hv
 2024-03-03T11:19:21.890Z,38.8376656,-122.8361664,1.76,0.95,md,19,79,0.001064,0.01,nc,nc74011026,2024-03-03T11:32:17.273Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.42,0.16,20,automatic,nc,nc
 2024-03-03T11:15:09.880Z,34.8471667,-119.118,1.16,1.77,ml,48,32,0.04117,0.27,ci,ci40680336,2024-03-03T11:23:13.168Z,"3 km E of Pine Mountain Club, CA",earthquake,0.24,0.34,0.154,27,automatic,ci,ci
 2024-03-03T11:11:49.395Z,31.61,-103.975,5.0325,1.5,ml,14,63,0,0.2,tx,tx2024ekdj,2024-03-03T11:28:50.357Z,"37 km NNW of Toyah, Texas",earthquake,0,2.28086055409982,0.1,12,automatic,tx,tx
