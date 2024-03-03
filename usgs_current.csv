@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-03T02:56:08.801Z,62.5152,-150.7511,79.7,1.4,ml,,,,0.76,ak,ak0242w8dr3k,2024-03-03T02:58:01.119Z,"2 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-03-03T02:50:47.520Z,38.831665,-122.8171692,1.51,1.11,md,12,81,0.009945,0.01,nc,nc74010911,2024-03-03T02:52:20.104Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.82,0.35,16,automatic,nc,nc
 2024-03-03T02:46:15.487Z,61.2135,-151.1819,67.4,1.6,ml,,,,0.42,ak,ak0242w8bmgc,2024-03-03T02:48:21.578Z,"9 km NNW of Beluga, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-03-03T02:37:20.340Z,33.9006667,-117.0318333,15.84,1.21,ml,29,55,0.1495,0.15,ci,ci40680248,2024-03-03T02:43:59.756Z,"6 km WSW of Beaumont, CA",earthquake,0.21,0.58,0.224,26,automatic,ci,ci
 2024-03-03T02:35:19.460Z,19.1731662750244,-155.49299621582,33.0900001525879,2.28999996,md,35,92,0.03412,0.140000001,hv,hv74127106,2024-03-03T02:37:07.350Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.620000005,0.100000001,5,automatic,hv,hv
@@ -200,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-02T03:39:27.410Z,35.961,-117.6556667,3.71,1.39,ml,25,66,0.01376,0.14,ci,ci40679968,2024-03-02T03:45:33.181Z,"23 km E of Little Lake, CA",earthquake,0.21,0.31,0.122,18,automatic,ci,ci
 2024-03-02T03:07:51.286Z,31.609,-104.082,6.4606,1.6,ml,15,145,0,0.3,tx,tx2024ehrw,2024-03-02T03:42:47.117Z,"42 km NW of Toyah, Texas",earthquake,0,2.86860193605978,0.2,13,automatic,tx,tx
 2024-03-02T03:06:40.610Z,17.918,-66.8546666666667,12.93,2.57,md,7,227,0.06138,0.19,pr,pr71441698,2024-03-02T03:15:05.970Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.28,0.72,0.031103850159794,4,reviewed,pr,pr
-2024-03-02T02:54:27.680Z,38.8058319,-122.8233337,1.89,1.81,md,23,70,0.005481,0.04,nc,nc74010501,2024-03-02T02:56:03.701Z,"7 km WNW of The Geysers, CA",earthquake,0.22,0.38,0.17,26,automatic,nc,nc
