@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-05T03:55:45.670Z,38.8538322,-122.7923355,10.67,0.23,md,7,219,0.01548,0.06,nc,nc74011946,2024-03-05T03:57:21.398Z,"7 km WNW of Cobb, CA",earthquake,2.29,8.56,0.09,8,automatic,nc,nc
 2024-03-05T03:19:59.300Z,18.0275,-66.7498333333333,16.64,2.72,md,26,125,0.04037,0.24,pr,pr71442058,2024-03-05T03:33:09.250Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.44,0.53,0.0220017971205133,6,reviewed,pr,pr
 2024-03-05T03:10:43.606Z,36.6076,-115.5764,4.5,0.7,ml,8,314.13,0.314,0.2033,nn,nn00874187,2024-03-05T03:13:01.752Z,"9 km ENE of Indian Springs, Nevada",earthquake,,3.3,0.41,3,automatic,nn,nn
 2024-03-05T03:10:35.070Z,17.9576666666667,-66.2545,10.47,2.34,md,14,186,0.07336,0.07,pr,pr71442048,2024-03-05T03:27:41.690Z,"3 km W of Central Aguirre, Puerto Rico",earthquake,0.31,0.43,0.162810450924857,6,reviewed,pr,pr
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T04:08:42.970Z,44.7478333333333,-111.193,11.61,-0.35,md,8,118,0.003742,0.15,uu,uu80059696,2024-03-04T14:24:57.810Z,"2 km S of Hebgen Lake Estates, Montana",earthquake,0.65,0.9,0.0658126808085848,3,reviewed,uu,uu
 2024-03-04T04:06:51.872Z,59.9463,-139.6541,0,1.8,ml,,,,0.86,ak,ak0242xwtcbn,2024-03-04T04:10:21.371Z,"44 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-04T04:05:15.298Z,61.7037,-150.0292,2.9,1.7,ml,,,,0.35,ak,ak0242xwt1s9,2024-03-04T04:07:17.923Z,"4 km S of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-04T03:50:36.768Z,41.6168,81.1152,39.052,4.3,mb,48,84,1.488,0.63,us,us6000mgkx,2024-03-04T23:50:48.040Z,"84 km NE of Aksu, China",earthquake,7.5,9.11,0.096,31,reviewed,us,us
