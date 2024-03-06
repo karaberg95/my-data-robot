@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-06T18:37:44.340Z,38.8433342,-122.8251648,1.93,0.77,md,15,94,0.009351,0.02,nc,nc74012721,2024-03-06T18:39:18.478Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.6,0.33,15,automatic,nc,nc
 2024-03-06T18:28:48.952Z,36.37033463,-96.6643219,2.387909174,1.97,ml,24,185.6045685,0.1280220598,0.4857595939,ok,ok2024eqeh,2024-03-06T18:32:42.078Z,"3 km ESE of Skedee, Oklahoma",earthquake,3.935898464,2.105550257,0.21,9,automatic,ok,ok
 2024-03-06T18:18:56.550Z,33.1635,-116.0915,9.83,1.16,ml,49,47,0.06456,0.19,ci,ci40682344,2024-03-06T18:29:30.620Z,"4 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.44,0.229,28,automatic,ci,ci
 2024-03-06T18:07:35.150Z,36.0216675,-120.5923309,1.76,1.54,md,10,107,0.04269,0.09,nc,nc74012716,2024-03-06T18:09:09.036Z,"20 km NW of Parkfield, CA",earthquake,0.44,2.09,0.01,5,automatic,nc,nc
@@ -233,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T18:55:18.800Z,38.8110008,-122.8184967,2.92,1.08,md,27,54,0.008613,0.05,nc,nc74012176,2024-03-05T18:56:54.186Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.12,27,automatic,nc,nc
 2024-03-05T18:54:50.650Z,19.2001666666667,-155.490833333333,31.89,2.08,md,45,76,0.04857,0.11,hv,hv74129071,2024-03-05T19:57:28.040Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.49,0.57,0.234071757441731,18,reviewed,hv,hv
 2024-03-05T18:46:09.100Z,19.4306666666667,-155.383833333333,8.95,1.25,md,38,75,0.06221,0.12,hv,hv74129066,2024-03-05T19:22:48.430Z,"15 km W of Volcano, Hawaii",earthquake,0.3,0.53,0.161842453864072,20,reviewed,hv,hv
-2024-03-05T18:39:43.050Z,44.3613333333333,-116.117333333333,8.32,2.41,ml,11,62,0.3472,0.16,mb,mb90042538,2024-03-05T22:29:56.930Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.43,1.08,0.310612116152744,22,reviewed,mb,mb
-2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-05T18:37:46.630Z,46.123333333333335,-122.04083333333334,7.08,0.88,ml,10,253,0.007268,0.43,uw,uw61987581,2024-03-05T22:46:24.700Z,"39 km NE of Amboy, Washington",earthquake,1.8,1.22,0.1481311557008227,5,reviewed,uw,uw
