@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-07T14:24:08.150Z,38.8381653,-122.7699966,1.27,1,md,12,157,0.00668,0.04,nc,nc74013186,2024-03-07T14:25:44.196Z,"4 km WNW of Cobb, CA",earthquake,0.32,0.4,0.24,13,automatic,nc,nc
 2024-03-07T14:09:51.150Z,38.8264999,-122.8511658,1.38,0.77,md,11,87,0.004578,0.02,nc,nc74013181,2024-03-07T14:11:28.021Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.67,0.22,12,automatic,nc,nc
 2024-03-07T14:05:53.600Z,38.8356667,-122.7711639,0.99,0.79,md,7,137,0.005279,0.02,nc,nc74013176,2024-03-07T14:07:27.924Z,"4 km WNW of Cobb, CA",earthquake,0.44,0.64,0.2,9,automatic,nc,nc
 2024-03-07T14:00:27.380Z,38.8328323,-122.7681656,0.93,1.74,md,34,68,0.002724,0.06,nc,nc74013171,2024-03-07T14:03:30.081Z,"4 km WNW of Cobb, CA",earthquake,0.19,0.27,0.17,33,automatic,nc,nc
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T14:44:01.280Z,38.7514992,-122.7128296,1.42,0.89,md,8,128,0.01379,0.01,nc,nc74012581,2024-03-06T14:45:38.990Z,"3 km SW of Anderson Springs, CA",earthquake,0.35,0.5,0.17,8,automatic,nc,nc
 2024-03-06T14:38:16.490Z,38.5268326,-122.6151657,8.28,1.23,md,9,194,0.08672,0.03,nc,nc74012576,2024-03-06T14:39:52.982Z,"7 km SSW of Calistoga, CA",earthquake,0.92,1.48,0.07,5,automatic,nc,nc
 2024-03-06T14:34:35.980Z,45.872,-111.3465,5,0.75,ml,7,187,0.2937,0.08,mb,mb90042653,2024-03-06T18:30:19.090Z,"2 km NNW of Manhattan, Montana",earthquake,0.8,7.23,0.101706322789172,3,reviewed,mb,mb
-2024-03-06T14:32:20.990Z,44.3651666666667,-116.123166666667,5.01,1.82,ml,7,90,0.3483,0.1,mb,mb90042598,2024-03-06T16:36:50.570Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.45,8.64,0.133024337005833,10,reviewed,mb,mb
