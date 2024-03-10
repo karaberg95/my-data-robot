@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-09T16:06:40.190Z,38.8624992,-122.824501,4.18,0.42,md,9,193,0.007879,0.03,nc,nc74014546,2024-03-09T16:08:16.144Z,"10 km WNW of Cobb, CA",earthquake,1.63,2.65,0.28,11,automatic,nc,nc
 2024-03-09T16:02:00.330Z,17.9238333333333,-66.277,8.02,2.42,md,21,187,0.112,0.33,pr,pr71442583,2024-03-09T16:29:05.350Z,"6 km SSE of Salinas, Puerto Rico",earthquake,0.77,1.57,0.284436697332841,9,reviewed,pr,pr
 2024-03-09T15:58:39.059Z,63.021,-149.6914,9.4,1.8,ml,,,,0.96,ak,ak02436dcyox,2024-03-09T17:46:18.354Z,"55 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-03-09T15:51:42.990Z,38.8168335,-122.8221664,2.35,0.78,md,13,77,0.009658,0.02,nc,nc74014541,2024-03-09T15:53:16.979Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.79,0.16,15,automatic,nc,nc
