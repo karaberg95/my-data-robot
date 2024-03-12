@@ -221,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T22:57:03.120Z,38.8343315,-122.8190002,1.57,0.75,md,9,84,0.01296,0.02,nc,nc74015911,2024-03-11T22:58:36.587Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.01,0.35,10,automatic,nc,nc
 2024-03-11T22:55:23.370Z,38.8330002,-122.8181686,1.77,0.76,md,12,59,0.01149,0.01,nc,nc74015906,2024-03-11T22:56:56.544Z,"8 km NW of The Geysers, CA",earthquake,0.29,1,0.15,13,automatic,nc,nc
 2024-03-11T22:49:56.020Z,38.8343315,-122.8161697,1.24,0.68,md,9,58,0.01191,0.01,nc,nc74015901,2024-03-11T22:51:31.467Z,"8 km W of Cobb, CA",earthquake,0.33,1.23,0.2,9,automatic,nc,nc
-2024-03-11T22:38:09.450Z,38.8289986,-122.7975006,1.25,0.27,md,7,90,0.01093,0.02,nc,nc74015881,2024-03-11T22:39:46.275Z,"6 km W of Cobb, CA",earthquake,0.46,1.04,0.19,8,automatic,nc,nc
-2024-03-11T22:36:33.222Z,59.4838,-136.1031,4.5,2.1,ml,,,,0.56,ak,ak02439sgypo,2024-03-11T22:39:25.732Z,"5 km S of Mosquito Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-11T22:36:20.900Z,38.8139992,-122.8193359,2.59,1.05,md,15,71,0.00924,0.02,nc,nc74015866,2024-03-11T22:37:56.277Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.64,0.32,16,automatic,nc,nc
