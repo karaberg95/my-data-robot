@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-12T07:12:39.526Z,61.8116,-149.5894,33.2,1.6,ml,,,,0.62,ak,ak0243b6xofk,2024-03-12T07:14:22.345Z,"20 km WNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-12T07:05:19.309Z,44.3522,-116.1408,5,2.6,ml,25,61,0.331,0.87,us,us7000m4tm,2024-03-12T18:01:33.239Z,"6 km NW of Smiths Ferry, Idaho",earthquake,1.11,1.888,0.056,42,reviewed,us,us
 2024-03-12T07:02:38.257Z,39.722,-119.8554,9.8,-0.3,ml,4,123.84,0.141,0.0677,nn,nn00874653,2024-03-12T20:59:19.090Z,"9 km N of Lemmon Valley, Nevada",earthquake,,10.5,0,1,reviewed,nn,nn
-2024-03-12T06:41:47.780Z,44.8623333333333,-112.016333333333,4.99,0.8,ml,6,102,0.3288,0.06,mb,mb90043018,2024-03-12T14:08:20.100Z,"48 km S of Virginia City, Montana",earthquake,0.3,31.61,0.0813916676383778,2,reviewed,mb,mb
