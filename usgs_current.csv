@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T23:36:41.800Z,19.3338333333333,-155.127,6.27,2.15,md,45,112,0.04776,0.11,hv,hv74140062,2024-03-18T18:27:54.300Z,"14 km S of Fern Forest, Hawaii",earthquake,0.32,0.5,0.0948560647044836,20,reviewed,hv,hv
 2024-03-17T23:31:20.024Z,49.8907,155.5395,117.202,4.1,mb,23,250,3.493,0.31,us,us6000mji0,2024-03-18T00:02:46.040Z,"96 km SSW of Severo-Kuril’sk, Russia",earthquake,10.69,12.781,0.145,13,reviewed,us,us
 2024-03-17T23:31:17.480Z,38.8458328,-122.8243332,1.95,0.78,md,13,104,0.008848,0.02,nc,nc74019086,2024-03-17T23:32:50.093Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.75,0.2,15,automatic,nc,nc
-2024-03-17T23:17:58.260Z,35.032,-117.6676667,-0.79,1.21,ml,29,46,0.1002,0.22,ci,ci40688616,2024-03-18T17:51:24.194Z,"4 km NNW of Boron, CA",quarry blast,0.42,31.61,0.151,17,reviewed,ci,ci
