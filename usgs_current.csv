@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T17:09:49.990Z,62.2331,-149.3445,26.4,1.7,ml,,,,0.68,ak,ak0243mxmtlj,2024-03-19T17:11:54.131Z,"27 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-19T17:01:23.820Z,38.8113327,-122.828331,1.99,1.08,md,14,59,0.002549,0.02,nc,nc74020031,2024-03-19T17:02:56.182Z,"7 km WNW of The Geysers, CA",earthquake,0.26,0.74,0.09,14,automatic,nc,nc
 2024-03-19T17:00:41.779Z,41.9145,-119.5838,0,1.8,ml,3,239.85,0.535,0.3425,nn,nn00875036,2024-03-19T18:36:34.651Z,"47 km E of Fort Bidwell, California",earthquake,,0,0.64,3,reviewed,nn,nn
-2024-03-19T16:53:29.368Z,31.651,-104.322,5.3503,1.6,ml,17,88,0.1,0.3,tx,tx2024fnur,2024-03-19T17:30:26.821Z,"58 km S of Whites City, New Mexico",earthquake,0,2.6057679606469,0.1,13,automatic,tx,tx
+2024-03-19T16:53:29.506Z,31.653,-104.324,5.5359,1.6,ml,16,67,0.1,0.1,tx,tx2024fnur,2024-03-19T23:27:53.113Z,"58 km S of Whites City, New Mexico",earthquake,0.9504719299437658,1.2037290622281447,0.1,14,reviewed,tx,tx
 2024-03-19T16:38:22.990Z,44.5345,-115.2205,4.46,1.58,ml,6,75,0.5054,0.1,mb,mb90043533,2024-03-19T22:52:14.740Z,"41 km NNW of Stanley, Idaho",earthquake,0.43,8.92,0.283035704404488,8,reviewed,mb,mb
 2024-03-19T16:37:54.580Z,33.418,-116.6165,4.64,0.38,ml,19,75,0.07743,0.1,ci,ci40690192,2024-03-19T17:56:00.235Z,"15 km N of Warner Springs, CA",earthquake,0.18,0.32,0.114,11,reviewed,ci,ci
 2024-03-19T16:27:10.450Z,19.1854991912842,-155.510833740234,34.9099998474121,2.03999996,md,42,93,0.05492,0.159999996,hv,hv74141647,2024-03-19T16:28:52.960Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.62,0.800000012,0.150000006,10,automatic,hv,hv
