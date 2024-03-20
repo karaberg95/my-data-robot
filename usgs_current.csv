@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T19:35:21.930Z,38.8306656,-122.8156662,1.97,1.58,md,27,45,0.008473,0.02,nc,nc74020841,2024-03-20T19:36:57.876Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.31,0.12,29,automatic,nc,nc
 2024-03-20T19:34:46.140Z,38.8318329,-122.8143311,1.71,2.26,md,45,29,0.009058,0.06,nc,nc74020836,2024-03-20T19:37:53.895Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.22,0.13,50,automatic,nc,nc
 2024-03-20T19:32:57.144Z,60.0277,-152.9239,114,2,ml,,,,0.58,ak,ak0243omhzbm,2024-03-20T19:35:24.594Z,"67 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-20T19:31:13.200Z,33.8583333,-117.5078333,0.52,1.55,ml,25,69,0.06632,0.25,ci,ci40518687,2024-03-20T19:37:55.579Z,"2 km SSE of Home Gardens, CA",earthquake,0.32,0.64,0.494,32,automatic,ci,ci
+2024-03-20T19:31:13.030Z,33.8653333,-117.5045,1.99,1.12,ml,23,51,0.04819,0.16,ci,ci40518687,2024-03-20T22:36:57.478Z,"2 km SE of Home Gardens, CA",quarry blast,0.28,0.36,0.131,23,reviewed,ci,ci
 2024-03-20T19:21:21.337Z,60.1576,-151.786,61.6,1.6,ml,,,,0.87,ak,ak0243omfjol,2024-03-20T19:23:23.898Z,"13 km NNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-03-20T19:19:04.770Z,38.4255,-112.316666666667,8.91,0.79,md,12,113,0.1397,0.09,uu,uu80063076,2024-03-20T20:18:31.110Z,"8 km WSW of Marysvale, Utah",earthquake,0.77,3.89,0.417866828925562,10,reviewed,uu,uu
 2024-03-20T19:18:25.480Z,19.2679996490479,-155.388168334961,30.8299999237061,1.97000003,md,34,128,0.0651,0.119999997,hv,hv74143147,2024-03-20T19:20:13.110Z,"11 km NE of Pāhala, Hawaii",earthquake,0.58,0.689999998,0.400000006,5,automatic,hv,hv
@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T23:04:54.163Z,64.9868,-147.3331,3.5,1.4,ml,,,,0.21,ak,ak0243n16cyw,2024-03-19T23:06:24.310Z,"13 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-19T23:01:59.570Z,38.8414993,-122.8253326,1.57,0.67,md,8,98,0.008446,0.01,nc,nc74020241,2024-03-19T23:03:31.879Z,"9 km WNW of Cobb, CA",earthquake,0.48,0.81,0.07,10,automatic,nc,nc
 2024-03-19T23:01:28.800Z,17.8776666666667,-66.9231666666667,13.22,3.06,md,21,218,0.09503,0.14,pr,pr71443378,2024-03-20T02:00:25.031Z,"10 km S of Guánica, Puerto Rico",earthquake,0.57,0.31,0.112247920670869,8,reviewed,pr,pr
-2024-03-19T22:42:25.930Z,51.621,-178.559833333333,18.06,1.78,ml,6,176,,0.16,av,av92236236,2024-03-20T01:43:51.470Z,"135 km WSW of Adak, Alaska",earthquake,1.11,3.02,0.162492072481646,6,reviewed,av,av
