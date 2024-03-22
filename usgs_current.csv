@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T15:22:20.910Z,60.5206666666667,-152.7465,5.67,0.09,ml,4,118,,0.11,av,av92237861,2024-03-21T22:53:23.130Z,"78 km W of Salamatof, Alaska",earthquake,0.51,1.33,0.214829699186308,4,reviewed,av,av
 2024-03-21T15:15:15.510Z,38.8183327,-122.8206635,2.24,1.9,md,37,45,0.009694,0.05,nc,nc74021461,2024-03-21T15:18:30.684Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.14,36,automatic,nc,nc
 2024-03-21T15:05:37.453Z,38.1592,-118.236,0,0.9,ml,4,192.54,0.231,0.1783,nn,nn00875175,2024-03-22T02:04:49.128Z,"27 km SSW of Mina, Nevada",earthquake,,0,0.24,4,reviewed,nn,nn
-2024-03-21T14:49:48.380Z,48.07783333333333,-122.65683333333334,25.36,0.98,md,8,172,0.1804,0.33,uw,uw61991256,2024-03-21T21:34:51.060Z,"3 km NE of Marrowstone, Washington",earthquake,1.3,1.79,0.10864422669107521,8,reviewed,uw,uw
-2024-03-21T14:49:26.821Z,63.5324,-150.1687,25.3,1.7,ml,,,,1.22,ak,ak0243q75qmi,2024-03-21T14:51:51.159Z,"62 km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
