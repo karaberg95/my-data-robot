@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-25T03:30:19.990Z,33.3528328,-116.9358368,6,1.11,ml,26,40,0.06126,0.13,ci,ci40523895,2024-03-25T03:32:34.920Z,"7 km W of Palomar Observatory, CA",earthquake,0.26,0.76,0.114,6,automatic,ci,ci
 2024-03-25T03:14:12.457Z,61.7529,-149.7838,33.6,2,ml,,,,0.47,ak,ak0243wmjtrx,2024-03-25T03:16:16.876Z,"13 km E of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-25T03:05:19.090Z,38.8440018,-122.8136673,0.95,1.16,md,19,76,0.01685,0.06,nc,nc74023461,2024-03-25T03:06:54.375Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.5,0.15,21,automatic,nc,nc
 2024-03-25T02:57:01.570Z,33.659,-116.7728333,15.25,0.96,ml,45,39,0.06555,0.13,ci,ci40523879,2024-03-25T03:03:13.154Z,"10 km SSW of Idyllwild, CA",earthquake,0.13,0.28,0.169,21,automatic,ci,ci
@@ -179,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-24T03:46:34.292Z,63.6755,-149.3071,101.4,2,ml,,,,0.55,ak,ak0243uz7dvp,2024-03-24T03:48:41.737Z,"20 km WSW of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-03-24T03:44:55.570Z,33.2595,-116.1241667,9.18,1.44,ml,63,45,0.1098,0.24,ci,ci40523503,2024-03-24T03:55:29.280Z,"13 km N of Ocotillo Wells, CA",earthquake,0.18,0.67,0.183,28,automatic,ci,ci
 2024-03-24T03:39:25.530Z,38.8448334,-122.8164978,1.39,0.99,md,14,61,0.01118,0.02,nc,nc74022981,2024-03-24T03:41:00.551Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.63,0.27,13,automatic,nc,nc
-2024-03-24T03:31:13.620Z,37.5031667,-118.517,12.5,1.35,md,15,91,0.07373,0.04,nc,nc74022971,2024-03-24T18:06:32.760Z,"12 km NE of Round Valley, CA",earthquake,0.57,1.43,0.131,11,reviewed,nc,nc
-2024-03-24T03:27:32.908Z,64.4831,-146.9329,6.3,1.5,ml,,,,0.28,ak,ak0243uz3b62,2024-03-24T03:29:17.567Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-03-24T03:26:36.746Z,-4.0364,143.1222,11.014,5.2,mb,51,122,2.849,0.72,us,us6000mkwv,2024-03-24T03:44:00.040Z,"39 km ENE of Ambunti, Papua New Guinea",earthquake,8.6,3.526,0.054,114,reviewed,us,us
