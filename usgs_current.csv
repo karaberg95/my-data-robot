@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T09:16:40.660Z,37.6728325,-122.0680008,5.78,1.42,md,12,102,0.06497,0.06,nc,nc74023551,2024-03-25T09:24:31.806Z,"2 km WSW of Fairview, CA",earthquake,0.42,0.81,0.1,5,automatic,nc,nc
 2024-03-25T09:07:19.790Z,33.3468333,-116.3731667,12.88,1.39,ml,67,17,0.02068,0.19,ci,ci40523983,2024-03-25T13:20:41.650Z,"10 km N of Borrego Springs, CA",earthquake,0.15,0.39,0.151,27,reviewed,ci,ci
 2024-03-25T09:06:00.688Z,31.648,-104.29,6.7407,1.7,ml,21,68,0,0.2,tx,tx2024fyeh,2024-03-25T14:36:31.513Z,"59 km S of Whites City, New Mexico",earthquake,0.8358183381877825,1.1650855725516458,0.1,18,reviewed,tx,tx
-2024-03-25T09:02:04.800Z,33.9706667,-116.6746667,8.31,1.54,ml,77,42,0.07123,0.24,ci,ci40523975,2024-03-25T09:12:50.650Z,"12 km ENE of Cabazon, CA",earthquake,0.17,0.59,0.195,27,automatic,ci,ci
+2024-03-25T09:02:04.630Z,33.969,-116.671,14.03,1.57,ml,73,41,0.07194,0.16,ci,ci40523975,2024-03-25T16:40:39.520Z,"12 km SW of Morongo Valley, CA",earthquake,0.13,0.28,0.187,24,reviewed,ci,ci
 2024-03-25T08:51:09.590Z,63.1858,-151.4066,8.6,1.3,ml,,,,0.46,ak,ak0243wpqx2n,2024-03-25T08:53:28.187Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T08:40:30.794Z,59.8043,-152.0264,52.6,2.3,ml,,,,0.38,ak,ak0243wpoltz,2024-03-25T10:18:04.040Z,"11 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T08:39:19.970Z,38.8333321,-122.8075027,2.09,1.02,md,13,64,0.01012,0.01,nc,nc74023541,2024-03-25T08:40:56.956Z,"7 km W of Cobb, CA",earthquake,0.31,0.83,0.23,13,automatic,nc,nc
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T07:48:08.190Z,38.3998337,-122.4394989,3.44,1.57,md,6,216,0.2739,0.2,nc,nc74023521,2024-03-25T07:49:46.427Z,"7 km W of Yountville, CA",earthquake,9.44,13.76,,1,automatic,nc,nc
 2024-03-25T07:18:00.425Z,62.0309,-152.0654,103.4,2.2,ml,,,,0.6,ak,ak0243woye4q,2024-03-25T07:20:52.522Z,"35 km W of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T07:14:02.220Z,37.081501,-121.1804962,5.39,3.21,ml,60,108,0.09824,0.14,nc,nc74023516,2024-03-25T15:15:08.579Z,"25 km SW of Gustine, CA",earthquake,0.25,0.87,0.371,33,automatic,nc,nc
-2024-03-25T07:08:25.960Z,19.0706666666667,-66.0933333333333,13.9,3.17,md,10,256,0.7576,0.25,pr,pr71443863,2024-03-25T07:35:35.860Z,"66 km N of San Juan, Puerto Rico",earthquake,2.18,3.27,0.0933088088232676,6,reviewed,pr,pr
+2024-03-25T07:08:25.960Z,19.0706666666667,-66.0933333333333,13.9,3.17,md,10,256,0.7576,0.25,pr,pr71443863,2024-03-25T16:43:53.937Z,"66 km N of San Juan, Puerto Rico",earthquake,2.18,3.27,0.0933088088232676,6,reviewed,pr,pr
 2024-03-25T07:07:13.680Z,38.8356667,-122.7913361,1.79,0.75,md,10,80,0.002846,0.01,nc,nc74023511,2024-03-25T07:08:50.168Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.48,0.28,9,automatic,nc,nc
 2024-03-25T07:03:15.210Z,17.9915,-66.8421666666667,15.12,2.37,md,8,169,0.03891,0.16,pr,pr71443848,2024-03-25T07:17:07.420Z,"2 km W of Indios, Puerto Rico",earthquake,0.64,0.84,0.192437466260384,4,reviewed,pr,pr
 2024-03-25T06:58:25.970Z,40.5289993,-124.3881683,17.74,2.8,md,19,240,0.0659,0.08,nc,nc74023506,2024-03-25T07:08:50.151Z,"12 km WSW of Ferndale, CA",earthquake,0.98,0.42,0.09,14,automatic,nc,nc
@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-24T17:22:43.820Z,38.8346672,-122.7701645,1.07,2.18,md,29,67,0.004195,0.04,nc,nc74023231,2024-03-24T17:25:52.931Z,"4 km WNW of Cobb, CA",earthquake,0.22,0.28,0.59,18,automatic,nc,nc
 2024-03-24T17:15:52.980Z,19.1643333435059,-155.480331420898,33.5099983215332,1.98000002,md,23,154,0.01937,0.140000001,hv,hv74148562,2024-03-24T17:17:33.540Z,"4 km S of Pāhala, Hawaii",earthquake,1.1,1.07000005,0.0799999982,3,automatic,hv,hv
 2024-03-24T16:55:38.370Z,38.5268326,-122.4526672,9.09,1.7,md,15,77,0.1106,0.06,nc,nc74023221,2024-03-24T16:57:10.977Z,"3 km NNE of Saint Helena, CA",earthquake,0.31,1.25,0.15,16,automatic,nc,nc
-2024-03-24T16:39:07.623Z,60.164,-152.5948,100.4,2,ml,,,,0.46,ak,ak0243v6wgoa,2024-03-24T16:41:58.250Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
