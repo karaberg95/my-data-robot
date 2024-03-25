@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-25T11:24:04.286Z,61.5704,-150.7844,45.6,1.7,ml,,,,0.5,ak,ak0243wrdf58,2024-03-25T11:27:21.490Z,"14 km WNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-03-25T11:16:08.740Z,19.1493339538574,-155.361328125,25.8999996185303,1.75999999,md,27,193,0.09547,0.119999997,hv,hv74149242,2024-03-25T11:17:50.180Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.7,0.860000014,0.0700000003,5,automatic,hv,hv
 2024-03-25T11:15:08.090Z,19.2994995117188,-155.343170166016,2.30999994277954,2.19,ml,42,120,0.03386,0.300000012,hv,hv74149237,2024-03-25T11:17:47.090Z,"17 km NE of Pāhala, Hawaii",earthquake,0.4,0.790000021,0.28,7,automatic,hv,hv
 2024-03-25T11:12:06.590Z,38.8306656,-122.8171692,1.82,0.26,md,8,73,0.009134,0.01,nc,nc74023576,2024-03-25T11:13:42.532Z,"8 km NW of The Geysers, CA",earthquake,0.54,1.02,0.17,8,automatic,nc,nc
@@ -167,6 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-24T11:36:25.310Z,39.4112,-119.8456,9.6,0.8,ml,18,60.88,0.058,0.1509,nn,nn00875266,2024-03-24T14:17:06.652Z,"13 km SSE of Mogul, Nevada",earthquake,,1.1,0.16,5,reviewed,nn,nn
 2024-03-24T11:30:59.096Z,64.3069,-148.5107,2.4,1.4,ml,,,,0.54,ak,ak0243v3vh4i,2024-03-24T11:34:31.625Z,"32 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-24T11:28:46.502Z,58.893,-153.9273,22.6,1.8,ml,,,,0.52,ak,ak0243v3v0ru,2024-03-24T11:31:13.673Z,"77 km SE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-24T11:26:02.714Z,63.1076,-151.416,3.8,1.6,ml,,,,0.51,ak,ak0243v3uhyn,2024-03-24T11:29:02.260Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-24T11:25:28.729Z,36.8174,-116.0906,0,0.2,ml,3,304.21,0.058,0.0485,nn,nn00875270,2024-03-24T14:10:48.863Z,"46 km NW of Indian Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2024-03-24T11:21:22.692Z,63.5465,-150.7208,1.4,1.6,ml,,,,0.41,ak,ak0243v3tgyc,2024-03-24T11:26:38.218Z,"49 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
