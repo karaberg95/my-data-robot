@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-30T15:49:47.719Z,63.2639,-151.7432,7.7,1.8,ml,,,,0.51,ak,ak024453lcab,2024-03-30T15:51:49.660Z,"30 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-30T15:45:04.367Z,65.8803,-146.3664,4.3,1.9,ml,,,,1.03,ak,ak024453ke2s,2024-03-30T15:47:39.824Z,"48 km SSW of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-30T15:42:18.750Z,36.6385002,-121.3006668,4.58,1.67,md,10,142,0.02979,0.18,nc,nc74026461,2024-03-30T15:43:54.212Z,"17 km S of Tres Pinos, CA",earthquake,0.75,2.39,0.16,8,automatic,nc,nc
 2024-03-30T15:37:32.050Z,38.0353317,-118.7561646,-1.41,2.02,md,17,109,0.2765,0.09,nc,nc74026456,2024-03-30T15:39:10.188Z,"30 km SE of Bodie, CA",earthquake,0.43,7.83,0.24,14,automatic,nc,nc
 2024-03-30T15:36:50.180Z,38.831665,-122.8170013,1.69,1.1,md,22,51,0.009873,0.01,nc,nc74026451,2024-03-30T15:38:25.188Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.37,0.23,25,automatic,nc,nc
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-29T16:20:57.912Z,12.7704,-44.8028,10,4.9,mb,24,85,10.856,0.6,us,us7000m8s9,2024-03-29T16:47:45.040Z,"northern Mid-Atlantic Ridge",earthquake,11.55,1.903,0.089,40,reviewed,us,us
 2024-03-29T16:19:38.303Z,12.7571,-44.9617,10,5,mb,28,85,10.736,0.94,us,us7000m8s7,2024-03-29T16:37:30.040Z,"northern Mid-Atlantic Ridge",earthquake,9.12,1.905,0.064,79,reviewed,us,us
 2024-03-29T16:00:17.150Z,33.1316667,-115.6278333,10.21,1.67,ml,18,92,0.04136,0.2,ci,ci40701960,2024-03-29T16:34:44.054Z,"10 km N of Westmorland, CA",earthquake,0.36,0.55,0.462,32,reviewed,ci,ci
-2024-03-29T15:48:06.484Z,60.7503,-147.3633,1.5,1.7,ml,,,,1,ak,ak02443g1ow8,2024-03-29T15:50:00.904Z,"39 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
