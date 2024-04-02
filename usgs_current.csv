@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T07:14:03.932Z,32.005,-103.813,7.5867,1.5,ml,16,63,0,0.1,tx,tx2024gmqp,2024-04-02T10:07:18.070Z,"34 km SE of Malaga, New Mexico",earthquake,0.5359517267004439,0.6253037586544197,0.3,12,reviewed,tx,tx
 2024-04-02T07:09:45.129Z,63.5488,-150.7358,10.3,1.7,ml,,,,0.93,ak,ak02449x7c34,2024-04-02T07:11:40.236Z,"49 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-02T06:56:47.680Z,46.20333333333333,-122.18466666666667,3.81,-0.03,ml,17,66,0.003187,0.07,uw,uw61985767,2024-04-02T15:35:46.990Z,"38 km NNE of Amboy, Washington",earthquake,0.28,0.4,0.09232185123800046,9,reviewed,uw,uw
-2024-04-02T06:22:03.210Z,37.7261666666667,-113.096166666667,-0.1,2.45,ml,21,57,0.02772,0.26,uu,uu80063576,2024-04-02T20:43:50.077Z,"6 km NNW of Cedar City, Utah",earthquake,0.66,1.31,0.0843323680658479,13,reviewed,uu,uu
+2024-04-02T06:22:03.210Z,37.7261666666667,-113.096166666667,-0.1,2.45,ml,21,57,0.02772,0.26,uu,uu80063576,2024-04-02T20:49:49.990Z,"6 km NNW of Cedar City, Utah",earthquake,0.66,1.31,0.0843323680658479,13,reviewed,uu,uu
 2024-04-02T06:21:30.890Z,19.2608333333333,-155.3985,31.22,1.8,md,35,93,0.02323,0.11,hv,hv74158537,2024-04-02T18:12:41.440Z,"10 km NE of Pāhala, Hawaii",earthquake,0.71,0.58,0.101961968598099,22,reviewed,hv,hv
 2024-04-02T06:17:12.880Z,36.480835,-121.0163345,8.95,1.72,md,9,172,0.04216,0.13,nc,nc74027826,2024-04-02T06:18:50.966Z,"13 km ESE of Pinnacles, CA",earthquake,0.72,1.47,0.21,10,automatic,nc,nc
 2024-04-02T06:08:42.430Z,62.7739,-149.3305,12,1.5,ml,,,,0.58,ak,ak02449wlok3,2024-04-02T06:11:12.451Z,"53 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T21:09:31.770Z,32.9721667,-116.2768333,9.52,1.84,ml,66,38,0.02837,0.19,ci,ci40703200,2024-04-02T18:07:33.570Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.14,0.43,0.246,27,reviewed,ci,ci
 2024-04-01T21:04:33.890Z,38.4623333,-123.0526667,-0.28,1.48,md,22,148,0.1049,0.23,nc,nc74027571,2024-04-02T00:25:03.649Z,"4 km W of Monte Rio, CA",earthquake,0.6,1.35,0.295,20,reviewed,nc,nc
 2024-04-01T20:56:35.790Z,37.2191667,-121.6061667,3.15,0.78,md,13,41,0.05792,0.08,nc,nc74027566,2024-04-02T00:13:02.456Z,"11 km NNE of Morgan Hill, CA",earthquake,0.29,0.78,0.217,12,reviewed,nc,nc
-2024-04-01T20:46:05.080Z,38.8236656,-122.8083344,0.72,0.29,md,9,81,0.001385,0.02,nc,nc74027556,2024-04-01T20:47:42.900Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.67,0.21,12,automatic,nc,nc
