@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-02T18:42:36.970Z,35.3371658,-119.2938309,20.86,1.35,ml,13,111,0.05625,0.14,ci,ci40703880,2024-04-02T18:44:43.350Z,"14 km WSW of Rosedale, CA",earthquake,0.61,1,0.34,6,automatic,ci,ci
+2024-04-02T18:49:38.010Z,38.8268318,-122.8761673,1.67,1.01,md,14,131,0.01272,0.03,nc,nc74028026,2024-04-02T18:51:12.423Z,"12 km WNW of The Geysers, CA",earthquake,0.28,0.46,0.2,15,automatic,nc,nc
+2024-04-02T18:49:20.517Z,36.9143,-115.9608,10,0.3,ml,9,176.92,0.035,0.1516,nn,nn00875725,2024-04-02T18:51:16.037Z,"46 km NW of Indian Springs, Nevada",earthquake,,1.1,1.08,4,automatic,nn,nn
+2024-04-02T18:45:22.440Z,34.1546669,-116.43367,5.16,1.4,ml,44,58,0.04793,0.17,ci,ci40703888,2024-04-02T18:47:27.830Z,"4 km N of Yucca Valley, CA",earthquake,0.3,0.91,0.232,8,automatic,ci,ci
+2024-04-02T18:42:36.990Z,35.3356667,-119.2888333,19.44,1.26,ml,20,74,0.06023,0.22,ci,ci40703880,2024-04-02T18:49:40.011Z,"14 km WSW of Rosedale, CA",earthquake,0.43,0.86,0.205,18,automatic,ci,ci
 2024-04-02T18:39:09.676Z,60.3539,-152.6415,101.4,2.2,ml,,,,0.56,ak,ak0244a3xghj,2024-04-02T18:41:23.151Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-02T18:37:52.290Z,35.6833333,-117.5413333,7.83,0.75,ml,21,118,0.09748,0.11,ci,ci40703864,2024-04-02T18:44:32.844Z,"14 km ENE of Ridgecrest, CA",earthquake,0.23,0.77,0.094,5,automatic,ci,ci
 2024-04-02T18:28:40.030Z,32.9151667,-116.2366667,8.01,1.12,ml,38,84,0.06851,0.19,ci,ci40703848,2024-04-02T18:35:37.148Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.64,0.145,23,automatic,ci,ci
