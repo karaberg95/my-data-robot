@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-02T04:49:20.846Z,62.1833,-150.7717,62.6,1.6,ml,,,,0.12,ak,ak02449vnk1g,2024-04-02T04:51:14.403Z,"31 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-02T04:45:10.680Z,36.1498337,-121.7163315,9.06,1.45,md,14,231,0.06805,0.08,nc,nc74027801,2024-04-02T04:46:44.942Z,"20 km NW of Lopez Point, CA",earthquake,1.11,0.91,0.12,9,automatic,nc,nc
 2024-04-02T04:30:28.442Z,65.4903,-148.3024,12,1.3,ml,,,,0.53,ak,ak02449vji0s,2024-04-02T04:32:31.646Z,"11 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-02T04:28:15.616Z,61.9265,-146.6186,170.3,1.6,ml,,,,0.84,ak,ak02449vj1ll,2024-04-02T04:30:13.992Z,"10 km SE of Nelchina, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-04-02T04:21:15.507Z,36.4982,-115.7716,0.3,0.8,ml,16,174.73,0.224,0.2546,nn,nn00875700,2024-04-02T04:23:20.851Z,"12 km SW of Indian Springs, Nevada",earthquake,,49.5,0.31,10,automatic,nn,nn
 2024-04-02T04:13:35.100Z,38.7788315,-122.7188339,1.37,1.29,md,15,75,0.01785,0.04,nc,nc74027786,2024-04-02T04:15:10.612Z,"2 km W of Anderson Springs, CA",earthquake,0.35,0.62,0.18,14,automatic,nc,nc
-2024-04-02T04:06:52.600Z,19.2661666870117,-155.411499023438,32.3199996948242,2.67,ml,57,119,0.07119,0.140000001,hv,hv74158447,2024-04-02T04:09:28.880Z,"9 km NE of Pāhala, Hawaii",earthquake,0.36,0.5,0.4,39,automatic,hv,hv
+2024-04-02T04:06:52.640Z,19.2576666666667,-155.410333333333,32,2.65,ml,40,65,0.02343,0.12,hv,hv74158447,2024-04-02T04:51:19.490Z,"9 km NE of Pāhala, Hawaii",earthquake,0.43,0.63,0.198526357199515,18,reviewed,hv,hv
 2024-04-02T04:06:37.564Z,64.3147,-150.3417,7.8,1.6,ml,,,,1.28,ak,ak02449vedjg,2024-04-02T04:09:46.482Z,"55 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T04:06:12.198Z,63.2311,-152.8066,7.9,2.1,ml,,,,0.3,ak,ak02449vebkz,2024-04-02T04:07:54.593Z,"64 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-02T03:54:41.886Z,63.9574,-149.0799,0.7,2.8,ml,,,,0.42,ak,ak02449v38mu,2024-04-02T04:16:10.956Z,"6 km SSE of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T05:07:46.620Z,38.8214989,-122.7623367,2.17,0.77,md,11,123,0.01074,0.01,nc,nc74027196,2024-04-01T05:09:22.606Z,"3 km W of Cobb, CA",earthquake,0.36,0.67,0.15,13,automatic,nc,nc
 2024-04-01T05:05:52.651Z,36.7645,-116.2444,10.5,0,ml,12,185.88,0.041,0.0666,nn,nn00875662,2024-04-01T20:09:59.162Z,"48 km ESE of Beatty, Nevada",earthquake,,1.4,0.34,3,reviewed,nn,nn
 2024-04-01T04:54:15.360Z,38.8291664,-122.8146667,1.74,0.78,md,22,45,0.006788,0.02,nc,nc74027191,2024-04-01T04:55:48.506Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.45,0.18,20,automatic,nc,nc
-2024-04-01T04:45:20.360Z,19.2681674957275,-155.409332275391,32.1100006103516,1.84000003,md,37,119,0.06863,0.119999997,hv,hv74157327,2024-04-01T04:47:47.510Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.839999974,0.230000004,9,automatic,hv,hv
