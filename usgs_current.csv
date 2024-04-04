@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-04T14:44:15.449Z,62.9293,-150.9377,107.9,1.2,ml,,,,0.58,ak,ak0244dcni2h,2024-04-04T14:47:01.261Z,"49 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-04T14:38:16.390Z,38.8346672,-122.8238297,1.38,0.45,md,6,140,0.01556,0.01,nc,nc74029211,2024-04-04T14:39:53.238Z,"9 km NW of The Geysers, CA",earthquake,0.64,0.68,0.21,7,automatic,nc,nc
 2024-04-04T14:27:20.140Z,19.1711673736572,-155.361999511719,26.9500007629395,2.36,ml,55,175,0.09592,0.150000006,hv,hv74160672,2024-04-04T14:29:58.500Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.44,0.639999986,0.36,3,automatic,hv,hv
+2024-04-04T14:24:26.483Z,31.985,-104.036,4.5958,2.5,ml,11,173,0,0.2,tx,tx2024gqvs,2024-04-04T14:47:59.633Z,"26 km S of Malaga, New Mexico",earthquake,0,1.71358170699285,0.2,9,automatic,tx,tx
 2024-04-04T14:20:27.773Z,36.1683,-33.9707,10,5,mb,46,88,22.845,0.7,us,us7000m9vm,2024-04-04T14:39:53.040Z,"Azores Islands region",earthquake,5.44,1.83,0.046,152,reviewed,us,us
 2024-04-04T14:20:07.612Z,63.3888,-151.5323,9.5,1.4,ml,,,,0.91,ak,ak0244dcicah,2024-04-04T14:22:16.958Z,"19 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-04T14:19:32.850Z,33.697,-116.797,16.73,0.61,ml,17,86,0.07048,0.09,ci,ci40705312,2024-04-04T14:25:32.814Z,"9 km WSW of Idyllwild, CA",earthquake,0.22,0.39,0.163,10,automatic,ci,ci
@@ -19,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T12:54:53.860Z,38.8359985,-122.8115005,1.81,1.19,md,20,58,0.01263,0.02,nc,nc74029186,2024-04-04T12:56:28.410Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.42,0.11,21,automatic,nc,nc
 2024-04-04T12:54:49.380Z,38.8078346,-122.8198318,2.75,1.94,md,8,108,0.007375,0.02,nc,nc74029181,2024-04-04T12:56:23.337Z,"6 km WNW of The Geysers, CA",earthquake,0.5,1.31,0.08,9,automatic,nc,nc
 2024-04-04T12:53:30.386Z,-20.1432,-176.8543,360.54,4.5,mb,33,84,1.853,0.45,us,us7000m9v5,2024-04-04T13:17:29.040Z,"197 km NW of Houma, Tonga",earthquake,9.28,8.011,0.106,28,reviewed,us,us
+2024-04-04T12:48:08.910Z,45.3126666666667,-112.52,6.35,0.31,ml,7,103,0.0734,0.03,mb,mb90044948,2024-04-04T14:47:52.300Z,"14 km NE of Dillon, Montana",earthquake,0.6,1.04,0.379889197552111,3,reviewed,mb,mb
 2024-04-04T12:44:32.750Z,38.793499,-122.7561646,-0.81,0.79,md,9,143,0.007636,0.1,nc,nc74029171,2024-04-04T12:46:08.244Z,"2 km N of The Geysers, CA",earthquake,0.38,1.11,0.08,10,automatic,nc,nc
 2024-04-04T12:34:00.048Z,62.4392,-149.3809,47.5,1.4,ml,,,,0.41,ak,ak0244dbegis,2024-04-04T12:36:08.005Z,"37 km E of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-04-04T12:14:51.230Z,37.6126671,-122.0301666,3.25,1.76,md,24,88,0.05231,0.22,nc,nc74029156,2024-04-04T12:16:28.161Z,"2 km NNW of Union City, CA",earthquake,0.41,1.35,0.14,16,automatic,nc,nc
