@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-07T14:12:31.230Z,38.8195,-122.8225021,2.08,1.07,md,15,74,0.01046,0.02,nc,nc74030776,2024-04-07T14:14:08.987Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.44,0.14,16,automatic,nc,nc
+2024-04-07T14:26:10.710Z,37.8520012,-121.7845001,19.02,1.79,md,20,164,0.1142,0.06,nc,nc74030781,2024-04-07T14:27:48.180Z,"10 km SSW of Brentwood, CA",earthquake,0.37,0.72,0.09,10,automatic,nc,nc
+2024-04-07T14:12:31.230Z,38.8195,-122.8225021,2.08,1.07,md,15,74,0.01046,0.02,nc,nc74030776,2024-04-07T14:30:02.770Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.44,0.14,16,automatic,nc,nc
 2024-04-07T14:09:50.422Z,38.1999,-117.8642,4.4,1.6,ml,13,109.69,0.095,0.3404,nn,nn00875909,2024-04-07T14:12:42.615Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.27,8,automatic,nn,nn
 2024-04-07T13:53:13.077Z,55.4764,-159.1363,37.2,2.8,ml,,,,0.28,ak,ak0244iaq17v,2024-04-07T13:54:56.309Z,"48 km S of Perryville, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2024-04-07T13:49:34.420Z,38.8230019,-122.8131638,3.22,0.29,md,8,170,0.002445,0.02,nc,nc74030771,2024-04-07T13:51:07.686Z,"7 km NW of The Geysers, CA",earthquake,0.95,1.22,0.14,8,automatic,nc,nc
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T13:45:04.280Z,38.8224983,-122.7874985,1.15,0.76,md,8,70,0.01065,0.01,nc,nc74030766,2024-04-07T13:46:37.650Z,"6 km W of Cobb, CA",earthquake,0.43,1.12,0.34,9,automatic,nc,nc
 2024-04-07T13:44:25.826Z,62.8947,-148.3464,9.9,1.5,ml,,,,0.82,ak,ak0244iao4ra,2024-04-07T13:46:41.737Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-07T13:38:49.680Z,40.0574989,-121.2925034,-1.48,2.17,md,15,75,0.354,0.38,nc,nc74030756,2024-04-07T13:41:02.672Z,"7 km NNW of Belden, CA",earthquake,0.9,5.67,0.28,10,automatic,nc,nc
-2024-04-07T13:32:42.990Z,32.8568333,-116.0928333,11.56,0.96,ml,33,38,0.06492,0.22,ci,ci40706840,2024-04-07T13:38:40.010Z,"16 km NW of Ocotillo, CA",earthquake,0.25,0.55,0.108,10,automatic,ci,ci
+2024-04-07T13:32:42.990Z,32.8568333,-116.0928333,11.56,0.96,ml,33,38,0.06492,0.22,ci,ci40706840,2024-04-07T14:25:56.958Z,"16 km NW of Ocotillo, CA",earthquake,0.25,0.55,0.108,10,reviewed,ci,ci
 2024-04-07T13:28:42.329Z,63.2921,-151.3442,0,1.7,ml,,,,0.55,ak,ak0244iakqko,2024-04-07T13:31:16.710Z,"33 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-07T13:27:41.515Z,63.1077,-150.7216,117.8,1.4,ml,,,,0.12,ak,ak0244iakisn,2024-04-07T13:29:59.530Z,"68 km N of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-04-07T12:52:38.650Z,38.7999992,-122.7474976,-0.86,0.69,md,10,101,0.009565,0.08,nc,nc74030741,2024-04-07T12:54:12.166Z,"3 km NNE of The Geysers, CA",earthquake,0.36,1.12,0.33,10,automatic,nc,nc
