@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-08T06:27:01.720Z,38.8256683,-122.805336,2.4,1.24,md,20,47,0.004342,0.02,nc,nc74031136,2024-04-08T06:28:37.946Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.41,0.11,20,automatic,nc,nc
 2024-04-08T06:19:56.270Z,38.786335,-122.7436676,1.36,1.79,md,31,47,0.006246,0.05,nc,nc74031131,2024-04-08T06:22:40.195Z,"2 km NE of The Geysers, CA",earthquake,0.22,0.31,0.15,34,automatic,nc,nc
 2024-04-08T06:15:44.960Z,38.7913322,-122.7493362,-0.86,0.81,md,11,88,0.01232,0.14,nc,nc74031126,2024-04-08T06:17:17.597Z,"2 km NNE of The Geysers, CA",earthquake,0.46,1.47,0.11,11,automatic,nc,nc
 2024-04-08T06:11:47.430Z,40.3008347,-124.4394989,11.82,2.58,md,16,253,0.07515,0.07,nc,nc74031121,2024-04-08T06:13:21.871Z,"13 km WSW of Petrolia, CA",earthquake,1.26,0.56,0.18,14,automatic,nc,nc
@@ -169,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T06:57:28.867Z,36.8525,-116.8901,10.4,0.9,ml,14,151.42,0.172,0.2378,nn,nn00875898,2024-04-07T06:59:29.871Z,"13 km WSW of Beatty, Nevada",earthquake,,1.7,0.32,8,automatic,nn,nn
 2024-04-07T06:56:38.920Z,33.9319992,-118.5113297,6.81,1.46,ml,19,176,0.168,0.31,ci,ci40706744,2024-04-07T07:00:24.299Z,"8 km SW of Marina del Rey, CA",earthquake,1.19,3.56,0.185,33,automatic,ci,ci
 2024-04-07T06:40:31.680Z,39.3414993,-123.2506638,5.23,1.42,md,8,98,0.1004,0.04,nc,nc74030621,2024-04-07T06:42:05.193Z,"9 km NNW of Redwood Valley, CA",earthquake,0.36,2.69,0.21,7,automatic,nc,nc
-2024-04-07T06:32:07.458Z,34.27182388,-97.55672455,1.437550187,3.14,ml,98,33.90375519,0.114578329,0.9120899677,ok,ok2024gvst,2024-04-08T02:06:59.418Z,"7 km NW of Healdton, Oklahoma",earthquake,1.704670911,1.286017954,0.21,39,automatic,ok,ok
