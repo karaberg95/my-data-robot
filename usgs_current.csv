@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-09T07:48:48.450Z,63.0339,-150.4864,93.8,1.7,ml,,,,0.61,ak,ak0244li74q5,2024-04-09T07:51:16.975Z,"61 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-09T07:45:11.250Z,19.2686672210693,-155.399169921875,31,2.29999995,md,51,122,0.06564,0.140000001,hv,hv74165732,2024-04-09T07:47:36.070Z,"11 km NE of Pāhala, Hawaii",earthquake,0.41,0.560000002,0.200000003,14,automatic,hv,hv
 2024-04-09T07:35:13.160Z,38.8101654,-122.8243332,3.26,0.4,md,6,149,0.004001,0.01,nc,nc74031671,2024-04-09T07:36:46.152Z,"7 km WNW of The Geysers, CA",earthquake,1.17,2.83,0.29,8,automatic,nc,nc
 2024-04-09T07:15:55.630Z,46.856666564941406,-121.76300048828125,0.529999971389771,0.769999981,md,23,75,,0.0500000007,uw,uw61995336,2024-04-09T07:17:30.160Z,"23 km ENE of Ashford, Washington",earthquake,0.2,0.860000014,,1,automatic,uw,uw
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T20:03:24.550Z,38.8354988,-122.7901688,1.75,0.75,md,9,75,0.002909,0.01,nc,nc74031446,2024-04-08T20:04:59.839Z,"6 km WNW of Cobb, CA",earthquake,0.4,0.93,0.12,10,automatic,nc,nc
 2024-04-08T19:50:10.450Z,33.203,-116.6996667,9.2,1.05,ml,31,53,0.0441,0.18,ci,ci40707832,2024-04-08T20:48:38.123Z,"7 km SE of Lake Henshaw, CA",earthquake,0.26,0.54,0.14,24,reviewed,ci,ci
 2024-04-08T19:42:45.572Z,40.6807,-74.6988,5,1.3,ml,7,208,0.664,0.88,us,us7000maur,2024-04-09T04:16:49.678Z,"4 km W of Bedminster, New Jersey",earthquake,2.53,1.944,0.148,6,reviewed,us,us
-2024-04-08T19:39:37.173Z,39.2775,-119.6499,2.4,1.8,ml,14,51.94,0.115,0.1397,nn,nn00875923,2024-04-08T19:47:58.674Z,"3 km S of Virginia City, Nevada",earthquake,,1,0.34,9,automatic,nn,nn
+2024-04-08T19:39:37.173Z,39.2775,-119.6499,2.4,1.8,ml,14,51.94,0.115,0.1397,nn,nn00875923,2024-04-09T07:55:03.492Z,"3 km S of Virginia City, Nevada",earthquake,,1,0.34,9,automatic,nn,nn
 2024-04-08T19:39:19.890Z,19.172,-155.5065,36.06,1.85,md,21,247,0.07631,0.1,hv,hv74165272,2024-04-08T20:28:11.100Z,"4 km SW of Pāhala, Hawaii",earthquake,0.62,0.7,0.105266232829969,22,reviewed,hv,hv
 2024-04-08T19:37:49.158Z,62.3507,-149.1882,3.7,1.7,ml,,,,0.47,ak,ak0244k1qmo3,2024-04-08T19:40:29.231Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-08T19:30:28.080Z,33.8616667,-117.497,-0.51,1.1,ml,22,83,0.05512,0.2,ci,ci40707808,2024-04-08T20:42:39.172Z,"3 km SE of Home Gardens, CA",quarry blast,0.45,31.61,0.074,19,reviewed,ci,ci
@@ -211,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T08:17:17.090Z,38.822834,-122.8048325,2.72,0.51,md,7,105,0.004132,0.02,nc,nc74031166,2024-04-08T08:18:52.761Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.77,0.29,9,automatic,nc,nc
 2024-04-08T08:07:41.664Z,62.343,-151.2475,81.4,1.4,ml,,,,0.35,ak,ak0244jv0exh,2024-04-08T08:09:59.456Z,"30 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-08T08:01:36.520Z,38.1131666666667,-83.1846666666667,12.05,2.3,md,11,81,0.5441,0.25,se,se60501843,2024-04-09T00:24:41.245Z,"5 km WNW of Sandy Hook, Kentucky",earthquake,0.52,4.8,0.0741521569980961,8,reviewed,se,se
-2024-04-08T07:50:45.374Z,62.8834,-151.2118,105.7,1.7,ml,,,,0.32,ak,ak0244juo7fd,2024-04-08T07:53:00.228Z,"48 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-04-08T07:50:25.740Z,32.9376667,-116.2475,10.71,0.8,ml,29,55,0.04993,0.16,ci,ci40707304,2024-04-08T14:08:51.245Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.46,0.154,13,reviewed,ci,ci
-2024-04-08T07:50:19.990Z,18.0375,-66.823,16.27,2.09,md,7,133,0.082,0.19,pr,pr71445158,2024-04-08T08:06:18.690Z,"2 km E of Yauco, Puerto Rico",earthquake,0.72,1.49,0.226283058071417,3,reviewed,pr,pr
