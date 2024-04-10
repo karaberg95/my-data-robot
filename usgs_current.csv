@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-10T09:34:50.810Z,35.6691666,-117.5220032,7.58,1.28,ml,21,66,0.08014,0.11,ci,ci40709464,2024-04-10T09:38:20.962Z,"15 km ENE of Ridgecrest, CA",earthquake,0.29,1.08,0.172,17,automatic,ci,ci
+2024-04-10T09:41:50.790Z,38.8411674,-122.876503,2.32,1.1,md,19,87,0.006173,0.02,nc,nc74032201,2024-04-10T09:43:24.297Z,"13 km NW of The Geysers, CA",earthquake,0.28,0.46,0.15,20,automatic,nc,nc
+2024-04-10T09:34:50.810Z,35.6691666,-117.5220032,7.58,1.28,ml,21,66,0.08014,0.11,ci,ci40709464,2024-04-10T09:45:52.140Z,"15 km ENE of Ridgecrest, CA",earthquake,0.29,1.08,0.172,17,automatic,ci,ci
 2024-04-10T09:26:50.190Z,36.4741669,-121.0510025,1.26,1.72,md,11,147,0.01967,0.14,nc,nc74032196,2024-04-10T09:28:24.124Z,"10 km SE of Pinnacles, CA",earthquake,0.47,0.53,0.15,6,automatic,nc,nc
 2024-04-10T09:25:44.346Z,39.6217,-119.83,10.1,0.7,ml,9,78.51,0.06,0.1219,nn,nn00875992,2024-04-10T09:27:47.978Z,"0 km NNW of Golden Valley, Nevada",earthquake,,0.8,0.12,3,automatic,nn,nn
 2024-04-10T09:18:20.790Z,33.1908333,-116.0336667,4.21,0.75,ml,42,55,0.09763,0.26,ci,ci40709456,2024-04-10T09:24:26.798Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.26,1.04,0.095,10,automatic,ci,ci
