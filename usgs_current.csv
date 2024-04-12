@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-12T19:24:48.580Z,33.7915001,-118.1451645,12.24,2.83,ml,82,67,0.04467,0.26,ci,ci40711856,2024-04-12T19:26:55.609Z,"2 km SE of Long Beach, CA",earthquake,0.3,0.47,0.398,22,automatic,ci,ci
+2024-04-12T19:21:15.230Z,38.8266678,-122.819664,3.93,0.51,md,7,191,0.02573,0.07,nc,nc74033371,2024-04-12T19:22:47.858Z,"8 km NW of The Geysers, CA",earthquake,1.22,3.43,0.15,9,automatic,nc,nc
 2024-04-12T19:08:37.780Z,38.1166649,-122.1756668,0.09,1.83,md,9,101,0.02175,0.08,nc,nc74033366,2024-04-12T19:10:12.779Z,"5 km E of Vallejo, CA",earthquake,0.62,1.75,0.27,8,automatic,nc,nc
 2024-04-12T19:04:55.321Z,64.9886,-148.6282,27.1,0.8,ml,,,,0.24,ak,ak0244qnoyho,2024-04-12T19:06:23.208Z,"33 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-12T19:04:19.150Z,38.8400002,-122.8085022,1.97,0.78,md,12,55,0.01427,0.02,nc,nc74033361,2024-04-12T19:05:52.754Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.8,0.15,13,automatic,nc,nc
