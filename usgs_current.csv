@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-13T17:48:13.789Z,60.8718,-148.2831,23.1,1.5,ml,,,,0.51,ak,ak0244saas2q,2024-04-13T17:50:00.970Z,"24 km ENE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-13T17:28:50.862Z,61.8822,-149.8764,29.9,1.4,ml,,,,1.22,ak,ak0244sa6km6,2024-04-13T17:30:42.025Z,"17 km NNE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-13T17:19:30.085Z,31.593,-104.552,3.5012,1.6,ml,16,164,0.1,0.1,tx,tx2024hhnc,2024-04-13T17:28:15.422Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.2592385616234494,0.1,12,automatic,tx,tx
 2024-04-13T17:18:02.020Z,31.597,-104.551,4.0818,1.6,ml,16,164,0.1,0.3,tx,tx2024hhnb,2024-04-13T17:28:10.420Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.28240644850276,0.1,12,automatic,tx,tx
@@ -172,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-12T18:25:17.727Z,61.7818,-149.2623,23.6,1.4,ml,,,,0.45,ak,ak0244qn7y0s,2024-04-12T18:27:09.096Z,"4 km NNW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-12T18:21:42.110Z,40.1586685,-122.1011658,27.51,2.89,md,14,94,0.0532,0.13,nc,nc74033331,2024-04-12T20:31:46.448Z,"12 km E of Red Bluff, CA",earthquake,0.85,0.54,0.15,16,automatic,nc,nc
 2024-04-12T17:59:32.370Z,35.776,-117.5886667,9.78,1.02,ml,21,143,0.1469,0.14,ci,ci40711768,2024-04-12T23:43:50.443Z,"17 km W of Searles Valley, CA",earthquake,0.28,0.71,0.201,9,reviewed,ci,ci
-2024-04-12T17:57:20.110Z,46.95433333333333,-120.35483333333333,-0.87,1.75,ml,15,148,0.1044,0.31,uw,uw61988182,2024-04-12T18:55:50.040Z,"5 km SE of Kittitas, Washington",explosion,0.99,31.61,0.0967771962924302,12,reviewed,uw,uw
