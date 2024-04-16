@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T08:43:32.810Z,19.3589992523193,-155.308837890625,0.379999995231628,2.00999999,md,13,119,0.02434,0.0799999982,hv,hv74173207,2024-04-16T08:45:00.500Z,"12 km SW of Volcano, Hawaii",earthquake,0.24,0.409999996,0.319999993,8,automatic,hv,hv
 2024-04-16T08:36:00.880Z,35.0801667,-118.7383333,9.97,0.92,ml,24,104,0.05301,0.14,ci,ci40713784,2024-04-16T08:42:42.374Z,"16 km SSE of Arvin, CA",earthquake,0.25,0.35,0.238,9,automatic,ci,ci
 2024-04-16T08:32:28.440Z,37.0856667,-121.1139984,-0.38,1.98,md,34,83,0.06381,0.33,nc,nc74035176,2024-04-16T08:34:05.148Z,"22 km SSW of Gustine, CA",earthquake,0.56,3.77,0.16,27,automatic,nc,nc
 2024-04-16T08:00:25.390Z,35.9493333,-117.7215,2.78,1.33,ml,27,73,0.05773,0.12,ci,ci40713776,2024-04-16T08:11:15.210Z,"17 km E of Little Lake, CA",earthquake,0.16,0.23,0.221,18,automatic,ci,ci
