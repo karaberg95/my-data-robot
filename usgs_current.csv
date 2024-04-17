@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-17T13:16:06.330Z,37.3243332,-122.2733307,3.32,1.27,md,7,89,0.05615,0.03,nc,nc74035966,2024-04-17T13:17:43.751Z,"8 km SSW of Portola Valley, CA",earthquake,0.36,1.46,0.17,8,automatic,nc,nc
+2024-04-17T13:08:48.100Z,33.47,-116.573,9.78,0.83,ml,46,46,0.03468,0.14,ci,ci40715200,2024-04-17T13:15:57.807Z,"13 km SE of Anza, CA",earthquake,0.14,0.28,0.217,22,automatic,ci,ci
 2024-04-17T13:05:37.210Z,19.3946666717529,-155.276336669922,1.39999997615814,2.12,ml,21,50,0.002637,0.159999996,hv,hv74174872,2024-04-17T13:08:13.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.159999996,0.36,10,automatic,hv,hv
 2024-04-17T13:02:58.760Z,19.3988342285156,-155.273330688477,0.930000007152557,2.15,ml,23,38,0.003461,0.289999992,hv,hv74174867,2024-04-17T13:05:34.570Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.200000003,0.32,12,automatic,hv,hv
 2024-04-17T12:50:44.390Z,38.8396683,-122.8246689,1.8,0.94,md,12,174,0.008517,0.01,nc,nc74035956,2024-04-17T12:52:18.494Z,"9 km WNW of Cobb, CA",earthquake,0.43,0.69,0.36,13,automatic,nc,nc
@@ -19,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T11:07:11.640Z,17.952,-66.9726666666667,10.64,2.48,md,7,207,0.06417,0.08,pr,pr71445778,2024-04-17T11:20:43.480Z,"7 km WSW of Fuig, Puerto Rico",earthquake,0.55,0.55,0.121081614749745,5,reviewed,pr,pr
 2024-04-17T11:03:59.350Z,33.2646667,-116.4365,3.82,0.87,ml,57,38,0.01658,0.19,ci,ci40715104,2024-04-17T11:10:07.181Z,"6 km W of Borrego Springs, CA",earthquake,0.16,0.37,0.127,24,automatic,ci,ci
 2024-04-17T10:59:28.990Z,38.8271675,-122.7785034,11.71,0.87,md,8,129,0.007477,0.07,nc,nc74035896,2024-04-17T11:01:02.476Z,"5 km W of Cobb, CA",earthquake,2.35,9.07,0.03,2,automatic,nc,nc
+2024-04-17T10:54:13.330Z,37.6091666666667,-113.103,10.31,1.67,ml,18,56,0.0585,0.09,uu,uu80066726,2024-04-17T13:22:37.890Z,"8 km SSW of Cedar City, Utah",earthquake,0.27,0.51,0.131780397452514,4,reviewed,uu,uu
 2024-04-17T10:43:17.490Z,38.8323326,-122.8071671,2.59,0.77,md,12,94,0.009209,0.02,nc,nc74035891,2024-04-17T10:44:52.311Z,"7 km W of Cobb, CA",earthquake,0.33,1.18,0.09,13,automatic,nc,nc
 2024-04-17T10:42:25.629Z,31.655,-104.463,6.0999,2,ml,24,67,0,0.2,tx,tx2024hoia,2024-04-17T13:07:49.121Z,"58 km S of Whites City, New Mexico",earthquake,0.8875127879921426,0.6805423718911061,0.2,21,reviewed,tx,tx
 2024-04-17T10:35:40.310Z,33.4758333,-116.5565,11.89,0.64,ml,39,42,0.04258,0.13,ci,ci40715088,2024-04-17T10:41:51.018Z,"14 km SE of Anza, CA",earthquake,0.15,0.33,0.099,12,automatic,ci,ci
@@ -289,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-16T13:52:20.240Z,19.1533333333333,-155.5135,32.69,1.78,md,20,134,0.04862,0.1,hv,hv74173382,2024-04-16T19:23:45.740Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.95,1.14,0.0814887665033519,22,reviewed,hv,hv
 2024-04-16T13:46:53.940Z,38.8166656,-122.8231659,2.33,1.47,md,29,47,0.009093,0.03,nc,nc74035286,2024-04-16T13:50:08.766Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.34,0.16,30,automatic,nc,nc
 2024-04-16T13:24:05.897Z,63.3984,-151.3409,0,1.7,ml,,,,0.6,ak,ak0244x6dxcd,2024-04-16T13:26:25.729Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-16T13:12:52.640Z,38.8390007,-122.8103333,2,0.99,md,5,177,0.01558,0,nc,nc74035281,2024-04-16T13:14:23.810Z,"8 km WNW of Cobb, CA",earthquake,0.94,3.05,0.16,2,automatic,nc,nc
-2024-04-16T13:12:23.310Z,38.802166,-122.8188324,13.74,0.41,md,8,164,0.01049,0.06,nc,nc74035276,2024-04-16T13:13:57.749Z,"6 km WNW of The Geysers, CA",earthquake,2.65,9.15,0.12,10,automatic,nc,nc
