@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-19T18:04:09.600Z,33.9525,-117.9323333,5.9,1.47,ml,16,170,0.01008,0.25,ci,ci40551143,2024-04-19T18:10:45.867Z,"2 km ESE of La Habra Heights, CA",earthquake,0.64,0.54,0.411,32,automatic,ci,ci
+2024-04-19T18:24:31.240Z,33.4490013,-116.4023361,11.88,1.1,ml,35,89,0.07673,0.15,ci,ci40551167,2024-04-19T18:26:37.598Z,"22 km N of Borrego Springs, CA",earthquake,0.28,0.77,0.175,9,automatic,ci,ci
+2024-04-19T18:19:33.050Z,33.4481667,-116.4096667,11.76,1.45,ml,71,28,0.07622,0.17,ci,ci40551159,2024-04-19T18:26:52.420Z,"22 km N of Borrego Springs, CA",earthquake,0.13,0.35,0.154,27,automatic,ci,ci
+2024-04-19T18:04:09.600Z,33.9525,-117.9323333,5.9,1.47,ml,16,170,0.01008,0.25,ci,ci40551143,2024-04-19T18:26:06.490Z,"2 km ESE of La Habra Heights, CA",earthquake,0.64,0.54,0.411,32,automatic,ci,ci
 2024-04-19T17:41:40.891Z,62.2139,-150.3047,9.4,1.7,ml,,,,0.6,ak,ak024527hf49,2024-04-19T17:43:34.865Z,"12 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-19T17:40:04.460Z,32.8931667,-116.022,7.78,1.04,ml,27,36,0.04489,0.19,ci,ci40551079,2024-04-19T18:08:17.195Z,"18 km N of Ocotillo, CA",earthquake,0.2,0.52,0.179,17,reviewed,ci,ci
 2024-04-19T17:30:42.800Z,38.1329994,-122.1610031,3.12,2.11,md,10,150,0.01378,0.23,nc,nc74037366,2024-04-19T17:40:17.405Z,"7 km ENE of Vallejo, CA",earthquake,2.55,2.74,0.15,9,automatic,nc,nc
@@ -256,10 +258,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T20:08:02.710Z,38.7871666,-122.7679977,2.23,1.08,md,14,81,0.01492,0.03,nc,nc74036756,2024-04-18T20:09:40.372Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.6,0.2,15,automatic,nc,nc
 2024-04-18T20:00:26.730Z,33.2745,-116.4285,3.88,0.87,ml,37,69,0.01139,0.15,ci,ci40549447,2024-04-19T18:18:29.429Z,"5 km WNW of Borrego Springs, CA",earthquake,0.16,0.29,0.104,18,reviewed,ci,ci
 2024-04-18T19:58:47.070Z,19.2705001831055,-155.406005859375,32.5200004577637,2.20000005,md,42,119,0.06545,0.109999999,hv,hv74176792,2024-04-18T20:00:38.420Z,"10 km NE of Pāhala, Hawaii",earthquake,0.5,0.610000014,0.219999999,9,automatic,hv,hv
-2024-04-18T19:56:10.320Z,35.4965,-118.5218333,3.17,1.48,ml,30,39,0.1704,0.15,ci,ci40549439,2024-04-19T18:18:57.835Z,"10 km SSW of Bodfish, CA",earthquake,0.17,0.65,0.217,24,reviewed,ci,ci
+2024-04-18T19:56:10.320Z,35.4965,-118.5218333,3.17,1.48,ml,30,39,0.1704,0.15,ci,ci40549439,2024-04-19T18:19:42.990Z,"10 km SSW of Bodfish, CA",earthquake,0.17,0.65,0.217,24,reviewed,ci,ci
 2024-04-18T19:54:58.560Z,38.831665,-122.8183365,6.4,0.93,md,6,113,0.01558,0.03,nc,nc74036741,2024-04-18T19:56:29.757Z,"8 km NW of The Geysers, CA",earthquake,1.16,6.74,0.17,6,automatic,nc,nc
 2024-04-18T19:53:05.980Z,35.49,-118.5141667,3.17,1.7,ml,33,40,0.1755,0.14,ci,ci40549423,2024-04-18T20:16:41.658Z,"11 km S of Bodfish, CA",earthquake,0.15,0.57,0.207,26,reviewed,ci,ci
-2024-04-18T19:52:39.110Z,35.4891667,-118.5145,3.61,1.38,ml,28,45,0.1763,0.12,ci,ci40549415,2024-04-19T18:18:50.334Z,"11 km S of Bodfish, CA",earthquake,0.15,0.55,0.206,22,automatic,ci,ci
+2024-04-18T19:52:39.110Z,35.4891667,-118.5145,3.61,1.38,ml,28,45,0.1763,0.12,ci,ci40549415,2024-04-19T18:19:06.293Z,"11 km S of Bodfish, CA",earthquake,0.15,0.55,0.206,22,reviewed,ci,ci
 2024-04-18T19:51:17.430Z,35.4901667,-118.516,2.6,1.92,ml,32,40,0.1756,0.13,ci,ci40549407,2024-04-18T20:02:27.810Z,"11 km SSW of Bodfish, CA",earthquake,0.18,0.88,0.142,27,automatic,ci,ci
 2024-04-18T19:43:01.320Z,38.829834,-122.8125,2.03,0.7,md,14,64,0.006703,0.01,nc,nc74036731,2024-04-18T19:44:33.976Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.62,0.34,15,automatic,nc,nc
 2024-04-18T19:42:34.350Z,38.8306656,-122.8126678,1.87,0.29,md,10,85,0.007537,0.01,nc,nc74036726,2024-04-18T19:44:08.935Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.2,0.16,11,automatic,nc,nc
@@ -283,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T18:45:00.259Z,15.8984,146.7376,35,4.6,mb,33,139,1.124,0.76,us,us7000mczy,2024-04-18T20:32:25.040Z,"129 km NE of Saipan, Northern Mariana Islands",earthquake,4.2,1.936,0.087,39,reviewed,us,us
 2024-04-18T18:43:29.850Z,40.0331,36.0731,4.551,4.2,mb,43,48,0.425,0.6,us,us7000mczh,2024-04-19T14:59:58.040Z,"4 km NNW of Sulusaray, Turkey",earthquake,3.91,4.792,0.141,14,reviewed,us,us
 2024-04-18T18:40:50.370Z,38.8311653,-122.8201675,1.71,0.32,md,9,118,0.01106,0.02,nc,nc74036661,2024-04-18T18:42:24.303Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.05,0.15,9,automatic,nc,nc
-2024-04-18T18:27:29.440Z,51.7673333333333,-177.482333333333,2.01,1.61,ml,11,176,0.1537,0.21,av,av93094586,2024-04-19T00:02:29.480Z,"59 km WSW of Adak, Alaska",earthquake,0.84,1.45,0.257813920916692,10,reviewed,av,av
-2024-04-18T18:26:44.480Z,38.7939987,-122.7786636,3.61,1.45,md,29,77,0.007278,0.05,nc,nc74036641,2024-04-18T18:29:58.312Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.43,0.16,33,automatic,nc,nc
