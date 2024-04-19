@@ -210,7 +210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T17:40:02.027Z,33.5112,81.7282,10,5.1,mb,84,31,6.461,0.77,us,us7000mczb,2024-04-18T18:15:32.040Z,"western Xizang",earthquake,7.49,1.795,0.039,215,reviewed,us,us
 2024-04-18T17:37:32.674Z,40.0839,-119.6525,15.6,1.2,ml,9,186.32999999999998,0.106,0.1363,nn,nn00876420,2024-04-19T02:03:36.950Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,1.7,0.19,7,reviewed,nn,nn
 2024-04-18T17:30:01.830Z,38.8183327,-122.8225021,1.95,0.76,md,9,89,0.01079,0.01,nc,nc74036626,2024-04-18T17:31:38.582Z,"7 km NW of The Geysers, CA",earthquake,0.43,1.06,0.13,11,automatic,nc,nc
-2024-04-18T17:29:38.530Z,31.595,-104.271,4.1906,2,ml,18,73,0.1,0.2,tx,tx2024hqqz,2024-04-18T17:51:35.852Z,"55 km NW of Toyah, Texas",earthquake,0,1.35069396937781,0.2,14,automatic,tx,tx
+2024-04-18T17:29:38.311Z,31.603,-104.276,7.6636,2.2,ml,13,61,0.1,0.2,tx,tx2024hqqz,2024-04-19T10:15:31.413Z,"55 km NW of Toyah, Texas",earthquake,1.644497450832503,2.196884053594533,0.1,19,reviewed,tx,tx
 2024-04-18T17:26:48.270Z,44.5416666666667,-112.718666666667,7.92,1.18,ml,15,100,0.0925,0.07,mb,mb90046873,2024-04-18T21:17:25.220Z,"14 km SW of Lima, Montana",earthquake,0.3,0.7,0.139016464016169,12,reviewed,mb,mb
 2024-04-18T17:15:58.790Z,34.0548333,-117.1193333,10.43,0.95,ml,34,70,0.05441,0.14,ci,ci40549207,2024-04-18T20:34:13.975Z,"2 km SE of Mentone, CA",earthquake,0.16,0.38,0.117,11,reviewed,ci,ci
 2024-04-18T16:56:27.600Z,32.6496667,-115.7416667,5.48,1.03,ml,20,86,0.0129,0.22,ci,ci40549191,2024-04-18T20:26:46.188Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.35,0.41,0.178,9,reviewed,ci,ci
@@ -288,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T10:25:11.676Z,31.604,-103.936,7.1381,1.8,ml,17,67,0,0.1,tx,tx2024hqcy,2024-04-18T20:16:53.388Z,"33 km WSW of Mentone, Texas",earthquake,0.37054507269941167,0.412766059055016,0.1,10,reviewed,tx,tx
 2024-04-18T10:19:47.060Z,31.597,-104.267,3.8354,1.6,ml,17,72,0.1,0.2,tx,tx2024hqcu,2024-04-18T10:41:21.458Z,"54 km NW of Toyah, Texas",earthquake,0,1.40095200186717,0.2,13,automatic,tx,tx
 2024-04-18T10:18:21.890Z,38.8226662,-122.8523331,2.36,1.02,md,17,112,0.006026,0.02,nc,nc74036496,2024-04-18T10:19:55.623Z,"10 km WNW of The Geysers, CA",earthquake,0.29,0.45,0.08,17,automatic,nc,nc
-2024-04-18T10:06:24.670Z,34.8466667,-120.3998333,5.09,1.43,ml,25,76,0.04018,0.22,ci,ci40716208,2024-04-18T18:09:24.284Z,"4 km ESE of Orcutt, CA",earthquake,0.26,0.57,0.126,18,reviewed,ci,ci
-2024-04-18T10:03:33.626Z,60.5864,-149.6687,32.5,1.7,ml,,,,0.38,ak,ak02450fjvmd,2024-04-18T10:06:34.606Z,"13 km NE of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
