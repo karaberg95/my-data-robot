@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-19T16:25:45.761Z,52.4795,-170.8275,10,4,mb,18,172,0.74,0.66,us,us7000md8n,2024-04-19T16:46:27.040Z,"142 km WSW of Nikolski, Alaska",earthquake,8.08,1.957,0.172,10,reviewed,us,us
 2024-04-19T16:17:15.229Z,63.095,-147.6204,3,2.1,ml,,,,0.56,ak,ak024526qsci,2024-04-19T16:19:06.835Z,"74 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-19T16:10:41.771Z,61.415,-150.0233,33.2,2,ml,,,,0.47,ak,ak024526pcdt,2024-04-19T16:12:46.893Z,"6 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-19T16:09:05.140Z,37.3030014,-121.6711655,6.29,1.23,md,9,106,0.04397,0.02,nc,nc74037331,2024-04-19T16:10:40.612Z,"15 km E of Seven Trees, CA",earthquake,0.38,0.73,0.12,7,automatic,nc,nc
@@ -287,4 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-18T17:15:58.790Z,34.0548333,-117.1193333,10.43,0.95,ml,34,70,0.05441,0.14,ci,ci40549207,2024-04-18T20:34:13.975Z,"2 km SE of Mentone, CA",earthquake,0.16,0.38,0.117,11,reviewed,ci,ci
 2024-04-18T16:56:27.600Z,32.6496667,-115.7416667,5.48,1.03,ml,20,86,0.0129,0.22,ci,ci40549191,2024-04-18T20:26:46.188Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.35,0.41,0.178,9,reviewed,ci,ci
 2024-04-18T16:53:43.360Z,38.8390007,-122.8073349,2.03,1.26,md,22,55,0.01328,0.02,nc,nc74036611,2024-04-18T16:55:18.222Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.43,0.25,23,automatic,nc,nc
-2024-04-18T16:42:31.240Z,38.8143349,-122.8193359,2.67,0.77,md,18,53,0.00943,0.02,nc,nc74036606,2024-04-18T16:44:08.163Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.59,0.13,20,automatic,nc,nc
