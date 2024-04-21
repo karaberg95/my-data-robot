@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-21T14:33:11.710Z,41.90716666666667,-119.59333333333333,2.34,2.25,ml,7,213,0.3481,0.3,uw,uw61998436,2024-04-21T18:31:04.410Z,"46 km E of Fort Bidwell, California",earthquake,1.06,2.11,0.10151199051913684,2,reviewed,uw,uw
 2024-04-21T14:26:51.420Z,33.5225,-116.7633333,3.02,0.63,ml,13,202,0.03253,0.12,ci,ci40553767,2024-04-21T14:33:34.901Z,"9 km WSW of Anza, CA",earthquake,1.1,0.79,0.141,9,automatic,ci,ci
 2024-04-21T14:22:02.710Z,33.253,-116.3301667,8.6,0.98,ml,54,31,0.07445,0.19,ci,ci40553735,2024-04-21T14:28:11.744Z,"4 km E of Borrego Springs, CA",earthquake,0.16,0.52,0.163,24,automatic,ci,ci
-2024-04-21T14:16:00.066Z,36.41194916,-96.91082764,3.510601044,2.22,ml,37,61.67938614,0.01796398684,0.5935056627,ok,ok2024hvxc,2024-04-21T14:23:29.535Z,"12 km NW of Pawnee, Oklahoma",earthquake,2.081842903,1.344640203,0.28,30,automatic,ok,ok
+2024-04-21T14:16:00.066Z,36.41194916,-96.91082764,3.510601044,2.22,ml,37,61.67938614,0.01796398684,0.5935056627,ok,ok2024hvxc,2024-04-21T23:34:42.043Z,"12 km NW of Pawnee, Oklahoma",earthquake,2.081842903,1.344640203,0.28,30,automatic,ok,ok
 2024-04-21T14:15:03.020Z,35.906,-117.7441667,9.23,0.79,ml,25,69,0.08685,0.1,ci,ci40553727,2024-04-21T14:24:46.652Z,"15 km ESE of Little Lake, CA",earthquake,0.14,0.33,0.217,10,reviewed,ci,ci
 2024-04-21T14:12:54.990Z,19.3099994659424,-155.341003417969,-0.689999997615814,2.15,ml,51,113,0.04551,0.379999995,hv,hv74180332,2024-04-21T14:15:32.440Z,"18 km SW of Volcano, Hawaii",earthquake,0.45,0.280000001,0.29,19,automatic,hv,hv
 2024-04-21T14:11:21.810Z,38.8334999,-122.8776703,2.81,0.7,md,7,143,0.00653,0.02,nc,nc74038646,2024-04-21T14:12:55.941Z,"12 km WNW of The Geysers, CA",earthquake,1.49,1.2,0.3,8,automatic,nc,nc
@@ -284,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T23:58:35.164Z,31.998,-103.842,5.4851,1.7,ml,8,178,0,0.1,tx,tx2024huut,2024-04-21T00:28:55.503Z,"33 km SE of Malaga, New Mexico",earthquake,0,5.4434755310871,0.3,6,automatic,tx,tx
 2024-04-20T23:50:49.073Z,32.002,-103.827,8.6581,2,ml,9,189,0,0.4,tx,tx2024huun,2024-04-21T00:28:51.502Z,"33 km SE of Malaga, New Mexico",earthquake,0,4.62553175884936,0.3,7,automatic,tx,tx
 2024-04-20T23:47:09.620Z,36.1176667,-117.8818333,7.57,0.9,ml,23,72,0.02184,0.16,ci,ci40553127,2024-04-21T15:14:32.020Z,"10 km NE of Coso Junction, CA",earthquake,0.24,0.44,0.221,12,reviewed,ci,ci
-2024-04-20T23:35:14.471Z,66.3338,-157.4518,0,2.3,ml,,,,0.79,ak,ak02453yk0wn,2024-04-20T23:38:43.728Z,"63 km SSW of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-20T23:34:39.861Z,66.4388,-148.7252,0,1.4,ml,,,,0.88,ak,ak02453yjv5e,2024-04-20T23:37:02.438Z,"50 km NNE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
