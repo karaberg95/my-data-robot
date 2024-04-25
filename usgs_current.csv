@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-25T07:34:19.754Z,31.592,-104.551,4.1452,1.6,ml,8,164,0.1,0.2,tx,tx2024icrv,2024-04-25T08:01:49.748Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.23619954768201,0.2,7,automatic,tx,tx
+2024-04-25T08:20:59.380Z,60.6983,-152.2107,89.8,1.1,ml,,,,0.56,ak,ak0245bz850y,2024-04-25T08:23:18.083Z,"49 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-04-25T08:16:58.530Z,33.4653333,-116.5816667,10.1,1.53,ml,79,23,0.03483,0.19,ci,ci40557743,2024-04-25T08:27:25.620Z,"13 km SE of Anza, CA",earthquake,0.13,0.28,0.142,27,automatic,ci,ci
+2024-04-25T08:16:56.199Z,58.4534,-152.7414,45.3,2.6,ml,,,,0.4,ak,ak0245bz79wz,2024-04-25T08:18:55.973Z,"44 km NNE of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-25T08:13:49.682Z,59.9814,-151.8819,54,1.1,ml,,,,0.39,ak,ak0245bz6m9k,2024-04-25T08:15:49.310Z,"9 km WNW of Happy Valley, Alaska",earthquake,,2,,,automatic,ak,ak
+2024-04-25T07:34:19.692Z,31.589,-104.55,4.1606,1.7,ml,16,163,0.1,0.2,tx,tx2024icrv,2024-04-25T08:12:59.836Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.74633521132208,0.1,13,automatic,tx,tx
 2024-04-25T07:33:13.643Z,6.2251,95.5805,212.952,4.6,mb,27,209,1.682,0.76,us,us6000mtmg,2024-04-25T08:10:26.040Z,"47 km NE of Sabang, Indonesia",earthquake,11.76,8.911,0.136,16,reviewed,us,us
 2024-04-25T07:27:06.313Z,61.0037,-148.0971,5.2,1.4,ml,,,,0.98,ak,ak0245byo3h9,2024-04-25T07:29:56.690Z,"40 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-25T07:21:42.020Z,19.3921666666667,-155.2775,1.69,2.51,ml,44,47,0.004837,0.11,hv,hv74184972,2024-04-25T07:41:01.310Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.15,0.220679460421454,20,reviewed,hv,hv
@@ -260,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T08:38:22.410Z,38.8308334,-122.8188324,1.8,1.44,md,25,50,0.0101,0.02,nc,nc74040191,2024-04-24T08:39:58.172Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.31,0.1,27,automatic,nc,nc
 2024-04-24T08:34:14.440Z,19.424165725708,-155.274826049805,10.3299999237061,1.70000005,md,23,123,0.002667,0.140000001,hv,hv74183347,2024-04-24T08:35:49.730Z,"4 km WSW of Volcano, Hawaii",earthquake,0.36,0.439999998,0.340000004,8,automatic,hv,hv
 2024-04-24T08:33:59.530Z,44.7961666666667,-111.055,7.75,0.89,ml,13,152,0.03667,0.15,uu,uu80067276,2024-04-24T15:04:47.770Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.41,0.61,0.257864149496304,3,reviewed,uu,uu
-2024-04-24T08:14:36.612Z,64.4302,-147.4469,11.6,0.7,ml,,,,0.53,ak,ak0245abngh9,2024-04-24T08:16:28.593Z,"28 km WSW of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
