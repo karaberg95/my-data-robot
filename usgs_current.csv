@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-26T11:56:28.800Z,38.8326683,-122.8201675,1.7,0.28,md,8,136,0.01216,0.02,nc,nc74041351,2024-04-26T11:58:03.404Z,"8 km NW of The Geysers, CA",earthquake,0.48,0.78,0.17,9,automatic,nc,nc
 2024-04-26T11:47:13.954Z,59.7106,-151.4482,44.9,2.7,ml,,,,0.69,ak,ak0245doph61,2024-04-26T11:49:07.796Z,"4 km N of Kachemak, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-26T11:41:20.200Z,19.3931674957275,-155.462493896484,2.23000001907349,2.13,ml,47,37,0.02157,0.300000012,hv,hv74186617,2024-04-26T11:43:56.980Z,"21 km N of Pāhala, Hawaii",earthquake,0.39,1.09000003,0.34,4,automatic,hv,hv
 2024-04-26T11:37:32.332Z,56.0873,-156.274,83.5,2.4,ml,,,,0.52,ak,ak0245doncqc,2024-04-26T11:40:10.602Z,"134 km E of Chignik, Alaska",earthquake,,2.2,,,automatic,ak,ak
