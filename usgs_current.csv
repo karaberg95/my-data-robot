@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T11:24:48.770Z,33.9815,-117.1648333,14.6,1.1,ml,52,45,0.03467,0.17,ci,ci40557831,2024-04-25T19:56:24.080Z,"8 km S of Redlands, CA",earthquake,0.17,0.35,0.221,16,reviewed,ci,ci
 2024-04-25T11:24:39.406Z,59.427,-136.5047,11.6,1.4,ml,,,,0.8,ak,ak0245c1195w,2024-04-25T11:26:50.869Z,"26 km WSW of Mosquito Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-25T11:22:53.270Z,19.385,-155.242666666667,1.7,1.7,ml,24,68,0.008175,0.09,hv,hv74185242,2024-04-25T18:20:11.380Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.16,0.159655469437292,11,reviewed,hv,hv
-2024-04-25T11:14:00.630Z,35.55533333,-96.7405,5,2.59,ml,89,46,0.01979611533,0.2,ok,ok2024iczc,2024-04-26T09:23:36.487Z,"9 km NNW of Prague, Oklahoma",earthquake,,0.3,0.26,39,reviewed,ok,ok
