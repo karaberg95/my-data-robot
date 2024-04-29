@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-29T13:22:44.930Z,33.9111671,-116.7089996,16.67,1.14,ml,32,56,0.1067,0.13,ci,ci40561263,2024-04-29T13:25:08.435Z,"7 km E of Cabazon, CA",earthquake,0.3,0.61,0.272,9,automatic,ci,ci
+2024-04-29T13:22:44.950Z,33.909,-116.7111667,16.43,1.01,ml,43,48,0.1039,0.13,ci,ci40561263,2024-04-29T13:29:11.211Z,"7 km E of Cabazon, CA",earthquake,0.15,0.34,0.174,22,automatic,ci,ci
 2024-04-29T13:18:35.279Z,63.1252,-150.3082,2,1.1,ml,,,,0.73,ak,ak0245ioc7qf,2024-04-29T13:20:54.000Z,"73 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-29T13:16:33.730Z,38.8375015,-122.8393326,1.89,0.82,md,16,111,0.01475,0.01,nc,nc74042911,2024-04-29T13:18:08.146Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.48,0.23,17,automatic,nc,nc
 2024-04-29T13:11:20.366Z,39.8796,-118.887,9.8,1.5,ml,12,131.56,0.419,0.1534,nn,nn00876963,2024-04-29T13:13:38.494Z,"40 km E of Nixon, Nevada",earthquake,,1.4,0.12,7,automatic,nn,nn
@@ -314,6 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-28T13:38:37.034Z,63.053,-150.7254,119,2.2,ml,,,,0.25,ak,ak0245h0x5p3,2024-04-28T13:40:38.457Z,"62 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-28T13:36:10.150Z,18.1205,-64.6228333333333,70.79,3.32,md,10,201,0.2981,0.28,pr,pr71447028,2024-04-28T14:48:08.860Z,"29 km SE of Cruz Bay, U.S. Virgin Islands",earthquake,1.73,1.38,0.105255538749198,4,reviewed,pr,pr
 2024-04-28T13:34:22.784Z,61.503,-150.9714,61,1.2,ml,,,,0.23,ak,ak0245h0w9qe,2024-04-28T13:36:49.683Z,"24 km W of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-04-28T13:32:10.280Z,19.3855,-155.2455,1.36,1.42,md,13,100,0.005485,0.07,hv,hv74192347,2024-04-28T13:41:13.990Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.32,0.148715586490019,17,reviewed,hv,hv
-2024-04-28T13:26:08.690Z,19.3811666666667,-155.241333333333,0.63,1.32,md,12,102,0.00759,0.1,hv,hv74192322,2024-04-28T13:36:10.850Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.25,0.113178073600172,14,reviewed,hv,hv
-2024-04-28T13:25:49.274Z,31.653,-104.562,3.8505,1.5,ml,12,180,0.1,0.3,tx,tx2024iipy,2024-04-28T14:02:10.176Z,"60 km SSW of Whites City, New Mexico",earthquake,0,1.92629966954005,0.1,9,automatic,tx,tx
