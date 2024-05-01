@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-01T04:35:10.430Z,33.974,-117.1651667,15.11,1.37,ml,68,22,0.0273,0.17,ci,ci40734472,2024-05-01T04:41:51.496Z,"8 km NE of Moreno Valley, CA",earthquake,0.14,0.25,0.217,30,automatic,ci,ci
+2024-05-01T04:32:36.268Z,62.765,-150.53,79.5,1,ml,,,,0.6,ak,ak0245lu50dm,2024-05-01T04:35:17.345Z,"32 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-05-01T04:27:15.670Z,38.7576675,-122.7405014,2.04,1.14,md,14,101,0.01284,0.03,nc,nc74043641,2024-05-01T04:28:48.835Z,"3 km SSE of The Geysers, CA",earthquake,0.43,0.47,0.32,14,automatic,nc,nc
 2024-05-01T04:25:18.070Z,33.2655,-116.4345,3.72,1.1,ml,60,31,0.01478,0.21,ci,ci40734464,2024-05-01T04:31:30.143Z,"6 km W of Borrego Springs, CA",earthquake,0.16,0.29,0.172,26,automatic,ci,ci
 2024-05-01T04:24:34.312Z,37.185,-117.8457,0,1.4,ml,17,207.62,0.166,0.3379,nn,nn00877052,2024-05-01T04:27:11.276Z,"39 km E of Big Pine, California",earthquake,,10.5,0.25,10,automatic,nn,nn
