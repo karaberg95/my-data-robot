@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T11:34:22.940Z,33.8235,-117.6306667,3.5,1.09,ml,18,57,0.03339,0.16,ci,ci40735832,2024-05-02T12:57:47.833Z,"8 km SW of Corona, CA",earthquake,0.31,0.21,0.473,21,reviewed,ci,ci
 2024-05-02T11:27:20.580Z,44.2768333333333,-114.7975,-2.08,1.46,ml,10,69,0.1742,0.11,mb,mb90048983,2024-05-02T13:17:04.880Z,"13 km ENE of Stanley, Idaho",earthquake,0.32,1.32,0.35565242996592,8,reviewed,mb,mb
 2024-05-02T11:26:37.888Z,67.8262,-160.8973,7.9,3.6,ml,,,,0.64,ak,ak0245nlt3xs,2024-05-02T17:31:22.231Z,"86 km ESE of Red Dog Mine, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2024-05-02T11:21:42.710Z,19.3974990844727,-155.248001098633,1.28999996185303,1.89999998,md,13,52,0.01233,0.129999995,hv,hv74206847,2024-05-02T11:23:06.940Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.330000013,0.159999996,12,automatic,hv,hv
