@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-04T19:32:02.740Z,38.8185005187988,-122.800498962402,3.10999989509583,0.97,md,17,47,0.008935,0.02,nc,nc75001201,2024-05-04T19:33:39.608Z,"6 km NNW of The Geysers, CA",earthquake,0.29,0.870000005,0.25,18,automatic,nc,nc
+2024-05-04T19:31:19.624Z,63.4517,-146.1482,0,2,ml,,,,0.79,ak,ak0245r1oaxm,2024-05-04T19:33:06.621Z,"48 km NW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-04T19:16:24.417Z,60.2634,-149.8671,28.6,2,ml,,,,0.62,ak,ak0245r1l3k9,2024-05-04T19:18:27.455Z,"25 km S of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-04T18:40:16.097Z,-23.205,-66.7247,210.119,4.4,mb,22,96,1.362,0.64,us,us6000mwcm,2024-05-04T19:29:09.040Z,"106 km W of El Aguilar, Argentina",earthquake,8.11,10.618,0.191,8,reviewed,us,us
 2024-05-04T18:34:25.640Z,38.8303337097168,-122.791496276855,1.54999995231628,1.47,md,19,94,0.008114,0.02,nc,nc75001176,2024-05-04T18:36:03.393Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.430000007,0.16,21,automatic,nc,nc
