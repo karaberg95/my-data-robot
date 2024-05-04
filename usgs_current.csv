@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T17:40:51.369Z,59.91,-153.029,109.3,2.1,ml,,,,0.29,ak,ak0245r0jfm8,2024-05-04T17:42:41.013Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-04T17:40:33.168Z,60.0378,-152.8045,89.2,1.1,ml,,,,0.59,ak,ak0245r0jee8,2024-05-04T17:42:08.419Z,"60 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-04T17:28:53.940Z,19.1663341522217,-155.357498168945,27.0599994659424,1.80999994,md,41,195,0.09948,0.109999999,hv,hv74213462,2024-05-04T17:30:38.920Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.44,0.680000007,0.270000011,8,automatic,hv,hv
-2024-05-04T17:24:18.519Z,67.128,-146.2562,10.5,2.5,ml,,,,0.82,ak,ak0245r0fxmj,2024-05-04T17:27:55.539Z,"14 km NNE of Venetie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-04T17:24:18.519Z,67.128,-146.2562,10.5,2.5,ml,,,,0.82,ak,ak0245r0fxmj,2024-05-04T18:37:35.040Z,"14 km NNE of Venetie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-04T17:21:36.200Z,38.8059997558594,-122.752670288086,10.4899997711182,0.58,md,7,177,0.02306,0.04,nc,nc75001141,2024-05-04T17:23:14.369Z,"3 km WSW of Cobb, CA",earthquake,2.27,7.80000019,0.23,7,automatic,nc,nc
 2024-05-04T17:17:46.700Z,33.1746667,-115.6,0.06,1.01,ml,6,133,0.01341,0.07,ci,ci40738696,2024-05-04T17:25:06.223Z,"10 km NW of Calipatria, CA",earthquake,0.44,6.95,0.182,15,automatic,ci,ci
 2024-05-04T17:03:55.340Z,38.7734985351562,-122.74299621582,1.41999995708466,1.32,md,13,71,0.01089,0.02,nc,nc75001136,2024-05-04T17:05:32.545Z,"1 km ESE of The Geysers, CA",earthquake,0.27,0.289999992,0.2,12,automatic,nc,nc
@@ -218,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T19:01:48.610Z,31.6723333,-115.8908333,9.15,2.2,ml,18,117,0.335,0.16,ci,ci40737624,2024-05-03T22:44:52.635Z,"64 km E of Maneadero, B.C., MX",earthquake,0.19,0.75,0.134,13,reviewed,ci,ci
 2024-05-03T19:00:29.240Z,46.0185,-112.457,-2,1.91,ml,13,127,0.06797,0.09,mb,mb90049063,2024-05-03T19:32:13.670Z,"6 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.240837447764114,23,reviewed,mb,mb
 2024-05-03T19:00:28.171Z,62.7191,-149.5294,62.7,1.8,ml,,,,0.51,ak,ak0245pdybwh,2024-05-03T19:02:27.249Z,"42 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-03T18:43:47.522Z,-19.2644,-69.4406,127.619,4.2,mb,20,103,0.464,0.79,us,us6000mw6i,2024-05-03T22:08:29.040Z,"5 km NNW of Camiña, Chile",earthquake,5.54,9.126,0.215,6,reviewed,us,us
-2024-05-03T18:42:59.880Z,34.4776667,-115.9953333,0.68,1.86,ml,25,73,0.1334,0.13,ci,ci40737576,2024-05-03T22:36:44.586Z,"25 km WSW of Amboy, CA",earthquake,0.18,0.48,0.157,33,reviewed,ci,ci
-2024-05-03T18:38:04.170Z,34.0396667,-117.257,2.38,0.83,ml,21,201,0.08837,0.18,ci,ci40737552,2024-05-03T18:44:54.902Z,"1 km SSE of Loma Linda, CA",earthquake,0.75,1.66,0.185,4,automatic,ci,ci
