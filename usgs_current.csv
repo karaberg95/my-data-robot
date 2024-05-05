@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T23:23:14.280Z,19.369499206543,-155.225494384766,0.0900000035762787,1.81,ml,7,209,0.01035,0.129999995,hv,hv74213757,2024-05-04T23:25:51.090Z,"8 km S of Volcano, Hawaii",earthquake,0.46,0.289999992,0.24,3,automatic,hv,hv
 2024-05-04T23:15:42.130Z,35.6803333,-117.5003333,6.72,2.25,ml,35,64,0.06421,0.12,ci,ci40739176,2024-05-04T23:22:34.883Z,"13 km SW of Searles Valley, CA",earthquake,0.15,0.4,0.136,26,automatic,ci,ci
 2024-05-04T23:01:28.960Z,65.0001,-147.3251,0,1.4,ml,,,,0.67,ak,ak0245r3vmlc,2024-05-04T23:03:41.827Z,"14 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-04T22:44:58.230Z,60.1826,-141.5125,12.1,1.7,ml,,,,0.68,ak,ak0245r3jh1b,2024-05-04T22:47:36.361Z,"122 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
