@@ -279,4 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-05T19:40:15.199Z,36.4825,-96.99033333,6.09,1.48,ml,76,65,0.02159576217,0.26,ok,ok2024ivwv,2024-05-06T12:44:52.934Z,"16 km ESE of Marland, Oklahoma",earthquake,,0.4,0.24,33,reviewed,ok,ok
 2024-05-05T19:33:39.626Z,-37.2111,-95.5391,10,4.9,mb,58,111,14.081,0.48,us,us6000mwjw,2024-05-05T19:57:17.040Z,"southeast of Easter Island",earthquake,12.18,1.897,0.036,237,reviewed,us,us
 2024-05-05T19:32:37.810Z,35.66883333,-97.41516667,6.42,1.41,ml,91,23,0.03959223065,0.15,ok,ok2024ivwo,2024-05-06T12:52:25.328Z,"5 km ENE of Edmond, Oklahoma",earthquake,,0.2,0.2,42,reviewed,ok,ok
-2024-05-05T19:27:37.161Z,-37.3236,-94.7759,10,4.9,mb,49,218,13.503,0.69,us,us6000mwjy,2024-05-05T19:52:19.040Z,"West Chile Rise",earthquake,15.24,2.004,0.047,142,reviewed,us,us
