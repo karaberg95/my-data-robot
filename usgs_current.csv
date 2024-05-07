@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T08:10:15.413Z,-21.7251,169.7008,53.458,4.7,mb,34,118,2.269,0.57,us,us6000mwxc,2024-05-07T10:08:44.040Z,"189 km E of Tadine, New Caledonia",earthquake,11.29,7.684,0.12,25,reviewed,us,us
 2024-05-07T08:03:03.016Z,11.3205,125.6988,61.986,5.1,mb,67,53,4.225,0.86,us,us6000mwwl,2024-05-07T08:20:37.040Z,"8 km E of Hernani, Philippines",earthquake,9.36,7.189,0.052,118,reviewed,us,us
 2024-05-07T07:55:58.085Z,-57.5798,-26.0694,89.8,5.1,mb,36,80,6.72,0.93,us,us6000mwwk,2024-05-07T08:13:08.040Z,"South Sandwich Islands region",earthquake,12.15,7.908,0.081,50,reviewed,us,us
-2024-05-07T07:47:39.980Z,35.3263333,-118.5425,3,2.72,ml,58,20,0.1055,0.17,ci,ci40741832,2024-05-07T10:28:24.040Z,"23 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,25,automatic,ci,ci
+2024-05-07T07:47:39.980Z,35.3263333,-118.5425,3,2.72,ml,58,20,0.1055,0.17,ci,ci40741832,2024-05-07T11:29:27.945Z,"23 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,25,automatic,ci,ci
 2024-05-07T07:37:03.691Z,59.9925,-152.9603,106.8,0.9,ml,,,,0.37,ak,ak0245vt6e81,2024-05-07T07:38:37.279Z,"67 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-07T07:22:16.750Z,33.5638333,-117.0203333,12.41,1.55,ml,74,26,0.05112,0.22,ci,ci40741816,2024-05-07T07:32:41.680Z,"13 km E of Murrieta Hot Springs, CA",earthquake,0.14,0.41,0.191,26,automatic,ci,ci
 2024-05-07T07:20:36.568Z,61.2421,-152.0848,29.9,1.2,ml,,,,0.35,ak,ak0245vt2tl4,2024-05-07T07:23:13.433Z,"54 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-06T11:39:54.200Z,32.4026667,-115.2263333,7.79,1.94,ml,27,52,0.06862,0.3,ci,ci40740776,2024-05-06T11:47:50.177Z,"6 km NNW of Delta, B.C., MX",earthquake,0.42,1.34,0.217,25,automatic,ci,ci
 2024-05-06T11:39:26.856Z,61.0681,-152.1775,0.1,1.8,ml,,,,1.26,ak,ak0245u819d9,2024-05-06T11:41:49.264Z,"56 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-06T11:37:24.930Z,33.5855,-116.8055,6.77,0.3,ml,20,53,0.03551,0.18,ci,ci40740768,2024-05-06T11:44:31.042Z,"13 km WNW of Anza, CA",earthquake,0.27,0.51,0.075,3,automatic,ci,ci
-2024-05-06T11:36:38.980Z,41.5843333333333,-112.4345,5.34,1.2,md,7,125,0.1407,0.12,uu,uu80068816,2024-05-06T20:00:42.470Z,"16 km SW of Thatcher, Utah",earthquake,0.46,2.54,0.0609703256693028,6,reviewed,uu,uu
