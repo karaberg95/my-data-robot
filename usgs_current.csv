@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-08T10:32:41.420Z,38.8118324279785,-122.819000244141,2.69000005722046,1.42,md,27,53,0.008485,0.02,nc,nc75003301,2024-05-08T10:34:19.021Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.18,28,automatic,nc,nc
 2024-05-08T10:10:12.680Z,19.378999710083,-155.240829467773,0.469999998807907,2.00999999,md,21,70,0.005407,0.189999998,hv,hv74220967,2024-05-08T10:11:42.710Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.159999996,0.430000007,13,automatic,hv,hv
 2024-05-08T10:00:58.305Z,-21.3978,-68.3108,103.725,5.2,mww,62,32,1.153,0.98,us,us6000mx68,2024-05-08T10:15:31.040Z,"20 km SSW of Ollagüe, Chile",earthquake,6.34,5.726,0.071,19,reviewed,us,us
 2024-05-08T09:53:16.010Z,-15.1312,168.0542,10,4.8,mb,27,164,6.474,1,us,us6000mx67,2024-05-08T10:17:37.040Z,"104 km ENE of Luganville, Vanuatu",earthquake,14.23,1.911,0.116,23,reviewed,us,us
@@ -288,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T10:43:15.830Z,37.6623333333333,-122.507,7.95,1.03,md,12,180,0.03581,0.06,nc,nc75002716,2024-05-07T17:51:02.671Z,"4 km W of Colma, CA",earthquake,0.55,0.38,0.171,9,reviewed,nc,nc
 2024-05-07T10:42:09.560Z,33.4928333,-116.499,10.03,0.77,ml,32,59,0.06982,0.25,ci,ci40741864,2024-05-07T10:49:02.749Z,"18 km ESE of Anza, CA",earthquake,0.27,0.64,0.129,15,automatic,ci,ci
 2024-05-07T10:41:25.744Z,63.4838,-148.9333,7,1.4,ml,,,,0.52,ak,ak0245vuzllq,2024-05-07T10:43:01.697Z,"10 km N of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-07T10:28:15.000Z,38.833667755127,-122.810333251953,2.16000008583069,1.09,md,21,50,0.01026,0.02,nc,nc75002711,2024-05-07T10:29:51.332Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.529999971,0.17,23,automatic,nc,nc
-2024-05-07T10:28:03.890Z,38.8338317871094,-122.810165405273,2.22000002861023,1.02,md,17,54,0.01042,0.01,nc,nc75002706,2024-05-07T10:29:41.673Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.479999989,0.17,18,automatic,nc,nc
