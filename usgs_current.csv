@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-09T17:08:03.220Z,33.4186667,-117.0561667,8.39,0.84,ml,33,53,0.03588,0.19,ci,ci40743864,2024-05-09T17:14:54.619Z,"6 km NNE of Pala, CA",earthquake,0.21,0.54,0.123,18,automatic,ci,ci
+2024-05-09T16:44:39.367Z,31.678,-104.416,3.2166,1.7,ml,16,69,0,0.5,tx,tx2024jcyy,2024-05-09T17:29:55.295Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3362751138181,0.1,12,automatic,tx,tx
+2024-05-09T16:43:55.186Z,31.678,-104.414,6.4794,1.8,ml,17,69,0,0.2,tx,tx2024jcza,2024-05-09T17:29:51.249Z,"55 km S of Whites City, New Mexico",earthquake,0,2.52828183813426,0.1,13,automatic,tx,tx
 2024-05-09T16:26:18.491Z,63.091,-150.3946,92.8,2.2,ml,,,,0.62,ak,ak0245z9jnut,2024-05-09T16:28:15.884Z,"68 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-09T16:15:02.130Z,36.3058319091797,-120.879501342773,5.92999982833862,1.76,md,17,107,0.06198,0.05,nc,nc75003846,2024-05-09T16:16:38.096Z,"22 km WSW of New Idria, CA",earthquake,0.22,0.540000021,0.11,14,automatic,nc,nc
 2024-05-09T16:02:16.000Z,38.8188323974609,-122.820999145508,1.86000001430511,1.25,md,17,84,0.009674,0.04,nc,nc75003841,2024-05-09T16:05:03.613Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.22,17,automatic,nc,nc
