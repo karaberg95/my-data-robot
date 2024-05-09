@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-09T17:35:01.920Z,34.2104988,-117.6221695,8.64,1.73,ml,60,62,0.04131,0.18,ci,ci40743888,2024-05-09T17:37:31.061Z,"10 km NNW of Rancho Cucamonga, CA",earthquake,0.24,0.56,0.225,27,automatic,ci,ci
+2024-05-09T17:35:01.890Z,34.2111667,-117.6215,9.44,1.81,ml,65,22,0.04127,0.17,ci,ci40743888,2024-05-09T17:45:25.880Z,"10 km NNW of Rancho Cucamonga, CA",earthquake,0.15,0.32,0.172,28,automatic,ci,ci
 2024-05-09T17:12:08.910Z,34.39766667,-96.78966667,0,1.41,ml,53,167,0.2078592109,1.06,ok,ok2024jczy,2024-05-09T17:39:15.078Z,"3 km ESE of Mill Creek, Oklahoma",quarry blast,,1.4,0.23,22,reviewed,ok,ok
 2024-05-09T17:08:03.220Z,33.4186667,-117.0561667,8.39,0.84,ml,33,53,0.03588,0.19,ci,ci40743864,2024-05-09T17:14:54.619Z,"6 km NNE of Pala, CA",earthquake,0.21,0.54,0.123,18,automatic,ci,ci
 2024-05-09T16:44:39.367Z,31.678,-104.416,3.2166,1.7,ml,16,69,0,0.5,tx,tx2024jcyy,2024-05-09T17:29:55.295Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3362751138181,0.1,12,automatic,tx,tx
