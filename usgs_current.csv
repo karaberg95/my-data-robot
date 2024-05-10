@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-10T21:29:18.870Z,35.7169991,-117.5171661,6.48,1.32,ml,21,77,0.09202,0.12,ci,ci40744944,2024-05-10T21:31:22.282Z,"12 km WSW of Searles Valley, CA",earthquake,0.33,1.13,0.168,5,automatic,ci,ci
 2024-05-10T21:17:48.060Z,46.86283493041992,-121.77149963378906,-1.51999998092651,0.360000014,md,16,79,,0.0399999991,uw,uw61996472,2024-05-10T21:19:29.730Z,"22 km ENE of Ashford, Washington",earthquake,0.26,9.05000019,,1,automatic,uw,uw
 2024-05-10T21:16:45.220Z,35.671,-117.539,6,1.2,ml,28,97,0.09406,0.14,ci,ci40744928,2024-05-10T21:22:43.110Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.61,0.252,16,automatic,ci,ci
 2024-05-10T21:07:51.100Z,33.5133333,-116.5018333,13.15,0.67,ml,28,59,0.05034,0.13,ci,ci40744912,2024-05-10T21:14:10.062Z,"17 km ESE of Anza, CA",earthquake,0.17,0.36,0.154,17,automatic,ci,ci
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-09T22:01:37.754Z,81.1587,-4.7608,10,4.2,mb,33,72,4.805,0.59,us,us6000mxkl,2024-05-10T00:30:04.040Z,"north of Svalbard",earthquake,10.15,1.91,0.098,29,reviewed,us,us
 2024-05-09T21:39:58.120Z,46.215666666666664,-122.171,7.53,-0.02,ml,13,99,0.003656,0.11,uw,uw61996137,2024-05-09T23:12:06.170Z,"38 km SSE of Morton, Washington",earthquake,0.66,0.57,0.1309729029792829,8,reviewed,uw,uw
 2024-05-09T21:34:20.040Z,41.8006666666667,-125.9445,8.99,2.87,md,21,267,1.345,0.17,nc,nc75003951,2024-05-10T19:37:39.481Z,"140 km W of Brookings, OR",earthquake,1.31,31.61,0.132,16,reviewed,nc,nc
-2024-05-09T21:26:45.210Z,19.155834197998,-155.359832763672,26.0900001525879,1.87,md,43,181,0.09669,0.140000001,hv,hv74225207,2024-05-09T21:28:32.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.939999998,0.400000006,3,automatic,hv,hv
