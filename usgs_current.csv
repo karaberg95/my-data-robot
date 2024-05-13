@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-12T16:05:15.880Z,47.5295,-121.43383333333334,7.25,1.6,ml,25,69,0.1864,0.14,uw,uw61997012,2024-05-12T23:33:36.360Z,"15 km N of Snoqualmie Pass, Washington",earthquake,0.28,0.58,0.21957070297732906,22,reviewed,uw,uw
 2024-05-12T15:54:36.440Z,18.028,-68.3085,66,3.84,md,17,215,0.4913,0.47,pr,pr2024133000,2024-05-12T19:01:11.040Z,"50 km SE of Boca de Yuma, Dominican Republic",earthquake,2.92,2.89,0.08,14,reviewed,pr,pr
 2024-05-12T15:44:14.230Z,36.052,-120.998,7.45,0.95,md,31,55,0.0922,0.1,nc,nc75005516,2024-05-12T19:02:21.231Z,"9 km S of San Lucas, CA",earthquake,0.22,0.43,0.286,16,reviewed,nc,nc
-2024-05-12T15:34:38.760Z,38.8018341064453,-122.819831848145,3.67000007629395,0.59,md,8,101,0.01013,0.02,nc,nc75005511,2024-05-12T15:36:15.903Z,"6 km NW of The Geysers, CA",earthquake,0.58,1.63999999,0.29,9,automatic,nc,nc
