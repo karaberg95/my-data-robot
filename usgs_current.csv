@@ -264,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-12T11:13:48.849Z,63.2563,-151.3469,0,1.6,ml,,,,1,ak,ak0246453tes,2024-05-12T11:16:15.993Z,"36 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-12T11:05:30.030Z,33.3343333,-116.3995,8.34,0.41,ml,17,43,0.02813,0.11,ci,ci40746408,2024-05-12T11:11:11.318Z,"9 km NNW of Borrego Springs, CA",earthquake,0.18,0.41,0.086,3,automatic,ci,ci
 2024-05-12T11:02:26.491Z,56.1386,160.8429,143.439,4.8,mb,123,73,3.372,0.74,us,us6000my1u,2024-05-12T12:11:49.040Z,"20 km S of Klyuchi, Russia",earthquake,9.57,6.268,0.026,441,reviewed,us,us
-2024-05-12T10:46:46.660Z,33.5763333,-116.8068333,8.44,0.47,ml,37,41,0.03965,0.18,ci,ci40746400,2024-05-12T10:52:32.407Z,"13 km W of Anza, CA",earthquake,0.18,0.52,0.127,12,automatic,ci,ci
