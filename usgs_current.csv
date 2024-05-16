@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T18:58:00.500Z,38.8228340148926,-122.763000488281,2.59999990463257,0.69,md,8,124,0.009344,0.01,nc,nc75007156,2024-05-15T18:59:37.044Z,"3 km WNW of Cobb, CA",earthquake,0.78,1.45000005,0.24,9,automatic,nc,nc
 2024-05-15T18:57:44.129Z,38.7341,-119.5472,6.8,1.4,ml,12,80.57,0.077,0.1425,nn,nn00877688,2024-05-15T19:27:14.737Z,"4 km W of Topaz Ranch Estates, Nevada",earthquake,,1.5,0.26,5,reviewed,nn,nn
 2024-05-15T18:56:21.150Z,33.528,-116.4365,13.95,0.4,ml,16,62,0.01012,0.12,ci,ci40586367,2024-05-15T21:47:39.931Z,"19 km SW of La Quinta, CA",earthquake,0.32,0.64,0.133,6,reviewed,ci,ci
-2024-05-15T18:43:50.972Z,40.14,-118.2809,1.9,1.2,ml,5,272.28,0.371,0.1702,nn,nn00877697,2024-05-15T20:59:26.920Z,"16 km ESE of Lovelock, Nevada",earthquake,,2.8,0.14,4,reviewed,nn,nn
-2024-05-15T18:37:29.251Z,65.0235,-147.0401,4.9,1.2,ml,,,,0.73,ak,ak0246980zst,2024-05-15T18:39:16.215Z,"16 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
