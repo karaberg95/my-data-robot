@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T18:07:13.830Z,38.8133316040039,-122.823333740234,2.05999994277954,1.08,md,20,56,0.006381,0.02,nc,nc75009776,2024-05-20T18:08:51.217Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.17,21,automatic,nc,nc
 2024-05-20T18:02:29.140Z,35.6796667,-117.4905,6.13,0.88,ml,16,129,0.05629,0.11,ci,ci40593943,2024-05-20T18:08:14.650Z,"12 km SW of Searles Valley, CA",earthquake,0.33,0.55,0.279,6,automatic,ci,ci
 2024-05-20T17:45:40.510Z,18.8941669464111,-155.658172607422,4.44000005722046,2.5,ml,30,291,0.08524,0.310000002,hv,hv74242087,2024-05-20T18:14:10.040Z,"20 km SSW of Wai‘ōhinu, Hawaii",earthquake,1.15,1,1.04,4,automatic,hv,hv
-2024-05-20T17:45:10.031Z,31.596,-104.519,6.2717,1.8,ml,14,150,0.1,0.7,tx,tx2024jxdo,2024-05-20T18:29:42.713Z,"65 km SSW of Whites City, New Mexico",earthquake,0,5.76029477901627,0.1,10,automatic,tx,tx
+2024-05-20T17:45:10.947Z,31.629,-104.503,6.9714,1.8,ml,22,75,0,0.1,tx,tx2024jxdo,2024-05-20T18:52:18.912Z,"61 km S of Whites City, New Mexico",earthquake,0.9018610257434634,0.605247675174158,0.2,20,reviewed,tx,tx
 2024-05-20T17:42:19.237Z,63.8293,-149.1621,22.5,1.2,ml,,,,0.88,ak,ak0246hh5c8t,2024-05-20T17:45:09.261Z,"10 km WSW of Healy, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-05-20T17:39:28.962Z,65.1,-148.6769,12.6,0.9,ml,,,,0.62,ak,ak0246hh4q2o,2024-05-20T17:41:34.837Z,"32 km E of Minto, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-20T17:32:24.739Z,56.2471,-159.2942,108.6,0.8,ml,,,,0.1,ak,ak0246hh37qh,2024-05-20T17:34:59.069Z,"32 km W of Chignik Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T12:19:30.670Z,44.8006666666667,-111.051333333333,7.93,0.79,ml,13,155,0.03953,0.11,uu,uu80070001,2024-05-20T16:25:09.410Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.57,0.488835952773287,3,reviewed,uu,uu
 2024-05-20T12:18:40.504Z,64.8148,-149.1242,19.7,1.1,ml,,,,0.41,ak,ak0246he12wi,2024-05-20T12:20:20.859Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-20T12:18:07.110Z,19.3484992980957,-155.021499633789,1.37999999523163,2.18,ml,49,183,0.07102,0.280000001,hv,hv74241837,2024-05-20T12:20:45.000Z,"17 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.519999981,0.56,10,automatic,hv,hv
-2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T18:42:36.442Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-20T18:47:59.874Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2024-05-20T12:10:52.320Z,19.378999710083,-155.220840454102,2.00999999046326,1.84,ml,23,95,0.007234,0.200000003,hv,hv74241827,2024-05-20T12:13:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.41,0.289999992,0.1,7,automatic,hv,hv
 2024-05-20T12:07:41.196Z,64.8732,-150.4265,9.4,1.1,ml,,,,0.79,ak,ak0246hdyq2v,2024-05-20T12:09:47.234Z,"17 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:00:07.102Z,31.742,-104.116,7.7405,1.8,ml,25,52,0,0.1,tx,tx2024jwse,2024-05-20T17:29:12.880Z,"49 km W of Mentone, Texas",earthquake,0.5826154529055322,0.7513106005245658,0.2,15,reviewed,tx,tx
