@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-21T22:40:42.020Z,33.671,-116.774,18.12,1.52,ml,72,19,0.06398,0.19,ci,ci40595279,2024-05-21T22:47:33.692Z,"9 km SSW of Idyllwild, CA",earthquake,0.15,0.24,0.198,27,automatic,ci,ci
 2024-05-21T22:36:59.390Z,38.8368339538574,-122.803169250488,1.78999996185303,0.74,md,12,82,0.01014,0.03,nc,nc75010316,2024-05-21T22:38:35.084Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.16,13,automatic,nc,nc
 2024-05-21T22:35:23.900Z,38.8370018005371,-122.80249786377,2.01999998092651,0.71,md,10,86,0.009595,0.01,nc,nc75010311,2024-05-21T22:37:00.109Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.810000002,0.12,10,automatic,nc,nc
 2024-05-21T22:35:15.013Z,57.4067,-155.527,3.5,1.9,ml,,,,0.32,ak,ak0246j7mcnh,2024-05-21T22:36:42.025Z,"66 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -256,7 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T22:55:24.820Z,38.8131675720215,-122.830001831055,1.16999995708466,0.96,md,11,93,0.004341,0.04,nc,nc75009901,2024-05-20T22:57:03.461Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.589999974,0.23,14,automatic,nc,nc
 2024-05-20T22:52:26.103Z,36.9203,-116.1268,4.5,0.4,ml,20,63.769999999999996,0.041,0.1483,nn,nn00877941,2024-05-21T02:59:22.152Z,"56 km NW of Indian Springs, Nevada",earthquake,,1.5,0.47,11,reviewed,nn,nn
 2024-05-20T22:51:42.948Z,61.8057,-149.9779,23.6,1.1,ml,,,,0.88,ak,ak0246hk6hs3,2024-05-20T22:54:10.819Z,"7 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-20T22:47:18.630Z,19.3600006103516,-155.079498291016,3.0699999332428,1.75999999,md,31,137,0.03173,0.270000011,hv,hv74242307,2024-05-20T22:49:11.840Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.59,0.779999971,0.219999999,8,automatic,hv,hv
-2024-05-20T22:44:20.500Z,61.0316,-148.2733,0,1.8,ml,,,,1.44,ak,ak0246hk4xwd,2024-05-20T22:46:42.086Z,"36 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-20T22:44:08.240Z,38.8334999084473,-122.804168701172,1.86000001430511,1.83,md,31,51,0.01109,0.03,nc,nc75009896,2024-05-20T22:47:09.990Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.13,32,automatic,nc,nc
-2024-05-20T22:41:05.230Z,36.1695,-91.1093333333333,4.79,1.99,md,5,170,0.1057,0.07,nm,nm60501998,2024-05-21T13:24:13.000Z,"6 km N of Black Rock, Arkansas",earthquake,1.08,3.19,0.0531871603089331,4,reviewed,nm,nm
