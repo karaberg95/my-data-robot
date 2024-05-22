@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-22T18:51:28.720Z,33.4754982,-116.4420013,12.57,1.06,ml,29,74,0.04968,0.16,ci,ci40596383,2024-05-22T18:53:31.153Z,"23 km ESE of Anza, CA",earthquake,0.3,0.8,0.183,10,automatic,ci,ci
 2024-05-22T18:28:17.360Z,38.8291664123535,-122.816665649414,2.03999996185303,0.68,md,10,77,0.007728,0.02,nc,nc75010681,2024-05-22T18:29:55.806Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.10000002,0.48,12,automatic,nc,nc
 2024-05-22T18:20:11.224Z,65.675,-145.3501,8.8,1.4,ml,,,,1.11,ak,ak0246ksoqoy,2024-05-22T18:22:00.602Z,"27 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-22T18:13:12.900Z,36.6406669616699,-121.262001037598,8.90999984741211,1.73,md,12,154,0.05176,0.04,nc,nc75010666,2024-05-22T18:21:45.847Z,"16 km NNW of Pinnacles, CA",earthquake,0.39,0.660000026,0.21,12,automatic,nc,nc
