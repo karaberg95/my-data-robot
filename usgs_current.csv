@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-25T18:41:37.420Z,19.1873340606689,-155.477996826172,31.3799991607666,2.1099999,md,46,86,0.03512,0.159999996,hv,hv74247906,2024-05-25T18:43:19.740Z,"1 km S of Pāhala, Hawaii",earthquake,0.58,0.689999998,0.209999993,19,automatic,hv,hv
 2024-05-25T18:30:31.780Z,19.181999206543,-155.494995117188,34.7099990844727,2.1099999,md,44,79,0.04081,0.129999995,hv,hv74247901,2024-05-25T18:32:11.750Z,"2 km SW of Pāhala, Hawaii",earthquake,0.51,0.680000007,0.140000001,8,automatic,hv,hv
 2024-05-25T18:24:52.887Z,63.8219,-148.6514,100.9,1.9,ml,,,,0.32,ak,ak0246prbq94,2024-05-25T18:27:11.388Z,"15 km ESE of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-05-25T18:23:28.320Z,35.6045,-117.5938333,2.87,0.81,ml,19,86,0.0662,0.15,ci,ci40600151,2024-05-25T18:29:36.516Z,"8 km ESE of Ridgecrest, CA",earthquake,0.26,0.31,0.142,7,automatic,ci,ci
+2024-05-25T18:21:18.530Z,19.0161666666667,-67.0928333333333,36.22,3.29,md,10,216,0.546,0.46,pr,pr71450328,2024-05-25T18:44:49.480Z,"57 km N of Isabela, Puerto Rico",earthquake,2.12,8.99,0.0994400083992919,8,reviewed,pr,pr
 2024-05-25T18:15:36.812Z,64.341,-148.3419,17.3,1.2,ml,,,,1.04,ak,ak0246pr9rkh,2024-05-25T18:17:38.613Z,"40 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T18:06:10.005Z,63.5346,-147.5079,0.1,2.2,ml,,,,0.4,ak,ak0246pr7s20,2024-05-25T18:07:59.860Z,"73 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T18:03:14.990Z,19.0313339233398,-155.445663452148,35.4000015258789,2.48,ml,57,205,0.1133,0.140000001,hv,hv74247881,2024-05-25T18:05:54.720Z,"14 km ESE of Naalehu, Hawaii",earthquake,0.6,0.75999999,0.43,24,automatic,hv,hv
