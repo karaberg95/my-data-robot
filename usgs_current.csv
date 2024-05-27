@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-27T20:43:26.234Z,63.5066,-149.9896,3.2,1.2,ml,,,,0.42,ak,ak0246t3pazz,2024-05-27T20:45:11.007Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-27T20:41:25.810Z,33.1393333,-116.5321667,-0.46,1.2,ml,6,176,0.4969,0.18,ci,ci40603351,2024-05-27T20:47:42.371Z,"9 km NE of Julian, CA",earthquake,0.96,15.79,0.289,31,automatic,ci,ci
 2024-05-27T20:27:51.600Z,19.3174991607666,-155.416168212891,32.6399993896484,1.97000003,md,38,95,0.03287,0.109999999,hv,hv74250986,2024-05-27T20:29:29.420Z,"14 km NNE of Pāhala, Hawaii",earthquake,0.54,0.610000014,0.170000002,4,automatic,hv,hv
 2024-05-27T20:22:29.619Z,62.0731,-149.3399,39.9,1.1,ml,,,,0.24,ak,ak0246t3kt81,2024-05-27T20:29:24.023Z,"28 km ESE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-27T20:08:33.268Z,64.7264,-149.2647,17.8,0.7,ml,,,,0.51,ak,ak0246t3htha,2024-05-27T20:12:38.534Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -189,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-26T21:32:26.290Z,34.205,-117.52,3.7,1.34,ml,49,30,0.04246,0.19,ci,ci40601631,2024-05-26T21:43:22.490Z,"6 km SSW of Lytle Creek, CA",earthquake,0.16,0.43,0.182,29,automatic,ci,ci
 2024-05-26T21:20:23.890Z,18.6376666666667,-64.5318333333333,36.38,2.7,md,3,320,0.232,0.12,pr,pr71450543,2024-05-26T21:39:03.050Z,"43 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,8.28,4.91,0.0146288734518543,2,reviewed,pr,pr
 2024-05-26T21:10:32.670Z,32.319,-101.817,6.4697,3,ml,26,47,0,0.1,tx,tx2024kijj,2024-05-26T21:22:10.040Z,"21 km N of Stanton, Texas",earthquake,0.5774482284187856,0.9077440288213809,0.2,32,reviewed,tx,tx
-2024-05-26T20:47:09.259Z,-19.3769,-174.8692,112.235,6.6,mww,102,21,4.679,0.86,us,us6000n158,2024-05-27T19:25:14.048Z,"70 km NW of Fangale’ounga, Tonga",earthquake,9.27,5.482,0.058,29,reviewed,us,us
-2024-05-26T20:46:20.850Z,19.1506671905518,-155.367660522461,27.7900009155273,1.74,ml,49,181,0.08941,0.140000001,hv,hv74249441,2024-05-26T20:48:58.420Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.54,0.680000007,0.94,3,automatic,hv,hv
-2024-05-26T20:42:09.477Z,31.596,-103.954,5.9891,2.6,ml,15,72,0,0.4,tx,tx2024kiim,2024-05-26T20:59:41.959Z,"34 km NNW of Toyah, Texas",earthquake,0,2.2199610239336205,0.2,13,automatic,tx,tx
