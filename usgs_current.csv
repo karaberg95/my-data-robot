@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-31T15:40:59.900Z,38.8048324584961,-122.809997558594,1.66999995708466,0.88,md,8,79,0.0119,0.01,nc,nc75013862,2024-05-31T15:42:36.827Z,"6 km NW of The Geysers, CA",earthquake,0.44,0.889999986,0.27,10,automatic,nc,nc
+2024-05-31T15:37:04.860Z,36.1143333,-117.8808333,8.7,1.06,ml,18,90,0.02128,0.14,ci,ci40608423,2024-05-31T15:43:06.993Z,"10 km NE of Coso Junction, CA",earthquake,0.23,0.43,0.379,13,automatic,ci,ci
 2024-05-31T15:33:51.294Z,38.1364,-117.9878,7.8,1.9,ml,13,117.78999999999999,0.063,0.3531,nn,nn00878418,2024-05-31T15:36:55.774Z,"30 km SSE of Mina, Nevada",earthquake,,0.4,0.16,7,automatic,nn,nn
 2024-05-31T15:22:14.730Z,35.684,-118.3993333,5.19,1.95,ml,37,37,0.04023,0.14,ci,ci40608415,2024-05-31T15:33:24.290Z,"6 km ESE of Wofford Heights, CA",earthquake,0.14,0.37,0.182,26,automatic,ci,ci
 2024-05-31T15:21:24.700Z,59.824,-152.9947,102.7,2.2,ml,,,,0.49,ak,ak0246zmqt30,2024-05-31T15:34:42.154Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -173,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T19:48:55.413Z,61.9342,-150.8448,45.9,2.1,ml,,,,0.27,ak,ak0246y1r1ph,2024-05-30T19:50:14.720Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-05-30T19:46:44.171Z,32.6025,130.6103,11.349,4.7,mb,51,92,1.098,0.48,us,us7000mp2j,2024-05-30T21:43:33.969Z,"5 km WSW of Uki, Japan",earthquake,5.45,4.3,0.054,104,reviewed,us,us
 2024-05-30T19:41:44.430Z,17.8711666666667,-66.9661666666667,10.05,2.34,md,7,252,0.1228,0.06,pr,pr71451018,2024-05-30T19:52:39.700Z,"12 km SSW of Guánica, Puerto Rico",earthquake,0.88,1.2,0.0576878336875268,6,reviewed,pr,pr
-2024-05-30T19:39:51.652Z,44.6676,-100.5445,12.67,3.7,mwr,63,27,1.158,0.66,us,us7000mp2d,2024-05-31T15:15:24.659Z,"36 km NNW of Pierre, South Dakota",earthquake,4.07,8.52,0.069,20,reviewed,us,us
+2024-05-30T19:39:51.652Z,44.6676,-100.5445,12.67,3.7,mwr,63,27,1.158,0.66,us,us7000mp2d,2024-05-31T15:44:31.684Z,"36 km NNW of Pierre, South Dakota",earthquake,4.07,8.52,0.069,20,reviewed,us,us
 2024-05-30T19:34:57.330Z,33.4708333,-116.4466667,10.06,1.18,ml,48,45,0.05528,0.18,ci,ci40607343,2024-05-30T19:41:11.917Z,"23 km ESE of Anza, CA",earthquake,0.17,0.32,0.242,12,automatic,ci,ci
 2024-05-30T19:30:14.220Z,46.20766666666667,-122.17933333333333,6.02,0.31,ml,14,96,0.008168,0.09,uw,uw62010676,2024-05-30T20:11:19.290Z,"39 km NNE of Amboy, Washington",earthquake,0.32,0.62,0.14863255478813897,9,reviewed,uw,uw
 2024-05-30T19:27:30.190Z,33.8686667,-117.5043333,2.02,1.11,ml,26,47,0.07106,0.17,ci,ci40607319,2024-05-30T19:34:06.054Z,"2 km SE of Home Gardens, CA",earthquake,0.22,0.29,0.285,32,automatic,ci,ci
