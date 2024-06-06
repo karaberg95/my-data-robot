@@ -284,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T07:58:20.352Z,38.167,-117.9503,12.8,1.7,ml,10,85.96,0.042,0.1177,nn,nn00878626,2024-06-05T16:15:10.728Z,"28 km SSE of Mina, Nevada",earthquake,,1.1,0.43,6,reviewed,nn,nn
 2024-06-05T07:55:37.250Z,57.015,-135.659,6.63,0.65,ml,5,205,0.03986,0.08,av,av93151061,2024-06-05T22:35:47.100Z,"20 km WSW of Sitka, Alaska",earthquake,1.08,1.08,0.286473983711906,5,reviewed,av,av
 2024-06-05T07:55:01.479Z,27.7035,-111.6118,10,4.3,mb,61,108,0.677,0.94,us,us7000mqfg,2024-06-05T16:08:16.455Z,"62 km WSW of San Carlos, Mexico",earthquake,6.85,1.958,0.064,69,reviewed,us,us
-2024-06-05T07:37:50.764Z,36.1789,35.862,10,4.1,mb,35,57,0.835,1.06,us,us7000mqff,2024-06-05T09:04:12.040Z,"16 km WNW of Uzunbağ, Turkey",earthquake,4.45,1.955,0.14,14,reviewed,us,us
