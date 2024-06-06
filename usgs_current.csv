@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-06T20:45:01.118Z,63.2123,-151.3157,0,1.6,ml,,,,1.02,ak,ak02479n35fj,2024-06-06T20:47:23.839Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-06T20:42:22.180Z,33.5868333,-116.8041667,8.08,0.28,ml,11,118,0.03414,0.08,ci,ci40616215,2024-06-06T20:48:28.604Z,"13 km WNW of Anza, CA",earthquake,0.33,0.45,0.113,6,automatic,ci,ci
 2024-06-06T20:12:10.960Z,65.5245,-144.8497,4.6,1.4,ml,,,,1.02,ak,ak02479mw3k8,2024-06-06T20:14:35.120Z,"5 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-06T20:05:56.820Z,33.8688333,-117.506,1.73,1.05,ml,26,56,0.07215,0.23,ci,ci40616207,2024-06-06T20:22:13.977Z,"2 km SE of Home Gardens, CA",earthquake,0.33,0.43,0.251,29,automatic,ci,ci
 2024-06-06T19:40:51.930Z,38.8443336486816,-122.83032989502,1,0.63,md,12,91,0.01166,0.02,nc,nc75017207,2024-06-06T19:42:27.020Z,"10 km WNW of Cobb, CA",earthquake,0.24,0.790000021,0.12,12,automatic,nc,nc
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T21:09:05.710Z,38.8041648864746,-122.782333374023,1.37000000476837,0.53,md,7,138,0.009172,0.01,nc,nc75016882,2024-06-05T21:10:43.644Z,"4 km NNW of The Geysers, CA",earthquake,0.48,0.930000007,0.22,8,automatic,nc,nc
 2024-06-05T21:03:01.170Z,38.7789993286133,-122.758499145508,1.1599999666214,1.4,md,19,61,0.01002,0.03,nc,nc75016877,2024-06-05T21:04:38.874Z,"0 km NNW of The Geysers, CA",earthquake,0.24,0.409999996,0.12,19,automatic,nc,nc
 2024-06-05T21:02:08.270Z,36.7464981079102,-121.483833312988,5.65999984741211,1.69,md,18,75,0.009433,0.21,nc,nc75016872,2024-06-06T03:12:39.583Z,"12 km SSE of San Juan Bautista, CA",earthquake,0.59,0.99000001,0.09,10,automatic,nc,nc
-2024-06-05T20:46:00.780Z,33.6341667,-117.907,13.05,2.84,ml,105,73,0.04346,0.21,ci,ci40615495,2024-06-06T20:41:58.003Z,"3 km NE of Newport Beach, CA",earthquake,0.18,0.3,0.159,197,reviewed,ci,ci
