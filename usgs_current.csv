@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-08T15:36:08.220Z,38.8178329467773,-122.820663452148,2.02999997138977,2.08,md,43,45,0.009964,0.07,nc,nc75017802,2024-06-08T15:39:28.180Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.270000011,0.16,44,automatic,nc,nc
 2024-06-08T15:25:32.107Z,58.3214,-155.8853,11.8,1.2,ml,,,,0.2,ak,ak0247cv2ggq,2024-06-08T15:27:07.438Z,"60 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-08T15:21:39.450Z,38.8194999694824,-122.763999938965,2.05999994277954,0.74,md,11,116,0.01189,0.02,nc,nc75017792,2024-06-08T15:23:13.783Z,"4 km W of Cobb, CA",earthquake,0.35,0.660000026,0.05,11,automatic,nc,nc
 2024-06-08T15:21:25.470Z,38.8194999694824,-122.763832092285,1.97000002861023,1.09,md,17,116,0.01194,0.02,nc,nc75017787,2024-06-08T15:23:03.946Z,"4 km W of Cobb, CA",earthquake,0.29,0.49000001,0.13,17,automatic,nc,nc
