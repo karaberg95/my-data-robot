@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-13T04:46:39.290Z,38.7921676635742,-122.781829833984,3.48000001907349,0.45,md,8,108,0.004864,0.01,nc,nc75021657,2024-06-13T04:48:15.800Z,"3 km NW of The Geysers, CA",earthquake,0.47,1.38,0.18,8,automatic,nc,nc
 2024-06-13T04:42:55.250Z,19.2215003967285,-155.474838256836,33.4099998474121,2.26999998,md,38,105,0.03515,0.159999996,hv,hv74274981,2024-06-13T04:44:44.190Z,"2 km N of Pāhala, Hawaii",earthquake,0.54,0.779999971,0.25,8,automatic,hv,hv
 2024-06-13T04:40:52.200Z,61.4104,-152.3158,4.3,0.7,ml,,,,0.75,ak,ak0247kyaokj,2024-06-13T04:43:50.799Z,"72 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-13T04:38:50.141Z,61.4259,-152.3439,1.1,2,ml,,,,0.8,ak,ak0247kya8za,2024-06-13T04:40:48.175Z,"74 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -299,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T05:06:01.750Z,38.7919998168945,-122.767333984375,3.46000003814697,1.26,md,21,74,0.01047,0.02,nc,nc75021097,2024-06-12T05:07:36.138Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.610000014,0.21,23,automatic,nc,nc
 2024-06-12T05:02:45.638Z,63.2171,-151.3934,3,2,ml,,,,0.88,ak,ak0247jb4lyr,2024-06-12T05:04:40.562Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-12T04:58:50.600Z,61.2535,-152.1655,28.49,0.04,ml,8,170,0.05756,0.16,av,av93011464,2024-06-12T23:49:48.590Z,"59 km WNW of Tyonek, Alaska",earthquake,0.64,0.79,0.392145696119778,9,reviewed,av,av
-2024-06-12T04:51:46.590Z,46.19716666666667,-122.18033333333334,6.31,0.97,ml,24,57,0.004699,0.09,uw,uw62006432,2024-06-12T15:22:15.380Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.16,0.08848443938950479,15,reviewed,uw,uw
-2024-06-12T04:46:50.538Z,62.1307,-150.8154,64.9,1.7,ml,,,,0.38,ak,ak0247jasm8t,2024-06-12T04:49:11.236Z,"34 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
