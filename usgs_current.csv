@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-17T17:18:24.330Z,33.4631667,-116.5703333,9.16,1.63,ml,73,22,0.04121,0.17,ci,ci40801104,2024-06-17T17:26:37.353Z,"14 km SE of Anza, CA",earthquake,0.12,0.27,0.209,27,automatic,ci,ci
+2024-06-17T17:31:48.762Z,65.4196,-144.7587,4.9,1.2,ml,,,,0.62,ak,ak0247rs4rp8,2024-06-17T17:33:45.235Z,"17 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-17T17:18:24.330Z,33.4631667,-116.5703333,9.16,1.63,ml,73,22,0.04121,0.17,ci,ci40801104,2024-06-17T17:28:56.890Z,"14 km SE of Anza, CA",earthquake,0.12,0.27,0.209,27,automatic,ci,ci
 2024-06-17T17:04:43.230Z,33.1183333,-116.3766667,7.56,1.49,ml,65,29,0.0659,0.19,ci,ci40801088,2024-06-17T17:18:03.340Z,"15 km S of Borrego Springs, CA",earthquake,0.16,0.45,0.161,26,automatic,ci,ci
 2024-06-17T16:55:10.682Z,62.3743,-150.7805,55.3,1.8,ml,,,,0.31,ak,ak0247rroecc,2024-06-17T16:57:13.170Z,"13 km S of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-06-17T16:55:03.216Z,58.6864,-154.3464,107.4,1.6,ml,,,,0.13,ak,ak0247rrodrl,2024-06-17T16:56:43.690Z,"87 km SSE of Kokhanok, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T04:40:41.211Z,61.3213,-147.283,28.3,1.3,ml,,,,0.35,ak,ak0247rkg1p5,2024-06-17T04:41:53.869Z,"54 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-17T04:36:21.080Z,38.8356666564941,-122.807502746582,1.61000001430511,1.47,md,26,51,0.01242,0.02,nc,nc75023132,2024-06-17T04:38:00.649Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.379999995,0.15,27,automatic,nc,nc
 2024-06-17T04:17:29.649Z,61.5994,-151.613,73.8,1.2,ml,,,,0.75,ak,ak0247rkb3cp,2024-06-17T04:30:02.072Z,"45 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-06-17T04:05:12.900Z,36.4785,-89.537,8.1,2.23,md,36,36,0.06052,0.08,nm,nm60585256,2024-06-17T13:17:08.030Z,"8 km ESE of Marston, Missouri",earthquake,0.22,0.57,0.0784418594995921,29,reviewed,nm,nm
+2024-06-17T04:05:12.900Z,36.4785,-89.537,8.1,2.23,md,36,36,0.06052,0.08,nm,nm60585256,2024-06-17T17:29:40.562Z,"8 km ESE of Marston, Missouri",earthquake,0.22,0.57,0.0784418594995921,29,reviewed,nm,nm
 2024-06-17T04:04:35.401Z,61.0079,-152.2164,5.1,1.6,ml,,,,0.4,ak,ak0247rk8bh0,2024-06-17T04:06:21.667Z,"58 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-17T04:02:56.741Z,36.7518,-116.0376,6.6,0.4,ml,17,74.94999999999999,0.009,0.1991,nn,nn00879392,2024-06-17T04:04:39.830Z,"38 km WNW of Indian Springs, Nevada",earthquake,,0.6,0.24,11,automatic,nn,nn
 2024-06-17T03:45:46.714Z,60.5295,-141.2631,19.6,1.7,ml,,,,0.53,ak,ak0247rjvp3j,2024-06-17T03:47:30.527Z,"134 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -213,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T18:11:07.330Z,38.8233337402344,-122.851997375488,2.30999994277954,0.76,md,9,150,0.005673,0.01,nc,nc75023012,2024-06-16T18:12:45.765Z,"10 km NW of The Geysers, CA",earthquake,0.54,0.899999976,0.3,10,automatic,nc,nc
 2024-06-16T18:06:28.284Z,-20.5635,-68.8305,116.232,4.4,mb,23,76,0.778,0.69,us,us7000msuk,2024-06-16T18:25:41.040Z,"89 km ESE of La Tirana, Chile",earthquake,5.47,6.382,0.13,17,reviewed,us,us
 2024-06-16T17:36:33.550Z,38.84033203125,-122.837333679199,1.52999997138977,1.4,md,25,86,0.00226,0.03,nc,nc75022997,2024-06-16T17:38:10.498Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.17,25,automatic,nc,nc
-2024-06-16T17:35:37.520Z,38.832332611084,-122.801498413086,1.49000000953674,1.33,md,21,52,0.01062,0.03,nc,nc75022992,2024-06-16T17:37:15.606Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.379999995,0.15,23,automatic,nc,nc
-2024-06-16T17:32:12.628Z,-1.9654,-77.6947,12.767,4.4,mb,33,124,0.574,0.46,us,us7000msuc,2024-06-16T18:19:14.040Z,"41 km SE of Palora, Ecuador",earthquake,5.06,2.827,0.117,21,reviewed,us,us
-2024-06-16T17:28:01.100Z,38.8325004577637,-122.80249786377,1.60000002384186,0.77,md,15,48,0.01085,0.01,nc,nc75022987,2024-06-16T17:29:40.368Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.589999974,0.13,16,automatic,nc,nc
