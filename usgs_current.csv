@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T12:37:29.780Z,19.3136672973633,-155.251007080078,3.19000005722046,1.78999996,md,47,90,0.04076,0.200000003,hv,hv74281866,2024-06-18T12:39:11.660Z,"14 km S of Volcano, Hawaii",earthquake,0.38,1.01999998,0.280000001,19,automatic,hv,hv
 2024-06-18T12:30:44.470Z,19.2061672210693,-155.47917175293,28.9500007629395,2.25,ml,58,86,0.04597,0.159999996,hv,hv74281861,2024-06-18T12:33:31.680Z,"0 km N of Pāhala, Hawaii",earthquake,0.43,0.540000021,0.39,17,automatic,hv,hv
 2024-06-18T12:26:25.810Z,32.6383333,-115.7278333,9.13,2.53,ml,46,51,0.01103,0.25,ci,ci40801648,2024-06-18T12:37:26.014Z,"15 km WNW of Progreso, B.C., MX",earthquake,0.25,0.49,0.217,25,automatic,ci,ci
+2024-06-18T12:12:43.720Z,44.098,-110.5565,5.57,0.63,md,10,152,0.2485,0.15,uu,uu80074041,2024-06-18T13:39:56.800Z,"53 km N of Kelly, Wyoming",earthquake,0.77,2.77,0.0966765095948026,6,reviewed,uu,uu
 2024-06-18T11:59:51.090Z,40.1193351745605,-123.911834716797,16.1700000762939,1.64,md,12,68,0.01374,0.06,nc,nc75023557,2024-06-18T12:01:29.792Z,"8 km W of Redway, CA",earthquake,0.35,0.600000024,0.06,9,automatic,nc,nc
 2024-06-18T11:54:29.104Z,60.1341,-140.725,6.7,1.5,ml,,,,1.06,ak,ak0247tc8eim,2024-06-18T11:56:25.293Z,"86 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-18T11:47:55.310Z,32.0005,-116.6395,15.78,1.69,ml,9,310,0.3124,0.15,ci,ci40801640,2024-06-18T12:16:42.155Z,"12 km NNE of El Sauzal, B.C., MX",earthquake,8.58,2.82,0.148,11,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T10:29:13.470Z,37.8938331604004,-118.455497741699,12.5799999237061,2.03,md,12,184,0.2235,0.07,nc,nc75023547,2024-06-18T10:31:48.304Z,"42 km NE of Toms Place, CA",earthquake,0.53,1.40999997,0.14,10,automatic,nc,nc
 2024-06-18T10:15:35.147Z,61.891,-150.0036,32.8,1.8,ml,,,,0.41,ak,ak0247tbemga,2024-06-18T10:18:24.774Z,"16 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-18T09:57:31.182Z,63.1465,-150.9205,107.5,1.3,ml,,,,0.49,ak,ak0247tb26m6,2024-06-18T10:00:16.629Z,"59 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-06-18T09:54:49.224Z,35.2605,58.4582,10,4.9,mb,77,69,8.777,1.07,us,us7000mt58,2024-06-18T10:42:29.773Z,"2 km NNW of Kāshmar, Iran",earthquake,7.95,1.859,0.048,134,reviewed,us,us
+2024-06-18T09:54:49.224Z,35.2605,58.4582,10,4.9,mb,77,69,8.777,1.07,us,us7000mt58,2024-06-18T13:46:40.005Z,"2 km NNW of Kāshmar, Iran",earthquake,7.95,1.859,0.048,134,reviewed,us,us
 2024-06-18T09:51:20.832Z,-32.0236,-177.167,70.786,5.2,mb,25,157,2.828,0.91,us,us7000mt55,2024-06-18T10:10:31.040Z,"south of the Kermadec Islands",earthquake,13.93,9.374,0.115,25,reviewed,us,us
 2024-06-18T09:48:51.610Z,60.0538,-153.1234,131.5,2.3,ml,,,,0.85,ak,ak0247tb0arp,2024-06-18T09:52:18.259Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-18T09:47:05.730Z,38.8305015563965,-122.78800201416,1.94000005722046,1.6,md,7,167,0.02321,0.02,nc,nc75023542,2024-06-18T09:48:43.722Z,"6 km WNW of Cobb, CA",earthquake,0.4,0.479999989,0.08,7,automatic,nc,nc
