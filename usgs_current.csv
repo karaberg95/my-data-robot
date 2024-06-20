@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-19T21:03:34.590Z,38.8376655578613,-122.830665588379,1.82000005245209,0.2,md,10,93,0.003877,0.01,nc,nc75024097,2024-06-19T21:05:12.265Z,"9 km NNW of The Geysers, CA",earthquake,0.35,1.07000005,0.09,11,automatic,nc,nc
 2024-06-19T20:54:57.556Z,60.0036,-151.6367,37.4,2.2,ml,,,,0.6,ak,ak0247v54pn2,2024-06-19T20:57:32.152Z,"5 km SSE of Ninilchik, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2024-06-19T20:54:06.780Z,33.27,-116.435,4.19,1.17,ml,56,29,0.01505,0.22,ci,ci40803440,2024-06-20T13:17:55.663Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.4,0.174,27,reviewed,ci,ci
-2024-06-19T20:53:01.050Z,56.1871666666667,-159.43,19.52,-0.21,ml,5,109,0.03319,0.32,av,av93012439,2024-06-20T02:14:38.090Z,"31 km N of Ivanof Bay, Alaska",earthquake,1.22,2.03,0.278642492206957,5,reviewed,av,av
