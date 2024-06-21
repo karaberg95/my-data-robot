@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T17:14:34.368Z,36.0088,-84.1815,8.024,2.2,mb_lg,16,62,0.482,0.4,us,us7000mttc,2024-06-21T17:33:32.198Z,"7 km E of Oak Ridge, Tennessee",earthquake,1.43,5.667,0.17,9,reviewed,us,us
 2024-06-21T17:13:56.390Z,38.8250007629395,-122.843170166016,1.8400000333786,0.64,md,8,111,0.006631,0.01,nc,nc75024987,2024-06-21T17:15:34.895Z,"9 km NW of The Geysers, CA",earthquake,0.52,1.11000001,0.12,9,automatic,nc,nc
 2024-06-21T17:11:35.620Z,35.057,-118.3358333,-0.24,1.17,ml,36,36,0.06641,0.18,ci,ci40805752,2024-06-21T17:18:25.433Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.46,0.113,25,automatic,ci,ci
 2024-06-21T17:06:49.992Z,61.248,-145.8674,30.5,1.2,ml,,,,0.43,ak,ak0247ye4svb,2024-06-21T17:08:46.787Z,"28 km ENE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
