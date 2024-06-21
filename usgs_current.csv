@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T21:56:22.582Z,60.8716,-149.5766,34.3,2.1,ml,,,,0.29,ak,ak0247ygt6z6,2024-06-21T21:58:00.908Z,"6 km SE of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-21T21:34:39.090Z,19.3994998931885,-155.267837524414,0.340000003576279,2.15,ml,16,45,0.002114,0.119999997,hv,hv74286741,2024-06-21T21:37:17.770Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.230000004,0.35,13,automatic,hv,hv
 2024-06-21T21:23:53.782Z,63.084,-150.4325,111.2,3.5,ml,,,,0.63,ak,ak0247ygm6q1,2024-06-21T21:34:49.040Z,"67 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-21T21:07:05.680Z,19.3826675415039,-155.239334106445,1.96000003814697,1.91,ml,21,73,0.009131,0.159999996,hv,hv74286691,2024-06-21T21:09:43.550Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.219999999,0.19,10,automatic,hv,hv
@@ -240,7 +241,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T02:39:49.400Z,33.4775,-116.5098333,12.43,0.66,ml,29,57,0.07908,0.13,ci,ci40805176,2024-06-21T19:41:09.613Z,"18 km ESE of Anza, CA",earthquake,0.19,0.41,0.201,21,reviewed,ci,ci
 2024-06-21T02:39:20.062Z,60.1924,-151.1225,68.8,1.3,ml,,,,0.69,ak,ak0247y5eb46,2024-06-21T02:42:49.849Z,"15 km ESE of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-21T02:18:37.058Z,63.3533,-144.855,3.2,1.5,ml,,,,1.07,ak,ak0247y59ueg,2024-06-21T02:20:54.977Z,"34 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-21T02:10:49.770Z,18.8258,-155.6086,10,2.7,ml,18,299,0.163,0.65,us,us7000mtq5,2024-06-21T03:07:07.040Z,"26 km S of Naalehu, Hawaii",earthquake,2.12,1.981,0.064,32,reviewed,us,us
+2024-06-21T02:10:51.020Z,18.9033333333333,-155.635166666667,0.95,2.42,ml,39,283,0.08172,0.2,hv,hv74285551,2024-06-21T21:52:47.450Z,"18 km S of Wai‘ōhinu, Hawaii",earthquake,0.98,0.57,0.0802467118520622,8,reviewed,hv,hv
 2024-06-21T02:07:49.710Z,34.0193333,-117.2225,14.39,0.88,ml,29,67,0.08281,0.16,ci,ci40805160,2024-06-21T20:36:31.994Z,"5 km SE of Loma Linda, CA",earthquake,0.26,0.46,0.104,9,reviewed,ci,ci
 2024-06-21T02:01:43.520Z,36.80483333,-98.01166667,6.1,0.9,ml,11,142,0.05578905228,0.32,ok,ok2024mcko,2024-06-21T12:53:57.877Z,"11 km SW of Wakita, Oklahoma",earthquake,,1.8,0.12,6,reviewed,ok,ok
 2024-06-21T02:00:57.349Z,-19.7974,-69.0858,107.314,4.2,mb,16,77,0.164,1.19,us,us7000mtq4,2024-06-21T03:00:36.040Z,"64 km SSE of Camiña, Chile",earthquake,5.66,3.921,0.215,6,reviewed,us,us
