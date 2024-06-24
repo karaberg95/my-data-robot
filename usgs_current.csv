@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T07:51:30.133Z,39.2708,-120.3531,13,1,ml,8,214.63,0.246,0.1858,nn,nn00879863,2024-06-24T00:32:15.564Z,"6 km SSE of Soda Springs, California",earthquake,,4.5,0.41,3,reviewed,nn,nn
 2024-06-23T07:49:30.050Z,19.2461666666667,-65.416,76.16,3.21,md,5,260,1.115,0.47,pr,pr71453808,2024-06-23T08:34:57.440Z,"100 km NNE of Vieques, Puerto Rico",earthquake,10.16,16.86,0.0369326972436119,4,reviewed,pr,pr
 2024-06-23T07:49:04.570Z,33.1515007,-115.9605026,5.48,1.03,ml,26,133,0.02627,0.15,ci,ci40807504,2024-06-23T07:56:42.316Z,"16 km E of Ocotillo Wells, CA",earthquake,0.31,0.53,0.126,23,automatic,ci,ci
-2024-06-23T07:45:40.249Z,53.5135,158.7042,131.112,5.2,mww,109,42,0.727,0.71,us,us7000mu31,2024-06-23T09:21:48.040Z,"42 km NNE of Yelizovo, Russia",earthquake,9.82,4.746,0.047,43,reviewed,us,us
