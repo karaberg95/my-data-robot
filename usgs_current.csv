@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-25T10:17:29.540Z,39.6151666666667,-112.0075,7.08,1.84,ml,23,52,0.1844,0.15,uu,uu80074566,2024-06-25T14:08:04.490Z,"14 km WNW of Levan, Utah",earthquake,0.26,0.67,0.122833607639184,12,reviewed,uu,uu
 2024-06-25T10:17:00.392Z,63.5314,-150.8663,0,0.9,ml,,,,1.53,ak,ak02484w6enr,2024-06-25T10:19:05.081Z,"42 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-25T10:10:30.510Z,38.7851676940918,-122.769836425781,6.30999994277954,0.71,md,7,110,0.01478,0.05,nc,nc75026956,2024-06-25T10:12:07.016Z,"1 km NW of The Geysers, CA",earthquake,0.78,2.48000002,0.04,8,automatic,nc,nc
-2024-06-25T09:54:38.437Z,60.6194,-141.7146,20.6,1.1,ml,,,,0.36,ak,ak02484vszhf,2024-06-25T09:56:57.834Z,"111 km SE of McCarthy, Alaska",earthquake,,6.9,,,automatic,ak,ak
