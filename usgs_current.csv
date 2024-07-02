@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-02T18:46:16.030Z,19.371000289917,-155.226837158203,0.730000019073486,1.92999995,md,7,196,0.01106,0.100000001,hv,hv74311841,2024-07-02T18:48:00.580Z,"7 km S of Volcano, Hawaii",earthquake,0.52,0.230000004,0.0199999996,5,automatic,hv,hv
 2024-07-02T18:43:06.608Z,61.8656,-150.1286,8.9,1.5,ml,,,,0.88,ak,ak0248gluw2s,2024-07-02T18:46:12.588Z,"14 km NNW of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-07-02T18:30:44.580Z,31.641,-104.291,4.3062,1.6,ml,18,69,0,0.4,tx,tx2024mxts,2024-07-02T18:46:04.414Z,"59 km NW of Toyah, Texas",earthquake,0,1.47226100646621,0.2,13,automatic,tx,tx
 2024-07-02T18:26:31.616Z,31.674,-104.48,5.9629,2,ml,13,71,0,0.2,tx,tx2024mxto,2024-07-02T18:46:00.305Z,"56 km S of Whites City, New Mexico",earthquake,0,2.65060920910313,0.1,11,automatic,tx,tx
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T16:07:42.958Z,57.9821,-153.2828,44.8,1.4,ml,,,,0.4,ak,ak0248gkgdvb,2024-07-02T16:09:02.144Z,"23 km WSW of Aleneva, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-07-02T16:03:44.580Z,37.4505,-121.374666666667,2.11,1.22,md,15,83,0.06587,0.14,nc,nc75029936,2024-07-02T17:20:51.525Z,"19 km WSW of Westley, CA",earthquake,0.3,1.71,0.139,14,reviewed,nc,nc
 2024-07-02T16:02:20.520Z,37.2874,-117.6012,0.1,1.1,ml,9,99.69,0.065,0.3878,nn,nn00880280,2024-07-02T16:04:37.976Z,"51 km S of Silver Peak, Nevada",earthquake,,5.1,0.64,5,automatic,nn,nn
-2024-07-02T15:39:22.030Z,19.0398333333333,-66.701,15,3.37,md,16,225,0.5829,0.23,pr,pr71454458,2024-07-02T17:26:46.460Z,"62 km N of Carrizales, Puerto Rico",earthquake,0.7,1.25,0.0858633398577859,8,reviewed,pr,pr
+2024-07-02T15:39:22.030Z,19.0398333333333,-66.701,15,3.37,md,16,225,0.5829,0.23,pr,pr71454458,2024-07-02T18:51:55.040Z,"62 km N of Carrizales, Puerto Rico",earthquake,0.7,1.25,0.0858633398577859,8,reviewed,pr,pr
 2024-07-02T15:32:47.386Z,10.0559,126.1438,65.113,5,mb,127,53,3.019,0.79,us,us6000n9tu,2024-07-02T16:06:21.040Z,"12 km ENE of Santa Monica, Philippines",earthquake,8.47,6.541,0.042,192,reviewed,us,us
 2024-07-02T15:32:43.500Z,35.5653,142.7356,10.164,4.7,mww,172,52,3.437,1.03,us,us6000n9tt,2024-07-02T17:37:01.040Z,"173 km E of Hasaki, Japan",earthquake,6.44,2.613,0.089,12,reviewed,us,us
 2024-07-02T15:07:27.272Z,40.3887,-125.8795,15.809,2.7,ml,23,258,1.343,0.77,us,us6000n9tr,2024-07-02T18:00:20.040Z,"138 km W of Ferndale, California",earthquake,2.58,7.669,0.041,78,reviewed,us,us
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T19:03:03.370Z,46.0085,-112.466,-2,1.84,ml,12,102,0.06163,0.08,mb,mb90055708,2024-07-02T13:37:16.740Z,"5 km E of Butte, Montana",quarry blast,0.51,31.61,0.276950912743614,23,reviewed,mb,mb
 2024-07-01T19:01:49.664Z,63.3084,-149.3252,138.1,0.6,ml,,,,1.23,ak,ak0248eyo2f4,2024-07-01T19:04:23.670Z,"20 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-07-01T18:57:22.240Z,33.8491667,-117.4908333,-0.48,1.87,ml,78,34,0.04957,0.26,ci,ci40816056,2024-07-01T23:16:01.269Z,"4 km SE of Home Gardens, CA",quarry blast,0.22,31.61,0.179,33,reviewed,ci,ci
-2024-07-01T18:54:06.620Z,45.9071666666667,-113.205166666667,3.89,1.7,ml,25,86,0.2135,0.14,mb,mb90055703,2024-07-01T23:22:18.940Z,"31 km SW of Anaconda, Montana",earthquake,0.38,8.87,0.162329728714641,19,reviewed,mb,mb
-2024-07-01T18:53:12.650Z,35.3993333,-118.2226667,8.02,1.32,ml,35,46,0.1526,0.15,ci,ci40816048,2024-07-02T13:37:18.986Z,"32 km SE of Bodfish, CA",earthquake,0.17,0.69,0.175,26,reviewed,ci,ci
