@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-08T17:06:02.031Z,48.6041,-129.0655,43.8,1.9,ml,,,,0.96,ak,ak0248qi9lk9,2024-07-08T17:21:53.226Z,"239 km WSW of Tofino, Canada",earthquake,,0.9,,,automatic,ak,ak
 2024-07-08T16:53:31.954Z,65.442,-148.2485,4.1,0.9,ml,,,,0.36,ak,ak0248qhyax7,2024-07-08T16:56:08.538Z,"16 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-08T16:52:22.910Z,35.7395,-117.583,10.74,0.83,ml,17,61,0.1442,0.13,ci,ci40652287,2024-07-08T16:58:17.555Z,"16 km NNE of Ridgecrest, CA",earthquake,0.26,0.63,0.082,7,automatic,ci,ci
 2024-07-08T16:25:04.780Z,35.38283333,-97.88033333,6.41,1.32,ml,56,48,0.02969417299,0.45,ok,ok2024nioo,2024-07-08T17:07:24.970Z,"5 km E of Union City, Oklahoma",earthquake,,0.8,0.23,30,reviewed,ok,ok
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T17:57:48.931Z,61.7959,-148.4967,14.5,1.1,ml,,,,0.67,ak,ak0248ov1a7h,2024-07-07T17:59:28.420Z,"1 km W of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-07T17:50:28.000Z,19.6186,-67.6143,18,3.53,md,16,229,1.2562,0.11,pr,pr2024189000,2024-07-07T18:38:45.301Z,"135 km NNW of San Antonio, Puerto Rico",earthquake,0.84,1.88,0.12,8,reviewed,pr,pr
 2024-07-07T17:45:23.000Z,33.5375,-116.7223333,4.32,0.52,ml,33,47,0.0305,0.13,ci,ci40651391,2024-07-07T17:51:16.900Z,"5 km WSW of Anza, CA",earthquake,0.15,0.25,0.144,20,automatic,ci,ci
-2024-07-07T17:18:37.190Z,31.4825,-115.6173333,6.87,3.42,ml,11,71,0.1689,0.2,ci,ci40651367,2024-07-08T13:52:42.939Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.79,0.194,213,reviewed,ci,ci
