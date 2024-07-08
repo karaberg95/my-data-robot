@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-08T22:39:16.740Z,19.2059993743896,-155.490005493164,31.8199996948242,3.3,ml,61,76,0.043,0.129999995,hv,hv74322916,2024-07-08T22:42:36.304Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.35,45,automatic,hv,hv
+2024-07-08T22:36:37.798Z,58.347,-133.4458,0,2.9,ml,,,,0.74,ak,ak0248qlf9tv,2024-07-08T22:38:49.341Z,"57 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-08T22:35:32.120Z,33.8396667,-116.9631667,16.27,0.77,ml,22,196,0.135,0.25,ci,ci40652759,2024-07-08T22:41:38.964Z,"6 km N of San Jacinto, CA",earthquake,0.73,0.85,0.14,21,automatic,ci,ci
 2024-07-08T22:17:58.048Z,62.7285,-147.8031,135.9,1.2,ml,,,,1.07,ak,ak0248qlb8sc,2024-07-08T22:19:43.580Z,"81 km NW of Lake Louise, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-07-08T22:06:14.144Z,29.1418,-97.7977,10.927,2.8,mb_lg,31,117,0.068,0.41,us,us7000mxx1,2024-07-08T22:31:46.436Z,"14 km SSW of Nixon, Texas",earthquake,4.42,6.067,0.066,60,reviewed,us,us
 2024-07-08T22:03:01.819Z,61.1391,-150.7603,3.6,1.5,ml,,,,0.46,ak,ak0248ql84f9,2024-07-08T22:07:32.527Z,"17 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-08T22:01:37.348Z,64.4521,-146.704,19,0.8,ml,,,,0.46,ak,ak0248ql7rpj,2024-07-08T22:04:03.518Z,"10 km NNW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-08T21:50:37.999Z,22.024,121.3255,14.408,4.2,mb,22,150,0.822,0.94,us,us7000mxwz,2024-07-08T22:41:01.040Z,"60 km E of Hengchun, Taiwan",earthquake,5.35,4.8,0.199,7,reviewed,us,us
 2024-07-08T21:47:56.810Z,17.9611666666667,-66.7276666666667,16.54,2.26,md,6,218,0.1412,0.1,pr,pr71454838,2024-07-08T21:57:52.530Z,"3 km SSW of Tallaboa, Puerto Rico",earthquake,0.72,1.73,0.0592307017838327,5,reviewed,pr,pr
 2024-07-08T21:36:10.293Z,53.8609,-166.3397,77.025,3.3,mb,19,147,0.099,0.37,us,us7000mxwx,2024-07-08T21:57:43.040Z,"12 km E of Unalaska, Alaska",earthquake,8.3,4.281,0.162,9,reviewed,us,us
 2024-07-08T21:31:57.410Z,46.326166666666666,-122.40966666666667,-0.91,1.06,ml,25,74,0.05128,0.09,uw,uw62022716,2024-07-08T21:54:22.160Z,"23 km SSE of Mossyrock, Washington",explosion,0.25,31.61,0.09426134211887793,12,reviewed,uw,uw
@@ -209,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T22:59:26.792Z,37.5473,-117.9398,0,0.8,ml,10,139.65,0.181,0.1208,nn,nn00880531,2024-07-08T20:54:44.139Z,"17 km SE of Dyer, Nevada",earthquake,,2,0.39,3,reviewed,nn,nn
 2024-07-07T22:46:22.470Z,19.3833333333333,-155.242833333333,2.08,2.65,ml,31,67,0.00829,0.12,hv,hv74321136,2024-07-08T20:18:49.080Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.19,0.210874784188972,14,reviewed,hv,hv
 2024-07-07T22:45:03.699Z,37.5481,-117.9486,0,0.6,ml,6,193.70000000000002,0.181,0.1284,nn,nn00880530,2024-07-08T20:30:11.479Z,"16 km SE of Dyer, Nevada",earthquake,,0,0.72,3,reviewed,nn,nn
-2024-07-07T22:38:01.180Z,38.824333190918,-122.81566619873,1.91999995708466,0.54,md,10,90,0.004468,0.02,nc,nc75032112,2024-07-07T22:39:39.241Z,"7 km NNW of The Geysers, CA",earthquake,0.36,0.629999995,0.32,9,automatic,nc,nc
