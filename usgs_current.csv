@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-09T07:13:38.428Z,63.9755,-149.7878,13.1,1,ml,,,,0.31,ak,ak0248rzw6tu,2024-07-09T07:15:34.547Z,"33 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-09T07:08:59.817Z,60.0429,-141.6843,4.8,2.2,ml,,,,0.89,ak,ak0248rzv5wd,2024-07-09T07:11:22.334Z,"122 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-09T07:07:21.101Z,35.48311996,-98.04766846,3.638582468,1.88,ml,14,106.8191452,0.06057485193,0.5876963676,ok,ok2024njrr,2024-07-09T07:14:48.955Z,"10 km WSW of El Reno, Oklahoma",earthquake,4.07615581,2.786994363,0.15,14,automatic,ok,ok
 2024-07-09T07:06:03.347Z,59.9914,-141.5591,17.7,2.2,ml,,,,0.48,ak,ak0248rzum3y,2024-07-09T07:07:48.772Z,"114 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-09T06:59:37.540Z,33.8786667,-117.8061667,5.49,1.01,ml,26,77,0.04927,0.19,ci,ci40653071,2024-07-09T07:06:01.126Z,"1 km SSE of Yorba Linda, CA",earthquake,0.23,0.36,0.249,37,automatic,ci,ci
 2024-07-09T06:57:57.870Z,19.38450050354,-155.260162353516,0.419999986886978,2.24,ml,35,40,0.008417,0.189999998,hv,hv74323706,2024-07-09T07:00:33.580Z,"7 km SSW of Volcano, Hawaii",earthquake,0.18,0.140000001,0.32,17,automatic,hv,hv
