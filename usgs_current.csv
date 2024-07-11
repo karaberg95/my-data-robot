@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T03:22:06.670Z,38.7868347167969,-122.770500183105,2.92000007629395,0.27,md,6,135,0.01501,0.01,nc,nc75032982,2024-07-10T03:23:41.565Z,"2 km NW of The Geysers, CA",earthquake,1.05,2.56999993,0.03,8,automatic,nc,nc
 2024-07-10T03:18:13.280Z,38.8390007019043,-122.83699798584,1.26999998092651,0.9,md,19,83,0.00125,0.01,nc,nc75032977,2024-07-10T03:19:52.572Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.430000007,0.18,20,automatic,nc,nc
 2024-07-10T03:03:36.345Z,64.9979,-147.4853,0,1,ml,,,,0.85,ak,ak0248tkznky,2024-07-10T03:06:44.285Z,"7 km NE of Fox, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-07-10T02:51:13.736Z,59.2837,-154.7358,0,1.5,ml,,,,0.63,ak,ak0248tkoglp,2024-07-10T02:53:08.849Z,"17 km S of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
