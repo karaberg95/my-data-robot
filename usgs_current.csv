@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-15T21:34:02.286Z,61.3909,-150.9418,60.7,1.4,ml,,,,0.42,ak,ak024925kric,2024-07-15T21:36:02.542Z,"28 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-15T21:28:54.409Z,68.8925,-147.9229,0,2.1,ml,,,,0.97,ak,ak024925jl8g,2024-07-15T21:32:19.740Z,"129 km NW of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-15T21:28:44.540Z,32.6768333,-115.9121667,9.01,1,ml,20,66,0.03045,0.2,ci,ci40660423,2024-07-15T21:34:56.825Z,"10 km SE of Ocotillo, CA",earthquake,0.32,0.63,0.368,9,automatic,ci,ci
 2024-07-15T21:27:58.620Z,38.8281669616699,-122.81616973877,1.79999995231628,0.76,md,15,74,0.006736,0.02,nc,nc75035327,2024-07-15T21:29:33.138Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.639999986,0.08,16,automatic,nc,nc
@@ -159,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-15T07:45:35.530Z,17.9356666666667,-66.831,16.95,2.54,md,6,217,0.08236,0.1,pr,pr71455433,2024-07-15T08:00:27.160Z,"6 km S of Indios, Puerto Rico",earthquake,0.69,0.55,0.256602742395504,3,reviewed,pr,pr
 2024-07-15T07:44:25.460Z,33.7195,-116.7505,17.49,0.56,ml,32,69,0.0314,0.15,ci,ci40659519,2024-07-15T13:44:09.057Z,"4 km SW of Idyllwild, CA",earthquake,0.2,0.35,0.211,10,reviewed,ci,ci
 2024-07-15T07:34:43.589Z,66.194,-147.5642,13.3,2.6,ml,,,,0.71,ak,ak02491x8s86,2024-07-15T09:15:33.040Z,"19 km SSW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-15T07:28:42.320Z,61.0566666666667,-152.329166666667,14.97,0.28,ml,5,309,0.1395,0.07,av,av93015399,2024-07-15T21:39:41.010Z,"64 km W of Tyonek, Alaska",earthquake,1.75,1.76,0.105660836906461,5,reviewed,av,av
 2024-07-15T07:18:51.941Z,61.3922,-146.7677,25.7,2.4,ml,,,,0.32,ak,ak02491x5dey,2024-07-15T07:20:12.608Z,"36 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-15T07:16:46.070Z,44.275,-115.179666666667,11.62,2.11,ml,20,68,0.293,0.23,mb,mb90056823,2024-07-15T17:15:00.550Z,"20 km WNW of Stanley, Idaho",earthquake,0.4,0.76,0.25765286275723,24,reviewed,mb,mb
 2024-07-15T07:09:59.880Z,35.66616667,-97.40416667,7.15,1.45,ml,88,24,0.03059399641,0.23,ok,ok2024nuqu,2024-07-15T13:25:19.740Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.4,0.2,34,reviewed,ok,ok
