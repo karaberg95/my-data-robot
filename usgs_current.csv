@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-17T06:50:20.300Z,36.5723342895508,-121.186668395996,5.69999980926514,3.06,ml,56,49,0.11,0.27,nc,nc75036052,2024-07-17T06:56:24.180Z,"6 km NNW of Pinnacles, CA",earthquake,0.35,1.65999997,0.276,22,automatic,nc,nc
+2024-07-17T06:49:13.557Z,59.0447,-153.2019,78.5,1.2,ml,,,,0.45,ak,ak024957t717,2024-07-17T06:51:02.862Z,"81 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-07-17T06:46:55.800Z,36.3861656188965,-120.957000732422,9.21000003814697,1.12,md,11,115,0.1067,0.06,nc,nc75036047,2024-07-17T06:48:30.355Z,"23 km SE of Pinnacles, CA",earthquake,0.56,2.49000001,0.34,7,automatic,nc,nc
 2024-07-17T06:39:16.026Z,60.0282,-153.6221,157.7,1.5,ml,,,,0.57,ak,ak024957r22a,2024-07-17T06:41:15.776Z,"38 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-17T06:32:25.655Z,37.499,-118.011,8.6,1.2,ml,9,166,0.135,0.1178,nn,nn00881013,2024-07-17T06:35:03.343Z,"19 km SSE of Dyer, Nevada",earthquake,,1,0.27,8,automatic,nn,nn
