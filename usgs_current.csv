@@ -253,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-21T12:07:54.441Z,39.1792,-120.0776,9.8,0.5,ml,8,101.98999999999998,0.047,0.0839,nn,nn00881266,2024-07-21T13:15:07.089Z,"2 km ESE of Dollar Point, California",earthquake,,1.9,0.33,6,reviewed,nn,nn
 2024-07-21T11:57:27.050Z,38.7823333740234,-122.742332458496,0.670000016689301,1.09,md,13,78,0.02167,0.03,nc,nc75037597,2024-07-21T13:39:26.613Z,"1 km ENE of The Geysers, CA",earthquake,0.26,0.600000024,0.14,12,automatic,nc,nc
 2024-07-21T11:53:21.040Z,48.524166666666666,-122.63933333333334,18.61,1.42,ml,39,34,0.02334,0.16,uw,uw62026871,2024-07-21T16:47:24.300Z,"2 km WNW of Anacortes, Washington",earthquake,0.21,0.45,0.10256506494080186,16,reviewed,uw,uw
-2024-07-21T11:44:52.560Z,33.5955,-116.6586667,15.81,0.23,ml,8,195,0.03711,0.03,ci,ci40666447,2024-07-21T14:14:55.857Z,"5 km NNE of Anza, CA",earthquake,0.92,0.39,0.123,4,reviewed,ci,ci
-2024-07-21T11:43:56.769Z,62.2357,-150.2646,22.7,0.8,ml,,,,0.13,ak,ak0249bwwk2k,2024-07-21T11:45:51.640Z,"9 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
