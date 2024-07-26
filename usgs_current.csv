@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-26T10:52:59.680Z,33.0341682,-116.2799988,3.41,1.55,ml,16,197,0.1262,0.15,ci,ci40671887,2024-07-26T10:55:14.943Z,"18 km SW of Ocotillo Wells, CA",earthquake,0.86,1.78,0.713,3,automatic,ci,ci
 2024-07-26T10:42:13.760Z,34.0053333,-116.8,13.43,0.52,ml,23,87,0.03044,0.12,ci,ci40671879,2024-07-26T10:47:56.907Z,"10 km N of Cabazon, CA",earthquake,0.23,0.52,0.172,7,automatic,ci,ci
 2024-07-26T10:38:39.780Z,19.1801662445068,-155.484497070312,30.0799999237061,1.88999999,md,19,200,0.03247,0.200000003,hv,hv74366391,2024-07-26T10:40:24.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.69,1.24000001,0.25,3,automatic,hv,hv
 2024-07-26T10:32:50.573Z,65.8519,-146.4538,4.6,1.2,ml,,,,0.44,ak,ak0249k5xhkx,2024-07-26T10:34:27.303Z,"53 km SSW of Birch Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
