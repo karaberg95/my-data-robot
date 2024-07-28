@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-28T17:43:38.551Z,55.5537,-158.7073,33.9,1.9,ml,,,,0.55,ak,ak0249nl8jr3,2024-07-28T17:45:06.058Z,"48 km SE of Perryville, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2024-07-28T17:43:14.754Z,61.3849,-150.081,43.6,1.2,ml,,,,0.69,ak,ak0249nl8hwz,2024-07-28T17:45:08.489Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-07-28T17:36:23.430Z,33.2266667,-116.041,3.31,1.08,ml,48,58,0.07054,0.23,ci,ci40673975,2024-07-28T17:42:32.577Z,"11 km SW of Salton City, CA",earthquake,0.19,0.36,0.133,27,automatic,ci,ci
+2024-07-28T17:36:23.430Z,33.2266667,-116.041,3.31,1.08,ml,48,58,0.07054,0.23,ci,ci40673975,2024-07-28T17:47:10.060Z,"11 km SW of Salton City, CA",earthquake,0.19,0.36,0.133,27,automatic,ci,ci
 2024-07-28T17:24:17.026Z,39.3415,-120.0265,4.3,1.1,ml,11,124.09,0.049,0.1274,nn,nn00881591,2024-07-28T17:26:11.281Z,"5 km S of Floriston, California",earthquake,,0.8,0.2,7,automatic,nn,nn
 2024-07-28T17:07:04.175Z,-7.4895,127.8462,163.63,4.6,mb,42,52,3.589,0.71,us,us6000ngij,2024-07-28T17:22:47.040Z,"147 km NE of Lospalos, Timor Leste",earthquake,8.26,7.554,0.085,41,reviewed,us,us
 2024-07-28T16:58:44.450Z,19.2590007781982,-155.195327758789,-0.209999993443489,1.71000004,md,13,173,0.03544,0.189999998,hv,hv74371181,2024-07-28T17:00:15.380Z,"20 km SSE of Volcano, Hawaii",earthquake,0.73,0.25999999,0.150000006,3,automatic,hv,hv
@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T16:21:13.180Z,33.1721667,-115.6068333,3.39,1.27,ml,6,177,0.009084,0.09,ci,ci40673935,2024-07-28T16:32:20.320Z,"10 km WNW of Calipatria, CA",earthquake,1.37,0.63,0.439,11,automatic,ci,ci
 2024-07-28T15:56:15.450Z,19.2703342437744,-155.454833984375,29.7600002288818,2.08999991,md,46,63,0.04708,0.129999995,hv,hv74371076,2024-07-28T15:57:49.740Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.48,0.610000014,0.0799999982,4,automatic,hv,hv
 2024-07-28T15:38:56.947Z,63.1983,-149.3094,88.6,1.2,ml,,,,0.52,ak,ak0249nk0ndq,2024-07-28T15:41:11.691Z,"28 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-07-28T15:31:09.800Z,37.4225,-121.775,4.82,0.91,md,14,105,0.03436,0.06,nc,nc75040527,2024-07-28T17:49:02.963Z,"8 km NE of Alum Rock, CA",earthquake,0.3,0.66,0.331,14,reviewed,nc,nc
 2024-07-28T15:20:17.752Z,56.9422,-154.7442,0,1.7,ml,,,,0.65,ak,ak0249njwpgv,2024-07-28T15:21:58.548Z,"34 km W of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-28T15:20:10.697Z,38.9197,-119.6534,0,0.8,ml,8,166.69,0.174,0.386,nn,nn00881590,2024-07-28T15:22:40.032Z,"3 km S of Fish Springs, Nevada",earthquake,,11.5,0.39,5,automatic,nn,nn
 2024-07-28T15:16:47.383Z,58.9624,-152.9815,65.3,1.8,ml,,,,0.3,ak,ak0249njvww2,2024-07-28T15:18:36.802Z,"74 km SW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T18:10:33.667Z,61.7336,-150.4457,31.8,1.4,ml,,,,0.37,ak,ak0249ly3juu,2024-07-27T18:12:59.372Z,"21 km N of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-27T18:09:17.400Z,19.369499206543,-155.188827514648,2.23000001907349,2.03,ml,29,122,0.02093,0.25999999,hv,hv74369206,2024-07-27T18:11:54.410Z,"9 km SSE of Volcano, Hawaii",earthquake,0.65,0.50999999,0.2,6,automatic,hv,hv
 2024-07-27T18:09:14.500Z,19.3740005493164,-155.183670043945,2.69000005722046,2,ml,30,75,0.01461,0.219999999,hv,hv74369201,2024-07-27T18:11:52.350Z,"9 km SE of Volcano, Hawaii",earthquake,0.43,0.419999987,0.18,16,automatic,hv,hv
-2024-07-27T17:48:45.240Z,33.5915,-116.731,13.25,1.06,ml,40,47,0.02656,0.13,ci,ci40673279,2024-07-27T18:02:35.355Z,"7 km NW of Anza, CA",earthquake,0.17,0.29,0.187,29,automatic,ci,ci
