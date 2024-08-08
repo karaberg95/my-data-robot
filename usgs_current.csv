@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-08T21:15:59.013Z,64.2078,-149.8883,33.9,1.2,ml,,,,0.62,ak,ak024a5ud54t,2024-08-08T21:18:00.518Z,"34 km W of Clear, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-08T20:59:53.370Z,34.0021667,-117.5046667,2.66,1.18,ml,36,53,0.03076,0.17,ci,ci40694575,2024-08-08T21:06:23.115Z,"2 km NE of Mira Loma, CA",earthquake,0.15,0.25,0.154,29,automatic,ci,ci
 2024-08-08T20:50:51.998Z,51.8731,177.9272,129.134,4.5,mb,55,174,0.408,0.58,us,us6000niz5,2024-08-08T21:06:18.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.44,6.505,0.043,156,reviewed,us,us
 2024-08-08T20:49:41.200Z,38.83,-122.85,1.52,0.25,md,10,133,0.003679,0.03,nc,nc75045927,2024-08-08T20:51:17.897Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.649999976,0.08,11,automatic,nc,nc
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T15:24:11.020Z,33.9851667,-116.9565,14.7,1.57,ml,63,35,0.1095,0.18,ci,ci40870080,2024-08-08T15:35:13.860Z,"6 km NNE of Beaumont, CA",earthquake,0.16,0.33,0.198,26,automatic,ci,ci
 2024-08-08T15:19:35.610Z,38.84,-122.88,2.09,1.06,md,15,94,0.005827,0.03,nc,nc75045747,2024-08-08T17:16:14.238Z,"13 km E of Cloverdale, CA",earthquake,0.33,0.519999981,0.18,16,automatic,nc,nc
 2024-08-08T15:19:35.389Z,60.3115,-147.2345,13.5,2.4,ml,,,,0.55,ak,ak024a5qtcf1,2024-08-08T16:22:43.040Z,"51 km ENE of Chenega, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2024-08-08T15:19:13.410Z,19.1746666666667,-155.495666666667,32.26,3.54,ml,55,99,0.03705,0.11,hv,hv74391726,2024-08-08T19:51:48.256Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.58,0.157495366597957,38,reviewed,hv,hv
+2024-08-08T15:19:13.410Z,19.1746666666667,-155.495666666667,32.26,3.54,ml,55,99,0.03705,0.11,hv,hv74391726,2024-08-08T21:12:20.958Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.58,0.157495366597957,38,reviewed,hv,hv
 2024-08-08T15:19:01.720Z,33.8176667,-117.0345,13.62,1.26,ml,53,33,0.1302,0.18,ci,ci40870072,2024-08-08T15:29:58.680Z,"8 km WNW of San Jacinto, CA",earthquake,0.18,0.52,0.216,30,automatic,ci,ci
 2024-08-08T15:17:00.419Z,51.6689,-174.864,35,3.5,mb,26,186,0.674,0.45,us,us6000nivl,2024-08-08T16:14:16.040Z,"74 km SW of Atka, Alaska",earthquake,4.89,1.995,0.222,5,reviewed,us,us
 2024-08-08T15:10:56.283Z,-21.1248,-179.1127,606.97,4.4,mb,27,49,3.884,0.84,us,us6000nivk,2024-08-08T16:33:55.040Z,"Fiji region",earthquake,7.25,8.957,0.123,19,reviewed,us,us
@@ -304,8 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T21:36:51.173Z,57.4653,-155.5786,65,1.8,ml,,,,0.36,ak,ak024a46ya2l,2024-08-07T21:38:29.339Z,"68 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-07T21:31:16.990Z,33.8628349,-117.5078354,0.84,1.33,ml,41,55,0.04612,0.24,ci,ci40868688,2024-08-07T21:33:21.347Z,"2 km SE of Home Gardens, CA",earthquake,0.34,0.58,0.217,8,automatic,ci,ci
 2024-08-07T21:22:51.410Z,35.0801667,-119.081,12.18,1.72,ml,39,54,0.02164,0.25,ci,ci40868672,2024-08-07T21:34:10.093Z,"20 km NW of Grapevine, CA",earthquake,0.26,0.6,0.231,28,automatic,ci,ci
-2024-08-07T21:21:57.152Z,63.0868,-151.3498,0,1.6,ml,,,,0.54,ak,ak024a46v2so,2024-08-07T21:24:54.053Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-07T21:15:44.290Z,35.1181667,-119.084,10.15,1.27,ml,18,151,0.05943,0.21,ci,ci40868648,2024-08-07T21:31:13.163Z,"22 km SW of Lamont, CA",earthquake,0.47,0.84,0.149,28,automatic,ci,ci
-2024-08-07T21:13:52.670Z,35.1145,-119.0793333,0.96,2.19,ml,50,22,0.05589,0.24,ci,ci40868640,2024-08-07T21:30:38.378Z,"22 km SW of Lamont, CA",earthquake,0.23,1.01,0.127,25,automatic,ci,ci
-2024-08-07T21:12:47.390Z,18.7516666666667,-65.6095,21.31,2.84,md,12,229,0.534,0.2,pr,pr71457078,2024-08-07T21:40:05.340Z,"43 km NNE of Vieques, Puerto Rico",earthquake,0.95,16.43,0.143484051184496,13,reviewed,pr,pr
-2024-08-07T21:10:17.310Z,35.0916667,-119.0913333,2.08,1.94,ml,47,22,0.03356,0.28,ci,ci40868632,2024-08-07T21:29:40.785Z,"22 km NW of Grapevine, CA",earthquake,0.28,1.39,0.1,25,automatic,ci,ci
