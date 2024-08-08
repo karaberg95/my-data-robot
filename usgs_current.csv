@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-08T19:25:53.571Z,36.44451141,-97.37447357,18.06516457,2.78,ml,13,211.4260864,0.3246778846,0.8503979322,ok,ok2024pnla,2024-08-08T19:34:07.692Z,"11 km SSE of Billings, Oklahoma",earthquake,,15.42680353,0.53,10,automatic,ok,ok
+2024-08-08T19:26:11.880Z,35.35033333,-97.96516667,6.75,1.41,ml,78,42,0.05668887571,0.43,ok,ok2024pnla,2024-08-08T19:46:34.653Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.6,0.24,32,reviewed,ok,ok
 2024-08-08T19:17:58.860Z,33.816,-117.7781667,7.1,1.23,ml,12,159,0.01547,0.14,ci,ci40694511,2024-08-08T19:24:25.502Z,"3 km E of Villa Park, CA",earthquake,0.68,0.76,0.369,35,automatic,ci,ci
 2024-08-08T19:14:20.750Z,33.2223333,-116.0291667,6.22,1.29,ml,36,106,0.06505,0.19,ci,ci40694503,2024-08-08T19:20:30.636Z,"11 km SW of Salton City, CA",earthquake,0.47,1.03,0.142,29,automatic,ci,ci
 2024-08-08T19:13:00.386Z,36.7632,-115.6637,2.9,0.5,ml,13,285.47999999999996,0.26,0.2584,nn,nn00882107,2024-08-08T19:14:51.091Z,"21 km N of Indian Springs, Nevada",earthquake,,14.2,0.35,10,automatic,nn,nn
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T06:52:23.222Z,62.0248,-150.2457,12.2,2.5,ml,,,,0.72,ak,ak024a5lnhsi,2024-08-08T07:01:56.008Z,"25 km SW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-08T06:47:14.465Z,39.5952,-119.0522,12.8,1.5,ml,12,100.60000000000002,0.619,0.308,nn,nn00882090,2024-08-08T06:49:47.537Z,"17 km E of Fernley, Nevada",earthquake,,1.3,0.09,7,automatic,nn,nn
 2024-08-08T06:46:47.580Z,35.0976667,-119.0761667,11.89,1.32,ml,32,75,0.03948,0.18,ci,ci40869632,2024-08-08T18:49:25.459Z,"22 km NW of Grapevine, CA",earthquake,0.23,0.83,0.102,22,reviewed,ci,ci
-2024-08-08T06:44:26.690Z,39.5966,-119.0684,15.9,1.5,ml,12,100.25,0.608,0.2691,nn,nn00882088,2024-08-08T06:46:57.511Z,"15 km E of Fernley, Nevada",earthquake,,0.8,0.06,7,automatic,nn,nn
+2024-08-08T06:44:26.985Z,39.5816,-119.0646,2.7,1.5,ml,13,99.17000000000002,0.605,0.1502,nn,nn00882088,2024-08-08T19:39:05.469Z,"16 km E of Fernley, Nevada",earthquake,,5.9,0.22,8,reviewed,nn,nn
 2024-08-08T06:43:29.880Z,35.1033333,-119.1055,2.49,1.34,ml,31,56,0.04805,0.25,ci,ci40869624,2024-08-08T06:51:07.004Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.37,0.183,29,automatic,ci,ci
 2024-08-08T06:41:04.750Z,35.0703333,-119.0995,0.16,1.36,ml,36,39,0.0174,0.33,ci,ci40869616,2024-08-08T06:48:43.914Z,"21 km NW of Grapevine, CA",earthquake,0.31,1.08,0.153,27,automatic,ci,ci
 2024-08-08T06:36:36.550Z,38.5008333333333,-112.899833333333,3.23,-0.37,md,9,105,0.01038,0.08,uu,uu80077856,2024-08-08T14:09:08.650Z,"15 km NE of Milford, Utah",earthquake,0.31,0.63,0.196861560019264,3,reviewed,uu,uu
@@ -314,6 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T19:56:07.780Z,19.171667098999,-155.496826171875,31.4599990844727,2.3900001,md,41,153,0.03658,0.150000006,hv,hv74390076,2024-08-07T19:58:57.160Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.730000019,0.189999998,8,automatic,hv,hv
 2024-08-07T19:55:14.900Z,35.0926667,-119.1461667,1.56,1.75,ml,36,48,0.06142,0.25,ci,ci40868432,2024-08-07T20:09:22.261Z,"24 km E of Maricopa, CA",earthquake,0.25,1.41,0.215,28,automatic,ci,ci
 2024-08-07T19:52:40.540Z,35.1101667,-119.1396667,0.35,1.55,ml,23,87,0.06889,0.23,ci,ci40868424,2024-08-07T20:05:54.303Z,"24 km ENE of Maricopa, CA",earthquake,0.36,1.39,0.19,27,automatic,ci,ci
-2024-08-07T19:43:13.860Z,38.4945,-112.898833333333,3.59,0.67,md,12,71,0.0112,0.08,uu,uu80077781,2024-08-07T19:57:36.830Z,"14 km NE of Milford, Utah",earthquake,0.29,0.45,0.330857919004976,3,reviewed,uu,uu
-2024-08-07T19:38:42.010Z,35.093,-119.138,1.87,1.72,ml,37,48,0.05616,0.29,ci,ci40868400,2024-08-07T19:45:33.218Z,"24 km E of Maricopa, CA",earthquake,0.28,1.54,0.176,27,automatic,ci,ci
-2024-08-07T19:36:55.080Z,19.3871669769287,-155.251998901367,0.439999997615814,1.88,ml,22,51,0.001772,0.25,hv,hv74390041,2024-08-07T19:39:33.160Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.209999993,0.15,10,automatic,hv,hv
