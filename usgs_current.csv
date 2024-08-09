@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T16:45:59.674Z,59.8157,-152.9216,97.4,1.4,ml,,,,0.17,ak,ak024a7f3r4v,2024-08-09T16:47:53.240Z,"61 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-09T16:36:40.087Z,63.2926,-144.3586,21.5,1.3,ml,,,,0.94,ak,ak024a7f1s6g,2024-08-09T16:38:47.929Z,"42 km SSW of Dot Lake Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T16:28:36.590Z,19.1446666717529,-155.445007324219,28.5100002288818,2.19,ml,58,169,0.01938,0.159999996,hv,hv74393026,2024-08-09T16:31:14.420Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.53,0.629999995,0.36,19,automatic,hv,hv
 2024-08-09T16:24:58.140Z,35.0761667,-119.0915,12.09,1.35,ml,28,81,0.01863,0.18,ci,ci40695415,2024-08-09T16:31:26.486Z,"21 km NW of Grapevine, CA",earthquake,0.26,0.46,0.123,29,automatic,ci,ci
