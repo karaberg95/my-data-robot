@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T09:43:04.190Z,35.0893326,-119.1125031,15.86,1.78,ml,19,97,0.03866,0.19,ci,ci40695063,2024-08-09T09:45:26.533Z,"23 km NW of Grapevine, CA",earthquake,0.62,0.82,0.329,9,automatic,ci,ci
 2024-08-09T09:30:33.680Z,35.6635,-117.4815,7.46,1.31,ml,28,52,0.04709,0.14,ci,ci40695055,2024-08-09T09:36:31.475Z,"14 km SSW of Searles Valley, CA",earthquake,0.18,0.44,0.226,15,automatic,ci,ci
 2024-08-09T09:29:00.960Z,33.3141667,-116.236,5.89,1.06,ml,61,37,0.07815,0.2,ci,ci40695047,2024-08-09T09:35:20.022Z,"14 km ENE of Borrego Springs, CA",earthquake,0.17,0.74,0.128,26,automatic,ci,ci
 2024-08-09T09:13:42.709Z,61.1779,-147.2181,0,1.1,ml,,,,0.32,ak,ak024a7aqtoe,2024-08-09T09:15:29.767Z,"45 km NW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -254,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T10:04:55.120Z,35.076,-119.1005,0.95,1.2,ml,30,75,0.02211,0.23,ci,ci40869744,2024-08-08T10:11:46.466Z,"21 km NW of Grapevine, CA",earthquake,0.3,1.32,0.16,25,automatic,ci,ci
 2024-08-08T09:56:24.480Z,37.85,-121.97,8.79,1.75,md,25,88,0.02036,0.07,nc,nc75045637,2024-08-08T12:05:57.287Z,"2 km NW of Diablo, CA",earthquake,0.24,0.389999986,0.16,19,automatic,nc,nc
 2024-08-08T09:49:54.860Z,62.6015,-152.4476,0.1,1.7,ml,,,,0.73,ak,ak024a5nf7vb,2024-08-08T09:52:45.822Z,"87 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-08T09:44:11.424Z,61.4016,-146.6434,20,1.6,ml,,,,0.84,ak,ak024a5ne1yu,2024-08-08T09:46:04.872Z,"34 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-08T09:41:21.630Z,37.46,-121.77,7.78,1.39,md,5,209,0.07319,0,nc,nc75045632,2024-08-08T11:36:35.111Z,"12 km NE of Alum Rock, CA",earthquake,1.2,2.06999993,0.11,3,automatic,nc,nc
