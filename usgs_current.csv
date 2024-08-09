@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-09T14:14:00.520Z,38.81,-122.81,1.48,1.86,md,40,41,0.009548,0.05,nc,nc75046227,2024-08-09T14:17:15.260Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.239999995,0.17,37,automatic,nc,nc
+2024-08-09T14:40:12.960Z,35.0849991,-119.1101685,13.51,1.69,ml,21,54,0.03408,0.2,ci,ci40695319,2024-08-09T14:42:24.275Z,"23 km NW of Grapevine, CA",earthquake,0.47,1.07,0.274,14,automatic,ci,ci
+2024-08-09T14:14:00.520Z,38.81,-122.81,1.48,1.86,md,40,41,0.009548,0.05,nc,nc75046227,2024-08-09T14:46:00.381Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.239999995,0.17,37,automatic,nc,nc
 2024-08-09T14:05:13.559Z,35.401,22.3543,41.907,4.8,mb,73,135,1.808,0.97,us,us6000nj2x,2024-08-09T14:37:53.040Z,"100 km SW of Kýthira, Greece",earthquake,6.08,6.087,0.045,152,reviewed,us,us
 2024-08-09T13:58:58.320Z,33.9053333,-116.8935,10.58,2.58,ml,114,29,0.07417,0.17,ci,ci40695295,2024-08-09T14:19:35.098Z,"3 km SW of Banning, CA",earthquake,0.1,0.22,0.198,24,automatic,ci,ci
 2024-08-09T13:55:47.770Z,34.9063333,-119.6088333,9.31,1.37,ml,24,47,0.06465,0.14,ci,ci40695287,2024-08-09T14:01:58.799Z,"25 km SW of Maricopa, CA",earthquake,0.24,0.49,0.189,23,automatic,ci,ci
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T08:32:38.300Z,35.1281667,-119.0778333,7.86,1.62,ml,32,61,0.06958,0.22,ci,ci40694975,2024-08-09T08:48:34.187Z,"21 km SW of Lamont, CA",earthquake,0.3,0.81,0.146,26,automatic,ci,ci
 2024-08-09T08:23:46.670Z,35.35466667,-97.9685,7.78,0.91,ml,23,86,0.05578905228,0.25,ok,ok2024poku,2024-08-09T14:29:27.400Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.31,14,reviewed,ok,ok
 2024-08-09T08:22:28.786Z,-4.7068,-105.1867,10,4.9,mb,45,204,24.511,0.6,us,us6000nj1m,2024-08-09T08:41:20.040Z,"central East Pacific Rise",earthquake,16.72,1.967,0.037,233,reviewed,us,us
-2024-08-09T08:21:19.928Z,43.2455,-110.9118,6.924,3.1,ml,63,56,0.243,0.66,us,us6000nj1k,2024-08-09T14:23:49.777Z,"9 km NE of Alpine Northeast, Wyoming",earthquake,3.18,6.561,0.042,74,reviewed,us,us
+2024-08-09T08:21:19.928Z,43.2455,-110.9118,6.924,3.1,ml,63,56,0.243,0.66,us,us6000nj1k,2024-08-09T14:39:35.926Z,"9 km NE of Alpine Northeast, Wyoming",earthquake,3.18,6.561,0.042,74,reviewed,us,us
 2024-08-09T08:19:15.480Z,38.82,-122.79,0.53,1.27,md,23,38,0.01123,0.05,nc,nc75046097,2024-08-09T11:16:03.108Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.340000004,0.21,25,automatic,nc,nc
 2024-08-09T08:16:53.020Z,35.35333333,-97.9635,6.43,1.59,ml,77,42,0.05398940544,0.28,ok,ok2024poko,2024-08-09T12:14:25.019Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.4,0.25,35,reviewed,ok,ok
 2024-08-09T08:12:44.160Z,38.78,-122.76,2.18,0.83,md,16,69,0.01492,0.02,nc,nc75046092,2024-08-09T08:46:03.019Z,"1 km N of The Geysers, CA",earthquake,0.27,0.540000021,0.26,16,automatic,nc,nc
