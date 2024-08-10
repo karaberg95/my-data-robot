@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-10T14:25:18.893Z,36.0788002,-96.92141724,5,2.35,ml,12,220.753418,0.3224160969,1.06549486,ok,ok2024pqsf,2024-08-10T14:32:21.825Z,"6 km NNW of Ripley, Oklahoma",earthquake,22.1306288,,0.32,8,automatic,ok,ok
+2024-08-10T14:28:17.498Z,35.71551132,-97.71398163,5,1.85,ml,9,158.0070496,0.3879589438,1.140538885,ok,ok2024pqsi,2024-08-10T14:35:28.305Z,"8 km NNE of Piedmont, Oklahoma",earthquake,9.763020153,,0.27,7,automatic,ok,ok
+2024-08-10T14:25:20.525Z,36.0868187,-97.04046631,10,2.36,ml,14,148.7709351,0.9949598908,0.9182780351,ok,ok2024pqsf,2024-08-10T14:33:52.903Z,"3 km SSE of Stillwater, Oklahoma",earthquake,,0,0.33,7,automatic,ok,ok
 2024-08-10T14:13:02.119Z,36.0994606,-97.61830139,17.87527657,2.24,ml,15,126.8587189,0.3490207493,1.379636455,ok,ok2024pqru,2024-08-10T14:21:48.737Z,"6 km S of Marshall, Oklahoma",earthquake,9.960423716,11.38586426,0.36,13,automatic,ok,ok
 2024-08-10T14:10:54.360Z,38.83,-122.82,1.65,0.7,md,9,128,0.009332,0.02,nc,nc75046697,2024-08-10T14:12:31.784Z,"8 km NNW of The Geysers, CA",earthquake,0.5,1.00999999,0.43,9,automatic,nc,nc
 2024-08-10T13:58:44.470Z,35.092,-119.0585,1.68,1.38,ml,30,74,0.03926,0.23,ci,ci40696311,2024-08-10T14:11:24.247Z,"20 km NW of Grapevine, CA",earthquake,0.31,1.35,0.179,30,automatic,ci,ci
