@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T23:07:28.590Z,52.0845,-176.1455,-1.78,0.47,ml,6,144,0.02174,0.25,av,av93225251,2024-08-09T23:48:22.570Z,"40 km NE of Adak, Alaska",earthquake,0.61,0.92,0.227491165839522,5,reviewed,av,av
 2024-08-09T23:05:25.923Z,65.7532,-147.7712,10.2,1,ml,,,,1.06,ak,ak024a7j154g,2024-08-09T23:07:29.297Z,"43 km NE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T22:54:47.524Z,31.7322,49.3794,10,4.3,mb,52,138,4.473,0.8,us,us6000nj8f,2024-08-09T23:38:47.031Z,"23 km SSE of Masjed Soleymān, Iran",earthquake,9.3,1.913,0.093,33,reviewed,us,us
-2024-08-09T22:52:28.360Z,19.1136665344238,-155.501159667969,34.5900001525879,1.87,md,29,177,0.05556,0.180000007,hv,hv74393491,2024-08-09T22:54:12.340Z,"9 km ENE of Naalehu, Hawaii",earthquake,0.66,0.949999988,0.119999997,3,automatic,hv,hv
-2024-08-09T22:48:15.250Z,38.81,-122.8,3.44,0.73,md,8,110,0.002277,0.01,nc,nc75046412,2024-08-09T23:15:56.532Z,"5 km NW of The Geysers, CA",earthquake,0.79,2.1400001,0.41,9,automatic,nc,nc
