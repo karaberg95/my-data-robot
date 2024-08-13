@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-13T15:22:28.790Z,19.3768329620361,-155.22233581543,1.80999994277954,1.83000004,md,18,92,0.00713,0.140000001,hv,hv74398231,2024-08-13T15:24:12.340Z,"7 km S of Volcano, Hawaii",earthquake,0.33,0.219999999,0.140000001,10,automatic,hv,hv
-2024-08-13T15:17:08.520Z,35.0848333,-119.0666667,12.88,2.35,ml,56,43,0.02971,0.22,ci,ci40700303,2024-08-13T15:24:17.278Z,"20 km NW of Grapevine, CA",earthquake,0.19,0.49,0.289,25,automatic,ci,ci
+2024-08-13T15:17:08.520Z,35.0848333,-119.0666667,12.88,2.35,ml,56,43,0.02971,0.22,ci,ci40700303,2024-08-13T15:28:07.200Z,"20 km NW of Grapevine, CA",earthquake,0.19,0.49,0.289,25,automatic,ci,ci
 2024-08-13T15:09:33.895Z,60.0134,-152.8943,91.9,1.1,ml,,,,0.24,ak,ak024ae0fxqs,2024-08-13T15:16:56.307Z,"65 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-13T15:01:21.150Z,19.1506671905518,-155.461166381836,30.3600006103516,1.74000001,md,17,173,0.1053,0.109999999,hv,hv74398211,2024-08-13T15:02:56.500Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.73,0.959999979,0.319999993,3,automatic,hv,hv
 2024-08-13T14:50:59.280Z,35.946,-117.673,5.32,0.99,ml,17,73,0.01845,0.11,ci,ci40700279,2024-08-13T14:56:43.103Z,"21 km E of Little Lake, CA",earthquake,0.16,0.33,0.271,10,automatic,ci,ci
@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T06:32:46.860Z,33.6988333,-116.722,17.86,0.85,ml,51,59,0.01393,0.13,ci,ci40699887,2024-08-13T14:05:11.420Z,"5 km S of Idyllwild, CA",earthquake,0.15,0.24,0.189,25,reviewed,ci,ci
 2024-08-13T06:30:09.607Z,60.0718,-151.9395,69,1.7,ml,,,,0.35,ak,ak024adv7hgg,2024-08-13T06:32:56.216Z,"15 km W of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-13T06:27:22.340Z,19.3733329772949,-155.181838989258,2,1.84,ml,33,127,0.01331,0.189999998,hv,hv74397466,2024-08-13T06:30:00.800Z,"9 km SE of Volcano, Hawaii",earthquake,0.47,0.349999994,0.19,8,automatic,hv,hv
+2024-08-13T06:26:51.933Z,52.5634,-166.9226,27.6,2.1,ml,,,,0.33,ak,ak024adv6tmt,2024-08-13T15:35:01.568Z,"137 km ESE of Nikolski, Alaska",earthquake,,124.2,,,reviewed,ak,ak
 2024-08-13T06:24:24.690Z,35.0825,-119.1425,10.21,1.57,ml,40,77,0.05373,0.27,ci,ci40699879,2024-08-13T06:30:56.100Z,"24 km E of Maricopa, CA",earthquake,0.28,0.56,0.226,27,automatic,ci,ci
 2024-08-13T06:15:51.899Z,62.262,-150.179,18.4,1.1,ml,,,,0.55,ak,ak024adv4cz9,2024-08-13T06:17:33.683Z,"6 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-13T06:13:35.700Z,34.276,-116.9475,5.54,2.09,ml,95,22,0.02603,0.14,ci,ci40699871,2024-08-13T14:06:15.140Z,"5 km NW of Big Bear Lake, CA",earthquake,0.1,0.26,0.16,26,reviewed,ci,ci
@@ -195,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
 2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
 2024-08-12T19:21:14.140Z,54.5278333333333,-163.509333333333,12.01,1.25,ml,5,294,0.1794,0.28,av,av93018244,2024-08-13T03:59:40.400Z,"36 km S of False Pass, Alaska",earthquake,1.41,1.09,0.493062773843789,5,reviewed,av,av
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T15:23:11.714Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T15:31:02.487Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-13T14:09:31.010Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,reviewed,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
@@ -239,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T16:05:29.570Z,41.92583333333333,-119.616,0.9,1.75,ml,6,214,0.3229,0.31,uw,uw62035031,2024-08-12T21:53:16.220Z,"45 km E of Fort Bidwell, California",earthquake,1.41,3.33,0.1971379908475387,2,reviewed,uw,uw
 2024-08-12T15:57:46.140Z,35.0861667,-119.1405,9.9,1.74,ml,39,84,0.05403,0.26,ci,ci40698855,2024-08-12T19:56:03.926Z,"24 km E of Maricopa, CA",earthquake,0.34,0.58,0.188,27,automatic,ci,ci
 2024-08-12T15:43:23.699Z,29.109,-97.76,4.3701,2,ml,13,52,0.1,0.1,tx,tx2024pulw,2024-08-12T19:38:57.301Z,"17 km S of Nixon, Texas",earthquake,0.8766327692519563,2.434282160784662,0.1,16,reviewed,tx,tx
-2024-08-12T15:35:56.270Z,38.8,-122.82,3.7,0.26,md,7,84,0.01131,0.03,nc,nc75047727,2024-08-12T16:15:56.007Z,"6 km NW of The Geysers, CA",earthquake,1,1.73000002,0.05,8,automatic,nc,nc
-2024-08-12T15:35:34.570Z,35.0805,-119.1366667,9.99,1.37,ml,31,84,0.04856,0.23,ci,ci40698847,2024-08-12T18:34:06.388Z,"24 km E of Maricopa, CA",earthquake,0.25,0.74,0.099,22,reviewed,ci,ci
-2024-08-12T15:31:38.540Z,38.8,-122.81,2.73,1.47,md,32,72,0.01106,0.03,nc,nc75047722,2024-08-12T18:15:57.874Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.360000014,0.16,31,automatic,nc,nc
-2024-08-12T15:29:16.060Z,35.079,-119.1415,12.46,1.7,ml,40,51,0.05152,0.24,ci,ci40698839,2024-08-12T15:40:25.160Z,"24 km E of Maricopa, CA",earthquake,0.26,0.66,0.228,27,automatic,ci,ci
