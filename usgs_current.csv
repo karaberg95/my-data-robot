@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-13T11:45:51.680Z,19.5026664733887,-155.505493164062,-0.419999986886978,1.89999998,md,28,72,0.05356,0.289999992,hv,hv74397936,2024-08-13T11:47:38.840Z,"29 km WNW of Volcano, Hawaii",earthquake,0.44,1.09000003,0.280000001,11,automatic,hv,hv
 2024-08-13T11:28:36.970Z,19.3778324127197,-155.223999023438,1.55999994277954,2.03,ml,37,65,0.008977,0.280000001,hv,hv74397906,2024-08-13T11:31:17.030Z,"7 km S of Volcano, Hawaii",earthquake,0.35,0.25,0.18,14,automatic,hv,hv
 2024-08-13T11:18:05.500Z,35.9455,-117.6856667,4.94,2.18,ml,27,72,0.02873,0.14,ci,ci40699991,2024-08-13T11:25:04.874Z,"20 km E of Little Lake, CA",earthquake,0.17,0.39,0.233,26,automatic,ci,ci
 2024-08-13T11:15:30.080Z,35.9433333,-117.688,4.43,0.73,ml,17,68,0.03086,0.14,ci,ci40699983,2024-08-13T11:21:12.210Z,"20 km E of Little Lake, CA",earthquake,0.2,0.36,0.177,5,automatic,ci,ci
@@ -158,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
 2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
 2024-08-12T19:21:14.140Z,54.5278333333333,-163.509333333333,12.01,1.25,ml,5,294,0.1794,0.28,av,av93018244,2024-08-13T03:59:40.400Z,"36 km S of False Pass, Alaska",earthquake,1.41,1.09,0.493062773843789,5,reviewed,av,av
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T11:22:59.272Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T11:46:07.006Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-13T01:17:01.228Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,automatic,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
@@ -255,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T12:06:30.830Z,34.2726667,-116.9498333,5.69,1.03,ml,47,59,0.02621,0.14,ci,ci40698559,2024-08-12T13:28:21.840Z,"5 km NW of Big Bear Lake, CA",earthquake,0.17,0.26,0.209,23,reviewed,ci,ci
 2024-08-12T11:58:00.850Z,35.9501667,-117.6816667,5.19,1.32,ml,24,83,0.02549,0.13,ci,ci40698551,2024-08-12T12:03:58.534Z,"20 km E of Little Lake, CA",earthquake,0.17,0.47,0.09,16,automatic,ci,ci
 2024-08-12T11:54:53.139Z,62.9199,-150.6836,112.1,1.4,ml,,,,0.41,ak,ak024acasjir,2024-08-12T11:57:31.597Z,"47 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-12T11:47:33.277Z,-31.5044,-123.855,9.43,5.4,mb,24,178,13.301,0.68,us,us6000njky,2024-08-12T13:51:43.243Z,"South Pacific Ocean",earthquake,15.51,4.815,0.122,23,reviewed,us,us
