@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-15T22:34:55.400Z,33.2363319,-116.0408325,2.89,2.29,ml,91,23,0.06346,0.23,ci,ci40703759,2024-08-15T22:37:17.942Z,"10 km SW of Salton City, CA",earthquake,0.18,0.44,0.194,26,automatic,ci,ci
+2024-08-15T22:41:04.640Z,35.0683327,-119.1048355,10.57,1.35,ml,11,205,0.0198,0.14,ci,ci40703775,2024-08-15T22:43:19.977Z,"21 km NW of Grapevine, CA",earthquake,0.77,0.79,0.306,4,automatic,ci,ci
+2024-08-15T22:37:19.310Z,33.2348333,-116.0421667,3.4,1.76,ml,61,39,0.0653,0.2,ci,ci40703767,2024-08-15T22:43:55.983Z,"11 km SW of Salton City, CA",earthquake,0.13,0.34,0.129,26,automatic,ci,ci
+2024-08-15T22:34:55.420Z,33.2375,-116.0423333,3.09,2.29,ml,82,23,0.0636,0.22,ci,ci40703759,2024-08-15T22:46:10.320Z,"10 km SW of Salton City, CA",earthquake,0.14,0.32,0.194,26,automatic,ci,ci
 2024-08-15T22:32:28.280Z,19.140832901001,-155.370666503906,29.5599994659424,2.01,ml,53,187,0.08766,0.129999995,hv,hv74403381,2024-08-15T22:35:05.820Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.52,0.689999998,0.96,3,automatic,hv,hv
+2024-08-15T22:28:35.116Z,52.7645,-166.6971,7.9,3.6,ml,,,,0.7,ak,ak024ahfsqha,2024-08-15T22:45:01.869Z,"123 km S of Unalaska, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2024-08-15T22:07:49.800Z,33.2378333,-116.0406667,3.17,1.39,ml,54,58,0.06234,0.24,ci,ci40703751,2024-08-15T22:20:00.088Z,"10 km SW of Salton City, CA",earthquake,0.17,0.36,0.13,28,automatic,ci,ci
 2024-08-15T22:04:08.730Z,35.0908333,-119.0956667,13.37,1.73,ml,40,55,0.0336,0.24,ci,ci40703735,2024-08-15T22:16:21.798Z,"22 km NW of Grapevine, CA",earthquake,0.29,0.62,0.174,27,automatic,ci,ci
 2024-08-15T21:48:43.100Z,35.0858333,-119.0903333,12.63,1.7,ml,37,82,0.02769,0.27,ci,ci40703719,2024-08-15T21:55:49.075Z,"22 km NW of Grapevine, CA",earthquake,0.35,0.69,0.173,27,automatic,ci,ci
