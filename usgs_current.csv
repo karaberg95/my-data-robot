@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T09:04:39.050Z,34.2371667,-117.644,5.16,1.01,ml,38,74,0.01215,0.18,ci,ci40702791,2024-08-15T09:11:03.969Z,"14 km W of Lytle Creek, CA",earthquake,0.2,0.41,0.152,29,automatic,ci,ci
 2024-08-15T08:52:46.832Z,60.2968,-148.5548,0,1.5,ml,,,,0.9,ak,ak024ah7lua3,2024-08-15T08:54:32.927Z,"39 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-15T08:50:31.320Z,38.82,-122.84,1.48,0.75,md,7,117,0.006525,0.02,nc,nc75048606,2024-08-15T08:52:06.747Z,"9 km NW of The Geysers, CA",earthquake,0.51,0.75,0.27,9,automatic,nc,nc
 2024-08-15T08:47:49.110Z,33.2375,-116.0381667,3.15,0.72,ml,38,96,0.06105,0.23,ci,ci40702783,2024-08-15T08:54:03.090Z,"10 km SW of Salton City, CA",earthquake,0.26,0.43,0.197,9,automatic,ci,ci
@@ -251,7 +252,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T11:23:53.421Z,36.6287,-115.7142,8.2,0.3,ml,18,300.48,0.202,0.0744,nn,nn00882395,2024-08-15T02:35:08.941Z,"7 km NNW of Indian Springs, Nevada",earthquake,,7,0.08,6,reviewed,nn,nn
 2024-08-14T11:23:08.500Z,33.4883333,-116.9065,11.23,0.51,ml,34,34,0.007696,0.18,ci,ci40701455,2024-08-14T11:29:09.331Z,"6 km NW of Aguanga, CA",earthquake,0.21,0.52,0.217,15,automatic,ci,ci
 2024-08-14T11:23:02.070Z,54.133,-165.949833333333,2.71,-0.45,ml,7,82,0.01023,0.2,av,av93018449,2024-08-14T23:35:33.980Z,"11 km W of Akutan, Alaska",earthquake,0.34,0.54,0.337462973677389,7,reviewed,av,av
-2024-08-14T11:22:56.035Z,23.2141,122.0587,8.846,4.4,mb,20,104,0.722,0.78,us,us6000nk2b,2024-08-14T12:00:31.040Z,"96 km SSE of Hualien City, Taiwan",earthquake,3.01,5.318,0.202,7,reviewed,us,us
+2024-08-14T11:22:56.035Z,23.2141,122.0587,8.846,4.4,mb,20,104,0.722,0.78,us,us6000nk2b,2024-08-15T09:11:33.274Z,"96 km SSE of Hualien City, Taiwan",earthquake,3.01,5.318,0.202,7,reviewed,us,us
 2024-08-14T11:19:25.061Z,-23.7435,-179.9779,511.864,4.1,mb,33,104,5.204,0.81,us,us6000nk29,2024-08-14T11:39:48.040Z,"south of the Fiji Islands",earthquake,12.87,8.601,0.096,30,reviewed,us,us
 2024-08-14T11:19:02.880Z,19.3861666666667,-155.242333333333,1.73,2.77,ml,27,68,0.008499,0.09,hv,hv74399711,2024-08-15T04:07:13.040Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.15,0.377703265470187,19,reviewed,hv,hv
 2024-08-14T11:18:50.830Z,33.2866667,-116.727,15.02,0.39,ml,31,26,0.05713,0.15,ci,ci40701447,2024-08-14T13:18:31.851Z,"6 km NE of Lake Henshaw, CA",earthquake,0.24,0.45,0.082,7,reviewed,ci,ci
@@ -288,9 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T09:16:24.540Z,35.0895,-119.1391667,10.7,1.72,ml,44,48,0.05489,0.26,ci,ci40701375,2024-08-14T09:26:42.530Z,"24 km E of Maricopa, CA",earthquake,0.25,0.56,0.221,27,automatic,ci,ci
 2024-08-14T09:15:19.153Z,28.734,-98.286,2.6611,1.8,ml,20,46,0.1,0.3,tx,tx2024pxqa,2024-08-14T16:05:44.643Z,"21 km ESE of Christine, Texas",earthquake,1.0690510787311411,1.8643619700385643,0.1,9,reviewed,tx,tx
 2024-08-14T09:15:07.000Z,-6.6178,104.3956,34.156,5,mb,52,78,3.337,0.71,us,us6000nk1m,2024-08-14T09:44:57.723Z,"160 km W of Labuan, Indonesia",earthquake,8.51,2.055,0.079,51,reviewed,us,us
-2024-08-14T09:10:35.564Z,36.6289,-115.7427,11,0.5,ml,19,143.42000000000002,0.179,0.0662,nn,nn00882377,2024-08-15T02:25:42.242Z,"9 km NW of Indian Springs, Nevada",earthquake,,5.5,0.12,5,reviewed,nn,nn
-2024-08-14T09:05:48.777Z,36.6385,-115.7317,9.3,0.8,ml,35,141.36,0.187,0.0982,nn,nn00882374,2024-08-14T17:49:33.573Z,"9 km NW of Indian Springs, Nevada",earthquake,,2.1,0.31,11,reviewed,nn,nn
-2024-08-14T09:03:43.840Z,19.3253326416016,-155.192672729492,1.33000004291534,1.77,ml,54,92,0.0528,0.170000002,hv,hv74399496,2024-08-14T09:06:21.950Z,"13 km SSE of Volcano, Hawaii",earthquake,0.23,0.319999993,0.82,6,automatic,hv,hv
-2024-08-14T09:01:09.320Z,60.816,-153.4982,13.1,1.4,ml,,,,0.28,ak,ak024afkcwz8,2024-08-14T09:02:18.438Z,"81 km NNE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-14T09:00:25.170Z,19.1625003814697,-155.488998413086,28.2399997711182,1.80999994,md,40,118,0.02638,0.170000002,hv,hv74399491,2024-08-14T09:02:01.450Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.219999999,3,automatic,hv,hv
-2024-08-14T08:57:51.224Z,36.6413,-115.7208,5.1,0.1,ml,17,272.38000000000005,0.195,0.1256,nn,nn00882373,2024-08-14T16:14:02.438Z,"9 km NNW of Indian Springs, Nevada",earthquake,,9.2,0.19,4,reviewed,nn,nn
