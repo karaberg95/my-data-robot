@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-17T11:22:57.416Z,31.364,-103.757,7.5872,1.9,ml,9,96,0.1,0.3,tx,tx2024qdgt,2024-08-17T11:36:52.319Z,"6 km NNE of Toyah, Texas",earthquake,0,5.08898448944092,0.1,7,automatic,tx,tx
 2024-08-17T11:21:03.150Z,33.4873333,-117.1303333,9.85,0.46,ml,31,50,0.01835,0.21,ci,ci40705351,2024-08-17T11:27:12.842Z,"2 km ESE of Temecula, CA",earthquake,0.23,0.57,0.085,9,automatic,ci,ci
 2024-08-17T11:09:20.100Z,38.8153343200684,-122.762001037598,1.67999994754791,1.11,md,21,112,0.01474,0.03,nc,nc75049511,2024-08-17T11:30:57.428Z,"3 km W of Cobb, CA",earthquake,0.24,0.389999986,0.22,20,automatic,nc,nc
 2024-08-17T11:07:27.030Z,19.3766670227051,-155.22966003418,1.72000002861023,1.85,ml,28,76,0.01079,0.170000002,hv,hv74406646,2024-08-17T11:10:06.340Z,"7 km S of Volcano, Hawaii",earthquake,0.27,0.219999999,0.1,11,automatic,hv,hv
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T12:00:44.140Z,33.9678333,-117.2065,14,1.01,ml,35,83,0.03467,0.19,ci,ci40704207,2024-08-16T16:49:16.314Z,"5 km NNE of Moreno Valley, CA",earthquake,0.26,0.55,0.328,28,reviewed,ci,ci
 2024-08-16T11:52:26.290Z,39.2826,-119.6313,0.9,1.1,ml,15,78.63,0.126,0.1123,nn,nn00882536,2024-08-16T18:31:55.803Z,"3 km SSE of Virginia City, Nevada",earthquake,,3.9,0.14,8,reviewed,nn,nn
 2024-08-16T11:49:49.326Z,36.6477,-115.7406,8.4,0.5,ml,12,269.5,0.179,0.092,nn,nn00882535,2024-08-17T02:37:56.938Z,"10 km NW of Indian Springs, Nevada",earthquake,,8.1,0.23,3,reviewed,nn,nn
-2024-08-16T11:41:52.430Z,52.7746666666667,-169.910166666667,4.58,1.47,ml,5,245,0.02188,0.08,av,av93018634,2024-08-16T22:11:37.440Z,"72 km WSW of Nikolski, Alaska",earthquake,0.84,0.6,0.0861336444956731,5,reviewed,av,av
-2024-08-16T11:41:37.980Z,35.9754981994629,-120.527496337891,3.13000011444092,0.81,md,8,96,0.01959,0.04,nc,nc75049106,2024-08-16T13:16:03.531Z,"12 km NW of Parkfield, CA",earthquake,0.45,1.15999997,0.09,3,automatic,nc,nc
