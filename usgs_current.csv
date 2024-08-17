@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-17T23:37:06.130Z,38.8120002746582,-122.771331787109,-0.330000013113022,1.47,md,26,75,0.01454,0.07,nc,nc75049736,2024-08-17T23:38:46.077Z,"4 km  of The Geysers, CA",earthquake,0.19,0.540000021,0.17,25,automatic,nc,nc
 2024-08-17T23:15:33.354Z,64.9994,-147.4739,3.7,1.4,ml,,,,0.57,ak,ak024akre2nr,2024-08-17T23:17:52.208Z,"8 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-17T23:15:12.750Z,19.3776664733887,-155.183670043945,2.38000011444092,1.94,ml,18,120,0.01368,0.150000006,hv,hv74407846,2024-08-17T23:17:51.070Z,"8 km SE of Volcano, Hawaii",earthquake,0.6,0.370000005,0.07,4,automatic,hv,hv
 2024-08-17T23:12:59.730Z,17.919,-66.9123333333333,11.18,2.49,md,12,197,0.05303,0.09,pr,pr71457663,2024-08-17T23:25:09.990Z,"5 km S of Guánica, Puerto Rico",earthquake,0.45,0.39,0.0243480694664948,4,reviewed,pr,pr
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T23:56:45.389Z,19.2633,121.1679,35.024,4.9,mb,58,87,3.538,0.91,us,us7000n7j5,2024-08-17T00:24:13.040Z,"72 km N of Namuac, Philippines",earthquake,9.7,6.859,0.088,40,reviewed,us,us
 2024-08-16T23:44:22.329Z,35.34416667,-97.97666667,7.49,1.32,ml,44,75,0.0674867568,0.29,ok,ok2024qcjr,2024-08-17T03:18:38.060Z,"4 km NW of Minco, Oklahoma",earthquake,,0.5,0.19,19,reviewed,ok,ok
 2024-08-16T23:42:44.760Z,19.3924999237061,-155.249496459961,0.990000009536743,1.71000004,md,16,68,0.007161,0.119999997,hv,hv74405621,2024-08-16T23:44:31.640Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.219999999,0.230000004,13,automatic,hv,hv
-2024-08-16T23:34:19.590Z,19.391,-155.244833333333,1.64,3,ml,30,63,0.008198,0.09,hv,hv74405606,2024-08-16T23:46:51.220Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.16,0.233297187261583,17,reviewed,hv,hv
