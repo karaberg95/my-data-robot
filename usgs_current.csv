@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-21T14:45:44.130Z,19.380500793457,-155.257827758789,0.649999976158142,2.1099999,md,21,49,0.007918,0.129999995,hv,hv74417141,2024-08-21T14:47:30.810Z,"7 km SSW of Volcano, Hawaii",earthquake,0.14,0.109999999,0.289999992,18,automatic,hv,hv
+2024-08-21T14:44:49.678Z,36.423,-115.2596,0.7,0.9,ml,10,331.16999999999996,0.658,0.1874,nn,nn00882755,2024-08-21T14:47:16.251Z,"26 km NW of Nellis Air Force Base, Nevada",earthquake,,52.4,0.24,8,automatic,nn,nn
 2024-08-21T14:26:20.811Z,36.5289,-115.4894,0,0.7,ml,10,321.48999999999995,0.517,0.2529,nn,nn00882753,2024-08-21T14:28:36.126Z,"16 km ESE of Indian Springs, Nevada",earthquake,,61,0.28,7,automatic,nn,nn
 2024-08-21T14:21:25.796Z,60.1001,-152.0059,71.6,1.7,ml,,,,0.28,ak,ak024ar87u1v,2024-08-21T14:23:02.159Z,"19 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-21T14:15:12.440Z,32.991,-116.3161667,5.64,0.79,ml,26,72,0.08168,0.18,ci,ci40709975,2024-08-21T14:21:13.561Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.25,1,0.092,13,automatic,ci,ci
@@ -316,4 +318,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-20T14:52:52.527Z,0.6142,123.673,259.276,4.3,mb,25,94,2.933,1.1,us,us7000n899,2024-08-20T16:50:08.040Z,"68 km E of Gorontalo, Indonesia",earthquake,11.84,10.487,0.133,16,reviewed,us,us
 2024-08-20T14:52:28.610Z,19.3729991912842,-155.246826171875,0.389999985694885,2.01,ml,20,101,0.005898,0.109999999,hv,hv74413481,2024-08-20T14:55:06.910Z,"7 km S of Volcano, Hawaii",earthquake,0.2,0.140000001,0.29,14,automatic,hv,hv
 2024-08-20T14:51:27.100Z,19.3770008087158,-155.223831176758,0.779999971389771,1.74,ml,25,90,0.008491,0.300000012,hv,hv74413476,2024-08-20T14:54:06.150Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.270000011,0.27,4,automatic,hv,hv
-2024-08-20T14:44:55.260Z,19.3878326416016,-155.239166259766,0.0700000002980232,2.07,ml,26,64,0.01169,0.200000003,hv,hv74413456,2024-08-20T14:47:32.480Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.189999998,0.19,11,automatic,hv,hv
