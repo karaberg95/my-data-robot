@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-24T19:15:51.810Z,33.7641678,-116.9356689,13.81,1.49,ml,54,30,0.07752,0.18,ci,ci40713295,2024-08-24T19:18:22.877Z,"3 km SE of San Jacinto, CA",earthquake,0.23,0.54,0.201,17,automatic,ci,ci
+2024-08-24T19:15:51.810Z,33.7641678,-116.9356689,13.81,1.49,ml,54,30,0.07752,0.18,ci,ci40713295,2024-08-24T19:26:35.370Z,"3 km SE of San Jacinto, CA",earthquake,0.23,0.54,0.201,17,automatic,ci,ci
 2024-08-24T19:06:56.880Z,38.8255004882812,-122.84400177002,1.86000001430511,0.4,md,8,136,0.007401,0.02,nc,nc75052841,2024-08-24T19:08:34.995Z,"9 km NW of The Geysers, CA",earthquake,0.47,0.910000026,0.24,11,automatic,nc,nc
 2024-08-24T18:50:40.730Z,40.2803344726562,-124.451835632324,25.3999996185303,1.75,md,7,302,0.08396,0.08,nc,nc75052831,2024-08-24T19:09:26.155Z,"15 km W of Petrolia, CA",earthquake,4.54,3.20000005,0.11,7,automatic,nc,nc
 2024-08-24T18:34:02.940Z,38.7924995422363,-122.759002685547,0.469999998807907,0.85,md,10,146,0.008132,0.02,nc,nc75052826,2024-08-24T18:52:18.039Z,"2 km N of The Geysers, CA",earthquake,0.31,0.569999993,0.13,11,automatic,nc,nc
