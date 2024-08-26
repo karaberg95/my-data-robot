@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-26T23:31:44.460Z,38.8224983215332,-122.842666625977,2.15000009536743,0.76,md,15,114,0.005997,0.01,nc,nc75053826,2024-08-26T23:33:22.145Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.469999999,0.17,18,automatic,nc,nc
-2024-08-26T23:30:14.040Z,38.8356666564941,-122.783836364746,2.02999997138977,1.46,md,25,66,0.005773,0.02,nc,nc75053821,2024-08-26T23:31:52.605Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.330000013,0.16,27,automatic,nc,nc
+2024-08-26T23:30:14.040Z,38.8356666564941,-122.783836364746,2.02999997138977,1.46,md,25,66,0.005773,0.02,nc,nc75053821,2024-08-26T23:47:19.365Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.330000013,0.16,27,automatic,nc,nc
 2024-08-26T23:00:49.469Z,64.9104,-148.9427,6.5,1.2,ml,,,,0.79,ak,ak024azn50r6,2024-08-26T23:02:53.585Z,"32 km SE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-26T22:55:44.625Z,61.4402,-149.7786,33.1,1.3,ml,,,,0.36,ak,ak024azmvd5q,2024-08-26T22:57:16.586Z,"3 km SW of Knik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-26T22:54:48.220Z,19.1655006408691,-155.494827270508,28.2399997711182,1.86000001,md,31,205,0.08254,0.129999995,hv,hv74425152,2024-08-26T22:56:28.630Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.83,0.949999988,0.159999996,6,automatic,hv,hv
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T20:05:47.012Z,36.6057,-115.689,9.4,0.5,ml,19,149.23000000000002,0.227,0.1261,nn,nn00883045,2024-08-26T22:02:30.888Z,"4 km NNW of Indian Springs, Nevada",earthquake,,5.1,0.22,4,reviewed,nn,nn
 2024-08-26T20:01:14.540Z,32.6106667,-116.9788333,2.92,1.32,ml,32,136,0.04116,0.21,ci,ci40715047,2024-08-26T20:10:20.219Z,"7 km ESE of Chula Vista, CA",earthquake,0.3,0.33,0.154,17,automatic,ci,ci
 2024-08-26T19:59:27.895Z,36.9593,-104.8543,1.726,2.8,ml,12,76,0.157,0.33,us,us6000nmxk,2024-08-26T20:20:02.040Z,"19 km S of Weston, Colorado",earthquake,4.02,2.115,0.079,21,reviewed,us,us
-2024-08-26T19:53:43.661Z,38.9682,23.3621,10,4.5,mb,46,51,0.801,1.13,us,us6000nmxi,2024-08-26T22:49:36.620Z,"18 km E of Istiaía, Greece",earthquake,3.86,1.864,0.113,23,reviewed,us,us
+2024-08-26T19:53:43.661Z,38.9682,23.3621,10,4.5,mb,46,51,0.801,1.13,us,us6000nmxi,2024-08-26T23:44:49.082Z,"18 km E of Istiaía, Greece",earthquake,3.86,1.864,0.113,23,reviewed,us,us
 2024-08-26T19:52:39.666Z,59.4782,-138.9111,9.6,2.2,ml,,,,0.78,ak,ak024azl2eta,2024-08-26T19:54:45.446Z,"46 km E of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-26T19:51:41.500Z,39.0001666666667,-111.427166666667,-2.36,1.27,md,7,139,0.05326,0.08,uu,uu80080291,2024-08-26T20:18:31.130Z,"17 km WNW of Emery, Utah",earthquake,0.65,1.59,0.255388486222108,5,reviewed,uu,uu
 2024-08-26T19:48:53.890Z,46.852833333333336,-121.76533333333333,1.25,-0.35000000000000003,md,12,139,0.02894,0.05,uw,uw62040996,2024-08-26T23:00:40.650Z,"22 km ENE of Ashford, Washington",earthquake,0.27,0.88,0.15176073206798923,12,reviewed,uw,uw
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T00:12:26.760Z,35.0145,-97.76483333,11.31,2.21,ml,99,39,0.1016800469,0.33,ok,ok2024qswd,2024-08-26T01:23:12.580Z,"11 km N of Alex, Oklahoma",earthquake,,1.2,0.18,43,reviewed,ok,ok
 2024-08-26T00:03:12.492Z,60.2572,-152.5986,105.2,1.6,ml,,,,0.64,ak,ak024az9gm3m,2024-08-26T00:15:54.969Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-25T23:51:01.940Z,48.7915,-122.73983333333334,16.45,1.11,ml,13,170,0.07483,0.1,uw,uw62040686,2024-08-26T18:53:37.400Z,"11 km W of Marietta, Washington",earthquake,0.46,0.69,0.06969204322156042,7,reviewed,uw,uw
-2024-08-25T23:48:07.150Z,19.2321662902832,-155.456832885742,24.2199993133545,2.25999999,md,11,192,0.05631,0.0599999987,hv,hv74423702,2024-08-25T23:49:32.240Z,"3 km NE of Pāhala, Hawaii",earthquake,2.29,4.26000023,0.0799999982,3,automatic,hv,hv
