@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-28T20:40:36.020Z,32.9861679,-116.3233337,4.83,1.7,ml,51,51,0.03567,0.22,ci,ci40717983,2024-08-28T20:42:40.431Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.27,0.64,0.234,27,automatic,ci,ci
 2024-08-28T20:25:37.694Z,37.7444,-117.1301,0.7,1.2,ml,9,177.51,0.565,0.2023,nn,nn00883247,2024-08-28T20:28:02.535Z,"10 km ENE of Goldfield, Nevada",earthquake,,51.5,0.09,7,automatic,nn,nn
 2024-08-28T20:14:36.919Z,37.697,-117.1795,7.3,1.2,ml,9,170.14000000000004,0.402,0.2474,nn,nn00883245,2024-08-28T20:17:12.419Z,"5 km ESE of Goldfield, Nevada",earthquake,,2.7,0.29,5,automatic,nn,nn
 2024-08-28T20:13:28.600Z,18.006,-66.8223333333333,11.83,2.24,md,8,136,0.08876,0.16,pr,pr71458508,2024-08-28T20:31:58.060Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.67,2.41,0.00279401003367452,3,reviewed,pr,pr
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T21:00:55.380Z,33.6326667,-116.683,14.22,0.41,ml,14,69,0.03694,0.08,ci,ci40716343,2024-08-27T23:44:51.184Z,"9 km N of Anza, CA",earthquake,0.24,0.48,0.111,6,reviewed,ci,ci
 2024-08-27T20:54:28.430Z,38.8320007324219,-122.808166503906,2.35999989509583,0.44,md,14,55,0.008721,0.02,nc,nc75054176,2024-08-27T22:59:26.475Z,"7 km WNW of Cobb, CA",earthquake,0.37,0.829999983,0.28,14,automatic,nc,nc
 2024-08-27T20:52:53.400Z,35.0381667,-117.6743333,-0.82,1.57,ml,25,65,0.1051,0.18,ci,ci40716327,2024-08-27T23:40:51.010Z,"5 km NNW of Boron, CA",quarry blast,0.39,31.61,0.182,32,reviewed,ci,ci
-2024-08-27T20:44:50.515Z,60.4061,-141.8295,7,2.5,ml,,,,0.54,ak,ak024b195i0r,2024-08-28T14:48:17.040Z,"128 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-27T20:44:37.173Z,60.4143,-141.7831,0.2,2.5,ml,,,,0.18,ak,ak024b195gzp,2024-08-27T20:46:20.678Z,"129 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
