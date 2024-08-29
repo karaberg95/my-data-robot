@@ -331,4 +331,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T21:05:11.270Z,32.976,-116.2753333,9.63,1.51,ml,55,43,0.0318,0.18,ci,ci40718055,2024-08-29T14:16:37.660Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.161,27,reviewed,ci,ci
 2024-08-28T21:03:12.780Z,32.9755,-116.2801667,9.73,2.26,ml,78,37,0.02855,0.2,ci,ci40718023,2024-08-29T17:16:25.210Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.13,0.38,0.17,83,reviewed,ci,ci
 2024-08-28T21:00:33.980Z,38.806999206543,-122.775833129883,2.05999994277954,1.29,md,26,73,0.00731,0.04,nc,nc75054626,2024-08-29T00:34:27.343Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.379999995,0.2,26,automatic,nc,nc
-2024-08-28T20:52:14.970Z,33.2986667,-116.3685,11.7,0.69,ml,29,103,0.02801,0.17,ci,ci40718007,2024-08-29T16:49:07.518Z,"5 km N of Borrego Springs, CA",earthquake,0.25,0.27,0.042,8,reviewed,ci,ci
