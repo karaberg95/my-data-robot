@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-29T03:50:38.607Z,61.3355,-152.2139,24,0.5,ml,,,,0.41,ak,ak024b4a533o,2024-08-29T03:51:45.312Z,"64 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-29T03:39:39.660Z,33.6136667,-116.7153333,14.23,0.81,ml,44,47,0.04532,0.13,ci,ci40718415,2024-08-29T03:45:48.511Z,"8 km NNW of Anza, CA",earthquake,0.15,0.24,0.165,28,automatic,ci,ci
 2024-08-29T03:35:43.680Z,33.6151667,-116.713,14.28,0.72,ml,39,50,0.04772,0.13,ci,ci40718407,2024-08-29T03:41:45.908Z,"8 km NNW of Anza, CA",earthquake,0.15,0.25,0.178,22,automatic,ci,ci
 2024-08-29T03:35:19.996Z,31.565,-104.021,7.2323,2,ml,15,66,0,0.3,tx,tx2024qypj,2024-08-29T03:47:58.165Z,"35 km NW of Toyah, Texas",earthquake,0,2.39024806022644,0.1,13,automatic,tx,tx
@@ -320,4 +321,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T04:35:36.300Z,33.952,-116.8825,11.66,0.89,ml,51,41,0.1036,0.13,ci,ci40716807,2024-08-28T15:49:15.530Z,"3 km N of Banning, CA",earthquake,0.13,0.48,0.153,23,reviewed,ci,ci
 2024-08-28T04:12:00.300Z,61.6309,-149.5438,33.6,1.6,ml,,,,0.43,ak,ak024b2myy1q,2024-08-28T04:14:43.982Z,"3 km ENE of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-28T04:06:05.930Z,38.8183326721191,-122.80933380127,3.26999998092651,1.26,md,28,43,0.005088,0.02,nc,nc75054311,2024-08-28T06:14:26.203Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.18,31,automatic,nc,nc
-2024-08-28T03:53:47.300Z,38.7938346862793,-122.804336547852,2.86999988555908,1.28,md,28,64,0.005589,0.03,nc,nc75054301,2024-08-28T05:19:24.861Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.389999986,0.19,28,automatic,nc,nc
