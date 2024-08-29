@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-29T10:42:21.010Z,35.0631676,-119.1481705,7.97,2.23,ml,59,35,0.053,0.29,ci,ci40718607,2024-08-29T10:44:42.442Z,"23 km E of Maricopa, CA",earthquake,0.32,0.91,0.267,27,automatic,ci,ci
 2024-08-29T10:33:10.805Z,39.2742,-119.6572,0.9,0.7,ml,8,110.98000000000002,0.112,0.1112,nn,nn00883356,2024-08-29T10:35:29.043Z,"3 km S of Virginia City, Nevada",earthquake,,8.7,0.26,5,automatic,nn,nn
 2024-08-29T10:32:24.915Z,39.2727,-119.6456,3.5,1,ml,11,70,0.12,0.1999,nn,nn00883354,2024-08-29T10:34:49.799Z,"4 km S of Virginia City, Nevada",earthquake,,1.1,0.34,6,automatic,nn,nn
-2024-08-29T10:25:02.740Z,38.7859992980957,-122.748832702637,0.46000000834465,0.3,md,8,91,0.009857,0.02,nc,nc75054831,2024-08-29T10:26:39.562Z,"1 km NE of The Geysers, CA",earthquake,0.33,0.670000017,0.14,8,automatic,nc,nc
+2024-08-29T10:25:02.740Z,38.7859992980957,-122.748832702637,0.46000000834465,0.3,md,8,91,0.009857,0.02,nc,nc75054831,2024-08-29T10:42:16.212Z,"1 km NE of The Geysers, CA",earthquake,0.33,0.670000017,0.14,8,automatic,nc,nc
 2024-08-29T10:18:49.380Z,61.7259,-149.4927,35.7,1.6,ml,,,,0.32,ak,ak024b4e4a96,2024-08-29T10:20:22.981Z,"11 km NNW of Tanaina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-29T10:17:49.737Z,61.0969,-148.4693,1.2,1.3,ml,,,,0.64,ak,ak024b4e42kd,2024-08-29T10:19:02.686Z,"37 km NNE of Whittier, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2024-08-29T10:01:12.950Z,35.948,-117.6818333,5.22,0.59,ml,19,78,0.02552,0.11,ci,ci40718591,2024-08-29T10:06:51.200Z,"20 km E of Little Lake, CA",earthquake,0.15,0.38,0.244,5,automatic,ci,ci
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T06:42:41.330Z,18.0111666666667,-67.0456666666667,13.59,2.72,md,23,89,0.03588,0.14,pr,pr71458548,2024-08-29T06:56:18.670Z,"4 km N of La Parguera, Puerto Rico",earthquake,0.36,0.23,0.167623506842212,7,reviewed,pr,pr
 2024-08-29T06:40:39.295Z,63.0512,-149.9949,80.2,1.7,ml,,,,0.36,ak,ak024b4bv8t5,2024-08-29T06:42:36.772Z,"64 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-29T06:40:33.720Z,33.908,-116.8895,9.25,0.84,ml,51,32,0.1067,0.14,ci,ci40718495,2024-08-29T06:46:40.576Z,"2 km SSW of Banning, CA",earthquake,0.13,0.53,0.137,26,automatic,ci,ci
-2024-08-29T06:22:50.350Z,20.1186666666667,-155.414333333333,-1.34,3.01,ml,57,215,0.2061,0.24,hv,hv74429282,2024-08-29T08:53:28.120Z,"7 km NE of Honoka‘a, Hawaii",earthquake,0.92,0.19,0.132421406041213,42,reviewed,hv,hv
+2024-08-29T06:22:50.350Z,20.1186666666667,-155.414333333333,-1.34,3.01,ml,57,215,0.2061,0.24,hv,hv74429282,2024-08-29T10:39:13.259Z,"7 km NE of Honoka‘a, Hawaii",earthquake,0.92,0.19,0.132421406041213,42,reviewed,hv,hv
 2024-08-29T06:21:28.659Z,38.2305,-117.8272,0,1.2,ml,10,180.41999999999996,0.128,0.3767,nn,nn00883288,2024-08-29T06:24:17.909Z,"30 km SE of Mina, Nevada",earthquake,,3.7,0.54,6,automatic,nn,nn
 2024-08-29T06:18:00.760Z,34.1846667,-117.3966667,11.33,1.28,ml,34,42,0.03238,0.19,ci,ci40718479,2024-08-29T06:24:31.165Z,"4 km S of Devore, CA",earthquake,0.26,0.43,0.458,33,automatic,ci,ci
 2024-08-29T06:11:03.970Z,58.1102,-154.5245,84.7,1.7,ml,,,,0.21,ak,ak024b4boybh,2024-08-29T06:13:10.608Z,"60 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
