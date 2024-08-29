@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-29T20:36:22.580Z,35.9483337,-117.685997,3.87,2.16,ml,31,77,0.0289,0.16,ci,ci40719215,2024-08-29T20:38:32.731Z,"20 km E of Little Lake, CA",earthquake,0.27,0.63,0.212,25,automatic,ci,ci
+2024-08-29T20:33:34.280Z,38.7891654968262,-122.734336853027,1.62000000476837,0.8,md,13,89,0.006207,0.02,nc,nc75055046,2024-08-29T20:35:11.631Z,"2 km ENE of The Geysers, CA",earthquake,0.27,0.670000017,0.15,13,automatic,nc,nc
+2024-08-29T20:19:25.687Z,-62.8155,-158.2142,10,5.1,mb,36,126,18.594,0.55,us,us6000nnjr,2024-08-29T20:39:01.040Z,"Pacific-Antarctic Ridge",earthquake,5.49,1.884,0.094,37,reviewed,us,us
 2024-08-29T20:17:23.402Z,61.8686,-150.7757,47.8,1.5,ml,,,,0.55,ak,ak024b4k2cl0,2024-08-29T20:19:21.506Z,"35 km ESE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-29T20:11:09.835Z,32.337,-101.783,6.1768,2.8,ml,38,41,0,0.2,tx,tx2024qzwf,2024-08-29T20:21:35.040Z,"21 km SSW of Ackerly, Texas",earthquake,0.5875337224780834,0.7285536097054035,0.2,30,reviewed,tx,tx
 2024-08-29T19:41:59.880Z,46.749168395996094,-122.43599700927734,3.88000011444092,1.5457146167755127,ml,16,163,,0.180000007,uw,uw62042021,2024-08-29T19:44:11.560Z,"12 km WSW of Alder, Washington",earthquake,1.27,14.8199997,0.23565945029258728,21,automatic,uw,uw
@@ -330,4 +333,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T21:00:33.980Z,38.806999206543,-122.775833129883,2.05999994277954,1.29,md,26,73,0.00731,0.04,nc,nc75054626,2024-08-29T00:34:27.343Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.379999995,0.2,26,automatic,nc,nc
 2024-08-28T20:52:14.970Z,33.2986667,-116.3685,11.7,0.69,ml,29,103,0.02801,0.17,ci,ci40718007,2024-08-29T16:49:07.518Z,"5 km N of Borrego Springs, CA",earthquake,0.25,0.27,0.042,8,reviewed,ci,ci
 2024-08-28T20:46:28.820Z,60.0495,-153.0745,-2.52,-0.96,ml,5,108,0.009589,0.15,av,av93244241,2024-08-29T00:54:08.640Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.52,1.77,0.276387667754367,4,reviewed,av,av
-2024-08-28T20:40:36.000Z,32.9868333,-116.3228333,5.31,1.68,ml,62,38,0.03606,0.2,ci,ci40717983,2024-08-29T14:16:41.520Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.181,27,reviewed,ci,ci
