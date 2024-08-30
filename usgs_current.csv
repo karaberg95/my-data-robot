@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T17:00:26.300Z,37.4395,-116.7783,9.4,1.1,ml,11,162.70000000000005,0.299,0.2307,nn,nn00883405,2024-08-29T17:03:14.738Z,"50 km SE of Goldfield, Nevada",earthquake,,1.8,0.13,7,automatic,nn,nn
 2024-08-29T16:54:27.030Z,36.1071666666667,-89.7665,7.74,2.02,md,22,56,0.05377,0.14,nm,nm60590321,2024-08-29T22:26:30.480Z,"6 km ENE of Steele, Missouri",earthquake,0.41,1.16,0.172382549440578,21,reviewed,nm,nm
 2024-08-29T16:53:40.100Z,38.8376655578613,-122.821334838867,1.85000002384186,0.62,md,9,81,0.01675,0.01,nc,nc75054956,2024-08-29T17:52:18.042Z,"9 km WNW of Cobb, CA",earthquake,0.47,0.860000014,0.37,10,automatic,nc,nc
-2024-08-29T16:50:01.864Z,62.1392,-151.6703,84.6,1.7,ml,,,,0.41,ak,ak024b4hvn4q,2024-08-29T16:51:55.155Z,"21 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
