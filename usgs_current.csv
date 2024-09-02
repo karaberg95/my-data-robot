@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-02T15:34:31.110Z,35.2051659,-118.6656647,7.26,1.58,ml,37,51,0.03203,0.21,ci,ci40722559,2024-09-02T15:36:35.561Z,"15 km E of Arvin, CA",earthquake,0.33,0.72,0.232,6,automatic,ci,ci
+2024-09-02T15:27:36.342Z,28.541,-98.399,6.9745,1.8,ml,15,64,0.1,1.5,tx,tx2024rguw,2024-09-02T15:34:11.434Z,"17 km ENE of Tilden, Texas",earthquake,0,2.6942587741533,0.1,13,automatic,tx,tx
+2024-09-02T15:26:18.287Z,37.7349,-117.1395,2,1,ml,16,173.20000000000005,0.564,0.3193,nn,nn00883720,2024-09-02T15:29:12.586Z,"8 km ENE of Goldfield, Nevada",earthquake,,17.5,0.22,11,automatic,nn,nn
 2024-09-02T15:23:46.047Z,37.71,-117.1713,0.8,1.2,ml,19,169.73000000000002,0.416,0.3448,nn,nn00883718,2024-09-02T15:26:23.629Z,"5 km E of Goldfield, Nevada",earthquake,,30.3,0.15,13,automatic,nn,nn
+2024-09-02T15:22:36.244Z,59.7883,-137.8806,4.006,2.7,ml,19,127,0.901,0.42,us,us6000npby,2024-09-02T15:34:39.040Z,"104 km WNW of Mosquito Lake, Alaska",earthquake,2.37,7.835,0.046,62,reviewed,us,us
 2024-09-02T15:21:49.100Z,19.5713329315186,-155.727005004883,-3,1.8,ml,18,86,0.07048,0.370000005,hv,hv74437587,2024-09-02T15:24:43.150Z,"19 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.68,0.419999987,0.47,3,automatic,hv,hv
 2024-09-02T15:19:14.833Z,64.9043,-149.1394,3.1,1.4,ml,,,,0.98,ak,ak024bb38zaz,2024-09-02T15:21:33.599Z,"29 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T15:18:18.510Z,35.3396667,-118.002,4.38,1.19,ml,28,51,0.03459,0.16,ci,ci40722551,2024-09-02T15:24:29.414Z,"24 km N of California City, CA",earthquake,0.17,0.32,0.178,16,automatic,ci,ci
@@ -290,7 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T15:46:41.000Z,35.3391667,-118.0001667,4.44,1.67,ml,47,49,0.03468,0.18,ci,ci40721575,2024-09-01T15:53:31.246Z,"24 km N of California City, CA",earthquake,0.15,0.36,0.137,26,automatic,ci,ci
 2024-09-01T15:46:33.512Z,26.3824,-44.5613,10,4.8,mb,41,127,25.701,0.55,us,us6000np2u,2024-09-01T16:03:10.040Z,"northern Mid-Atlantic Ridge",earthquake,9.59,1.849,0.065,73,reviewed,us,us
 2024-09-01T15:45:23.290Z,33.9965,-116.7546667,11.72,0.88,ml,45,55,0.05859,0.14,ci,ci40721567,2024-09-01T15:51:34.557Z,"9 km NNE of Cabazon, CA",earthquake,0.16,0.41,0.096,21,automatic,ci,ci
-2024-09-01T15:32:43.560Z,44.3545,-115.186666666667,4.31,1.43,ml,10,70,0.3484,0.26,mb,mb90060513,2024-09-02T13:46:41.290Z,"24 km NW of Stanley, Idaho",earthquake,0.51,14.82,0.19264393009637,11,reviewed,mb,mb
-2024-09-01T15:32:28.105Z,63.1538,-150.6121,115.8,1.7,ml,,,,0.38,ak,ak024b9fsg56,2024-09-01T15:34:51.268Z,"70 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-09-01T15:32:06.711Z,29.2302,141.8767,10,4.7,mb,34,139,2.144,0.81,us,us6000np2p,2024-09-01T15:46:47.040Z,"Izu Islands, Japan region",earthquake,10.08,1.918,0.108,26,reviewed,us,us
-2024-09-01T15:29:06.310Z,35.0838333,-119.1428333,11.75,1.3,ml,38,78,0.05458,0.27,ci,ci40721559,2024-09-01T15:35:27.277Z,"24 km E of Maricopa, CA",earthquake,0.34,0.78,0.16,28,automatic,ci,ci
