@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-03T19:29:17.819Z,60.5203,-149.2649,22.7,1.4,ml,,,,0.42,ak,ak024bct87lx,2024-09-03T19:31:34.517Z,"6 km ENE of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-03T19:26:10.634Z,60.5251,-150.7868,24.2,1.3,ml,,,,0.51,ak,ak024bct7jwn,2024-09-03T19:27:52.949Z,"1 km SW of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-03T19:23:45.358Z,60.2506,-141.3417,6.4,1.9,ml,,,,0.77,ak,ak024bct6zfr,2024-09-03T19:25:45.978Z,"119 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-03T19:17:46.863Z,37.7902,-117.0833,0.1,0.8,ml,10,186.94,0.57,0.377,nn,nn00883816,2024-09-03T19:20:11.948Z,"16 km NE of Goldfield, Nevada",earthquake,,80.9,0.23,5,automatic,nn,nn
-2024-09-03T19:06:09.920Z,37.8318328857422,-121.801834106445,6.17999982833862,1.63,md,8,142,0.1117,0.04,nc,nc75057016,2024-09-03T19:07:49.409Z,"9 km E of Blackhawk, CA",earthquake,0.43,6.73000002,0.14,5,automatic,nc,nc
-2024-09-03T18:56:45.002Z,37.7407,-117.1316,0,2.5,ml,9,95.44999999999999,0.204,0.1575,nn,nn00883811,2024-09-03T19:21:27.040Z,"9 km ENE of Goldfield, Nevada",earthquake,,0,0,1,reviewed,nn,nn
+2024-09-03T19:06:09.920Z,37.8318328857422,-121.801834106445,6.17999982833862,1.63,md,8,142,0.1117,0.04,nc,nc75057016,2024-09-03T19:29:26.225Z,"9 km E of Blackhawk, CA",earthquake,0.43,6.73000002,0.14,5,automatic,nc,nc
+2024-09-03T18:56:44.915Z,37.7376,-117.1428,8.4,3.1,ml,26,94.31,0.194,0.1794,nn,nn00883811,2024-09-03T19:32:26.350Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.1,0.36,9,reviewed,nn,nn
 2024-09-03T18:53:13.647Z,37.5645,-116.2299,0,0.6,ml,8,294.27000000000004,0.363,0.1966,nn,nn00883810,2024-09-03T18:55:21.629Z,"43 km WSW of Rachel, Nevada",earthquake,,70.4,0.49,5,automatic,nn,nn
 2024-09-03T18:46:54.847Z,36.54,-115.5271,0,0.9,ml,15,313.0400000000001,0.37,0.2049,nn,nn00883807,2024-09-03T18:49:03.087Z,"13 km ESE of Indian Springs, Nevada",earthquake,,52.3,0.14,10,automatic,nn,nn
 2024-09-03T18:40:45.830Z,17.9618333333333,-67.0041666666667,7.68,2.68,md,20,183,0.03887,0.13,pr,pr71459218,2024-09-03T19:18:04.040Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.33,0.18,0.181951485791179,11,reviewed,pr,pr
@@ -196,6 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T23:27:32.310Z,19.3764991760254,-155.246170043945,0.230000004172325,1.84,ml,17,85,0.006006,0.129999995,hv,hv74438272,2024-09-02T23:30:26.160Z,"7 km S of Volcano, Hawaii",earthquake,0.23,0.150000006,0.17,10,automatic,hv,hv
 2024-09-02T23:25:26.265Z,37.7253,-117.1773,2.1,1.3,ml,14,171.46000000000004,0.547,0.3831,nn,nn00883743,2024-09-02T23:28:08.207Z,"5 km ENE of Goldfield, Nevada",earthquake,,11.4,0.2,10,automatic,nn,nn
 2024-09-02T23:25:24.350Z,35.685,-98.1365,6.38,1.64,ml,67,59,0.06928640364,0.28,ok,ok2024rhkp,2024-09-02T23:59:55.969Z,"9 km N of Calumet, Oklahoma",earthquake,,0.6,0.27,27,reviewed,ok,ok
+2024-09-02T23:18:54.680Z,37.5601666666667,-113.076833333333,11.71,1.26,ml,8,185,0.0362,0.12,uu,uu80081136,2024-09-03T19:27:49.740Z,"9 km ENE of Kanarraville, Utah",earthquake,1,1.03,0.288946564377047,5,reviewed,uu,uu
 2024-09-02T23:13:03.260Z,35.0371667,-117.6736667,1.43,1.39,ml,23,70,0.1042,0.2,ci,ci40723031,2024-09-02T23:19:40.545Z,"5 km NNW of Boron, CA",earthquake,0.41,0.69,0.105,19,automatic,ci,ci
 2024-09-02T23:02:46.111Z,61.7714,-150.0917,42,1.1,ml,,,,0.72,ak,ak024bb7wvdv,2024-09-02T23:04:19.974Z,"3 km NW of Willow, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-09-02T22:54:09.430Z,49.368,-120.47133333333333,-0.51,1.8800000000000001,ml,14,214,0.5551,0.34,uw,uw62043026,2024-09-03T18:36:20.580Z,"10 km SSE of Princeton, Canada",explosion,2.25,31.61,0.14066084721177097,9,reviewed,uw,uw
@@ -232,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T19:44:40.489Z,59.9094,-152.564,94,1.5,ml,,,,0.45,ak,ak024bb5s4ls,2024-09-02T19:46:30.101Z,"43 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-02T19:35:17.110Z,38.839168548584,-122.839500427246,1.00999999046326,0.61,md,7,130,0.003187,0.03,nc,nc75056601,2024-09-02T21:44:26.771Z,"10 km NW of The Geysers, CA",earthquake,0.44,0.790000021,0.4,8,automatic,nc,nc
 2024-09-02T19:35:16.970Z,38.838,-122.835,1.97,0.47,md,20,55,0.0007004,0.02,nc,nc75001008,2024-09-02T20:44:24.479Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.43,0.126,19,reviewed,nc,nc
-2024-09-02T19:31:44.030Z,38.8325004577637,-122.814331054688,1.86000001430511,0.67,md,12,55,0.009681,0.02,nc,nc75056591,2024-09-02T20:47:14.387Z,"8 km NNW of The Geysers, CA",earthquake,0.31,0.980000019,0.13,13,automatic,nc,nc
