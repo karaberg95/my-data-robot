@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T06:36:41.751Z,59.9146,-151.7418,83.8,2.4,ml,,,,0.51,ak,ak024be92h36,2024-09-04T06:39:16.919Z,"3 km S of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-04T05:51:18.240Z,35.0834999,-119.1328354,12.54,1.43,ml,17,78,0.04727,0.16,ci,ci40724327,2024-09-04T06:02:24.630Z,"24 km NW of Grapevine, CA",earthquake,0.53,0.85,0.157,29,automatic,ci,ci
 2024-09-04T05:47:16.348Z,31.581,-104.546,3.7789,1.9,ml,8,161,0.1,0.2,tx,tx2024rjss,2024-09-04T05:59:31.379Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.26374983787537,0.1,6,automatic,tx,tx
 2024-09-04T05:44:29.865Z,36.7018,-115.6606,0,0.3,ml,12,294.44000000000005,0.245,0.2434,nn,nn00883850,2024-09-04T05:46:34.726Z,"14 km N of Indian Springs, Nevada",earthquake,,0.1,0.36,8,automatic,nn,nn
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T07:00:18.900Z,38.814998626709,-122.831001281738,1.25999999046326,0.9,md,11,96,0.006285,0.02,nc,nc75056811,2024-09-03T07:34:25.217Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.569999993,0.19,12,automatic,nc,nc
 2024-09-03T06:49:16.590Z,33.4881667,-116.4193333,3.28,0.87,ml,58,40,0.1161,0.18,ci,ci40723231,2024-09-03T12:58:39.180Z,"22 km SSW of La Quinta, CA",earthquake,0.15,0.51,0.177,28,reviewed,ci,ci
 2024-09-03T06:41:46.023Z,61.2224,-150.0321,31.3,1.7,ml,,,,0.59,ak,ak024bclk5ii,2024-09-03T06:43:38.026Z,"7 km W of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-03T06:34:25.111Z,60.0082,-153.4838,142.3,1.5,ml,,,,0.28,ak,ak024bclinvz,2024-09-03T06:36:18.469Z,"42 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-03T06:25:20.990Z,34.1523333,-117.425,5.53,0.8,ml,49,34,0.04022,0.16,ci,ci40723223,2024-09-03T12:58:44.890Z,"7 km NNE of Fontana, CA",earthquake,0.16,0.5,0.172,27,reviewed,ci,ci
