@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-10T23:53:43.850Z,34.2985001,-117.5234985,11.02,1.14,ml,20,122,0.0864,0.2,ci,ci40730351,2024-09-10T23:55:50.265Z,"5 km NNW of Lytle Creek, CA",earthquake,0.47,1.05,0.216,5,automatic,ci,ci
 2024-09-10T23:37:31.700Z,33.1951667,-116.0105,9.94,1.06,ml,39,60,0.03496,0.23,ci,ci40730335,2024-09-10T23:43:34.135Z,"13 km SSW of Salton City, CA",earthquake,0.25,0.5,0.142,27,automatic,ci,ci
 2024-09-10T23:36:33.109Z,63.114,-151.5451,0,1.6,ml,,,,0.97,ak,ak024bogewoe,2024-09-10T23:38:29.519Z,"48 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-10T23:06:57.135Z,62.2679,-151.127,83.8,1.6,ml,,,,0.27,ak,ak024bog8j1t,2024-09-10T23:09:14.335Z,"31 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -211,6 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T03:52:34.830Z,39.3388328552246,-123.24983215332,4.19999980926514,1.44,md,8,96,0.1006,0.06,nc,nc75059866,2024-09-10T03:54:11.167Z,"9 km NNW of Redwood Valley, CA",earthquake,0.49,3.95000005,0.08,6,automatic,nc,nc
 2024-09-10T03:50:11.810Z,19.2151660919189,-155.467666625977,32.6199989318848,1.95000005,md,37,101,0.04435,0.150000006,hv,hv74449117,2024-09-10T03:51:55.110Z,"1 km NE of Pāhala, Hawaii",earthquake,0.59,0.670000017,0.100000001,4,automatic,hv,hv
 2024-09-10T03:46:16.621Z,59.8336,-152.6347,87.8,1.4,ml,,,,0.4,ak,ak024bo4kcgu,2024-09-10T03:48:08.963Z,"45 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-10T03:39:05.950Z,54.7585,-163.9895,0.38,0.39,ml,6,94,0.04935,0.23,av,av93258473,2024-09-10T23:53:13.530Z,"38 km WSW of False Pass, Alaska",earthquake,0.47,0.38,0.218912683048697,6,reviewed,av,av
 2024-09-10T03:38:51.010Z,19.2733325958252,-155.400833129883,30.3799991607666,1.75,md,35,108,0.03578,0.119999997,hv,hv74449107,2024-09-10T03:41:45.960Z,"11 km NE of Pāhala, Hawaii",earthquake,0.45,0.600000024,0.270000011,6,automatic,hv,hv
 2024-09-10T03:31:51.950Z,33.2746667,-116.7931667,15.87,0.75,ml,32,44,0.04816,0.16,ci,ci40729495,2024-09-10T16:31:21.619Z,"5 km NW of Lake Henshaw, CA",earthquake,0.23,0.47,0.082,8,reviewed,ci,ci
 2024-09-10T03:27:53.021Z,60.8051,-151.0947,60.1,1.2,ml,,,,0.34,ak,ak024bo4gcls,2024-09-10T03:30:33.453Z,"16 km NE of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
