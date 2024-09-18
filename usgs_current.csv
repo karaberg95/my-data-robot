@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-18T15:04:23.410Z,34.1631667,-117.4266667,6.79,2.04,ml,113,23,0.02937,0.21,ci,ci40736855,2024-09-18T15:11:30.639Z,"7 km SSW of Devore, CA",earthquake,0.12,0.28,0.163,26,automatic,ci,ci
+2024-09-18T14:58:09.050Z,34.0301667,-117.1163333,8.79,0.84,ml,27,58,0.006213,0.23,ci,ci40736839,2024-09-18T15:04:33.604Z,"5 km SSE of Mentone, CA",earthquake,0.3,0.59,0.222,16,automatic,ci,ci
+2024-09-18T14:35:27.019Z,31.701,-104.169,5.4188,1.6,ml,17,89,0.1,0.4,tx,tx2024sjze,2024-09-18T15:03:57.607Z,"54 km W of Mentone, Texas",earthquake,0,2.56143236160278,0.2,13,automatic,tx,tx
 2024-09-18T14:33:33.880Z,32.8691673,-116.2241669,13.7,2.15,ml,15,107,0.1318,0.08,ci,ci40736815,2024-09-18T14:40:27.467Z,"26 km NW of Ocotillo, CA",earthquake,0.44,1.01,0.789,11,automatic,ci,ci
 2024-09-18T14:33:06.680Z,19.3748340606689,-155.163330078125,2.26999998092651,2.24,ml,29,138,0.007266,0.300000012,hv,hv74469047,2024-09-18T14:36:00.570Z,"10 km SSW of Fern Forest, Hawaii",earthquake,0.82,0.629999995,0.37,5,automatic,hv,hv
 2024-09-18T13:58:34.830Z,35.8915,-117.7321667,8.47,1.08,ml,20,113,0.08693,0.12,ci,ci40736767,2024-09-18T14:04:29.518Z,"16 km ESE of Little Lake, CA",earthquake,0.19,0.54,0.156,14,automatic,ci,ci
@@ -45,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T07:59:32.490Z,46.8651666666667,-112.523166666667,10.58,0.76,ml,12,100,0.0458,0.1,mb,mb90061823,2024-09-18T13:59:20.880Z,"15 km SE of Lincoln, Montana",earthquake,0.36,0.58,0.267388283073199,9,reviewed,mb,mb
 2024-09-18T07:52:29.207Z,5.1823,-82.6363,10,4.7,mb,72,73,4.098,1.58,us,us6000nsuw,2024-09-18T08:28:14.040Z,"south of Panama",earthquake,7.33,1.901,0.038,211,reviewed,us,us
 2024-09-18T07:48:00.505Z,32.458,-102.036,7.7393,1.1,ml,19,80,0.1,0.1,tx,tx2024sjlt,2024-09-18T13:05:29.437Z,"31 km SSW of Los Ybanez, Texas",earthquake,0.5461781986872182,1.0067183366463839,0.2,17,reviewed,tx,tx
+2024-09-18T07:44:21.180Z,36.4865,-89.5543333333333,7.65,1.61,md,26,54,0.05333,0.07,nm,nm60591226,2024-09-18T15:17:03.950Z,"6 km SE of Marston, Missouri",earthquake,0.64,1.13,0.0946463853928371,20,reviewed,nm,nm
 2024-09-18T07:39:30.400Z,19.3806667327881,-155.165664672852,2.48000001907349,2.13,ml,46,76,0.003637,0.370000005,hv,hv74468592,2024-09-18T07:42:23.530Z,"9 km SSW of Fern Forest, Hawaii",earthquake,0.59,0.870000005,0.66,18,automatic,hv,hv
 2024-09-18T07:39:17.421Z,32.411,-102.064,8.1787,1.5,ml,23,76,0,0.1,tx,tx2024sjll,2024-09-18T12:47:50.785Z,"35 km WSW of Ackerly, Texas",earthquake,0.4929428705977273,0.5515544387075927,0.1,18,reviewed,tx,tx
 2024-09-18T07:38:11.320Z,34.3088333,-116.9016667,6.13,0.91,ml,41,75,0.04903,0.15,ci,ci40736599,2024-09-18T13:30:05.670Z,"7 km N of Big Bear Lake, CA",earthquake,0.21,0.34,0.261,20,reviewed,ci,ci
@@ -209,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T15:40:27.440Z,35.821,-117.6398333,9.57,0.65,ml,19,72,0.1024,0.18,ci,ci40735911,2024-09-17T17:22:52.293Z,"22 km WNW of Searles Valley, CA",earthquake,0.3,0.8,0.101,6,reviewed,ci,ci
 2024-09-17T15:39:13.900Z,38.8321647644043,-122.816329956055,1.51999998092651,1.14,md,20,53,0.01003,0.04,nc,nc75063071,2024-09-17T15:40:50.079Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.460000008,0.19,22,automatic,nc,nc
 2024-09-17T15:22:34.240Z,19.1916675567627,-155.485336303711,29.6700000762939,2.04,ml,44,74,0.04222,0.150000006,hv,hv74467732,2024-09-17T15:25:26.870Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.44,0.579999983,0.93,3,automatic,hv,hv
-2024-09-17T15:16:27.070Z,18.1721666666667,-66.184,20.72,2.27,md,6,83,0.07057,0.12,pr,pr71460423,2024-09-17T16:24:46.950Z,"0 km ENE of Parcelas La Milagrosa, Puerto Rico",earthquake,0.48,0.81,0.308988927374128,4,reviewed,pr,pr
-2024-09-17T15:08:29.672Z,62.6919,-149.595,69,1,ml,,,,0.23,ak,ak024bzw8uzb,2024-09-17T15:10:38.032Z,"37 km NE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-09-17T15:05:59.469Z,60.2661,-150.7639,41.1,1.4,ml,,,,0.51,ak,ak024bzw8a4q,2024-09-17T15:08:00.247Z,"26 km S of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
