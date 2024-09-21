@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T15:01:03.310Z,33.9953333,-116.832,10.33,1.27,ml,59,41,0.04452,0.15,ci,ci40740975,2024-09-21T15:17:39.432Z,"9 km NNE of Banning, CA",earthquake,0.12,0.26,0.176,28,automatic,ci,ci
 2024-09-21T14:59:11.110Z,60.7484,-151.0222,48.5,2,ml,,,,0.21,ak,ak024c6i3pfr,2024-09-21T15:00:35.306Z,"15 km ENE of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-09-21T14:54:06.554Z,61.2569,-146.8278,33.6,1.5,ml,,,,0.13,ak,ak024c6i2mi7,2024-09-21T14:55:25.693Z,"29 km WNW of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-09-21T14:48:12.730Z,38.8320007324219,-122.818336486816,1.57000005245209,1.33,md,22,54,0.01075,0.02,nc,nc75064821,2024-09-21T15:14:30.282Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.340000004,0.24,22,automatic,nc,nc
+2024-09-21T14:48:12.730Z,38.8320007324219,-122.818336486816,1.57000005245209,1.33,md,22,54,0.01075,0.02,nc,nc75064821,2024-09-21T15:39:24.479Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.340000004,0.24,22,automatic,nc,nc
 2024-09-21T14:42:44.841Z,36.1345,70.824,115.635,4.5,mb,43,79,2.905,0.85,us,us6000nthh,2024-09-21T15:21:41.040Z,"79 km N of Pārūn, Afghanistan",earthquake,7.33,5.208,0.07,60,reviewed,us,us
 2024-09-21T14:14:59.698Z,60.3331,-141.093,19.5,1.7,ml,,,,0.21,ak,ak024c6hu5yp,2024-09-21T14:16:34.352Z,"116 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-21T14:01:28.630Z,19.4873332977295,-155.47233581543,1.12999999523163,1.85000002,md,31,66,0.04484,0.219999999,hv,hv74472042,2024-09-21T14:03:03.980Z,"25 km W of Volcano, Hawaii",earthquake,0.34,1.24000001,0.209999993,10,automatic,hv,hv
