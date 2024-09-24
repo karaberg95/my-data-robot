@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T05:41:55.770Z,34.0476685,-117.2566681,15.91,2.09,ml,103,17,0.06155,0.2,ci,ci40743847,2024-09-24T05:44:11.002Z,"0 km E of Loma Linda, CA",earthquake,0.19,0.44,0.314,25,automatic,ci,ci
+2024-09-24T05:48:20.880Z,19.4986667633057,-155.739837646484,6.23000001907349,2.00999999,md,31,90,0.03544,0.289999992,hv,hv74475567,2024-09-24T05:50:06.210Z,"13 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.779999971,0.289999992,7,automatic,hv,hv
+2024-09-24T05:41:55.770Z,34.0476685,-117.2566681,15.91,2.09,ml,103,17,0.06155,0.2,ci,ci40743847,2024-09-24T05:51:57.913Z,"0 km E of Loma Linda, CA",earthquake,0.19,0.44,0.314,25,automatic,ci,ci
 2024-09-24T05:38:49.200Z,38.8233337402344,-122.852668762207,2.07999992370605,0.36,md,8,126,0.005336,0.02,nc,nc75066051,2024-09-24T05:40:25.763Z,"10 km NW of The Geysers, CA",earthquake,0.44,0.930000007,0.26,9,automatic,nc,nc
 2024-09-24T05:30:28.510Z,33.6863327,-116.7993317,10.26,0.84,ml,42,33,0.06922,0.19,ci,ci40743839,2024-09-24T05:43:35.339Z,"10 km SW of Idyllwild, CA",earthquake,0.26,0.45,0.186,27,automatic,ci,ci
 2024-09-24T05:08:41.118Z,61.5122,-149.9084,35.5,2.5,ml,,,,0.67,ak,ak024cbb1z75,2024-09-24T05:42:56.960Z,"2 km ESE of Big Lake, Alaska",earthquake,,0.9,,,reviewed,ak,ak
