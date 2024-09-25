@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-25T14:45:41.860Z,38.8344993591309,-122.741668701172,0.620000004768372,1.11,md,12,177,0.02242,0.03,nc,nc75066576,2024-09-25T14:48:24.968Z,"2 km NW of Cobb, CA",earthquake,0.35,0.980000019,0.14,12,automatic,nc,nc
+2024-09-25T14:41:16.453Z,31.499,-104.015,4.7868,1.5,ml,12,88,0,0.1,tx,tx2024swtx,2024-09-25T14:45:15.675Z,"29 km NW of Toyah, Texas",earthquake,0,1.55769729614258,0.1,10,automatic,tx,tx
+2024-09-25T14:37:03.068Z,31.906,-104.043,4.5341,1.6,ml,7,153,0,0.4,tx,tx2024swtt,2024-09-25T14:47:01.683Z,"35 km S of Malaga, New Mexico",earthquake,0,1.96603262424469,0.2,7,automatic,tx,tx
 2024-09-25T14:22:26.470Z,35.668,-117.4296667,7.27,0.92,ml,20,92,0.005643,0.15,ci,ci40745151,2024-09-25T14:28:19.375Z,"11 km SSW of Searles Valley, CA",earthquake,0.25,0.51,0.242,8,automatic,ci,ci
 2024-09-25T14:19:49.950Z,38.798168182373,-122.755165100098,3.91000008583069,0.78,md,15,93,0.004318,0.02,nc,nc75066571,2024-09-25T14:22:34.701Z,"2 km NNE of The Geysers, CA",earthquake,0.42,0.829999983,0.31,16,automatic,nc,nc
 2024-09-25T14:01:05.268Z,-57.732,-6.9053,10,5.3,mb,34,78,14.098,0.73,us,us7000ng5k,2024-09-25T14:19:48.040Z,"southern Mid-Atlantic Ridge",earthquake,10.04,1.539,0.083,49,reviewed,us,us
@@ -217,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T15:05:44.860Z,60.0308333333333,-153.091666666667,-1.01,0.09,ml,6,112,0.0301,0.08,av,av93284463,2024-09-24T23:04:39.370Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.2,2.17,0.251241578337361,6,reviewed,av,av
 2024-09-24T15:03:22.130Z,19.1331672668457,-155.378494262695,30.4500007629395,1.76999998,md,35,225,0.08209,0.140000001,hv,hv74475937,2024-09-24T15:05:08.800Z,"13 km SE of Pāhala, Hawaii",earthquake,0.69,0.709999979,0.159999996,6,automatic,hv,hv
 2024-09-24T15:00:17.070Z,60.052,-153.03,1.75,-0.1,ml,5,242,0.01769,0.08,av,av93284453,2024-09-24T22:53:25.430Z,"67 km ENE of Pedro Bay, Alaska",earthquake,0.68,0.58,0.44069805848717,5,reviewed,av,av
-2024-09-24T14:50:03.832Z,65.86,-150.0725,0,1.3,ml,,,,0.71,ak,ak024cbgnswv,2024-09-24T14:52:05.421Z,"39 km N of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
