@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-25T11:53:35.980Z,32.784832,-115.4391632,6.16,1.14,ml,14,95,0.02142,0.24,ci,ci40745063,2024-09-25T11:55:40.385Z,"6 km WSW of Holtville, CA",earthquake,0.7,1.03,0.085,3,automatic,ci,ci
 2024-09-25T11:40:15.580Z,19.2608337402344,-155.431167602539,33.1100006103516,1.85000002,md,49,70,0.03938,0.159999996,hv,hv74476902,2024-09-25T11:42:00.940Z,"8 km NE of Pāhala, Hawaii",earthquake,0.43,0.649999976,0.100000001,9,automatic,hv,hv
 2024-09-25T11:33:06.680Z,34.0741667,-117.4546667,3.4,1.22,ml,69,30,0.02857,0.2,ci,ci40745055,2024-09-25T11:44:10.390Z,"3 km S of Fontana, CA",earthquake,0.16,0.22,0.221,27,automatic,ci,ci
 2024-09-25T11:30:24.364Z,36.9765,-116.1923,1.8,-0.2,ml,9,81.13999999999999,0.053,0.2295,nn,nn00885140,2024-09-25T11:32:25.698Z,"51 km E of Beatty, Nevada",earthquake,,3.7,0.54,6,automatic,nn,nn
