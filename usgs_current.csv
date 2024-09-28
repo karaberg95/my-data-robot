@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T08:24:08.756Z,61.0437,-152.0264,93.3,1.2,ml,,,,0.42,ak,ak024cgbjoiz,2024-09-27T08:26:35.805Z,"48 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-27T08:22:03.368Z,-24.0588,-67.0014,203.742,4.3,mb,18,95,2.6,0.52,us,us7000ngs4,2024-09-27T11:26:22.040Z,"71 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.03,10.7,0.168,10,reviewed,us,us
 2024-09-27T08:17:17.214Z,-21.9705,-68.1872,124.314,4.3,mb,30,111,0.995,0.78,us,us7000ngs0,2024-09-27T09:11:14.040Z,"82 km S of Ollagüe, Chile",earthquake,4.36,7.619,0.106,25,reviewed,us,us
-2024-09-27T07:48:27.630Z,36.2056667,-118.0143333,1.95,1.73,ml,29,52,0.1561,0.19,ci,ci40746879,2024-09-27T17:30:41.570Z,"8 km S of Olancha, CA",earthquake,0.29,1.07,0.141,21,reviewed,ci,ci
