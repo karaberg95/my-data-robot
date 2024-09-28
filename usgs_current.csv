@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T21:22:11.042Z,61.6554,-148.0257,16.5,1.1,ml,,,,0.36,ak,ak024cgj9w4w,2024-09-27T21:23:51.150Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-27T21:17:11.980Z,35.9316667,-117.6715,2.07,1.7,mh,4,176,0.02358,0.01,ci,ci40747303,2024-09-27T22:50:11.817Z,"21 km E of Little Lake, CA",earthquake,0.42,0.29,,0,reviewed,ci,ci
 2024-09-27T21:15:38.100Z,37.5515,-118.867333333333,5.73,0.45,md,12,221,0.04901,0.05,nc,nc75067501,2024-09-28T01:26:41.840Z,"14 km SE of Mammoth Lakes, CA",earthquake,0.5,0.95,0.184,10,reviewed,nc,nc
-2024-09-27T20:44:25.380Z,58.1823333333333,-155.302833333333,2.17,0.3,ml,13,58,0.03081,0.07,av,av93288593,2024-09-28T00:33:08.200Z,"84 km NW of Karluk, Alaska",earthquake,0.17,0.35,0.243115073430458,13,reviewed,av,av
