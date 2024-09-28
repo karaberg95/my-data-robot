@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-28T19:09:41.145Z,39.5451,-119.4789,0.7,1.5,ml,8,93.29000000000002,0.465,0.3114,nn,nn00885349,2024-09-28T19:11:56.731Z,"19 km WSW of Wadsworth, Nevada",earthquake,,57.6,0.05,3,automatic,nn,nn
 2024-09-28T19:05:37.230Z,38.8328323364258,-122.816665649414,1.62000000476837,0.7,md,11,55,0.01074,0.02,nc,nc75067901,2024-09-28T19:07:11.948Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.819999993,0.38,11,automatic,nc,nc
-2024-09-28T18:54:48.191Z,64.4977,-146.9506,4.1,2.1,ml,,,,0.55,ak,ak024ci57vlf,2024-09-28T19:04:53.898Z,"3 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-28T18:54:48.191Z,64.4977,-146.9506,4.1,2.1,ml,,,,0.55,ak,ak024ci57vlf,2024-09-28T19:10:11.658Z,"3 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-28T18:42:17.100Z,36.2028333,-117.8668333,9.61,0.91,ml,19,77,0.08563,0.14,ci,ci40747823,2024-09-28T18:48:14.615Z,"15 km SE of Olancha, CA",earthquake,0.27,0.51,0.225,7,automatic,ci,ci
-2024-09-28T18:39:28.390Z,38.820499420166,-122.81616973877,3.0699999332428,0.28,md,12,112,0.005571,0.02,nc,nc75067891,2024-09-28T18:41:08.026Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.99000001,0.15,12,automatic,nc,nc
+2024-09-28T18:39:28.390Z,38.820499420166,-122.81616973877,3.0699999332428,0.28,md,12,112,0.005571,0.02,nc,nc75067891,2024-09-28T19:09:26.954Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.99000001,0.15,12,automatic,nc,nc
 2024-09-28T18:28:29.010Z,38.7806663513184,-122.723831176758,1.75999999046326,0.55,md,7,80,0.0104,0.01,nc,nc75067886,2024-09-28T18:54:25.848Z,"3 km WNW of Anderson Springs, CA",earthquake,0.43,0.839999974,0.23,7,automatic,nc,nc
 2024-09-28T18:04:33.045Z,60.7395,-147.6987,12.7,1.5,ml,,,,0.84,ak,ak024ci4x4mi,2024-09-28T18:07:31.780Z,"53 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-28T18:03:51.210Z,38.8201675415039,-122.815002441406,2.9300000667572,1.07,md,26,56,0.005021,0.02,nc,nc75067876,2024-09-28T18:22:16.631Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.419999987,0.12,27,automatic,nc,nc
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T16:52:40.721Z,-15.4017,-178.7344,10,4.9,mb,61,125,1.239,0.65,us,us7000nh0b,2024-09-28T17:26:18.040Z,"137 km SSW of Leava, Wallis and Futuna",earthquake,4.18,1.852,0.073,59,reviewed,us,us
 2024-09-28T16:37:37.096Z,31.589,-104.546,4.4155,1.5,ml,8,161,0.1,0.1,tx,tx2024tckq,2024-09-28T17:09:37.336Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.44391655921936,0.1,6,automatic,tx,tx
 2024-09-28T16:34:45.429Z,35.53398132,-96.75893402,4.57976532,1.68,ml,15,48.77348328,0.0173853226,0.5404812372,ok,ok2024tckd,2024-09-28T16:43:47.609Z,"8 km NW of Prague, Oklahoma",earthquake,3.012631606,2.335334926,0.2,10,automatic,ok,ok
+2024-09-28T16:27:15.421Z,-39.4403,-72.3236,86.819,4.3,mb,27,90,0.192,0.85,us,us7000nh04,2024-09-28T19:17:14.040Z,"19 km SSW of Villarrica, Chile",earthquake,2.93,5.112,0.106,26,reviewed,us,us
 2024-09-28T16:08:26.000Z,38.5208,-119.5244,6.4,2.4,ml,17,121.75000000000003,0.07,0.1253,nn,nn00885344,2024-09-28T18:19:25.167Z,"4 km W of Walker, California",earthquake,,1.8,0.32,5,reviewed,nn,nn
 2024-09-28T16:05:30.272Z,60.9536,-152.2493,112.8,0.7,ml,,,,0.12,ak,ak024ci3qgwz,2024-09-28T16:06:45.643Z,"59 km WNW of Nikiski, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-09-28T15:52:34.040Z,37.6691665649414,-122.082832336426,3.66000008583069,1.83,md,19,73,0.06205,0.12,nc,nc75067846,2024-09-28T18:29:22.686Z,"3 km S of Castro Valley, CA",earthquake,0.28,0.920000017,0.15,14,automatic,nc,nc
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T12:22:50.410Z,38.8354988098145,-122.879997253418,1.99000000953674,1.26,md,23,65,0.003832,0.02,nc,nc75067776,2024-09-28T15:09:25.302Z,"12 km E of Cloverdale, CA",earthquake,0.25,0.409999996,0.09,22,automatic,nc,nc
 2024-09-28T12:20:01.467Z,36.7248,-116.1498,1.6,-0.1,ml,13,123.31,0.017,0.1262,nn,nn00885332,2024-09-28T14:44:15.369Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.14,4,reviewed,nn,nn
 2024-09-28T12:19:38.580Z,19.1529998779297,-155.479995727539,31.2399997711182,2.48,ml,61,144,0.01708,0.159999996,hv,hv74480747,2024-09-28T12:22:31.740Z,"5 km S of Pāhala, Hawaii",earthquake,0.41,0.540000021,0.43,33,automatic,hv,hv
-2024-09-28T12:18:14.459Z,37.2959,21.2822,17.489,4.7,mb,46,52,0.526,1.05,us,us7000ngz5,2024-09-28T16:52:58.954Z,"31 km WNW of Filiatrá, Greece",earthquake,3.33,4.83,0.104,28,reviewed,us,us
+2024-09-28T12:18:14.459Z,37.2959,21.2822,17.489,4.7,mb,46,52,0.526,1.05,us,us7000ngz5,2024-09-28T19:09:49.555Z,"31 km WNW of Filiatrá, Greece",earthquake,3.33,4.83,0.104,28,reviewed,us,us
 2024-09-28T12:14:10.186Z,39.0734,56.0594,10,4.6,mb,34,125,1.977,1.06,us,us7000ngz3,2024-09-28T13:16:13.040Z,"21 km WNW of Serdar, Turkmenistan",earthquake,5.21,1.93,0.107,26,reviewed,us,us
 2024-09-28T12:12:37.200Z,36.6598320007324,-121.332168579102,2.61999988555908,1.71,md,14,111,0.04891,0.15,nc,nc75067766,2024-09-28T14:34:25.053Z,"15 km SSW of Tres Pinos, CA",earthquake,0.45,1.21000004,0.15,7,automatic,nc,nc
 2024-09-28T12:07:18.561Z,61.1532,-149.9562,44.3,1.1,ml,,,,0.86,ak,ak024ci1d50w,2024-09-28T12:09:07.693Z,"7 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -167,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T22:22:50.326Z,53.8846,158.6995,151.721,4.6,mb,139,89,0.863,0.62,us,us7000ngwt,2024-09-27T22:42:14.040Z,"80 km NNE of Yelizovo, Russia",earthquake,10.03,7.394,0.044,157,reviewed,us,us
 2024-09-27T22:15:52.580Z,60.3731666666667,-153.086833333333,8.71,-0.28,ml,8,205,0.1621,0.1,av,av93288663,2024-09-28T01:12:38.920Z,"70 km ENE of Port Alsworth, Alaska",earthquake,0.6,2.1,0.176432505087394,8,reviewed,av,av
 2024-09-27T22:08:43.678Z,61.7316,-150.61,32,1.5,ml,,,,0.52,ak,ak024cgjse8f,2024-09-27T22:10:34.405Z,"21 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"31 km NNW of Isangel, Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
+2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
 2024-09-27T21:56:45.857Z,-22.9511,-177.0742,153.496,4.9,mb,57,66,2.511,0.94,us,us7000ngwn,2024-09-27T22:15:23.040Z,"268 km SW of Houma, Tonga",earthquake,10.88,7.172,0.042,176,reviewed,us,us
 2024-09-27T21:53:57.073Z,60.7195,-152.6741,13.8,0.4,ml,,,,0.17,ak,ak024cgjgmvv,2024-09-28T00:53:22.620Z,"74 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T21:48:11.280Z,61.313,-152.291666666667,2.55,-0.41,ml,7,145,0.08141,0.09,av,av93288638,2024-09-28T00:43:09.950Z,"67 km WNW of Beluga, Alaska",earthquake,0.32,1.48,0.305261107810443,8,reviewed,av,av
@@ -187,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T19:40:59.626Z,63.1092,-144.2772,0,1.4,ml,,,,0.83,ak,ak024cgi6zka,2024-09-27T19:44:53.001Z,"33 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-27T19:34:35.497Z,62.1855,-148.5229,27,1.4,ml,,,,0.9,ak,ak024cgi5ndu,2024-09-27T19:36:43.850Z,"43 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-27T19:31:14.130Z,33.1426667,-115.6298333,7.13,1.41,ml,30,84,0.03669,0.18,ci,ci40747255,2024-09-27T22:35:36.835Z,"11 km W of Calipatria, CA",earthquake,0.23,0.37,0.292,21,reviewed,ci,ci
-2024-09-27T19:13:19.050Z,33.8181667,-117.4831667,-0.33,1.88,ml,59,43,0.03178,0.26,ci,ci40747231,2024-09-27T23:13:52.951Z,"8 km SSE of Home Gardens, CA",quarry blast,0.24,31.61,0.239,17,reviewed,ci,ci
