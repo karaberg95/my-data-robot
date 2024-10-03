@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-03T11:34:25.838Z,61.6065,-151.3984,79.5,0.9,ml,,,,0.6,ak,ak024cqam8s7,2024-10-03T11:36:10.516Z,"42 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-03T11:30:17.910Z,34.0488333,-117.175,10.05,1.44,ml,81,30,0.05365,0.16,ci,ci40751127,2024-10-03T11:37:07.614Z,"1 km SE of Redlands, CA",earthquake,0.12,0.24,0.132,28,automatic,ci,ci
 2024-10-03T11:18:27.670Z,33.9985,-116.8273333,3.8,0.38,ml,21,113,0.04,0.12,ci,ci40751119,2024-10-03T11:24:15.620Z,"9 km NNE of Banning, CA",earthquake,0.21,0.42,0.165,7,automatic,ci,ci
 2024-10-03T11:13:53.010Z,63.8655,-148.9106,3.2,0.8,ml,,,,0.89,ak,ak024cqahsuh,2024-10-03T11:17:57.719Z,"2 km ENE of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-03T11:10:31.285Z,31.574,-104.56,3.684,2.1,ml,8,165,0.1,0.2,tx,tx2024tlcy,2024-10-03T11:20:13.216Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.46337866783142,0.1,6,automatic,tx,tx
-2024-10-03T11:07:13.230Z,38.8383331298828,-122.797996520996,2.14000010490417,0.72,md,9,73,0.005977,0.01,nc,nc75069876,2024-10-03T11:08:52.997Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.57000005,0.31,9,automatic,nc,nc
+2024-10-03T11:07:13.230Z,38.8383331298828,-122.797996520996,2.14000010490417,0.72,md,9,73,0.005977,0.01,nc,nc75069876,2024-10-03T11:37:16.747Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.57000005,0.31,9,automatic,nc,nc
 2024-10-03T10:51:54.620Z,33.6238333,-116.694,13.91,1.63,ml,82,15,0.048,0.22,ci,ci40751111,2024-10-03T11:02:21.170Z,"8 km NNW of Anza, CA",earthquake,0.15,0.28,0.24,26,automatic,ci,ci
 2024-10-03T10:51:48.600Z,33.6235008,-116.6941681,9.97,0.38,ml,27,39,0.06822,0.25,ci,ci40751103,2024-10-03T10:58:16.573Z,"8 km NNW of Anza, CA",earthquake,0.39,0.91,0.198,9,automatic,ci,ci
 2024-10-03T10:43:14.082Z,-0.9923,148.4357,10,5.4,mb,64,79,1.494,0.63,us,us6000nw94,2024-10-03T11:01:51.328Z,"173 km NE of Lorengau, Papua New Guinea",earthquake,6.12,1.828,0.069,72,reviewed,us,us
