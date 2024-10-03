@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-03T23:33:39.030Z,34.0821648,-117.449501,2.47,1.31,ml,18,118,0.01952,0.15,ci,ci40751559,2024-10-03T23:35:44.603Z,"2 km SSE of Fontana, CA",earthquake,0.47,0.36,0.215,9,automatic,ci,ci
+2024-10-03T23:30:52.880Z,38.8363342285156,-122.817169189453,1.80999994277954,0.41,md,8,164,0.01406,0.02,nc,nc75070071,2024-10-03T23:32:27.114Z,"8 km WNW of Cobb, CA",earthquake,0.52,1.23000002,0.3,8,automatic,nc,nc
 2024-10-03T23:24:38.269Z,63.1999,-151.3263,0,1.4,ml,,,,0.54,ak,ak024cqhpbvf,2024-10-03T23:27:15.273Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T23:18:48.784Z,64.9031,-147.3855,6.7,1.5,ml,,,,0.98,ak,ak024cqho2c4,2024-10-03T23:22:32.389Z,"12 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-03T23:17:06.509Z,68.7538,-145.4003,6,2.1,ml,,,,0.45,ak,ak024cqhnrdm,2024-10-03T23:20:14.403Z,"70 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
