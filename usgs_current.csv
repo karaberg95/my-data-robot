@@ -77,10 +77,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:50:14.290Z,34.0746667,-117.454,3.05,1.54,ml,95,21,0.02788,0.22,ci,ci40751751,2024-10-04T17:37:45.860Z,"3 km S of Fontana, CA",earthquake,0.13,0.2,0.206,26,reviewed,ci,ci
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T10:40:02.040Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T09:14:54.890Z,61.2664,-152.3059,131,2.2,ml,,,,0.64,ak,ak024crwuhzq,2024-10-04T09:18:26.363Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T18:46:56.119Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T18:52:15.351Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
 2024-10-04T09:06:33.000Z,19.1651668548584,-155.40283203125,30.5300006866455,2.01999998,md,53,169,0.05687,0.119999997,hv,hv74487722,2024-10-04T09:08:13.400Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.189999998,21,automatic,hv,hv
 2024-10-04T09:04:36.660Z,35.8906667,-117.6835,9.52,0.19,ml,21,47,0.06312,0.11,ci,ci40751743,2024-10-04T09:15:15.152Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.42,0.133,3,automatic,ci,ci
-2024-10-04T09:03:22.690Z,36.3461667,-118.7571667,-1.15,1.73,ml,20,259,0.4078,0.13,ci,ci40751735,2024-10-04T09:12:56.813Z,"17 km SE of Three Rivers, CA",earthquake,1.78,1.81,0.091,13,automatic,ci,ci
+2024-10-04T09:03:22.010Z,36.397,-118.8086667,4.48,1.73,ml,25,120,0.09842,0.13,ci,ci40751735,2024-10-04T18:55:08.257Z,"10 km ESE of Three Rivers, CA",earthquake,0.22,0.65,0.173,20,reviewed,ci,ci
 2024-10-04T09:00:05.376Z,58.5847,-154.6739,2.6,2.1,ml,,,,0.72,ak,ak024crwre55,2024-10-04T09:02:23.152Z,"95 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-04T08:58:49.536Z,70.7071,-14.7766,10,4.9,mww,41,64,6.479,1.04,us,us6000nwgt,2024-10-04T09:40:55.040Z,"223 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.74,1.914,0.065,23,reviewed,us,us
 2024-10-04T08:53:02.569Z,-5.4677,34.1883,9.822,4.7,mb,34,70,5.286,0.61,us,us6000nwgr,2024-10-04T15:38:02.403Z,"41 km NW of Itigi, Tanzania",earthquake,10.52,3.97,0.11,25,reviewed,us,us
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T19:08:06.970Z,46.0935,-122.11616666666667,9.22,0.3,ml,7,237,0.05408,0.09,uw,uw62043492,2024-10-04T05:36:28.290Z,"32 km NE of Amboy, Washington",earthquake,0.63,0.28,0.20165250558557923,4,reviewed,uw,uw
 2024-10-03T19:05:34.080Z,46.5983333333333,-112.896833333333,6.65,1.88,ml,25,49,0.2879,0.14,mb,mb90062993,2024-10-04T14:22:19.150Z,"10 km NW of Garrison, Montana",earthquake,0.4,1.92,0.275318524280471,19,reviewed,mb,mb
 2024-10-03T19:03:02.912Z,31.635,-104.504,7.2278,2,ml,19,113,0,0.1,tx,tx2024tlso,2024-10-04T18:25:37.624Z,"61 km SSW of Whites City, New Mexico",earthquake,1.0870554438343214,0.745356115743365,0.1,6,reviewed,tx,tx
-2024-10-03T18:56:34.130Z,17.9658333333333,-67.1016666666667,13.19,2.54,md,3,264,0.04105,0.04,pr,pr71461673,2024-10-03T19:09:54.880Z,"5 km W of La Parguera, Puerto Rico",earthquake,1.57,0.37,0.0451232822640768,3,reviewed,pr,pr
