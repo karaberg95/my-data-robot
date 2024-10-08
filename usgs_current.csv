@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1970-01-01T00:00:02.-2147483648Z,34.0571671,-118.8099976,9.67,2.33,ml,66,90,0.0306,0.29,ci,ci40754607,1970-01-01T00:00:02.-2147483648Z,"6 km N of Malibu, CA",earthquake,0.33,0.55,0.196,25,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,35.9826667,-117.845,3.73,0.92,ml,19,59,0.03992,0.13,ci,ci40754623,1970-01-01T00:00:02.-2147483648Z,"8 km NE of Little Lake, CA",earthquake,0.17,0.36,0.259,12,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,34.0516667,-118.8075,10.88,2.36,ml,80,98,0.02677,0.25,ci,ci40754607,1970-01-01T00:00:02.-2147483648Z,"5 km N of Malibu, CA",earthquake,0.21,0.31,0.157,26,automatic,ci,ci
 1970-01-01T00:00:02.-2147483648Z,61.8498,-150.4281,38.9,1.8,ml,,,,0.29,ak,ak024cymk0us,1970-01-01T00:00:02.-2147483648Z,"23 km WNW of Willow, Alaska",earthquake,,2.8,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,69.3159,-144.7034,1.6,2.1,ml,,,,0.64,ak,ak024cymjf5e,1970-01-01T00:00:02.-2147483648Z,"100 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,32.7876667,-116.0043333,10.02,0.87,ml,16,73,0.04195,0.2,ci,ci40754599,1970-01-01T00:00:02.-2147483648Z,"6 km N of Ocotillo, CA",earthquake,0.35,0.56,0.2,7,automatic,ci,ci
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,41.915166666666664,-119.62533333333333,3.47,1.05,md,4,241,0.506,0.3,uw,uw61503408,1970-01-01T00:00:02.-2147483648Z,"44 km E of Fort Bidwell, California",earthquake,2.78,31.61,,1,reviewed,uw,uw
 1970-01-01T00:00:02.-2147483648Z,19.1555004119873,-155.503173828125,31.7900009155273,2.19000006,md,36,132,0.03882,0.189999998,hv,hv74491442,1970-01-01T00:00:02.-2147483648Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.75,0.920000017,0.360000014,3,automatic,hv,hv
 1970-01-01T00:00:02.-2147483648Z,40.2458343505859,-124.529998779297,16.8799991607666,2.57,md,11,290,0.1496,0.07,nc,nc75071666,1970-01-01T00:00:02.-2147483648Z,"23 km WSW of Petrolia, CA",earthquake,1.82,0.879999995,0.12,7,automatic,nc,nc
-1970-01-01T00:00:02.-2147483648Z,61.3208,-146.9772,20,1,ml,,,,0.28,ak,ak024cwz56sf,1970-01-01T00:00:02.-2147483648Z,"39 km WNW of Valdez, Alaska",earthquake,,2.5,,,reviewed,ak,ak
