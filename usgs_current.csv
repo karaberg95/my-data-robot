@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T21:41:50.860Z,38.82500076294,-122.80716705322,2.539999961853,0.84,md,11,102,0.00278,0.01,nc,nc75073251,2024-10-11T21:43:27.055Z,"7 km NNW of The Geysers, CA",earthquake,0.4,0.819999993,0.25,13,automatic,nc,nc
 2024-10-11T21:02:59.566Z,43.0938,-126.6366,10,3.1,ml,72,223,1.673,0.82,us,us6000ny6j,2024-10-11T21:29:04.040Z,"178 km WNW of Port Orford, Oregon",earthquake,8.54,2.014,0.036,104,reviewed,us,us
 2024-10-11T20:49:17.330Z,38.790500640869,-122.75949859619,0.75999999046326,1.32,md,19,79,0.01011,0.04,nc,nc75073226,2024-10-11T21:22:14.954Z,"1 km N of The Geysers, CA",earthquake,0.23,0.519999981,0.16,20,automatic,nc,nc
 2024-10-11T20:43:06.400Z,38.825500488281,-122.85250091553,2.3699998855591,0.45,md,7,166,0.003979,0.01,nc,nc75073221,2024-10-11T21:09:29.870Z,"10 km NW of The Geysers, CA",earthquake,0.7,1.28999996,0.33,10,automatic,nc,nc
@@ -69,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T12:05:15.910Z,35.8853333,-117.5948333,2.06,1.3,ml,31,88,0.05057,0.16,ci,ci40951824,2024-10-11T19:52:04.180Z,"22 km NW of Searles Valley, CA",earthquake,0.17,0.23,0.172,18,reviewed,ci,ci
 2024-10-11T11:59:27.750Z,38.3475,-122.62433333333,7.88,0.97,md,22,57,0.03651,0.07,nc,nc75073051,2024-10-11T18:08:17.663Z,"6 km NE of Penngrove, CA",earthquake,0.24,0.66,0.184,17,reviewed,nc,nc
 2024-10-11T11:57:34.622Z,36.6236,-117.0571,8.9,0.5,ml,9,257.89,0.12,0.0899,nn,nn00885850,2024-10-11T13:35:56.012Z,"26 km NW of Furnace Creek, California",earthquake,,3,0.41,6,reviewed,nn,nn
+2024-10-11T11:56:47.780Z,46.289166666667,-122.17133333333,0.3,0.26,ml,5,228,0.05055,0.04,uw,uw61503433,2024-10-11T21:42:57.200Z,"30 km SSE of Morton, Washington",earthquake,0.66,1.85,0.24321359089745,4,reviewed,uw,uw
 2024-10-11T11:51:55.960Z,19.136667251587,-155.46916198731,31.389999389648,1.89999998,md,38,173,0.121,0.129999995,hv,hv74496501,2024-10-11T11:53:38.190Z,"7 km S of Pāhala, Hawaii",earthquake,0.68,0.569999993,0.159999996,4,automatic,hv,hv
 2024-10-11T11:41:47.270Z,36.6074982,-117.1123352,1.44,3.4,ml,27,144,0.4381,0.15,ci,ci40951816,2024-10-11T20:59:51.868Z,"3 km E of Stovepipe Wells, CA",earthquake,0.55,1.21,0.225,25,automatic,ci,ci
 2024-10-11T11:20:10.246Z,62.4166,-150.4524,61.9,1.8,ml,,,,0.49,ak,ak024d3itzi8,2024-10-11T11:22:06.765Z,"15 km NW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -173,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T01:20:33.986Z,60.4214,-152.624,11.9,1.4,ml,,,,0.54,ak,ak024d3cvpae,2024-10-11T01:22:31.559Z,"67 km NW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T01:14:11.060Z,17.977,-66.83,13.09,2.57,md,8,191,0.03675,0.11,pr,pr71462308,2024-10-11T01:33:33.920Z,"2 km SSW of Indios, Puerto Rico",earthquake,1.03,0.56,0.075292786432463,4,reviewed,pr,pr
 2024-10-11T01:08:54.697Z,69.3429,-144.7737,5,3.3,ml,,,,0.63,ak,ak024d3ct6bp,2024-10-11T01:35:44.516Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0,,,reviewed,ak,ak
-2024-10-11T01:04:38.570Z,61.298833333333,-152.35433333333,1.55,-0.5,ml,9,137,0.0408,0.22,av,av93308873,2024-10-11T21:36:12.840Z,"70 km WNW of Tyonek, Alaska",earthquake,0.57,2.31,0.20231382890156,9,reviewed,av,av
+2024-10-11T01:04:38.570Z,61.296,-152.35716666667,1.57,-0.5,ml,9,135,0.03774,0.21,av,av93308873,2024-10-11T21:40:10.930Z,"70 km WNW of Tyonek, Alaska",earthquake,0.52,1.95,0.20231382890156,9,reviewed,av,av
 2024-10-11T01:03:34.490Z,61.332166666667,-152.2715,0.93,-0.38,ml,10,131,0.0874,0.14,av,av93308868,2024-10-11T21:30:55.630Z,"67 km WNW of Beluga, Alaska",earthquake,0.3,2.67,0.22188787002375,10,reviewed,av,av
 2024-10-11T00:57:01.530Z,33.4823333,-116.5905,5.72,0.99,ml,58,21,0.01574,0.18,ci,ci40951552,2024-10-11T19:54:13.970Z,"11 km SE of Anza, CA",earthquake,0.14,0.26,0.165,26,reviewed,ci,ci
 2024-10-11T00:56:28.740Z,61.3305,-152.27033333333,0.76,0.93,ml,12,131,0.08576,0.09,av,av93308858,2024-10-11T21:15:05.990Z,"67 km WNW of Beluga, Alaska",earthquake,0.21,1.54,0.18524828912289,13,reviewed,av,av
@@ -206,7 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T22:23:20.912Z,-33.7555,-178.5458,10,4.6,mb,24,165,4.511,1.18,us,us6000nxz4,2024-10-10T23:32:56.040Z,"south of the Kermadec Islands",earthquake,10.09,1.95,0.141,15,reviewed,us,us
 2024-10-10T22:05:05.800Z,34.992,-118.1876667,-0.98,1.18,ml,12,62,0.1178,0.18,ci,ci40951464,2024-10-11T00:19:20.142Z,"7 km S of Mojave, CA",quarry blast,0.49,31.61,0.123,19,reviewed,ci,ci
 2024-10-10T21:55:08.435Z,62.7893,-149.5553,71.9,1.4,ml,,,,0.47,ak,ak024d21ggzf,2024-10-10T21:57:29.141Z,"47 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-10-10T21:45:53.707Z,-23.5535,-69.3492,69.11,4.3,mb,25,72,0.868,0.91,us,us6000nxys,2024-10-10T22:48:31.040Z,"107 km E of Antofagasta, Chile",earthquake,7.61,11.318,0.201,7,reviewed,us,us
-2024-10-10T21:39:44.155Z,61.2117,-151.2089,69.7,2.4,ml,,,,0.47,ak,ak024d21d4ao,2024-10-10T22:36:42.040Z,"10 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-10-10T21:39:30.383Z,31.663,-104.46,5.2283,1.9,ml,20,66,0,0.1,tx,tx2024tysg,2024-10-11T14:57:54.506Z,"57 km S of Whites City, New Mexico",earthquake,0.67158741938037,0.4725168014856,0.2,23,reviewed,tx,tx
-2024-10-10T21:38:48.310Z,17.966,-66.830666666667,13.8,2.73,md,9,202,0.03639,0.08,pr,pr71462298,2024-10-10T21:57:10.450Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.66,0.26,0.14731621635735,5,reviewed,pr,pr
