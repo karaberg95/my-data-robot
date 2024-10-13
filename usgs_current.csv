@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T00:02:42.630Z,35.387,-117.7545,6.44,1.13,ml,35,68,0.1096,0.14,ci,ci40953048,2024-10-13T14:00:40.710Z,"11 km W of Johannesburg, CA",earthquake,0.16,0.5,0.174,17,reviewed,ci,ci
 2024-10-13T00:02:39.510Z,33.6395,-116.6923333,13.31,0.81,ml,29,59,0.03315,0.14,ci,ci40953040,2024-10-13T14:00:09.245Z,"10 km N of Anza, CA",earthquake,0.22,0.37,0.131,17,reviewed,ci,ci
 2024-10-13T00:02:27.520Z,33.6321667,-116.6985,13.93,0.86,ml,44,51,0.04203,0.14,ci,ci40953032,2024-10-13T14:00:24.091Z,"9 km NNW of Anza, CA",earthquake,0.15,0.25,0.144,24,reviewed,ci,ci
-2024-10-12T23:52:40.721Z,57.2922,-152.7802,0,1.9,ml,,,,0.39,ak,ak024d5dpgv6,2024-10-13T00:25:35.800Z,"33 km ENE of Old Harbor, Alaska",earthquake,,0.5,,,reviewed,ak,ak
