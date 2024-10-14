@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-14T14:41:49.201Z,58.1836,-155.3984,6.1,0.9,ml,,,,1.3,ak,ak024d8jcwug,2024-10-14T14:43:18.792Z,"88 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-14T14:39:59.560Z,35.487999,-118.2874985,2.59,1.93,ml,36,45,0.1295,0.13,ci,ci40954064,2024-10-14T14:42:08.007Z,"22 km ESE of Bodfish, CA",earthquake,0.23,0.95,0.233,28,automatic,ci,ci
 2024-10-14T14:28:37.890Z,38.839832305908,-122.81083679199,1.8999999761581,1.03,md,18,56,0.01607,0.02,nc,nc75074176,2024-10-14T14:30:16.232Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.540000021,0.31,20,automatic,nc,nc
 2024-10-14T13:46:17.960Z,32.562,-116.7331667,17.94,1.3,ml,30,86,0.1285,0.17,ci,ci40954040,2024-10-14T13:52:35.433Z,"9 km W of Tecate, B.C., MX",earthquake,0.27,0.42,0.18,20,automatic,ci,ci
 2024-10-14T13:30:09.151Z,40.7332,83.9154,12.003,4.1,mb,21,111,4.495,0.61,us,us6000nykt,2024-10-14T14:19:56.040Z,"136 km SE of Kuqa, China",earthquake,10.68,6.617,0.197,9,reviewed,us,us
@@ -169,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T16:32:01.265Z,63.1109,-150.9371,123.5,1.9,ml,,,,0.36,ak,ak024d6wyef2,2024-10-13T16:34:39.545Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-13T16:26:22.140Z,36.0438333,-117.8628333,2.17,0.81,ml,20,60,0.04239,0.16,ci,ci40953600,2024-10-14T13:17:21.704Z,"8 km E of Coso Junction, CA",earthquake,0.18,0.23,0.148,7,reviewed,ci,ci
 2024-10-13T16:23:26.130Z,19.288833618164,-155.37232971191,29.729999542236,1.72,ml,54,112,0.04608,0.159999996,hv,hv74498621,2024-10-13T16:26:19.770Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.479999989,0.1,4,automatic,hv,hv
+2024-10-13T16:17:36.261Z,-59.2495,149.3445,10,5,mww,20,117,7.091,0.52,us,us6000nygc,2024-10-14T14:43:33.040Z,"west of Macquarie Island",earthquake,12.91,1.349,0.08,15,reviewed,us,us
 2024-10-13T16:03:03.270Z,33.9393333,-116.7101667,12.75,1.18,ml,60,67,0.1116,0.17,ci,ci40953584,2024-10-14T13:19:13.380Z,"8 km ENE of Cabazon, CA",earthquake,0.15,0.43,0.194,27,reviewed,ci,ci
 2024-10-13T16:02:39.217Z,64.6581,-146.7937,18.5,1.1,ml,,,,0.18,ak,ak024d6ws1v5,2024-10-13T16:04:11.607Z,"12 km E of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-13T15:57:31.293Z,61.118,-152.1262,25.9,1.4,ml,,,,1.02,ak,ak024d6wie15,2024-10-14T00:37:14.480Z,"53 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -185,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T14:53:07.700Z,38.830501556396,-122.7936630249,1.4700000286102,1.93,md,38,36,0.008311,0.03,nc,nc75073866,2024-10-13T14:56:20.830Z,"6 km WNW of Cobb, CA",earthquake,0.15,0.230000004,0.14,37,automatic,nc,nc
 2024-10-13T14:49:37.930Z,34.282333333333,-82.093166666667,0.04,2.21,md,15,94,0.1461,0.28,se,se60502548,2024-10-13T19:39:24.775Z,"2 km N of Coronaca, South Carolina",earthquake,0.5,1.99,0.10231399170566,12,reviewed,se,se
 2024-10-13T14:48:03.701Z,61.8526,-151.0123,8.4,1.1,ml,,,,0.38,ak,ak024d6vuuk2,2024-10-13T15:29:50.159Z,"25 km SE of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2024-10-13T14:42:01.450Z,35.2036667,-119.0108333,14.11,1.55,ml,33,37,0.1566,0.28,ci,ci40953568,2024-10-13T14:48:35.721Z,"11 km SW of Lamont, CA",earthquake,0.4,0.91,0.104,25,automatic,ci,ci
-2024-10-13T14:40:08.258Z,63.1112,-151.527,0,2.2,ml,,,,0.93,ak,ak024d6vt9h5,2024-10-13T14:42:15.950Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
