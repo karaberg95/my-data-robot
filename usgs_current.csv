@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T16:53:04.580Z,37.082166666667,-121.50766666667,10.59,0.8,md,17,49,0.04818,0.1,nc,nc75074221,2024-10-14T17:39:52.137Z,"9 km ESE of San Martin, CA",earthquake,0.45,0.75,0.271,15,reviewed,nc,nc
 2024-10-14T16:52:06.260Z,38.516998291016,-122.62550354004,1.1000000238419,1.26,md,9,113,0.08739,0.14,nc,nc75074216,2024-10-14T17:19:28.313Z,"8 km SW of Calistoga, CA",earthquake,0.73,11.2600002,0.19,6,automatic,nc,nc
 2024-10-14T16:42:35.730Z,38.788501739502,-122.76999664307,0.94999998807907,1.03,md,16,83,0.01453,0.03,nc,nc75074211,2024-10-14T17:09:30.241Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.5,0.28,15,automatic,nc,nc
-2024-10-14T16:24:28.212Z,19.1412,-70.183,31.348,4.3,mwr,116,91,0.715,0.55,us,us6000nymm,2024-10-14T17:35:11.460Z,"6 km SSE of Las Guáranas, Dominican Republic",earthquake,5.34,5.195,0.052,36,reviewed,us,us
+2024-10-14T16:24:28.212Z,19.1412,-70.183,31.348,4.3,mwr,116,91,0.715,0.55,us,us6000nymm,2024-10-14T17:51:09.280Z,"6 km SSE of Las Guáranas, Dominican Republic",earthquake,5.34,5.195,0.052,36,reviewed,us,us
 2024-10-14T16:20:05.820Z,38.792499542236,-122.77833557129,1.7599999904633,1.09,md,19,79,0.007519,0.03,nc,nc75074206,2024-10-14T16:49:27.095Z,"3 km NW of The Geysers, CA",earthquake,0.25,0.409999996,0.15,19,automatic,nc,nc
 2024-10-14T16:15:52.524Z,64.4844,-146.9082,0.3,1.3,ml,,,,0.54,ak,ak024d8ke7p0,2024-10-14T16:17:49.185Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-14T16:14:26.692Z,36.2101,-115.4766,0,1.2,ml,8,229.84,0.692,0.3975,nn,nn00886023,2024-10-14T16:18:26.029Z,"15 km ESE of Mount Charleston, Nevada",earthquake,,52.6,0.33,5,automatic,nn,nn
@@ -75,6 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T07:24:04.298Z,36.6611,71.238,217.104,4.1,mb,32,147,2.176,0.3,us,us6000nyj9,2024-10-14T13:39:40.040Z,"26 km W of Ashkāsham, Afghanistan",earthquake,9.66,9.494,0.198,7,reviewed,us,us
 2024-10-14T07:16:58.640Z,35.8778333,-117.6825,9.22,0.45,ml,22,44,0.07462,0.11,ci,ci40953912,2024-10-14T13:13:45.860Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.36,0.26,4,reviewed,ci,ci
 2024-10-14T07:04:39.598Z,61.4226,-149.3158,22,1.3,ml,,,,0.64,ak,ak024d8eyxdj,2024-10-14T07:06:56.010Z,"17 km SSW of Gateway, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-14T07:04:37.100Z,46.203666666667,-122.18833333333,0.03,-0.33,ml,11,109,0.003987,0.16,uw,uw62054136,2024-10-14T17:48:50.640Z,"38 km NNE of Amboy, Washington",earthquake,0.26,0.32,0.22798585761113,4,reviewed,uw,uw
 2024-10-14T07:02:52.430Z,34.158,-116.8756667,5.9,1.03,ml,59,65,0.08141,0.14,ci,ci40953904,2024-10-14T13:15:47.190Z,"10 km SSE of Big Bear Lake, CA",earthquake,0.15,0.38,0.192,26,reviewed,ci,ci
 2024-10-14T07:02:47.293Z,25.7736,96.5117,10,4.3,mb,34,105,4.777,0.54,us,us6000nyj8,2024-10-14T08:19:43.040Z,"56 km SSW of Sarupathar, India",earthquake,11.32,1.94,0.107,25,reviewed,us,us
 2024-10-14T06:52:43.440Z,35.9401667,-117.6821667,4.98,1.25,ml,28,61,0.02692,0.14,ci,ci40953896,2024-10-14T13:14:20.986Z,"20 km E of Little Lake, CA",earthquake,0.17,0.46,0.176,18,reviewed,ci,ci
@@ -187,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T18:13:08.910Z,52.799333333333,-169.91233333333,9.02,1.67,ml,4,143,0.01113,0.04,av,av93023859,2024-10-13T18:55:58.500Z,"72 km WSW of Nikolski, Alaska",earthquake,0.89,0.61,0.1880521617335,5,reviewed,av,av
 2024-10-13T18:12:53.450Z,52.7975,-169.9065,8.39,1.85,ml,5,158,0.01364,0.06,av,av93315758,2024-10-13T18:52:56.510Z,"72 km WSW of Nikolski, Alaska",earthquake,0.84,0.56,0.17508128721081,5,reviewed,av,av
 2024-10-13T18:04:30.840Z,53.4585,-168.01066666667,1.01,1.09,ml,4,287,0.05498,0.09,av,av93315748,2024-10-14T00:46:42.900Z,"81 km NE of Nikolski, Alaska",earthquake,1.21,31.61,0.29037967236461,4,reviewed,av,av
-2024-10-13T17:55:20.000Z,64.5186,-149.4564,5.1,1.9,ml,,,,0.89,ak,ak024d6xosxs,2024-10-13T17:58:08.287Z,"18 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-13T17:53:29.367Z,38.8938,-119.6921,0,1.2,ml,10,219.7,0.208,0.1894,nn,nn00885965,2024-10-13T17:55:49.292Z,"4 km E of Gardnerville Ranchos, Nevada",earthquake,,11.8,0.26,6,automatic,nn,nn
