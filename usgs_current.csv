@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T10:07:13.990Z,33.8416667,-116.1826667,8.01,1.03,ml,45,78,0.05523,0.12,ci,ci40953944,2024-10-14T21:16:45.458Z,"14 km NNE of Indio, CA",earthquake,0.16,0.53,0.121,25,reviewed,ci,ci
 2024-10-14T10:00:13.928Z,36.6098,-117.0759,7.5,0.8,ml,9,261.61,0.313,0.1311,nn,nn00886017,2024-10-14T20:49:52.164Z,"26 km NW of Furnace Creek, California",earthquake,,7.9,0.52,4,reviewed,nn,nn
 2024-10-14T09:55:15.870Z,51.865333333333,-177.8725,4.34,0.87,ml,4,253,0.07767,0.08,av,av93316513,2024-10-14T23:31:18.810Z,"85 km W of Adak, Alaska",earthquake,0.66,2.7,0.40050304574819,4,reviewed,av,av
-2024-10-14T09:42:56.469Z,59.2625,-154.7383,4.6,2,ml,,,,0.38,ak,ak024d8gdz3i,2024-10-14T09:44:42.388Z,"19 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-14T09:42:37.012Z,36.9279,-118.2801,7.8,1.2,ml,5,231.24,0.133,0.2262,nn,nn00886015,2024-10-14T19:39:23.670Z,"15 km NNW of Independence, California",earthquake,,7.7,0.02,2,reviewed,nn,nn
