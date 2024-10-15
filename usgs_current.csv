@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T03:08:27.739Z,62.9173,-151.101,107,1.7,ml,,,,0.34,ak,ak024da05ded,2024-10-15T03:10:21.842Z,"49 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-15T02:37:19.770Z,35.8986667,-117.6928333,3.94,0.92,ml,26,41,0.06001,0.14,ci,ci40954336,2024-10-15T14:00:59.102Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.4,0.173,12,reviewed,ci,ci
 2024-10-15T02:13:34.467Z,59.9017,-152.2066,89.7,1.5,ml,,,,0.13,ak,ak024d9zl0w6,2024-10-15T02:24:38.957Z,"25 km WNW of Anchor Point, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-15T02:11:31.543Z,52.1301,-169.3975,41.8,3,ml,,,,0.68,ak,ak024d9zklc7,2024-10-15T15:35:55.116Z,"97 km SSW of Nikolski, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2024-10-15T02:08:10.310Z,38.819000244141,-122.74299621582,1,1.08,md,15,142,0.02252,0.02,nc,nc75074361,2024-10-15T02:47:19.399Z,"2 km W of Cobb, CA",earthquake,0.38,0.469999999,0.14,17,automatic,nc,nc
 2024-10-15T02:05:36.397Z,57.63,-155.6245,86.4,1.7,ml,,,,0.15,ak,ak024d9zjbbb,2024-10-15T02:08:06.238Z,"70 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-15T01:50:18.780Z,38.825164794922,-122.78700256348,0.85000002384186,0.88,md,13,71,0.01287,0.03,nc,nc75074356,2024-10-15T04:14:30.003Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.709999979,0.18,15,automatic,nc,nc
