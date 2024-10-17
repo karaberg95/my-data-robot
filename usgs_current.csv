@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T16:44:02.100Z,44.927,-124.79233333333,85.92,2.38,ml,15,173,0.4335,0.38,uw,uw62054911,2024-10-17T17:04:59.870Z,"59 km WNW of Depoe Bay, Oregon",earthquake,3.29,6.75,0.29616398270365,3,reviewed,uw,uw
 2024-10-17T16:38:14.800Z,62.5086,-149.7747,8.6,1.4,ml,,,,0.78,ak,ak024ddj53qg,2024-10-17T16:40:10.220Z,"18 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-17T16:37:14.354Z,56.6363,-154.4724,47.5,3.1,ml,,,,0.78,ak,ak024ddj4vz1,2024-10-17T16:39:57.592Z,"39 km SSW of Akhiok, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-17T16:33:52.966Z,-56.3494,-27.1279,93.774,5,mb,55,85,5.731,0.95,us,us6000nzds,2024-10-17T17:11:22.040Z,"South Sandwich Islands region",earthquake,11.78,6.085,0.079,51,reviewed,us,us
 2024-10-17T16:19:04.970Z,38.821334838867,-122.79816436768,1.7799999713898,1.02,md,18,53,0.009528,0.02,nc,nc75075506,2024-10-17T16:20:40.437Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.469999999,0.2,19,automatic,nc,nc
 2024-10-17T15:39:39.350Z,18.639666666667,-64.951,27.73,2.78,md,11,223,0.2858,0.21,pr,pr71462818,2024-10-17T16:05:55.000Z,"33 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.15,4.11,0.15462279541916,6,reviewed,pr,pr
 2024-10-17T15:33:13.094Z,57.7489,-155.162,87.1,1.7,ml,,,,0.16,ak,ak024ddiilf1,2024-10-17T15:34:57.087Z,"46 km WNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -139,15 +140,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T01:28:44.129Z,-22.3873,-179.4303,580.294,4.8,mb,55,95,4.111,0.96,us,us6000nz84,2024-10-17T01:44:02.040Z,"south of the Fiji Islands",earthquake,13.61,10.864,0.1,31,reviewed,us,us
 2024-10-17T01:17:42.580Z,62.5406,-151.4859,86.9,1.9,ml,,,,0.52,ak,ak024dda35rm,2024-10-17T01:19:46.330Z,"37 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-17T01:01:20.183Z,-31.3191,-176.7166,10,5.2,mww,47,69,2.299,1.32,us,us6000nz7p,2024-10-17T01:55:57.040Z,"Kermadec Islands region",earthquake,9.69,1.875,0.073,18,reviewed,us,us
-2024-10-17T00:47:38.567Z,40.6314,-119.3746,2.4,2.8,ml,7,189.52,0.536,0.18,nn,nn00886135,2024-10-17T16:10:09.758Z,"2 km SW of Gerlach, Nevada",earthquake,,4.5,0.19,3,reviewed,nn,nn
+2024-10-17T00:47:38.567Z,40.6314,-119.3746,2.4,2.8,ml,7,189.52,0.536,0.18,nn,nn00886135,2024-10-17T17:26:08.901Z,"2 km SW of Gerlach, Nevada",earthquake,,4.5,0.19,3,reviewed,nn,nn
 2024-10-17T00:47:21.870Z,62.6643,-149.8626,4.7,3,ml,,,,0.85,ak,ak024dd9o40x,2024-10-17T00:49:20.571Z,"26 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-17T00:29:35.210Z,38.834167480469,-122.81700134277,1.5199999809265,0.28,md,7,147,0.01204,0.05,nc,nc75075251,2024-10-17T00:31:13.193Z,"8 km NNW of The Geysers, CA",earthquake,0.46,0.920000017,0.14,8,automatic,nc,nc
 2024-10-16T23:52:08.723Z,64.9716,-147.2929,0,1.5,ml,,,,1.04,ak,ak024dbzus14,2024-10-16T23:58:19.560Z,"15 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-16T23:47:11.910Z,32.6426667,-115.7083333,8.72,1.66,ml,31,51,0.01661,0.24,ci,ci40955224,2024-10-16T23:58:04.430Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.31,0.55,0.187,31,automatic,ci,ci
+2024-10-16T23:47:11.780Z,32.6478333,-115.7071667,9.63,1.63,ml,31,60,0.01628,0.21,ci,ci40955224,2024-10-17T17:26:51.921Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.3,0.44,0.151,23,reviewed,ci,ci
 2024-10-16T23:46:40.616Z,57.5377,-154.7858,11.1,1.8,ml,,,,0.48,ak,ak024dbztk71,2024-10-16T23:58:05.484Z,"20 km W of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-10-16T23:45:44.696Z,63.58,-150.6584,0,1.5,ml,,,,0.51,ak,ak024dbztcsh,2024-10-16T23:57:57.205Z,"53 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-16T23:45:12.660Z,38.954666137695,-123.23283386231,3.539999961853,1.74,md,12,92,0.03456,0.06,nc,nc75075236,2024-10-16T23:46:46.692Z,"13 km SE of Boonville, CA",earthquake,0.31,0.839999974,0.15,13,automatic,nc,nc
-2024-10-16T23:42:16.720Z,34.5375,-118.51,2.76,1.27,ml,37,32,0.09676,0.21,ci,ci40955216,2024-10-16T23:49:21.758Z,"11 km NNE of Valencia, CA",earthquake,0.18,0.51,0.296,29,automatic,ci,ci
+2024-10-16T23:42:16.730Z,34.537,-118.5091667,4.33,1.19,ml,26,63,0.09718,0.14,ci,ci40955216,2024-10-17T17:14:02.198Z,"11 km NNE of Valencia, CA",earthquake,0.17,0.56,0.171,19,reviewed,ci,ci
 2024-10-16T23:16:18.550Z,19.173833847046,-155.48500061035,30.829999923706,2.16000009,md,25,241,0.02835,0.150000006,hv,hv74501691,2024-10-16T23:18:05.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.86,0.899999976,0.409999996,4,automatic,hv,hv
 2024-10-16T23:03:44.051Z,61.4694,-146.6338,16.1,2.2,ml,,,,0.78,ak,ak024dbzkcnr,2024-10-16T23:56:19.601Z,"40 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-16T22:51:12.641Z,-19.1691,-173.5251,10,5.2,mb,55,75,2.539,1.04,us,us6000nz79,2024-10-16T23:10:34.040Z,"74 km SE of Neiafu, Tonga",earthquake,10.23,1.859,0.065,78,reviewed,us,us
@@ -208,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T17:39:17.739Z,31.491,-103.955,4.9447,1.6,ml,12,92,0.1,0.3,tx,tx2024ujji,2024-10-16T17:44:45.073Z,"24 km NW of Toyah, Texas",earthquake,0,1.6186277866364,0.1,10,automatic,tx,tx
 2024-10-16T17:38:09.150Z,38.822498321533,-122.764503479,1.6799999475479,1.1,md,20,121,0.009013,0.03,nc,nc75075086,2024-10-16T17:39:46.225Z,"4 km WNW of Cobb, CA",earthquake,0.27,0.379999995,0.16,22,automatic,nc,nc
 2024-10-16T17:29:41.760Z,34.9435,-119.0155,18.34,0.94,ml,10,160,0.06626,0.09,ci,ci40955040,2024-10-16T18:04:53.780Z,"8 km W of Grapevine, CA",earthquake,0.43,0.71,0.04,2,reviewed,ci,ci
-2024-10-16T17:20:55.800Z,38.786998748779,-122.77349853516,1.2699999809265,1.07,md,15,94,0.01285,0.02,nc,nc75075076,2024-10-16T17:22:31.390Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.49000001,0.13,15,automatic,nc,nc
-2024-10-16T17:18:46.338Z,31.681,-104.383,6.0999,1.6,ml,25,68,0,0.3,tx,tx2024ujir,2024-10-17T13:37:05.493Z,"54 km S of Whites City, New Mexico",earthquake,0.80158348820058,0.65926762932653,0.2,16,reviewed,tx,tx
-2024-10-16T17:11:00.533Z,-27.8652,-176.1917,10,5.1,mww,74,44,2.055,0.59,us,us6000nz4x,2024-10-16T17:41:51.040Z,"Kermadec Islands region",earthquake,11.11,1.789,0.093,11,reviewed,us,us
