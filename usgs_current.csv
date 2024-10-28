@@ -120,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T08:37:10.810Z,38.810665130615,-122.79733276367,3.2400000095367,1.81,md,33,31,0.003125,0.02,nc,nc75080041,2024-10-28T08:52:16.980Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.15,35,automatic,nc,nc
 2024-10-28T08:35:35.362Z,63.1037,-148.9588,67,1.6,ml,,,,0.66,ak,ak024dvl9urk,2024-10-28T08:37:04.795Z,"32 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-28T08:34:24.110Z,38.812168121338,-122.79350280762,3.6099998950958,2.05,md,42,34,0.004424,0.04,nc,nc75080036,2024-10-28T08:42:14.903Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.300000012,0.14,45,automatic,nc,nc
+2024-10-28T08:20:55.670Z,61.304166666667,-152.21983333333,-3.18,-0.42,ml,9,117,0.04986,0.07,av,av93334368,2024-10-28T23:37:37.380Z,"63 km WNW of Beluga, Alaska",earthquake,0.23,1.11,0.18556360534902,10,reviewed,av,av
 2024-10-28T08:13:02.400Z,38.826999664307,-122.79266357422,1.0499999523163,1.1,md,19,57,0.01154,0.03,nc,nc75080031,2024-10-28T08:32:16.835Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.49000001,0.13,19,automatic,nc,nc
 2024-10-28T08:11:56.757Z,59.5294,-151.7517,41.9,1.6,ml,,,,0.49,ak,ak024dvl4r8b,2024-10-28T08:13:43.221Z,"8 km NW of Seldovia Village, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-28T08:11:43.600Z,43.881166666667,-110.96666666667,11.8,1.47,ml,14,105,0.02057,0.13,mb,mb90064743,2024-10-28T17:12:05.830Z,"15 km NNE of Alta, Wyoming",earthquake,0.35,0.41,0.21671885086986,20,reviewed,mb,mb
@@ -135,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T07:26:16.980Z,33.6845,-117.4378333,8.69,0.66,ml,22,208,0.07102,0.16,ci,ci40966000,2024-10-28T13:37:25.594Z,"10 km WNW of Lakeland Village, CA",earthquake,0.62,0.82,0.239,14,reviewed,ci,ci
 2024-10-28T07:16:34.720Z,38.824333190918,-122.8433303833,1.6100000143051,0.5,md,8,143,0.006597,0.02,nc,nc75080001,2024-10-28T07:32:20.398Z,"9 km NW of The Geysers, CA",earthquake,0.54,0.920000017,0.27,10,automatic,nc,nc
 2024-10-28T07:08:04.790Z,17.967166666667,-67.006333333333,7.65,2.68,md,15,175,0.03613,0.17,pr,pr71463938,2024-10-28T07:18:43.630Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.56,0.25,0.30310613594092,7,reviewed,pr,pr
+2024-10-28T06:57:42.510Z,61.313666666667,-152.25183333333,1.04,-0.7,ml,10,123,0.06725,0.08,av,av93334328,2024-10-28T23:31:34.850Z,"65 km WNW of Beluga, Alaska",earthquake,0.23,0.89,0.16877916857825,10,reviewed,av,av
 2024-10-28T06:43:59.200Z,19.215166666667,-155.10833333333,42.32,2.55,md,41,217,0.07301,0.11,hv,hv74515897,2024-10-28T20:18:57.680Z,"27 km S of Fern Forest, Hawaii",earthquake,0.87,0.59,0.074066182275677,10,reviewed,hv,hv
 2024-10-28T06:36:50.340Z,60.0415,-153.079,0.92,0.03,ml,5,124,0.01768,0.11,av,av93334318,2024-10-28T23:12:25.220Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.38,0.43,0.20553078314891,2,reviewed,av,av
 2024-10-28T06:22:20.649Z,65.2623,-148.999,7.6,1,ml,,,,0.74,ak,ak024dvk0640,2024-10-28T06:24:30.682Z,"20 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -211,8 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T00:12:57.540Z,58.233333333333,-155.21633333333,4.79,-0.51,ml,7,125,0.05156,0.09,av,av93025394,2024-10-28T21:18:22.010Z,"86 km NNW of Karluk, Alaska",earthquake,0.23,0.44,0.15482109526729,7,reviewed,av,av
 2024-10-28T00:04:40.900Z,61.3405,-152.25433333333,0.96,-0.55,ml,10,133,0.08924,0.09,av,av93334023,2024-10-28T21:12:29.390Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,2.63,0.10229978476638,9,reviewed,av,av
 2024-10-27T23:47:39.817Z,58.5403,-153.5815,69.5,1.6,ml,,,,0.18,ak,ak024du6qla5,2024-10-27T23:49:54.157Z,"66 km NW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2024-10-27T23:37:47.210Z,44.5915,-112.64983333333,3.71,0.85,ml,6,111,0.02606,0.06,mb,mb90064713,2024-10-28T15:43:27.210Z,"6 km SW of Lima, Montana",earthquake,0.69,0.45,0.53263593394145,3,reviewed,mb,mb
-2024-10-27T23:36:23.428Z,63.1053,-151.3827,0,2.3,ml,,,,0.73,ak,ak024du6o752,2024-10-27T23:38:31.726Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-10-27T23:34:43.640Z,63.0074,-150.7227,108.3,1.9,ml,,,,0.47,ak,ak024du6nt9o,2024-10-27T23:36:50.442Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-10-27T23:31:57.189Z,63.0901,-151.3517,0,2,ml,,,,0.56,ak,ak024du6n75y,2024-10-27T23:33:43.945Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-27T23:30:38.304Z,63.1181,-151.3541,2.2,2.2,ml,,,,0.76,ak,ak024du6mxzq,2024-10-27T23:32:46.895Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
