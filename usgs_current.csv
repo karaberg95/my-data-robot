@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-28T09:57:00.174Z,62.4002,-151.7513,91.9,2.6,ml,,,,0.41,ak,ak024dvlzxei,2024-10-28T09:58:57.030Z,"49 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-28T09:38:14.074Z,61.408,-150.6908,35.8,1.5,ml,,,,0.27,ak,ak024dvlvvvj,2024-10-28T09:39:54.450Z,"17 km SSW of Susitna, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-28T09:27:34.580Z,18.187,-67.9743,108,3.91,md,23,192,0.5221,0.3,pr,pr2024302001,2024-10-28T09:56:42.758Z,"63 km SE of Punta Cana, Dominican Republic",earthquake,2.43,1.36,0.11,16,reviewed,pr,pr
 2024-10-28T09:26:54.420Z,33.0126667,-117.9896667,2.43,1.97,ml,20,211,0.4315,0.34,ci,ci40966040,2024-10-28T09:41:22.147Z,"40 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.98,2.37,0.139,32,automatic,ci,ci
 2024-10-28T09:25:40.076Z,61.3925,-150.0746,33,2.4,ml,,,,0.29,ak,ak024dvlt5kn,2024-10-28T09:27:08.064Z,"6 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-28T09:23:09.519Z,60.9621,-151.5645,66,1.7,ml,,,,0.5,ak,ak024dvlsns7,2024-10-28T09:24:38.091Z,"25 km WSW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -203,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T10:15:51.408Z,62.9668,-148.7237,64.1,1.9,ml,,,,0.69,ak,ak024dtyt4ec,2024-10-27T10:17:27.443Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-27T10:08:29.471Z,36.5952,-117.1326,15.9,1.1,ml,10,270.08,0.393,0.2614,nn,nn00886892,2024-10-27T10:10:46.874Z,"29 km WNW of Furnace Creek, California",earthquake,,1.1,0.48,7,automatic,nn,nn
 2024-10-27T09:59:09.085Z,36.5651,-117.1301,5.6,1.2,ml,20,271.39,0.353,0.2035,nn,nn00886890,2024-10-27T10:01:28.765Z,"28 km WNW of Furnace Creek, California",earthquake,,2.6,0.33,10,automatic,nn,nn
-2024-10-27T09:53:04.950Z,38.823165893555,-122.80766296387,2.8499999046326,0.27,md,6,95,0.01799,0.01,nc,nc75079586,2024-10-27T10:17:19.358Z,"7 km NNW of The Geysers, CA",earthquake,0.57,2.86999989,0.09,7,automatic,nc,nc
