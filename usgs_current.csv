@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T21:18:33.801Z,63.7546,-148.9522,15.4,1.3,ml,,,,1.21,ak,ak024dvswuc4,2024-10-28T21:21:04.531Z,"3 km NW of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-28T21:10:47.037Z,56.9211,-158.0714,1.1,1.2,ml,,,,0.95,ak,ak024dvsv5lz,2024-10-28T21:12:51.647Z,"72 km NNE of Chignik, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-10-28T21:07:16.215Z,31.611,-104.521,7.3303,1.7,ml,31,71,0.1,0.2,tx,tx2024vfok,2024-10-29T12:41:46.092Z,"64 km SSW of Whites City, New Mexico",earthquake,0.74625791316117,0.69407479887964,0.1,25,reviewed,tx,tx
-2024-10-28T20:49:40.252Z,-14.292,167.3495,153.3,4.5,mb,37,161,6.876,0.65,us,us7000nnpf,2024-10-28T21:06:12.040Z,"50 km SSW of Sola, Vanuatu",earthquake,13.48,8.474,0.099,30,reviewed,us,us
