@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-03T03:44:03.250Z,36.084167480469,-89.797500610352,11.630000114441,3.6500001,md,41,64,,0.140000001,nm,nm60593441,2024-11-03T03:55:12.040Z,"2 km E of Steele, Missouri",earthquake,0.28,0.720000029,1.05999994,45,reviewed,nm,nm
-2024-11-03T03:43:55.040Z,38.79349899292,-122.80750274658,3.25,0.77,md,13,87,0.006219,0.02,nc,nc75082451,2024-11-03T03:45:33.555Z,"5 km WNW of The Geysers, CA",earthquake,0.39,0.810000002,0.15,14,automatic,nc,nc
+2024-11-03T04:06:33.921Z,61.5549,-149.8505,39,1.8,ml,,,,0.4,ak,ak024e5fxzfk,2024-11-03T04:08:41.356Z,"6 km NE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-11-03T04:00:21.370Z,62.1216,-148.5355,33.9,1.7,ml,,,,0.35,ak,ak024e5fwo61,2024-11-03T04:01:52.545Z,"36 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-11-03T03:44:03.270Z,36.081833333333,-89.796166666667,10.51,3.69,md,51,40,,0.16,nm,nm60593441,2024-11-03T04:13:45.641Z,"2 km E of Steele, Missouri",earthquake,0.26,0.42,0.16942572296121,48,reviewed,nm,nm
+2024-11-03T03:43:55.040Z,38.79349899292,-122.80750274658,3.25,0.77,md,13,87,0.006219,0.02,nc,nc75082451,2024-11-03T04:09:30.058Z,"5 km WNW of The Geysers, CA",earthquake,0.39,0.810000002,0.15,14,automatic,nc,nc
 2024-11-03T03:38:23.983Z,59.8971,-151.5845,65.3,1.9,ml,,,,0.29,ak,ak024e5fjdz2,2024-11-03T03:40:12.453Z,"9 km N of Nikolaevsk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-03T03:38:22.608Z,63.1727,-150.2474,6.8,1.7,ml,,,,0.57,ak,ak024e5fjdv8,2024-11-03T03:40:15.487Z,"69 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-03T03:21:23.490Z,35.8615,-117.6705,8.56,0.55,ml,16,90,0.07485,0.11,ci,ci40786735,2024-11-03T03:26:58.193Z,"23 km ESE of Little Lake, CA",earthquake,0.18,0.47,0.202,3,automatic,ci,ci
@@ -31,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T00:33:50.333Z,18.7742,-155.1335,10,4,ml,25,281,0.49,0.42,us,us7000npm3,2024-11-03T02:37:09.591Z,"57 km SE of Naalehu, Hawaii",earthquake,2.61,1.988,0.052,48,reviewed,us,us
 2024-11-03T00:31:11.890Z,62.861,-149.6075,85,1.8,ml,,,,0.18,ak,ak024e5dpk7p,2024-11-03T00:33:02.923Z,"52 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-03T00:11:51.780Z,18.92200088501,-155.15032958984,6.0999999046326,2.69,ml,40,275,0.3642,0.209999993,hv,hv74520717,2024-11-03T00:19:10.040Z,"46 km SE of Pāhala, Hawaii",earthquake,0.65,0.850000024,0.23,13,automatic,hv,hv
+2024-11-03T00:09:47.990Z,51.921,-178.73833333333,12,1.56,ml,5,249,0.1063,0.08,av,av93342078,2024-11-03T04:14:15.000Z,"144 km W of Adak, Alaska",earthquake,1.18,1.88,0.28122414608856,7,reviewed,av,av
 2024-11-03T00:01:37.510Z,33.5215,-116.5073333,13.94,0.77,ml,26,56,0.04099,0.14,ci,ci40786567,2024-11-03T00:07:56.825Z,"16 km ESE of Anza, CA",earthquake,0.22,0.39,0.177,18,automatic,ci,ci
 2024-11-02T23:59:45.920Z,18.863500595093,-155.18899536133,11.470000267029,3.18,ml,51,257,0.3887,0.200000003,hv,hv74520712,2024-11-03T00:05:53.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.81,1.01999998,0.4,38,automatic,hv,hv
 2024-11-02T23:57:02.480Z,32.898,-116.3655,3.07,1.09,ml,16,256,0.4813,0.36,ci,ci40786559,2024-11-03T00:02:50.796Z,"18 km ENE of Pine Valley, CA",earthquake,5.36,24.16,0.293,9,automatic,ci,ci
