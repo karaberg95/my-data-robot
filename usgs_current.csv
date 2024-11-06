@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-06T14:15:52.852Z,31.584,-104.566,3.3758,1.5,ml,8,169,0.1,0.1,tx,tx2024vvmg,2024-11-06T14:32:44.301Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.9617035388947,0.1,6,automatic,tx,tx
 2024-11-06T14:11:52.110Z,33.61,-116.8283333,16.68,0.73,ml,5,198,0.08805,0.04,ci,ci40788519,2024-11-06T14:18:10.469Z,"16 km WNW of Anza, CA",earthquake,0.6,0.66,0.285,9,automatic,ci,ci
 2024-11-06T14:04:56.060Z,38.067,-112.7355,5.99,1.36,md,9,109,0.4036,0.18,uu,uu80085996,2024-11-06T14:22:33.110Z,"20 km N of Paragonah, Utah",earthquake,0.55,31.61,0.23649098394291,8,reviewed,uu,uu
 2024-11-06T13:55:57.277Z,36.5738,-117.1498,8,2.5,ml,29,229.51,0.205,0.2694,nn,nn00887230,2024-11-06T13:58:40.664Z,"30 km WNW of Furnace Creek, California",earthquake,,0.6,0.25,20,automatic,nn,nn
@@ -131,4 +132,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T15:28:51.323Z,36.8642,-115.9704,6.1,-0.2,ml,13,209.32,0.043,0.1195,nn,nn00887187,2024-11-05T15:58:42.489Z,"42 km NW of Indian Springs, Nevada",earthquake,,1.9,0.11,5,reviewed,nn,nn
 2024-11-05T15:23:13.746Z,59.9493,-151.6632,65.3,2,ml,,,,0.34,ak,ak024e8xo1ou,2024-11-05T15:25:08.995Z,"3 km E of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-11-05T15:11:38.375Z,36.7086,-116.1536,0.8,-0.2,ml,9,302.89,0.024,0.0291,nn,nn00887186,2024-11-05T15:52:33.082Z,"45 km WNW of Indian Springs, Nevada",earthquake,,7.2,0,1,reviewed,nn,nn
-2024-11-05T14:41:56.127Z,37.7478,-117.1298,8.6,1.5,ml,15,117.06,0.336,0.1201,nn,nn00887181,2024-11-05T17:33:36.340Z,"10 km ENE of Goldfield, Nevada",earthquake,,4.9,0.3,6,reviewed,nn,nn
