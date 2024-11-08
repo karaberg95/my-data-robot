@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-08T21:26:07.317Z,36.3226,-115.2166,1.5,1.5,ml,14,283.1,0.689,0.315,nn,nn00887352,2024-11-08T21:28:31.124Z,"16 km NNW of North Las Vegas, Nevada",earthquake,,34.4,0.24,11,automatic,nn,nn
+2024-11-08T21:24:03.520Z,33.1303333,-116.0811667,7.37,1.52,ml,61,28,0.07704,0.2,ci,ci40790231,2024-11-08T21:30:11.499Z,"5 km ESE of Ocotillo Wells, CA",earthquake,0.16,0.52,0.199,25,automatic,ci,ci
 2024-11-08T21:19:45.680Z,33.926,-116.969,15.29,1.04,ml,25,75,0.1694,0.14,ci,ci40790223,2024-11-08T21:25:45.795Z,"1 km ESE of Beaumont, CA",earthquake,0.21,0.74,0.184,23,automatic,ci,ci
 2024-11-08T21:17:47.270Z,32.5475,-115.2478333,18.52,2.02,ml,20,86,0.1365,0.24,ci,ci40790215,2024-11-08T21:24:05.843Z,"10 km E of Puebla, B.C., MX",earthquake,0.64,1.43,0.192,27,automatic,ci,ci
 2024-11-08T21:13:18.342Z,58.7422,-152.6926,49.8,2.9,ml,,,,0.27,ak,ak024edzsjyp,2024-11-08T21:14:43.911Z,"77 km N of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T20:33:57.420Z,37.965333333333,-112.11233333333,12.61,1.59,md,15,74,0.09494,0.18,uu,uu80086186,2024-11-08T20:44:06.890Z,"19 km SSW of Antimony, Utah",earthquake,0.44,0.88,0.20901861202369,13,reviewed,uu,uu
 2024-11-08T20:13:25.978Z,31.576,-104.017,6.1419,2,ml,15,52,0,0.2,tx,tx2024vzox,2024-11-08T20:20:32.807Z,"35 km NW of Toyah, Texas",earthquake,0,2.5955898761749,0.2,13,automatic,tx,tx
 2024-11-08T20:13:01.950Z,33.4483333,-116.4026667,8.29,1.43,ml,66,18,0.1158,0.2,ci,ci40790159,2024-11-08T21:08:58.880Z,"22 km N of Borrego Springs, CA",earthquake,0.14,0.59,0.149,28,reviewed,ci,ci
-2024-11-08T20:06:05.772Z,65.382,-134.6205,12.839,4.9,mww,184,18,1.544,0.6,us,us7000nqqx,2024-11-08T20:47:42.626Z,"272 km ENE of Dawson City, Canada",earthquake,2.32,4.275,0.083,14,reviewed,us,us
+2024-11-08T20:06:05.772Z,65.382,-134.6205,12.839,4.9,mww,184,18,1.544,0.6,us,us7000nqqx,2024-11-08T21:28:05.040Z,"272 km ENE of Dawson City, Canada",earthquake,2.32,4.275,0.083,14,reviewed,us,us
 2024-11-08T20:05:11.796Z,60.4358,-152.4629,101.7,2,ml,,,,0.3,ak,ak024edz5e4z,2024-11-08T20:06:37.806Z,"61 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-08T19:58:45.587Z,52.9089,160.4905,47.414,4.6,mb,81,131,1.119,0.72,us,us7000nqqv,2024-11-08T20:36:54.040Z,"126 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.22,5.546,0.06,89,reviewed,us,us
 2024-11-08T19:53:55.462Z,42.9713,44.158,17.18,4.2,mb,34,74,1.055,0.67,us,us7000nqqt,2024-11-08T21:14:37.458Z,"9 km SSW of Alagir, Russia",earthquake,4.01,5.327,0.141,14,reviewed,us,us
@@ -74,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T11:46:49.298Z,51.1127,-178.1648,15.5,4,ml,,,,1,ak,ak024edu1d44,2024-11-08T16:36:39.641Z,"135 km SW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-11-08T11:46:12.830Z,19.172166824341,-155.48500061035,27.059999465942,2.25,md,17,157,0.1052,0.140000001,hv,hv74525382,2024-11-08T11:47:52.090Z,"3 km S of Pāhala, Hawaii",earthquake,0.83,1.00999999,0.449999988,4,automatic,hv,hv
 2024-11-08T11:38:11.660Z,37.54016494751,-118.87183380127,7.0700001716614,0.56,md,9,175,0.06025,0.02,nc,nc75083921,2024-11-08T11:57:15.952Z,"14 km SSE of Mammoth Lakes, CA",earthquake,0.73,2.5,0.09,8,automatic,nc,nc
-2024-11-08T11:37:57.944Z,-46.786,-76.1693,10,6.2,mww,48,195,2.471,1.06,us,us7000nql2,2024-11-08T16:31:09.618Z,"278 km WNW of Cochrane, Chile",earthquake,7.94,1.928,0.038,68,reviewed,us,us
+2024-11-08T11:37:57.944Z,-46.786,-76.1693,10,6.2,mww,48,195,2.471,1.06,us,us7000nql2,2024-11-08T21:32:07.040Z,"278 km WNW of Cochrane, Chile",earthquake,7.94,1.928,0.038,68,reviewed,us,us
 2024-11-08T11:24:43.760Z,33.4756667,-116.4445,11.31,0.64,ml,40,73,0.109,0.18,ci,ci40789847,2024-11-08T21:10:23.290Z,"23 km ESE of Anza, CA",earthquake,0.19,0.53,0.19,17,reviewed,ci,ci
 2024-11-08T11:21:12.933Z,65.3638,-134.7042,10,4.1,mb,42,61,1.51,0.52,us,us7000nql0,2024-11-08T20:41:26.692Z,"268 km ENE of Dawson City, Canada",earthquake,6.75,1.952,0.127,17,reviewed,us,us
 2024-11-08T11:19:31.320Z,63.283,-150.4687,95.9,2.3,ml,,,,0.67,ak,ak024edtvj8s,2024-11-08T11:21:54.887Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -119,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T05:33:39.280Z,38.822498321533,-122.8065032959,2.4100000858307,1.38,md,28,42,0.002929,0.02,nc,nc75083851,2024-11-08T05:52:15.399Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.349999994,0.14,30,automatic,nc,nc
 2024-11-08T05:19:00.590Z,38.8685,-111.28,2.03,0.84,ml,5,165,0.09777,0.13,uu,uu80086136,2024-11-08T16:09:14.180Z,"6 km SSW of Emery, Utah",earthquake,0.78,31.61,0.0044142582655944,2,reviewed,uu,uu
 2024-11-08T05:17:09.520Z,47.122,-113.44166666667,9.6,1.17,ml,20,60,0.125,0.13,mb,mb90065503,2024-11-08T21:13:29.610Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.33,0.96,0.12415656533633,13,reviewed,mb,mb
-2024-11-08T05:08:43.110Z,36.890167236328,-121.61499786377,5.4400000572205,1.8,md,30,91,0.05535,0.12,nc,nc75083841,2024-11-08T05:37:18.321Z,"2 km E of Aromas, CA",earthquake,0.3,0.660000026,0.2,25,automatic,nc,nc
+2024-11-08T05:08:43.120Z,36.889666666667,-121.61616666667,5.37,1.68,md,48,67,0.02009,0.11,nc,nc75083841,2024-11-08T21:33:10.960Z,"2 km E of Aromas, CA",earthquake,0.18,0.36,0.191,44,reviewed,nc,nc
 2024-11-08T05:07:54.910Z,38.759498596191,-122.7054977417,1.1000000238419,0.77,md,7,161,0.009936,0.03,nc,nc75083836,2024-11-08T05:27:16.267Z,"2 km SW of Anderson Springs, CA",earthquake,0.66,0.409999996,0.15,5,automatic,nc,nc
 2024-11-08T05:00:54.909Z,29.9346,92.3024,10,4.6,mb,42,103,6.516,0.58,us,us7000nqjm,2024-11-08T06:36:09.040Z,"120 km ENE of Lhasa, China",earthquake,10.17,1.873,0.098,31,reviewed,us,us
 2024-11-08T04:50:33.530Z,47.1105,-113.46,8.37,0.9,ml,7,107,0.1334,0.04,mb,mb90065473,2024-11-08T19:16:35.860Z,"7 km SSE of Seeley Lake, Montana",earthquake,0.37,1.15,0.066717945096321,6,reviewed,mb,mb
