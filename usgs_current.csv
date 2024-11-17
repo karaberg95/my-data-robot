@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-17T12:36:52.450Z,33.9356651,-116.0203323,3.79,1.24,ml,25,139,0.06733,0.14,ci,ci40794695,2024-11-17T12:39:16.313Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.4,0.89,0.179,8,automatic,ci,ci
+2024-11-17T12:36:52.490Z,33.9393333,-116.0231667,6.17,1.15,ml,37,52,0.06454,0.13,ci,ci40794695,2024-11-17T12:41:07.355Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.18,0.49,0.163,27,automatic,ci,ci
 2024-11-17T12:32:30.000Z,19.159999847412,-155.48167419434,28.979999542236,2.31999993,md,43,121,0.01905,0.129999995,hv,hv74533527,2024-11-17T12:34:11.230Z,"4 km S of Pāhala, Hawaii",earthquake,0.47,0.519999981,0.230000004,13,automatic,hv,hv
 2024-11-17T12:31:01.230Z,32.9568333,-115.5365,7.62,1.69,ml,32,78,0.05885,0.27,ci,ci40794679,2024-11-17T12:34:56.547Z,"2 km SSW of Brawley, CA",earthquake,0.31,0.71,0.219,30,automatic,ci,ci
 2024-11-17T12:26:18.420Z,34.136,-117.4958333,2.94,1.37,ml,80,21,0.03874,0.21,ci,ci40794671,2024-11-17T12:37:08.460Z,"6 km NW of Fontana, CA",earthquake,0.13,0.24,0.146,27,automatic,ci,ci
-2024-11-17T12:16:30.114Z,29.0709,131.3485,10,6.2,mb,118,32,2.551,0.71,us,us7000nsa3,2024-11-17T12:39:11.404Z,"151 km SSE of Koshima, Japan",earthquake,6.64,1.824,0.028,490,reviewed,us,us
+2024-11-17T12:16:30.114Z,29.0709,131.3485,10,6.2,mb,118,32,2.551,0.71,us,us7000nsa3,2024-11-17T12:58:15.477Z,"151 km SSE of Koshima, Japan",earthquake,6.64,1.824,0.028,490,reviewed,us,us
 2024-11-17T12:08:45.530Z,34.1365,-117.4916667,2.63,1.9,ml,123,15,0.04217,0.22,ci,ci40794655,2024-11-17T12:19:57.210Z,"5 km NW of Fontana, CA",earthquake,0.12,0.22,0.198,25,automatic,ci,ci
 2024-11-17T12:02:30.120Z,38.832332611084,-122.81517028809,1.6200000047684,1.16,md,18,53,0.009772,0.01,nc,nc75087316,2024-11-17T12:17:17.888Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.400000006,0.17,18,automatic,nc,nc
 2024-11-17T11:53:13.060Z,34.0931667,-118.1835,9.89,1.19,ml,37,42,0.0335,0.2,ci,ci40794639,2024-11-17T11:57:10.791Z,"3 km SSE of Highland Park, CA",earthquake,0.26,0.45,0.254,32,automatic,ci,ci
@@ -156,4 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:12:52.490Z,19.248832702637,-155.33200073242,31.040000915527,2.96000004,md,9,278,0.0982,0.109999999,hv,hv74532687,2024-11-16T13:14:39.120Z,"16 km ENE of Pāhala, Hawaii",earthquake,1.99,0.810000002,0.939999998,3,automatic,hv,hv
 2024-11-16T13:10:10.101Z,64.5102,-151.2845,0,1.7,ml,,,,0.99,ak,ak024er3b7b5,2024-11-16T13:13:07.109Z,"62 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-16T13:02:07.873Z,28.952,-98.292,3.7354,3.5,ml,32,62,0.1,0.2,tx,tx2024wnqu,2024-11-17T04:52:30.083Z,"18 km E of Pleasanton, Texas",earthquake,1.0291238222732,2.0339646730923,0.1,19,reviewed,tx,tx
-2024-11-16T12:49:43.740Z,35.667666666667,-89.666166666667,10.98,2.75,md,50,106,0.08832,0.21,nm,nm60593916,2024-11-17T06:15:47.040Z,"8 km W of Henning, Tennessee",earthquake,0.37,0.64,0.040094704513482,29,reviewed,nm,nm
