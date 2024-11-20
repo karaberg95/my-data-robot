@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-20T14:43:02.504Z,31.641,-104.463,3.1427,1.6,ml,17,102,0,0.6,tx,tx2024wvch,2024-11-20T14:51:44.455Z,"59 km S of Whites City, New Mexico",earthquake,0,1.4417688846588,0.1,13,automatic,tx,tx
 2024-11-20T14:28:41.030Z,19.257333755493,-155.45767211914,29.35000038147,2.05999994,md,29,143,0.06018,0.109999999,hv,hv74535717,2024-11-20T14:30:17.430Z,"6 km NNE of Pāhala, Hawaii",earthquake,0.73,0.959999979,0.180000007,8,automatic,hv,hv
-2024-11-20T14:25:07.370Z,31.657,-104.466,4.8016,1.8,ml,6,228,0,0.1,tx,tx2024wvbt,2024-11-20T14:38:46.378Z,"58 km S of Whites City, New Mexico",earthquake,0,2.4619913101196,0.1,6,automatic,tx,tx
+2024-11-20T14:25:06.319Z,31.667,-104.453,8.5557,2.1,ml,8,101,0,0.9,tx,tx2024wvbt,2024-11-20T14:48:27.439Z,"56 km S of Whites City, New Mexico",earthquake,0,3.0087921619415,0.2,6,automatic,tx,tx
 2024-11-20T14:24:45.646Z,31.678,-104.408,6.075,2,ml,6,164,0,0.4,tx,tx2024wvbw,2024-11-20T14:28:39.323Z,"55 km S of Whites City, New Mexico",earthquake,0,6.115385055542,0.4,5,automatic,tx,tx
 2024-11-20T14:04:48.420Z,61.7788,-151.3027,65.4,1.7,ml,,,,0.7,ak,ak024exq0tka,2024-11-20T14:06:41.734Z,"24 km SSE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-20T13:49:06.257Z,64.5074,-146.8615,8.8,1.2,ml,,,,0.35,ak,ak024expoxxd,2024-11-20T13:52:08.549Z,"2 km SE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-19T15:05:48.129Z,31.581,-104.02,6.9073,1.7,ml,16,69,0,0.1,tx,tx2024wthj,2024-11-19T16:16:48.353Z,"36 km NW of Toyah, Texas",earthquake,0.40058917631506,0.41918733593721,0.2,31,reviewed,tx,tx
 2024-11-19T14:56:40.359Z,14.5056,-90.8063,176.531,4.7,mb,83,151,0.3,0.63,us,us7000nsm9,2024-11-19T20:31:34.040Z,"2 km SSW of San Miguel Dueñas, Guatemala",earthquake,7.25,6.183,0.049,128,reviewed,us,us
 2024-11-19T14:54:37.272Z,31.582,-104.021,6.6638,1.6,ml,9,80,0,0.1,tx,tx2024wtgz,2024-11-19T16:21:16.382Z,"36 km NW of Toyah, Texas",earthquake,0.78500907703273,0.76777477459232,0.1,7,reviewed,tx,tx
-2024-11-19T14:52:01.730Z,33.391,-116.4431667,9.78,1.2,ml,59,30,0.09032,0.19,ci,ci40796215,2024-11-19T15:08:15.860Z,"16 km NNW of Borrego Springs, CA",earthquake,0.18,0.42,0.189,26,reviewed,ci,ci
