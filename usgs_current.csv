@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T06:24:02.866Z,39.2241,-120.0832,9.2,0.5,ml,6,133.01,0.037,0.077,nn,nn00887854,2024-11-23T02:04:05.543Z,"0 km SSW of Carnelian Bay, California",earthquake,,2.2,0.42,4,reviewed,nn,nn
 2024-11-22T06:19:48.840Z,37.075164794922,-121.84967041016,10.170000076294,1.09,md,8,188,0.03425,0.06,nc,nc75089021,2024-11-22T06:37:16.198Z,"5 km NNE of Day Valley, CA",earthquake,0.64,1.00999999,0.02,7,automatic,nc,nc
 2024-11-22T06:11:03.530Z,19.5776,-65.19,77,3.6,md,12,283,1.2453,0.55,pr,pr2024327000,2024-11-22T06:43:16.538Z,"139 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,7.98,17.41,0.16,10,reviewed,pr,pr
-2024-11-22T05:53:47.380Z,33.6856667,-116.7891667,16.68,0.76,ml,34,74,0.0675,0.12,ci,ci40798111,2024-11-22T20:32:57.660Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.33,0.127,15,reviewed,ci,ci
