@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-24T11:53:12.540Z,34.0446663,-116.3093338,7.84,1.14,ml,9,83,0.07128,0.05,ci,ci40799175,2024-11-24T11:55:25.991Z,"10 km S of Joshua Tree, CA",earthquake,0.57,1.78,0.324,8,automatic,ci,ci
 2024-11-24T11:39:13.238Z,37.5444,-115.9852,2.5,1.4,ml,19,246.93,0.357,0.4228,nn,nn00887902,2024-11-24T11:41:44.256Z,"24 km WSW of Rachel, Nevada",earthquake,,9.3,0.15,13,automatic,nn,nn
 2024-11-24T11:34:03.862Z,61.4917,-149.7609,32.9,1.3,ml,,,,0.22,ak,ak024f4ak8rm,2024-11-24T11:35:36.798Z,"4 km NNW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-24T11:32:39.708Z,64.4825,-146.9305,5.1,1.4,ml,,,,0.56,ak,ak024f4ajw3m,2024-11-24T11:34:25.591Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
