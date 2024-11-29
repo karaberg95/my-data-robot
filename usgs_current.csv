@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T19:07:16.978Z,62.6333,-152.0855,120.3,2,ml,,,,0.78,ak,ak024fb1bc91,2024-11-28T19:10:25.864Z,"69 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-28T19:05:26.050Z,37.491664886475,-118.38416290283,5.3800001144409,2.67,ml,27,120,0.07171,0.06,nc,nc75092171,2024-11-29T06:24:47.991Z,"12 km NNE of Dixon Lane-Meadow Creek, CA",earthquake,0.98,1.08000004,0.311,17,automatic,nc,nc
 2024-11-28T18:59:48.772Z,60.8747,-146.4375,17.3,1.4,ml,,,,1.08,ak,ak024fb114be,2024-11-28T19:01:58.147Z,"13 km E of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-28T18:57:40.008Z,60.1307,-152.0507,47.1,1.9,ml,,,,0.92,ak,ak024fb10mto,2024-11-28T18:59:55.082Z,"23 km WNW of Ninilchik, Alaska",earthquake,,5.9,,,automatic,ak,ak
