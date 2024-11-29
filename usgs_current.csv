@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-29T16:28:52.635Z,63.3785,-149.6448,8.7,1.4,ml,,,,0.49,ak,ak024fcn6yq7,2024-11-29T16:31:24.543Z,"34 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-11-29T16:13:18.372Z,-7.6456,104.8901,15.601,4.8,mb,32,162,2.742,1.23,us,us7000nuyl,2024-11-29T16:38:36.040Z,"174 km SW of Labuan, Indonesia",earthquake,6.43,5.086,0.113,24,reviewed,us,us
 2024-11-29T16:08:39.400Z,46.851333618164,-121.76166534424,1.5900000333786,0.360000014,md,18,71,,0.0700000003,uw,uw62063111,2024-11-29T16:10:12.470Z,"23 km ENE of Ashford, Washington",earthquake,0.36,0.75999999,,1,automatic,uw,uw
 2024-11-29T16:02:23.730Z,19.337999343872,-155.125,4.3000001907349,1.84,ml,50,113,0.04662,0.239999995,hv,hv74546352,2024-11-29T16:05:15.510Z,"14 km S of Fern Forest, Hawaii",earthquake,0.44,0.920000017,0.84,8,automatic,hv,hv
 2024-11-29T15:53:04.790Z,33.932,-116.7521667,16.35,0.7,ml,27,63,0.1051,0.15,ci,ci40990048,2024-11-29T15:57:02.629Z,"4 km ENE of Cabazon, CA",earthquake,0.23,0.6,0.182,22,automatic,ci,ci
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T17:07:58.710Z,62.0006,-150.7089,14.6,1.5,ml,,,,0.75,ak,ak024fb04k9r,2024-11-28T17:10:35.343Z,"36 km E of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-28T16:59:56.803Z,61.5347,-149.9072,32,1.4,ml,,,,0.28,ak,ak024fazu9r4,2024-11-28T17:01:14.365Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-28T16:51:01.130Z,19.392000198364,-155.24932861328,0.97000002861023,1.75999999,md,14,95,0.006722,0.209999993,hv,hv74545207,2024-11-28T16:52:29.600Z,"5 km SSW of Volcano, Hawaii",earthquake,0.24,0.25999999,0.300000012,12,automatic,hv,hv
-2024-11-28T16:36:00.364Z,64.6161,-147.0158,7.2,1.4,ml,,,,0.28,ak,ak024fazp7xg,2024-11-28T16:37:11.320Z,"5 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.7,,,automatic,ak,ak
