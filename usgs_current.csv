@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-30T23:00:36.243Z,61.7006,-150.7704,66.1,1.2,ml,,,,0.27,ak,ak024feeqb54,2024-11-30T23:03:00.280Z,"22 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-30T22:59:36.950Z,19.315166473389,-155.43466186523,4.0500001907349,1.76999998,md,40,56,0.04971,0.360000014,hv,hv74548772,2024-11-30T23:01:16.820Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.44,2.36999989,0.100000001,9,automatic,hv,hv
 2024-11-30T22:58:30.878Z,36.6516,-116.2737,6.9,-0.2,ml,17,85.66,0.053,0.0714,nn,nn00888146,2024-12-01T00:54:21.702Z,"51 km ESE of Beatty, Nevada",earthquake,,1,0.22,7,reviewed,nn,nn
-2024-11-30T22:46:28.940Z,38.833667755127,-122.81632995606,2.210000038147,0.51,md,8,122,0.01136,0.01,nc,nc75093311,2024-11-30T23:09:26.947Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.08000004,0.3,8,automatic,nc,nc
-2024-11-30T22:44:24.930Z,34.2148333,-117.5208333,6.54,1.11,ml,46,43,0.01892,0.18,ci,ci40991000,2024-11-30T22:48:21.102Z,"5 km SSW of Lytle Creek, CA",earthquake,0.19,0.34,0.083,8,automatic,ci,ci
