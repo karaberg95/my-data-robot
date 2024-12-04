@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T11:49:38.108Z,58.5034,-147.6956,119,3.1,ml,,,,1.52,ak,ak024fj6hnml,2024-12-03T11:52:37.604Z,"175 km S of Chenega, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2024-12-03T11:49:01.702Z,56.0207,-149.2892,10,3.2,ml,48,229,2.527,0.46,us,us7000nvm1,2024-12-04T08:31:34.040Z,"254 km SE of Chiniak, Alaska",earthquake,9.26,1.998,0.055,44,reviewed,us,us
 2024-12-03T11:47:39.120Z,39.375499725342,-120.01049804688,-0.85000002384186,1.94,md,8,109,0.085,0.05,nc,nc75094486,2024-12-03T20:22:26.532Z,"15 km  of Incline Village-Crystal Bay, NV",earthquake,0.36,7.19999981,0.22,9,automatic,nc,nc
-2024-12-03T11:45:41.023Z,-6.9612,153.7972,39.872,4.8,mb,52,46,3.196,0.68,us,us7000nvm2,2024-12-03T12:10:35.040Z,"199 km WSW of Panguna, Papua New Guinea",earthquake,9.79,2.812,0.089,39,reviewed,us,us
