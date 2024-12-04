@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-04T23:41:11.530Z,61.8626,-150.1157,37.2,1.4,ml,,,,0.75,ak,ak024fl14fkh,2024-12-04T23:42:51.458Z,"13 km NNW of Willow, Alaska",earthquake,,8.7,,,automatic,ak,ak
 2024-12-04T23:21:26.686Z,61.8304,-150.1718,11.7,1.9,ml,,,,0.4,ak,ak024fl106f0,2024-12-04T23:23:08.271Z,"11 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-04T23:18:50.039Z,62.0049,-148.2599,36.4,1.9,ml,,,,0.38,ak,ak024fl0zl2j,2024-12-04T23:20:17.556Z,"25 km NNE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-04T23:17:22.945Z,32.174,-101.701,4.4184,1.7,ml,51,53,0,0.4,tx,tx2024xvii,2024-12-04T23:32:17.489Z,"9 km ENE of Stanton, Texas",earthquake,0,0.86185282468796,0.1,30,automatic,tx,tx
@@ -289,5 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T23:55:25.250Z,33.8468333,-117.4953333,2.37,1.36,ml,31,84,0.05114,0.16,ci,ci40993144,2024-12-04T00:34:23.061Z,"4 km SE of Home Gardens, CA",earthquake,0.2,0.21,0.342,40,automatic,ci,ci
 2024-12-03T23:53:55.760Z,44.2735,-115.17416666667,4.29,1.53,ml,12,68,0.2889,0.21,mb,mb90067648,2024-12-04T23:19:47.100Z,"19 km WNW of Stanley, Idaho",earthquake,0.44,2.7,0.21966670024479,14,reviewed,mb,mb
 2024-12-03T23:53:41.370Z,21.216833333333,-157.4305,7.6,3.47,ml,8,148,0.2564,0.06,hv,hv74555032,2024-12-04T23:37:31.469Z,"23 km WNW of Maunaloa, Hawaii",earthquake,0.87,0.42,0.15266235795676,24,reviewed,hv,hv
-2024-12-03T23:44:15.886Z,31.115,-103.238,5.4846,1.7,ml,13,59,0.1,0.2,tx,tx2024xtnn,2024-12-04T14:40:13.121Z,"21 km SW of Coyanosa, Texas",earthquake,0.65948252940515,1.0683959146465,0.2,9,reviewed,tx,tx
-2024-12-03T23:40:56.060Z,39.181833333333,-112.052,15.22,0.62,md,5,99,0.06392,0.05,uu,uu80094446,2024-12-04T16:03:33.850Z,"8 km SSE of Scipio, Utah",earthquake,0.66,1.66,0.13487964954941,4,reviewed,uu,uu
