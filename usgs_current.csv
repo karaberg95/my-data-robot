@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-16T21:25:19.890Z,31.698,-104.166,4.1399,1.9,ml,20,89,0.1,0.4,tx,tx2024yrco,2024-12-16T21:33:17.293Z,"53 km W of Mentone, Texas",earthquake,0,1.2923762798309,0.2,15,automatic,tx,tx
+2024-12-16T21:25:19.676Z,31.697,-104.167,4.4848,1.8,ml,22,54,0.1,0.2,tx,tx2024yrco,2024-12-16T21:41:44.352Z,"53 km W of Mentone, Texas",earthquake,0,1.1036676168442,0.2,17,automatic,tx,tx
 2024-12-16T21:24:42.150Z,59.288,-148.6054,34.8,2.7,ml,,,,0.6,ak,ak024g4ua5h3,2024-12-16T21:27:35.394Z,"92 km SSW of Chenega, Alaska",earthquake,,3,,,automatic,ak,ak
 2024-12-16T21:22:00.146Z,61.2888,-152.2467,0,1.7,ml,,,,0.45,ak,ak024g4u9msu,2024-12-16T21:24:01.477Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-16T21:16:46.890Z,19.405166625977,-155.26400756836,0.37999999523163,1.73,ml,10,119,0.007149,0.129999995,hv,hv74568032,2024-12-16T21:19:39.020Z,"5 km SW of Volcano, Hawaii",earthquake,0.19,0.319999993,0.24,4,automatic,hv,hv
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-16T18:36:05.020Z,38.824001312256,-122.6498336792,10.119999885559,0.86,md,6,181,0.07916,0.08,nc,nc75104076,2024-12-16T18:57:17.275Z,"6 km E of Cobb, CA",earthquake,2.97,2.50999999,0.01,2,automatic,nc,nc
 2024-12-16T18:12:22.604Z,-21.8112,170.7586,75.965,4.9,mww,30,127,3.171,1.1,us,us7000nzaq,2024-12-16T19:08:52.040Z,"294 km SSE of Isangel, Vanuatu",earthquake,11.02,7.592,0.103,9,reviewed,us,us
 2024-12-16T18:08:41.040Z,38.81600189209,-122.80999755859,2.289999961853,1.15,md,24,46,0.007383,0.02,nc,nc75104071,2024-12-16T18:47:18.205Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.349999994,0.19,26,automatic,nc,nc
-2024-12-16T18:07:20.070Z,35.0813333,-119.0946667,9.99,1.68,ml,43,63,0.02437,0.26,ci,ci41002896,2024-12-16T18:37:08.061Z,"22 km NW of Grapevine, CA",earthquake,0.23,0.76,0.201,26,automatic,ci,ci
+2024-12-16T18:07:20.040Z,35.0761667,-119.0996667,10.38,1.71,ml,28,82,0.02183,0.21,ci,ci41002896,2024-12-16T21:45:30.598Z,"21 km NW of Grapevine, CA",earthquake,0.27,0.84,0.191,23,reviewed,ci,ci
 2024-12-16T18:04:31.020Z,34.0826667,-118.1636667,11.37,2.8,ml,141,15,0.04538,0.2,ci,ci41002888,2024-12-16T21:23:37.664Z,"4 km WSW of Alhambra, CA",earthquake,0.11,0.18,0.19,315,reviewed,ci,ci
 2024-12-16T17:56:09.680Z,34.0836667,-118.1753333,10.96,1.56,ml,57,38,0.04661,0.2,ci,ci41002872,2024-12-16T20:01:33.065Z,"4 km SSW of South Pasadena, CA",earthquake,0.18,0.29,0.211,28,automatic,ci,ci
 2024-12-16T17:55:36.990Z,33.2108333,-116.231,8.57,1.3,ml,67,28,0.02644,0.19,ci,ci41002864,2024-12-16T19:55:01.200Z,"12 km NW of Ocotillo Wells, CA",earthquake,0.15,0.41,0.166,27,reviewed,ci,ci
@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T22:02:09.370Z,39.71,-110.796,-2.14,1.61,md,7,94,0.04601,0.2,uu,uu80097691,2024-12-16T19:51:00.830Z,"2 km NNE of Kenilworth, Utah",earthquake,0.6,0.91,0.38864510933939,7,reviewed,uu,uu
 2024-12-15T21:51:11.004Z,32.395,-102.013,6.8359,1.3,ml,23,59,0.1,0.1,tx,tx2024yphv,2024-12-16T16:10:49.193Z,"31 km WSW of Ackerly, Texas",earthquake,0.63360027694805,0.99225969549348,0.1,12,reviewed,tx,tx
 2024-12-15T21:49:28.573Z,37.338,-117.1957,5.1,1.1,ml,27,127.19,0.064,0.2532,nn,nn00889716,2024-12-15T21:51:48.389Z,"41 km S of Goldfield, Nevada",earthquake,,1.1,0.37,12,automatic,nn,nn
-2024-12-15T21:42:40.115Z,52.9665,160.0569,48.957,5.1,mb,116,84,0.852,0.69,us,us7000nz5a,2024-12-16T04:56:32.040Z,"96 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.3,5.63,0.033,298,reviewed,us,us
