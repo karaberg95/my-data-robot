@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T23:06:07.000Z,38.81916809082,-122.82216644287,2.2699999809265,1.08,md,18,61,0.01035,0.02,nc,nc75106041,2024-12-20T23:22:17.352Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.15,19,automatic,nc,nc
 2024-12-20T22:45:30.930Z,19.208000183106,-155.35766601562,30,2.25999999,md,21,256,0.04773,0.0900000036,hv,hv74571892,2024-12-20T22:47:11.200Z,"12 km E of Pāhala, Hawaii",earthquake,0.84,0.649999976,0.180000007,3,automatic,hv,hv
 2024-12-20T22:29:02.248Z,29.4931,81.5921,10,5,mb,104,99,3.653,0.86,us,us7000p0hw,2024-12-21T20:01:33.316Z,"62 km WNW of Jumla, Nepal",earthquake,9.03,1.874,0.05,133,reviewed,us,us
-2024-12-20T22:11:24.030Z,59.8479,-151.0511,47.6,2.1,ml,,,,0.61,ak,ak024gbgy5cj,2024-12-20T22:13:43.295Z,"5 km WSW of Fox River, Alaska",earthquake,,2.9,,,automatic,ak,ak
