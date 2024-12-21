@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T23:53:40.292Z,17.513,119.5231,10,4.9,mb,42,126,5.476,0.86,us,us7000p0ia,2024-12-21T00:18:42.040Z,"89 km W of Cabittaogan, Philippines",earthquake,13.16,1.907,0.096,34,reviewed,us,us
 2024-12-20T23:45:57.175Z,31.98,-102.343,3.552,1.6,ml,52,67,0,0.5,tx,tx2024yypm,2024-12-21T00:03:46.134Z,"5 km SE of Gardendale, Texas",earthquake,0,0.77646428346634,0.2,31,automatic,tx,tx
 2024-12-20T23:41:58.820Z,19.184999465942,-155.38034057617,29.64999961853,1.99000001,md,50,167,0.05469,0.129999995,hv,hv74571917,2024-12-20T23:43:55.720Z,"10 km E of Pāhala, Hawaii",earthquake,0.47,0.550000012,0.150000006,8,automatic,hv,hv
-2024-12-20T23:31:52.290Z,36.570166666667,-120.36733333333,8.61,3.39,ml,206,22,0.3091,0.27,nc,nc75106056,2024-12-21T15:31:51.419Z,"9 km NNW of Cantua Creek, CA",earthquake,0.16,0.74,0.169,128,reviewed,nc,nc
+2024-12-20T23:31:52.290Z,36.570166666667,-120.36733333333,8.61,3.39,ml,206,22,0.3091,0.27,nc,nc75106056,2024-12-21T16:56:13.198Z,"9 km NNW of Cantua Creek, CA",earthquake,0.16,0.74,0.169,128,reviewed,nc,nc
 2024-12-20T23:25:47.910Z,35.636,-117.4665,5.01,0.7,ml,22,52,0.04537,0.15,ci,ci40826279,2024-12-21T01:00:14.963Z,"16 km SSW of Searles Valley, CA",earthquake,0.21,0.44,0.228,7,reviewed,ci,ci
 2024-12-20T23:23:20.836Z,8.1646,-38.1389,10,4.9,mb,43,80,14.077,0.6,us,us7000p0i6,2024-12-20T23:44:57.040Z,"central Mid-Atlantic Ridge",earthquake,9.35,1.886,0.091,38,reviewed,us,us
 2024-12-20T23:19:49.153Z,32.6226,-93.9945,5,3.1,mb_lg,22,113,0.386,0.93,us,us7000p0i4,2024-12-21T16:29:18.588Z,"7 km SSW of Mooringsport, Louisiana",earthquake,2.58,1.864,0.049,107,reviewed,us,us
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T17:06:47.460Z,52.821333333333,-169.8735,4.55,0.58,ml,5,164,0.01329,0.27,av,av93419926,2024-12-20T19:32:20.260Z,"69 km WSW of Nikolski, Alaska",earthquake,1.92,1.48,0.26581953544432,5,reviewed,av,av
 2024-12-20T17:04:58.973Z,-17.9795,167.8829,82.377,4.8,mb,35,227,4.252,0.81,us,us7000p0f3,2024-12-20T22:12:07.040Z,"52 km WSW of Port-Vila, Vanuatu",earthquake,10.58,11.12,0.093,39,reviewed,us,us
 2024-12-20T17:00:53.280Z,46.016333333333,-112.457,-2,1.45,ml,6,141,0.06968,0.18,mb,mb90069253,2024-12-20T17:34:59.730Z,"6 km ENE of Butte, Montana",quarry blast,0.88,31.61,0.28071198873021,18,reviewed,mb,mb
-2024-12-20T16:53:25.870Z,58.246833333333,-155.1435,2.41,-0.26,ml,7,87,0.04292,0.09,av,av93419921,2024-12-21T00:18:51.500Z,"85 km NNW of Karluk, Alaska",earthquake,0.23,0.45,0.17411759532922,7,reviewed,av,av
