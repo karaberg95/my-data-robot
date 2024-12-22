@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-22T11:42:20.580Z,33.0298347,-116.2816696,7.06,1.17,ml,17,104,0.1229,0.13,ci,ci40827263,2024-12-22T11:44:24.037Z,"19 km SW of Ocotillo Wells, CA",earthquake,0.36,1.12,0.235,13,automatic,ci,ci
 2024-12-22T11:27:03.161Z,62.5227,-153.0812,0,2.1,ml,,,,0.67,ak,ak024gelkgj0,2024-12-22T11:29:30.929Z,"85 km SE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-22T11:09:10.654Z,39.1466,-119.0609,0.9,1.1,ml,9,124.95,0.028,0.1712,nn,nn00890211,2024-12-22T11:11:39.044Z,"19 km NNE of Yerington, Nevada",earthquake,,0.2,0.27,2,automatic,nn,nn
 2024-12-22T11:03:32.590Z,35.377,-118.6466667,5.34,1.33,ml,41,42,0.136,0.17,ci,ci40827255,2024-12-22T11:07:03.873Z,"25 km NE of Arvin, CA",earthquake,0.19,0.83,0.217,28,automatic,ci,ci
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T12:07:08.703Z,37.3239,-117.5742,2,0.9,ml,13,177.27,0.107,0.2469,nn,nn00890139,2024-12-21T12:09:42.122Z,"48 km S of Silver Peak, Nevada",earthquake,,2.1,0.42,8,automatic,nn,nn
 2024-12-21T12:03:38.980Z,-15.4424,-173.6333,74.302,4.8,mb,39,111,2.352,0.46,us,us7000p0l5,2024-12-21T12:39:25.040Z,"59 km NNE of Hihifo, Tonga",earthquake,14.26,7.749,0.054,106,reviewed,us,us
 2024-12-21T11:58:28.180Z,33.254,-116.2965,10.78,1.39,ml,78,28,0.07077,0.2,ci,ci40826623,2024-12-21T16:09:09.230Z,"7 km E of Borrego Springs, CA",earthquake,0.15,0.31,0.12,25,reviewed,ci,ci
-2024-12-21T11:43:56.582Z,65.6857,-151.0209,5.7,1.9,ml,,,,0.65,ak,ak024gcy4nm2,2024-12-21T11:45:58.380Z,"44 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
