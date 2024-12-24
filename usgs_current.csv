@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-24T07:33:03.189Z,63.1951,-150.2835,79.5,2.2,ml,,,,0.67,ak,ak024ghuapcw,2024-12-24T07:34:56.633Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-24T07:00:11.048Z,36.7432,-116.2192,5.8,0.2,ml,9,126.02,0.016,0.2403,nn,nn00890469,2024-12-24T07:02:08.646Z,"51 km ESE of Beatty, Nevada",earthquake,,0.9,0.15,3,automatic,nn,nn
 2024-12-24T06:46:25.237Z,60.2014,-151.2782,31.3,1.9,ml,,,,0.56,ak,ak024ghts3sr,2024-12-24T06:48:26.126Z,"7 km ESE of Clam Gulch, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-24T06:42:41.170Z,38.819000244141,-122.82116699219,1.9500000476837,1.76,md,36,47,0.009713,0.04,nc,nc75107276,2024-12-24T07:17:19.904Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.25,0.11,37,automatic,nc,nc
@@ -255,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T07:54:21.600Z,61.304666666667,-152.26133333333,3.67,-0.13,ml,9,140,0.06467,0.19,av,av93423786,2024-12-23T23:26:01.190Z,"65 km WNW of Beluga, Alaska",earthquake,0.53,0.42,0.20111218540994,9,reviewed,av,av
 2024-12-23T07:50:14.883Z,37.4221,-117.2547,2.9,0.9,ml,8,280.99,0.122,0.2625,nn,nn00890304,2024-12-23T07:52:37.025Z,"31 km S of Goldfield, Nevada",earthquake,,22.9,0.75,5,automatic,nn,nn
 2024-12-23T07:49:42.570Z,35.984001159668,-120.53700256348,2.7699999809265,0.9,md,8,158,0.02537,0.05,nc,nc75106931,2024-12-23T07:51:18.652Z,"13 km NNW of Parkfield, CA",earthquake,0.43,0.709999979,0.28,4,automatic,nc,nc
-2024-12-23T07:27:13.390Z,33.0705,-117.3988333,12.31,1.04,ml,36,216,0.1299,0.17,ci,ci40827607,2024-12-23T21:14:55.172Z,"11 km WNW of Encinitas, CA",earthquake,0.41,0.7,0.198,17,reviewed,ci,ci
