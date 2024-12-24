@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-24T09:44:20.010Z,36.1191673,-118.1678314,8.45,1.71,ml,22,62,0.1222,0.16,ci,ci40827951,2024-12-24T09:46:26.030Z,"21 km WNW of Coso Junction, CA",earthquake,0.4,1.43,0.283,10,automatic,ci,ci
+2024-12-24T09:46:19.193Z,37.3635,-117.1911,1.7,0.6,ml,8,209.98,0.084,0.2196,nn,nn00890486,2024-12-24T09:48:39.227Z,"38 km S of Goldfield, Nevada",earthquake,,8.8,0.39,4,automatic,nn,nn
+2024-12-24T09:44:20.030Z,36.1195,-118.169,8.53,1.62,ml,31,60,0.1212,0.18,ci,ci40827951,2024-12-24T09:47:55.037Z,"22 km WNW of Coso Junction, CA",earthquake,0.21,0.65,0.215,26,automatic,ci,ci
 2024-12-24T09:39:12.400Z,38.83466720581,-122.81866455078,10.920000076294,1.09,md,12,62,0.0131,0.13,nc,nc75107331,2024-12-24T09:40:51.065Z,"8 km NNW of The Geysers, CA",earthquake,2.15,3.01999998,0.2,14,automatic,nc,nc
 2024-12-24T09:12:46.168Z,37.3698,-117.1168,0,0.8,ml,8,191.4,0.134,0.3548,nn,nn00890484,2024-12-24T09:16:09.230Z,"39 km SSE of Goldfield, Nevada",earthquake,,17.8,0.31,4,automatic,nn,nn
 2024-12-24T09:07:54.420Z,39.0664,-118.9785,11,1.2,ml,9,113.84,0.113,0.2338,nn,nn00890482,2024-12-24T09:09:49.528Z,"18 km ENE of Yerington, Nevada",earthquake,,0.9,0.3,2,automatic,nn,nn
@@ -251,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T10:03:58.057Z,32.411,-102.085,8.374,1.2,ml,19,53,0,0.1,tx,tx2024zdan,2024-12-23T18:33:52.502Z,"36 km WSW of Ackerly, Texas",earthquake,0.45848364876568,1.0264180086772,0.2,14,reviewed,tx,tx
 2024-12-23T10:03:55.956Z,39.1498,-119.055,3,1.2,ml,8,123.75,0.023,0.2226,nn,nn00890311,2024-12-23T10:06:17.882Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.4,3,automatic,nn,nn
 2024-12-23T09:57:07.080Z,17.948166666667,-66.824333333333,14.99,2.16,md,7,211,0.05872,0.15,pr,pr71469158,2024-12-23T10:09:31.330Z,"5 km S of Indios, Puerto Rico",earthquake,0.64,0.84,0.20555232384139,5,reviewed,pr,pr
-2024-12-23T09:54:10.785Z,36.6268,-117.1162,4.2,1.4,ml,24,154.39,0.348,0.228,nn,nn00890309,2024-12-23T09:56:31.224Z,"30 km NW of Furnace Creek, California",earthquake,,1.6,0.29,14,automatic,nn,nn
-2024-12-23T09:52:42.330Z,18.05,-66.867666666667,10.27,2.11,md,5,184,0.07535,0.28,pr,pr71469153,2024-12-23T11:04:27.890Z,"2 km NW of Yauco, Puerto Rico",earthquake,6.07,7.02,0.1118552636665,3,reviewed,pr,pr
