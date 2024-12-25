@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-25T21:39:38.000Z,50.746,-129.788,36,5,Ml,54,158.399987328,2.966237,1.28,at,at00sp2k62,2024-12-25T21:45:54.679Z,"191 km W of Port McNeill, Canada",earthquake,0,0,,31,reviewed,at,at
+2024-12-25T21:50:03.058Z,60.1755,-151.606,50.3,1.6,ml,,,,0.44,ak,ak024gjq9rip,2024-12-25T21:52:32.791Z,"13 km WSW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-12-25T21:39:27.455Z,50.5227,-130.6748,10,4.9,mb,24,220,1.625,0.8,us,us6000pflq,2024-12-25T21:55:56.305Z,"254 km W of Port McNeill, Canada",earthquake,3.03,2.013,0.04,198,reviewed,us,us
 2024-12-25T21:27:01.040Z,39.1656,-119.0566,7.2,1.5,ml,16,95.33,0.014,0.1529,nn,nn00890564,2024-12-25T21:29:09.575Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,6,automatic,nn,nn
 2024-12-25T21:19:50.813Z,36.6372,-115.7407,6.5,0.6,ml,15,164.02,0.18,0.1165,nn,nn00890560,2024-12-25T21:21:51.147Z,"9 km NW of Indian Springs, Nevada",earthquake,,1.3,0.26,8,automatic,nn,nn
 2024-12-25T21:09:41.008Z,60.5641,-147.6825,18.8,2,ml,,,,0.65,ak,ak024gjq1238,2024-12-25T21:11:30.611Z,"58 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -39,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T16:01:21.120Z,39.492500305176,-123.3373336792,6.0599999427795,1.8,md,12,83,0.02348,0.05,nc,nc75107831,2024-12-25T16:32:17.583Z,"7 km NE of Brooktrails, CA",earthquake,0.32,0.629999995,0.13,9,automatic,nc,nc
 2024-12-25T15:42:51.980Z,17.925,-66.930166666667,12.73,2.08,md,8,228,0.05122,0.1,pr,pr71469388,2024-12-25T16:10:30.410Z,"5 km SSW of Guánica, Puerto Rico",earthquake,0.71,0.29,0.02406819113632,3,reviewed,pr,pr
 2024-12-25T15:11:25.160Z,35.9158333,-118.252,13.85,0.89,ml,23,43,0.1492,0.12,ci,ci40828231,2024-12-25T15:14:48.093Z,"24 km NE of Kernville, CA",earthquake,0.19,0.44,0.268,13,automatic,ci,ci
-2024-12-25T14:40:24.530Z,36.7331,-116.095,1.7,0.1,ml,10,56.39,0.029,0.167,nn,nn00890547,2024-12-25T14:42:24.039Z,"42 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.58,6,automatic,nn,nn
+2024-12-25T14:40:25.078Z,36.7289,-116.0873,3,0.3,ml,15,88.46,0.023,0.0858,nn,nn00890547,2024-12-25T21:50:51.994Z,"41 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.4,6,reviewed,nn,nn
 2024-12-25T14:26:00.063Z,1.7615,127.3898,113.821,4.5,mb,27,110,0.983,0.91,us,us6000pfkn,2024-12-25T15:32:10.040Z,"69 km W of Tobelo, Indonesia",earthquake,11.02,7.748,0.118,21,reviewed,us,us
 2024-12-25T14:19:52.710Z,33.9135,-117.8316667,4.54,1.46,ml,60,60,0.02774,0.23,ci,ci40828215,2024-12-25T14:30:44.420Z,"3 km NNW of Yorba Linda, CA",earthquake,0.21,0.37,0.138,30,automatic,ci,ci
 2024-12-25T14:15:30.176Z,-7.4305,127.8361,167.602,4.3,mb,19,102,3.546,0.29,us,us6000pfkm,2024-12-25T14:33:46.040Z,"151 km NE of Lospalos, Timor Leste",earthquake,9.43,7.732,0.138,15,reviewed,us,us
@@ -153,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T22:42:26.171Z,-28.2519,-67.4617,138,5.9,mww,143,22,2.713,0.93,us,us6000pfi3,2024-12-25T00:45:14.891Z,"23 km SSE of Tinogasta, Argentina",earthquake,7.31,1.859,0.032,93,reviewed,us,us
 2024-12-24T22:34:53.240Z,38.813331604004,-122.86650085449,4.4800000190735,0.77,md,9,225,0.01396,0.06,nc,nc75107511,2024-12-24T22:36:32.772Z,"10 km NW of The Geysers, CA",earthquake,1.7,2.97000003,0.24,9,automatic,nc,nc
 2024-12-24T22:04:23.040Z,38.778831481934,-122.84899902344,6.1799998283386,1.24,md,17,126,0.01814,0.28,nc,nc75107496,2024-12-24T22:37:17.363Z,"8 km WNW of The Geysers, CA",earthquake,2.04,3.77999997,0.24,14,automatic,nc,nc
-2024-12-24T21:56:14.501Z,31.626,-104.486,3.563,2,ml,21,131,0.1,0.5,tx,tx2024zfto,2024-12-24T22:21:11.636Z,"61 km S of Whites City, New Mexico",earthquake,0,1.6802595853805,0.1,16,automatic,tx,tx
