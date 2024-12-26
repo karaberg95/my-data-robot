@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-26T15:15:55.430Z,36.60033416748,-121.23066711426,5.6700000762939,2.52,md,52,27,0.0463,0.23,nc,nc75108226,2024-12-26T15:20:25.000Z,"11 km NW of Pinnacles, CA",earthquake,0.32,1,0.14,58,automatic,nc,nc
+2024-12-26T15:15:55.430Z,36.60033416748,-121.23066711426,5.6700000762939,2.52,md,52,27,0.0463,0.23,nc,nc75108226,2024-12-26T15:27:14.966Z,"11 km NW of Pinnacles, CA",earthquake,0.32,1,0.14,58,automatic,nc,nc
 2024-12-26T15:15:07.031Z,61.2813,-146.6758,15.3,1.9,ml,,,,1.23,ak,ak024gla10mn,2024-12-26T15:17:24.140Z,"24 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-26T15:14:29.690Z,35.3428345,-117.8006668,5.96,1.75,ml,29,69,0.08382,0.21,ci,ci40828495,2024-12-26T15:16:34.443Z,"15 km WSW of Johannesburg, CA",earthquake,0.35,1.14,0.202,15,automatic,ci,ci
 2024-12-26T15:04:26.850Z,38.819999694824,-122.84083557129,2.1300001144409,0.75,md,14,101,0.0055,0.01,nc,nc75108216,2024-12-26T15:06:02.525Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.540000021,0.19,14,automatic,nc,nc
