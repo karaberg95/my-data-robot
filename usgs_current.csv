@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-26T11:14:20.450Z,35.9516678,-117.6871643,1.58,1.74,ml,25,60,0.03008,0.16,ci,ci40828455,2024-12-26T11:16:32.236Z,"20 km E of Little Lake, CA",earthquake,0.26,0.43,0.231,14,automatic,ci,ci
+2024-12-26T11:14:20.430Z,35.955,-117.6861667,2.27,1.66,ml,29,39,0.02989,0.18,ci,ci40828455,2024-12-26T11:17:57.971Z,"20 km E of Little Lake, CA",earthquake,0.2,0.32,0.234,25,automatic,ci,ci
 2024-12-26T11:02:15.800Z,38.79349899292,-122.77983093262,3.579999923706,1.09,md,16,78,0.006328,0.02,nc,nc75108121,2024-12-26T11:03:51.942Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.720000029,0.09,18,automatic,nc,nc
 2024-12-26T10:59:34.790Z,32.7726667,-115.4388333,11.45,1.75,ml,32,60,0.03324,0.29,ci,ci40828447,2024-12-26T11:03:18.175Z,"7 km SW of Holtville, CA",earthquake,0.34,0.55,0.213,29,automatic,ci,ci
 2024-12-26T10:57:39.740Z,32.7673333,-115.444,15.36,1.85,ml,21,61,0.1283,0.23,ci,ci40828439,2024-12-26T11:02:14.168Z,"8 km SW of Holtville, CA",earthquake,0.41,0.86,0.255,28,automatic,ci,ci
