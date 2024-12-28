@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-28T04:23:35.861Z,62.1793,-148.7611,18.4,1.4,ml,,,,0.15,ak,ak024goelpwy,2024-12-28T04:25:00.718Z,"44 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-28T04:21:07.290Z,19.137833333333,-66.524,24.31,3.28,md,12,288,0.6572,0.29,pr,pr71469548,2024-12-28T04:35:38.186Z,"74 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.35,17.02,0.11944163100533,9,reviewed,pr,pr
 2024-12-28T04:19:09.600Z,38.802833557129,-122.82250213623,5.460000038147,0.75,md,10,76,0.00797,0.05,nc,nc75108781,2024-12-28T04:20:46.803Z,"6 km NW of The Geysers, CA",earthquake,0.72,2.8599999,0.27,11,automatic,nc,nc
-2024-12-28T04:17:43.490Z,38.81233215332,-122.81316375732,2.9800000190735,1.19,md,28,50,0.01131,0.02,nc,nc75108776,2024-12-28T04:37:19.165Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.17,27,automatic,nc,nc
+2024-12-28T04:17:43.490Z,38.81233215332,-122.81316375732,2.9800000190735,1.19,md,28,50,0.01131,0.02,nc,nc75108776,2024-12-28T05:22:18.462Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.17,27,automatic,nc,nc
 2024-12-28T04:17:05.960Z,33.9916667,-116.672,16.33,1.17,ml,46,34,0.05083,0.14,ci,ci40829199,2024-12-28T04:28:09.180Z,"10 km SW of Morongo Valley, CA",earthquake,0.15,0.36,0.214,26,automatic,ci,ci
 2024-12-28T04:09:44.700Z,38.75899887085,-122.70300292969,0.91000002622604,1.13,md,7,125,0.009616,0.02,nc,nc75108771,2024-12-28T04:57:15.299Z,"2 km SW of Anderson Springs, CA",earthquake,0.36,0.430000007,0.3,5,automatic,nc,nc
 2024-12-28T04:09:42.830Z,40.283332824707,-124.44533538818,10.529999732971,2.56,md,9,282,0.1613,0.29,nc,nc75108766,2024-12-28T04:32:16.128Z,"14 km W of Petrolia, CA",earthquake,9.54,3.77999997,0.09,4,automatic,nc,nc
@@ -52,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T23:17:26.790Z,33.4393333,-116.8881667,11.12,0.93,ml,35,38,0.0466,0.19,ci,ci40829143,2024-12-27T23:22:13.205Z,"2 km W of Aguanga, CA",earthquake,0.19,0.54,0.167,28,automatic,ci,ci
 2024-12-27T23:17:15.590Z,44.751166666667,-111.736,10.36,0.99,ml,15,108,0.05445,0.15,mb,mb90069718,2024-12-27T23:54:21.330Z,"43 km W of Hebgen Lake Estates, Montana",earthquake,0.39,0.6,0.20677280048867,14,reviewed,mb,mb
 2024-12-27T23:14:10.765Z,61.416,-146.5301,22.9,1.6,ml,,,,0.83,ak,ak024gn2bmj8,2024-12-27T23:16:32.026Z,"33 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-12-27T23:07:30.030Z,61.2795,-152.253,4.03,-0.59,ml,5,192,0.04939,0.07,av,av93428396,2024-12-28T05:09:39.920Z,"64 km WNW of Tyonek, Alaska",earthquake,0.49,0.3,0.22151615519224,6,reviewed,av,av
 2024-12-27T23:07:09.638Z,31.589,-103.922,4.9215,2.1,ml,15,90,0,0.1,tx,tx2024zlin,2024-12-27T23:19:04.702Z,"32 km NNW of Toyah, Texas",earthquake,0,1.2546970844269,0.2,13,automatic,tx,tx
 2024-12-27T23:04:39.231Z,62.197,-148.6186,26.2,1.9,ml,,,,0.54,ak,ak024gn29jkj,2024-12-27T23:06:24.849Z,"45 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-27T23:02:37.968Z,31.658,-104.375,4.3743,1.6,ml,16,70,0,0.2,tx,tx2024zlij,2024-12-27T23:08:04.967Z,"57 km S of Whites City, New Mexico",earthquake,0,1.4712715148926,0.2,12,automatic,tx,tx
@@ -263,9 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T05:45:22.468Z,36.7246,-116.2996,9,0.3,ml,31,91.25,0.02,0.0848,nn,nn00890634,2024-12-27T14:58:49.878Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,0.21,11,reviewed,nn,nn
 2024-12-27T05:30:07.667Z,34.1574,-38.6804,10,5.9,mww,111,95,11.251,0.55,us,us6000pfuq,2024-12-27T13:55:24.040Z,"northern Mid-Atlantic Ridge",earthquake,11.1,1.886,0.069,20,reviewed,us,us
 2024-12-27T05:30:06.690Z,31.719,-104.302,4.3151,1.8,ml,15,67,0.1,0.2,tx,tx2024zjzm,2024-12-27T05:47:32.444Z,"51 km S of Whites City, New Mexico",earthquake,0,1.3123785257339,0.2,13,automatic,tx,tx
-2024-12-27T05:24:45.559Z,59.7621,-151.7791,34.6,1.8,ml,,,,0.37,ak,ak024gmro1hn,2024-12-27T05:26:49.659Z,"3 km ESE of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-12-27T05:21:58.006Z,44.377,-116.1059,10,2.7,ml,24,61,0.365,0.93,us,us6000pfur,2024-12-27T15:55:00.890Z,"8 km N of Smiths Ferry, Idaho",earthquake,1.66,2,0.051,50,reviewed,us,us
-2024-12-27T05:10:42.130Z,58.037,-155.2675,7.48,0.17,ml,7,218,0.02427,0.16,av,av93427326,2024-12-27T21:03:18.900Z,"71 km NW of Karluk, Alaska",earthquake,0.53,0.71,0.22330268727857,7,reviewed,av,av
-2024-12-27T05:10:32.030Z,19.261999130249,-155.43966674805,0.81999999284744,2.26,ml,58,71,0.0467,0.370000005,hv,hv74577812,2024-12-27T05:13:51.480Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.31,0.430000007,0.66,11,automatic,hv,hv
-2024-12-27T05:10:20.100Z,37.833000183105,-121.9623336792,6.6999998092651,1.34,md,11,71,0.03523,0.1,nc,nc75108451,2024-12-27T06:07:16.901Z,"0 km WSW of Diablo, CA",earthquake,0.35,0.699999988,0.2,7,automatic,nc,nc
-2024-12-27T05:09:06.150Z,17.942833333333,-66.996833333333,11.53,2.25,md,6,227,0.05229,0.23,pr,pr71469493,2024-12-27T05:20:52.550Z,"6 km SE of La Parguera, Puerto Rico",earthquake,1.46,1.05,0.030895061374846,4,reviewed,pr,pr
