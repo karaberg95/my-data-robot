@@ -23,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T18:46:08.954Z,39.0943,-118.9936,9,1.1,ml,11,138.75,0.082,0.1979,nn,nn00891033,2024-12-31T18:48:30.336Z,"18 km NE of Yerington, Nevada",earthquake,,0.7,0.16,4,automatic,nn,nn
 2024-12-31T18:37:27.710Z,9.7378,40.0018,10,4.3,mb,32,129,3.316,0.77,us,us6000pgpl,2024-12-31T19:43:45.040Z,"27 km S of Abomsa, Ethiopia",earthquake,11.74,1.951,0.116,21,reviewed,us,us
 2024-12-31T18:34:22.010Z,46.1945,-122.3515,10.93,0.85,ml,10,246,0.00172,0.09,uw,uw62069366,2024-12-31T18:56:47.030Z,"32 km NNE of Amboy, Washington",earthquake,0.51,0.96,0.11256536895254,7,reviewed,uw,uw
+2024-12-31T18:29:10.770Z,45.16,-112.4305,-2,0.83,ml,9,204,0.234,0.06,mb,mb90069898,2024-12-31T20:50:41.000Z,"17 km ESE of Dillon, Montana",quarry blast,0.66,31.61,0.17837859698533,12,reviewed,mb,mb
 2024-12-31T18:28:46.680Z,38.836334228516,-122.78549957275,1.1599999666214,0.21,md,8,106,0.004314,0.01,nc,nc75110371,2024-12-31T18:30:25.206Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.790000021,0.09,8,automatic,nc,nc
 2024-12-31T18:17:18.590Z,38.813999176025,-122.80883026123,3.7000000476837,0.75,md,8,81,0.009432,0.01,nc,nc75110366,2024-12-31T18:18:55.343Z,"6 km NW of The Geysers, CA",earthquake,0.7,1.91999996,0.31,10,automatic,nc,nc
 2024-12-31T17:54:28.690Z,34.6066667,-116.844,1.26,1.15,ml,27,59,0.1798,0.11,ci,ci40830863,2024-12-31T17:58:09.950Z,"21 km NNE of Lucerne Valley, CA",earthquake,0.15,0.37,0.142,20,automatic,ci,ci
@@ -217,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T21:00:08.470Z,38.819667816162,-122.76633453369,1.8999999761581,1.35,md,27,94,0.01114,0.03,nc,nc75109941,2024-12-30T21:17:19.132Z,"4 km W of Cobb, CA",earthquake,0.22,0.370000005,0.17,26,automatic,nc,nc
 2024-12-30T20:59:53.116Z,61.6034,-152.1808,113.7,3.5,ml,,,,0.59,ak,ak024grzf3om,2024-12-30T21:24:54.806Z,"59 km SW of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-12-30T20:59:42.676Z,39.0966,-118.9744,6.6,1.8,ml,16,124.54,0.074,0.173,nn,nn00890935,2024-12-31T02:09:13.641Z,"20 km NE of Yerington, Nevada",earthquake,,2.2,0.25,8,reviewed,nn,nn
-2024-12-30T20:49:09.031Z,39.1133,-118.9886,9.8,0.9,ml,8,141.77,0.068,0.1641,nn,nn00890933,2024-12-30T20:51:20.007Z,"20 km NE of Yerington, Nevada",earthquake,,0.8,0.18,3,automatic,nn,nn
-2024-12-30T20:48:51.372Z,9.8159,40.3329,10,4.5,mb,22,172,3.001,0.79,us,us6000pgjh,2024-12-30T22:10:28.754Z,"42 km ESE of Abomsa, Ethiopia",earthquake,5.45,1.986,0.15,13,reviewed,us,us
-2024-12-30T20:47:15.589Z,39.0944,-118.9697,9.4,1.9,ml,14,140.72,0.092,0.0959,nn,nn00890932,2024-12-30T20:49:53.404Z,"20 km NE of Yerington, Nevada",earthquake,,0.7,0.29,8,automatic,nn,nn
