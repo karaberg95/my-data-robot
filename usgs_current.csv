@@ -364,4 +364,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T11:29:38.739Z,38.7414,-119.2055,0.1,1.2,ml,10,150.63,0.245,0.163,nn,nn00891100,2025-01-01T11:31:43.638Z,"12 km ESE of Smith, Nevada",earthquake,,39.3,0.41,5,automatic,nn,nn
 2025-01-01T11:26:50.233Z,61.4654,-149.9685,32.9,1.8,ml,,,,0.7,ak,ak0251u8sn3,2025-01-01T11:28:49.740Z,"6 km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-01T11:26:13.310Z,39.280166625977,-123.27366638184,4.0100002288818,1.74,md,13,64,0.07731,0.06,nc,nc75110791,2025-01-01T11:57:18.217Z,"6 km WNW of Redwood Valley, CA",earthquake,0.27,3.01999998,0.18,10,automatic,nc,nc
-2025-01-01T11:16:42.690Z,36.088,-117.8666667,1.62,0.81,ml,22,80,0.03103,0.14,ci,ci40831367,2025-01-01T16:53:03.257Z,"9 km ENE of Coso Junction, CA",earthquake,0.18,0.22,0.072,15,reviewed,ci,ci
