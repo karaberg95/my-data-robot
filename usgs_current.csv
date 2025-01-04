@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T08:16:32.921Z,36.7973,-116.078,6.7,-0.2,ml,14,172.82,0.017,0.0564,nn,nn00891334,2025-01-04T02:06:55.688Z,"44 km NW of Indian Springs, Nevada",earthquake,,1.2,0.09,5,reviewed,nn,nn
 2025-01-03T08:11:36.820Z,33.7653333,-115.9533333,-0.02,1.1,ml,42,67,0.1109,0.19,ci,ci40832911,2025-01-03T08:15:35.730Z,"22 km NE of Thermal, CA",earthquake,0.19,0.32,0.122,26,automatic,ci,ci
 2025-01-03T08:03:10.460Z,38.78099822998,-122.72682952881,1.3600000143051,1.57,md,25,59,0.008051,0.03,nc,nc75112371,2025-01-03T08:37:14.582Z,"3 km E of The Geysers, CA",earthquake,0.21,0.360000014,0.15,25,automatic,nc,nc
-2025-01-03T07:39:03.270Z,44.356833333333,-115.18116666667,6.3,1.95,ml,12,70,0.3473,0.12,mb,mb90070053,2025-01-03T15:07:05.710Z,"24 km NW of Stanley, Idaho",earthquake,0.33,1.08,0.154514028674,21,reviewed,mb,mb
