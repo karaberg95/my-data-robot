@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-04T04:14:19.815Z,61.659,-149.5281,25.5,2.5,ml,,,,0.55,ak,ak0256om5yu,2025-01-04T04:16:01.386Z,"5 km NE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-04T04:54:31.966Z,60.0509,-152.5244,64,1.9,ml,,,,0.66,ak,ak0256ourj0,2025-01-04T04:56:45.485Z,"45 km WNW of Happy Valley, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-01-04T04:54:31.770Z,38.792667388916,-122.76016998291,1.4400000572205,1.08,md,14,115,0.007954,0.04,nc,nc75112716,2025-01-04T04:56:08.436Z,"2 km N of The Geysers, CA",earthquake,0.28,0.560000002,0.06,13,automatic,nc,nc
+2025-01-04T04:14:19.815Z,61.659,-149.5281,25.5,2.5,ml,,,,0.55,ak,ak0256om5yu,2025-01-04T04:55:37.040Z,"5 km NE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-04T03:50:55.053Z,-31.5657,142.0715,10,4.5,mb,22,71,0.509,0.86,us,us6000phse,2025-01-04T04:45:10.988Z,"73 km NE of Broken Hill, Australia",earthquake,5.18,1.916,0.171,10,reviewed,us,us
 2025-01-04T03:48:39.385Z,61.9742,-151.5275,82,2,ml,,,,0.6,ak,ak0256o826z,2025-01-04T03:51:40.692Z,"7 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-04T03:41:34.940Z,40.267833709717,-124.53600311279,1.5499999523163,2.18,md,9,272,0.2198,0.13,nc,nc75112706,2025-01-04T04:07:15.616Z,"22 km W of Petrolia, CA",earthquake,2.74,8.57999992,0.14,10,automatic,nc,nc
@@ -181,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T05:20:51.280Z,35.8986667,-117.7091667,9.29,0.45,ml,18,47,0.06849,0.11,ci,ci40832871,2025-01-03T21:45:59.262Z,"18 km ESE of Little Lake, CA",earthquake,0.24,0.55,0.143,5,reviewed,ci,ci
 2025-01-03T05:20:35.730Z,35.9011667,-117.6928333,11.64,-0.28,ml,4,177,0.05798,0.1,ci,ci37693892,2025-01-03T21:45:42.907Z,"20 km ESE of Little Lake, CA",earthquake,0.46,1.07,0.071,4,reviewed,ci,ci
 2025-01-03T05:12:07.098Z,39.1833,-120.4786,0,1.4,ml,10,219.58,0.208,0.0564,nn,nn00891305,2025-01-03T05:14:20.693Z,"15 km SSW of Kingvale, California",earthquake,,15.4,0.29,5,automatic,nn,nn
-2025-01-03T04:55:11.963Z,36.3284,-114.9728,11.5,2.1,ml,14,101.09,0.14,0.1382,nn,nn00891303,2025-01-04T02:05:41.170Z,"11 km NE of Nellis Air Force Base, Nevada",earthquake,,1.5,0.21,4,reviewed,nn,nn
-2025-01-03T04:51:25.610Z,38.822334289551,-122.81033325195,1.460000038147,0.77,md,15,59,0.01854,0.02,nc,nc75112321,2025-01-03T04:53:01.442Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.620000005,0.18,16,automatic,nc,nc
-2025-01-03T04:49:08.549Z,63.2381,-150.6567,127,1.5,ml,,,,0.37,ak,ak02551aana,2025-01-03T04:51:27.631Z,"63 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
