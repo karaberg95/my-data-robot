@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-08T07:39:14.375Z,36.4729,-116.7511,10.6,1.3,ml,10,178.17,0.09,0.3222,nn,nn00891579,2025-01-08T07:41:40.315Z,"9 km ENE of Furnace Creek, California",earthquake,,0.9,0.31,7,automatic,nn,nn
+2025-01-08T07:33:51.180Z,38.826332092285,-122.79566955566,1.3200000524521,1.12,md,17,54,0.01163,0.03,nc,nc75114391,2025-01-08T07:35:29.495Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.629999995,0.16,17,automatic,nc,nc
+2025-01-08T07:33:15.810Z,38.826332092285,-122.79416656494,1.710000038147,1.05,md,12,63,0.01242,0.02,nc,nc75114386,2025-01-08T07:34:49.453Z,"6 km WNW of Cobb, CA",earthquake,0.33,1.00999999,0.12,13,automatic,nc,nc
 2025-01-08T07:29:59.782Z,61.5924,-149.9867,32.9,1.7,ml,,,,0.42,ak,ak025dcn5ka,2025-01-08T07:32:17.871Z,"8 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-08T06:55:57.180Z,62.2902,-151.9952,107.7,2.1,ml,,,,0.44,ak,ak025dc7adi,2025-01-08T06:58:33.671Z,"45 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-08T06:54:25.764Z,60.9059,-150.9138,16.1,1.8,ml,,,,0.4,ak,ak025dc708g,2025-01-08T06:56:03.565Z,"12 km W of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -170,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T07:54:10.330Z,28.4866,87.2967,10,4.4,mb,51,92,3.565,1.02,us,us6000pid2,2025-01-07T22:52:46.695Z,"Southern Tibetan Plateau",earthquake,9.51,1.917,0.087,38,reviewed,us,us
 2025-01-07T07:53:56.920Z,48.017166666667,-121.849,13.8,1.78,ml,40,63,0.1036,0.17,uw,uw62061632,2025-01-07T18:44:33.100Z,"7 km ENE of Lake Roesiger, Washington",earthquake,0.23,0.49,0.12634559239511,27,reviewed,uw,uw
 2025-01-07T07:51:53.160Z,58.274166666667,-154.951,1.5,-0.16,ml,7,151,0.06329,0.14,av,av93447211,2025-01-07T17:07:39.390Z,"83 km NNW of Karluk, Alaska",earthquake,0.35,1.39,0.2609578984679,7,reviewed,av,av
-2025-01-07T07:40:26.990Z,58.191833333333,-155.2515,2.8,-0.53,ml,9,82,0.04446,0.08,av,av93447191,2025-01-07T17:01:00.570Z,"83 km NW of Karluk, Alaska",earthquake,0.27,1.13,0.23502407617032,9,reviewed,av,av
-2025-01-07T07:34:30.030Z,53.1165,-168.5035,3.82,2.1,ml,7,191,0.2568,0.19,av,av93447181,2025-01-07T22:27:34.480Z,"31 km NE of Nikolski, Alaska",earthquake,4.77,1.55,0.23817350077656,7,reviewed,av,av
