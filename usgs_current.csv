@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T20:21:10.171Z,-32.8225,-176.9683,10,5.1,mb,34,117,3.642,0.89,us,us6000pjg3,2025-01-11T20:39:19.040Z,"south of the Kermadec Islands",earthquake,9.98,1.966,0.114,25,reviewed,us,us
 2025-01-11T20:15:27.780Z,38.791168212891,-122.76300048828,7.4800000190735,0.93,md,6,194,0.02053,0.09,nc,nc75115986,2025-01-11T20:27:41.839Z,"2 km  of The Geysers, CA",earthquake,2.07,3.48000002,0.3,6,automatic,nc,nc
 2025-01-11T20:14:34.050Z,35.9025002,-117.7399979,6.86,1.82,ml,18,72,0.08569,0.16,ci,ci40838111,2025-01-11T20:16:47.191Z,"16 km ESE of Little Lake, CA",earthquake,0.33,0.86,0.336,17,automatic,ci,ci
 2025-01-11T20:13:35.013Z,62.5086,-149.3335,25.8,1.9,ml,,,,1.13,ak,ak025iiwcjh,2025-01-11T20:15:16.443Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
