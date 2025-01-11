@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T05:34:48.537Z,62.5519,-151.3169,74.3,1.9,ml,,,,0.69,ak,ak025ia3djp,2025-01-11T05:37:33.061Z,"29 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-11T05:20:33.090Z,38.836166381836,-122.83583068848,1.5900000333786,0.72,md,12,88,0.002434,0.01,nc,nc75115751,2025-01-11T05:22:12.580Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.540000021,0.07,12,automatic,nc,nc
 2025-01-11T05:01:41.670Z,37.756832122803,-122.55867004394,8.1499996185303,2.02,md,31,158,0.07664,0.05,nc,nc75115746,2025-01-11T05:22:16.157Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.32,0.569999993,0.15,27,automatic,nc,nc
 2025-01-11T04:40:37.210Z,19.136666666667,-66.435833333333,9.48,3.11,md,11,300,0.8165,0.18,pr,pr71470558,2025-01-11T05:21:42.850Z,"74 km N of Brenas, Puerto Rico",earthquake,5.85,8.5,0.058664527522197,7,reviewed,pr,pr
@@ -250,7 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T05:49:38.333Z,8.5144,126.6482,12.99,4.9,mb,68,109,1.784,1.34,us,us6000pj4g,2025-01-10T06:29:54.040Z,"37 km ENE of Hinatuan, Philippines",earthquake,9.8,4.173,0.065,75,reviewed,us,us
 2025-01-10T05:48:27.390Z,44.647666666667,-112.16633333333,9.03,0.94,ml,8,116,0.1716,0.11,mb,mb90070728,2025-01-10T16:17:41.310Z,"31 km N of Spencer, Idaho",earthquake,0.54,2.14,0.10275703514224,7,reviewed,mb,mb
 2025-01-10T05:47:56.420Z,37.429668426514,-121.76716613769,9.0900001525879,1.31,md,10,173,0.05667,0.02,nc,nc75115226,2025-01-10T06:22:15.729Z,"9 km NE of Alum Rock, CA",earthquake,0.36,0.670000017,0.16,3,automatic,nc,nc
-2025-01-10T05:45:12.125Z,31.643,-104.479,6.6125,1.5,ml,20,68,0,0.1,tx,tx2025aqwx,2025-01-10T14:58:31.335Z,"59 km S of Whites City, New Mexico",earthquake,0.68686219796009,0.44578904044015,0.1,15,reviewed,tx,tx
-2025-01-10T05:39:08.090Z,61.326833333333,-152.24316666667,-2.7,0.08,ml,10,127,0.07484,0.2,av,av93450566,2025-01-10T22:42:55.350Z,"65 km WNW of Beluga, Alaska",earthquake,0.36,1.74,0.17787831379227,10,reviewed,av,av
-2025-01-10T05:38:49.234Z,31.639,-104.29,2.8186,1.7,ml,16,69,0,0.1,tx,tx2025aqws,2025-01-10T15:21:22.474Z,"59 km NW of Toyah, Texas",earthquake,0.83090619321734,1.8442485885313,0.2,20,reviewed,tx,tx
-2025-01-10T05:37:55.165Z,61.0738,-148.2118,32.4,1.8,ml,,,,1.41,ak,ak025gmkoty,2025-01-10T05:40:11.768Z,"42 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
