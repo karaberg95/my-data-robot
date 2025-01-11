@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T21:35:19.564Z,39.1829,-119.0309,5.8,1.1,ml,8,111.55,0.013,0.0665,nn,nn00891792,2025-01-11T21:37:41.926Z,"24 km NNE of Yerington, Nevada",earthquake,,0.3,0.24,4,automatic,nn,nn
 2025-01-11T21:31:43.310Z,38.813667297363,-122.82683563232,1.8899999856949,0.83,md,11,82,0.00513,0.02,nc,nc75116001,2025-01-11T21:33:20.105Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.709999979,0.28,13,automatic,nc,nc
 2025-01-11T21:31:25.610Z,60.295,-150.7539,36.8,2,ml,,,,0.48,ak,ak025ijlmb5,2025-01-11T21:32:54.529Z,"23 km S of Funny River, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-11T21:30:56.620Z,37.542835235596,-118.83016967773,4.1100001335144,0.86,md,8,216,0.04712,0.02,nc,nc75115996,2025-01-11T21:32:35.069Z,"13 km W of Toms Place, CA",earthquake,0.96,1.38999999,0.04,8,automatic,nc,nc
