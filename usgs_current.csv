@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-13T20:24:35.321Z,9.1378,40.1902,10,4.8,mb,74,59,3.533,0.63,us,us6000pjsw,2025-01-13T20:45:21.258Z,"17 km N of Āwash, Ethiopia",earthquake,9.68,1.89,0.069,65,reviewed,us,us
 2025-01-13T20:20:56.076Z,37.009,-117.4181,8.5,1.6,ml,21,165.63,0.043,0.1982,nn,nn00891911,2025-01-13T20:23:27.524Z,"59 km W of Beatty, Nevada",earthquake,,0.6,0.26,16,automatic,nn,nn
 2025-01-13T20:19:18.540Z,38.791999816895,-122.77866363525,1.5299999713898,0.76,md,14,79,0.007327,0.02,nc,nc75116731,2025-01-13T20:20:54.280Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.469999999,0.05,14,automatic,nc,nc
 2025-01-13T20:18:17.104Z,39.0884,-119.0313,8.6,0.9,ml,8,98.54,0.081,0.0613,nn,nn00891910,2025-01-13T20:20:34.328Z,"16 km NE of Yerington, Nevada",earthquake,,1,0.11,2,automatic,nn,nn
 2025-01-13T20:10:36.631Z,60.8523,-150.8522,41.4,2,ml,,,,0.54,ak,ak025ltyei7,2025-01-13T20:13:37.163Z,"11 km SW of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-01-13T20:08:04.360Z,38.836833953857,-122.81632995606,1.5,0.42,md,12,66,0.01428,0.01,nc,nc75116726,2025-01-13T20:09:39.322Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.899999976,0.28,11,automatic,nc,nc
 2025-01-13T20:02:39.640Z,36.0925,-115.8508,15.9,0.9,ml,8,335.57,0.574,0.3922,nn,nn00891909,2025-01-13T20:05:14.372Z,"17 km SE of Pahrump, Nevada",earthquake,,1.8,0.64,6,automatic,nn,nn
+2025-01-13T20:01:24.900Z,46.005,-112.464,-2,1.65,ml,6,130,0.06485,0.06,mb,mb90070883,2025-01-13T20:39:43.030Z,"5 km E of Butte, Montana",quarry blast,0.42,31.61,0.13523025753794,17,reviewed,mb,mb
 2025-01-13T20:00:29.290Z,33.6793333,-117.1241667,0.77,1.79,ml,25,69,0.06275,0.25,ci,ci40838935,2025-01-13T20:08:53.272Z,"5 km SW of Winchester, CA",earthquake,0.36,0.6,0.429,39,automatic,ci,ci
 2025-01-13T19:38:42.910Z,39.1591,-119.0764,9.9,1.1,ml,8,145.03,0.031,0.0833,nn,nn00891908,2025-01-13T19:40:44.124Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.14,4,automatic,nn,nn
 2025-01-13T19:33:31.745Z,53.0684,-163.082,10,3.3,ml,16,229,1.727,0.33,us,us6000pjsl,2025-01-13T19:44:12.040Z,"199 km S of False Pass, Alaska",earthquake,6.23,2.011,0.085,18,reviewed,us,us
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T12:24:06.532Z,7.1002,-35.1595,10,5,mb,31,119,12.863,0.72,us,us6000pjp4,2025-01-13T13:05:04.040Z,"central Mid-Atlantic Ridge",earthquake,14.14,1.941,0.1,32,reviewed,us,us
 2025-01-13T12:20:58.510Z,34.026,-117.2068333,13.94,1.39,ml,63,31,0.07898,0.16,ci,ci40838751,2025-01-13T12:25:38.456Z,"4 km SW of Redlands, CA",earthquake,0.14,0.3,0.148,30,automatic,ci,ci
 2025-01-13T12:19:55.850Z,36.641334533691,-121.2945022583,6,1.42,md,12,57,0.03446,0.19,nc,nc75116611,2025-01-13T12:21:33.084Z,"17 km S of Tres Pinos, CA",earthquake,0.6,1.60000002,0.28,10,automatic,nc,nc
-2025-01-13T12:19:32.062Z,31.8062,131.5651,36,6.8,mww,139,26,0.994,1.19,us,us6000pjny,2025-01-13T16:48:35.223Z,"18 km SE of Miyazaki, Japan",earthquake,5.48,1.869,0.033,87,reviewed,us,us
+2025-01-13T12:19:32.062Z,31.8062,131.5651,36,6.8,mww,139,26,0.994,1.19,us,us6000pjny,2025-01-13T20:45:38.872Z,"18 km SE of Miyazaki, Japan",earthquake,5.48,1.869,0.033,87,reviewed,us,us
 2025-01-13T12:08:54.030Z,36.647998809815,-121.28816986084,5.5100002288818,1.72,md,21,121,0.04275,0.13,nc,nc75116601,2025-01-13T12:10:34.290Z,"16 km S of Tres Pinos, CA",earthquake,0.44,1.37,0.25,20,automatic,nc,nc
 2025-01-13T12:04:09.888Z,32.005,-101.724,7.1777,1.6,ml,22,85,0.1,0.1,tx,tx2025awvy,2025-01-13T18:18:13.708Z,"15 km SSE of Stanton, Texas",earthquake,0.47238671831689,1.0711085756106,0.2,26,reviewed,tx,tx
 2025-01-13T11:48:43.910Z,36.632667541504,-121.29033660889,6.0700001716614,1.88,md,25,54,0.02927,0.16,nc,nc75116596,2025-01-13T11:50:17.796Z,"17 km NW of Pinnacles, CA",earthquake,0.32,0.879999995,0.17,23,automatic,nc,nc
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T11:21:52.009Z,35.7805,-98.42183333,7.12,1.77,ml,78,63,0.1529699821,0.31,ok,ok2025awun,2025-01-13T13:23:22.914Z,"6 km NW of Greenfield, Oklahoma",earthquake,,0.7,0.22,31,reviewed,ok,ok
 2025-01-13T11:13:00.180Z,19.010333333333,-68.151833333333,58.93,3.31,md,10,184,1.018,0.17,pr,pr71470758,2025-01-13T11:51:41.730Z,"54 km NNE of Punta Cana, Dominican Republic",earthquake,1.33,2.66,0.073286788226462,5,reviewed,pr,pr
 2025-01-13T10:48:36.370Z,34.0295,-117.6016667,2.92,1.42,ml,59,37,0.005959,0.18,ci,ci40838735,2025-01-13T16:49:06.920Z,"4 km SE of Ontario, CA",earthquake,0.11,0.14,0.104,30,automatic,ci,ci
-2025-01-13T10:48:29.320Z,40.2595,-111.8135,11.85,1.62,ml,39,52,0.0878,0.17,uu,uu80099576,2025-01-13T19:43:45.527Z,"7 km SW of Vineyard, Utah",earthquake,0.35,0.45,0.069227937494549,5,reviewed,uu,uu
+2025-01-13T10:48:29.320Z,40.2595,-111.8135,11.85,1.62,ml,39,52,0.0878,0.17,uu,uu80099576,2025-01-13T20:43:53.257Z,"7 km SW of Vineyard, Utah",earthquake,0.35,0.45,0.069227937494549,5,reviewed,uu,uu
 2025-01-13T10:26:53.936Z,32.006,-101.714,8.0811,1.3,ml,20,78,0.1,0.1,tx,tx2025awst,2025-01-13T18:31:06.788Z,"15 km SSE of Stanton, Texas",earthquake,0.50854038776361,0.85339794525964,0.2,20,reviewed,tx,tx
 2025-01-13T10:05:05.426Z,60.1693,-139.5816,2.6,2.4,ml,,,,0.68,ak,ak025lnyxgu,2025-01-13T10:07:01.531Z,"69 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-13T09:52:54.270Z,33.8046667,-116.2033333,9.13,1.37,ml,56,55,0.01707,0.14,ci,ci40838727,2025-01-13T10:03:53.540Z,"9 km N of Indio, CA",earthquake,0.15,0.3,0.301,26,automatic,ci,ci
@@ -180,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T21:02:05.610Z,47.728333333333,-113.79766666667,10.09,0.87,ml,6,134,0.06562,0.05,mb,mb90070873,2025-01-13T18:57:30.450Z,"19 km E of Finley Point, Montana",earthquake,0.66,1.3,0.52454845873995,2,reviewed,mb,mb
 2025-01-12T21:01:08.400Z,38.836666107178,-122.83399963379,1,0.93,md,19,55,0.002244,0.02,nc,nc75116361,2025-01-12T21:02:44.604Z,"9 km NW of The Geysers, CA",earthquake,0.19,0.389999986,0.21,19,automatic,nc,nc
 2025-01-12T20:59:06.536Z,9.1989,39.9636,10,4.4,mb,56,76,6.865,0.58,us,us6000pjl6,2025-01-12T22:06:44.040Z,"32 km NW of Āwash, Ethiopia",earthquake,10.95,1.888,0.082,43,reviewed,us,us
-2025-01-12T20:43:43.360Z,17.979333333333,-66.997666666667,10.3,2.35,md,11,165,0.04539,0.11,pr,pr71470733,2025-01-12T21:02:51.410Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.34,0.77,0.1578896850765,5,reviewed,pr,pr
