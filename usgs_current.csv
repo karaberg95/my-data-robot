@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T15:14:44.940Z,33.1773333,-116.0273333,6.64,0.94,ml,33,40,0.04177,0.17,ci,ci40840951,2025-01-16T15:19:36.666Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.19,0.49,0.113,19,automatic,ci,ci
 2025-01-16T14:59:58.060Z,38.829166412354,-122.84016418457,7.8299999237061,1.14,md,9,151,0.007251,0.02,nc,nc75118041,2025-01-16T15:01:30.783Z,"9 km NW of The Geysers, CA",earthquake,2.59,7.21000004,0.09,4,automatic,nc,nc
 2025-01-16T14:35:38.580Z,38.817333221435,-122.7936630249,2.2699999809265,0.44,md,6,104,0.009439,0.02,nc,nc75118031,2025-01-16T14:37:16.517Z,"5 km NNW of The Geysers, CA",earthquake,0.74,1.83000004,0.25,8,automatic,nc,nc
 2025-01-16T14:33:23.217Z,32.412,-101.387,4.6667,1.1,ml,15,63,0,0.4,tx,tx2025bcnl,2025-01-16T14:48:11.311Z,"14 km NNW of Sand Springs, Texas",earthquake,0,1.4063810110092,0.2,12,automatic,tx,tx
@@ -110,12 +111,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T03:30:52.600Z,32.9555,-115.858,7.72,1.28,ml,36,44,0.04996,0.22,ci,ci40840655,2025-01-16T03:35:37.810Z,"24 km WSW of Westmorland, CA",earthquake,0.23,0.58,0.26,27,automatic,ci,ci
 2025-01-16T03:23:10.410Z,33.4593333,-116.5671667,9.91,0.47,ml,22,47,0.04584,0.12,ci,ci40840647,2025-01-16T15:03:37.292Z,"14 km SE of Anza, CA",earthquake,0.16,0.4,0.118,14,reviewed,ci,ci
 2025-01-16T03:20:02.734Z,28.7987,87.4344,10,4.9,mb,64,88,2.145,1.1,us,us6000pkc3,2025-01-16T05:46:12.578Z,"Southern Tibetan Plateau",earthquake,8.45,1.9,0.064,77,reviewed,us,us
+2025-01-16T03:10:53.480Z,46.023333333333,-111.4005,9.06,0.74,ml,7,155,0.1826,0.04,mb,mb90071078,2025-01-16T15:23:28.850Z,"2 km WSW of Ponderosa Pines, Montana",earthquake,0.47,2.46,0.10254692577993,7,reviewed,mb,mb
 2025-01-16T03:03:34.819Z,61.24,-148.1726,23.1,1.4,ml,,,,1.32,ak,ak025qiekjt,2025-01-16T03:05:44.274Z,"46 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-16T02:57:22.809Z,29.1067,87.4439,10,4,mb,27,99,2.308,0.55,us,us6000pkbz,2025-01-16T05:47:09.447Z,"Southern Tibetan Plateau",earthquake,7.26,1.942,0.116,20,reviewed,us,us
 2025-01-16T02:54:48.287Z,32.359,-102.113,5.8643,0.9,ml,21,52,0,0.5,tx,tx2025bbqi,2025-01-16T03:05:57.738Z,"39 km E of McKinney Acres, Texas",earthquake,0,1.8958321809769,0.1,14,automatic,tx,tx
 2025-01-16T02:54:14.580Z,35.2418333,-118.5198333,4.81,1.22,ml,27,54,0.1387,0.11,ci,ci40840631,2025-01-16T15:03:56.153Z,"14 km NNW of Tehachapi, CA",earthquake,0.15,0.74,0.215,27,reviewed,ci,ci
 2025-01-16T02:50:03.080Z,33.1685,-116.038,6.45,1.5,ml,63,21,0.05078,0.2,ci,ci40840623,2025-01-16T03:00:48.780Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.15,0.54,0.145,26,automatic,ci,ci
-2025-01-16T02:43:29.120Z,34.0783333,-117.638,10.38,1.26,ml,8,274,0.1549,0.06,ci,ci40840615,2025-01-16T02:48:10.812Z,"2 km SSE of Upland, CA",earthquake,2.11,0.59,0.324,33,automatic,ci,ci
+2025-01-16T02:43:30.240Z,34.0263333,-117.5838333,6.84,0.82,ml,26,103,0.02847,0.17,ci,ci40840615,2025-01-16T15:28:40.202Z,"5 km SE of Ontario, CA",earthquake,0.27,0.47,0.109,12,reviewed,ci,ci
 2025-01-16T02:43:02.388Z,31.629,-104.495,6.6638,1.5,ml,28,108,0,0.2,tx,tx2025bbpy,2025-01-16T11:56:16.423Z,"61 km S of Whites City, New Mexico",earthquake,0.85107565176561,0.59782857015425,0.1,18,reviewed,tx,tx
 2025-01-16T02:39:06.690Z,31.62,-104.5,6.7664,2.3,ml,13,109,0,0.2,tx,tx2025bbpu,2025-01-16T09:30:12.120Z,"62 km S of Whites City, New Mexico",earthquake,1.3409270542155,0.78329241957494,0.1,31,reviewed,tx,tx
 2025-01-16T02:36:51.610Z,8.5579,40.2007,10,4.5,mb,27,265,3.939,0.68,us,us6000pkbw,2025-01-16T02:58:57.040Z,"45 km SW of Gelemso, Ethiopia",earthquake,7.72,2.006,0.128,18,reviewed,us,us
@@ -229,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T16:12:54.780Z,34.52033333,-96.63916667,0,1.21,ml,56,68,0.112477928,0.74,ok,ok2025bavd,2025-01-16T13:36:56.224Z,"17 km NW of Bromide, Oklahoma",quarry blast,,0.8,0.22,23,reviewed,ok,ok
 2025-01-15T15:44:41.220Z,31.8871667,-115.7008333,5.13,1.33,ml,6,174,0.1201,0.08,ci,ci40840143,2025-01-15T17:53:52.252Z,"63 km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.36,0.69,0.297,4,reviewed,ci,ci
 2025-01-15T15:31:49.869Z,31.653,-104.45,7.3303,1.6,ml,29,82,0,0.3,tx,tx2025batu,2025-01-16T11:24:19.212Z,"58 km S of Whites City, New Mexico",earthquake,1.3918727900585,1.2026284596946,0.1,18,reviewed,tx,tx
-2025-01-15T15:26:54.950Z,61.315333333333,-152.25983333333,1.76,-0.35,ml,7,176,0.07116,0.05,av,av93030239,2025-01-16T02:17:50.890Z,"66 km WNW of Beluga, Alaska",earthquake,0.3,1.48,0.27847729155292,8,reviewed,av,av
-2025-01-15T15:23:51.399Z,38.3687,-115.8152,4.5,2.3,ml,8,54.82,0.181,0.1332,nn,nn00892022,2025-01-15T17:17:22.673Z,"80 km N of Rachel, Nevada",earthquake,,2.7,0.24,6,reviewed,nn,nn
-2025-01-15T15:20:55.120Z,17.9505,-66.816,10.97,2.43,md,10,173,0.05434,0.22,pr,pr71470893,2025-01-15T15:39:43.860Z,"4 km S of Indios, Puerto Rico",earthquake,0.7,0.75,0.08875533987707,7,reviewed,pr,pr
-2025-01-15T15:18:55.210Z,33.0421667,-116.3046667,9.32,1.58,ml,60,47,0.08733,0.18,ci,ci40840127,2025-01-15T21:12:24.030Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.48,0.168,52,reviewed,ci,ci
