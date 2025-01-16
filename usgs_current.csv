@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T10:26:35.158Z,59.7929,-152.8703,73.8,1,ml,,,,0.95,ak,ak025qmpj2z,2025-01-16T10:28:56.884Z,"58 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-16T10:17:46.669Z,39.619,-119.7716,6.8,1,ml,12,207.97,0.046,0.1291,nn,nn00892066,2025-01-16T10:19:51.121Z,"2 km N of Sun Valley, Nevada",earthquake,,0.5,0.01,7,automatic,nn,nn
 2025-01-16T10:05:52.180Z,37.295166015625,-118.49366760254,3.0099999904633,2.08,md,7,225,0.18,0.08,nc,nc75117931,2025-01-16T10:07:28.635Z,"8 km SW of West Bishop, CA",earthquake,1.06,7.80000019,0.26,4,automatic,nc,nc
 2025-01-16T10:04:36.332Z,40.132,-119.1269,0,1.5,ml,10,197.16,0.464,0.1938,nn,nn00892063,2025-01-16T10:07:00.955Z,"38 km NNE of Nixon, Nevada",earthquake,,6.5,0.23,5,automatic,nn,nn
