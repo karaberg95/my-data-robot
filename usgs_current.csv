@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T03:30:52.720Z,32.9488333,-115.8638333,5.89,1.28,ml,27,57,0.0539,0.19,ci,ci40840663,2025-01-16T03:38:14.067Z,"25 km WSW of Westmorland, CA",earthquake,0.25,0.52,0.262,27,automatic,ci,ci
+2025-01-16T03:30:52.600Z,32.9555,-115.858,7.72,1.28,ml,36,44,0.04996,0.22,ci,ci40840655,2025-01-16T03:35:37.810Z,"24 km WSW of Westmorland, CA",earthquake,0.23,0.58,0.26,27,automatic,ci,ci
 2025-01-16T03:23:10.410Z,33.4593333,-116.5671667,9.91,0.47,ml,22,47,0.04584,0.12,ci,ci40840647,2025-01-16T03:27:18.997Z,"14 km SE of Anza, CA",earthquake,0.16,0.4,0.118,14,automatic,ci,ci
+2025-01-16T03:20:02.734Z,28.7987,87.4344,10,4.9,mb,64,88,2.145,1.1,us,us6000pkc3,2025-01-16T03:36:27.040Z,"112 km NNE of Lobuche, Nepal",earthquake,8.45,1.9,0.064,77,reviewed,us,us
 2025-01-16T03:03:34.819Z,61.24,-148.1726,23.1,1.4,ml,,,,1.32,ak,ak025qiekjt,2025-01-16T03:05:44.274Z,"46 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-16T02:57:22.809Z,29.1067,87.4439,10,4,mb,27,99,2.308,0.55,us,us6000pkbz,2025-01-16T03:22:48.040Z,"140 km W of Rikaze, China",earthquake,7.26,1.942,0.116,20,reviewed,us,us
 2025-01-16T02:54:48.287Z,32.359,-102.113,5.8643,0.9,ml,21,52,0,0.5,tx,tx2025bbqi,2025-01-16T03:05:57.738Z,"39 km E of McKinney Acres, Texas",earthquake,0,1.8958321809769,0.1,14,automatic,tx,tx
