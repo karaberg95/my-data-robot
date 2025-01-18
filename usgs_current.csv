@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-17T06:21:36.680Z,31.633,-104.5,7.3303,1.5,ml,19,69,0,0.1,tx,tx2025bdsq,2025-01-17T14:05:26.032Z,"61 km S of Whites City, New Mexico",earthquake,1.045403716038,0.61988500449479,0.2,32,reviewed,tx,tx
 2025-01-17T06:17:09.155Z,38.4819,-118.4826,9.2,1.6,ml,10,86.32,0.15,0.119,nn,nn00892098,2025-01-17T18:23:51.798Z,"13 km ESE of Hawthorne, Nevada",earthquake,,1.8,0.36,6,reviewed,nn,nn
 2025-01-17T05:58:49.070Z,44.4025,-115.2185,11.62,2.15,ml,13,70,0.3989,0.14,mb,mb90071158,2025-01-17T17:00:05.390Z,"30 km NW of Stanley, Idaho",earthquake,0.36,0.65,0.18979341730002,21,reviewed,mb,mb
-2025-01-17T05:47:45.050Z,38.789001464844,-122.7919998169,1.0499999523163,0.8,md,7,114,0.005251,0.01,nc,nc75118321,2025-01-17T05:49:24.694Z,"3 km NW of The Geysers, CA",earthquake,0.38,0.610000014,0.12,9,automatic,nc,nc
