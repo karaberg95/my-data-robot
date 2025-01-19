@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-18T07:38:33.580Z,34.0466667,-117.1335,6.09,0.62,ml,32,42,0.02077,0.16,ci,ci40842343,2025-01-18T07:43:02.685Z,"3 km S of Mentone, CA",earthquake,0.17,0.42,0.207,17,automatic,ci,ci
 2025-01-18T07:34:54.470Z,61.21,-146.955,34.7,1.8,ml,,,,0.63,ak,ak025tw1oo7,2025-01-18T07:36:39.321Z,"33 km WNW of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-01-18T07:31:06.210Z,38.825164794922,-122.85050201416,1.9500000476837,0.94,md,22,86,0.005515,0.02,nc,nc75118976,2025-01-18T07:32:42.681Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.379999995,0.16,22,automatic,nc,nc
-2025-01-18T06:59:19.172Z,62.5987,-151.3482,89.4,2.1,ml,,,,0.68,ak,ak025tvlj8t,2025-01-18T07:01:52.580Z,"32 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
