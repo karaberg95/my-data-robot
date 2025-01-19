@@ -185,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-18T20:07:03.788Z,61.3539,-146.7328,16.1,1.9,ml,,,,0.72,ak,ak025u3mfai,2025-01-18T20:09:15.630Z,"32 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-18T20:01:47.597Z,24.4515,95.0812,126.375,4.5,mb,58,53,3.234,0.68,us,us6000pkzi,2025-01-19T15:06:26.040Z,"104 km E of Wāngjing, India",earthquake,9.24,7.587,0.084,42,reviewed,us,us
 2025-01-18T19:58:09.408Z,60.2515,-150.8013,51.3,2.6,ml,,,,0.61,ak,ak025u3bxm8,2025-01-18T19:59:59.500Z,"27 km ESE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-01-18T19:44:51.190Z,37.9441,-116.0706,11.6,1.6,ml,15,285.31,0.741,0.3161,nn,nn00892192,2025-01-18T19:47:28.183Z,"43 km NW of Rachel, Nevada",earthquake,,3.3,0.26,10,automatic,nn,nn
-2025-01-18T19:44:17.981Z,24.9402,123.4562,10,5,mww,69,62,0.621,0.72,us,us6000pkzg,2025-01-18T20:13:58.040Z,"69 km NE of Yonakuni, Japan",earthquake,6.29,1.88,0.056,31,reviewed,us,us
