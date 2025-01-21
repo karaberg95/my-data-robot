@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-21T21:53:01.780Z,38.82816696167,-122.80283355713,2.460000038147,0.73,md,7,99,0.007395,0.05,nc,nc75120926,2025-01-21T21:54:39.379Z,"7 km WNW of Cobb, CA",earthquake,0.57,1.32000005,0.28,7,automatic,nc,nc
 2025-01-21T21:36:16.960Z,38.819999694824,-122.82316589356,2.3399999141693,0.75,md,14,66,0.009776,0.01,nc,nc75120921,2025-01-21T21:37:54.142Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.620000005,0.19,14,automatic,nc,nc
 2025-01-21T21:33:03.120Z,34.0406667,-117.135,6.14,0.91,ml,26,42,0.01946,0.17,ci,ci40844663,2025-01-21T21:37:58.188Z,"3 km S of Mentone, CA",earthquake,0.21,0.46,0.27,26,automatic,ci,ci
 2025-01-21T21:23:22.470Z,37.4799,-116.5196,16,0.6,ml,8,271.61,0.308,0.097,nn,nn00892350,2025-01-21T21:25:13.208Z,"66 km NNE of Beatty, Nevada",earthquake,,3.3,0.28,5,automatic,nn,nn
@@ -227,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T22:03:16.047Z,61.4381,-152.3384,12.2,1.4,ml,,,,0.09,ak,ak025xfv5kk,2025-01-20T22:06:44.951Z,"75 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-20T22:03:03.340Z,18.0315,-66.732833333333,43.68,2.44,md,18,123,0.1502,0.24,pr,pr71471198,2025-01-20T22:24:00.830Z,"2 km SSW of Peñuelas, Puerto Rico",earthquake,0.77,1.03,0.067807306195921,8,reviewed,pr,pr
 2025-01-20T21:57:12.823Z,32.257,-101.948,7.6904,1.2,ml,26,64,0,0.1,tx,tx2025bkka,2025-01-21T18:34:20.673Z,"20 km NW of Stanton, Texas",earthquake,0.51008137146513,0.64888589355319,0.2,20,reviewed,tx,tx
-2025-01-20T21:49:52.050Z,47.607666666667,-121.81716666667,16.99,0.22,md,5,170,0.1197,0.06,uw,uw62071401,2025-01-21T06:50:24.290Z,"7 km NE of Fall City, Washington",earthquake,1,0.74,0.10810568862267,2,reviewed,uw,uw
-2025-01-20T21:49:15.750Z,38.196998596191,-122.31199645996,6.6700000762939,1.22,md,12,60,0.04139,0.16,nc,nc75120336,2025-01-20T21:50:51.485Z,"5 km NW of American Canyon, CA",earthquake,0.44,1.73000002,0.15,10,automatic,nc,nc
-2025-01-20T21:46:59.931Z,61.3226,-152.2962,4.1,1.4,ml,,,,0.23,ak,ak025xfj155,2025-01-20T21:48:46.299Z,"68 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
