@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-22T14:07:39.890Z,38.823665618896,-122.80966949463,2.3599998950958,0.6,md,7,99,0.01928,0.01,nc,nc75121281,2025-01-22T14:09:17.315Z,"7 km NNW of The Geysers, CA",earthquake,0.66,2.6099999,0.32,9,automatic,nc,nc
 2025-01-22T13:57:51.470Z,33.9353333,-116.7786667,15.13,1.29,ml,47,47,0.022,0.15,ci,ci40845191,2025-01-22T14:25:09.460Z,"2 km NNE of Cabazon, CA",earthquake,0.15,0.37,0.195,27,reviewed,ci,ci
 2025-01-22T13:53:44.582Z,51.3141,-176.5631,25.9,3.8,ml,,,,0.65,ak,ak02510lvq3c,2025-01-22T14:17:43.825Z,"62 km S of Adak, Alaska",earthquake,,4.8,,,reviewed,ak,ak
-2025-01-22T13:53:01.000Z,38.793998718262,-122.73466491699,1.3999999761581,0.26,md,4,164,0.02066,0,nc,nc75121276,2025-01-22T13:54:37.160Z,"3 km ENE of The Geysers, CA",earthquake,0.67,1.80999994,0.06,5,automatic,nc,nc
