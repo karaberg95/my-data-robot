@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-24T13:44:31.288Z,37.3865,-117.1261,0.7,1,ml,10,143.65,0.403,0.3241,nn,nn00892462,2025-01-24T13:46:37.546Z,"37 km SSE of Goldfield, Nevada",earthquake,,34.6,0.29,7,automatic,nn,nn
 2025-01-24T13:22:41.010Z,38.125831604004,-122.43499755859,9.9899997711182,1.75,md,32,39,0.0212,0.08,nc,nc75122196,2025-01-24T13:25:39.760Z,"7 km E of Black Point-Green Point, CA",earthquake,0.2,0.560000002,0.2,27,automatic,nc,nc
 2025-01-24T13:18:32.050Z,33.6621667,-116.7286667,14.47,0.3,ml,19,77,0.05365,0.11,ci,ci41035128,2025-01-24T13:22:26.520Z,"9 km S of Idyllwild, CA",earthquake,0.26,0.34,0.144,7,automatic,ci,ci
 2025-01-24T13:16:25.260Z,38.78783416748,-122.76416778565,1.6900000572205,1.04,md,19,70,0.01324,0.02,nc,nc75122191,2025-01-24T13:18:03.225Z,"1 km NNW of The Geysers, CA",earthquake,0.24,0.439999998,0.22,18,automatic,nc,nc
@@ -71,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T05:09:29.590Z,33.1815,-116.0395,4.72,0.87,ml,35,73,0.0524,0.2,ci,ci41034896,2025-01-24T05:13:52.993Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.26,0.63,0.244,5,automatic,ci,ci
 2025-01-24T04:59:48.090Z,38.786998748779,-122.77166748047,0.83999997377396,1.08,md,14,82,0.01412,0.02,nc,nc75122011,2025-01-24T05:01:25.801Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.519999981,0.1,15,automatic,nc,nc
 2025-01-24T04:58:38.860Z,33.7855,-116.0621667,5.17,2.82,ml,73,39,0.1332,0.15,ci,ci41034888,2025-01-24T12:49:47.561Z,"16 km NE of Coachella, CA",earthquake,0.11,0.38,0.161,26,automatic,ci,ci
+2025-01-24T04:55:13.400Z,35.393,-97.89433333,4.36,0.96,ml,29,50,0.01799646848,0.21,ok,ok2025bqki,2025-01-24T13:42:38.588Z,"4 km E of Union City, Oklahoma",earthquake,,0.6,0.23,16,reviewed,ok,ok
 2025-01-24T04:50:51.230Z,34.3093333,-116.4531667,6.4,1.55,ml,40,50,0.119,0.15,ci,ci41034880,2025-01-24T05:01:53.670Z,"22 km N of Yucca Valley, CA",earthquake,0.14,0.61,0.14,26,automatic,ci,ci
 2025-01-24T04:45:01.188Z,36.65,-116.2578,7.1,-0.2,ml,10,169.84,0.065,0.2554,nn,nn00892452,2025-01-24T04:46:44.858Z,"53 km ESE of Beatty, Nevada",earthquake,,1.5,0.13,5,automatic,nn,nn
 2025-01-24T04:26:57.909Z,-41.0888,-86.1322,10,4.9,mb,31,217,10.079,1.13,us,us6000plzg,2025-01-24T04:48:03.040Z,"West Chile Rise",earthquake,11.95,1.984,0.062,83,reviewed,us,us
