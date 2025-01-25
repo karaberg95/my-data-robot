@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T11:38:58.040Z,37.911167144775,-121.59733581543,21.139999389648,2.22,md,34,103,0.09951,0.19,nc,nc75122166,2025-01-24T12:12:17.922Z,"0 km NE of Discovery Bay, CA",earthquake,0.59,0.639999986,0.08,31,automatic,nc,nc
 2025-01-24T11:34:14.890Z,34.1043333,-116.875,10.94,0.93,ml,35,33,0.05165,0.13,ci,ci41035056,2025-01-25T00:05:19.366Z,"16 km SSE of Big Bear Lake, CA",earthquake,0.17,0.35,0.193,25,reviewed,ci,ci
 2025-01-24T11:32:59.915Z,39.119,-119.0493,6,2,ml,23,84.03,0.021,0.1367,nn,nn00892457,2025-01-24T18:33:26.863Z,"17 km NNE of Yerington, Nevada",earthquake,,0.7,0.21,13,reviewed,nn,nn
-2025-01-24T11:18:41.411Z,23.1407,120.4284,10,4.8,mww,83,96,0.244,0.9,us,us6000pm0v,2025-01-25T01:10:57.718Z,"3 km WNW of Yujing, Taiwan",earthquake,3.36,1.854,0.073,18,reviewed,us,us
