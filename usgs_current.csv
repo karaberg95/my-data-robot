@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-26T06:44:40.651Z,32.393,-102.007,4.813,1.1,ml,25,69,0,0.4,tx,tx2025buey,2025-01-26T06:52:01.432Z,"31 km WSW of Ackerly, Texas",earthquake,0,1.0546271800995,0.2,16,automatic,tx,tx
 2025-01-26T06:39:39.750Z,38.81233215332,-122.82633209228,1.8899999856949,1.09,md,19,58,0.004112,0.02,nc,nc75123156,2025-01-26T06:41:16.091Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.479999989,0.19,19,automatic,nc,nc
 2025-01-26T06:36:28.435Z,61.3718,-150.079,39.6,1.8,ml,,,,0.57,ak,ak025173refv,2025-01-26T06:38:22.351Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-01-26T06:28:45.740Z,34.8468333,-118.9646667,12.81,1.24,ml,36,39,0.07159,0.22,ci,ci40851439,2025-01-26T06:32:48.740Z,"3 km NW of Frazier Park, CA",earthquake,0.28,0.53,0.28,28,automatic,ci,ci
 2025-01-26T06:28:32.970Z,38.820835113525,-122.76433563232,1.960000038147,1.33,md,23,118,0.01056,0.03,nc,nc75123151,2025-01-26T06:30:09.954Z,"4 km W of Cobb, CA",earthquake,0.27,0.419999987,0.13,22,automatic,nc,nc
 2025-01-26T06:16:28.720Z,46.026000976562,-122.43800354004,14.710000038147,1.33000004,md,23,130,,0.0700000003,uw,uw62072341,2025-01-26T06:18:34.680Z,"12 km N of Amboy, Washington",earthquake,0.35,1.00999999,1.32000005,2,automatic,uw,uw
-2025-01-26T06:13:37.104Z,-17.7298,168.1157,39.109,5.3,mww,59,123,2.433,0.67,us,us6000pme3,2025-01-26T06:32:32.024Z,"21 km W of Port-Vila, Vanuatu",earthquake,9.73,7.15,0.075,17,reviewed,us,us
+2025-01-26T06:13:37.104Z,-17.7298,168.1157,39.109,5.3,mww,59,123,2.433,0.67,us,us6000pme3,2025-01-26T06:49:41.369Z,"21 km W of Port-Vila, Vanuatu",earthquake,9.73,7.15,0.075,17,reviewed,us,us
 2025-01-26T06:08:44.900Z,38.816165924072,-122.82583618164,3.5199999809265,0.62,md,8,96,0.007741,0.02,nc,nc75123146,2025-01-26T06:10:20.384Z,"7 km NW of The Geysers, CA",earthquake,0.58,1.32000005,0.4,9,automatic,nc,nc
 2025-01-26T06:02:02.500Z,19.2078,-64.1421,29,3.96,md,19,327,1.181,0.35,pr,pr2025026000,2025-01-26T06:41:09.921Z,"118 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.62,23.97,0.15,14,reviewed,pr,pr
 2025-01-26T05:57:24.901Z,-15.6487,-174.5081,174.394,4.5,mb,33,54,3.153,0.75,us,us6000pme2,2025-01-26T06:18:36.040Z,"83 km WNW of Hihifo, Tonga",earthquake,11.66,7.742,0.108,25,reviewed,us,us
