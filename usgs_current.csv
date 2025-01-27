@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-27T04:57:28.152Z,31.277,-103.348,9.0808,2.4,ml,10,163,0,0.7,tx,tx2025bvww,2025-01-27T05:07:19.455Z,"20 km ESE of Lindsay, Texas",earthquake,0,4.2798943519592,0.3,8,automatic,tx,tx
 2025-01-27T04:49:21.740Z,61.2826,-151.6653,75,1.8,ml,,,,0.28,ak,ak02518q6nim,2025-01-27T04:51:37.898Z,"35 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-27T04:19:35.690Z,33.4565,-116.614,10.18,0.5,ml,20,57,0.03935,0.14,ci,ci40852343,2025-01-27T04:23:34.015Z,"12 km SSE of Anza, CA",earthquake,0.23,0.44,0.114,9,automatic,ci,ci
 2025-01-27T04:16:28.430Z,38.785667419434,-122.76483154297,3.75,0.55,md,8,101,0.01494,0.01,nc,nc75123756,2025-01-27T04:18:07.299Z,"1 km NNW of The Geysers, CA",earthquake,0.64,2.00999999,0.22,7,automatic,nc,nc
