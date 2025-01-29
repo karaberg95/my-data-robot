@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-29T11:28:45.510Z,31.6,-104.57,3.8374,1.5,ml,8,173,0.1,0.1,tx,tx2025caau,2025-01-29T11:33:13.300Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.3787243366241,0.2,6,automatic,tx,tx
+2025-01-29T11:37:51.370Z,34.2161667,-117.4625,6.09,0.88,ml,45,51,0.02425,0.19,ci,ci40172362,2025-01-29T11:43:05.640Z,"6 km W of Devore, CA",earthquake,0.2,0.31,0.163,29,automatic,ci,ci
+2025-01-29T11:28:45.446Z,31.598,-104.57,3.97,1.5,ml,8,173,0.1,0.2,tx,tx2025caau,2025-01-29T11:43:53.364Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.4032115936279,0.2,6,automatic,tx,tx
 2025-01-29T11:27:20.856Z,64.4843,-146.8617,9.7,1.5,ml,,,,0.61,ak,ak0251c5anx1,2025-01-29T11:29:24.091Z,"4 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-29T11:09:30.743Z,62.9716,-148.0391,0,1.7,ml,,,,1.01,ak,ak0251c56tsi,2025-01-29T11:11:48.249Z,"65 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-29T10:58:03.862Z,63.6325,-152.1645,9.7,3,ml,,,,0.78,ak,ak0251c4vu76,2025-01-29T11:00:06.953Z,"24 km WNW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T11:59:36.190Z,45.4855,-113.828,5.01,0.82,ml,8,143,0.3028,0.2,mb,mb90071828,2025-01-28T22:38:51.260Z,"32 km WSW of Wisdom, Montana",earthquake,0.67,10.63,0.13319778984443,8,reviewed,mb,mb
 2025-01-28T11:57:11.020Z,38.785167694092,-122.74133300781,0.40999999642372,1.08,md,15,82,0.004085,0.05,nc,nc75124481,2025-01-28T12:08:40.936Z,"2 km ENE of The Geysers, CA",earthquake,0.25,0.419999987,0.1,15,automatic,nc,nc
 2025-01-28T11:50:36.640Z,33.507,-116.4915,15.23,0.51,ml,25,61,0.09331,0.11,ci,ci40853495,2025-01-28T14:56:24.623Z,"18 km ESE of Anza, CA",earthquake,0.19,0.44,0.107,9,reviewed,ci,ci
-2025-01-28T11:38:23.670Z,38.830333709717,-122.85500335693,1.7799999713898,1.04,md,15,74,0.003144,0.01,nc,nc75124476,2025-01-28T11:40:01.703Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.49000001,0.12,15,automatic,nc,nc
