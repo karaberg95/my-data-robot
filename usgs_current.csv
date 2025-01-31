@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-31T14:38:04.374Z,58.4735,-154.0202,80.4,1.9,ml,,,,0.25,ak,ak0251fi7zbp,2025-01-31T14:39:58.396Z,"79 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-31T14:30:04.630Z,38.825332641602,-122.80716705322,2.5299999713898,1.14,md,26,36,0.002983,0.02,nc,nc75126381,2025-01-31T14:31:39.203Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.17,29,automatic,nc,nc
 2025-01-31T14:26:37.890Z,38.802333831787,-122.80616760254,3.7400000095367,0.84,md,9,63,0.01018,0.01,nc,nc75126371,2025-01-31T14:28:14.133Z,"5 km NW of The Geysers, CA",earthquake,0.5,1.52999997,0.53,9,automatic,nc,nc
 2025-01-31T14:26:17.800Z,34.0351667,-117.1218333,11.36,1.13,ml,57,40,0.007831,0.18,ci,ci40176578,2025-01-31T14:31:01.908Z,"4 km SSE of Mentone, CA",earthquake,0.15,0.44,0.171,27,automatic,ci,ci
@@ -232,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T15:33:38.201Z,55.2978,-158.6079,152.5,2.3,ml,,,,0.91,ak,ak0251dv92gs,2025-01-30T15:35:35.413Z,"76 km SSE of Perryville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-01-30T15:23:06.100Z,56.1725,-159.39883333333,17.81,-0.06,ml,7,142,0.05559,0.38,av,av93478126,2025-01-31T05:45:42.330Z,"30 km N of Ivanof Bay, Alaska",earthquake,1.22,2.76,0.17341200369094,6,reviewed,av,av
 2025-01-30T14:56:54.240Z,38.822498321533,-122.84432983398,1.9900000095367,0.66,md,9,86,0.007291,0.01,nc,nc75125671,2025-01-30T14:58:32.584Z,"9 km NW of The Geysers, CA",earthquake,0.53,1.28999996,0.1,9,automatic,nc,nc
-2025-01-30T14:43:24.400Z,60.897833333333,-152.62866666667,5.74,-0.11,ml,5,189,0.3091,0.07,av,av93478056,2025-01-31T04:59:34.350Z,"76 km WNW of Nikiski, Alaska",earthquake,0.64,4.34,0.11553524992611,6,reviewed,av,av
-2025-01-30T14:43:20.930Z,38.792331695557,-122.77983093262,2.3699998855591,0.82,md,16,79,0.006376,0.02,nc,nc75125666,2025-01-30T14:44:58.521Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.620000005,0.14,18,automatic,nc,nc
