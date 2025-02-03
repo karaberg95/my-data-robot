@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-03T04:20:41.446Z,36.568,25.6087,15.52,4.3,mb,37,83,1.404,0.64,us,us7000paxw,2025-02-03T04:39:16.040Z,"22 km NE of Firá, Greece",earthquake,4.35,5.278,0.097,30,reviewed,us,us
 2025-02-03T04:07:16.300Z,37.810832977295,-121.93866729736,7.7199997901917,1.55,md,15,56,0.02506,0.09,nc,nc75127341,2025-02-03T04:08:55.592Z,"3 km W of Blackhawk, CA",earthquake,0.27,0.519999981,0.23,12,automatic,nc,nc
 2025-02-03T04:06:44.595Z,31.608,-104.051,5.4974,1.5,ml,31,34,0,0.2,tx,tx2025cipt,2025-02-03T11:45:32.963Z,"40 km NW of Toyah, Texas",earthquake,0.46973659826958,1.3165336542643,0.1,23,reviewed,tx,tx
-2025-02-03T04:03:59.925Z,62.1622,-153.872,6.3,3.8,ml,,,,0.82,ak,ak0251kaoe6d,2025-02-03T08:01:04.792Z,"98 km SSE of Nikolai, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-02-03T04:03:59.925Z,62.1622,-153.872,6.3,3.8,ml,,,,0.82,ak,ak0251kaoe6d,2025-02-03T20:37:34.040Z,"98 km SSE of Nikolai, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-02-03T03:45:32.242Z,56.9749,-154.5323,83,2.1,ml,,,,0.82,ak,ak0251kabtbc,2025-02-03T03:47:01.783Z,"22 km W of Akhiok, Alaska",earthquake,,3,,,automatic,ak,ak
 2025-02-03T03:44:36.880Z,35.676,-117.5568333,7.17,1,ml,17,110,0.08966,0.18,ci,ci40178674,2025-02-03T19:03:58.572Z,"12 km ENE of Ridgecrest, CA",earthquake,0.34,0.88,0.199,14,reviewed,ci,ci
 2025-02-03T03:41:23.640Z,44.769166666667,-110.785,4.82,1.54,ml,17,88,0.05043,0.15,uu,uu80100536,2025-02-03T15:14:02.950Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.4,0.51,0.4877791469942,3,reviewed,uu,uu
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T21:21:18.928Z,55.157,-156.9413,3.3,3.6,ml,,,,0.53,ak,ak0251ixd3h0,2025-02-03T07:47:33.175Z,"156 km SE of Chignik, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2025-02-02T20:46:38.301Z,62.6174,-151.3232,91,1.5,ml,,,,0.32,ak,ak0251iwx2ae,2025-02-02T20:49:24.390Z,"31 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-02T20:45:02.070Z,62.0112,-148.2623,29.6,1.7,ml,,,,0.54,ak,ak0251iwwrrz,2025-02-02T20:46:59.994Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-02-02T20:37:51.820Z,26.796,127.2365,9.436,4.4,mb,56,66,0.927,0.58,us,us7000pavk,2025-02-02T23:08:26.143Z,"57 km W of Ie, Japan",earthquake,5.91,4.513,0.085,40,reviewed,us,us
