@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-06T09:31:04.567Z,62.8837,-150.2769,77.6,1.8,ml,,,,0.61,ak,ak0251pcfe9k,2025-02-06T09:33:21.389Z,"49 km N of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-06T09:25:48.680Z,34.579,-118.0306667,8.29,0.8,ml,19,53,0.05182,0.16,ci,ci40180586,2025-02-06T09:30:36.181Z,"6 km E of Palmdale, CA",earthquake,0.25,0.52,0.25,18,automatic,ci,ci
 2025-02-06T09:20:11.410Z,38.838333129883,-122.83233642578,20.329999923706,0.93,md,8,169,0.002474,0.08,nc,nc75128586,2025-02-06T09:22:59.346Z,"9 km NNW of The Geysers, CA",earthquake,3.4,1.03999996,0.12,4,automatic,nc,nc
 2025-02-06T09:01:37.099Z,65.3651,-148.2195,5.2,1.5,ml,,,,0.35,ak,ak0251pc91al,2025-02-06T09:03:32.966Z,"23 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-06T08:59:41.690Z,33.9163333,-116.8293333,16.64,0.9,ml,47,36,0.08671,0.17,ci,ci40180578,2025-02-06T09:04:23.162Z,"4 km W of Cabazon, CA",earthquake,0.19,0.5,0.149,27,automatic,ci,ci
@@ -277,4 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T09:51:54.320Z,38.813499450684,-122.8261642456,1.9400000572205,1.06,md,19,89,0.01184,0.02,nc,nc75128111,2025-02-05T09:54:37.582Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.439999998,0.12,16,automatic,nc,nc
 2025-02-05T09:45:06.505Z,65.3512,-148.2554,8.7,1.6,ml,,,,0.54,ak,ak0251noz1y2,2025-02-05T09:47:22.639Z,"23 km SE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-05T09:40:36.920Z,65.4447,-148.2173,1.1,1.7,ml,,,,0.22,ak,ak0251noy1po,2025-02-05T09:42:07.512Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-05T09:32:08.530Z,53.6135,-167.02816666667,15.36,0.48,ml,5,334,0.2012,0.05,av,av93032014,2025-02-06T03:20:43.610Z,"43 km SW of Unalaska, Alaska",earthquake,1.12,1.77,0.21395322883375,5,reviewed,av,av
