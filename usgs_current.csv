@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-08T14:40:26.324Z,65.2623,-148.4209,9.2,1.4,ml,,,,0.63,ak,ak0251sqj8eg,2025-02-08T14:42:54.266Z,"29 km S of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-08T14:10:36.370Z,33.8118333,-117.631,4.76,1.12,ml,38,53,0.02461,0.24,ci,ci40182210,2025-02-08T14:15:22.957Z,"9 km SW of Corona, CA",earthquake,0.24,0.39,0.233,35,automatic,ci,ci
 2025-02-08T14:04:32.149Z,60.2972,-150.9032,61,1.3,ml,,,,0.53,ak,ak0251sqbj42,2025-02-08T14:07:00.512Z,"21 km ESE of Kasilof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-08T14:02:47.850Z,33.0521667,-116.4358333,12.63,0.71,ml,38,65,0.02514,0.18,ci,ci40182202,2025-02-08T14:07:02.079Z,"16 km E of Julian, CA",earthquake,0.21,0.42,0.107,13,automatic,ci,ci
