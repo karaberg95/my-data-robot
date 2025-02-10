@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-10T15:48:29.665Z,37.9359,-118.5645,0,2.4,ml,12,81.44,0.374,0.3438,nn,nn00893189,2025-02-10T15:51:02.517Z,"15 km NNW of Benton, California",earthquake,,38.1,0.3,7,automatic,nn,nn
 2025-02-10T15:41:34.710Z,38.830501556396,-122.81533050537,1.6699999570847,0.25,md,8,82,0.008198,0.02,nc,nc75131232,2025-02-10T15:43:13.105Z,"8 km NNW of The Geysers, CA",earthquake,0.51,1.02999997,0.12,9,automatic,nc,nc
 2025-02-10T15:20:50.730Z,32.9221667,-115.5443333,6.17,1.47,ml,29,72,0.02481,0.34,ci,ci40183378,2025-02-10T15:24:33.075Z,"6 km SSW of Brawley, CA",earthquake,0.42,0.95,0.262,19,automatic,ci,ci
 2025-02-10T15:15:03.577Z,-9.814,119.5721,69.344,5.1,mb,76,79,0.73,0.96,us,us7000pcn8,2025-02-10T15:40:37.040Z,"56 km SE of Tambolaka, Indonesia",earthquake,7.33,6.11,0.073,60,reviewed,us,us
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-09T16:13:38.700Z,35.0613333,-118.348,4.31,1.65,ml,51,37,0.07077,0.18,ci,ci40182834,2025-02-10T00:53:12.780Z,"12 km SE of Tehachapi, CA",earthquake,0.16,0.51,0.192,27,reviewed,ci,ci
 2025-02-09T16:09:47.208Z,62.1372,-150.3811,5.6,1.6,ml,,,,0.54,ak,ak0251uf2uio,2025-02-09T16:11:27.615Z,"21 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-09T15:59:16.450Z,39.3125,-123.48049926758,4.0300002098083,1.46,md,8,120,0.05393,0.06,nc,nc75130657,2025-02-09T16:00:54.244Z,"15 km SW of Willits, CA",earthquake,0.37,1.40999997,0.02,6,automatic,nc,nc
-2025-02-09T15:55:27.836Z,36.5546,25.6596,10,4.2,mb,25,107,1.41,0.92,us,us7000pchq,2025-02-09T16:36:19.040Z,"25 km NE of Firá, Greece",earthquake,5.49,1.932,0.152,12,reviewed,us,us
