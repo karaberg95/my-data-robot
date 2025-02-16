@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-16T18:21:06.150Z,34.168,-117.2676667,8.19,1.37,ml,67,28,0.03539,0.2,ci,ci40187098,2025-02-16T18:31:35.990Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.38,0.186,28,automatic,ci,ci
+2025-02-16T18:21:06.150Z,34.168,-117.2676667,8.19,1.37,ml,67,28,0.03539,0.2,ci,ci40187098,2025-02-16T18:31:51.440Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.38,0.186,28,automatic,ci,ci
 2025-02-16T18:14:43.400Z,38.805332183838,-122.77950286865,3.2400000095367,0.75,md,11,67,0.007969,0.01,nc,nc75134732,2025-02-16T18:16:20.917Z,"4 km NNW of The Geysers, CA",earthquake,0.55,1.49000001,0.03,10,automatic,nc,nc
 2025-02-16T18:12:35.132Z,58.701,-154.0457,102.6,2.3,ml,,,,0.39,ak,ak0252611reh,2025-02-16T18:20:05.040Z,"92 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-16T18:02:54.270Z,36.957832336426,-121.57917022705,6.5900001525879,1.15,md,10,130,0.003421,0.1,nc,nc75134722,2025-02-16T18:04:30.673Z,"5 km SSW of Gilroy, CA",earthquake,0.47,0.709999979,0.22,9,automatic,nc,nc
