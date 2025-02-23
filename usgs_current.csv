@@ -189,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-22T20:50:50.990Z,36.673168182373,-121.34683227539,1.0900000333786,1.75,md,12,92,0.03423,0.14,nc,nc75137421,2025-02-22T20:52:28.520Z,"13 km SSW of Tres Pinos, CA",earthquake,0.46,0.99000001,0.23,7,automatic,nc,nc
 2025-02-22T20:47:40.761Z,64.4846,-146.9034,8.2,0.5,ml,,,,0.65,ak,ak0252fzo82k,2025-02-22T20:49:25.328Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-22T20:47:08.190Z,38.794166564941,-122.75966644287,1.2599999904633,0.74,md,7,121,0.006449,0.02,nc,nc75137416,2025-02-22T20:48:43.436Z,"2 km N of The Geysers, CA",earthquake,0.41,0.819999993,0.12,8,automatic,nc,nc
-2025-02-22T20:35:37.303Z,60.4845,-151.8767,73.2,1.4,ml,,,,0.22,ak,ak0252fzln7m,2025-02-22T20:37:15.299Z,"33 km WNW of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-02-22T20:29:10.158Z,64.5929,-149.8898,25.5,1,ml,,,,0.44,ak,ak0252fzkatj,2025-02-22T20:30:33.851Z,"36 km W of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
