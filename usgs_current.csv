@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-01T23:37:47.610Z,35.8431667,-117.6665,8.84,0.81,ml,17,63,0.08709,0.15,ci,ci41069608,2025-03-01T23:41:11.539Z,"24 km ESE of Little Lake, CA",earthquake,0.27,0.67,0.224,15,automatic,ci,ci
 2025-03-01T23:26:14.900Z,38.783500671387,-122.76132965088,3.420000076294,1.29,md,23,63,0.01322,0.03,nc,nc75141256,2025-03-01T23:27:49.721Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.5,0.21,24,automatic,nc,nc
-2025-03-01T23:22:44.200Z,38.814498901367,-122.81700134277,1.2300000190735,1.09,md,20,50,0.0104,0.02,nc,nc75141251,2025-03-01T23:24:19.609Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.460000008,0.25,20,automatic,nc,nc
+2025-03-01T23:22:44.200Z,38.814498901367,-122.81700134277,1.2300000190735,1.09,md,20,50,0.0104,0.02,nc,nc75141251,2025-03-01T23:42:18.951Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.460000008,0.25,20,automatic,nc,nc
 2025-03-01T23:04:55.346Z,59.8583,-152.3319,71.2,1.8,ml,,,,0.43,ak,ak0252rlyroe,2025-03-01T23:07:36.240Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-01T22:58:00.938Z,31.685,-104.305,4.6532,1.5,ml,18,66,0,0.3,tx,tx2025efod,2025-03-01T23:02:54.039Z,"54 km S of Whites City, New Mexico",earthquake,0,1.2123683691025,0.2,14,automatic,tx,tx
 2025-03-01T22:51:15.210Z,38.833831787109,-122.81883239746,1.9700000286102,0.71,md,10,71,0.01247,0.01,nc,nc75141236,2025-03-01T23:07:17.745Z,"8 km NNW of The Geysers, CA",earthquake,0.54,0.920000017,0.09,10,automatic,nc,nc
@@ -104,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T11:38:22.150Z,38.839832305908,-122.87633514404,2.4300000667572,0.29,md,12,117,0.005786,0.02,nc,nc75140956,2025-03-01T12:27:17.493Z,"13 km NW of The Geysers, CA",earthquake,0.31,0.819999993,0.11,13,automatic,nc,nc
 2025-03-01T11:36:01.067Z,61.2889,-152.235,4.4,2.7,ml,,,,0.45,ak,ak0252rf0b56,2025-03-01T16:51:20.640Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-03-01T11:34:45.420Z,38.822666168213,-122.76383209228,2.210000038147,0.66,md,7,123,0.009127,0.01,nc,nc75140951,2025-03-01T12:17:19.421Z,"4 km WNW of Cobb, CA",earthquake,0.52,1.24000001,0.34,9,automatic,nc,nc
-2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T23:32:01.923Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
+2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T23:42:46.206Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
 2025-03-01T11:25:59.650Z,34.9205,-119.0405,11.3,1.2,ml,26,92,0.08332,0.17,ci,ci41069192,2025-03-01T11:30:19.830Z,"10 km WSW of Grapevine, CA",earthquake,0.31,0.6,0.195,31,automatic,ci,ci
 2025-03-01T11:25:04.826Z,39.0913,-119.0225,4.3,1.2,ml,8,110.5,0.079,0.0978,nn,nn00894194,2025-03-01T11:27:27.097Z,"16 km NE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
 2025-03-01T11:09:18.890Z,36.0418,-111.1811,9.143,3.4,ml,39,43,0.547,0.63,us,us6000pw9n,2025-03-01T23:12:50.690Z,"8 km SSE of Moenkopi, Arizona",earthquake,2.09,8.554,0.031,140,reviewed,us,us
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T03:30:16.360Z,38.816333770752,-122.79699707031,2.3900001049042,0.42,md,8,111,0.008458,0.01,nc,nc75140816,2025-03-01T03:47:23.025Z,"6 km NNW of The Geysers, CA",earthquake,0.7,1.33000004,0.16,8,automatic,nc,nc
 2025-03-01T03:06:59.828Z,31.648,-104.285,4.6404,1.7,ml,20,59,0,0.3,tx,tx2025eeaw,2025-03-01T03:40:48.585Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2968142032623,0.2,15,automatic,tx,tx
 2025-03-01T03:05:08.200Z,18.0285,-65.625666666667,19.67,2.49,md,14,200,0.09743,0.18,pr,pr71473998,2025-03-01T03:15:46.600Z,"18 km WSW of Esperanza, Puerto Rico",earthquake,0.82,0.37,0.11616742200331,11,reviewed,pr,pr
-2025-03-01T02:57:46.990Z,36.18,-120.1535,9.57,1.56,md,19,285,0.09518,0.08,nc,nc75140811,2025-03-01T20:37:18.723Z,"5 km WSW of Huron, CA",earthquake,1.05,0.31,0.229,15,reviewed,nc,nc
+2025-03-01T02:57:46.990Z,36.18,-120.1535,9.57,1.56,md,19,285,0.09518,0.08,nc,nc75140811,2025-03-01T23:42:19.051Z,"5 km WSW of Huron, CA",earthquake,1.05,0.31,0.229,15,reviewed,nc,nc
 2025-03-01T02:53:02.610Z,45.962333333333,-111.53733333333,4.96,0.84,ml,8,100,0.2944,0.05,mb,mb90073358,2025-03-01T15:56:21.130Z,"7 km N of Three Forks, Montana",earthquake,0.27,6.29,0.20226194708426,6,reviewed,mb,mb
 2025-03-01T02:52:23.390Z,38.806999206543,-122.79100036621,1.7699999809265,0.28,md,9,119,0.003498,0.02,nc,nc75140806,2025-03-01T03:17:19.823Z,"4 km NNW of The Geysers, CA",earthquake,0.68,0.959999979,0.09,9,automatic,nc,nc
 2025-03-01T02:48:27.590Z,19.3643,-64.8031,11,3.63,md,16,307,1.0234,0.5,pr,pr2025060000,2025-03-01T03:39:49.744Z,"113 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,12.33,17.23,0.07,10,reviewed,pr,pr
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T00:25:03.198Z,65.1792,-151.1213,10.7,1.4,ml,,,,0.46,ak,ak0252r8e6rz,2025-03-01T00:27:09.424Z,"30 km NW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-01T00:02:15.071Z,64.9424,-147.2929,0,1.3,ml,,,,0.95,ak,ak0252r89a83,2025-03-01T00:03:57.362Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-28T23:51:16.700Z,38.82816696167,-122.81483459473,2.039999961853,0.77,md,18,59,0.006044,0.01,nc,nc75140761,2025-02-28T23:52:55.802Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.08,16,automatic,nc,nc
-2025-02-28T23:38:32.780Z,45.736333333333,-111.83266666667,10.85,0.96,ml,16,63,0.09701,0.1,mb,mb90073348,2025-03-01T15:42:51.350Z,"5 km NW of Harrison, Montana",earthquake,0.29,0.95,0.24883859960591,10,reviewed,mb,mb
