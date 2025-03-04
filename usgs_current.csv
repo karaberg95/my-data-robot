@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-04T23:25:44.200Z,35.257,-97.7835,4.18,0.55,ml,16,79,0.01169770451,0.11,ok,ok2025elbo,2025-03-04T23:35:51.879Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.26,8,reviewed,ok,ok
+2025-03-04T23:18:42.820Z,35.25366667,-97.785,3.61,0.8,ml,16,92,0.01169770451,0.16,ok,ok2025elbi,2025-03-04T23:36:14.210Z,"4 km SSE of Tuttle, Oklahoma",earthquake,,0.7,0.29,8,reviewed,ok,ok
 2025-03-04T23:18:03.955Z,64.0313,-148.79,0,1.7,ml,,,,0.74,ak,ak0252wknp7v,2025-03-04T23:20:03.532Z,"16 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-04T23:08:01.270Z,34.9926667,-118.1815,-0.62,1.44,ml,36,53,0.1314,0.33,ci,ci41071264,2025-03-04T23:16:43.035Z,"7 km S of Mojave, CA",earthquake,0.4,1.07,0.252,35,automatic,ci,ci
 2025-03-04T22:57:23.513Z,61.2224,-152.1771,24.6,0.8,ml,,,,0.12,ak,ak0252wkao1r,2025-03-04T22:58:53.992Z,"58 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -56,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T18:37:10.800Z,33.4538333,-116.6201667,7.61,0.68,ml,15,100,0.02085,0.11,ci,ci41070944,2025-03-04T18:57:07.843Z,"12 km SSE of Anza, CA",earthquake,0.23,0.38,0.134,5,reviewed,ci,ci
 2025-03-04T18:32:55.860Z,38.3923,-117.8416,9.9,1.9,ml,11,58.06,0.213,0.102,nn,nn00894296,2025-03-04T19:38:55.714Z,"23 km E of Mina, Nevada",earthquake,,2,0.29,8,reviewed,nn,nn
 2025-03-04T18:32:39.733Z,36.7709,-115.685,0,0.7,ml,13,281,0.209,0.1401,nn,nn00894295,2025-03-04T19:51:10.952Z,"22 km N of Indian Springs, Nevada",earthquake,,0,0.02,4,reviewed,nn,nn
+2025-03-04T18:27:16.500Z,38.51,-112.90333333333,2.64,0.75,md,15,65,0.01556,0.11,uu,uu80103221,2025-03-04T23:31:13.910Z,"15 km NE of Milford, Utah",earthquake,0.33,0.63,0.38946694702533,6,reviewed,uu,uu
 2025-03-04T18:23:26.050Z,32.34,-115.2146667,10.78,2.62,ml,33,38,0.08705,0.33,ci,ci41070920,2025-03-04T21:47:07.040Z,"3 km SW of Delta, B.C., MX",earthquake,0.42,0.94,0.149,24,reviewed,ci,ci
 2025-03-04T18:19:18.770Z,38.840667724609,-122.83883666992,1.8600000143051,0.97,md,8,219,0.003339,0.01,nc,nc75142821,2025-03-04T18:37:16.107Z,"10 km NW of The Geysers, CA",earthquake,0.81,1,0.32,8,automatic,nc,nc
 2025-03-04T18:11:46.187Z,64.6981,-147.8632,18.2,0.9,ml,,,,0.42,ak,ak0252whn4fu,2025-03-04T18:13:33.291Z,"12 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
