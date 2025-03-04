@@ -5,11 +5,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T22:43:24.266Z,35.9884,-115.127,0.1,2.3,ml,15,232.39,0.517,0.3465,nn,nn00894304,2025-03-04T22:46:46.394Z,"11 km ESE of Enterprise, Nevada",earthquake,,22.5,0.46,11,automatic,nn,nn
 2025-03-04T22:33:55.400Z,33.6735,-116.7448333,13.6,0.9,ml,28,65,0.04893,0.18,ci,ci41071208,2025-03-04T22:40:23.091Z,"8 km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.255,24,automatic,ci,ci
 2025-03-04T22:28:43.300Z,36.059,-118.3848333,3.22,1.6,ml,25,72,0.2868,0.15,ci,ci41071200,2025-03-04T22:32:33.360Z,"34 km N of Kernville, CA",earthquake,0.19,1.22,0.357,12,automatic,ci,ci
-2025-03-04T22:24:06.530Z,16.7858,95.7022,14.253,4.7,mb,48,63,3.509,0.91,us,us6000pwwz,2025-03-04T22:41:05.975Z,"7 km NE of Maubin, Myanmar",earthquake,6.87,3.552,0.087,40,reviewed,us,us
+2025-03-04T22:24:06.530Z,16.7858,95.7022,14.253,4.7,mb,48,63,3.509,0.91,us,us6000pwwz,2025-03-04T22:52:50.789Z,"7 km NE of Maubin, Myanmar",earthquake,6.87,3.552,0.087,40,reviewed,us,us
 2025-03-04T22:12:43.668Z,60.9707,-151.2572,87.1,1.5,ml,,,,0.29,ak,ak0252wk12dq,2025-03-04T22:14:23.308Z,"12 km SSW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-03-04T22:12:40.970Z,33.0401667,-114.9875,4.77,1.67,ml,10,117,0.06822,0.17,ci,ci41071176,2025-03-04T22:20:33.296Z,"45 km NE of Holtville, CA",earthquake,0.53,1.29,0.1,17,automatic,ci,ci
 2025-03-04T22:10:26.309Z,64.0415,-149.1975,3.6,1.6,ml,,,,0.68,ak,ak0252wk0lly,2025-03-04T22:12:18.538Z,"4 km NW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-04T22:08:20.020Z,20.077833333333,-155.52866666667,4.1,2.21,md,15,186,0.1654,0.33,hv,hv74627487,2025-03-04T22:47:08.980Z,"6 km W of Honoka‘a, Hawaii",earthquake,0.81,1.28,0.015940984543254,3,reviewed,hv,hv
+2025-03-04T22:06:44.212Z,16.8634,95.6159,10,5.1,mww,74,63,3.546,0.57,us,us6000pwx1,2025-03-04T22:49:11.983Z,"15 km NNW of Maubin, Myanmar",earthquake,7.65,1.861,0.083,14,reviewed,us,us
 2025-03-04T22:00:43.550Z,35.7003333,-117.5623333,3.88,1.04,ml,23,67,0.1182,0.14,ci,ci41071168,2025-03-04T22:04:43.854Z,"14 km NE of Ridgecrest, CA",earthquake,0.17,0.61,0.11,19,automatic,ci,ci
 2025-03-04T22:00:43.218Z,63.5988,-147.2729,0,2.1,ml,,,,0.92,ak,ak0252wjygru,2025-03-04T22:02:46.436Z,"82 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-04T21:52:34.440Z,38.833999633789,-122.81649780273,1.8099999427795,0.28,md,7,144,0.01172,0.01,nc,nc75142936,2025-03-04T22:22:16.538Z,"8 km NNW of The Geysers, CA",earthquake,0.39,1.04999995,0.14,7,automatic,nc,nc
@@ -82,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T15:00:13.154Z,44.0637,10.0618,10,2.5,ml,9,163,0.466,0.43,us,us6000pwt2,2025-03-04T16:10:48.728Z,"2 km ESE of Casano-Dogana-Isola, Italy",earthquake,2.03,1.999,0.069,28,reviewed,us,us
 2025-03-04T14:53:53.670Z,38.638332366943,-122.66633605957,4.1300001144409,0.86,md,6,171,0.1534,0.14,nc,nc75142716,2025-03-04T17:27:17.639Z,"10 km NW of Calistoga, CA",earthquake,1.8,10.7399998,,3,automatic,nc,nc
 2025-03-04T14:45:09.027Z,-6.1156,148.2342,59.583,4.6,mb,87,35,4.137,0.69,us,us6000pwsx,2025-03-04T17:30:14.040Z,"65 km NE of Finschhafen, Papua New Guinea",earthquake,8.74,6.162,0.062,83,reviewed,us,us
-2025-03-04T14:41:42.960Z,41.8739,-119.6099,4.2,2,ml,5,221.55,0.366,0.1992,nn,nn00894289,2025-03-04T17:07:48.482Z,"44 km E of Fort Bidwell, California",earthquake,,3.3,0.46,4,reviewed,nn,nn
+2025-03-04T14:41:42.960Z,41.8739,-119.6099,4.2,2,ml,5,221.55,0.366,0.1992,nn,nn00894289,2025-03-04T22:52:52.550Z,"44 km E of Fort Bidwell, California",earthquake,,3.3,0.46,4,reviewed,nn,nn
 2025-03-04T14:38:52.302Z,60.5284,-143.4399,20,1.4,ml,,,,1.16,ak,ak0252wff6tq,2025-03-04T14:40:52.068Z,"104 km SSW of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-04T14:34:56.908Z,32.088,-101.492,5.8786,1.2,ml,8,113,0.3,0.5,tx,tx2025ekkg,2025-03-04T15:47:55.018Z,"12 km WSW of Forsan, Texas",earthquake,0,6.8493180274963,0.3,7,automatic,tx,tx
 2025-03-04T14:34:08.530Z,38.813999176025,-122.82466888428,2.4100000858307,0.8,md,13,88,0.006218,0.02,nc,nc75142706,2025-03-04T16:37:15.311Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.810000002,0.31,14,automatic,nc,nc
@@ -90,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T14:11:53.803Z,-22.9986,-67.0885,281.428,4.2,mb,22,87,1.006,0.88,us,us6000pwsw,2025-03-04T16:44:17.040Z,"114 km E of San Pedro de Atacama, Chile",earthquake,9.89,11.608,0.264,4,reviewed,us,us
 2025-03-04T14:08:06.640Z,45.655,-113.596,12.54,1.61,ml,19,79,0.104,0.18,mb,mb90073483,2025-03-04T17:22:31.760Z,"12 km WNW of Wisdom, Montana",earthquake,0.53,0.84,0.1280269514246,23,reviewed,mb,mb
 2025-03-04T14:07:42.770Z,38.829833984375,-122.811668396,1.4400000572205,0.29,md,10,83,0.006549,0.01,nc,nc75142701,2025-03-04T14:27:17.515Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.949999988,0.16,12,automatic,nc,nc
-2025-03-04T14:00:30.595Z,41.89,-119.5984,4.7,2.2,ml,5,219.26,0.359,0.1125,nn,nn00894288,2025-03-04T16:55:31.839Z,"46 km E of Fort Bidwell, California",earthquake,,3.4,0.41,5,reviewed,nn,nn
+2025-03-04T14:00:30.595Z,41.89,-119.5984,4.7,2.2,ml,5,219.26,0.359,0.1125,nn,nn00894288,2025-03-04T22:50:55.280Z,"46 km E of Fort Bidwell, California",earthquake,,3.4,0.41,5,reviewed,nn,nn
 2025-03-04T13:59:29.445Z,56.3415,-158.7497,121,3.1,ml,,,,0.48,ak,ak0252wey7hs,2025-03-04T16:19:19.040Z,"9 km N of Chignik Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-04T13:41:05.088Z,60.994,-151.0257,7.3,2,ml,,,,0.5,ak,ak0252weuaq4,2025-03-04T13:42:37.363Z,"10 km SE of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-04T13:30:35.749Z,37.3785,-117.1306,6.4,1.3,ml,22,144.95,0.13,0.1609,nn,nn00894284,2025-03-04T18:43:45.733Z,"37 km SSE of Goldfield, Nevada",earthquake,,2.8,0.17,8,reviewed,nn,nn
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T08:30:47.763Z,36.4435,70.6015,137.108,4.2,mb,25,156,2.266,0.54,us,us6000pwru,2025-03-04T10:39:54.040Z,"51 km SSW of Jurm, Afghanistan",earthquake,9.37,12.533,0.215,7,reviewed,us,us
 2025-03-04T08:29:16.880Z,38.792999267578,-122.75350189209,1.3799999952316,0.76,md,11,86,0.009029,0.02,nc,nc75142566,2025-03-04T08:47:19.359Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.579999983,0.05,11,automatic,nc,nc
 2025-03-04T08:26:54.530Z,56.3106,-161.8591,188.391,4.2,mb,44,77,1.24,0.69,us,us6000pwrr,2025-03-04T21:14:01.708Z,"53 km NW of Nelson Lagoon, Alaska",earthquake,7.83,10.771,0.098,29,reviewed,us,us
-2025-03-04T08:17:35.106Z,41.8848,-119.5685,4,2,ml,5,220.89,0.377,0.0556,nn,nn00894287,2025-03-04T16:58:37.619Z,"48 km E of Fort Bidwell, California",earthquake,,2.7,0.39,5,reviewed,nn,nn
+2025-03-04T08:17:35.106Z,41.8848,-119.5685,4,2,ml,5,220.89,0.377,0.0556,nn,nn00894287,2025-03-04T22:48:48.900Z,"48 km E of Fort Bidwell, California",earthquake,,2.7,0.39,5,reviewed,nn,nn
 2025-03-04T08:13:45.029Z,59.3285,-152.6378,72,1.9,ml,,,,0.41,ak,ak0252wbp7qj,2025-03-04T08:16:20.636Z,"40 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-04T08:13:28.670Z,36.840167999268,-121.58483123779,5.6599998474121,2.25,md,55,47,0.04072,0.18,nc,nc75142561,2025-03-04T11:37:17.428Z,"4 km W of San Juan Bautista, CA",earthquake,0.24,0.550000012,0.12,49,automatic,nc,nc
 2025-03-04T08:12:54.550Z,40.518165588379,-124.18416595459,9.6099996566772,1.65,md,14,156,0.02866,0.09,nc,nc75142556,2025-03-04T11:22:16.347Z,"7 km WNW of Rio Dell, CA",earthquake,0.78,0.779999971,0.09,10,automatic,nc,nc
