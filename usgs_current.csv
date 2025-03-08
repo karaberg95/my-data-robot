@@ -199,7 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T23:11:28.390Z,19.2191,-64.6545,30,3.67,md,16,311,0.9177,0.18,pr,pr2025066000,2025-03-08T00:02:57.914Z,"99 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.78,12.84,0.11,8,reviewed,pr,pr
 2025-03-07T23:02:46.090Z,35.885,-97.9325,7.78,1.68,ml,89,66,0.082783755,0.3,ok,ok2025eqni,2025-03-07T23:37:19.546Z,"2 km N of Kingfisher, Oklahoma",earthquake,,0.7,0.24,38,reviewed,ok,ok
 2025-03-07T22:54:37.799Z,61.9699,-150.0626,18.9,1.7,ml,,,,0.55,ak,ak02531iw3hf,2025-03-07T22:57:16.333Z,"24 km SSW of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-03-07T22:30:11.140Z,38.80916595459,-122.82649993897,2.7799999713898,0.7,md,10,75,0.002113,0.02,nc,nc75144711,2025-03-08T00:17:21.834Z,"7 km NW of The Geysers, CA",earthquake,0.47,1.79999995,0.27,10,automatic,nc,nc
-2025-03-07T22:30:10.378Z,36.9691,-117.4953,9.1,1.9,ml,15,115.09,0.107,0.1623,nn,nn00894411,2025-03-08T02:07:48.635Z,"63 km NNE of Keeler, California",earthquake,,2.2,0.51,5,reviewed,nn,nn
-2025-03-07T22:26:26.630Z,19.030500411987,-155.35150146484,14.680000305176,2.37,ml,51,215,0.1624,0.219999999,hv,hv74628897,2025-03-07T22:29:46.630Z,"23 km SE of Pāhala, Hawaii",earthquake,0.8,1.38999999,0.67,6,automatic,hv,hv
-2025-03-07T22:24:12.500Z,61.355,-152.29133333333,-2.21,0.16,ml,8,142,0.1039,0.12,av,av93524331,2025-03-08T04:46:52.730Z,"69 km WNW of Beluga, Alaska",earthquake,0.33,1.59,0.26034748608814,9,reviewed,av,av
