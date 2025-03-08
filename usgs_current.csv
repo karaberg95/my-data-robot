@@ -284,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T11:43:41.550Z,49.071666666667,-112.63466666667,28.57,1.08,ml,6,172,0.3934,0.26,mb,mb90073698,2025-03-07T22:06:49.320Z,"41 km SSE of Magrath, Canada",earthquake,0.96,0.6,0.11137055591424,5,reviewed,mb,mb
 2025-03-07T11:43:05.879Z,61.3222,-152.2642,10.5,1.7,ml,,,,0.14,ak,ak02531c9whn,2025-03-07T18:27:56.510Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-07T11:39:38.190Z,35.976,-117.875,2.47,1.44,ml,21,92,0.03405,0.11,ci,ci41073816,2025-03-07T18:51:54.664Z,"5 km NNE of Little Lake, CA",earthquake,0.15,0.19,0.21,25,reviewed,ci,ci
-2025-03-07T11:36:45.950Z,41.583,-112.39683333333,0.88,0.97,md,8,116,0.1126,0.09,uu,uu80103421,2025-03-07T16:20:47.020Z,"14 km SW of Thatcher, Utah",earthquake,0.44,31.61,0.11447829923162,6,reviewed,uu,uu
-2025-03-07T11:32:11.120Z,19.121,-66.338666666667,20.99,2.92,md,14,270,0.6655,0.14,pr,pr71474633,2025-03-07T11:50:08.470Z,"72 km N of Brenas, Puerto Rico",earthquake,0.77,11.77,0.16441251451118,11,reviewed,pr,pr
