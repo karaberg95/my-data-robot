@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-08T09:30:43.400Z,33.5066667,-116.4496667,5.07,0.71,ml,42,71,0.1051,0.18,ci,ci41074400,2025-03-08T09:37:22.135Z,"21 km ESE of Anza, CA",earthquake,0.18,1.09,0.096,17,automatic,ci,ci
 2025-03-08T09:05:33.123Z,31.927,-101.723,2.7493,1,ml,6,133,0.1,0.4,tx,tx2025erhi,2025-03-08T09:25:13.733Z,"23 km SSE of Stanton, Texas",earthquake,0,3.0079238414764,0.3,6,automatic,tx,tx
 2025-03-08T08:56:48.667Z,-6.6178,129.9282,168.403,5,mb,46,56,2.082,0.69,us,us6000pxlx,2025-03-08T09:11:29.040Z,"Banda Sea",earthquake,7.6,7.271,0.109,27,reviewed,us,us
 2025-03-08T08:54:48.610Z,38.7936668396,-122.84783172607,15.970000267029,1.42,md,8,232,0.01228,0.22,nc,nc75144906,2025-03-08T09:17:17.440Z,"8 km WNW of The Geysers, CA",earthquake,4.92,17.9300003,0.05,2,automatic,nc,nc
