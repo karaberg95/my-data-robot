@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-08T08:38:26.779Z,-3.1641,126.2617,8.378,4.5,mb,41,61,3.877,0.9,us,us6000pxlu,2025-03-08T09:15:19.040Z,"126 km SSE of Sanana, Indonesia",earthquake,6.94,4.733,0.106,26,reviewed,us,us
 2025-03-08T08:03:23.657Z,8.8852,126.3293,72.46,4.5,mb,22,108,1.951,0.43,us,us6000pxlt,2025-03-08T08:23:07.040Z,"2 km E of Aras-asan, Philippines",earthquake,13.74,6.68,0.121,20,reviewed,us,us
 2025-03-08T07:54:26.900Z,38.819332122803,-122.82266998291,2.2699999809265,0.95,md,21,49,0.01037,0.02,nc,nc75144886,2025-03-08T08:12:18.016Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.569999993,0.22,21,automatic,nc,nc
-2025-03-08T07:45:04.592Z,63.0075,-149.3976,72,1.9,ml,,,,0.65,ak,ak02532xfxwb,2025-03-08T07:47:04.572Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
