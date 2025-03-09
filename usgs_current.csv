@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-09T19:02:32.860Z,35.3428333,-117.7975,5.14,0.98,ml,25,96,0.08499,0.21,ci,ci41075528,2025-03-09T19:06:02.231Z,"15 km WSW of Johannesburg, CA",earthquake,0.35,1.04,0.112,17,automatic,ci,ci
-2025-03-09T18:56:58.590Z,38.845664978027,-122.77866363525,1.6299999952316,0.25,md,10,150,0.003533,0.02,nc,nc75145691,2025-03-09T18:58:33.939Z,"5 km NW of Cobb, CA",earthquake,0.33,0.479999989,0.14,11,automatic,nc,nc
+2025-03-09T18:56:58.590Z,38.845664978027,-122.77866363525,1.6299999952316,0.25,md,10,150,0.003533,0.02,nc,nc75145691,2025-03-09T19:12:18.962Z,"5 km NW of Cobb, CA",earthquake,0.33,0.479999989,0.14,11,automatic,nc,nc
 2025-03-09T18:39:25.105Z,-21.002,-174.0043,10,4.9,mb,30,130,4.285,0.85,us,us6000pxtu,2025-03-09T19:07:11.040Z,"105 km ENE of ‘Ohonua, Tonga",earthquake,10.51,1.897,0.117,23,reviewed,us,us
 2025-03-09T18:33:34.490Z,19.226999282837,-155.40766906738,28.10000038147,2.24,ml,50,139,0.01419,0.150000006,hv,hv74630607,2025-03-09T18:36:47.100Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.53,0.540000021,0.54,4,automatic,hv,hv
 2025-03-09T18:29:21.219Z,-2.8004,101.1144,53.752,4.5,mb,32,132,2.404,0.85,us,us6000pxts,2025-03-09T18:58:12.040Z,"87 km SSW of Sungai Penuh, Indonesia",earthquake,8.95,8.058,0.106,26,reviewed,us,us
@@ -205,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-08T19:34:58.981Z,61.2951,-152.2609,5.9,1.2,ml,,,,0.36,ak,ak025334iwh6,2025-03-08T21:45:14.460Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-08T19:22:52.194Z,31.65,-104.291,4.3111,1.7,ml,18,68,0,0.3,tx,tx2025esbp,2025-03-08T19:33:16.048Z,"58 km S of Whites City, New Mexico",earthquake,0,1.2534435987473,0.2,13,automatic,tx,tx
 2025-03-08T19:19:14.500Z,38.817001342773,-122.79733276367,2.6400001049042,0.75,md,13,57,0.009158,0.02,nc,nc75145081,2025-03-08T21:22:16.316Z,"6 km NNW of The Geysers, CA",earthquake,0.37,0.720000029,0.21,14,automatic,nc,nc
-2025-03-08T19:10:09.072Z,62.8814,-150.5595,84.9,1.6,ml,,,,0.16,ak,ak025334dnfv,2025-03-08T19:11:50.317Z,"44 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-08T19:09:39.210Z,38.780666351318,-122.75849914551,1.3300000429153,0.76,md,9,83,0.01143,0.02,nc,nc75145076,2025-03-08T21:07:19.229Z,"0 km NNW of The Geysers, CA",earthquake,0.35,0.800000012,0.04,8,automatic,nc,nc
