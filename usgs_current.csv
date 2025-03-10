@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-10T10:44:24.450Z,34.0478325,-118.3651657,11.73,1.25,ml,15,143,0.04856,0.16,ci,ci41076112,2025-03-10T10:46:26.953Z,"4 km NE of Culver City, CA",earthquake,0.93,0.94,0.347,5,automatic,ci,ci
+2025-03-10T10:51:31.990Z,33.3040009,-116.2813339,10.45,1.12,ml,41,60,0.06284,0.2,ci,ci41076120,2025-03-10T10:53:34.499Z,"10 km ENE of Borrego Springs, CA",earthquake,0.26,0.53,0.314,7,automatic,ci,ci
+2025-03-10T10:44:24.390Z,34.0431667,-118.3653333,12.35,1.06,ml,34,54,0.04157,0.16,ci,ci41076112,2025-03-10T10:54:18.673Z,"4 km NE of Culver City, CA",earthquake,0.25,0.38,0.307,29,automatic,ci,ci
 2025-03-10T10:42:53.670Z,40.289501190185,-121.43099975586,-1.960000038147,1.69,md,11,145,0.1079,0.08,nc,nc75146191,2025-03-10T10:44:31.467Z,"14 km SE of Mineral, CA",earthquake,0.37,2.17000008,0.09,10,automatic,nc,nc
-2025-03-10T10:42:09.994Z,32.491,-101.161,3.1376,1.2,ml,16,115,0,0.3,tx,tx2025evbk,2025-03-10T10:48:24.599Z,"20 km NW of Westbrook, Texas",earthquake,0,1.4071900844574,0.1,11,automatic,tx,tx
+2025-03-10T10:42:09.994Z,32.491,-101.161,3.1376,1.2,ml,16,115,0,0.3,tx,tx2025evbk,2025-03-10T10:50:12.622Z,"20 km NW of Westbrook, Texas",earthquake,0,1.4071900844574,0.1,11,automatic,tx,tx
 2025-03-10T10:37:07.017Z,60.2256,-151.825,68.7,2.8,ml,,,,0.39,ak,ak02536a9866,2025-03-10T10:38:42.936Z,"21 km NNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-10T10:24:19.860Z,38.835666656494,-122.78900146484,1.8799999952316,0.75,md,13,72,0.002932,0.01,nc,nc75146186,2025-03-10T10:42:23.060Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.49000001,0.38,13,automatic,nc,nc
 2025-03-10T09:42:26.880Z,46.492668151855,-122.43183135986,17.020000457764,1.5628391504288,ml,41,65,,0.0799999982,uw,uw62080211,2025-03-10T09:44:32.740Z,"5 km SE of Mossyrock, Washington",earthquake,0.24,0.5,0.23167158663273,17,automatic,uw,uw
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T11:03:53.610Z,38.834999084473,-122.78350067139,2.1300001144409,0.25,md,9,115,0.006337,0.02,nc,nc75145516,2025-03-09T12:57:16.402Z,"5 km WNW of Cobb, CA",earthquake,0.57,1.32000005,0.12,9,automatic,nc,nc
 2025-03-09T11:03:03.813Z,-18.6607,-71.1672,44.186,4.3,mb,17,161,0.834,0.95,us,us6000pxsa,2025-03-09T12:48:20.040Z,"94 km WSW of Arica, Chile",earthquake,5.69,12.154,0.217,6,reviewed,us,us
 2025-03-09T11:02:46.257Z,31.578,-104.021,6.7897,2,ml,16,51,0,0.2,tx,tx2025etgo,2025-03-09T11:14:14.839Z,"36 km NW of Toyah, Texas",earthquake,0,2.3051278591156,0.2,12,automatic,tx,tx
-2025-03-09T10:54:38.380Z,35.9566667,-117.4993333,3.33,1.71,ml,27,58,0.1229,0.15,ci,ci41075320,2025-03-09T16:21:26.040Z,"23 km NNW of Searles Valley, CA",earthquake,0.19,0.72,0.198,25,reviewed,ci,ci
