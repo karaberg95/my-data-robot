@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T20:16:00.440Z,38.823333740234,-122.76399993897,2.0899999141693,0.29,md,7,136,0.008493,0.01,nc,nc75146496,2025-03-10T20:27:29.992Z,"4 km WNW of Cobb, CA",earthquake,0.57,0.610000014,0.15,8,automatic,nc,nc
 2025-03-10T20:08:27.390Z,19.2336,-67.1506,18,3.93,md,24,199,0.7671,0.55,pr,pr2025069001,2025-03-10T20:52:58.572Z,"82 km N of Isabela, Puerto Rico",earthquake,2.2,6.35,0.1,21,reviewed,pr,pr
 2025-03-10T19:55:45.629Z,59.888,-152.9235,95.2,2.4,ml,,,,0.66,ak,ak02536fq2gy,2025-03-10T19:57:58.171Z,"62 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-03-10T19:51:30.390Z,40.753166666667,-112.08566666667,4.57,0.41,md,6,113,0.104,0.05,uu,uu80103641,2025-03-10T21:40:03.000Z,"5 km NNE of Magna, Utah",earthquake,0.39,1.49,0.29263294852373,3,reviewed,uu,uu
 2025-03-10T19:47:17.020Z,38.830001831055,-122.81500244141,1.7200000286102,1.54,md,32,44,0.007638,0.02,nc,nc75146476,2025-03-10T20:07:16.853Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.270000011,0.15,31,automatic,nc,nc
 2025-03-10T19:43:51.450Z,46.2015,-122.237,3.19,0.97,md,4,307,0.03209,0.03,uw,uw62080271,2025-03-10T20:05:39.830Z,"36 km NNE of Amboy, Washington",earthquake,1.55,1.64,0.0050877687524147,3,reviewed,uw,uw
 2025-03-10T19:39:15.010Z,38.796501159668,-122.81099700928,3.039999961853,0.76,md,9,95,0.01025,0.02,nc,nc75146466,2025-03-10T19:52:16.749Z,"5 km NW of The Geysers, CA",earthquake,0.51,0.949999988,0.25,10,automatic,nc,nc
@@ -173,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T03:02:30.770Z,37.0955,-113.8915,7.09,1.4,md,9,190,0.06068,0.12,uu,uu80103606,2025-03-10T17:40:59.020Z,"20 km WSW of Ivins, Utah",earthquake,1.05,1.42,0.48710826612153,5,reviewed,uu,uu
 2025-03-10T02:59:27.020Z,38.834999084473,-122.83233642578,1.1100000143051,0.8,md,10,84,0.004348,0.03,nc,nc75146011,2025-03-10T04:42:16.619Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.670000017,0.35,11,automatic,nc,nc
 2025-03-10T02:56:29.515Z,61.541,-148.4104,9,2.2,ml,,,,0.7,ak,ak025365lvnr,2025-03-10T02:58:39.808Z,"28 km ENE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-03-10T02:33:14.389Z,71.1971,-8.1925,10,6.5,mww,69,44,4.587,1.23,us,us6000pxvx,2025-03-10T17:12:14.560Z,"36 km NNE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.78,1.899,0.041,58,reviewed,us,us
+2025-03-10T02:33:14.389Z,71.1971,-8.1925,10,6.5,mww,69,44,4.587,1.23,us,us6000pxvx,2025-03-10T21:42:21.491Z,"36 km NNE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.78,1.899,0.041,58,reviewed,us,us
 2025-03-10T02:28:37.730Z,40.2995,-124.689,15.89,2.99,md,104,228,0.2652,0.18,nc,nc75146001,2025-03-10T13:37:16.229Z,"34 km W of Petrolia, CA",earthquake,0.65,0.42,0.158,52,reviewed,nc,nc
 2025-03-10T02:20:31.090Z,33.3086667,-116.2381667,4.91,1.52,ml,76,21,0.08028,0.2,ci,ci41075936,2025-03-10T15:06:37.090Z,"14 km ENE of Borrego Springs, CA",earthquake,0.13,0.46,0.155,26,reviewed,ci,ci
 2025-03-10T02:19:52.338Z,32.396,-102.088,6.145,0.9,ml,9,147,0,0.1,tx,tx2025eulc,2025-03-10T02:27:35.205Z,"37 km WSW of Ackerly, Texas",earthquake,0,4.039101600647,0.2,7,automatic,tx,tx
@@ -223,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T21:55:03.280Z,33.507,-116.4491667,6.09,0.74,ml,14,71,0.1048,0.14,ci,ci41075704,2025-03-10T20:37:22.807Z,"22 km ESE of Anza, CA",earthquake,0.3,2.06,0.162,14,reviewed,ci,ci
 2025-03-09T21:54:45.930Z,34.9743333,-116.932,-0.27,1.83,ml,31,95,0.1125,0.17,ci,ci41075696,2025-03-09T22:06:45.445Z,"12 km NE of Barstow, CA",earthquake,0.19,0.41,0.128,26,automatic,ci,ci
 2025-03-09T21:51:05.250Z,33.976,-116.8215,17.22,1.51,ml,56,28,0.06009,0.23,ci,ci41075688,2025-03-09T22:02:18.290Z,"7 km NNW of Cabazon, CA",earthquake,0.22,0.52,0.103,27,automatic,ci,ci
-2025-03-09T21:38:15.479Z,46.619,-111.9859,10,2.7,ml,45,57,0.041,0.46,us,us6000pxuq,2025-03-10T21:26:19.140Z,"4 km NE of Helena, Montana",earthquake,1.18,1.898,0.046,62,reviewed,us,us
-2025-03-09T21:36:02.900Z,38.796501159668,-122.75250244141,1.2400000095367,0.75,md,8,157,0.006978,0.02,nc,nc75145786,2025-03-09T21:52:15.998Z,"2 km NNE of The Geysers, CA",earthquake,0.47,0.970000029,0.04,8,automatic,nc,nc
-2025-03-09T21:35:50.530Z,18.053,-66.981833333333,9.58,1.92,md,6,149,0.07131,0.07,pr,pr71474928,2025-03-09T22:22:52.730Z,"3 km SW of Sabana Grande, Puerto Rico",earthquake,0.43,0.99,0.15112629349992,4,reviewed,pr,pr
