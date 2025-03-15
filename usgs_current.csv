@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-15T19:38:34.180Z,38.83150100708,-122.83149719238,0.98000001907349,0.94,md,9,114,0.007733,0.01,nc,nc75149251,2025-03-15T19:40:09.322Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.620000005,0.14,9,automatic,nc,nc
+2025-03-15T19:37:39.573Z,61.2197,-147.2174,8,1.4,ml,,,,0.83,ak,ak0253epaxl7,2025-03-15T19:40:35.348Z,"47 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-03-15T19:26:02.530Z,60.3905,-144.0548,40.6,1.2,ml,,,,0.59,ak,ak0253ep8hul,2025-03-15T19:28:44.035Z,"95 km E of Cordova, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-03-15T19:19:58.640Z,33.9456667,-116.3738333,8.08,0.66,ml,21,78,0.02946,0.12,ci,ci41080384,2025-03-15T19:25:01.154Z,"12 km E of Desert Hot Springs, CA",earthquake,0.19,0.38,0.152,11,automatic,ci,ci
 2025-03-15T19:06:40.680Z,38.832500457764,-122.83233642578,1.1100000143051,1.09,md,14,99,0.006559,0.01,nc,nc75149246,2025-03-15T19:08:19.240Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.639999986,0.31,17,automatic,nc,nc
-2025-03-15T19:00:56.040Z,38.833831787109,-122.83383178711,0.77999997138977,0.91,md,6,109,0.004923,0.03,nc,nc75149236,2025-03-15T19:02:33.994Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.870000005,0.3,9,automatic,nc,nc
+2025-03-15T19:00:56.040Z,38.833831787109,-122.83383178711,0.77999997138977,0.91,md,6,109,0.004923,0.03,nc,nc75149236,2025-03-15T19:37:15.505Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.870000005,0.3,9,automatic,nc,nc
 2025-03-15T18:58:56.490Z,38.832332611084,-122.8330001831,1.1399999856949,1.52,md,27,55,0.006542,0.03,nc,nc75149226,2025-03-15T19:22:18.408Z,"9 km NW of The Geysers, CA",earthquake,0.17,0.270000011,0.12,28,automatic,nc,nc
 2025-03-15T18:50:35.430Z,38.821166992188,-122.84449768066,2.1099998950958,1.08,md,18,75,0.007647,0.02,nc,nc75149221,2025-03-15T19:12:16.338Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.439999998,0.17,19,automatic,nc,nc
 2025-03-15T18:50:09.080Z,38.820499420166,-122.84266662598,2.2599999904633,1.82,md,33,66,0.006512,0.03,nc,nc75149216,2025-03-15T19:07:17.305Z,"9 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.12,36,automatic,nc,nc
@@ -103,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-15T07:46:45.940Z,35.9625,-117.3313333,2.42,1.61,ml,24,68,0.08134,0.2,ci,ci41079968,2025-03-15T07:54:21.902Z,"22 km N of Trona, CA",earthquake,0.27,0.59,0.129,26,automatic,ci,ci
 2025-03-15T07:43:36.004Z,59.309,-153.3582,74.8,1.6,ml,,,,0.52,ak,ak0253ei70cg,2025-03-15T07:45:32.292Z,"68 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-15T07:32:03.632Z,60.1392,-151.654,30.5,1.4,ml,,,,0.33,ak,ak0253ei4kyz,2025-03-15T07:33:34.682Z,"9 km N of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-15T07:21:50.467Z,28.951,47.4618,10,4.3,mb,38,142,5.685,0.57,us,us6000pz09,2025-03-15T07:57:15.444Z,"46 km SSW of Al Jahrā’, Kuwait",earthquake,13.16,1.945,0.102,27,reviewed,us,us
+2025-03-15T07:21:50.467Z,28.951,47.4618,10,4.3,mb,38,142,5.685,0.57,us,us6000pz09,2025-03-15T19:43:07.232Z,"46 km SSW of Al Jahrā’, Kuwait",earthquake,13.16,1.945,0.102,27,reviewed,us,us
 2025-03-15T07:08:04.573Z,63.2501,-148.3471,66.5,1.7,ml,,,,0.62,ak,ak0253ehzfux,2025-03-15T07:10:10.837Z,"34 km ESE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-15T07:03:58.410Z,33.7323333,-116.8461667,17.81,1.13,ml,41,32,0.07891,0.2,ci,ci41079960,2025-03-15T07:09:07.024Z,"5 km ESE of Valle Vista, CA",earthquake,0.24,0.43,0.297,13,automatic,ci,ci
 2025-03-15T07:01:30.133Z,36.6451,-116.2684,6.3,0,ml,7,200.74,0.057,0.0408,nn,nn00894709,2025-03-15T14:18:31.262Z,"52 km SE of Beatty, Nevada",earthquake,,2.2,0.11,2,reviewed,nn,nn
@@ -195,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-14T20:03:07.465Z,57.4268,-156.0553,84.5,1.7,ml,,,,0.2,ak,ak0253d25nve,2025-03-14T20:05:01.617Z,"81 km E of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-03-14T20:00:10.579Z,41.9298,15.5463,15.676,4,mb,39,70,0.229,0.6,us,us6000pyx0,2025-03-14T20:53:10.773Z,"10 km N of Sannicandro Garganico, Italy",earthquake,4.66,5.441,0.184,8,reviewed,us,us
 2025-03-14T19:47:05.830Z,33.3085,-116.2595,7.94,1.11,ml,40,40,0.06816,0.21,ci,ci41079664,2025-03-14T22:12:21.564Z,"12 km ENE of Borrego Springs, CA",earthquake,0.24,0.85,0.137,20,reviewed,ci,ci
-2025-03-14T19:37:15.678Z,41.9788,15.449,8.742,5,mww,80,34,0.314,0.74,us,us6000pywp,2025-03-15T02:18:06.343Z,"15 km NNE of Lesina, Italy",earthquake,3.47,3.942,0.051,37,reviewed,us,us
