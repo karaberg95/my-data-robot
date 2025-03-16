@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-16T20:37:14.280Z,36.0068321,-117.8046646,-1.21,1.81,ml,15,80,0.03684,0.21,ci,ci41081144,2025-03-16T20:39:34.593Z,"12 km NE of Little Lake, CA",earthquake,0.44,0.98,0.234,22,automatic,ci,ci
+2025-03-16T20:37:08.120Z,36.0040016,-117.803833,0.54,1.27,ml,13,75,0.03776,0.14,ci,ci41081136,2025-03-16T20:39:24.594Z,"12 km NE of Little Lake, CA",earthquake,0.34,0.82,0.415,6,automatic,ci,ci
 2025-03-16T20:01:16.460Z,38.810665130615,-122.78549957275,1.2200000286102,0.95,md,12,62,0.004567,0.01,nc,nc75149706,2025-03-16T20:27:15.446Z,"4 km NNW of The Geysers, CA",earthquake,0.28,0.50999999,0.19,12,automatic,nc,nc
 2025-03-16T19:59:14.920Z,38.811500549316,-122.7868347168,1.3999999761581,1.28,md,8,82,0.005115,0.02,nc,nc75149701,2025-03-16T20:22:16.347Z,"5 km NNW of The Geysers, CA",earthquake,0.37,0.680000007,0.24,9,automatic,nc,nc
 2025-03-16T19:53:37.185Z,64.7001,-148.647,10.6,0.8,ml,,,,0.21,ak,ak0253gcxpb7,2025-03-16T19:55:53.948Z,"25 km ENE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-16T17:32:58.560Z,35.6691667,-117.5113333,14.37,0.49,ml,12,82,0.07146,0.1,ci,ci41080976,2025-03-16T17:36:41.381Z,"15 km SW of Searles Valley, CA",earthquake,0.31,0.8,0.131,6,automatic,ci,ci
 2025-03-16T17:24:25.400Z,38.05933380127,-122.52317047119,13.640000343323,1.12,md,5,190,0.2865,0.18,nc,nc75149631,2025-03-16T19:42:16.068Z,"5 km ENE of Lucas Valley-Marinwood, CA",earthquake,5.38,4.76000023,,1,automatic,nc,nc
 2025-03-16T17:13:24.320Z,38.837665557861,-122.80850219727,2.0099999904633,1.09,md,16,76,0.0143,0.02,nc,nc75149626,2025-03-16T19:22:15.929Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.589999974,0.31,15,automatic,nc,nc
-2025-03-16T16:52:42.730Z,61.6415,-149.758,29.8,2,ml,,,,0.52,ak,ak0253gb579x,2025-03-16T16:53:54.051Z,"3 km ENE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-03-16T16:52:42.730Z,61.6415,-149.758,29.8,2,ml,,,,0.52,ak,ak0253gb579x,2025-03-16T20:31:12.568Z,"3 km ENE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-16T16:46:44.910Z,38.803665161133,-122.76716613769,0.66000002622604,0.81,md,7,121,0.006568,0.02,nc,nc75149616,2025-03-16T18:57:16.769Z,"3 km  of The Geysers, CA",earthquake,0.47,0.74000001,0.08,7,automatic,nc,nc
 2025-03-16T16:37:36.880Z,38.829334259033,-122.81400299072,1.5099999904633,1.33,md,24,46,0.006678,0.02,nc,nc75149611,2025-03-16T18:37:16.621Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.330000013,0.14,24,automatic,nc,nc
 2025-03-16T16:35:13.746Z,31.592,-103.966,6.8848,1.6,ml,16,65,0,0.4,tx,tx2025fgmc,2025-03-16T16:45:20.390Z,"34 km NNW of Toyah, Texas",earthquake,0,2.1443150043487,0.2,12,automatic,tx,tx
@@ -176,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-15T20:54:39.380Z,63.6011,-145.8846,17.3,1.4,ml,,,,0.3,ak,ak0253eq00fx,2025-03-15T20:56:41.492Z,"40 km SSW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-15T20:53:59.188Z,36.779,-116.1218,1.7,-0.1,ml,7,318.51,0.02,0.0311,nn,nn00894715,2025-03-16T02:39:31.904Z,"46 km WNW of Indian Springs, Nevada",earthquake,,4,0,1,reviewed,nn,nn
 2025-03-15T20:43:54.870Z,46.208333333333,-122.18783333333,5.08,1.26,ml,21,66,0.008295,0.1,uw,uw62073692,2025-03-16T00:14:35.380Z,"38 km NNE of Amboy, Washington",earthquake,0.31,0.24,0.12727746268822,15,reviewed,uw,uw
-2025-03-15T20:39:27.190Z,38.830333709717,-122.81383514404,2.4800000190735,1.3,md,26,42,0.007526,0.02,nc,nc75149296,2025-03-15T22:57:16.849Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.400000006,0.1,28,automatic,nc,nc
