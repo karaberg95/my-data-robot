@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-17T22:40:40.450Z,31.675,-104.403,6.913,1.9,ml,18,69,0,0.3,tx,tx2025fitq,2025-03-17T22:52:27.404Z,"55 km S of Whites City, New Mexico",earthquake,0,2.2949550151825,0.1,13,automatic,tx,tx
 2025-03-17T22:30:53.295Z,32.3172,141.2398,35,4.7,mb,32,138,1.442,0.52,us,us6000pzf8,2025-03-17T22:59:20.040Z,"Izu Islands, Japan region",earthquake,9.32,1.9,0.09,38,reviewed,us,us
 2025-03-17T22:25:09.350Z,38.81916809082,-122.76066589356,1.4299999475479,1.06,md,23,121,0.0134,0.03,nc,nc75150306,2025-03-17T23:07:17.629Z,"3 km W of Cobb, CA",earthquake,0.25,0.360000014,0.12,22,automatic,nc,nc
-2025-03-17T22:23:38.168Z,1.9622,99.1816,51.973,5.5,mww,101,56,3.937,0.88,us,us6000pzf4,2025-03-17T23:25:27.998Z,"50 km ENE of Sibolga, Indonesia",earthquake,7.29,2.233,0.071,19,reviewed,us,us
+2025-03-17T22:23:38.168Z,1.9622,99.1816,51.973,5.5,mww,101,56,3.937,0.88,us,us6000pzf4,2025-03-17T23:43:00.040Z,"50 km ENE of Sibolga, Indonesia",earthquake,7.29,2.233,0.071,19,reviewed,us,us
 2025-03-17T22:22:38.196Z,1.7638,99.2583,10,4.7,mb,26,145,4.143,0.81,us,us6000pzf6,2025-03-17T22:53:18.040Z,"42 km N of Padangsidempuan, Indonesia",earthquake,8.75,1.923,0.102,29,reviewed,us,us
 2025-03-17T22:21:46.037Z,31.671,-104.404,6.4681,1.5,ml,17,70,0,0.3,tx,tx2025fitf,2025-03-17T22:29:58.239Z,"56 km S of Whites City, New Mexico",earthquake,0,2.5266783237457,0.1,12,automatic,tx,tx
 2025-03-17T22:20:27.170Z,37.336833953857,-122.21983337402,9.039999961853,1.67,md,9,97,0.03356,0.06,nc,nc75150301,2025-03-17T22:57:19.440Z,"5 km S of Portola Valley, CA",earthquake,0.57,0.870000005,0.22,8,automatic,nc,nc
@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-17T00:04:48.036Z,31.651,-104.348,4.36,1.6,ml,17,70,0.1,0.4,tx,tx2025fhax,2025-03-17T00:18:31.148Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3237617015839,0.2,12,automatic,tx,tx
 2025-03-16T23:58:29.810Z,33.6536667,-116.7465,15.68,1.24,ml,54,20,0.06251,0.2,ci,ci41081304,2025-03-17T14:31:58.930Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.33,0.247,27,reviewed,ci,ci
 2025-03-16T23:51:38.890Z,38.8345,-122.80983333333,1.96,0.61,md,18,51,0.01109,0.01,nc,nc75149776,2025-03-17T17:53:29.595Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.62,0.205,16,reviewed,nc,nc
-2025-03-16T23:49:10.450Z,35.1101667,-119.0983333,18.67,1.56,ml,23,71,0.2205,0.17,ci,ci41081280,2025-03-17T21:01:36.100Z,"24 km SW of Lamont, CA",earthquake,0.26,0.75,0.113,23,reviewed,ci,ci
