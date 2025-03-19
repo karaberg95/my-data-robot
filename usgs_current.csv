@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-19T19:46:55.810Z,38.824165344238,-122.8424987793,1.8700000047684,0.75,md,7,114,0.005927,0.01,nc,nc75151692,2025-03-19T19:48:33.834Z,"9 km NW of The Geysers, CA",earthquake,0.47,0.980000019,0.15,8,automatic,nc,nc
 2025-03-19T19:32:19.880Z,33.8588333,-117.5038333,1.45,1.56,ml,45,51,0.05051,0.22,ci,ci40903967,2025-03-19T19:38:09.319Z,"3 km SE of Home Gardens, CA",earthquake,0.27,0.37,0.285,36,automatic,ci,ci
 2025-03-19T19:24:50.280Z,34.7233333,-118.9303333,11.32,1.38,ml,30,52,0.06089,0.22,ci,ci40903959,2025-03-19T19:28:44.817Z,"11 km SW of Gorman, CA",earthquake,0.31,0.61,0.232,28,automatic,ci,ci
 2025-03-19T19:24:42.700Z,38.798831939697,-122.75016784668,1.5099999904633,1.08,md,15,98,0.00767,0.02,nc,nc75151682,2025-03-19T19:26:18.907Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.50999999,0.2,15,automatic,nc,nc
 2025-03-19T19:22:32.090Z,35.7673333,-117.5958333,8.11,0.85,ml,19,55,0.1435,0.17,ci,ci40903951,2025-03-19T19:25:54.740Z,"17 km W of Searles Valley, CA",earthquake,0.25,1.27,0.098,14,automatic,ci,ci
 2025-03-19T19:04:56.710Z,33.6925,-116.7155,15.57,0.68,ml,15,91,0.02175,0.14,ci,ci40903903,2025-03-19T19:09:18.181Z,"5 km S of Idyllwild, CA",earthquake,0.36,0.61,0.145,13,automatic,ci,ci
 2025-03-19T19:04:00.492Z,61.4167,-147.7809,20.5,2.1,ml,,,,0.67,ak,ak0253lb95x6,2025-03-19T19:07:49.993Z,"44 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-19T19:01:07.000Z,38.835498809815,-122.81716918945,1.5,1.1,md,23,49,0.0133,0.02,nc,nc75151672,2025-03-19T19:08:49.399Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.449999988,0.13,22,automatic,nc,nc
+2025-03-19T19:01:07.000Z,38.835498809815,-122.81716918945,1.5,1.1,md,23,49,0.0133,0.02,nc,nc75151672,2025-03-19T19:52:17.098Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.449999988,0.13,22,automatic,nc,nc
 2025-03-19T18:50:25.130Z,18.4413,-68.7381,116,4.15,md,22,167,0.364,0.27,pr,pr2025078002,2025-03-19T19:35:12.509Z,"6 km W of San Rafael del Yuma, Dominican Republic",earthquake,1.18,0.84,0.11,14,reviewed,pr,pr
 2025-03-19T18:38:19.690Z,61.1104,-150.1523,23,1.7,ml,,,,0.45,ak,ak0253lav24x,2025-03-19T18:39:42.577Z,"18 km SW of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-19T18:31:30.700Z,18.9525,-65.0085,10.12,3.41,md,13,284,0.5989,0.16,pr,pr71476523,2025-03-19T18:56:36.620Z,"68 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.22,3.32,0.10717797219505,5,reviewed,pr,pr
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-18T20:08:43.310Z,38.843833333333,-122.82683333333,1.61,-0.24,md,13,138,0.008549,0.03,nc,nc75151197,2025-03-18T21:13:48.788Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.24,0.208,13,reviewed,nc,nc
 2025-03-18T20:06:56.399Z,35.25783333,-97.78233333,7.24,0.79,ml,14,151,0.01259752794,0.13,ok,ok2025fkkb,2025-03-18T20:19:11.783Z,"4 km SE of Tuttle, Oklahoma",earthquake,,0.7,0.16,6,reviewed,ok,ok
 2025-03-18T20:05:43.100Z,38.815166473389,-122.82283020019,2.2000000476837,2.05,md,45,39,0.008009,0.05,nc,nc75151192,2025-03-18T22:37:15.456Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.239999995,0.11,45,automatic,nc,nc
-2025-03-18T19:51:38.350Z,33.7898333,-116.0786667,1.81,0.88,ml,18,85,0.1192,0.16,ci,ci41082752,2025-03-19T14:42:44.750Z,"15 km ENE of Indio, CA",earthquake,0.3,0.44,0.091,12,reviewed,ci,ci
-2025-03-18T19:46:51.330Z,38.818500518799,-122.82050323486,2.3900001049042,0.87,md,9,116,0.0095,0.01,nc,nc75151187,2025-03-18T20:07:17.411Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.970000029,0.23,10,automatic,nc,nc
