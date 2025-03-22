@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-22T11:23:55.880Z,33.2686653,-116.1318359,6.69,0.95,ml,39,44,0.1228,0.21,ci,ci40907055,2025-03-22T11:25:59.327Z,"14 km N of Ocotillo Wells, CA",earthquake,0.28,1.27,0.119,5,automatic,ci,ci
+2025-03-22T11:20:26.260Z,31.4258333,-115.8721667,17.47,3.15,ml,5,281,0.5808,0.05,ci,ci40907047,2025-03-22T11:23:59.410Z,"73 km ESE of Maneadero, B.C., MX",earthquake,2.69,3.67,0.147,25,automatic,ci,ci
 2025-03-22T11:07:50.894Z,60.715,-151.3407,57.1,1.2,ml,,,,0.31,ak,ak0253q54hld,2025-03-22T11:09:23.375Z,"3 km NW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-03-22T11:07:10.131Z,35.43166733,-97.94046021,1.966742158,1.54,ml,14,74.97118759,0.04588325694,0.614207082,ok,ok2025frag,2025-03-22T11:12:21.931Z,"4 km N of Union City, Oklahoma",earthquake,3.64349109,3.219982423,0.25,11,automatic,ok,ok
 2025-03-22T10:46:27.670Z,38.754665374756,-122.6951675415,0.87000000476837,1.08,md,9,132,0.01387,0.01,nc,nc75153202,2025-03-22T11:07:18.222Z,"2 km SSW of Anderson Springs, CA",earthquake,0.32,0.5,0.31,8,automatic,nc,nc
