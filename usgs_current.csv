@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-22T15:34:37.702Z,63.3542,-144.8045,6.8,1,ml,,,,1.09,ak,ak0253q7nzac,2025-03-22T15:37:45.566Z,"34 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-22T15:31:22.050Z,40.41516494751,-125.06183624268,2.1500000953674,3.35,ml,76,273,0.5641,0.22,nc,nc75153247,2025-03-22T15:42:15.040Z,"67 km WNW of Petrolia, CA",earthquake,2.3,3.75,0.164,10,automatic,nc,nc
+2025-03-22T15:31:22.050Z,40.41516494751,-125.06183624268,2.1500000953674,3.35,ml,76,273,0.5641,0.22,nc,nc75153247,2025-03-22T15:52:18.005Z,"67 km WNW of Petrolia, CA",earthquake,2.3,3.75,0.164,10,automatic,nc,nc
 2025-03-22T15:25:16.780Z,39.743667602539,-122.92683410644,3.8900001049042,2.33,md,14,79,0.1007,0.15,nc,nc75153242,2025-03-22T15:32:18.885Z,"20 km NW of Alder Springs, CA",earthquake,0.58,3.54999995,0.11,11,automatic,nc,nc
 2025-03-22T15:19:15.350Z,35.3485,-117.8011667,6.26,1.08,ml,25,95,0.08876,0.15,ci,ci40907223,2025-03-22T15:22:54.660Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.52,0.149,21,automatic,ci,ci
-2025-03-22T15:14:29.260Z,38.749332427979,-122.7123336792,0.52999997138977,1.02,md,9,131,0.01568,0.05,nc,nc75153237,2025-03-22T15:32:17.884Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.610000014,0.3,7,automatic,nc,nc
+2025-03-22T15:14:29.260Z,38.749332427979,-122.7123336792,0.52999997138977,1.02,md,9,131,0.01568,0.05,nc,nc75153237,2025-03-22T15:47:18.974Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.610000014,0.3,7,automatic,nc,nc
 2025-03-22T14:54:47.465Z,31.676,-104.399,7.2108,1.5,ml,16,69,0,0.4,tx,tx2025frht,2025-03-22T15:04:54.883Z,"55 km S of Whites City, New Mexico",earthquake,0,2.539130449295,0.1,13,automatic,tx,tx
 2025-03-22T14:51:14.000Z,38.837665557861,-122.80233001709,2.2200000286102,0.7,md,8,114,0.00939,0.01,nc,nc75153232,2025-03-22T15:22:15.821Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.37,0.42,8,automatic,nc,nc
 2025-03-22T14:49:15.400Z,33.7866667,-116.0763333,1.67,1.1,ml,39,86,0.1213,0.17,ci,ci40907183,2025-03-22T14:53:36.510Z,"15 km ENE of Indio, CA",earthquake,0.17,0.29,0.122,27,automatic,ci,ci
@@ -43,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T10:29:10.550Z,38.832500457764,-122.83333587647,1.1699999570847,0.32,md,11,90,0.006308,0.01,nc,nc75153197,2025-03-22T10:47:17.997Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.829999983,0.21,12,automatic,nc,nc
 2025-03-22T10:18:28.070Z,33.2725,-116.1176667,3.47,1.52,ml,44,103,0.1239,0.26,ci,ci40907039,2025-03-22T10:22:28.095Z,"14 km N of Ocotillo Wells, CA",earthquake,0.38,2.5,0.146,28,automatic,ci,ci
 2025-03-22T10:11:15.390Z,17.934333333333,-66.924666666667,11.43,2.29,md,5,222,0.05923,0.12,pr,pr71477083,2025-03-22T10:22:57.410Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.9,0.67,0.014317983887885,3,reviewed,pr,pr
+2025-03-22T10:08:44.009Z,36.74,-116.0029,4.5,-0.3,ml,11,205.22,0.018,0.0735,nn,nn00894950,2025-03-22T15:50:42.467Z,"35 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.04,2,reviewed,nn,nn
 2025-03-22T09:56:45.963Z,35.886,-116.2474,2.8,1.5,ml,8,204.02,0.026,0.3263,nn,nn00894936,2025-03-22T09:59:04.022Z,"4 km NNW of Tecopa, California",earthquake,,1.1,0.7,6,automatic,nn,nn
 2025-03-22T09:56:07.430Z,33.7598343,-116.0670013,8.56,3.11,ml,113,36,0.1092,0.17,ci,ci40907031,2025-03-22T15:40:52.784Z,"13 km NE of Coachella, CA",earthquake,0.16,0.52,0.264,18,reviewed,ci,ci
 2025-03-22T09:49:25.074Z,51.2593,-176.1996,45.04,5.6,mww,100,135,0.84,0.98,us,us7000plu1,2025-03-22T12:14:37.356Z,"74 km SSE of Adak, Alaska",earthquake,5.7,4.657,0.068,21,reviewed,us,us
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T16:09:56.866Z,41.8719,-119.5563,3.7,2.5,ml,4,223.21,0.393,0.0554,nn,nn00894923,2025-03-22T02:14:32.017Z,"49 km E of Fort Bidwell, California",earthquake,,3.6,0.34,4,reviewed,nn,nn
 2025-03-21T16:03:51.361Z,51.0515,-176.0577,35,4,mb,20,241,0.84,0.46,us,us7000plqb,2025-03-22T13:18:04.040Z,"99 km SSE of Adak, Alaska",earthquake,3.87,2.012,0.074,50,reviewed,us,us
 2025-03-21T15:57:47.666Z,62.3533,-150.7816,66.3,1.8,ml,,,,0.47,ak,ak0253ok9l2m,2025-03-21T16:00:15.787Z,"15 km S of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-03-21T15:47:47.897Z,32.105,-101.067,8.3252,2.4,ml,30,67,0.2,0.1,tx,tx2025fpoa,2025-03-22T13:11:35.040Z,"28 km S of Westbrook, Texas",earthquake,0.91354876335332,1.9118120004204,0.1,16,reviewed,tx,tx
-2025-03-21T15:46:32.815Z,51.1558,-176.1139,32.23,4.6,mb,68,189,0.73,0.83,us,us7000plmb,2025-03-21T16:42:55.441Z,"87 km SSE of Adak, Alaska",earthquake,5.07,6.43,0.052,109,reviewed,us,us
