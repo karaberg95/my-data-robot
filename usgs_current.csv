@@ -266,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T11:55:45.860Z,17.920333333333,-66.846,14.37,1.63,md,6,224,0.06296,0.06,pr,pr71476943,2025-03-21T12:07:37.432Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.85,0.62,0.14871119811936,5,reviewed,pr,pr
 2025-03-21T11:54:40.620Z,33.7866667,-116.0783333,1.52,1.39,ml,53,38,0.1197,0.16,ci,ci40906119,2025-03-21T20:54:38.740Z,"15 km ENE of Indio, CA",earthquake,0.13,0.27,0.116,26,reviewed,ci,ci
 2025-03-21T11:54:35.916Z,56.9957,-154.583,21.3,2.7,ml,,,,0.95,ak,ak0253ohv6lj,2025-03-21T12:09:58.040Z,"25 km WNW of Akhiok, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2025-03-21T11:48:16.670Z,38.823833465576,-122.76733398438,2.420000076294,0.37,md,8,113,0.006927,0.01,nc,nc75152592,2025-03-21T13:47:17.620Z,"4 km WNW of Cobb, CA",earthquake,0.61,1.16999996,0.24,9,automatic,nc,nc
-2025-03-21T11:46:31.490Z,35.5328333,-117.5328333,-0.57,0.83,ml,22,90,0.1154,0.22,ci,ci40906111,2025-03-21T18:13:26.006Z,"16 km SE of Ridgecrest, CA",earthquake,0.27,0.55,0.103,10,reviewed,ci,ci
