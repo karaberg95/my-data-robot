@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-25T11:05:09.860Z,35.6475,-117.539,7.06,1.13,ml,25,52,0.09552,0.15,ci,ci40909543,2025-03-25T11:08:38.759Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.53,0.205,22,automatic,ci,ci
-2025-03-25T11:04:01.667Z,32.433,-102.073,4.1952,1.6,ml,51,56,0,0.4,tx,tx2025fwmr,2025-03-25T11:09:57.868Z,"34 km SSW of Los Ybanez, Texas",earthquake,0,0.78934532403946,0.1,36,automatic,tx,tx
+2025-03-25T11:04:01.667Z,32.433,-102.073,4.1952,1.6,ml,51,56,0,0.4,tx,tx2025fwmr,2025-03-25T11:12:38.917Z,"34 km SSW of Los Ybanez, Texas",earthquake,0,0.78934532403946,0.1,36,automatic,tx,tx
 2025-03-25T11:02:58.550Z,38.835166931152,-122.83016967773,1.5900000333786,0.76,md,18,71,0.005378,0.02,nc,nc75154942,2025-03-25T11:04:33.047Z,"9 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.18,18,automatic,nc,nc
 2025-03-25T10:45:27.360Z,35.7265,-117.572,9.07,1.03,ml,27,55,0.1064,0.13,ci,ci40909535,2025-03-25T10:48:59.428Z,"15 km NE of Ridgecrest, CA",earthquake,0.18,0.59,0.249,17,automatic,ci,ci
 2025-03-25T10:45:17.320Z,40.377998352051,-122.07050323486,4.1599998474121,2.53,ml,13,160,0.1468,0.09,nc,nc75154932,2025-03-25T10:57:19.924Z,"18 km W of Manton, CA",earthquake,0.73,3.75999999,0.165,4,automatic,nc,nc
@@ -214,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T11:55:51.810Z,61.272166666667,-152.23766666667,3.78,-0.91,ml,7,145,0.0405,0.06,av,av93543841,2025-03-25T03:06:24.590Z,"63 km WNW of Tyonek, Alaska",earthquake,0.21,0.17,0.16948345778014,8,reviewed,av,av
 2025-03-24T11:48:21.300Z,38.791332244873,-122.72583007812,1.6299999952316,1.35,md,20,92,0.01174,0.03,nc,nc75154397,2025-03-24T13:37:20.366Z,"3 km ENE of The Geysers, CA",earthquake,0.27,0.449999988,0.17,20,automatic,nc,nc
 2025-03-24T11:41:19.650Z,38.841167449951,-122.81183624268,2.3499999046326,0.74,md,10,73,0.0162,0.01,nc,nc75154392,2025-03-24T13:12:15.209Z,"8 km WNW of Cobb, CA",earthquake,0.42,1.26999998,0.17,10,automatic,nc,nc
-2025-03-24T11:21:38.297Z,28.0878,105.2523,10,5,mb,89,42,7.955,0.79,us,us7000pm7w,2025-03-24T11:56:35.783Z,"20 km WSW of Xuyong, China",earthquake,8.12,1.84,0.043,173,reviewed,us,us
-2025-03-24T11:17:45.743Z,30.7823,57.392,10,4.9,mb,75,93,5.909,0.79,us,us7000pm7v,2025-03-24T11:59:26.895Z,"62 km NNE of Kerman, Iran",earthquake,8.94,1.918,0.066,73,reviewed,us,us
-2025-03-24T11:17:35.250Z,52.075333333333,-176.1125,-1.77,-0.28,ml,5,124,0.02785,0.32,av,av93543771,2025-03-25T02:49:14.740Z,"42 km ENE of Adak, Alaska",earthquake,0.75,1.37,0.1331925453948,5,reviewed,av,av
