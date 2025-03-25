@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-25T10:45:27.360Z,35.7265,-117.572,9.07,1.03,ml,27,55,0.1064,0.13,ci,ci40909535,2025-03-25T10:48:59.428Z,"15 km NE of Ridgecrest, CA",earthquake,0.18,0.59,0.249,17,automatic,ci,ci
 2025-03-25T10:45:17.320Z,40.377998352051,-122.07050323486,4.1599998474121,2.53,ml,13,160,0.1468,0.09,nc,nc75154932,2025-03-25T10:47:20.369Z,"18 km W of Manton, CA",earthquake,0.73,3.75999999,0.165,4,automatic,nc,nc
-2025-03-25T10:42:44.700Z,33.9804993,-116.6556702,14.75,1.09,ml,21,69,0.05823,0.23,ci,ci40909527,2025-03-25T10:44:47.162Z,"10 km SW of Morongo Valley, CA",earthquake,0.41,0.91,0.33,3,automatic,ci,ci
+2025-03-25T10:42:44.830Z,33.9711667,-116.6535,13.36,0.8,ml,38,39,0.06734,0.17,ci,ci40909527,2025-03-25T10:48:25.644Z,"11 km SW of Morongo Valley, CA",earthquake,0.18,0.51,0.121,22,automatic,ci,ci
 2025-03-25T10:42:29.700Z,33.5181667,-116.4935,12.23,0.46,ml,11,226,0.09379,0.07,ci,ci40909519,2025-03-25T10:46:39.633Z,"17 km ESE of Anza, CA",earthquake,0.39,0.5,0.157,6,automatic,ci,ci
 2025-03-25T10:40:27.380Z,38.790668487549,-122.75949859619,0.76999998092651,0.54,md,9,73,0.009943,0.02,nc,nc75154927,2025-03-25T10:42:03.515Z,"2 km N of The Geysers, CA",earthquake,0.29,0.600000024,0.21,10,automatic,nc,nc
 2025-03-25T10:16:07.090Z,38.824501037598,-122.80933380127,3.0299999713898,0.78,md,14,67,0.001247,0.01,nc,nc75154917,2025-03-25T10:42:17.828Z,"7 km NNW of The Geysers, CA",earthquake,0.33,1.07000005,0.19,14,automatic,nc,nc
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T10:07:15.653Z,63.2114,-149.1358,5.8,1.7,ml,,,,0.89,ak,ak0253v350r1,2025-03-25T10:09:10.852Z,"22 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-25T10:02:16.816Z,31.521,-104.009,4.6088,1.5,ml,12,118,0,0.2,tx,tx2025fwkq,2025-03-25T10:07:17.375Z,"30 km NW of Toyah, Texas",earthquake,0,1.5962426662445,0.1,10,automatic,tx,tx
 2025-03-25T09:50:52.079Z,-6.2853,130.3843,141.743,5,mb,84,30,1.815,0.62,us,us7000pmgz,2025-03-25T10:11:23.040Z,"272 km WSW of Tual, Indonesia",earthquake,7.59,6.453,0.058,96,reviewed,us,us
+2025-03-25T09:49:19.580Z,17.987166666667,-66.836666666667,15.72,2.37,md,5,184,0.04229,0.07,pr,pr71477433,2025-03-25T10:54:55.180Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.59,0.73,0.093400950747071,5,reviewed,pr,pr
 2025-03-25T09:43:15.780Z,36.069499969482,-120.62833404541,3.829999923706,1.57,md,18,137,0.02606,0.08,nc,nc75154907,2025-03-25T10:27:16.711Z,"25 km E of San Ardo, CA",earthquake,0.39,0.649999976,0.22,8,automatic,nc,nc
 2025-03-25T09:37:38.830Z,34.0236667,-117.2655,16.78,1.79,ml,106,13,0.07152,0.19,ci,ci40909487,2025-03-25T09:48:51.700Z,"3 km S of Loma Linda, CA",earthquake,0.13,0.28,0.166,25,automatic,ci,ci
 2025-03-25T09:15:01.303Z,31.898,-101.766,3.9651,1.1,ml,25,45,0.1,0.5,tx,tx2025fwjc,2025-03-25T09:29:13.182Z,"25 km S of Stanton, Texas",earthquake,0,1.1261222362518,0.2,18,automatic,tx,tx
