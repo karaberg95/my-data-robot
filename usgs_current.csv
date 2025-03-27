@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-27T09:28:46.115Z,31.522,-104.014,5.0526,1.6,ml,14,62,0,0.2,tx,tx2025gaao,2025-03-27T09:36:32.170Z,"31 km NW of Toyah, Texas",earthquake,0,2.9165513515472,0.1,12,automatic,tx,tx
 2025-03-27T09:21:20.143Z,67.1767,-155.3398,0,1.8,ml,,,,1.06,ak,ak0253ydpai6,2025-03-27T09:26:50.619Z,"73 km ENE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-27T09:21:06.730Z,34.0688333,-118.8965,11.36,1.49,ml,47,121,0.02912,0.22,ci,ci40911447,2025-03-27T09:26:45.887Z,"11 km NW of Malibu, CA",earthquake,0.25,0.31,0.251,30,automatic,ci,ci
-2025-03-27T09:13:34.310Z,38.826831817627,-122.80416870117,1.7300000190735,0.76,md,14,71,0.005749,0.02,nc,nc75156137,2025-03-27T09:15:12.122Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.649999976,0.06,15,automatic,nc,nc
+2025-03-27T09:13:34.310Z,38.826831817627,-122.80416870117,1.7300000190735,0.76,md,14,71,0.005749,0.02,nc,nc75156137,2025-03-27T09:47:17.667Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.649999976,0.06,15,automatic,nc,nc
 2025-03-27T09:10:37.970Z,38.826332092285,-122.80400085449,1.710000038147,1.12,md,20,44,0.005577,0.01,nc,nc75156132,2025-03-27T09:32:16.557Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.519999981,0.2,21,automatic,nc,nc
 2025-03-27T09:07:39.640Z,33.9858333,-116.5618333,9.58,0.73,ml,33,56,0.08876,0.21,ci,ci40911439,2025-03-27T09:12:29.984Z,"6 km WNW of Desert Hot Springs, CA",earthquake,0.24,0.82,0.144,15,automatic,ci,ci
 2025-03-27T08:55:46.990Z,40.157333374023,-124.72766876221,0.11999999731779,2.92,md,13,278,0.3226,0.14,nc,nc75156122,2025-03-27T09:12:18.443Z,"42 km WSW of Petrolia, CA",earthquake,2.45,7.13000011,0.07,3,automatic,nc,nc
@@ -266,8 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T10:03:12.838Z,61.5264,-149.1395,24.3,1.8,ml,,,,0.61,ak,ak0253wqni5v,2025-03-26T10:05:25.106Z,"5 km WSW of Butte, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-26T10:02:18.206Z,36.654,-116.2754,7.2,-0.4,ml,17,163.41,0.052,0.0716,nn,nn00895148,2025-03-27T02:10:14.890Z,"51 km ESE of Beatty, Nevada",earthquake,,1,0.19,3,reviewed,nn,nn
 2025-03-26T09:55:58.350Z,38.816833333333,-122.795,2.49,0.38,md,24,36,0.008856,0.02,nc,nc75155482,2025-03-26T23:07:18.471Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.36,0.159,24,reviewed,nc,nc
-2025-03-26T09:52:27.240Z,18.635166666667,-66.254333333333,17.84,2.76,md,15,210,0.3047,0.24,pr,pr71477508,2025-03-26T10:58:18.730Z,"19 km N of Dorado, Puerto Rico",earthquake,0.84,0.68,0.19942748924368,9,reviewed,pr,pr
-2025-03-26T09:51:36.960Z,35.14066667,-97.84483333,5.06,0.63,ml,14,190,0.04859046489,0.06,ok,ok2025fyft,2025-03-26T13:40:28.018Z,"3 km SE of Amber, Oklahoma",earthquake,,0.6,0.2,6,reviewed,ok,ok
-2025-03-26T09:51:04.769Z,39.754,-98.048,9.974,2.6,mb_lg,24,61,1.291,0.6,us,us7000pmq7,2025-03-26T14:07:58.330Z,"5 km WSW of Formoso, Kansas",earthquake,3.27,7.844,0.061,71,reviewed,us,us
-2025-03-26T09:49:33.538Z,61.586,-149.7988,37.5,1.5,ml,,,,0.55,ak,ak0253wqbz3d,2025-03-26T09:51:34.078Z,"5 km SSE of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-26T09:47:30.170Z,40.8585,-111.54666666667,9.62,0.62,md,14,58,0.08787,0.17,uu,uu80104501,2025-03-26T13:10:32.440Z,"12 km WNW of Wanship, Utah",earthquake,0.39,1.13,0.28574946760754,10,reviewed,uu,uu
