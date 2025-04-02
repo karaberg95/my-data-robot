@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T16:39:46.036Z,57.3373,-160.0018,40,2.7,ml,,,,0.82,ak,ak02548f7bl7,2025-04-02T16:42:49.534Z,"142 km NNW of Chignik Lake, Alaska",earthquake,,26.4,,,automatic,ak,ak
 2025-04-02T16:37:19.652Z,56.2742,-159.5523,4.3,2.2,ml,,,,0.35,ak,ak02548f6u4d,2025-04-02T16:39:50.589Z,"41 km N of Ivanof Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-02T16:37:17.460Z,19.137500762939,-155.53833007812,31.030000686646,2.24,ml,44,142,0.07422,0.140000001,hv,hv74646897,2025-04-02T17:09:50.040Z,"8 km NNE of Naalehu, Hawaii",earthquake,0.49,0.670000017,0.4,4,automatic,hv,hv
-2025-04-02T16:27:12.271Z,15.5086,95.6372,10,5,mww,98,64,4.313,0.67,us,us7000ppgb,2025-04-02T16:54:44.040Z,"86 km S of Pyapon, Burma (Myanmar)",earthquake,7.34,1.843,0.098,10,reviewed,us,us
+2025-04-02T16:27:12.271Z,15.5086,95.6372,10,5,mww,98,64,4.313,0.67,us,us7000ppgb,2025-04-02T17:49:14.081Z,"86 km S of Pyapon, Burma (Myanmar)",earthquake,7.34,1.843,0.098,10,reviewed,us,us
 2025-04-02T16:26:35.052Z,53.3335,172.8099,11.771,5.5,mww,172,53,0.987,0.73,us,us7000ppga,2025-04-02T17:00:31.502Z,"59 km NNW of Attu Station, Alaska",earthquake,9.08,4.185,0.047,44,reviewed,us,us
 2025-04-02T16:09:19.056Z,58.304,-156.8535,27.4,1,ml,,,,0.54,ak,ak02548f0uai,2025-04-02T16:11:28.576Z,"32 km ENE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-02T16:05:12.273Z,57.7636,-155.9208,99.1,1.7,ml,,,,0.29,ak,ak02548ezymz,2025-04-02T16:07:35.097Z,"90 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T07:46:54.350Z,45.591166666667,-111.83283333333,1.79,2.42,ml,40,37,0.1428,0.1,mb,mb90076508,2025-04-02T14:28:47.180Z,"8 km SSE of Pony, Montana",earthquake,0.16,0.62,0.16603959102491,54,reviewed,mb,mb
 2025-04-02T07:38:14.470Z,38.789501190185,-122.77850341797,2.2999999523163,2,md,9,106,0.02264,0.05,nc,nc75158797,2025-04-02T08:07:18.296Z,"2 km NW of The Geysers, CA",earthquake,0.35,0.75999999,0.09,9,automatic,nc,nc
 2025-04-02T07:29:12.270Z,18.826,-64.473,26.33,3.43,md,13,302,0.4271,0.11,pr,pr71478193,2025-04-02T13:02:27.040Z,"64 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.6,6.02,0.11624561779391,12,reviewed,pr,pr
+2025-04-02T07:24:54.555Z,41.2047,-116.7214,7.6,2,ml,6,254.97,0.32,0.1862,nn,nn00895551,2025-04-02T17:48:06.953Z,"57 km NE of Valmy, Nevada",earthquake,,2.9,0.2,4,reviewed,nn,nn
 2025-04-02T07:17:04.434Z,64.225,-148.084,0,1.4,ml,,,,0.5,ak,ak025489pm6j,2025-04-02T07:19:34.999Z,"53 km E of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-02T07:13:59.940Z,40.26216506958,-124.16716766357,12.489999771118,1.8,md,16,104,0.01239,0.07,nc,nc75158792,2025-04-02T07:47:18.172Z,"12 km SE of Petrolia, CA",earthquake,0.45,0.75,0.11,10,automatic,nc,nc
 2025-04-02T06:52:52.120Z,18.3293,-68.0175,102,3.64,md,23,180,0.408,0.32,pr,pr2025092001,2025-04-02T12:51:27.040Z,"49 km SE of Punta Cana, Dominican Republic",earthquake,2.82,1.41,0.11,17,reviewed,pr,pr
@@ -169,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-01T18:01:42.950Z,35.16716667,-97.826,3.39,1.53,ml,27,110,0.01799646848,0.33,ok,ok2025gjuy,2025-04-01T18:14:38.623Z,"4 km E of Amber, Oklahoma",earthquake,,1.2,0.28,14,reviewed,ok,ok
 2025-04-01T17:57:26.100Z,33.5218333,-116.7286667,3.61,1.23,ml,46,27,0.04405,0.19,ci,ci40914343,2025-04-01T20:04:30.220Z,"6 km SW of Anza, CA",earthquake,0.15,0.38,0.16,31,reviewed,ci,ci
 2025-04-01T17:56:54.600Z,38.819499969482,-122.84149932861,2.1300001144409,0.77,md,11,119,0.006211,0.02,nc,nc75158622,2025-04-01T18:52:16.047Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.680000007,0.25,12,automatic,nc,nc
-2025-04-01T17:54:31.765Z,56.9922,-157.4628,4.2,2.3,ml,,,,0.89,ak,ak02546sclc8,2025-04-01T19:24:46.040Z,"58 km S of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
