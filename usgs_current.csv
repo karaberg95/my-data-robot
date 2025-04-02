@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T11:12:19.530Z,34.166,-117.2675,8.89,1.26,ml,65,32,0.03393,0.21,ci,ci40914639,2025-04-02T11:22:40.790Z,"5 km NNE of San Bernardino, CA",earthquake,0.18,0.37,0.163,27,automatic,ci,ci
 2025-04-02T10:57:35.541Z,65.0038,-150.2597,2.9,1.4,ml,,,,0.31,ak,ak02548bqk1e,2025-04-02T10:59:15.797Z,"17 km E of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-02T10:52:55.190Z,44.8315,-111.503,8.41,1.27,ml,22,86,0.04988,0.15,mb,mb90076523,2025-04-02T17:34:16.040Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.29,0.79,0.13572090538489,28,reviewed,mb,mb
+2025-04-02T10:51:02.810Z,44.8295,-111.50266666667,7.46,1.18,ml,21,87,0.04901,0.15,mb,mb90076518,2025-04-02T17:43:09.280Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.31,0.55,0.15454082341362,26,reviewed,mb,mb
 2025-04-02T10:48:40.280Z,44.836,-111.5075,7.97,1.29,ml,22,87,0.04998,0.13,mb,mb90076513,2025-04-02T14:37:14.460Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.27,0.47,0.18490810875933,23,reviewed,mb,mb
 2025-04-02T10:45:06.095Z,20.9046,96.0656,10,4.7,mb,48,73,0.916,0.68,us,us7000ppf6,2025-04-02T17:30:26.480Z,"21 km E of Meiktila, Burma (Myanmar)",earthquake,3.32,1.882,0.08,48,reviewed,us,us
 2025-04-02T10:42:54.070Z,36.011665344238,-121.5488357544,3.9400000572205,1.53,md,11,205,0.0564,0.04,nc,nc75158812,2025-04-02T12:42:17.146Z,"2 km SE of Lopez Point, CA",earthquake,0.59,0.529999971,0.05,5,automatic,nc,nc
@@ -111,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T02:17:44.161Z,65.4449,-148.2272,8.3,1,ml,,,,0.25,ak,ak025486qj80,2025-04-02T02:18:54.030Z,"17 km ESE of Livengood, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-02T01:27:04.639Z,37.2502,-117.4872,0,0.9,ml,17,275.24,0.187,0.2777,nn,nn00895515,2025-04-02T01:29:43.938Z,"55 km SSW of Goldfield, Nevada",earthquake,,13.3,0.48,9,automatic,nn,nn
 2025-04-02T01:11:21.560Z,35.8891667,-117.7183333,6.76,2.07,ml,24,47,0.08048,0.16,ci,ci40914519,2025-04-02T13:28:41.729Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.55,0.238,26,reviewed,ci,ci
-2025-04-02T01:00:24.280Z,35.9231667,-117.71,4.33,1.33,ml,9,180,0.05432,0.03,ci,ci40914503,2025-04-02T01:03:55.156Z,"18 km E of Little Lake, CA",earthquake,0.21,0.44,0.164,16,automatic,ci,ci
+2025-04-02T01:00:24.300Z,35.9236667,-117.7133333,3.96,1.24,ml,13,124,0.05652,0.08,ci,ci40914503,2025-04-02T17:48:00.237Z,"18 km E of Little Lake, CA",earthquake,0.16,0.39,0.102,15,reviewed,ci,ci
 2025-04-02T00:59:30.638Z,-20.3662,-173.6948,10,5,mb,29,106,3.774,0.67,us,us7000ppde,2025-04-02T05:06:12.040Z,"92 km SE of Pangai, Tonga",earthquake,6.02,1.899,0.117,23,reviewed,us,us
 2025-04-02T00:42:58.670Z,40.375331878662,-125.00416564941,3.5499999523163,3.3,ml,53,273,0.5131,0.47,nc,nc75158747,2025-04-02T17:40:00.850Z,"61 km WNW of Petrolia, CA",earthquake,5.42,6.55999994,0.09,5,automatic,nc,nc
 2025-04-02T00:34:08.553Z,64.9615,-147.4849,0,1.1,ml,,,,0.75,ak,ak025485n8fr,2025-04-02T00:36:08.035Z,"6 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -121,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-02T00:19:27.488Z,28.4833,87.1454,52.02,4.3,mb,43,51,1.783,0.7,us,us7000ppd4,2025-04-02T04:09:22.040Z,"67 km NNE of Lobuche, Nepal",earthquake,8.31,9.818,0.094,32,reviewed,us,us
 2025-04-02T00:01:49.123Z,41.1889,-116.7069,9.5,3.5,ml,8,159.83,0.302,0.1575,nn,nn00895512,2025-04-02T15:31:38.406Z,"56 km NE of Valmy, Nevada",earthquake,,3.3,0.21,6,reviewed,nn,nn
 2025-04-01T23:59:52.032Z,25.9909,128.5685,10,5,mww,58,64,0.882,0.42,us,us7000ppcu,2025-04-02T03:48:11.040Z,"79 km ESE of Katsuren-haebaru, Japan",earthquake,6.65,1.881,0.098,10,reviewed,us,us
-2025-04-01T23:58:54.200Z,37.704833333333,-121.99366666667,10.3,2.94,md,149,24,0.04806,0.15,nc,nc75158742,2025-04-02T17:00:56.498Z,"5 km WNW of Dublin, CA",earthquake,0.12,0.22,0.135,124,reviewed,nc,nc
+2025-04-01T23:58:54.200Z,37.704833333333,-121.99366666667,10.3,2.94,md,149,24,0.04806,0.15,nc,nc75158742,2025-04-02T17:44:59.342Z,"5 km WNW of Dublin, CA",earthquake,0.12,0.22,0.135,124,reviewed,nc,nc
 2025-04-01T23:54:48.887Z,27.3763,142.6551,35,4.6,mb,48,157,0.504,0.33,us,us7000ppcw,2025-04-02T03:18:46.040Z,"Bonin Islands, Japan region",earthquake,10.17,1.947,0.085,41,reviewed,us,us
 2025-04-01T23:46:28.870Z,34.0363333,-117.5778333,14.35,0.9,ml,23,72,0.09194,0.18,ci,ci40914487,2025-04-02T15:14:00.316Z,"5 km ESE of Ontario, CA",earthquake,0.39,0.71,0.078,6,reviewed,ci,ci
 2025-04-01T23:34:33.011Z,39.0508,-119.0099,5.1,1.4,ml,13,89.19,0.095,0.1636,nn,nn00895509,2025-04-02T02:15:23.520Z,"15 km ENE of Yerington, Nevada",earthquake,,3.1,0.35,5,reviewed,nn,nn
