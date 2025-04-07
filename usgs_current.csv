@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-07T21:20:04.886Z,66.9971,-154.0536,0,2,ml,,,,0.61,ak,ak0254grr2aw,2025-04-07T21:22:57.952Z,"76 km NW of Alatna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-04-07T21:19:19.980Z,38.6862,-117.2198,16,2,ml,8,190.35,0.45,0.384,nn,nn00895881,2025-04-07T21:22:09.249Z,"59 km SSW of Kingston, Nevada",earthquake,,1.6,0.72,6,automatic,nn,nn
+2025-04-07T21:06:57.452Z,31.658,-104.196,4.5667,1.7,ml,18,65,0.1,0.2,tx,tx2025gvac,2025-04-07T21:18:04.965Z,"53 km NW of Toyah, Texas",earthquake,0,1.2531471252441,0.3,14,automatic,tx,tx
 2025-04-07T20:58:58.041Z,60.84,-148.3229,8.3,2.4,ml,,,,0.76,ak,ak0254grdw0c,2025-04-07T21:00:57.093Z,"21 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-04-07T20:40:09.620Z,38.835834503174,-122.81783294678,1.8300000429153,0.71,md,9,74,0.01382,0.01,nc,nc75162107,2025-04-07T20:41:43.530Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.19000006,0.13,13,automatic,nc,nc
+2025-04-07T20:40:09.620Z,38.835834503174,-122.81783294678,1.8300000429153,0.71,md,9,74,0.01382,0.01,nc,nc75162107,2025-04-07T21:12:19.432Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.19000006,0.13,13,automatic,nc,nc
 2025-04-07T20:27:48.990Z,38.833332061768,-122.81050109863,2.2599999904633,1.1,md,22,50,0.009928,0.01,nc,nc75162097,2025-04-07T20:52:19.300Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.400000006,0.14,25,automatic,nc,nc
 2025-04-07T20:17:49.300Z,38.834167480469,-122.80933380127,2.0199999809265,2.26,md,47,26,0.01077,0.05,nc,nc75162082,2025-04-07T20:27:21.151Z,"8 km WNW of Cobb, CA",earthquake,0.15,0.239999995,0.14,48,automatic,nc,nc
 2025-04-07T20:00:42.031Z,-6.1645,151.3901,10,4.8,mb,49,86,2.106,0.84,us,us6000q4ly,2025-04-07T20:16:59.040Z,"154 km ESE of Kimbe, Papua New Guinea",earthquake,8.86,1.881,0.072,60,reviewed,us,us
@@ -24,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T18:09:26.030Z,38.782165527344,-122.73283386231,1.8799999952316,0.72,md,9,84,0.003224,0.02,nc,nc75162022,2025-04-07T19:27:19.777Z,"2 km E of The Geysers, CA",earthquake,0.34,0.75999999,0.28,8,automatic,nc,nc
 2025-04-07T18:02:50.131Z,32.097,-101.479,8.8379,1.1,ml,13,97,0.1,0.1,tx,tx2025guuj,2025-04-07T19:09:21.890Z,"10 km W of Forsan, Texas",earthquake,0.89804607916225,1.3699758162948,0.2,8,reviewed,tx,tx
 2025-04-07T17:41:23.660Z,38.779666900635,-122.75816345215,1.2000000476837,0.76,md,11,70,0.01072,0.02,nc,nc75162017,2025-04-07T18:57:17.581Z,"0 km NNW of The Geysers, CA",earthquake,0.25,0.529999971,0.39,9,automatic,nc,nc
-2025-04-07T17:33:44.090Z,33.3335,-116.8181667,5.02,1.99,ml,84,19,0.04229,0.22,ci,ci40918783,2025-04-07T21:09:49.029Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.13,0.48,0.248,27,reviewed,ci,ci
+2025-04-07T17:33:44.090Z,33.3335,-116.8181667,5.02,1.99,ml,84,19,0.04229,0.22,ci,ci40918783,2025-04-07T21:10:19.680Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.13,0.48,0.248,27,reviewed,ci,ci
 2025-04-07T17:20:47.392Z,11.8608,-87.6082,32.288,4.4,mb,37,153,1.01,0.62,us,us6000q4jd,2025-04-07T17:36:16.040Z,"83 km SW of Corinto, Nicaragua",earthquake,4.75,6.687,0.072,56,reviewed,us,us
 2025-04-07T17:08:42.890Z,36.836498260498,-121.19116973877,0.38999998569488,1.54,md,9,83,0.1088,0.14,nc,nc75162002,2025-04-07T18:17:21.301Z,"13 km ENE of Tres Pinos, CA",earthquake,0.52,8.68999958,0.26,8,automatic,nc,nc
 2025-04-07T16:51:22.678Z,62.3367,-152.0808,106.1,1.6,ml,,,,0.15,ak,ak0254goykuj,2025-04-07T16:52:54.412Z,"52 km NW of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -33,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-07T16:41:03.330Z,38.766334533691,-122.69933319092,0.81000000238419,1.06,md,10,86,0.00184,0.02,nc,nc75161987,2025-04-07T17:32:17.993Z,"1 km SW of Anderson Springs, CA",earthquake,0.25,0.370000005,0.16,10,automatic,nc,nc
 2025-04-07T16:31:56.260Z,38.833831787109,-122.80200195312,1.6599999666214,1.26,md,24,53,0.01019,0.02,nc,nc75161982,2025-04-07T17:07:18.833Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.349999994,0.15,26,automatic,nc,nc
 2025-04-07T16:31:35.850Z,66.1902,-157.2885,0,2.9,ml,,,,0.83,ak,ak0254goubjq,2025-04-07T17:16:37.040Z,"68 km NW of Huslia, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-04-07T16:17:06.290Z,33.9888333,-116.8368333,5.48,1.51,ml,61,25,0.05212,0.14,ci,ci40918751,2025-04-07T21:09:54.028Z,"8 km NNE of Banning, CA",earthquake,0.11,0.36,0.14,26,reviewed,ci,ci
+2025-04-07T16:17:06.290Z,33.9888333,-116.8368333,5.48,1.51,ml,61,25,0.05212,0.14,ci,ci40918751,2025-04-07T21:10:23.570Z,"8 km NNE of Banning, CA",earthquake,0.11,0.36,0.14,26,reviewed,ci,ci
 2025-04-07T16:14:16.790Z,48.6555,-123.13233333333,14.2,0.91,ml,13,151,0.04366,0.07,uw,uw62081017,2025-04-07T18:43:43.200Z,"15 km WNW of Orcas, Washington",earthquake,0.3,0.35,0.073787900258799,5,reviewed,uw,uw
 2025-04-07T16:09:07.700Z,63.3063,-149.4079,86.4,2.2,ml,,,,0.29,ak,ak0254gopjma,2025-04-07T16:11:10.284Z,"24 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-07T16:04:48.830Z,34.339,-116.8488333,-1.13,1.03,ml,28,57,0.01984,0.2,ci,ci40918735,2025-04-07T16:10:40.130Z,"9 km N of Big Bear City, CA",earthquake,0.26,0.49,0.147,23,automatic,ci,ci
@@ -224,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-06T21:36:36.340Z,17.979166666667,-66.8305,15.62,2.94,md,23,179,0.04659,0.11,pr,pr71478518,2025-04-06T22:15:19.900Z,"2 km SW of Indios, Puerto Rico",earthquake,0.35,0.26,0.11383564035585,12,reviewed,pr,pr
 2025-04-06T21:29:54.490Z,38.807167053223,-122.7799987793,2.8199999332428,1.1,md,28,66,0.006107,0.02,nc,nc75161542,2025-04-06T23:07:19.586Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.389999986,0.14,28,automatic,nc,nc
 2025-04-06T21:28:59.186Z,36.7738,-116.1062,2.4,-0.3,ml,7,159.78,0.013,0.0921,nn,nn00895849,2025-04-07T13:54:11.604Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.8,0.11,2,reviewed,nn,nn
-2025-04-06T21:14:58.810Z,-6.2486,151.6278,10,4.6,mb,63,119,2.112,0.86,us,us6000q4fg,2025-04-07T01:22:24.040Z,"182 km ESE of Kimbe, Papua New Guinea",earthquake,9.39,1.882,0.076,52,reviewed,us,us
-2025-04-06T21:12:14.899Z,39.4731,-119.4685,6.9,0.7,ml,10,156.57,0.226,0.1774,nn,nn00895852,2025-04-07T13:57:24.536Z,"13 km NW of Stagecoach, Nevada",earthquake,,6,0,1,reviewed,nn,nn
