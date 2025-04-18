@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-18T19:31:58.400Z,38.80583190918,-122.82633209228,2.2400000095367,0.93,md,22,71,0.00376,0.03,nc,nc75167676,2025-04-18T19:33:33.079Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.21,24,automatic,nc,nc
 2025-04-18T19:07:18.699Z,61.7508,-146.9948,34.7,1.7,ml,,,,0.72,ak,ak0254yxe9a5,2025-04-18T19:09:30.830Z,"22 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-18T18:41:43.360Z,55.3894,164.403,10,5.4,mww,223,81,4.126,0.7,us,us6000q72m,2025-04-18T19:13:41.044Z,"152 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.64,1.823,0.073,18,reviewed,us,us
 2025-04-18T18:40:01.587Z,55.5018,164.3516,10,4.8,mb,152,29,4.164,0.81,us,us6000q72k,2025-04-18T19:17:50.040Z,"142 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,7.58,1.831,0.035,264,reviewed,us,us
@@ -16,12 +17,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T17:39:05.073Z,63.2613,-151.7583,2.8,1.4,ml,,,,0.54,ak,ak0254ywe7xn,2025-04-18T17:41:18.260Z,"31 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-18T17:37:08.750Z,38.825164794922,-122.79550170898,2.7799999713898,0.26,md,9,94,0.01152,0.01,nc,nc75167616,2025-04-18T19:12:17.929Z,"6 km WNW of Cobb, CA",earthquake,0.52,1.62,0.16,9,automatic,nc,nc
 2025-04-18T17:35:55.660Z,33.0445,-116.5968333,13.41,0.83,ml,27,104,0.03639,0.2,ci,ci40932327,2025-04-18T17:39:24.340Z,"4 km S of Julian, CA",earthquake,0.34,0.54,0.157,15,automatic,ci,ci
-2025-04-18T17:31:23.242Z,17.617,-62.041,54.647,4.6,mwr,108,89,0.249,0.59,us,us6000q727,2025-04-18T18:46:10.743Z,"23 km W of Codrington, Antigua and Barbuda",earthquake,4.2,7.198,0.057,30,reviewed,us,us
+2025-04-18T17:31:23.242Z,17.617,-62.041,54.647,4.6,mwr,108,89,0.249,0.59,us,us6000q727,2025-04-18T19:27:16.244Z,"23 km W of Codrington, Antigua and Barbuda",earthquake,4.2,7.198,0.057,30,reviewed,us,us
 2025-04-18T17:12:37.390Z,34.8436667,-118.7873333,0.29,1.55,ml,16,73,0.06755,0.22,ci,ci40932295,2025-04-18T17:19:42.197Z,"7 km E of Lebec, CA",earthquake,0.31,0.66,0.472,33,automatic,ci,ci
 2025-04-18T17:10:01.546Z,31.58,-104.571,2.6904,2,ml,7,171,0.1,0.1,tx,tx2025houw,2025-04-18T17:44:41.883Z,"64 km NNE of Van Horn, Texas",earthquake,0,3.2846455574036,0.2,6,automatic,tx,tx
 2025-04-18T17:08:28.550Z,33.0386667,-116.5966667,14.02,0.89,ml,38,41,0.0422,0.17,ci,ci40932287,2025-04-18T17:42:39.750Z,"4 km S of Julian, CA",earthquake,0.23,0.39,0.156,23,reviewed,ci,ci
 2025-04-18T16:51:02.860Z,38.68433380127,-122.50033569336,6.3000001907349,1.24,md,7,169,0.0714,0.04,nc,nc75167596,2025-04-18T18:47:18.856Z,"12 km SE of Middletown, CA",earthquake,0.48,1.92999995,0.27,8,automatic,nc,nc
 2025-04-18T16:50:10.400Z,38.792499542236,-122.75983428955,2.2200000286102,1,md,16,70,0.008114,0.03,nc,nc75167591,2025-04-18T18:22:19.594Z,"2 km N of The Geysers, CA",earthquake,0.26,0.550000012,0.28,14,automatic,nc,nc
+2025-04-18T16:48:38.470Z,46.6185,-119.793,8.01,1.19,ml,12,68,0.02113,0.07,uw,uw62094111,2025-04-18T19:30:16.830Z,"11 km SE of Desert Aire, Washington",earthquake,0.21,0.13,0.10902946869983,13,reviewed,uw,uw
 2025-04-18T16:40:07.910Z,46.852833333333,-121.76133333333,1.68,0.69,ml,22,84,0.02179,0.08,uw,uw62094091,2025-04-18T18:29:32.320Z,"23 km ENE of Ashford, Washington",earthquake,0.2,0.42,0.13482132319126,14,reviewed,uw,uw
 2025-04-18T16:33:11.810Z,33.0505,-116.6103333,13.05,2.15,ml,79,19,0.03224,0.2,ci,ci40932247,2025-04-18T17:42:42.027Z,"3 km SSW of Julian, CA",earthquake,0.14,0.4,0.258,26,reviewed,ci,ci
 2025-04-18T16:30:51.520Z,33.6845016,-118.0059967,-0.34,1.34,ml,15,112,0.2958,0.47,ci,ci40932239,2025-04-18T16:34:22.918Z,"1 km SSW of Huntington Beach, CA",earthquake,1.22,6.36,0.353,6,automatic,ci,ci
@@ -123,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-18T07:28:40.510Z,19.222833333333,-65.981833333333,16.8,3.38,md,19,245,0.9051,0.2,pr,pr71479383,2025-04-18T07:49:24.630Z,"84 km N of San Juan, Puerto Rico",earthquake,1.3,2.88,0.095703410393362,16,reviewed,pr,pr
 2025-04-18T07:26:37.930Z,61.355166666667,-152.2135,-3.15,-0.04,ml,7,243,0.09431,0.12,av,av93578866,2025-04-18T19:11:00.380Z,"65 km WNW of Beluga, Alaska",earthquake,0.72,2.08,0.16663277113301,7,reviewed,av,av
 2025-04-18T07:24:13.637Z,-6.2122,151.6385,10,5.1,mb,32,161,2.075,1.41,us,us6000q6zb,2025-04-18T07:42:42.040Z,"181 km ESE of Kimbe, Papua New Guinea",earthquake,11.53,1.923,0.069,69,reviewed,us,us
+2025-04-18T07:20:52.290Z,54.1485,-165.91033333333,-0.52,-0.93,ml,5,132,0.01466,0.26,av,av93039374,2025-04-18T19:35:43.620Z,"8 km W of Akutan, Alaska",earthquake,0.38,2.44,0.15357345074879,4,reviewed,av,av
 2025-04-18T06:55:33.320Z,19.438333333333,-154.89316666667,6.71,2.73,ml,34,256,0.02947,0.13,hv,hv74655702,2025-04-18T18:31:45.555Z,"4 km SE of Leilani Estates, Hawaii",earthquake,1.02,0.45,0.18624569415842,30,reviewed,hv,hv
 2025-04-18T06:54:33.910Z,38.798168182373,-122.78583526611,3.920000076294,0.75,md,9,130,0.005241,0.01,nc,nc75167401,2025-04-18T08:57:16.863Z,"3 km NW of The Geysers, CA",earthquake,0.6,1.39999998,0.17,9,automatic,nc,nc
 2025-04-18T06:47:53.860Z,34.0178333,-117.2163333,13.26,0.83,ml,35,58,0.1023,0.17,ci,ci40931831,2025-04-18T06:51:24.213Z,"5 km SW of Redlands, CA",earthquake,0.19,0.51,0.191,29,automatic,ci,ci
@@ -241,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T19:41:14.950Z,48.455833333333,-123.52733333333,-0.25,0.65,md,7,102,0.1413,0.18,uw,uw62093546,2025-04-17T23:48:43.340Z,"1 km WNW of Langford, Canada",explosion,0.6,31.61,0.29228452770568,5,reviewed,uw,uw
 2025-04-17T19:41:10.340Z,19.6015,-156.06133333333,7.37,2.71,ml,27,268,0.2282,0.2,hv,hv74655302,2025-04-18T17:44:32.040Z,"7 km WSW of Kailua-Kona, Hawaii",earthquake,0.87,0.72,0.10993836770348,12,reviewed,hv,hv
 2025-04-17T19:36:55.070Z,19.310333333333,-155.25033333333,0.37,1.88,ml,50,93,0.03777,0.17,hv,hv74655292,2025-04-17T19:52:36.470Z,"14 km S of Volcano, Hawaii",earthquake,0.16,0.19,0.26063794135525,32,reviewed,hv,hv
-2025-04-17T19:31:17.315Z,52.5058,-34.1366,10,4.6,mb,46,133,12.878,0.41,us,us6000q6ux,2025-04-17T21:27:18.040Z,"Reykjanes Ridge",earthquake,11.8,1.917,0.074,54,reviewed,us,us
-2025-04-17T19:28:35.530Z,33.1028333,-116.6451667,13.77,0.59,ml,19,102,0.04553,0.21,ci,ci40931423,2025-04-17T20:24:12.242Z,"5 km WNW of Julian, CA",earthquake,0.38,0.71,0.059,5,reviewed,ci,ci
