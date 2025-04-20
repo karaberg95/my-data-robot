@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-20T21:52:07.570Z,38.793998718262,-122.77899932861,3.4500000476837,1.07,md,15,77,0.01646,0.02,nc,nc75168966,2025-04-20T21:53:43.121Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.829999983,0.06,16,automatic,nc,nc
 2025-04-20T21:19:27.601Z,37.3482,-117.1947,4.2,1,ml,18,187.17,0.071,0.2027,nn,nn00896574,2025-04-20T21:21:57.442Z,"40 km S of Goldfield, Nevada",earthquake,,2.2,0.44,11,automatic,nn,nn
 2025-04-20T21:15:27.550Z,34.0111667,-117.1243333,16.95,1.23,ml,48,40,0.02619,0.16,ci,ci40934695,2025-04-20T21:19:00.392Z,"7 km S of Mentone, CA",earthquake,0.17,0.4,0.297,30,automatic,ci,ci
 2025-04-20T21:06:43.240Z,34.0121667,-117.1218333,17.39,2.01,ml,113,16,0.02453,0.18,ci,ci40934687,2025-04-20T21:17:48.910Z,"6 km S of Mentone, CA",earthquake,0.12,0.28,0.202,24,automatic,ci,ci
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-20T18:13:45.100Z,32.8443333,-115.946,7.54,0.84,ml,14,64,0.04664,0.2,ci,ci40934479,2025-04-20T18:17:11.066Z,"13 km NNE of Ocotillo, CA",earthquake,0.42,0.79,0.297,8,automatic,ci,ci
 2025-04-20T18:13:42.829Z,37.3379,-117.1877,4.8,1.5,ml,28,185.63,0.069,0.2724,nn,nn00896571,2025-04-20T18:16:17.710Z,"41 km S of Goldfield, Nevada",earthquake,,1.2,0.28,20,automatic,nn,nn
 2025-04-20T18:09:19.340Z,33.5315,-116.7256667,5.2,0.23,ml,9,106,0.03518,0.14,ci,ci40934471,2025-04-20T18:12:49.693Z,"6 km WSW of Anza, CA",earthquake,0.37,0.76,0.107,7,automatic,ci,ci
-2025-04-20T17:45:59.142Z,-17.5635,168.0266,43.237,4.9,mww,55,110,2.248,0.57,us,us6000q7eu,2025-04-20T21:40:51.551Z,"35 km WNW of Port-Vila, Vanuatu",earthquake,8.18,6.682,0.069,20,reviewed,us,us
+2025-04-20T17:45:59.142Z,-17.5635,168.0266,43.237,4.9,mww,55,110,2.248,0.57,us,us6000q7eu,2025-04-20T21:53:02.799Z,"35 km WNW of Port-Vila, Vanuatu",earthquake,8.18,6.682,0.069,20,reviewed,us,us
 2025-04-20T17:42:40.091Z,37.3584,-117.1931,5.3,2,ml,34,89.58,0.079,0.2011,nn,nn00896567,2025-04-20T17:44:49.664Z,"39 km S of Goldfield, Nevada",earthquake,,0.7,0.35,23,automatic,nn,nn
 2025-04-20T17:33:27.099Z,65.41,-149.045,2.3,1.8,ml,,,,1.24,ak,ak025527fobp,2025-04-20T17:35:16.044Z,"26 km WSW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-20T17:33:16.425Z,65.8329,-147.967,15.6,2,ml,,,,0.78,ak,ak025527fni2,2025-04-20T17:36:28.959Z,"43 km NE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -195,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-20T04:40:18.530Z,36.824333190918,-121.56483459473,6,2.75,md,76,49,0.02727,0.2,nc,nc75168511,2025-04-20T06:32:19.003Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.22,0.5,0.1,92,automatic,nc,nc
 2025-04-20T04:38:31.500Z,33.748,-117.5295,8.44,0.83,ml,28,83,0.08135,0.18,ci,ci40933975,2025-04-20T20:53:03.075Z,"11 km NNE of Trabuco Canyon, CA",earthquake,0.26,0.52,0.243,10,reviewed,ci,ci
 2025-04-20T04:33:17.932Z,61.5177,-152.0618,106.6,1.6,ml,,,,0.18,ak,ak02551zp0r5,2025-04-20T04:34:44.902Z,"63 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-04-20T04:29:54.500Z,35.692,-90.289,4.84,2.11,md,18,65,0.003154,0.3,nm,nm60603981,2025-04-20T21:31:58.473Z,"6 km SW of Etowah, Arkansas",earthquake,0.35,0.45,0.16875648277552,14,reviewed,nm,nm
+2025-04-20T04:29:54.500Z,35.692,-90.289,4.84,2.11,md,18,65,0.003154,0.3,nm,nm60603981,2025-04-20T21:47:56.583Z,"6 km SW of Etowah, Arkansas",earthquake,0.35,0.45,0.16875648277552,14,reviewed,nm,nm
 2025-04-20T04:25:45.250Z,36.826332092285,-121.56883239746,5.9699997901917,2.96,md,79,49,0.02847,0.2,nc,nc75168506,2025-04-20T14:59:43.711Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.22,0.49000001,0.09,113,automatic,nc,nc
 2025-04-20T04:23:02.295Z,38.1782,-117.8783,3,1.9,ml,15,92.33,0.086,0.1848,nn,nn00896492,2025-04-20T04:25:39.882Z,"31 km SE of Mina, Nevada",earthquake,,1.2,0.19,7,automatic,nn,nn
 2025-04-20T04:15:16.220Z,37.1709,-116.9837,8.1,1.8,ml,24,133.61,0.195,0.1711,nn,nn00896491,2025-04-20T13:48:37.978Z,"35 km NW of Beatty, Nevada",earthquake,,2.9,0.29,6,reviewed,nn,nn
