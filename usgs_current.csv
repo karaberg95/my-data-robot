@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-21T17:27:19.199Z,57.3589,-156.7363,90.9,2,ml,,,,0.27,ak,ak02553uxpwv,2025-04-21T17:29:19.326Z,"43 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-21T17:24:39.569Z,39.2565,28.9549,7.131,4,mwr,44,42,1.315,0.91,us,us7000pu1f,2025-04-21T17:49:20.040Z,"18 km N of Simav, Turkey",earthquake,4.01,4.791,0.071,19,reviewed,us,us
 2025-04-21T17:24:10.220Z,33.19,-116.2826667,11.62,0.35,ml,11,90,0.0242,0.2,ci,ci40935751,2025-04-21T18:16:59.117Z,"11 km SE of Borrego Springs, CA",earthquake,0.48,0.95,0.08,4,reviewed,ci,ci
-2025-04-21T17:22:13.900Z,37.514,-118.47683333333,7,1.18,md,23,112,0.04317,0.05,nc,nc75169331,2025-04-21T19:07:17.657Z,"15 km  of Dixon Lane-Meadow Creek, CA",earthquake,0.56,1.13,0.125,14,reviewed,nc,nc
+2025-04-21T17:22:13.900Z,37.514,-118.47683333333,7,1.18,md,23,112,0.04317,0.05,nc,nc75169331,2025-04-21T20:52:17.352Z,"15 km  of Dixon Lane-Meadow Creek, CA",earthquake,0.56,1.13,0.125,14,reviewed,nc,nc
 2025-04-21T17:15:09.220Z,38.827667236328,-122.82150268555,1.4299999475479,1.07,md,23,42,0.009894,0.02,nc,nc75169326,2025-04-21T19:12:20.688Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.370000005,0.11,25,automatic,nc,nc
 2025-04-21T17:13:02.403Z,63.9775,-148.8324,111.7,1.6,ml,,,,0.47,ak,ak02553uuolc,2025-04-21T17:14:59.794Z,"14 km ESE of Ferry, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-21T16:56:29.056Z,32.107,-101.926,5.3955,1.4,ml,10,69,0.1,0.1,tx,tx2025huhh,2025-04-21T18:50:57.729Z,"13 km W of Stanton, Texas",earthquake,0.56706386023945,1.3993846775451,0.2,25,reviewed,tx,tx
