@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T17:40:42.430Z,38.833168029785,-122.79083251953,1.7999999523163,0.36,md,11,53,0.005247,0.02,nc,nc75171396,2025-04-25T18:42:18.717Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.610000014,0.19,13,automatic,nc,nc
 2025-04-25T17:34:52.510Z,33.538,-116.7166667,5.1,0.11,ml,6,132,0.03231,0.06,ci,ci41134056,2025-04-25T18:10:11.681Z,"4 km WSW of Anza, CA",earthquake,0.22,0.5,0.219,6,reviewed,ci,ci
 2025-04-25T17:33:20.360Z,38.77799987793,-122.74183654785,2.2799999713898,0.95,md,10,69,0.006581,0.02,nc,nc75171391,2025-04-25T18:32:16.651Z,"1 km E of The Geysers, CA",earthquake,0.37,0.75999999,0.19,10,automatic,nc,nc
-2025-04-25T17:33:16.771Z,40.8476,28.4496,13.696,4.3,mwr,80,30,1.272,0.51,us,us7000pv32,2025-04-25T22:18:06.546Z,"19 km S of Kumburgaz, Turkey",earthquake,4.69,4.22,0.071,19,reviewed,us,us
+2025-04-25T17:33:16.771Z,40.8476,28.4496,13.696,4.3,mwr,80,30,1.272,0.51,us,us7000pv32,2025-04-25T23:51:08.172Z,"19 km S of Kumburgaz, Turkey",earthquake,4.69,4.22,0.071,19,reviewed,us,us
 2025-04-25T17:15:50.740Z,38.825332641602,-122.81033325195,1.7200000286102,0.69,md,9,77,0.01942,0.02,nc,nc75171386,2025-04-25T18:12:16.645Z,"7 km NNW of The Geysers, CA",earthquake,0.37,1.5,0.29,9,automatic,nc,nc
 2025-04-25T17:15:26.100Z,38.825164794922,-122.81066894531,1.5599999427795,0.79,md,13,60,0.001827,0.01,nc,nc75171381,2025-04-25T18:07:17.490Z,"7 km NNW of The Geysers, CA",earthquake,0.25,1.09000003,0.33,14,automatic,nc,nc
 2025-04-25T17:12:40.878Z,65.7828,-147.5765,11.6,1.1,ml,,,,0.69,ak,ak0255agzxtj,2025-04-25T17:14:24.751Z,"53 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T00:00:11.950Z,34.4401667,-119.2585,10.57,1.25,ml,14,68,0.05444,0.23,ci,ci41129632,2025-04-25T19:31:12.124Z,"2 km WSW of Ojai, CA",earthquake,0.43,1.06,0.211,13,reviewed,ci,ci
 2025-04-24T23:59:51.760Z,53.801666666667,-166.57033333333,8.99,-0.07,ml,7,227,0.05853,0.13,av,av93585861,2025-04-25T21:45:12.650Z,"8 km SSW of Unalaska, Alaska",earthquake,0.58,1.06,0.21372034455901,7,reviewed,av,av
 2025-04-24T23:55:05.197Z,36.7,-116.3322,7.9,0.3,ml,17,134.25,0.028,0.0688,nn,nn00896787,2025-04-25T13:30:14.308Z,"44 km ESE of Beatty, Nevada",earthquake,,1.6,0.25,4,reviewed,nn,nn
-2025-04-24T23:52:42.574Z,61.7343,-149.9596,44.5,1.4,ml,,,,0.77,ak,ak02558x9rq9,2025-04-24T23:54:13.694Z,"4 km ESE of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-04-24T23:47:55.925Z,60.6247,-150.4903,54.1,1.2,ml,,,,0.2,ak,ak02558x8q6g,2025-04-24T23:49:27.943Z,"17 km ENE of Sterling, Alaska",earthquake,,1.4,,,automatic,ak,ak
