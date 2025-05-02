@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-02T07:42:36.951Z,60.4008,-143.059,4.9,1.8,ml,,,,0.66,ak,ak0255lvzgen,2025-05-02T07:44:51.710Z,"115 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-02T07:34:28.790Z,47.176666259766,-121.49849700928,4.2300000190735,1.7535690069199,ml,58,44,,0.180000007,uw,uw62091782,2025-05-02T07:37:04.590Z,"11 km ENE of Greenwater, Washington",earthquake,0.33,0.680000007,0.2862842977047,31,automatic,uw,uw
 2025-05-02T07:30:43.210Z,34.1836667,-118.127,11.39,0.83,ml,15,100,0.1942,0.24,ci,ci41142688,2025-05-02T07:34:31.045Z,"1 km SSE of Altadena, CA",earthquake,0.75,1.47,0.301,18,automatic,ci,ci
 2025-05-02T07:28:26.610Z,34.4553333,-117.9606667,8.37,1.07,ml,33,35,0.007716,0.16,ci,ci41142680,2025-05-02T07:32:25.135Z,"7 km SW of Pearblossom, CA",earthquake,0.17,0.38,0.188,26,automatic,ci,ci
