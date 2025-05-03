@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-03T13:44:07.530Z,38.820999145508,-122.813331604,3.0999999046326,0.8,md,14,90,0.003493,0.01,nc,nc75175946,2025-05-03T13:45:44.084Z,"7 km NW of The Geysers, CA",earthquake,0.32,1.05999994,0.18,17,automatic,nc,nc
 2025-05-03T13:40:21.781Z,36.7378,-116.27,12.6,-0.3,ml,8,131.99,0.044,0.1363,nn,nn00897177,2025-05-03T13:42:14.263Z,"47 km ESE of Beatty, Nevada",earthquake,,5.2,0.27,3,automatic,nn,nn
 2025-05-03T13:21:37.724Z,38.129,-115.8332,13.6,1.5,ml,8,293.6,0.951,0.2243,nn,nn00897173,2025-05-03T13:24:04.111Z,"54 km N of Rachel, Nevada",earthquake,,1.9,0.43,5,automatic,nn,nn
 2025-05-03T12:53:57.340Z,33.2523333,-116.0951667,10.45,0.49,ml,34,56,0.09568,0.2,ci,ci41143832,2025-05-03T12:57:26.907Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.24,0.69,0.152,6,automatic,ci,ci
