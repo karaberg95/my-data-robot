@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-04T20:43:53.049Z,35.02920532,-97.84754181,2.19904232,1.63,ml,14,134.5105743,0.08882504702,0.7873381731,ok,ok2025ishx,2025-05-04T20:49:55.401Z,"8 km ESE of Chickasha, Oklahoma",earthquake,3.722476732,2.860823418,0.19,11,automatic,ok,ok
+2025-05-04T20:43:53.049Z,35.02920532,-97.84754181,2.19904232,1.63,ml,14,134.5105743,0.08882504702,0.7873381731,ok,ok2025ishx,2025-05-04T20:50:40.570Z,"8 km ESE of Chickasha, Oklahoma",earthquake,3.722476732,2.860823418,0.19,11,automatic,ok,ok
 2025-05-04T20:41:02.445Z,60.1979,-152.835,117.8,2.3,ml,,,,0.48,ak,ak0255peshv7,2025-05-04T20:43:19.691Z,"66 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-04T20:17:58.561Z,38.1645,-117.9891,8.8,1.5,ml,9,146.69,0.035,0.1978,nn,nn00897215,2025-05-04T20:20:41.781Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.36,5,automatic,nn,nn
 2025-05-04T19:59:41.930Z,31.632,-104.433,3.2041,2.1,ml,18,93,0,0.5,tx,tx2025isgz,2025-05-04T20:11:02.875Z,"60 km S of Whites City, New Mexico",earthquake,0,1.515003323555,0.1,13,automatic,tx,tx
