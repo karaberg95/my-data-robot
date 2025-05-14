@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T20:35:09.395Z,31.642,-104.435,3.9793,1.6,ml,14,90,0,0.4,tx,tx2025jkoq,2025-05-14T20:44:44.956Z,"59 km S of Whites City, New Mexico",earthquake,0,1.712096452713,0.2,10,automatic,tx,tx
 2025-05-14T20:29:23.300Z,31.625,-104.465,2.3036,2.3,ml,15,117,0,0.5,tx,tx2025jkoj,2025-05-14T21:10:51.040Z,"61 km S of Whites City, New Mexico",earthquake,0,1.7024637460709,0.2,12,automatic,tx,tx
 2025-05-14T20:21:45.956Z,-20.3752,-177.6145,506.494,4.5,mb,45,98,4.819,0.87,us,us7000pz8v,2025-05-14T21:02:40.040Z,"256 km WNW of Houma, Tonga",earthquake,14.89,9.79,0.087,39,reviewed,us,us
-2025-05-14T20:20:13.930Z,38.81916809082,-122.82233428955,2.3900001049042,1.65,md,30,61,0.01047,0.02,nc,nc75182072,2025-05-14T20:47:20.852Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.14,31,automatic,nc,nc
+2025-05-14T20:20:13.930Z,38.81916809082,-122.82233428955,2.3900001049042,1.65,md,30,61,0.01047,0.02,nc,nc75182072,2025-05-14T21:37:19.172Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.14,31,automatic,nc,nc
 2025-05-14T20:18:33.951Z,31.602,-104.265,4.0827,1.7,ml,17,72,0.1,0.3,tx,tx2025jkoc,2025-05-14T20:33:32.851Z,"54 km NW of Toyah, Texas",earthquake,0,1.5106717348099,0.2,13,automatic,tx,tx
 2025-05-14T20:13:27.411Z,-5.9126,-81.1151,33.034,5.2,mww,130,128,3.893,0.49,us,us7000pz8t,2025-05-14T21:06:40.785Z,"50 km SW of Sechura, Peru",earthquake,8.67,5.251,0.08,15,reviewed,us,us
 2025-05-14T20:12:41.817Z,31.602,-104.261,3.9596,2.3,ml,18,71,0.1,0.2,tx,tx2025jkny,2025-05-14T20:40:15.040Z,"54 km NW of Toyah, Texas",earthquake,0,1.3099339008331,0.2,14,automatic,tx,tx
@@ -144,6 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T06:02:06.947Z,62.5188,-152.0087,0,1.8,ml,,,,0.87,ak,ak02565pljrq,2025-05-14T06:04:31.900Z,"64 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-14T05:57:47.760Z,38.804332733154,-122.78466796875,3.2999999523163,0.77,md,11,77,0.009068,0.01,nc,nc75181807,2025-05-14T06:32:19.032Z,"4 km NNW of The Geysers, CA",earthquake,0.44,0.899999976,0.08,12,automatic,nc,nc
 2025-05-14T05:47:24.490Z,47.715833333333,-113.78383333333,8.86,0.69,ml,12,128,0.0748,0.08,mb,mb90085448,2025-05-14T13:52:09.110Z,"21 km E of Finley Point, Montana",earthquake,0.45,1.11,0.36176884548583,4,reviewed,mb,mb
+2025-05-14T05:46:15.530Z,61.2745,-152.194,30.55,-0.44,ml,8,106,0.0209,0.19,av,av93041479,2025-05-14T21:41:55.390Z,"61 km WNW of Tyonek, Alaska",earthquake,0.93,1.17,0.21980216026104,8,reviewed,av,av
 2025-05-14T05:20:51.533Z,66.544,-17.6723,10,4.6,mb,65,58,2.356,1.31,us,us7000pz4h,2025-05-14T05:40:07.040Z,"58 km NNW of Norðurþing, Iceland",earthquake,5.91,1.733,0.051,114,reviewed,us,us
 2025-05-14T05:20:39.440Z,38.828834533691,-122.83499908447,12.359999656677,0.9,md,7,142,0.009748,0.03,nc,nc75181792,2025-05-14T05:22:17.667Z,"9 km NW of The Geysers, CA",earthquake,1.68,6.38999987,0.07,3,automatic,nc,nc
 2025-05-14T05:20:26.310Z,40.310333251953,-124.41083526611,8.6899995803833,1.87,md,8,289,0.05659,0.05,nc,nc75181787,2025-05-14T06:52:19.173Z,"11 km W of Petrolia, CA",earthquake,2.07,0.560000002,0.09,10,automatic,nc,nc
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T22:00:02.690Z,37.055332183838,-121.46600341797,12.130000114441,1.26,md,9,191,0.04215,0.1,nc,nc75181657,2025-05-14T00:42:18.688Z,"11 km ENE of Gilroy, CA",earthquake,0.94,1.83000004,0.14,6,automatic,nc,nc
 2025-05-13T21:55:17.263Z,56.9524,-156.5276,29.5,1.8,ml,,,,0.27,ak,ak02564bb43m,2025-05-14T00:19:44.936Z,"81 km SE of Ugashik, Alaska",earthquake,,10,,,reviewed,ak,ak
 2025-05-13T21:48:32.630Z,60.1102,-151.9034,73.3,1.4,ml,,,,0.32,ak,ak02564b9m9r,2025-05-13T21:50:51.759Z,"14 km WNW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-05-13T21:41:13.530Z,36.228168487549,-120.79083251953,7.6199998855591,1.1,md,9,197,0.01486,0.01,nc,nc75181652,2025-05-14T00:22:19.563Z,"23 km ENE of San Lucas, CA",earthquake,0.59,0.419999987,0.34,6,automatic,nc,nc
