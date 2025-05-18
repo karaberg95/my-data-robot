@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-17T19:59:31.081Z,31.668,-104.398,3.9463,2,ml,18,70,0,0.5,tx,tx2025jqaa,2025-05-17T20:13:32.930Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2593669891357,0.1,13,automatic,tx,tx
 2025-05-17T19:52:54.205Z,37.2794,-104.5088,6.34,2.5,mb_lg,13,72,0.161,0.6,us,us7000pzvz,2025-05-17T21:25:38.957Z,"7 km NNW of El Moro, Colorado",earthquake,2.2,2.846,0.136,21,reviewed,us,us
 2025-05-17T19:48:06.130Z,46.800833333333,-112.18666666667,7.87,1.29,ml,11,132,0.1117,0.08,mb,mb90086688,2025-05-18T14:28:05.340Z,"10 km ENE of Marysville, Montana",earthquake,0.28,0.78,0.22141436582454,14,reviewed,mb,mb
-2025-05-17T19:36:02.410Z,38.8235,-122.8035,2.36,0.53,md,29,41,0.005136,0.01,nc,nc75183632,2025-05-18T00:12:11.484Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.36,0.151,25,reviewed,nc,nc
