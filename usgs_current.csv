@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-22T21:42:27.255Z,58.3422,-155.9719,2.5,3.2,ml,,,,0.57,ak,ak0256j72g05,2025-05-22T21:44:23.958Z,"55 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-05-22T21:42:27.255Z,58.3422,-155.9719,2.5,3.2,ml,,,,0.57,ak,ak0256j72g05,2025-05-22T21:50:04.684Z,"55 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-22T21:30:16.210Z,32.766,-116.9018333,3.86,1.48,ml,43,77,0.04569,0.2,ci,ci40973199,2025-05-22T21:40:40.990Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.2,0.73,0.169,31,automatic,ci,ci
+2025-05-22T21:28:01.572Z,41.8988,142.5587,59.039,5.4,mww,106,101,0.461,0.72,us,us7000q0yk,2025-05-22T21:47:59.040Z,"34 km SSW of Urakawa, Japan",earthquake,3.21,5.836,0.073,18,reviewed,us,us
 2025-05-22T21:11:44.840Z,33.4598333,-116.4278333,5.15,0.64,ml,13,79,0.1387,0.13,ci,ci40973167,2025-05-22T21:29:29.405Z,"23 km NNW of Borrego Springs, CA",earthquake,0.24,31.61,0.168,13,reviewed,ci,ci
 2025-05-22T20:50:46.880Z,33.3715,-116.262,11.9,0.93,ml,28,62,0.04086,0.25,ci,ci40973143,2025-05-22T21:25:41.131Z,"17 km NE of Borrego Springs, CA",earthquake,0.36,0.8,0.139,23,reviewed,ci,ci
 2025-05-22T20:45:16.830Z,33.8543333,-117.6533333,9.99,1.03,ml,16,73,0.06176,0.12,ci,ci40973135,2025-05-22T21:20:23.018Z,"8 km WSW of Corona, CA",earthquake,0.26,0.57,0.146,12,reviewed,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-22T20:03:50.857Z,29.4591,80.4502,10,4.6,mb,64,100,4.555,0.97,us,us7000q0xq,2025-05-22T20:33:18.385Z,"21 km NW of Dadeldhurā, Nepal",earthquake,9,1.877,0.08,47,reviewed,us,us
 2025-05-22T20:00:40.870Z,18.254666666667,-66.978666666667,17.08,2.81,md,17,92,0.1286,0.26,pr,pr71483338,2025-05-22T20:18:04.900Z,"1 km ENE of Las Marías, Puerto Rico",earthquake,0.43,0.97,0.14268381532435,11,reviewed,pr,pr
 2025-05-22T19:57:36.246Z,-9.5803,-74.9246,10,5.1,mb,70,61,8.276,0.5,us,us7000q0wc,2025-05-22T20:22:59.040Z,"7 km NE of Yuyapichis, Peru",earthquake,10.11,1.807,0.034,283,reviewed,us,us
-2025-05-22T19:52:39.084Z,-4.0046,102.2903,68.077,5.7,mww,115,37,0.752,0.78,us,us7000q0w7,2025-05-22T21:11:00.567Z,"22 km S of Bengkulu, Indonesia",earthquake,6.38,4.806,0.047,44,reviewed,us,us
+2025-05-22T19:52:39.084Z,-4.0046,102.2903,68.077,5.7,mww,115,37,0.752,0.78,us,us7000q0w7,2025-05-22T21:52:53.824Z,"22 km S of Bengkulu, Indonesia",earthquake,6.38,4.806,0.047,44,reviewed,us,us
 2025-05-22T19:31:01.260Z,35.8703333,-117.6913333,9.84,1.41,ml,28,44,0.08424,0.14,ci,ci40973071,2025-05-22T21:16:48.655Z,"21 km ESE of Little Lake, CA",earthquake,0.19,0.39,0.236,20,reviewed,ci,ci
 2025-05-22T19:25:50.966Z,60.718,-150.3824,40.9,1.4,ml,,,,0.45,ak,ak0256j5rzg8,2025-05-22T19:28:02.588Z,"28 km SE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-05-22T19:21:28.643Z,61.1062,-149.9156,31.7,1.6,ml,,,,0.92,ak,ak0256j5r2v4,2025-05-22T21:22:21.366Z,"12 km S of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
