@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-23T04:40:49.430Z,38.797332763672,-122.78483581543,3.2799999713898,1.47,md,21,72,0.0134,0.03,nc,nc75185191,2025-05-23T04:42:26.438Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.649999976,0.23,21,automatic,nc,nc
 2025-05-23T04:36:07.580Z,38.79700088501,-122.76516723633,12.590000152588,0.77,md,7,133,0.02026,0.09,nc,nc75185186,2025-05-23T04:37:45.928Z,"2 km  of The Geysers, CA",earthquake,3.27,8.59000015,0.09,4,automatic,nc,nc
 2025-05-23T04:35:50.280Z,38.80350112915,-122.78050231934,2.9900000095367,1.08,md,17,82,0.009745,0.02,nc,nc75185181,2025-05-23T04:37:25.913Z,"4 km NNW of The Geysers, CA",earthquake,0.3,0.649999976,0.27,20,automatic,nc,nc
 2025-05-23T04:32:33.330Z,35.5026667,-118.5265,3.91,1.16,ml,23,71,0.2279,0.15,ci,ci40973351,2025-05-23T04:36:03.121Z,"10 km SSW of Bodfish, CA",earthquake,0.21,0.62,0.156,16,automatic,ci,ci
+2025-05-23T03:57:24.233Z,29.1469,86.8525,10,4.4,mb,36,95,1.929,0.58,us,us7000q10f,2025-05-23T04:43:19.040Z,"132 km N of Lobuche, Nepal",earthquake,5.78,1.894,0.09,36,reviewed,us,us
 2025-05-23T03:54:34.319Z,31.713,-101.697,3.1388,1.7,ml,35,60,0.1,0.4,tx,tx2025jzts,2025-05-23T03:58:45.137Z,"26 km SW of Garden City, Texas",earthquake,0,1.1496202945709,0.1,24,automatic,tx,tx
 2025-05-23T03:48:32.901Z,64.8446,-148.9087,10.8,1.1,ml,,,,0.42,ak,ak0256kjxaca,2025-05-23T03:50:32.985Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-23T03:16:18.902Z,68.0995,-155.9997,0,2.2,ml,,,,0.71,ak,ak0256kjqeck,2025-05-23T03:19:26.539Z,"137 km NE of Ambler, Alaska",earthquake,,0.3,,,automatic,ak,ak
