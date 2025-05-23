@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T11:07:37.360Z,38.796001434326,-122.81199645996,8.9099998474121,0.44,md,6,139,0.01036,0.03,nc,nc75185416,2025-05-23T11:09:14.214Z,"5 km NW of The Geysers, CA",earthquake,1.05,4.13000011,0.15,6,automatic,nc,nc
 2025-05-23T11:05:26.586Z,56.7983,-153.2941,46.6,2.4,ml,,,,1.09,ak,ak0256kofiwi,2025-05-23T11:07:32.712Z,"45 km S of Old Harbor, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-05-23T11:03:58.360Z,34.2806667,-117.799,8.14,1.18,ml,22,65,0.05474,0.15,ci,ci40973479,2025-05-23T11:07:32.608Z,"17 km NNE of Glendora, CA",earthquake,0.23,0.5,0.418,32,automatic,ci,ci
+2025-05-23T10:58:50.133Z,45.1668,78.3486,10,4.3,mb,49,94,2.012,1.1,us,us7000q11r,2025-05-23T11:43:23.040Z,"16 km N of Taldykorgan, Kazakhstan",earthquake,6.32,1.906,0.105,27,reviewed,us,us
 2025-05-23T10:54:16.660Z,33.6668333,-116.7276667,14.61,0.9,ml,39,53,0.04497,0.14,ci,ci40973471,2025-05-23T10:57:41.558Z,"8 km S of Idyllwild, CA",earthquake,0.17,0.27,0.242,28,automatic,ci,ci
 2025-05-23T10:45:40.400Z,35.8678333,-117.6508333,5.37,0.65,ml,16,61,0.0799,0.16,ci,ci40973463,2025-05-23T10:49:10.504Z,"24 km ESE of Little Lake, CA",earthquake,0.27,0.97,0.124,11,automatic,ci,ci
 2025-05-23T10:41:05.029Z,59.6646,-153.2794,112.4,2.2,ml,,,,0.21,ak,ak0256ko1reu,2025-05-23T10:42:50.206Z,"48 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
