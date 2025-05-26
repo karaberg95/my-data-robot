@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-26T13:40:51.620Z,38.807334899902,-122.77716827393,2.170000076294,1.76,md,38,57,0.006522,0.04,nc,nc75186731,2025-05-26T13:44:06.960Z,"4 km NNW of The Geysers, CA",earthquake,0.17,0.300000012,0.11,37,automatic,nc,nc
+2025-05-26T13:40:51.620Z,38.807334899902,-122.77716827393,2.170000076294,1.76,md,38,57,0.006522,0.04,nc,nc75186731,2025-05-26T13:57:16.484Z,"4 km NNW of The Geysers, CA",earthquake,0.17,0.300000012,0.11,37,automatic,nc,nc
 2025-05-26T13:36:25.946Z,60.0312,-152.9592,113.5,2.4,ml,,,,0.42,ak,ak0256pof2rc,2025-05-26T13:38:17.241Z,"69 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-26T13:32:57.871Z,61.4811,-148.0211,23.6,1.6,ml,,,,0.78,ak,ak0256poeacb,2025-05-26T13:35:01.852Z,"41 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-26T13:25:23.613Z,61.6914,-149.9201,38,1.3,ml,,,,0.55,ak,ak0256pocpop,2025-05-26T13:27:47.149Z,"8 km NW of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -197,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-25T14:45:01.600Z,41.033164978027,-123.3184967041,26.389999389648,2.33,md,5,100,0.191,0.01,nc,nc75186296,2025-05-25T15:42:19.105Z,"28 km E of Willow Creek, CA",earthquake,1.44,3.20000005,0.03,3,automatic,nc,nc
 2025-05-25T14:29:14.150Z,38.805000305176,-122.7825012207,3.9000000953674,0.43,md,7,86,0.008368,0.01,nc,nc75186291,2025-05-25T15:27:18.018Z,"4 km NNW of The Geysers, CA",earthquake,1.17,2.13000011,0.19,8,automatic,nc,nc
 2025-05-25T14:16:17.170Z,46.810833333333,-121.914,9.26,0.49,ml,23,66,0.0167,0.1,uw,uw62115796,2025-05-26T04:35:37.960Z,"10 km ENE of Ashford, Washington",earthquake,0.22,0.31,0.12223303407274,10,reviewed,uw,uw
-2025-05-25T13:55:23.013Z,85.0803,96.6121,10,4.4,mb,29,74,21.321,0.63,us,us7000q1er,2025-05-25T14:24:54.040Z,"north of Severnaya Zemlya",earthquake,11.36,1.922,0.094,33,reviewed,us,us
-2025-05-25T13:51:28.950Z,38.819332122803,-122.82083129883,2.4400000572205,0.64,md,9,77,0.01232,0.01,nc,nc75186281,2025-05-25T15:07:21.880Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.910000026,0.11,9,automatic,nc,nc
