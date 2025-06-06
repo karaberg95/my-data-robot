@@ -130,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T02:53:36.253Z,44.335,-114.9988,10,2.6,ml,23,59,0.253,0.43,us,us6000qic3,2025-06-06T03:03:17.040Z,"13 km NNW of Stanley, Idaho",earthquake,1.78,2.006,0.043,70,reviewed,us,us
 2025-06-06T02:51:04.320Z,44.331166666667,-114.9985,8.59,1.97,ml,16,64,0.25,0.11,mb,mb90093918,2025-06-06T15:28:39.080Z,"13 km NNW of Stanley, Idaho",earthquake,0.36,0.93,0.17917204395334,22,reviewed,mb,mb
 2025-06-06T02:42:29.288Z,31.677,-104.189,6.1127,2,ml,48,61,0.1,0.2,tx,tx2025kzfw,2025-06-06T12:00:07.660Z,"55 km NW of Toyah, Texas",earthquake,0.42655461237591,0.49124734612593,0.2,25,reviewed,tx,tx
+2025-06-06T02:41:33.370Z,44.334333333333,-115.00533333333,5.12,2.73,ml,17,63,0.255,0.11,mb,mb90093913,2025-06-06T15:39:32.040Z,"14 km NNW of Stanley, Idaho",earthquake,0.32,1.1,0.17652051837405,47,reviewed,mb,mb
 2025-06-06T02:36:06.132Z,44.2994,-115.0362,12.061,3.6,ml,18,64,0.236,0.56,us,us6000qic0,2025-06-06T04:47:26.463Z,"11 km NW of Stanley, Idaho",earthquake,1.6,3.979,0.035,108,reviewed,us,us
 2025-06-06T02:35:39.510Z,37.460666656494,-118.81300354004,2.5899999141693,1.28,md,13,141,0.1298,0.04,nc,nc75191586,2025-06-06T05:12:16.006Z,"16 km WSW of Toms Place, CA",earthquake,0.35,1.72000003,0.16,13,automatic,nc,nc
 2025-06-06T02:35:09.422Z,44.333,-115.0038,10,3.6,ml,27,59,0.253,0.69,us,us6000qibz,2025-06-06T14:59:04.911Z,"13 km NNW of Stanley, Idaho",earthquake,2.03,2.01,0.028,162,reviewed,us,us
@@ -274,5 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T16:01:19.210Z,36.865501403809,-121.51667022705,-0.14000000059605,1.71,md,13,76,0.02755,0.28,nc,nc75191376,2025-06-05T18:07:18.255Z,"3 km NE of San Juan Bautista, CA",earthquake,0.49,1.73000002,0.08,13,automatic,nc,nc
 2025-06-05T15:50:19.550Z,35.3373333,-117.8123333,8.4,1.64,ml,41,52,0.07494,0.15,ci,ci41176128,2025-06-05T19:24:55.853Z,"17 km WSW of Johannesburg, CA",earthquake,0.16,0.45,0.179,30,reviewed,ci,ci
 2025-06-05T15:43:53.527Z,54.2378,158.8912,171.863,4.3,mb,41,92,1.225,0.56,us,us6000qi58,2025-06-05T16:02:18.040Z,"53 km SSE of Mil’kovo, Russia",earthquake,13.05,10.327,0.085,39,reviewed,us,us
-2025-06-05T15:41:48.734Z,61.8484,-148.7412,6.9,2.7,ml,,,,1,ak,ak0257690j7l,2025-06-05T18:03:59.105Z,"7 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-05T15:41:28.160Z,35.3355,-117.807,8.1,0.97,ml,20,80,0.07498,0.14,ci,ci41176120,2025-06-05T19:16:53.756Z,"16 km WSW of Johannesburg, CA",earthquake,0.23,0.59,0.199,16,reviewed,ci,ci
