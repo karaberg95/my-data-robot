@@ -303,6 +303,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T22:51:35.990Z,17.895166666667,-66.595666666667,12.07,2.94,md,19,183,0.06626,0.08,pr,pr71484773,2025-06-05T23:18:06.670Z,"13 km SSE of Ponce, Puerto Rico",earthquake,0.24,0.19,0.033994007413372,16,reviewed,pr,pr
 2025-06-05T22:51:31.550Z,47.726,-113.81283333333,6.89,-0.65,ml,4,182,0.07221,0.05,mb,mb90094173,2025-06-06T19:36:02.280Z,"18 km E of Finley Point, Montana",earthquake,0.74,1.96,0.28593429885798,2,reviewed,mb,mb
 2025-06-05T22:48:02.760Z,59.2908,-152.1343,46.5,1.9,ml,,,,0.45,ak,ak02576d7yxg,2025-06-05T22:50:05.824Z,"14 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-06-05T22:45:05.790Z,33.5231667,-116.7473333,5.15,0.28,ml,7,188,0.04295,0.13,ci,ci37729596,2025-06-06T17:47:54.999Z,"8 km WSW of Anza, CA",earthquake,0.6,0.93,0.16,5,reviewed,ci,ci
-2025-06-05T22:44:57.630Z,33.5281667,-116.7406667,4.41,0.67,ml,25,45,0.03724,0.14,ci,ci41176296,2025-06-06T20:24:02.073Z,"7 km WSW of Anza, CA",earthquake,0.17,0.29,0.116,13,reviewed,ci,ci
-2025-06-05T22:40:00.570Z,56.1875,-158.8979,91.6,1.7,ml,,,,0.36,ak,ak02576d6915,2025-06-05T22:42:06.515Z,"11 km SW of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
