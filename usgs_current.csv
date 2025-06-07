@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-07T17:21:47.720Z,33.0035,-116.2648333,9.77,1.81,ml,71,35,0.05855,0.19,ci,ci41178456,2025-06-07T17:25:56.879Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.14,0.38,0.209,26,automatic,ci,ci
+2025-06-07T17:37:42.070Z,38.53150177002,-122.59983062744,1.8099999427795,2.3,md,5,176,0.2999,0.02,nc,nc75192361,2025-06-07T17:39:17.903Z,"6 km SSW of Calistoga, CA",earthquake,2.85,4.21000004,,1,automatic,nc,nc
+2025-06-07T17:29:44.240Z,33.5091667,-116.681,12.51,0.81,ml,28,63,0.05845,0.14,ci,ci41178464,2025-06-07T17:34:05.931Z,"5 km S of Anza, CA",earthquake,0.2,0.38,0.241,22,automatic,ci,ci
+2025-06-07T17:21:47.720Z,33.0035,-116.2648333,9.77,1.81,ml,71,35,0.05855,0.19,ci,ci41178456,2025-06-07T17:36:38.822Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.14,0.38,0.209,26,automatic,ci,ci
 2025-06-07T17:21:34.700Z,35.3246667,-117.8073333,6.75,0.88,ml,27,83,0.06522,0.19,ci,ci41178448,2025-06-07T17:25:09.743Z,"16 km WSW of Johannesburg, CA",earthquake,0.23,0.54,0.194,17,automatic,ci,ci
 2025-06-07T17:16:56.150Z,35.5483333,-117.5583333,7.6,2.45,ml,45,43,0.07034,0.12,ci,ci41178440,2025-06-07T17:28:04.420Z,"13 km SE of Ridgecrest, CA",earthquake,0.11,0.32,0.163,25,automatic,ci,ci
 2025-06-07T17:11:56.770Z,31.665,-104.392,4.5083,1.5,ml,20,87,0,0.3,tx,tx2025lcey,2025-06-07T17:17:30.551Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2009654045105,0.1,16,automatic,tx,tx
@@ -282,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T18:00:09.339Z,-18.848,65.4299,10,4.6,mb,69,68,2.145,0.5,us,us6000qihn,2025-06-06T18:31:16.040Z,"230 km ENE of Port Mathurin, Mauritius",earthquake,10.98,1.859,0.072,60,reviewed,us,us
 2025-06-06T17:58:05.950Z,58.246833333333,-155.145,3.02,-0.78,ml,4,247,0.04232,0.06,av,av93043884,2025-06-07T02:27:06.710Z,"85 km NNW of Karluk, Alaska",earthquake,0.63,0.71,0.1866851903645,4,reviewed,av,av
 2025-06-06T17:42:16.044Z,60.3459,-149.1006,25.5,2.8,ml,,,,0.42,ak,ak02577xqw4k,2025-06-06T18:42:05.040Z,"13 km E of Primrose, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-06T17:40:24.450Z,61.312333333333,-152.24683333333,-2.52,-0.72,ml,8,121,0.06462,0.2,av,av93629966,2025-06-07T02:34:59.050Z,"65 km WNW of Beluga, Alaska",earthquake,0.44,2.03,0.20491752657132,7,reviewed,av,av
