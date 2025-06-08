@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T21:23:39.570Z,35.3341667,-117.8085,8.82,1.26,ml,37,41,0.07326,0.15,ci,ci41179752,2025-06-08T21:27:08.125Z,"16 km WSW of Johannesburg, CA",earthquake,0.16,0.44,0.224,26,automatic,ci,ci
+2025-06-08T21:19:30.170Z,33.9903333,-116.5693333,9.39,1.07,ml,54,29,0.05469,0.16,ci,ci41179736,2025-06-08T21:23:01.518Z,"6 km S of Morongo Valley, CA",earthquake,0.14,0.37,0.143,27,automatic,ci,ci
 2025-06-08T21:16:20.770Z,34.069,-117.4775,4.2,1.43,ml,10,200,0.5234,0.24,ci,ci41179728,2025-06-08T21:19:43.736Z,"4 km SSW of Fontana, CA",earthquake,2.68,18.21,0.46,37,automatic,ci,ci
 2025-06-08T21:12:33.274Z,64.604,-147.0445,17.5,1,ml,,,,0.33,ak,ak0257bb0xdr,2025-06-08T21:14:18.363Z,"6 km S of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-08T21:06:45.060Z,33.7083333,-117.0698333,11.58,1.5,ml,68,25,0.05694,0.18,ci,ci41179712,2025-06-08T21:17:19.310Z,"1 km E of Winchester, CA",earthquake,0.14,0.33,0.222,26,automatic,ci,ci
@@ -190,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T21:49:54.113Z,-7.7091,128.0061,133.119,4.4,mb,27,68,4.218,0.69,us,us6000qis4,2025-06-08T00:43:27.040Z,"142 km NE of Lospalos, Timor Leste",earthquake,10.29,12.842,0.155,13,reviewed,us,us
 2025-06-07T21:36:30.450Z,38.839168548584,-122.78216552734,1.8700000047684,0.88,md,10,88,0.005661,0.01,nc,nc75192481,2025-06-07T21:38:07.864Z,"5 km WNW of Cobb, CA",earthquake,0.39,0.569999993,0.2,12,automatic,nc,nc
 2025-06-07T21:32:49.080Z,17.918333333333,-66.950333333333,13.81,2.28,md,6,234,0.08809,0.1,pr,pr71485078,2025-06-07T22:00:50.430Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.87,0.3,0.035006345960026,4,reviewed,pr,pr
-2025-06-07T21:23:09.100Z,38.771999359131,-122.735496521,1.2799999713898,1.09,md,12,71,0.01126,0.03,nc,nc75192471,2025-06-07T21:24:42.614Z,"2 km ESE of The Geysers, CA",earthquake,0.28,0.340000004,0.17,12,automatic,nc,nc
