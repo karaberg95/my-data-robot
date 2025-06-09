@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-09T21:47:53.720Z,34.109333,-117.3241653,17.81,1.43,ml,62,67,0.1231,0.18,ci,ci41180760,2025-06-09T21:50:06.266Z,"4 km SW of San Bernardino, CA",earthquake,0.25,0.47,0.287,12,automatic,ci,ci
+2025-06-09T21:43:46.551Z,61.2742,-146.5364,26.9,1.7,ml,,,,0.93,ak,ak0257cyqy3j,2025-06-09T21:46:02.793Z,"18 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-09T21:41:52.300Z,33.2495,-116.7781667,7.86,0.66,ml,28,33,0.02113,0.15,ci,ci41180744,2025-06-09T21:45:26.370Z,"2 km WNW of Lake Henshaw, CA",earthquake,0.18,0.48,0.135,14,automatic,ci,ci
 2025-06-09T21:39:30.609Z,66.0126,-148.062,6,2.3,ml,,,,0.83,ak,ak0257cyq204,2025-06-09T21:41:24.078Z,"46 km E of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-09T21:30:25.080Z,38.818832397461,-122.81749725342,2.4800000190735,0.76,md,14,82,0.007374,0.01,nc,nc75193456,2025-06-09T21:32:03.289Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.680000007,0.07,18,automatic,nc,nc
 2025-06-09T21:21:45.207Z,36.197,-115.3164,0.7,2.4,ml,16,247.18,0.333,0.3306,nn,nn00898744,2025-06-09T21:24:15.713Z,"8 km N of Summerlin South, Nevada",earthquake,,55.6,0.24,14,automatic,nn,nn
@@ -152,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T05:17:06.438Z,61.5362,-150.2063,50.221,2.9,ml,28,38,0.269,0.38,us,us6000qj3y,2025-06-09T08:27:50.040Z,"13 km W of Big Lake, Alaska",earthquake,1.94,5.668,0.034,112,reviewed,us,us
 2025-06-09T05:12:56.560Z,38.833667755127,-122.8245010376,7.789999961853,0.44,md,6,112,0.009888,0.03,nc,nc75193071,2025-06-09T05:14:35.717Z,"9 km NNW of The Geysers, CA",earthquake,1.27,7.53000021,0.33,9,automatic,nc,nc
 2025-06-09T04:58:03.413Z,31.675,-104.382,3.9504,2,ml,29,69,0,0.4,tx,tx2025lexl,2025-06-09T06:03:10.326Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0430039167404,0.1,19,automatic,tx,tx
+2025-06-09T04:56:27.460Z,52.125833333333,-174.42583333333,2.93,1.03,ml,6,208,0.1598,0.09,av,av93044019,2025-06-09T21:43:19.730Z,"17 km WSW of Atka, Alaska",earthquake,0.87,0.86,0.39944141829373,7,reviewed,av,av
 2025-06-09T04:56:11.360Z,38.819499969482,-122.76149749756,1.9099999666214,1.1,md,12,120,0.01278,0.03,nc,nc75193056,2025-06-09T06:11:10.908Z,"3 km W of Cobb, CA",earthquake,0.32,0.889999986,0.19,13,automatic,nc,nc
 2025-06-09T04:46:00.070Z,51.907833333333,-177.22583333333,17.92,-0.53,ml,4,235,0.0218,0.05,av,av93044014,2025-06-09T21:39:43.620Z,"40 km W of Adak, Alaska",earthquake,1.86,0.51,0.26169330616882,4,reviewed,av,av
 2025-06-09T04:44:14.930Z,37.104333333333,-121.5025,9.79,0.68,md,21,48,0.04308,0.11,nc,nc75193051,2025-06-09T17:47:16.582Z,"10 km E of San Martin, CA",earthquake,0.31,0.54,0.179,14,reviewed,nc,nc
@@ -212,6 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T23:31:26.330Z,44.239,-114.07983333333,1.94,2.51,ml,13,74,0.1471,0.18,mb,mb90094878,2025-06-09T15:29:55.770Z,"25 km E of Clayton, Idaho",earthquake,0.54,2.12,0.22296356380466,40,reviewed,mb,mb
 2025-06-08T23:26:47.227Z,31.379,-103.733,6.8633,1.8,ml,20,44,0.1,0.6,tx,tx2025lemr,2025-06-09T00:00:16.943Z,"9 km NE of Toyah, Texas",earthquake,0,2.0543403625488,0.1,12,automatic,tx,tx
 2025-06-08T23:22:54.880Z,38.835666656494,-122.78566741943,1.6599999666214,1.04,md,14,70,0.004565,0.03,nc,nc75192941,2025-06-08T23:24:29.786Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.409999996,0.17,16,automatic,nc,nc
+2025-06-08T23:16:43.150Z,60.51,-152.7565,-0.62,-0.72,ml,5,102,0.03754,0.05,av,av93632191,2025-06-09T21:43:50.010Z,"79 km NW of Ninilchik, Alaska",earthquake,0.22,2.33,0.11752090526887,5,reviewed,av,av
 2025-06-08T23:00:01.899Z,60.0521,-153.0569,115.1,1.5,ml,,,,0.11,ak,ak0257bc55kt,2025-06-08T23:01:29.622Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-06-08T22:58:24.339Z,31.63,-104.482,3.5634,1.7,ml,23,106,0,0.4,tx,tx2025lelq,2025-06-09T00:00:26.943Z,"61 km S of Whites City, New Mexico",earthquake,0,1.3697863817215,0.1,16,automatic,tx,tx
 2025-06-08T22:55:44.850Z,44.24,-114.067,5.16,2.41,ml,18,77,0.1445,0.21,mb,mb90094863,2025-06-09T15:38:53.230Z,"26 km E of Clayton, Idaho",earthquake,0.48,1.35,0.19972222043336,38,reviewed,mb,mb
