@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T12:24:01.522Z,32.088,-101.5,3.1475,1,ml,9,102,0.1,0.5,tx,tx2025lflr,2025-06-09T13:00:13.523Z,"12 km W of Forsan, Texas",earthquake,0,2.1785686016083,0.1,7,automatic,tx,tx
 2025-06-09T12:22:13.670Z,38.942333333333,-123.30116666667,5.5,1.06,md,20,75,0.05824,0.07,nc,nc75193231,2025-06-09T18:03:22.260Z,"9 km SSE of Boonville, CA",earthquake,0.24,0.38,0.203,15,reviewed,nc,nc
 2025-06-09T12:17:45.900Z,38.4,-118.8868,10.6,1.2,ml,11,123.88,0.335,0.2664,nn,nn00898727,2025-06-09T12:20:10.967Z,"26 km WSW of Hawthorne, Nevada",earthquake,,0.7,1.11,5,automatic,nn,nn
-2025-06-09T12:09:41.435Z,38.3539,-118.9081,10.5,1.8,ml,11,64.44,0.332,0.171,nn,nn00898724,2025-06-09T18:49:33.531Z,"30 km ENE of Bridgeport, California",earthquake,,2.7,0.39,6,reviewed,nn,nn
+2025-06-09T12:09:41.417Z,38.3543,-118.9074,10.9,1.9,ml,15,64.39,0.332,0.1636,nn,nn00898724,2025-06-09T18:52:47.203Z,"30 km ENE of Bridgeport, California",earthquake,,1.2,0.37,10,reviewed,nn,nn
 2025-06-09T12:03:18.450Z,34.002,-116.76,11.7,0.8,ml,36,85,0.05166,0.13,ci,ci41180048,2025-06-09T12:59:21.886Z,"10 km NNE of Cabazon, CA",earthquake,0.16,0.4,0.108,27,reviewed,ci,ci
 2025-06-09T12:01:24.850Z,38.824501037598,-122.84533691406,1.9099999666214,0.32,md,10,122,0.008169,0.01,nc,nc75193211,2025-06-09T12:03:03.296Z,"9 km NW of The Geysers, CA",earthquake,0.42,0.779999971,0.21,12,automatic,nc,nc
 2025-06-09T11:56:51.890Z,44.323666666667,-115.002,4.45,1.67,ml,12,77,0.2444,0.08,mb,mb90094948,2025-06-09T14:25:48.530Z,"12 km NNW of Stanley, Idaho",earthquake,0.32,5.39,0.090625586779171,11,reviewed,mb,mb
@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T04:36:31.809Z,31.585,-104.569,4.0496,1.5,ml,19,122,0.1,0.3,tx,tx2025lewo,2025-06-09T05:00:54.108Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.6794027090073,0.1,12,automatic,tx,tx
 2025-06-09T04:31:47.709Z,31.658,-104.335,4.5359,2.5,ml,40,69,0.1,0.4,tx,tx2025lewj,2025-06-09T04:56:45.040Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91767460107803,0.2,30,automatic,tx,tx
 2025-06-09T04:31:08.838Z,31.665,-104.346,10.0239,1.4,ml,8,179,0.1,0.8,tx,tx2025lewh,2025-06-09T04:33:45.426Z,"56 km S of Whites City, New Mexico",earthquake,0,5.6325612068176,0.5,5,automatic,tx,tx
-2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.27,ml,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T18:51:11.389Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,0.193,130,reviewed,nc,nc
+2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.24,mw,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T18:57:17.868Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,,6,reviewed,nc,nc
 2025-06-09T04:27:55.830Z,38.014999389648,-122.30349731445,7.8200001716614,1.16,md,8,108,0.04964,0.04,nc,nc75193031,2025-06-09T11:06:12.691Z,"1 km  of Pinole, CA",earthquake,0.45,1.40999997,0.09,7,automatic,nc,nc
 2025-06-09T04:25:03.625Z,31.659,-104.337,4.2502,2,ml,39,69,0.1,0.4,tx,tx2025lewc,2025-06-09T04:31:11.028Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91977381706238,0.2,28,automatic,tx,tx
 2025-06-09T04:24:13.660Z,44.835666666667,-111.505,13.55,1.13,ml,17,89,0.05116,0.1,mb,mb90094928,2025-06-09T13:59:46.800Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.77,0.19793121622099,13,reviewed,mb,mb
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T19:05:15.450Z,35.724166870117,-121.05699920654,6.5,1.57,md,23,65,0.08909,0.07,nc,nc75192856,2025-06-08T19:06:54.101Z,"15 km ENE of San Simeon, CA",earthquake,0.27,0.74000001,0.19,13,automatic,nc,nc
 2025-06-08T19:02:08.220Z,44.331,-115.00433333333,1.72,2.53,ml,17,78,0.2517,0.19,mb,mb90094813,2025-06-09T15:50:02.170Z,"13 km NNW of Stanley, Idaho",earthquake,0.41,1.53,0.15714145788052,42,reviewed,mb,mb
 2025-06-08T19:00:40.190Z,33.7116667,-116.822,17.29,0.59,ml,14,93,0.08425,0.15,ci,ci41179528,2025-06-09T13:26:13.076Z,"8 km ESE of Valle Vista, CA",earthquake,0.4,0.71,0.214,7,reviewed,ci,ci
-2025-06-08T18:52:36.600Z,44.328166666667,-115.0035,5.86,2.18,ml,14,78,0.2489,0.13,mb,mb90094808,2025-06-09T15:58:24.470Z,"13 km NNW of Stanley, Idaho",earthquake,0.38,3.23,0.17221696847019,28,reviewed,mb,mb
