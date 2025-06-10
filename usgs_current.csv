@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-10T05:55:33.939Z,31.653,-104.297,4.0787,1.9,ml,39,68,0,0.3,tx,tx2025lgug,2025-06-10T05:57:50.717Z,"58 km S of Whites City, New Mexico",earthquake,0,0.88969284296036,0.2,5,automatic,tx,tx
 2025-06-10T05:17:14.980Z,38.814498901367,-122.81816864014,1.3799999952316,1.41,md,25,51,0.01028,0.02,nc,nc75193601,2025-06-10T05:18:48.987Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.300000012,0.11,27,automatic,nc,nc
 2025-06-10T05:01:20.743Z,63.3604,-147.0722,122.9,1.4,ml,,,,1.15,ak,ak0257eciaui,2025-06-10T05:03:44.778Z,"79 km WNW of Paxson, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-10T04:47:20.436Z,31.644,-104.408,3.6212,2.2,ml,37,77,0,0.4,tx,tx2025lgrz,2025-06-10T05:01:08.316Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0184013843536,0.1,25,automatic,tx,tx
