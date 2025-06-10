@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-10T08:47:13.160Z,34.6116667,-118.6286667,7.19,1.33,ml,48,38,0.07827,0.26,ci,ci41181152,2025-06-10T08:50:37.465Z,"14 km N of Castaic, CA",earthquake,0.23,0.58,0.161,29,automatic,ci,ci
 2025-06-10T08:44:44.586Z,65.4273,-148.1774,13.9,1.1,ml,,,,0.63,ak,ak0257eejvai,2025-06-10T08:46:47.541Z,"20 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-10T08:41:43.150Z,33.948,-117.1201667,13.15,0.87,ml,51,50,0.08749,0.17,ci,ci41181144,2025-06-10T08:45:32.169Z,"8 km SW of Calimesa, CA",earthquake,0.16,0.48,0.207,31,automatic,ci,ci
 2025-06-10T08:31:53.390Z,19.258832931519,-155.47583007812,0.51999998092651,2.27,ml,44,67,0.02422,0.370000005,hv,hv74693957,2025-06-10T08:35:57.390Z,"6 km N of Pāhala, Hawaii",earthquake,0.38,0.5,0.42,25,automatic,hv,hv
