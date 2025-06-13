@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-13T19:17:06.365Z,60.1166,-153.4203,159.7,4.2,ml,,,,0.67,ak,ak0257jjjt29,2025-06-13T19:39:45.305Z,"50 km E of Port Alsworth, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-06-13T19:44:00.260Z,35.3325,-117.8141667,6.82,1.24,ml,29,80,0.0699,0.17,ci,ci40993487,2025-06-13T19:47:28.301Z,"17 km WSW of Johannesburg, CA",earthquake,0.21,0.46,0.218,26,automatic,ci,ci
+2025-06-13T19:17:06.365Z,60.1166,-153.4203,159.7,4.2,ml,,,,0.67,ak,ak0257jjjt29,2025-06-13T19:50:21.451Z,"50 km E of Port Alsworth, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-06-13T19:17:00.404Z,64.0677,-148.8295,4,3.1,ml,,,,0.97,ak,ak0257jjjpjt,2025-06-13T19:20:26.266Z,"15 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-13T19:07:33.570Z,35.6465,-117.4976667,5.92,0.7,ml,17,80,0.06303,0.13,ci,ci40993431,2025-06-13T19:11:05.315Z,"16 km SSW of Searles Valley, CA",earthquake,0.31,0.62,0.194,8,automatic,ci,ci
 2025-06-13T19:01:34.600Z,33.8603333,-117.5156667,1.97,1.01,ml,37,51,0.07273,0.24,ci,ci40993423,2025-06-13T19:05:08.985Z,"2 km SSE of Home Gardens, CA",earthquake,0.26,0.44,0.248,31,automatic,ci,ci
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T08:09:42.400Z,18.812166666667,-65.857666666667,14.43,2.89,md,16,223,0.6223,0.24,pr,pr71485658,2025-06-13T08:37:41.120Z,"42 km N of Loíza, Puerto Rico",earthquake,0.87,2.66,0.098728303184518,16,reviewed,pr,pr
 2025-06-13T07:58:34.970Z,38.830833435059,-122.87799835205,1.8799999952316,1.84,md,38,44,0.00852,0.04,nc,nc75195036,2025-06-13T08:01:45.190Z,"12 km NW of The Geysers, CA",earthquake,0.18,0.25,0.18,36,automatic,nc,nc
 2025-06-13T07:55:32.700Z,37.468333333333,-118.84566666667,1.35,0.6,md,20,111,0.1222,0.04,nc,nc75195031,2025-06-13T11:24:08.899Z,"18 km WSW of Toms Place, CA",earthquake,0.34,2.21,0.103,8,reviewed,nc,nc
-2025-06-13T07:44:47.750Z,40.334166666667,-124.881,8.99,4.08,mw,185,230,0.4142,0.3,nc,nc75195021,2025-06-13T19:23:45.525Z,"51 km WNW of Petrolia, CA",earthquake,0.47,0.74,,14,reviewed,nc,nc
+2025-06-13T07:44:47.750Z,40.334166666667,-124.881,8.99,4.08,mw,185,230,0.4142,0.3,nc,nc75195021,2025-06-13T19:44:57.576Z,"51 km WNW of Petrolia, CA",earthquake,0.47,0.74,,14,reviewed,nc,nc
 2025-06-13T07:44:35.110Z,38.837001800537,-122.78483581543,1.75,0.79,md,13,77,0.004525,0.03,nc,nc75195016,2025-06-13T07:46:10.553Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.660000026,0.26,15,automatic,nc,nc
 2025-06-13T07:41:27.876Z,31.721,-104.287,7.9456,2.3,ml,26,83,0.1,0.3,tx,tx2025lnurcj,2025-06-13T12:59:28.540Z,"51 km S of Whites City, New Mexico",earthquake,0.47512640437624,0.83439242829583,0.2,20,reviewed,tx,tx
 2025-06-13T07:37:10.534Z,64.5337,-150.7763,6.1,1.1,ml,,,,0.46,ak,ak0257jciwj1,2025-06-13T07:39:42.099Z,"52 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -259,6 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-12T20:05:24.350Z,54.707666666667,-163.44866666667,-1.98,1.68,ml,5,307,0.1543,0.12,av,av93044464,2025-06-13T00:35:25.900Z,"16 km S of False Pass, Alaska",earthquake,0.98,2.16,0.26462248536866,5,reviewed,av,av
 2025-06-12T20:01:48.340Z,46.189833333333,-122.223,6.22,0.11,ml,9,111,0.009114,0.06,uw,uw62127441,2025-06-12T20:25:34.300Z,"35 km NNE of Amboy, Washington",earthquake,0.44,0.44,0.11413735934053,4,reviewed,uw,uw
 2025-06-12T19:55:52.030Z,60.5315,-152.74233333333,5.58,-1.31,ml,6,127,0.04907,0.06,av,av93635681,2025-06-13T00:13:42.660Z,"78 km W of Salamatof, Alaska",earthquake,0.46,0.77,0.21962933088954,6,reviewed,av,av
-2025-06-12T19:50:57.760Z,38.829833333333,-122.80466666667,1.99,0.39,md,20,43,0.007692,0.03,nc,nc75194851,2025-06-12T23:04:57.743Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.67,0.151,19,reviewed,nc,nc
-2025-06-12T19:48:41.539Z,34.49883333,-97.2165,0,1.07,ml,15,81,0.1313742199,0.8,ok,ok2025llms,2025-06-13T13:50:33.911Z,"8 km W of Davis, Oklahoma",quarry blast,,1.7,0.12,7,reviewed,ok,ok
-2025-06-12T19:43:23.660Z,38.820667266846,-122.76333618164,2.039999961853,0.71,md,9,119,0.01106,0.01,nc,nc75194846,2025-06-12T19:45:00.543Z,"3 km W of Cobb, CA",earthquake,0.38,0.899999976,0.09,8,automatic,nc,nc
