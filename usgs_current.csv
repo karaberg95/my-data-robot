@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-14T20:51:55.847Z,62.945,-149.3214,26.9,1.5,ml,,,,0.78,ak,ak0257l7vzeo,2025-06-14T20:54:13.862Z,"53 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-14T20:22:53.780Z,38.812831878662,-122.8073348999,3.5299999713898,1.15,md,26,43,0.01058,0.02,nc,nc75195776,2025-06-14T20:24:31.329Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.479999989,0.18,25,automatic,nc,nc
 2025-06-14T20:21:01.170Z,38.802665710449,-122.77766418457,3.420000076294,0.76,md,10,72,0.01084,0.03,nc,nc75195766,2025-06-14T20:22:36.351Z,"3 km NNW of The Geysers, CA",earthquake,0.43,1.09000003,0.06,11,automatic,nc,nc
 2025-06-14T20:16:01.190Z,34.1675,-116.4225,9.21,0.99,ml,29,54,0.03231,0.15,ci,ci40994471,2025-06-14T20:20:59.679Z,"6 km N of Yucca Valley, CA",earthquake,0.18,0.44,0.204,27,automatic,ci,ci
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T21:08:16.460Z,38.8285,-122.82966666667,1.01,0.43,md,23,47,0.006816,0.02,nc,nc75195276,2025-06-13T23:01:04.620Z,"9 km NW of The Geysers, CA",earthquake,0.15,0.42,0.128,21,reviewed,nc,nc
 2025-06-13T21:07:20.910Z,38.815334320068,-122.81900024414,2.5899999141693,0.76,md,11,62,0.01024,0.01,nc,nc75195271,2025-06-13T21:08:59.504Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.649999976,0.08,14,automatic,nc,nc
 2025-06-13T20:59:29.790Z,38.787998199463,-122.76766967773,2.3499999046326,1.2,md,20,79,0.01406,0.03,nc,nc75195266,2025-06-13T21:01:03.184Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.550000012,0.15,21,automatic,nc,nc
-2025-06-13T20:52:24.400Z,38.818332672119,-122.82083129883,2.420000076294,1.04,md,21,58,0.01148,0.03,nc,nc75195256,2025-06-13T20:53:59.090Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.389999986,0.21,21,automatic,nc,nc
