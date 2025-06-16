@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-15T06:39:51.880Z,61.541,-146.5536,21.1,1.6,ml,,,,0.88,ak,ak0257mn0oj8,2025-06-15T06:42:25.006Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-15T06:37:40.410Z,38.013832092285,-122.30850219727,5.5199999809265,1.16,md,6,110,0.07357,0.02,nc,nc75195941,2025-06-15T07:53:36.531Z,"1 km NNW of Pinole, CA",earthquake,0.63,2.66000009,0.04,4,automatic,nc,nc
 2025-06-15T06:36:15.711Z,61.4559,-146.5044,16.6,3.1,ml,,,,0.79,ak,ak0257mmzyl2,2025-06-15T06:58:03.040Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-15T05:49:13.750Z,33.2575,-116.3058333,11.53,0.75,ml,45,35,0.07788,0.23,ci,ci40994847,2025-06-15T05:52:42.875Z,"6 km E of Borrego Springs, CA",earthquake,0.23,0.38,0.128,19,automatic,ci,ci
