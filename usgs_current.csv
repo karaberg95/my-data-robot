@@ -1,10 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-17T18:40:38.043Z,31.65,-104.308,4.2403,2,ml,39,69,0,0.3,tx,tx2025lvzkqa,2025-06-17T18:44:22.386Z,"58 km S of Whites City, New Mexico",earthquake,0,0.98567980527878,0.2,24,automatic,tx,tx
+2025-06-17T18:32:22.840Z,36.2456667,-118.3003333,5.5,0.99,ml,20,95,0.09398,0.22,ci,ci40997007,2025-06-17T18:41:28.820Z,"27 km W of Olancha, CA",earthquake,0.35,0.98,0.174,17,automatic,ci,ci
+2025-06-17T18:24:01.785Z,31.7,-104.141,3.8055,1.7,ml,38,53,0.1,0.3,tx,tx2025lvywjc,2025-06-17T18:27:53.989Z,"51 km W of Mentone, Texas",earthquake,0,0.8902188539505,0.3,24,automatic,tx,tx
+2025-06-17T18:16:09.900Z,38.768165588379,-122.72682952881,1.1599999666214,1.07,md,11,103,0.01692,0.04,nc,nc75196901,2025-06-17T18:17:44.138Z,"3 km ESE of The Geysers, CA",earthquake,0.34,0.5,0.18,13,automatic,nc,nc
 2025-06-17T18:11:57.000Z,35.693,-117.4998333,5.68,1.1,ml,31,53,0.06794,0.14,ci,ci40996967,2025-06-17T18:15:27.768Z,"12 km SW of Searles Valley, CA",earthquake,0.17,0.59,0.136,20,automatic,ci,ci
+2025-06-17T18:08:47.120Z,33.04,-114.9753333,3.51,0.65,ml,9,77,0.06763,0.09,ci,ci40996959,2025-06-17T18:16:33.774Z,"44 km NNW of Los Algodones, B.C., MX",earthquake,0.28,0.5,0.063,3,automatic,ci,ci
 2025-06-17T18:05:29.496Z,31.676,-104.193,4.6136,1.7,ml,29,61,0.1,0.5,tx,tx2025lvygfh,2025-06-17T18:10:21.473Z,"55 km NW of Toyah, Texas",earthquake,0,0.98695951700211,0.2,21,automatic,tx,tx
 2025-06-17T18:04:44.754Z,65.4392,-148.21,13.9,1,ml,,,,0.38,ak,ak0257q51263,2025-06-17T18:07:38.730Z,"18 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-17T17:56:18.600Z,38.822166442871,-122.84533691406,1.8200000524521,0.75,md,13,119,0.008107,0.02,nc,nc75196891,2025-06-17T17:57:53.823Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.5,0.28,14,automatic,nc,nc
 2025-06-17T17:35:13.662Z,36.2112,-114.9827,12.5,1.6,ml,17,307.96,0.908,0.2294,nn,nn00899061,2025-06-17T17:37:47.700Z,"7 km ESE of Nellis Air Force Base, Nevada",earthquake,,1.5,0.27,10,automatic,nn,nn
 2025-06-17T17:33:07.280Z,35.3688333,-117.8915,5.95,1.02,ml,27,59,0.08049,0.18,ci,ci40996927,2025-06-17T18:07:23.193Z,"23 km W of Johannesburg, CA",earthquake,0.22,0.69,0.13,20,automatic,ci,ci
+2025-06-17T17:20:48.310Z,44.581166666667,-116.63516666667,-1.5,1.32,mh,3,141,0.5499,0.09,uw,uw62129886,2025-06-17T18:21:47.580Z,"3 km ENE of Cambridge, Idaho",explosion,0.71,31.61,,0,reviewed,uw,uw
 2025-06-17T17:15:42.690Z,35.3256667,-117.8003333,5.97,1.15,ml,32,36,0.069,0.17,ci,ci40996903,2025-06-17T17:19:09.464Z,"16 km WSW of Johannesburg, CA",earthquake,0.17,0.51,0.154,25,automatic,ci,ci
 2025-06-17T17:10:13.208Z,-4.5481,139.2721,10,4.4,mb,24,122,0.552,1.35,us,us6000qkv4,2025-06-17T17:30:47.040Z,"167 km NE of Agats, Indonesia",earthquake,5.03,1.929,0.154,12,reviewed,us,us
 2025-06-17T17:03:49.198Z,61.1593,-150.8866,55.8,2.2,ml,,,,0.14,ak,ak0257q4ff6v,2025-06-17T17:05:14.999Z,"10 km E of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -88,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T09:16:30.483Z,-23.1181,-174.9129,10,4.8,mb,16,111,6.151,0.48,us,us6000qksf,2025-06-17T10:43:17.040Z,"196 km S of ‘Ohonua, Tonga",earthquake,14.94,1.939,0.148,14,reviewed,us,us
 2025-06-17T09:09:53.314Z,41.1143,-116.2924,1.7,3.2,ml,16,63.95,0.137,0.114,nn,nn00899041,2025-06-17T09:53:55.755Z,"47 km NNW of Carlin, Nevada",earthquake,,2.3,0.23,10,reviewed,nn,nn
 2025-06-17T09:07:49.710Z,19.200332641602,-155.37632751465,31.040000915527,2.2,ml,59,163,0.04204,0.129999995,hv,hv74700582,2025-06-17T09:11:42.400Z,"10 km E of Pāhala, Hawaii",earthquake,0.44,0.49000001,0.58,13,automatic,hv,hv
-2025-06-17T09:05:22.562Z,37.7628,-116.0755,4.8,0.9,ml,9,225.95,0.691,0.3883,nn,nn00899039,2025-06-17T09:07:52.735Z,"32 km WNW of Rachel, Nevada",earthquake,,7.5,0.24,7,automatic,nn,nn
+2025-06-17T09:05:22.696Z,37.7225,-116.0176,13.7,1.3,ml,12,138.64,0.228,0.1211,nn,nn00899039,2025-06-17T18:39:47.045Z,"25 km WNW of Rachel, Nevada",earthquake,,4.3,0.08,7,reviewed,nn,nn
 2025-06-17T09:00:32.280Z,36.2486667,-118.3015,4.64,1.51,ml,24,96,0.09686,0.23,ci,ci40996543,2025-06-17T13:49:16.942Z,"27 km W of Olancha, CA",earthquake,0.28,1.27,0.177,26,reviewed,ci,ci
 2025-06-17T08:57:35.150Z,33.373,-116.8871667,5.8,0.75,ml,39,31,0.02819,0.22,ci,ci40996535,2025-06-17T09:02:35.259Z,"3 km NW of Palomar Observatory, CA",earthquake,0.21,0.54,0.242,25,automatic,ci,ci
 2025-06-17T08:56:09.038Z,63.1527,-150.7047,104.5,1.4,ml,,,,0.25,ak,ak0257pzdslj,2025-06-17T08:58:12.323Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -103,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T08:12:55.629Z,-32.8812,-13.2948,10,5,mb,44,59,4.254,0.91,us,us6000qks0,2025-06-17T08:34:35.040Z,"southern Mid-Atlantic Ridge",earthquake,10.55,1.837,0.076,55,reviewed,us,us
 2025-06-17T08:12:41.360Z,39.65,-122.61133333333,15.27,1.79,md,14,42,0.08091,0.11,nc,nc75196731,2025-06-17T08:50:39.995Z,"10 km ESE of Alder Springs, CA",earthquake,0.38,0.45,0.095,17,reviewed,nc,nc
 2025-06-17T08:06:02.680Z,35.3546667,-117.8058333,8.26,0.77,ml,27,74,0.09299,0.15,ci,ci40996511,2025-06-17T13:49:39.945Z,"16 km W of Johannesburg, CA",earthquake,0.21,0.65,0.104,13,reviewed,ci,ci
-2025-06-17T07:59:56.497Z,39.3059,-120.0966,7.9,1,ml,9,91.8,0.048,0.0934,nn,nn00899031,2025-06-17T08:01:52.736Z,"7 km ESE of Truckee, California",earthquake,,0.8,0.26,8,automatic,nn,nn
+2025-06-17T07:59:57.053Z,39.302,-120.0939,8,1,ml,16,54.24,0.046,0.1023,nn,nn00899031,2025-06-17T18:24:21.903Z,"7 km NNW of Tahoe Vista, California",earthquake,,1.1,0.14,11,reviewed,nn,nn
 2025-06-17T07:58:50.505Z,59.738,-152.288,74.3,1.2,ml,,,,0.14,ak,ak0257pysvly,2025-06-17T08:01:13.001Z,"26 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-17T07:44:53.500Z,38.786167144775,-122.74617004394,1.9900000095367,1.55,md,25,82,0.02173,0.04,nc,nc75196726,2025-06-17T07:46:28.930Z,"1 km NE of The Geysers, CA",earthquake,0.24,0.50999999,0.12,26,automatic,nc,nc
 2025-06-17T07:39:58.700Z,38.787666666667,-122.76333333333,0.92,0.39,md,17,85,0.01325,0.04,nc,nc75196721,2025-06-17T08:27:33.147Z,"1 km NNW of The Geysers, CA",earthquake,0.18,0.23,0.229,14,reviewed,nc,nc
@@ -243,11 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-16T18:57:12.169Z,34.37683333,-96.79833333,0,1.25,ml,24,146,0.2204567389,0.6,ok,ok2025lsta,2025-06-17T13:56:08.378Z,"3 km SE of Mill Creek, Oklahoma",quarry blast,,1.1,0.34,10,reviewed,ok,ok
 2025-06-16T18:49:48.026Z,31.615,-103.992,5.4974,1.3,mlv,30,41,0,0.4,tx,tx2025ludznz,2025-06-17T10:49:12.373Z,"38 km NNW of Toyah, Texas",earthquake,0,1.8840359449387,0.2,21,automatic,tx,tx
 2025-06-16T18:46:29.992Z,31.675,-104.37,5.946,1.5,ml,28,86,0,0.2,tx,tx2025ludtvh,2025-06-17T11:15:41.977Z,"55 km S of Whites City, New Mexico",earthquake,0.78439762431026,0.96799490153169,0.1,17,reviewed,tx,tx
-2025-06-16T18:42:39.820Z,45.4055,-111.67833333333,0.1,1.07,ml,11,120,0.1945,0.05,mb,mb90096883,2025-06-16T23:43:38.370Z,"7 km NNE of Ennis, Montana",earthquake,0.23,0.67,0.18565194188151,8,reviewed,mb,mb
-2025-06-16T18:39:15.320Z,40.326833333333,-111.39183333333,-1.57,1.59,ml,22,84,0.1346,0.14,uu,uu80110441,2025-06-17T13:20:18.173Z,"7 km SSE of Wallsburg, Utah",earthquake,0.46,2.12,0.18668342771884,5,reviewed,uu,uu
-2025-06-16T18:36:56.872Z,62.4834,-149.2938,4,1.5,ml,,,,0.97,ak,ak0257oholiv,2025-06-16T18:39:10.708Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-16T18:34:38.320Z,37.983333587646,-122.45349884033,1.5800000429153,1.54,md,10,108,0.02503,0.03,nc,nc75196501,2025-06-16T18:36:17.091Z,"7 km ESE of Santa Venetia, CA",earthquake,0.46,0.370000005,0.1,8,automatic,nc,nc
-2025-06-16T18:24:40.658Z,31.613,-103.986,7.2662,1.6,ml,32,41,0,0.2,tx,tx2025ludeao,2025-06-17T09:49:12.000Z,"37 km NNW of Toyah, Texas",earthquake,0.46125876122331,0.37636013439461,0.2,25,reviewed,tx,tx
-2025-06-16T18:21:07.693Z,31.673,-104.38,6.1511,2.8,ml,27,135,0,0.2,tx,tx2025ludazi,2025-06-16T19:22:26.040Z,"55 km S of Whites City, New Mexico",earthquake,0.92885112580142,0.71618091209578,0.1,21,reviewed,tx,tx
-2025-06-16T18:21:06.690Z,45.862166666667,-111.17883333333,3.85,0.77,ml,9,211,0.1115,0.18,mb,mb90096733,2025-06-16T19:55:39.860Z,"9 km N of Belgrade, Montana",earthquake,1.24,12.08,0.12460067230516,6,reviewed,mb,mb
-2025-06-16T18:20:08.380Z,38.835834503174,-122.79083251953,1.960000038147,1.14,md,22,50,0.002599,0.02,nc,nc75196496,2025-06-16T18:21:47.242Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.379999995,0.16,23,automatic,nc,nc
