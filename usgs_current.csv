@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-18T07:09:29.350Z,34.118,-116.970665,6.56,1.26,ml,48,43,0.03779,0.16,ci,ci40997615,2025-06-18T07:11:32.673Z,"12 km NE of Yucaipa, CA",earthquake,0.24,0.76,0.203,12,automatic,ci,ci
+2025-06-18T07:18:54.390Z,40.08466720581,-123.76216888428,24.379999160767,1.42,md,9,107,0.09162,0.06,nc,nc75197126,2025-06-18T07:20:28.843Z,"7 km SE of Redway, CA",earthquake,0.67,1.63,0.04,4,automatic,nc,nc
+2025-06-18T07:09:29.290Z,34.1175,-116.9708333,8.08,1.24,ml,65,22,0.03757,0.16,ci,ci40997615,2025-06-18T07:13:20.412Z,"12 km NE of Yucaipa, CA",earthquake,0.13,0.32,0.151,27,automatic,ci,ci
 2025-06-18T06:52:08.000Z,38.822166442871,-122.81300354004,2.7400000095367,0.82,md,15,80,0.002596,0.02,nc,nc75197116,2025-06-18T06:53:44.849Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.870000005,0.51,17,automatic,nc,nc
 2025-06-18T06:24:21.236Z,68.6747,-147.6258,0,2.2,ml,,,,1.01,ak,ak0257rljfv1,2025-06-18T06:28:04.614Z,"105 km NW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T06:23:19.260Z,34.1156667,-117.3226667,12.93,0.79,ml,38,76,0.1295,0.17,ci,ci40997591,2025-06-18T06:28:11.302Z,"3 km WSW of San Bernardino, CA",earthquake,0.21,0.49,0.206,23,automatic,ci,ci
