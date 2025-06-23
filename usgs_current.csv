@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-23T20:26:03.020Z,59.5875,-153.0254,92.9,1.3,ml,,,,0.74,ak,ak025803kmvi,2025-06-23T20:28:05.218Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-06-23T19:57:56.936Z,62.0681,-150.5759,3.5,1.2,ml,,,,0.9,ak,ak0258035yml,2025-06-23T19:59:54.327Z,"33 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-23T19:57:16.360Z,38.807834625244,-122.77317047119,1.3099999427795,0.39,md,7,118,0.007988,0.01,nc,nc75199556,2025-06-23T19:58:50.831Z,"4 km NNW of The Geysers, CA",earthquake,0.92,1.63999999,0.13,4,automatic,nc,nc
-2025-06-23T19:48:02.320Z,34.2111667,-118.526,11.09,1.57,ml,46,35,0.03196,0.18,ci,ci41002055,2025-06-23T19:51:42.311Z,"1 km NNE of Reseda, CA",earthquake,0.2,0.33,0.144,31,automatic,ci,ci
+2025-06-23T19:48:02.320Z,34.2111667,-118.526,11.09,1.57,ml,46,35,0.03196,0.18,ci,ci41002055,2025-06-23T20:58:43.424Z,"1 km NNE of Reseda, CA",earthquake,0.2,0.33,0.144,31,automatic,ci,ci
 2025-06-23T19:18:04.941Z,38.3547,-118.4189,10.3,1.6,ml,8,95.79,0.123,0.1236,nn,nn00899369,2025-06-23T19:20:34.519Z,"26 km SE of Hawthorne, Nevada",earthquake,,0.9,0.31,5,automatic,nn,nn
 2025-06-23T19:17:51.410Z,38.818832397461,-122.76499938965,1.6499999761581,0.76,md,11,111,0.01224,0.02,nc,nc75199536,2025-06-23T20:32:18.870Z,"4 km W of Cobb, CA",earthquake,0.33,0.649999976,0.2,13,automatic,nc,nc
 2025-06-23T19:14:26.404Z,13.749,144.6587,146.001,5.4,mww,116,40,0.258,0.82,us,us7000q89a,2025-06-23T20:30:47.705Z,"31 km NNW of Asan-Maina Village, Guam",earthquake,8.11,4.536,0.061,26,reviewed,us,us
@@ -282,6 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T21:16:14.340Z,47.918166666667,-114.10433333333,7.13,-0.25,ml,4,263,0.08315,0.01,mb,mb90098648,2025-06-23T15:36:16.610Z,"5 km W of Bear Dance, Montana",earthquake,1.08,1.04,0.12577572766637,2,reviewed,mb,mb
 2025-06-22T21:14:02.074Z,41.8886,-119.5589,2.9,2.8,ml,6,133.29,0.379,0.2316,nn,nn00899365,2025-06-23T17:15:26.390Z,"49 km E of Fort Bidwell, California",earthquake,,4,0.34,4,reviewed,nn,nn
 2025-06-22T21:00:08.030Z,58.349,-154.85383333333,5.87,0.04,ml,7,279,0.1225,0.11,av,av93646131,2025-06-23T19:09:27.890Z,"90 km NNW of Karluk, Alaska",earthquake,0.66,1.56,0.22979413921939,7,reviewed,av,av
-2025-06-22T20:53:26.420Z,32.9955,-116.3693333,5.44,0.76,ml,28,46,0.04199,0.17,ci,ci41001071,2025-06-22T20:56:52.094Z,"24 km ESE of Julian, CA",earthquake,0.21,0.35,0.184,13,automatic,ci,ci
-2025-06-22T20:52:10.033Z,31.504,-104.018,6.0999,0.9,ml,16,66,0,0.1,tx,tx2025mfikhu,2025-06-23T20:42:18.536Z,"29 km NW of Toyah, Texas",earthquake,0.91790437108143,0.90865375802873,0.2,16,reviewed,tx,tx
-2025-06-22T20:50:48.390Z,18.015166666667,-66.744333333333,13.22,2.7,md,25,157,0.04517,0.13,pr,pr71486503,2025-06-22T21:21:54.250Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.29,0.21,0.12835485822617,11,reviewed,pr,pr
