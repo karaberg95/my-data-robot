@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-28T15:49:13.230Z,38.833332061768,-122.81349945068,1.8300000429153,0.99,md,20,53,0.01028,0.01,nc,nc75201821,2025-06-28T15:50:48.349Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.419999987,0.26,19,automatic,nc,nc
 2025-06-28T15:43:27.830Z,33.8803333,-116.2021667,7.37,0.71,ml,31,72,0.05097,0.17,ci,ci41007535,2025-06-28T15:47:01.030Z,"18 km N of Indio, CA",earthquake,0.24,0.61,0.155,17,automatic,ci,ci
 2025-06-28T15:37:46.100Z,38.816333770752,-122.81300354004,2.8900001049042,0.51,md,11,79,0.007413,0.01,nc,nc75201816,2025-06-28T15:39:23.041Z,"7 km NW of The Geysers, CA",earthquake,0.35,1,0.4,11,automatic,nc,nc
 2025-06-28T15:36:51.860Z,57.9338,-155.0449,75.1,0.9,ml,,,,0.13,ak,ak02588acg8y,2025-06-28T15:38:17.764Z,"53 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -144,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T03:08:41.142Z,61.6686,-149.8398,45,1.7,ml,,,,0.4,ak,ak0258831842,2025-06-28T03:10:51.615Z,"4 km NNW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-28T02:50:20.600Z,33.2626667,-116.7928333,13.75,1.76,ml,84,15,0.03903,0.19,ci,ci41007055,2025-06-28T03:01:31.220Z,"4 km NW of Lake Henshaw, CA",earthquake,0.13,0.32,0.225,27,automatic,ci,ci
 2025-06-28T02:34:23.380Z,37.430500030518,-118.69999694824,6.5900001525879,1.51,md,14,179,0.1335,0.05,nc,nc75201531,2025-06-28T04:07:18.814Z,"9 km WNW of Round Valley, CA",earthquake,1.28,4.86000013,0.08,14,automatic,nc,nc
-2025-06-28T02:30:36.182Z,40.6686,-74.7865,1.185,1.5,ml,11,154,0.042,0.4,us,us7000q9a9,2025-06-28T13:28:50.043Z,"5 km NE of Lebanon, New Jersey",earthquake,1.04,5.82,0.097,14,reviewed,us,us
+2025-06-28T02:30:36.182Z,40.6686,-74.7865,1.185,1.5,ml,11,154,0.042,0.4,us,us7000q9a9,2025-06-28T15:49:44.002Z,"5 km NE of Lebanon, New Jersey",earthquake,1.04,5.82,0.097,14,reviewed,us,us
 2025-06-28T02:26:23.200Z,38.811000823975,-122.77300262451,1.4500000476837,0.75,md,9,80,0.006411,0.02,nc,nc75201526,2025-06-28T02:42:19.217Z,"4 km  of The Geysers, CA",earthquake,0.48,0.610000014,0.17,9,automatic,nc,nc
 2025-06-28T02:22:06.550Z,35.6591667,-117.5463333,10.92,1.07,ml,30,50,0.1,0.18,ci,ci41007023,2025-06-28T04:10:56.587Z,"12 km ENE of Ridgecrest, CA",earthquake,0.22,0.47,0.237,13,reviewed,ci,ci
 2025-06-28T02:21:56.500Z,35.6658333,-117.5458333,9.2,0.45,ml,8,115,0.09945,0.15,ci,ci37546589,2025-06-28T04:08:21.840Z,"13 km ENE of Ridgecrest, CA",earthquake,0.54,1.62,0.284,5,reviewed,ci,ci
@@ -175,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T23:30:09.800Z,19.107666666667,-66.4685,30.56,3.07,md,20,274,0.6299,0.18,pr,pr71487383,2025-06-28T00:31:33.040Z,"71 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.71,5.46,0.11471197351241,15,reviewed,pr,pr
 2025-06-27T23:24:34.220Z,36.723,-116.0005,4.3,-0.3,ml,11,185.38,0.013,0.0978,nn,nn00899611,2025-06-28T02:44:58.774Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.35,4,reviewed,nn,nn
 2025-06-27T23:22:36.521Z,61.5818,-146.3856,29.6,2,ml,,,,0.93,ak,ak02586rhjdw,2025-06-27T23:24:52.444Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-27T23:07:10.186Z,5.2772,126.0977,101.614,6.1,mww,117,27,0.82,1.2,us,us7000q97d,2025-06-28T15:46:50.324Z,"71 km ESE of Sarangani, Philippines",earthquake,6.58,5.778,0.048,41,reviewed,us,us
+2025-06-27T23:07:10.186Z,5.2772,126.0977,101.614,6.1,mww,117,27,0.82,1.2,us,us7000q97d,2025-06-28T15:56:39.329Z,"71 km ESE of Sarangani, Philippines",earthquake,6.58,5.778,0.048,41,reviewed,us,us
 2025-06-27T22:56:42.407Z,60.718,-151.9191,86.4,1.4,ml,,,,0.37,ak,ak02586r3ekw,2025-06-27T22:58:34.685Z,"34 km W of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-27T22:55:29.800Z,38.798332214355,-122.811668396,2.8599998950958,0.95,md,18,69,0.01204,0.02,nc,nc75201476,2025-06-27T23:57:19.031Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.460000008,0.22,18,automatic,nc,nc
 2025-06-27T22:55:04.303Z,41.9351,-119.6211,2.6,2.1,ml,5,211.24,0.313,0.2159,nn,nn00899601,2025-06-28T01:19:08.354Z,"44 km E of Fort Bidwell, California",earthquake,,4.4,0.41,4,reviewed,nn,nn
