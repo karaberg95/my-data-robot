@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-29T16:47:36.940Z,40.394332885742,-124.75382995606,26.610000610352,2.52,md,28,265,0.3312,0.12,nc,nc75202266,2025-06-29T16:49:12.702Z,"40 km WNW of Petrolia, CA",earthquake,2.59,2.93000007,0.04,17,automatic,nc,nc
+2025-06-29T17:00:52.925Z,62.6003,-151.2951,89.8,1.6,ml,,,,0.36,ak,ak02589yuy98,2025-06-29T17:03:52.586Z,"29 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-06-29T16:58:43.048Z,37.283,-117.6763,2.1,1.2,ml,21,292.7,0.056,0.2114,nn,nn00899757,2025-06-29T17:01:18.884Z,"52 km S of Silver Peak, Nevada",earthquake,,1.4,0.22,13,automatic,nn,nn
+2025-06-29T16:55:29.704Z,61.3604,-152.3624,10.3,1.1,ml,,,,0.22,ak,ak02589yl98q,2025-06-29T16:57:06.157Z,"72 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-29T16:47:36.940Z,40.394332885742,-124.75382995606,26.610000610352,2.52,md,28,265,0.3312,0.12,nc,nc75202266,2025-06-29T16:57:18.790Z,"40 km WNW of Petrolia, CA",earthquake,2.59,2.93000007,0.04,17,automatic,nc,nc
 2025-06-29T16:47:28.692Z,61.3521,-152.2486,0,1.1,ml,,,,0.68,ak,ak02589yjjfp,2025-06-29T16:49:18.675Z,"66 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-29T16:36:20.860Z,33.1521667,-115.9681667,7.32,0.93,ml,40,59,0.02273,0.18,ci,ci41008599,2025-06-29T16:39:49.167Z,"15 km E of Ocotillo Wells, CA",earthquake,0.18,0.35,0.198,19,automatic,ci,ci
-2025-06-29T16:32:41.378Z,17.4836,-68.8424,10,2.8,ml,14,303,1.115,0.66,us,us7000q9k7,2025-06-29T16:39:41.040Z,"102 km SSW of Boca de Yuma, Dominican Republic",earthquake,4.18,1.991,0.069,28,reviewed,us,us
+2025-06-29T16:32:48.110Z,17.744333333333,-68.738,32.93,3.42,md,11,342,1.573,0.38,pr,pr71487583,2025-06-29T16:55:21.230Z,"71 km S of Boca de Yuma, Dominican Republic",earthquake,5.59,24.95,0.17026979668936,10,reviewed,pr,pr
 2025-06-29T16:25:04.118Z,61.7232,-148.0086,30.7,1.7,ml,,,,0.6,ak,ak02589yersb,2025-06-29T16:26:47.181Z,"20 km WSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-06-29T16:23:00.360Z,37.3379,-117.8789,3.4,1.6,ml,24,147.96,0.08,0.1867,nn,nn00899755,2025-06-29T16:25:49.775Z,"40 km SSE of Dyer, Nevada",earthquake,,0.8,0.18,19,automatic,nn,nn
 2025-06-29T16:22:27.450Z,33.4796667,-116.4953333,13.01,0.68,ml,32,59,0.09056,0.16,ci,ci41008583,2025-06-29T16:25:56.952Z,"18 km ESE of Anza, CA",earthquake,0.19,0.53,0.113,20,automatic,ci,ci
@@ -143,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T02:45:43.770Z,37.315333333333,-117.9195,10.83,2.22,md,35,90,0.302,0.12,nc,nc75202011,2025-06-29T10:47:18.144Z,"8 km SSE of Deep Springs, CA",earthquake,0.34,0.8,0.318,30,reviewed,nc,nc
 2025-06-29T02:43:41.885Z,37.3526,-117.8908,6.1,0.6,ml,6,172.34,0.067,0.1442,nn,nn00899688,2025-06-29T03:53:12.496Z,"38 km SSE of Dyer, Nevada",earthquake,,2.3,0.27,3,reviewed,nn,nn
 2025-06-29T02:42:10.856Z,37.3302,-117.91,8.1,1.7,ml,11,94.97,0.062,0.0679,nn,nn00899685,2025-06-29T03:53:39.737Z,"38 km ENE of Big Pine, California",earthquake,,1.5,0.81,4,reviewed,nn,nn
-2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T15:46:09.484Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
+2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T17:04:11.558Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
 2025-06-29T02:36:21.741Z,29.403,129.4384,10,4.3,mb,25,110,2.275,1.28,us,us7000q9g5,2025-06-29T03:52:13.040Z,"106 km N of Tatsugō, Japan",earthquake,7.52,1.949,0.178,9,reviewed,us,us
 2025-06-29T02:34:27.480Z,36.827499389648,-121.5693359375,6.1599998474121,3.12,ml,72,48,0.02956,0.2,nc,nc75201996,2025-06-29T16:50:10.548Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.24,0.49000001,0.262,26,automatic,nc,nc
 2025-06-29T02:32:53.380Z,30.3299,69.9739,10,4.5,mb,32,96,4.233,1.21,us,us7000q9g2,2025-06-29T03:40:01.040Z,"64 km NE of Barkhan, Pakistan",earthquake,10.84,1.898,0.099,30,reviewed,us,us
@@ -227,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T17:46:33.630Z,51.788833333333,-178.772,7.92,-0.15,ml,5,123,0.016,0.11,av,av93651561,2025-06-28T22:35:26.280Z,"147 km W of Adak, Alaska",earthquake,1.18,0.7,0.13949760370142,5,reviewed,av,av
 2025-06-28T17:36:33.980Z,33.5283333,-116.5173333,14.06,0.42,ml,18,73,0.07844,0.15,ci,ci41007655,2025-06-28T17:40:17.360Z,"15 km ESE of Anza, CA",earthquake,0.32,0.57,0.011,5,automatic,ci,ci
 2025-06-28T17:13:47.015Z,31.646,-104.298,4.3235,2,ml,41,69,0,0.4,tx,tx2025mqbmrr,2025-06-28T17:17:40.608Z,"59 km S of Whites City, New Mexico",earthquake,0,0.89348518848419,0.2,30,automatic,tx,tx
-2025-06-28T17:08:05.675Z,62.995,-148.3583,70.9,0.7,ml,,,,0.41,ak,ak02588bd7uf,2025-06-28T17:09:44.523Z,"53 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-06-28T17:07:05.440Z,53.855333333333,-166.79783333333,8.21,1.08,ml,12,124,0.05476,0.17,av,av93651506,2025-06-28T23:52:52.040Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.5,0.31,0.26517707827095,12,reviewed,av,av
