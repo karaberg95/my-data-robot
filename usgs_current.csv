@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-02T18:50:23.986Z,64.9383,-147.7568,0,1.1,ml,,,,0.65,ak,ak0258eyd2wu,2025-07-02T18:52:18.515Z,"4 km NW of Farmers Loop, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-02T18:47:12.970Z,34.34,-116.883,-0.35,1.19,ml,30,39,0.04664,0.15,ci,ci41012751,2025-07-02T18:51:10.486Z,"9 km NNW of Big Bear City, CA",earthquake,0.2,0.36,0.17,31,automatic,ci,ci
 2025-07-02T18:42:15.264Z,59.0139,-154.1847,105.7,2.8,ml,,,,0.18,ak,ak0258eybcie,2025-07-02T18:43:38.412Z,"58 km SE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-07-02T18:23:40.990Z,33.5271667,-117.0698333,10.86,0.77,ml,25,67,0.08825,0.17,ci,ci41012727,2025-07-02T18:27:29.065Z,"8 km ENE of Temecula, CA",earthquake,0.23,0.56,0.329,21,automatic,ci,ci
 2025-07-02T18:13:47.440Z,33.4918333,-116.8885,9.7,0.58,ml,15,67,0.06791,0.13,ci,ci41012719,2025-07-02T18:17:28.004Z,"6 km NNW of Aguanga, CA",earthquake,0.22,0.66,0.132,13,automatic,ci,ci
 2025-07-02T18:11:48.872Z,31.642,-104.326,3.7722,1.6,ml,27,70,0.1,0.4,tx,tx2025mxmjal,2025-07-02T18:14:50.399Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0854381322861,0.1,19,automatic,tx,tx
-2025-07-02T17:53:35.580Z,37.472999572754,-118.79016876221,6.5900001525879,1.68,md,15,105,0.1209,0.07,nc,nc75203696,2025-07-02T18:17:22.343Z,"14 km SW of Toms Place, CA",earthquake,0.37,3.50999999,0.08,13,automatic,nc,nc
+2025-07-02T17:53:35.580Z,37.472999572754,-118.79016876221,6.5900001525879,1.68,md,15,105,0.1209,0.07,nc,nc75203696,2025-07-02T18:52:19.599Z,"14 km SW of Toms Place, CA",earthquake,0.37,3.50999999,0.08,13,automatic,nc,nc
 2025-07-02T17:51:20.250Z,37.473331451416,-118.79250335693,4.5999999046326,2.17,md,22,71,0.1201,0.09,nc,nc75203691,2025-07-02T18:27:20.407Z,"14 km WSW of Toms Place, CA",earthquake,0.3,1.82000005,0.18,25,automatic,nc,nc
 2025-07-02T17:47:57.500Z,33.8776667,-116.9938333,13.08,1.89,ml,18,166,0.1692,0.13,ci,ci41012655,2025-07-02T17:51:36.847Z,"6 km SSW of Beaumont, CA",earthquake,0.49,0.85,0.2,14,automatic,ci,ci
 2025-07-02T17:40:54.970Z,17.927166666667,-66.873666666667,6.33,2.22,md,5,223,0.04792,0.04,pr,pr71487973,2025-07-02T17:52:39.180Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.82,0.21,0.048834572651743,4,reviewed,pr,pr
@@ -179,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T02:29:32.410Z,33.4888333,-116.4708333,13.64,0.83,ml,27,66,0.1099,0.13,ci,ci41011943,2025-07-02T02:33:02.971Z,"20 km ESE of Anza, CA",earthquake,0.18,0.49,0.182,23,automatic,ci,ci
 2025-07-02T02:12:10.419Z,61.7557,-146.0443,34.8,1,ml,,,,0.49,ak,ak0258eolyz5,2025-07-02T02:13:59.801Z,"36 km S of Tolsona, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-02T01:58:47.340Z,43.4121,-126.9729,10,3.8,mb,120,204,1.577,0.79,us,us7000qa41,2025-07-02T02:56:19.337Z,"210 km W of Bandon, Oregon",earthquake,7.97,1.991,0.18,8,reviewed,us,us
-2025-07-02T01:51:09.840Z,33.1428333,-116.9786667,-0.18,1.9,ml,7,88,0.2216,0.23,ci,ci41011895,2025-07-02T01:55:08.066Z,"6 km NNW of San Pasqual, CA",earthquake,0.79,3.76,0.201,8,automatic,ci,ci
+2025-07-02T01:51:09.840Z,33.1428333,-116.9786667,-0.18,1.9,ml,7,88,0.2216,0.23,ci,ci41011895,2025-07-02T18:47:12.327Z,"6 km NNW of San Pasqual, CA",earthquake,0.79,3.76,0.201,8,automatic,ci,ci
 2025-07-02T01:49:50.280Z,33.5101667,-116.6795,11.1,0.08,ml,9,164,0.06641,0.1,ci,ci41011903,2025-07-02T18:41:21.258Z,"5 km S of Anza, CA",earthquake,0.3,0.57,0.223,6,reviewed,ci,ci
 2025-07-02T01:48:09.110Z,33.5175,-116.7361667,10.65,0.53,ml,27,38,0.04778,0.15,ci,ci41011887,2025-07-02T01:52:13.094Z,"7 km SW of Anza, CA",earthquake,0.21,0.36,0.133,17,automatic,ci,ci
 2025-07-02T01:44:37.680Z,18.0055,-66.812,16.07,2.08,md,9,166,0.07081,0.1,pr,pr71487918,2025-07-02T01:52:23.540Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.41,0.91,0.086314473975066,5,reviewed,pr,pr
@@ -209,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T23:43:10.010Z,54.736,-163.40733333333,6.49,1.7,ml,13,177,0.1776,0.32,av,av93654586,2025-07-02T02:02:31.410Z,"13 km S of False Pass, Alaska",earthquake,1.79,1.17,0.33163424467166,14,reviewed,av,av
 2025-07-01T23:37:36.130Z,38.810001373291,-122.81716918945,2.920000076294,0.75,md,10,104,0.00945,0.01,nc,nc75203321,2025-07-01T23:39:13.335Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.839999974,0.21,11,automatic,nc,nc
 2025-07-01T23:36:53.646Z,38.1792,-117.8417,9.7,1.9,ml,18,95.36,0.114,0.3319,nn,nn00899958,2025-07-01T23:39:42.285Z,"33 km SE of Mina, Nevada",earthquake,,0.4,0.31,12,automatic,nn,nn
-2025-07-01T23:36:32.980Z,61.294833333333,-152.35983333333,2.39,-0.19,ml,11,116,0.03636,0.28,av,av93654581,2025-07-02T02:16:40.400Z,"Southern Alaska",earthquake,0.91,1.48,0.12388903790546,11,reviewed,av,av
+2025-07-01T23:36:32.980Z,61.294833333333,-152.35983333333,2.39,-0.19,ml,11,116,0.03636,0.28,av,av93654581,2025-07-02T02:16:40.400Z,"70 km WNW of Tyonek, Alaska",earthquake,0.91,1.48,0.12388903790546,11,reviewed,av,av
 2025-07-01T23:32:19.560Z,38.804000854492,-122.78150177002,3.5599999427795,0.76,md,8,102,0.009267,0.01,nc,nc75203316,2025-07-01T23:33:58.127Z,"4 km NNW of The Geysers, CA",earthquake,0.46,1.58000004,0.06,8,automatic,nc,nc
 2025-07-01T23:27:35.523Z,63.4445,-143.9176,2.6,1.2,ml,,,,0.57,ak,ak0258ddnzv4,2025-07-01T23:29:36.515Z,"23 km SSE of Dot Lake Village, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-07-01T23:26:03.690Z,35.722,-97.55266667,7.47,1.51,ml,78,21,0.2087590344,0.14,ok,ok2025mumh,2025-07-02T12:18:34.856Z,"10 km NW of Edmond, Oklahoma",earthquake,,0.4,0.22,35,reviewed,ok,ok
@@ -271,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T19:01:58.600Z,44.652166666667,-112.5165,3.45,0.56,ml,6,176,0.0975,0.09,mb,mb90100313,2025-07-02T13:28:04.660Z,"6 km ENE of Lima, Montana",earthquake,0.45,0.57,0.19755339340604,5,reviewed,mb,mb
 2025-07-01T19:01:53.950Z,35.6106667,-117.3811667,2.15,0.96,ml,25,56,0.06444,0.22,ci,ci41011311,2025-07-01T19:05:23.106Z,"17 km S of Trona, CA",earthquake,0.26,0.33,0.129,15,automatic,ci,ci
 2025-07-01T19:00:20.260Z,34.9933333,-118.1923333,0.54,1.31,ml,29,53,0.1226,0.25,ci,ci41011327,2025-07-01T23:19:43.791Z,"7 km SSW of Mojave, CA",quarry blast,0.32,0.74,0.185,28,automatic,ci,ci
-2025-07-01T18:53:46.990Z,61.312000274658,-152.23233032227,4.9899997711182,0.73,ml,11,121,0.05977,0.170000002,av,av93654336,2025-07-02T00:53:38.070Z,"64 km WNW of Beluga, Alaska",earthquake,0.34,1.19000006,0.36,7,reviewed,av,av
