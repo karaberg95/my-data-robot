@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-03T15:53:51.000Z,33.4915,-116.479,13.92,0.65,ml,30,64,0.103,0.12,ci,ci41013471,2025-07-03T15:57:23.484Z,"19 km ESE of Anza, CA",earthquake,0.18,0.43,0.169,15,automatic,ci,ci
 2025-07-03T15:42:52.470Z,38.775165557861,-122.7748336792,1.4199999570847,0.45,md,6,158,0.008375,0.02,nc,nc75204056,2025-07-03T15:44:27.503Z,"2 km W of The Geysers, CA",earthquake,0.54,0.730000019,0.19,8,automatic,nc,nc
 2025-07-03T15:37:07.290Z,36.504,-115.4627,1.5,1.5,ml,21,109.64,0.246,0.3883,nn,nn00900058,2025-07-03T15:41:03.936Z,"19 km ESE of Indian Springs, Nevada",earthquake,,14.8,0.26,16,automatic,nn,nn
 2025-07-03T15:30:53.659Z,31.638,-103.861,3.2932,0.8,ml,12,87,0.2,1,tx,tx2025mzctez,2025-07-03T15:36:27.082Z,"25 km WSW of Mentone, Texas",earthquake,0,2.7430231571198,0.3,9,automatic,tx,tx
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T16:05:30.730Z,37.483333333333,-118.78866666667,4.6,0.9,md,15,152,0.1113,0.04,nc,nc75003798,2025-07-03T05:39:28.332Z,"13 km WSW of Toms Place, CA",earthquake,0.41,1.75,0.146,11,reviewed,nc,nc
 2025-07-02T16:05:17.890Z,37.477166666667,-118.7865,2.82,0.54,md,12,178,0.1176,0.06,nc,nc75203621,2025-07-03T06:02:05.919Z,"13 km WSW of Toms Place, CA",earthquake,0.48,1.61,0.191,12,reviewed,nc,nc
 2025-07-02T16:00:57.050Z,37.46849822998,-118.80316925049,1.4500000476837,2.73,ml,26,99,0.1231,0.09,nc,nc75203616,2025-07-02T21:59:53.040Z,"15 km WSW of Toms Place, CA",earthquake,0.33,2.19000006,0.324,24,automatic,nc,nc
-2025-07-02T15:53:31.840Z,33.5328333,-116.7353333,5.87,-0.16,ml,7,137,0.03252,0.06,ci,ci41012503,2025-07-02T19:28:48.113Z,"6 km WSW of Anza, CA",earthquake,0.24,0.49,0.083,5,reviewed,ci,ci
