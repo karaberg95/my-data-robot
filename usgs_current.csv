@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-04T08:33:20.639Z,36.9925,-117.6671,3.7,1.2,ml,15,290.83,0.24,0.2727,nn,nn00900103,2025-07-04T08:35:56.280Z,"51 km ENE of Independence, California",earthquake,,7.8,0.21,11,automatic,nn,nn
-2025-07-04T08:27:47.410Z,40.421001434326,-125.76433563232,4.9800000190735,2.29,md,17,334,1.095,0.18,nc,nc75204356,2025-07-04T08:37:16.963Z,"126 km WNW of Petrolia, CA",earthquake,14.32,14.9200001,0.08,2,automatic,nc,nc
+2025-07-04T08:27:47.410Z,40.421001434326,-125.76433563232,4.9800000190735,2.29,md,17,334,1.095,0.18,nc,nc75204356,2025-07-04T08:57:17.113Z,"126 km WNW of Petrolia, CA",earthquake,14.32,14.9200001,0.08,2,automatic,nc,nc
 2025-07-04T08:23:08.642Z,62.467,-149.2959,3.6,1.3,ml,,,,0.62,ak,ak0258i3bmc0,2025-07-04T08:25:38.180Z,"41 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-04T08:22:02.866Z,62.4674,-149.2951,5.9,1.3,ml,,,,0.5,ak,ak0258i3be66,2025-07-04T08:23:52.553Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-04T08:19:11.350Z,38.841835021973,-122.87799835205,2.3699998855591,0.78,md,11,92,0.005582,0.02,nc,nc75204351,2025-07-04T08:20:47.545Z,"13 km E of Cloverdale, CA",earthquake,0.4,0.540000021,0.19,15,automatic,nc,nc
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T17:34:21.094Z,60.127,-152.1029,63.2,1.7,ml,,,,0.32,ak,ak0258gl7k4d,2025-07-03T17:36:18.956Z,"25 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-03T17:25:17.492Z,32.419,-101.996,4.229,1.1,mlv,18,103,0,0.5,tx,tx2025mzgnpx,2025-07-03T23:13:46.587Z,"28 km WSW of Ackerly, Texas",earthquake,0,1.2278282642365,0.3,13,automatic,tx,tx
 2025-07-03T17:24:22.310Z,34.1138333,-116.8638333,1.64,1.56,ml,65,26,0.06311,0.15,ci,ci41013575,2025-07-03T17:34:52.440Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.11,0.23,0.116,26,automatic,ci,ci
-2025-07-03T17:19:46.373Z,59.1379,-151.5638,55.2,3.8,ml,,,,0.75,ak,ak0258gl4e9k,2025-07-04T06:22:29.465Z,"28 km SSE of Port Graham, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-07-03T17:19:46.373Z,59.1379,-151.5638,55.2,3.8,ml,,,,0.75,ak,ak0258gl4e9k,2025-07-04T08:49:47.570Z,"28 km SSE of Port Graham, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-07-03T17:05:31.050Z,38.845001220703,-122.82583618164,2.0299999713898,0.4,md,6,101,0.009838,0.01,nc,nc75204111,2025-07-03T17:07:07.955Z,"9 km WNW of Cobb, CA",earthquake,0.42,1.03999996,0.28,8,automatic,nc,nc
 2025-07-03T17:04:55.690Z,46.665666666667,-117.12016666667,-0.81,1.9,md,4,164,0.06472,0.29,uw,uw62131402,2025-07-03T21:29:29.960Z,"8 km SSE of Pullman, Washington",explosion,1.39,31.61,0.33115683079938,4,reviewed,uw,uw
 2025-07-03T17:03:38.200Z,46.4985,-123.37783333333,-0.17,1.49,ml,15,85,0.1365,0.36,uw,uw62131397,2025-07-03T18:07:33.880Z,"10 km SW of Pe Ell, Washington",explosion,0.82,31.61,0.15856133953227,10,reviewed,uw,uw
@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T09:15:46.412Z,62.5292,-149.16,2.2,1.1,ml,,,,0.88,ak,ak0258ggc2mp,2025-07-03T09:18:03.906Z,"49 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-03T09:08:51.133Z,57.5901,-155.5158,71,2,ml,,,,0.12,ak,ak0258ggakzd,2025-07-03T09:10:14.837Z,"63 km W of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-07-03T09:07:46.421Z,62.479,-149.1275,10.7,1.1,ml,,,,0.34,ak,ak0258ggacwi,2025-07-03T09:09:13.484Z,"50 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-03T08:58:58.336Z,36.8038,71.4191,156.77,4.3,mb,51,164,1.728,0.6,us,us7000qae2,2025-07-04T05:47:55.040Z,"16 km NW of Ashkāsham, Afghanistan",earthquake,8.47,9.469,0.089,36,reviewed,us,us
-2025-07-03T08:58:13.120Z,34.1796667,-116.8238333,5.45,1.06,ml,56,25,0.1151,0.17,ci,ci41013279,2025-07-03T09:01:42.736Z,"9 km SSE of Big Bear City, CA",earthquake,0.13,0.5,0.142,27,automatic,ci,ci
