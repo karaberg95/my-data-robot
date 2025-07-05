@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T11:18:29.233Z,60.4046,-143.0609,11.8,1.4,ml,,,,0.7,ak,ak0258i52w5n,2025-07-04T11:20:32.502Z,"114 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-04T11:12:08.182Z,61.2998,-152.5105,7.8,1,ml,,,,0.88,ak,ak0258i51k8i,2025-07-04T23:50:35.450Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-04T11:11:08.080Z,33.5265,-116.7338333,4.82,0.8,ml,47,29,0.03891,0.18,ci,ci41014039,2025-07-04T11:14:36.540Z,"6 km WSW of Anza, CA",earthquake,0.14,0.54,0.216,26,automatic,ci,ci
-2025-07-04T10:51:32.447Z,36.7719,-116.2537,9.8,0,ml,37,39.96,0.037,0.0969,nn,nn00900106,2025-07-04T13:31:48.223Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.19,9,reviewed,nn,nn
