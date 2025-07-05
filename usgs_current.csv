@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T18:14:36.099Z,36.6365,142.1471,35,4.8,mww,69,98,3.171,0.91,us,us7000qaqf,2025-07-04T18:56:33.596Z,"121 km ESE of Iwaki, Japan",earthquake,7.95,1.879,0.089,12,reviewed,us,us
 2025-07-04T17:59:14.420Z,36.059666666667,-120.21033333333,8.72,0.95,md,21,129,0.04946,0.08,nc,nc75205387,2025-07-04T23:35:47.288Z,"10 km NW of Avenal, CA",earthquake,0.53,0.6,0.038,7,reviewed,nc,nc
 2025-07-04T17:58:00.523Z,29.3301,129.5469,10,4.7,mww,59,106,2.308,0.89,us,us7000qaqc,2025-07-04T18:44:22.040Z,"97 km N of Tatsugō, Japan",earthquake,6.84,1.868,0.073,18,reviewed,us,us
-2025-07-04T17:55:57.468Z,58.4386,-151.2088,7.6,2.5,ml,,,,0.6,ak,ak0258i8vhgi,2025-07-04T17:58:12.344Z,"95 km NE of Ouzinkie, Alaska",earthquake,,0.3,,,automatic,ak,ak
