@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-07T21:45:20.977Z,62.481,-149.4154,0,1.2,ml,,,,0.75,ak,ak0258n9t1dt,2025-07-07T21:47:14.433Z,"35 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-07T21:40:49.850Z,56.3309,-157.1935,39.9,2.8,ml,,,,0.29,ak,ak0258n9s115,2025-07-07T21:42:43.494Z,"75 km E of Chignik, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-07-07T21:39:22.430Z,33.9773333,-117.2221667,12.31,1.13,ml,36,64,0.05077,0.16,ci,ci41016447,2025-07-07T21:42:50.980Z,"6 km N of Moreno Valley, CA",earthquake,0.19,0.39,0.247,27,automatic,ci,ci
 2025-07-07T21:28:28.420Z,33.9781667,-117.2191667,11.68,1.44,ml,57,49,0.04929,0.17,ci,ci41016439,2025-07-07T21:38:55.550Z,"6 km N of Moreno Valley, CA",earthquake,0.14,0.34,0.23,26,automatic,ci,ci
@@ -236,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-06T22:38:03.839Z,-8.5391,118.3308,132.368,5,mb,61,70,0.618,0.63,us,us7000qb29,2025-07-07T13:06:59.678Z,"14 km W of Dompu, Indonesia",earthquake,7.6,4.733,0.077,54,reviewed,us,us
 2025-07-06T22:05:30.450Z,33.1031667,-116.0531667,11.09,0.63,ml,27,53,0.09446,0.19,ci,ci41015663,2025-07-06T22:08:53.898Z,"9 km ESE of Ocotillo Wells, CA",earthquake,0.23,0.55,0.115,8,automatic,ci,ci
 2025-07-06T21:59:45.690Z,32.672,-101.575,5,1.2,ml,6,246,0.3,0.6,tx,tx2025nfcuze,2025-07-06T22:02:47.449Z,"16 km SW of Gail, Texas",earthquake,0,,0.2,4,automatic,tx,tx
-2025-07-06T21:48:51.730Z,38.788333892822,-122.76999664307,3.7599999904633,1.06,md,19,81,0.01467,0.02,nc,nc75206397,2025-07-06T21:50:27.061Z,"2 km NNW of The Geysers, CA",earthquake,0.31,0.610000014,0.2,19,automatic,nc,nc
