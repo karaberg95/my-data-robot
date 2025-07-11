@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-11T13:53:27.937Z,61.3042,-152.5018,5.6,2,ml,,,,0.82,ak,ak0258tr8os9,2025-07-11T13:54:54.834Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-11T13:51:59.192Z,36.6621,-115.9925,1.6,0.2,ml,12,189.32,0.024,0.2795,nn,nn00900417,2025-07-11T13:53:44.685Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.29,7,automatic,nn,nn
+2025-07-11T13:43:55.293Z,32.068,-101.785,1.4861,1,ml,10,143,0.2,0.5,tx,tx2025nnracj,2025-07-11T13:48:37.682Z,"6 km S of Stanton, Texas",earthquake,0,4.6427402496338,0.4,7,automatic,tx,tx
+2025-07-11T13:42:52.110Z,33.1428333,-116.1875,9.96,1.7,ml,6,213,0.3072,0.14,ci,ci41019983,2025-07-11T13:46:33.247Z,"5 km W of Ocotillo Wells, CA",earthquake,4.15,11.99,0.487,13,automatic,ci,ci
 2025-07-11T13:39:38.820Z,33.349,-116.2388333,10.65,2.28,ml,7,128,0.3198,0.14,ci,ci41019975,2025-07-11T13:43:26.231Z,"16 km NE of Borrego Springs, CA",earthquake,1.65,9.1,0.267,7,automatic,ci,ci
 2025-07-11T13:38:51.500Z,33.1613333,-115.6338333,5.69,1.37,ml,22,75,0.02218,0.2,ci,ci41019967,2025-07-11T13:42:14.750Z,"12 km WNW of Calipatria, CA",earthquake,0.42,0.52,0.343,13,automatic,ci,ci
 2025-07-11T13:23:50.770Z,33.1668333,-115.6298333,5.31,1.35,ml,19,66,0.01594,0.18,ci,ci41019959,2025-07-11T13:27:20.967Z,"12 km WNW of Calipatria, CA",earthquake,0.41,0.47,0.34,11,automatic,ci,ci
@@ -33,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-11T11:36:11.620Z,38.819831848145,-122.82183074951,2.2699999809265,1.02,md,17,62,0.009849,0.02,nc,nc75208372,2025-07-11T11:37:47.640Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.50999999,0.21,17,automatic,nc,nc
 2025-07-11T11:34:02.602Z,32.024,-103.944,6.8817,2.2,ml,46,90,0,0.2,tx,tx2025nnmsbm,2025-07-11T12:29:03.027Z,"25 km SSE of Malaga, New Mexico",earthquake,0.44555157797302,0.57577201804178,0.1,25,reviewed,tx,tx
 2025-07-11T11:33:33.960Z,33.1618333,-115.6433333,4.2,1.55,ml,42,41,0.02747,0.21,ci,ci41019839,2025-07-11T11:37:17.703Z,"13 km WNW of Calipatria, CA",earthquake,0.2,0.45,0.212,27,automatic,ci,ci
-2025-07-11T11:32:17.200Z,51.5738,-176.6715,52.981,4.5,mb,90,146,0.409,0.95,us,us7000qc0e,2025-07-11T11:51:16.040Z,"33 km S of Adak, Alaska",earthquake,5.54,6.49,0.036,231,reviewed,us,us
+2025-07-11T11:32:17.200Z,51.5738,-176.6715,52.981,4.5,mb,90,146,0.409,0.95,us,us7000qc0e,2025-07-11T13:50:37.077Z,"33 km S of Adak, Alaska",earthquake,5.54,6.49,0.036,231,reviewed,us,us
 2025-07-11T11:26:16.430Z,33.1568333,-115.6478333,4.3,2.31,ml,57,41,0.03372,0.24,ci,ci41019831,2025-07-11T11:37:30.680Z,"13 km WNW of Calipatria, CA",earthquake,0.19,0.47,0.15,25,automatic,ci,ci
 2025-07-11T11:23:12.976Z,39.3745,-99.811,8.998,2.7,mb_lg,23,49,0.563,0.68,us,us7000qc0b,2025-07-11T11:43:19.517Z,"2 km ENE of Hill City, Kansas",earthquake,2.51,7.289,0.054,89,reviewed,us,us
 2025-07-11T11:22:39.542Z,57.6264,-154.1477,25.7,1.7,ml,,,,0.6,ak,ak0258tpv75u,2025-07-11T13:43:35.588Z,"13 km NW of Larsen Bay, Alaska",earthquake,,7,,,reviewed,ak,ak
@@ -63,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-11T10:07:23.210Z,33.1706667,-115.635,4.74,1.24,ml,34,44,0.0176,0.21,ci,ci41019711,2025-07-11T10:25:22.222Z,"12 km WNW of Calipatria, CA",earthquake,0.23,0.4,0.153,17,automatic,ci,ci
 2025-07-11T10:06:25.460Z,33.1671667,-115.6375,4.41,1.19,ml,34,61,0.02102,0.18,ci,ci41019703,2025-07-11T10:09:56.417Z,"12 km WNW of Calipatria, CA",earthquake,0.21,0.36,0.165,15,automatic,ci,ci
 2025-07-11T09:59:52.760Z,33.16,-115.6368333,3.6,2.13,ml,46,41,0.02489,0.19,ci,ci41019695,2025-07-11T10:09:29.577Z,"12 km WNW of Calipatria, CA",earthquake,0.17,0.27,0.148,17,automatic,ci,ci
-2025-07-11T09:55:42.950Z,33.1651649,-115.6393356,10.61,4.34,mw,103,51,0.06629,0.3,ci,ci41019687,2025-07-11T13:43:33.021Z,"12 km WNW of Calipatria, CA",earthquake,0.23,0.55,,6,automatic,ci,ci
+2025-07-11T09:55:42.950Z,33.1651649,-115.6393356,10.61,4.34,mw,103,51,0.06629,0.3,ci,ci41019687,2025-07-11T13:53:52.330Z,"12 km WNW of Calipatria, CA",earthquake,0.23,0.55,,6,automatic,ci,ci
 2025-07-11T09:55:29.790Z,33.1661682,-115.63517,3.96,1.96,ml,48,44,0.01988,0.21,ci,ci41019679,2025-07-11T12:20:11.114Z,"12 km WNW of Calipatria, CA",earthquake,0.28,0.37,0.198,26,automatic,ci,ci
 2025-07-11T09:43:18.365Z,-23.9809,179.9733,525.905,4.4,mb,42,113,5.568,0.71,us,us7000qbzx,2025-07-11T11:07:21.040Z,"south of the Fiji Islands",earthquake,11.17,10.414,0.094,33,reviewed,us,us
 2025-07-11T09:39:04.975Z,32.101,-101.487,7.8369,0.8,ml,21,55,0.1,0.1,tx,tx2025nniwwm,2025-07-11T13:25:40.524Z,"11 km W of Forsan, Texas",earthquake,0.46941478168666,0.76691087687073,0.2,10,reviewed,tx,tx
@@ -225,6 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-10T22:30:17.245Z,32.407,-101.607,5.4932,0.9,ml,20,49,0,0.1,tx,tx2025nmmsza,2025-07-11T10:25:13.024Z,"16 km SE of Ackerly, Texas",earthquake,0.65788918251522,0.73960558274074,0.1,8,reviewed,tx,tx
 2025-07-10T22:15:02.450Z,35.6725,-117.5315,4.69,0.73,ml,24,55,0.08808,0.14,ci,ci41019055,2025-07-10T23:46:28.252Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.44,0.105,22,reviewed,ci,ci
 2025-07-10T22:07:08.517Z,61.201,-151.2815,70.7,1.7,ml,,,,0.17,ak,ak0258s8scar,2025-07-10T22:08:41.709Z,"12 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-10T22:05:00.270Z,34.37516667,-96.83466667,0,1.12,ml,42,171,0.2492510884,0.41,ok,ok2025nkvh,2025-07-11T13:50:34.107Z,"3 km SSW of Mill Creek, Oklahoma",quarry blast,,0.7,0.21,16,reviewed,ok,ok
 2025-07-10T21:54:46.909Z,65.4439,-148.2222,10.6,1.1,ml,,,,0.38,ak,ak0258s8h2b6,2025-07-10T21:56:32.187Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-10T21:54:06.800Z,38.796165466309,-122.78116607666,3.6900000572205,0.74,md,6,116,0.006061,0.04,nc,nc75208057,2025-07-10T21:55:42.944Z,"3 km NW of The Geysers, CA",earthquake,0.78,1.88999999,0.13,8,automatic,nc,nc
 2025-07-10T21:52:18.440Z,38.836498260498,-122.82399749756,1.6399999856949,0.69,md,13,77,0.009213,0.02,nc,nc75208052,2025-07-10T21:53:52.841Z,"9 km NNW of The Geysers, CA",earthquake,0.33,0.610000014,0.4,14,automatic,nc,nc
@@ -330,5 +335,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-10T13:57:56.580Z,34.0161667,-117.1048355,15.34,1.32,ml,29,70,0.09024,0.26,ci,ci41018679,2025-07-10T14:00:13.599Z,"6 km WNW of Calimesa, CA",earthquake,0.49,1.56,0.285,14,automatic,ci,ci
 2025-07-10T13:57:51.010Z,34.0226667,-117.114,15.84,0.79,ml,16,63,0.01284,0.17,ci,ci41018671,2025-07-10T14:01:20.604Z,"6 km SSE of Mentone, CA",earthquake,0.36,0.92,0.094,8,automatic,ci,ci
 2025-07-10T13:56:33.770Z,36.7925,-112.98916666667,1.32,2.12,ml,8,140,0.2607,0.16,uu,uu80111711,2025-07-10T16:40:54.120Z,"17 km S of Centennial Park, Arizona",earthquake,0.9,3.22,0.2730325957599,5,reviewed,uu,uu
-2025-07-10T13:54:22.600Z,52.8863,159.1543,86.461,4.6,mb,36,164,0.335,0.9,us,us7000qbt8,2025-07-10T14:14:27.040Z,"40 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.63,5.651,0.077,50,reviewed,us,us
-2025-07-10T13:49:22.150Z,54.74,-163.43083333333,6.48,1.18,ml,11,174,0.1643,0.3,av,av93663896,2025-07-10T22:31:05.400Z,"12 km S of False Pass, Alaska",earthquake,1.69,0.98,0.32878156340541,12,reviewed,av,av
