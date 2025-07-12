@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-12T23:45:09.037Z,59.9756,-151.382,55.3,1.5,ml,,,,0.32,ak,ak0258vkom53,2025-07-12T23:47:03.798Z,"18 km ESE of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-07-12T23:33:45.000Z,38.813999176025,-122.8184967041,2.7699999809265,0.76,md,17,56,0.009792,0.01,nc,nc75209052,2025-07-12T23:35:19.564Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.620000005,0.07,19,automatic,nc,nc
 2025-07-12T23:25:19.060Z,33.5251667,-116.7258333,4.75,1.8,ml,87,23,0.04125,0.21,ci,ci41021399,2025-07-12T23:36:11.210Z,"6 km SW of Anza, CA",earthquake,0.12,0.31,0.171,26,automatic,ci,ci
 2025-07-12T22:54:12.990Z,38.766834259033,-122.7679977417,17.25,0.88,md,9,182,0.004261,0.11,nc,nc75209042,2025-07-12T22:55:49.106Z,"2 km SW of The Geysers, CA",earthquake,2.76,10.7700005,0.05,9,automatic,nc,nc
@@ -35,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T19:35:48.612Z,62.1065,-148.8761,33.6,1.5,ml,,,,0.57,ak,ak0258vi8tm5,2025-07-12T22:16:58.258Z,"37 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-12T19:35:41.050Z,46.852833333333,-121.757,1.39,1.45,ml,25,73,0.02383,0.08,uw,uw62140482,2025-07-12T23:28:26.680Z,"23 km ENE of Ashford, Washington",earthquake,0.17,0.56,0.30417086599448,16,reviewed,uw,uw
 2025-07-12T19:34:00.928Z,60.5936,-150.9799,34.8,1.3,ml,,,,1.17,ak,ak0258vi8i7w,2025-07-12T19:35:34.076Z,"8 km NE of Ridgeway, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-12T19:31:29.550Z,40.867333333333,-123.14983333333,35.48,2.2,md,20,37,0.1621,0.08,nc,nc75209012,2025-07-12T23:46:15.245Z,"23 km NW of Weaverville, CA",earthquake,0.31,0.59,0.211,18,reviewed,nc,nc
 2025-07-12T19:26:30.760Z,38.817165374756,-122.7936630249,2.2999999523163,0.73,md,10,75,0.009273,0.01,nc,nc75209007,2025-07-12T19:28:05.700Z,"5 km NNW of The Geysers, CA",earthquake,0.34,0.899999976,0.22,11,automatic,nc,nc
 2025-07-12T19:17:57.230Z,33.3638344,-116.6945038,13.43,1.09,ml,37,29,0.112,0.17,ci,ci41021279,2025-07-12T19:29:46.426Z,"11 km NNW of Warner Springs, CA",earthquake,0.26,0.68,0.15,13,automatic,ci,ci
 2025-07-12T19:12:34.669Z,29.059,-97.82,7.1755,1.9,mlv,16,75,0,0.4,tx,tx2025npxqcu,2025-07-12T22:06:26.570Z,"20 km NNE of Karnes City, Texas",earthquake,0,2.9859952926636,0.1,12,automatic,tx,tx
@@ -145,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T11:05:11.727Z,40.1209,-119.6424,13.3,1.1,ml,14,158.71,0.084,0.22,nn,nn00900455,2025-07-12T11:07:51.452Z,"19 km N of Sutcliffe, Nevada",earthquake,,1,0.55,5,automatic,nn,nn
 2025-07-12T11:02:55.739Z,31.516,-104.053,3.9003,1,mlv,25,64,0,0.4,tx,tx2025nphkgi,2025-07-12T17:12:54.026Z,"33 km NW of Toyah, Texas",earthquake,0,1.1411089897156,0.2,19,automatic,tx,tx
 2025-07-12T10:48:22.205Z,31.888,-102.41,6.4941,2.1,ml,38,77,0.1,0.2,tx,tx2025npgxru,2025-07-12T17:22:30.004Z,"6 km NW of Odessa, Texas",earthquake,0.6895450791557,0.7317212292,0.1,19,reviewed,tx,tx
-2025-07-12T10:48:21.474Z,31.829,-102.435,5,2.3,ml,9,169,0.1,0.6,tx,tx2025npgxsa,2025-07-12T11:01:32.432Z,"6 km ESE of West Odessa, Texas",earthquake,0,,0.3,7,automatic,tx,tx
+2025-07-12T10:48:21.474Z,31.829,-102.435,5,2.3,ml,9,169,0.1,0.6,tx,tx2025npgxsa,2025-07-12T23:37:35.912Z,"6 km ESE of West Odessa, Texas",earthquake,0,,0.3,7,automatic,tx,tx
 2025-07-12T10:47:17.980Z,33.5596657,-115.5814972,22.2,1.73,ml,17,142,0.2801,0.18,ci,ci41020983,2025-07-12T10:49:38.939Z,"24 km SW of Desert Center, CA",earthquake,1.15,2.57,0.516,8,automatic,ci,ci
 2025-07-12T10:46:41.290Z,33.1581667,-115.6356667,6.79,1.64,ml,43,61,0.02555,0.23,ci,ci41020975,2025-07-12T10:50:26.944Z,"12 km WNW of Calipatria, CA",earthquake,0.25,0.45,0.145,28,automatic,ci,ci
 2025-07-12T10:39:41.530Z,36.586666107178,-121.19100189209,7.1300001144409,1.18,md,9,138,0.0156,0.04,nc,nc75208777,2025-07-12T11:12:18.453Z,"7 km NNW of Pinnacles, CA",earthquake,0.41,0.720000029,0.21,7,automatic,nc,nc
@@ -271,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-11T23:53:03.480Z,33.3863333,-116.147,9.81,1.33,ml,6,179,0.4258,0.18,ci,ci41020655,2025-07-11T23:59:44.047Z,"10 km SSW of Oasis, CA",earthquake,2.68,14.83,0.327,16,automatic,ci,ci
 2025-07-11T23:52:04.270Z,46.8505,-121.7555,0.23,1.61,ml,27,71,0.02145,0.06,uw,uw62139962,2025-07-12T00:37:40.540Z,"23 km ENE of Ashford, Washington",earthquake,0.15,0.4,0.17583505201155,17,reviewed,uw,uw
 2025-07-11T23:50:22.920Z,46.8525,-121.755,0.16,0.87,ml,19,73,0.02265,0.07,uw,uw62139957,2025-07-12T00:44:33.570Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.48,0.19754747072679,11,reviewed,uw,uw
-2025-07-11T23:38:49.220Z,59.361666666667,-153.43016666667,-0.33,-0.05,ml,8,157,0.007502,0.17,av,av93665371,2025-07-12T04:42:41.230Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.29,0.31,0.3646791446494,8,reviewed,av,av
