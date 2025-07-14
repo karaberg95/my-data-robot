@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-14T21:39:49.030Z,33.9716667,-116.9878333,6.02,1.38,ml,63,25,0.05051,0.17,ci,ci41022543,2025-07-14T21:43:40.108Z,"5 km NNW of Beaumont, CA",earthquake,0.13,0.44,0.146,29,automatic,ci,ci
+2025-07-14T21:39:49.030Z,33.9716667,-116.9878333,6.02,1.38,ml,63,25,0.05051,0.17,ci,ci41022543,2025-07-14T21:50:29.570Z,"5 km NNW of Beaumont, CA",earthquake,0.13,0.44,0.146,29,automatic,ci,ci
 2025-07-14T21:38:04.190Z,33.8423333,-117.4961667,2.23,1.51,ml,47,45,0.0493,0.23,ci,ci41022535,2025-07-14T21:41:47.058Z,"5 km SSE of Home Gardens, CA",earthquake,0.26,0.32,0.239,37,automatic,ci,ci
 2025-07-14T21:30:21.820Z,33.5326667,-116.7283333,5.55,0.61,ml,17,56,0.03349,0.09,ci,ci41022519,2025-07-14T21:33:46.690Z,"6 km WSW of Anza, CA",earthquake,0.15,0.31,0.172,14,automatic,ci,ci
 2025-07-14T21:08:14.230Z,19.194,-155.607,0.22,2.85,ml,47,91,0.05237,0.26,hv,hv74725637,2025-07-14T21:20:12.020Z,"13 km W of Pāhala, Hawaii",earthquake,0.32,0.44,0.19253474369757,32,reviewed,hv,hv
@@ -96,7 +96,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T12:23:24.350Z,39.89,-112.904,6.39,1.4,ml,14,108,0.3125,0.15,uu,uu80004048,2025-07-14T17:10:29.710Z,"39 km SSW of Dugway, Utah",earthquake,0.36,1.08,0.15858474682436,4,reviewed,uu,uu
 2025-07-14T12:18:02.055Z,59.8706,-153.3308,134.8,4.4,ml,,,,1,ak,ak0258yp1qg3,2025-07-14T21:16:42.497Z,"44 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-07-14T12:16:39.954Z,36.7723,-116.2544,9.5,0.2,ml,34,59.39,0.037,0.0906,nn,nn00900583,2025-07-14T19:53:31.518Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.17,10,reviewed,nn,nn
+2025-07-14T12:13:38.060Z,46.848333333333,-121.767,1.14,0.4,ml,11,66,0.02658,0.06,uw,uw62141772,2025-07-14T21:51:51.250Z,"22 km ENE of Ashford, Washington",earthquake,0.23,1,0.19724454140475,5,reviewed,uw,uw
 2025-07-14T12:11:12.730Z,33.7511667,-116.7846667,14.69,1.44,ml,71,21,0.05794,0.17,ci,ci41022255,2025-07-14T14:04:39.270Z,"6 km WNW of Idyllwild, CA",earthquake,0.13,0.22,0.267,27,reviewed,ci,ci
+2025-07-14T12:05:40.660Z,46.845666666667,-121.76766666667,1.01,0.22,ml,17,65,0.01811,0.07,uw,uw62141767,2025-07-14T21:46:19.470Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.64,0.21517236566776,7,reviewed,uw,uw
 2025-07-14T12:03:53.280Z,46.847,-121.76616666667,0.83,1,ml,24,66,0.01878,0.07,uw,uw62141762,2025-07-14T21:39:57.300Z,"22 km ENE of Ashford, Washington",earthquake,0.16,0.44,0.18291040666634,15,reviewed,uw,uw
 2025-07-14T11:37:02.056Z,-2.8383,129.5355,10,4.7,mb,48,50,1.713,0.65,us,us7000qckq,2025-07-14T11:54:47.040Z,"80 km NE of Masohi, Indonesia",earthquake,6.9,1.876,0.082,45,reviewed,us,us
 2025-07-14T11:27:54.940Z,34.809,-116.4338333,4.63,2.31,ml,33,63,0.08382,0.13,ci,ci41022247,2025-07-14T16:18:22.200Z,"27 km WNW of Ludlow, CA",earthquake,0.15,0.37,0.16,127,reviewed,ci,ci
@@ -246,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T22:06:05.730Z,36.1698333,-118.0303333,2.39,1.69,ml,30,55,0.0848,0.16,ci,ci41022015,2025-07-14T14:08:25.502Z,"13 km S of Olancha, CA",earthquake,0.19,0.84,0.169,25,reviewed,ci,ci
 2025-07-13T21:59:58.280Z,37.386501312256,-121.73699951172,7.0500001907349,1.31,md,14,67,0.08129,0.01,nc,nc75209517,2025-07-13T22:27:16.683Z,"8 km E of Alum Rock, CA",earthquake,0.32,1.07000005,0.16,11,automatic,nc,nc
 2025-07-13T21:59:03.540Z,38.790000915527,-122.76850128174,1.6100000143051,1.23,md,18,78,0.01264,0.02,nc,nc75209512,2025-07-13T22:57:18.899Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.400000006,0.24,18,automatic,nc,nc
-2025-07-13T21:46:30.696Z,32.119,-101.039,5.0049,1.2,ml,15,75,0.2,0.2,tx,tx2025nryltb,2025-07-14T16:54:17.077Z,"26 km S of Westbrook, Texas",earthquake,0.93486527916684,3.4303291048361,0.1,13,reviewed,tx,tx
