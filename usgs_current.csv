@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-14T20:55:16.920Z,46.846500396729,-121.7688369751,-0.15999999642372,0.360000014,md,18,82,,0.0299999993,uw,uw62142142,2025-07-14T20:56:55.840Z,"22 km ENE of Ashford, Washington",earthquake,0.27,0.74000001,0.349999994,2,automatic,uw,uw
+2025-07-14T20:52:38.734Z,31.58,-104.186,2.9161,1.2,ml,28,69,0.1,0.4,tx,tx2025ntskee,2025-07-14T20:55:41.638Z,"47 km NW of Toyah, Texas",earthquake,0,1.0836571455002,0.3,22,automatic,tx,tx
+2025-07-14T20:49:12.007Z,59.8448,-150.7794,28,2.1,ml,,,,0.62,ak,ak0258ytzveo,2025-07-14T20:51:01.351Z,"10 km E of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-14T20:27:55.920Z,46.845333099365,-121.7696685791,-0.33000001311302,0.360000014,md,22,63,,0.0500000007,uw,uw62142102,2025-07-14T20:29:30.760Z,"22 km ENE of Ashford, Washington",earthquake,0.23,0.730000019,0.349999994,2,automatic,uw,uw
 2025-07-14T20:12:47.000Z,38.834331512451,-122.78199768066,1.789999961853,1.09,md,23,77,0.007686,0.04,nc,nc75209952,2025-07-14T20:14:20.753Z,"5 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.14,23,automatic,nc,nc
 2025-07-14T20:03:08.991Z,63.6289,-150.0869,4.2,2.7,ml,,,,0.98,ak,ak0258ytq07p,2025-07-14T20:04:52.896Z,"59 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -152,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T04:51:04.079Z,36.643,-115.7402,0,1.1,ml,30,127.37,0.179,0.2576,nn,nn00900551,2025-07-14T04:53:37.153Z,"10 km NW of Indian Springs, Nevada",earthquake,,4.7,0.21,22,automatic,nn,nn
 2025-07-14T04:49:13.473Z,36.6249,-115.6523,0,0.5,ml,16,281.01,0.251,0.1636,nn,nn00900550,2025-07-14T04:51:24.413Z,"6 km NNE of Indian Springs, Nevada",earthquake,,50.3,0.14,7,automatic,nn,nn
 2025-07-14T04:48:57.306Z,60.3052,-141.967,0,1.9,ml,,,,0.97,ak,ak0258ykgtia,2025-07-14T04:50:57.142Z,"135 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-14T04:47:59.174Z,36.4138,-115.3659,6,0.7,ml,11,331.21,0.54,0.1424,nn,nn00900549,2025-07-14T04:50:23.709Z,"30 km NE of Mount Charleston, Nevada",earthquake,,0.1,0.47,4,automatic,nn,nn
+2025-07-14T04:48:05.749Z,36.6266,-115.7071,7.6,0.3,ml,15,272.41,0.208,0.084,nn,nn00900549,2025-07-14T20:58:24.816Z,"7 km NNW of Indian Springs, Nevada",earthquake,,5.4,0.38,4,reviewed,nn,nn
 2025-07-14T04:47:10.560Z,37.149833333333,-121.54566666667,2.83,0.75,md,25,49,0.06596,0.17,nc,nc75209622,2025-07-14T18:56:07.749Z,"9 km NE of San Martin, CA",earthquake,0.27,0.76,0.183,15,reviewed,nc,nc
 2025-07-14T04:46:36.260Z,37.282833099365,-122.20966339111,5.2600002288818,1,md,10,93,0.001356,0.16,nc,nc75209617,2025-07-14T04:48:15.330Z,"11 km S of Portola Valley, CA",earthquake,0.61,0.889999986,0.26,8,automatic,nc,nc
 2025-07-14T04:41:49.062Z,61.2965,-152.5089,2.4,1.4,ml,,,,0.81,ak,ak0258ykfauy,2025-07-14T04:43:59.231Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -195,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T00:52:51.210Z,38.715,-112.55,5.81,1.28,ml,11,89,0.1326,0.09,uu,uu80004063,2025-07-14T18:29:41.990Z,"13 km SW of Kanosh, Utah",earthquake,0.33,1.95,0.38324555980717,2,reviewed,uu,uu
 2025-07-14T00:51:48.190Z,19.236833572388,-155.451171875,27.540000915527,2.31,ml,15,241,0.05072,0.129999995,hv,hv74724862,2025-07-14T00:54:43.760Z,"4 km NE of Pāhala, Hawaii",earthquake,1.02,0.99000001,0.08,3,automatic,hv,hv
 2025-07-14T00:37:00.200Z,44.68,-110.0265,12.68,1.09,md,6,158,0.09079,0.17,uu,uu80111881,2025-07-14T18:21:22.690Z,"36 km S of Silver Gate, Montana",earthquake,0.88,1.93,0.82751068698347,5,reviewed,uu,uu
-2025-07-14T00:33:31.500Z,18.5951,-68.8185,151,3.69,md,9,181,0.4446,0.13,pr,pr2025195000,2025-07-14T01:30:42.555Z,"11 km W of Salvaleón de Higüey, Dominican Republic",earthquake,2.76,1.06,0.14,6,reviewed,pr,pr
+2025-07-14T00:33:31.500Z,18.5951,-68.8185,151,3.69,md,9,181,0.4446,0.13,pr,pr2025195000,2025-07-14T20:58:29.040Z,"11 km W of Salvaleón de Higüey, Dominican Republic",earthquake,2.76,1.06,0.14,6,reviewed,pr,pr
 2025-07-14T00:32:26.287Z,60.3708,-152.1951,78.6,1.4,ml,,,,0.22,ak,ak0258yhzl8k,2025-07-14T00:33:56.118Z,"46 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-07-14T00:30:02.790Z,61.254833333333,-152.18966666667,21.89,0.12,ml,7,132,0.01988,0.24,av,av93046454,2025-07-14T20:49:08.550Z,"60 km WNW of Tyonek, Alaska",earthquake,1.11,0.95,0.14563106170213,7,reviewed,av,av
 2025-07-14T00:29:53.380Z,61.257166666667,-152.18366666667,21.17,0.13,ml,10,100,0.01618,0.23,av,av93667586,2025-07-14T20:43:16.900Z,"60 km WNW of Tyonek, Alaska",earthquake,0.64,0.94,0.25697020708229,10,reviewed,av,av
@@ -243,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T21:05:11.840Z,46.848666666667,-121.76883333333,-0.29,0.64,ml,17,66,0.0167,0.06,uw,uw62141227,2025-07-14T00:08:34.980Z,"22 km ENE of Ashford, Washington",earthquake,0.15,0.48,0.15031447889434,9,reviewed,uw,uw
 2025-07-13T21:04:00.505Z,22.7657,95.9213,10,4.3,mb,41,79,1.811,0.55,us,us7000qch0,2025-07-14T04:07:40.040Z,"31 km NE of Shwebo, Burma (Myanmar)",earthquake,7.73,1.914,0.099,29,reviewed,us,us
 2025-07-13T20:59:15.760Z,37.470500946045,-118.80966949463,6.2600002288818,1.14,md,11,211,0.1203,0.02,nc,nc75209477,2025-07-13T22:07:16.545Z,"15 km WSW of Toms Place, CA",earthquake,1.17,2.88000011,0.09,9,automatic,nc,nc
-2025-07-13T20:56:06.070Z,34.0185,-117.2106667,6.37,0.93,ml,38,81,0.07761,0.19,ci,ci41021999,2025-07-13T21:06:48.265Z,"5 km SSW of Redlands, CA",earthquake,0.21,0.55,0.24,27,automatic,ci,ci
-2025-07-13T20:52:46.820Z,38.824165344238,-122.7928314209,3.1800000667572,0.75,md,14,42,0.01435,0.01,nc,nc75209472,2025-07-13T20:54:22.742Z,"6 km WNW of Cobb, CA",earthquake,0.37,1.33000004,0.09,16,automatic,nc,nc
