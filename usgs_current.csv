@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-15T11:46:06.897Z,39.2433,-99.4493,5,3,mb_lg,26,72,0.484,0.57,us,us7000qcs3,2025-07-15T11:59:12.067Z,"1 km NW of Zurich, Kansas",earthquake,3.04,1.998,0.044,137,reviewed,us,us
 2025-07-15T11:45:27.050Z,46.846500396729,-121.7679977417,0.019999999552965,0.360000014,md,19,65,,0.0599999987,uw,uw62143072,2025-07-15T11:47:30.550Z,"22 km ENE of Ashford, Washington",earthquake,0.26,0.779999971,,1,automatic,uw,uw
 2025-07-15T11:28:07.088Z,61.9962,-150.6667,53.7,1.2,ml,,,,0.62,ak,ak02590c1t1g,2025-07-15T11:30:16.484Z,"38 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-15T11:16:51.130Z,38.823501586914,-122.84483337402,2.1199998855591,1.05,md,17,104,0.007667,0.02,nc,nc75210162,2025-07-15T11:18:28.147Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.360000014,0.12,21,automatic,nc,nc
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-15T06:05:53.594Z,32.019,-103.775,8.2404,1.2,ml,23,47,0,0.1,tx,tx2025nuksui,2025-07-15T08:43:18.581Z,"36 km SE of Malaga, New Mexico",earthquake,0.54253195012698,0.48953335451438,0.1,12,reviewed,tx,tx
 2025-07-15T06:00:48.680Z,38.818332672119,-122.82316589356,1.8200000524521,0.75,md,7,89,0.01043,0.01,nc,nc75210087,2025-07-15T06:02:27.389Z,"7 km NW of The Geysers, CA",earthquake,0.62,1.13999999,0.26,9,automatic,nc,nc
 2025-07-15T05:34:40.370Z,38.839168548584,-122.78383636475,1.75,0.37,md,10,91,0.005139,0.01,nc,nc75210072,2025-07-15T05:36:16.299Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.680000007,0.22,10,automatic,nc,nc
-2025-07-15T05:27:26.491Z,31.891,-102.41,2.3923,1.1,mlv,18,94,0.1,0.5,tx,tx2025nujltw,2025-07-15T11:15:00.720Z,"6 km NW of Odessa, Texas",earthquake,0,1.3969467878342,0.3,12,automatic,tx,tx
+2025-07-15T05:27:26.305Z,31.883,-102.424,0.9033,0.9,ml,22,78,0.1,0.2,tx,tx2025nujltw,2025-07-15T11:54:44.626Z,"6 km NW of Odessa, Texas",earthquake,0.86730802913896,1.3433761197311,0.1,7,reviewed,tx,tx
 2025-07-15T05:24:19.565Z,54.5276,-156.2333,10,3,ml,14,239,1.344,0.62,us,us7000qcr1,2025-07-15T07:25:18.040Z,"239 km SE of Chignik, Alaska",earthquake,7.74,2.013,0.077,22,reviewed,us,us
 2025-07-15T05:18:42.400Z,37.498664855957,-118.78916931152,4.4400000572205,1.43,md,14,199,0.09657,0.03,nc,nc75210067,2025-07-15T05:52:19.308Z,"12 km WSW of Toms Place, CA",earthquake,0.67,1.27999997,0.08,13,automatic,nc,nc
 2025-07-15T05:10:59.200Z,33.8525,-117.7178333,7.34,1.35,ml,8,169,0.2281,0.23,ci,ci41022815,2025-07-15T05:14:47.630Z,"10 km ESE of Yorba Linda, CA",earthquake,0.79,18.17,0.375,36,automatic,ci,ci
