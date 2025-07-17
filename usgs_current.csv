@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-17T21:09:47.150Z,38.835998535156,-122.81133270264,2.039999961853,1.09,md,24,56,0.01262,0.02,nc,nc75211287,2025-07-17T21:11:24.774Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.430000007,0.1,25,automatic,nc,nc
 2025-07-17T20:50:54.976Z,59.8138,-153.4715,126.5,1.6,ml,,,,0.3,ak,ak02593sm7x5,2025-07-17T20:52:40.377Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-17T20:49:13.560Z,33.8531667,-117.649,10.16,1.32,ml,31,128,0.06436,0.17,ci,ci41025159,2025-07-17T20:52:44.379Z,"8 km WSW of Corona, CA",earthquake,0.28,0.36,0.412,31,automatic,ci,ci
 2025-07-17T20:31:30.651Z,-24.2507,-69.7553,81.531,5.1,mww,80,98,0.92,1.4,us,us7000qdaj,2025-07-17T20:50:47.040Z,"92 km SE of Antofagasta, Chile",earthquake,6.37,5.303,0.073,18,reviewed,us,us
@@ -150,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T06:35:55.610Z,44.217,-110.36316666667,9.56,0.52,md,10,180,0.1273,0.11,uu,uu80112096,2025-07-17T16:38:10.700Z,"69 km NNE of Kelly, Wyoming",earthquake,0.58,1.63,0.14100598920148,8,reviewed,uu,uu
 2025-07-17T06:32:43.132Z,54.6064,-159.8895,36.522,3,ml,16,212,0.285,1.26,us,us7000qd5q,2025-07-17T06:57:41.040Z,"90 km SSE of Sand Point, Alaska",earthquake,2.81,14.37,0.081,20,reviewed,us,us
 2025-07-17T06:32:36.210Z,33.9381667,-116.7803333,13.7,1.08,ml,57,30,0.02455,0.17,ci,ci41024615,2025-07-17T06:36:28.412Z,"2 km NNE of Cabazon, CA",earthquake,0.14,0.36,0.208,26,automatic,ci,ci
+2025-07-17T06:28:48.990Z,46.8585,-121.7585,-0.12,0.27,ml,17,78,0.0218,0.08,uw,uw62144772,2025-07-17T21:22:02.700Z,"23 km ENE of Ashford, Washington",earthquake,0.17,0.64,0.21843759272101,7,reviewed,uw,uw
 2025-07-17T06:25:45.300Z,38.788333892822,-122.75033569336,3.6300001144409,0.8,md,13,134,0.01179,0.02,nc,nc75211007,2025-07-17T06:27:23.758Z,"1 km NE of The Geysers, CA",earthquake,0.5,1.12,0.1,15,automatic,nc,nc
 2025-07-17T06:22:03.452Z,36.2057,69.0813,10,4.7,mb,80,61,1.687,0.95,us,us7000qd5i,2025-07-17T06:39:00.040Z,"16 km NNW of Nahrīn, Afghanistan",earthquake,5.63,1.879,0.067,67,reviewed,us,us
 2025-07-17T06:16:07.176Z,54.4724,-159.9068,35.625,3.6,mb,64,187,0.404,0.5,us,us7000qd5h,2025-07-17T06:27:19.040Z,"103 km SSE of Sand Point, Alaska",earthquake,7.56,14.183,0.224,5,reviewed,us,us
@@ -168,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T05:06:50.220Z,54.6634,-159.9575,38.642,4,mb,39,162,0.272,0.48,us,us7000qd57,2025-07-17T05:38:13.040Z,"82 km SSE of Sand Point, Alaska",earthquake,8.11,11.163,0.3,3,reviewed,us,us
 2025-07-17T05:06:27.671Z,54.478,-160.0406,38.536,4.2,mb,55,170,0.44,0.64,us,us7000qd50,2025-07-17T05:34:19.040Z,"99 km SSE of Sand Point, Alaska",earthquake,5.69,7.289,0.187,8,reviewed,us,us
 2025-07-17T05:05:43.799Z,65.9626,-151.0668,15.7,2.5,ml,,,,0.54,ak,ak02593jf1rg,2025-07-17T05:15:38.040Z,"65 km NW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-17T05:04:57.520Z,61.325333333333,-152.243,5.08,0.74,ml,10,127,0.07356,0.18,av,av93671361,2025-07-17T21:20:03.510Z,"65 km WNW of Beluga, Alaska",earthquake,0.36,1.68,0.16845901154688,11,reviewed,av,av
 2025-07-17T05:03:53.900Z,45.278166666667,-122.94316666667,21.06,1.4,ml,29,53,0.172,0.23,uw,uw62144747,2025-07-17T06:29:03.460Z,"3 km SE of Newberg, Oregon",earthquake,0.33,0.87,0.080259027038595,18,reviewed,uw,uw
 2025-07-17T05:00:19.150Z,38.841333333333,-122.8225,2.3,0.35,md,18,65,0.01051,0.04,nc,nc75210997,2025-07-17T17:52:31.167Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.35,0.194,18,reviewed,nc,nc
 2025-07-17T04:34:12.250Z,46.869333333333,-121.751,-2.74,1.7,ml,22,91,0.01291,0.08,uw,uw62144732,2025-07-17T05:08:58.340Z,"24 km ENE of Ashford, Washington",earthquake,0.18,0.4,0.21740039646836,14,reviewed,uw,uw
@@ -238,8 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T21:36:49.583Z,31.668,-104.37,6.0999,2.2,ml,34,66,0,0.2,tx,tx2025nxlhsj,2025-07-16T22:49:00.825Z,"56 km S of Whites City, New Mexico",earthquake,0.82073206014522,0.79676000344269,0.1,19,reviewed,tx,tx
 2025-07-16T21:33:58.583Z,54.5521,-159.9255,26.8,3.3,ml,,,,0.75,ak,ak025925ko5i,2025-07-16T21:51:51.334Z,"94 km SSE of Sand Point, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2025-07-16T21:25:25.814Z,54.5512,-159.7905,25.3,3.8,ml,,,,0.52,ak,ak025925ivvx,2025-07-16T21:53:41.928Z,"98 km SSE of Sand Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-07-16T21:23:49.973Z,31.673,-104.369,6.0999,1.5,ml,28,68,0,0.2,tx,tx2025nxkwve,2025-07-17T08:25:28.930Z,"55 km S of Whites City, New Mexico",earthquake,0.6742411253346,0.75461348102869,0.2,18,reviewed,tx,tx
-2025-07-16T21:16:57.288Z,62.2777,-149.1689,39.6,2.7,ml,,,,0.69,ak,ak025925h0v4,2025-07-16T21:19:06.024Z,"37 km ENE of Susitna North, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2025-07-16T21:12:34.612Z,59.2368,-150.9275,102.4,4,ml,,,,1.03,ak,ak025925g491,2025-07-16T21:48:44.155Z,"43 km SSE of Halibut Cove, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-07-16T21:10:41.742Z,54.5697,-160.2307,28.748,4.2,mb,16,172,0.455,1.36,us,us7000qd25,2025-07-17T00:26:52.040Z,"87 km SSE of Sand Point, Alaska",earthquake,5.32,8.745,0.187,8,reviewed,us,us
-2025-07-16T21:10:02.047Z,54.4803,-160.4481,10,4.1,ml,17,207,0.61,0.33,us,us7000qd2f,2025-07-16T21:51:42.843Z,"95 km S of Sand Point, Alaska",earthquake,4.64,1.992,0.085,18,reviewed,us,us
