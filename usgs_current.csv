@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-17T21:35:26.363Z,60.7351,-150.0211,44.2,1.5,ml,,,,0.55,ak,ak02593t4dks,2025-07-17T21:37:13.812Z,"29 km SW of Hope, Alaska",earthquake,,3.1,,,automatic,ak,ak
-2025-07-17T21:29:44.070Z,36.947166442871,-121.56083679199,6.1700000762939,1.52,md,13,132,0.01883,0.15,nc,nc75211292,2025-07-17T21:31:19.904Z,"7 km S of Gilroy, CA",earthquake,0.66,0.899999976,0.22,10,automatic,nc,nc
+2025-07-17T21:29:44.070Z,36.947166442871,-121.56083679199,6.1700000762939,1.52,md,13,132,0.01883,0.15,nc,nc75211292,2025-07-17T21:47:20.377Z,"7 km S of Gilroy, CA",earthquake,0.66,0.899999976,0.22,10,automatic,nc,nc
 2025-07-17T21:09:47.150Z,38.835998535156,-122.81133270264,2.039999961853,1.09,md,24,56,0.01262,0.02,nc,nc75211287,2025-07-17T21:11:24.774Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.430000007,0.1,25,automatic,nc,nc
 2025-07-17T20:50:54.976Z,59.8138,-153.4715,126.5,1.6,ml,,,,0.3,ak,ak02593sm7x5,2025-07-17T20:52:40.377Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-17T20:49:13.560Z,33.8531667,-117.649,10.16,1.32,ml,31,128,0.06436,0.17,ci,ci41025159,2025-07-17T20:52:44.379Z,"8 km WSW of Corona, CA",earthquake,0.28,0.36,0.412,31,automatic,ci,ci
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T07:15:03.189Z,36.245,-97.1735,7.46,0.98,ml,62,54,0.1097784577,0.33,ok,ok2025nwml,2025-07-17T12:55:31.713Z,"11 km ESE of Perry, Oklahoma",earthquake,,0.7,0.22,26,reviewed,ok,ok
 2025-07-17T07:14:07.030Z,35.731498718262,-121.13733673096,9.0500001907349,1.13,md,12,119,0.05088,0.07,nc,nc75211027,2025-07-17T08:07:20.256Z,"11 km NE of San Simeon, CA",earthquake,0.37,0.839999974,0.07,7,automatic,nc,nc
 2025-07-17T07:06:08.365Z,54.6125,-160.119,35.855,4.2,mb,37,163,0.377,0.72,us,us7000qd5t,2025-07-17T07:16:04.040Z,"84 km SSE of Sand Point, Alaska",earthquake,7.31,10.76,0.115,21,reviewed,us,us
-2025-07-17T07:05:16.714Z,54.4037,-160.0416,33.589,3.9,mb,52,191,0.503,0.5,us,us7000qd5u,2025-07-17T21:35:10.906Z,"107 km SSE of Sand Point, Alaska",earthquake,8.64,12.562,0.256,4,reviewed,us,us
+2025-07-17T07:05:16.714Z,54.4037,-160.0416,33.589,3.9,mb,52,191,0.503,0.5,us,us7000qd5u,2025-07-17T21:39:17.295Z,"107 km SSE of Sand Point, Alaska",earthquake,8.64,12.562,0.256,4,reviewed,us,us
 2025-07-17T06:59:08.291Z,31.655,-104.432,4.5618,1.5,ml,22,71,0,0.3,tx,tx2025nydynm,2025-07-17T09:17:15.245Z,"57 km S of Whites City, New Mexico",earthquake,1.2402925904286,0.81456539524543,0.2,17,reviewed,tx,tx
 2025-07-17T06:55:36.600Z,38.823333740234,-122.8424987793,2.0499999523163,0.75,md,15,78,0.005838,0.01,nc,nc75211022,2025-07-17T06:57:13.951Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.529999971,0.25,15,automatic,nc,nc
 2025-07-17T06:52:34.256Z,57.2403,-155.6548,76.7,1.7,ml,,,,0.23,ak,ak02593kaja9,2025-07-17T06:54:34.406Z,"80 km WSW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -239,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T21:52:05.419Z,36.2525,-95.84416667,0,1.33,ml,27,110,0.3446323714,0.81,ok,ok2025nvtw,2025-07-17T13:52:19.375Z,"2 km SSE of Owasso, Oklahoma",quarry blast,,1.2,0.18,11,reviewed,ok,ok
 2025-07-16T21:51:12.139Z,54.5602,-160.3768,16.6,3.7,ml,,,,0.58,ak,ak025925ofej,2025-07-16T22:40:28.545Z,"86 km S of Sand Point, Alaska",earthquake,,2.4,,,reviewed,ak,ak
 2025-07-16T21:50:08.314Z,54.4671,-159.953,29.822,4.4,mb,38,187,0.421,0.55,us,us7000qd2j,2025-07-16T22:20:52.179Z,"102 km SSE of Sand Point, Alaska",earthquake,9.19,7.495,0.097,31,reviewed,us,us
-2025-07-16T21:43:42.082Z,40.9283,-116.234,9.8,0.9,ml,5,162.45,0.07,0.0817,nn,nn00900730,2025-07-17T00:14:43.479Z,"26 km NNW of Carlin, Nevada",earthquake,,3.9,0.79,3,reviewed,nn,nn
-2025-07-16T21:42:53.218Z,54.5928,-160.0553,21.4,3.7,ml,,,,0.71,ak,ak025925mke6,2025-07-16T22:45:29.431Z,"87 km SSE of Sand Point, Alaska",earthquake,,1.2,,,reviewed,ak,ak
-2025-07-16T21:39:30.190Z,54.5661,-160.2134,19.9,4.2,ml,,,,0.55,ak,ak025925lw7q,2025-07-16T22:10:50.353Z,"87 km SSE of Sand Point, Alaska",earthquake,,1.2,,,reviewed,ak,ak
