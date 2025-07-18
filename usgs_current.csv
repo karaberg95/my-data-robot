@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-18T19:34:30.915Z,31.984,-101.734,0.8736,1.3,ml,10,118,0.1,0.6,tx,tx2025oaysjl,2025-07-18T19:36:41.985Z,"16 km SSE of Stanton, Texas",earthquake,0,2.1160359382629,0.2,6,automatic,tx,tx
+2025-07-18T19:18:19.395Z,54.3937,-159.8495,28.3,3.1,ml,,,,0.53,ak,ak02595fd76u,2025-07-18T19:31:46.274Z,"112 km SSE of Sand Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-18T18:21:53.330Z,33.1426667,-116.2775,11.23,0.73,ml,36,52,0.05364,0.19,ci,ci41025863,2025-07-18T18:25:23.529Z,"14 km W of Ocotillo Wells, CA",earthquake,0.23,0.41,0.098,9,automatic,ci,ci
 2025-07-18T18:19:10.830Z,41.882,-112.4775,2.03,1.41,md,13,108,0.1235,0.13,uu,uu80112171,2025-07-18T19:08:08.760Z,"9 km NNW of Howell, Utah",earthquake,0.36,5.35,0.24702320301665,8,reviewed,uu,uu
 2025-07-18T18:18:55.770Z,35.3176667,-117.8076667,7.23,1.42,ml,44,62,0.05905,0.16,ci,ci41025855,2025-07-18T18:22:24.871Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.5,0.162,26,automatic,ci,ci
@@ -234,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T19:49:59.080Z,44.24,-110.77933333333,2.54,2.43,ml,20,179,0.03588,0.14,uu,uu80112121,2025-07-17T20:51:07.040Z,"45 km ENE of Warm River, Idaho",earthquake,0.46,0.7,0.31677274746408,6,reviewed,uu,uu
 2025-07-17T19:38:47.160Z,33.232,-116.7316667,11.11,0.71,ml,18,61,0.07797,0.12,ci,ci41025119,2025-07-17T20:14:10.423Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.27,0.63,0.209,8,reviewed,ci,ci
 2025-07-17T19:38:36.643Z,61.2983,-152.4321,0,2.4,ml,,,,0.85,ak,ak02593ry5ly,2025-07-18T03:02:42.630Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-17T19:30:09.560Z,18.249,-67.078166666667,27.12,3.22,md,22,60,0.0667,0.33,pr,pr71489513,2025-07-18T14:40:23.040Z,"5 km SE of Espino, Puerto Rico",earthquake,0.53,1.22,0.079630613348505,17,reviewed,pr,pr
-2025-07-17T19:25:06.260Z,31.43,-103.838,7.0483,1.8,ml,5,114,0.1,0.1,tx,tx2025nzcrgl,2025-07-17T20:17:12.913Z,"13 km NNW of Toyah, Texas",earthquake,3.6711521500267,3.5029271391304,0.2,12,reviewed,tx,tx
