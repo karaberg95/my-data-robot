@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-23T19:32:24.860Z,33.5229988,-116.5141678,13.22,1.52,ml,47,56,0.07878,0.19,ci,ci41030247,2025-07-23T19:34:31.348Z,"15 km ESE of Anza, CA",earthquake,0.23,0.6,0.28,25,automatic,ci,ci
+2025-07-23T19:29:38.830Z,33.637,-116.6835,5.26,1.4,ml,10,79,0.03283,0.19,ci,ci41030239,2025-07-23T19:33:02.065Z,"9 km N of Anza, CA",earthquake,0.48,1.14,0.416,23,automatic,ci,ci
 2025-07-23T19:18:42.688Z,63.04,-151.5383,0.1,1.8,ml,,,,1,ak,ak0259dp1zf0,2025-07-23T19:20:40.553Z,"56 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-23T19:11:07.092Z,36.0235,-115.3108,15.9,2,ml,13,211.96,0.77,0.2825,nn,nn00901069,2025-07-23T19:14:38.638Z,"6 km W of Enterprise, Nevada",earthquake,,1.5,0.33,11,automatic,nn,nn
 2025-07-23T19:09:36.970Z,33.7525,-117.1098333,2.76,1.2,ml,49,36,0.04219,0.23,ci,ci41030183,2025-07-23T19:13:04.192Z,"4 km WNW of Green Acres, CA",earthquake,0.26,0.37,0.191,32,automatic,ci,ci
@@ -8,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-23T18:43:40.330Z,35.061,-118.342,-0.98,1.02,ml,24,44,0.07024,0.18,ci,ci41030151,2025-07-23T18:47:33.138Z,"12 km SE of Tehachapi, CA",earthquake,0.29,0.7,0.14,18,automatic,ci,ci
 2025-07-23T18:36:22.190Z,32.444,-115.1581667,12.3,2,ml,23,69,0.04177,0.28,ci,ci41030135,2025-07-23T18:40:05.070Z,"10 km NNE of Delta, B.C., MX",earthquake,0.39,0.81,0.247,24,automatic,ci,ci
 2025-07-23T18:09:53.429Z,61.9263,-150.0616,30.8,1.4,ml,,,,0.58,ak,ak0259doen72,2025-07-23T18:12:20.622Z,"19 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-23T18:05:31.418Z,52.1937,160.3993,10,4.6,mb,77,117,1.352,0.73,us,us6000que3,2025-07-23T19:33:40.040Z,"154 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.79,1.893,0.064,72,reviewed,us,us
 2025-07-23T18:03:52.169Z,61.7788,-149.9998,35.7,1.4,ml,,,,0.74,ak,ak0259dodcsw,2025-07-23T18:06:09.326Z,"4 km NNE of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-07-23T18:03:12.870Z,45.082833333333,-111.74216666667,-2,1.56,ml,19,113,0.116,0.24,mb,mb90103288,2025-07-23T18:19:22.950Z,"28 km SE of Virginia City, Montana",quarry blast,0.73,31.61,0.19585887783315,23,reviewed,mb,mb
 2025-07-23T17:57:53.940Z,33.4131667,-116.4535,12.68,0.76,ml,45,63,0.1093,0.19,ci,ci41030079,2025-07-23T18:01:54.824Z,"19 km NNW of Borrego Springs, CA",earthquake,0.2,0.53,0.112,20,automatic,ci,ci
@@ -236,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T19:47:04.920Z,35.3481667,-117.8053333,8.3,1.75,ml,44,36,0.0871,0.13,ci,ci41028967,2025-07-23T13:47:48.980Z,"16 km W of Johannesburg, CA",earthquake,0.13,0.42,0.098,25,reviewed,ci,ci
 2025-07-22T19:37:29.600Z,44.2825,-114.832,4.11,1.25,ml,10,79,0.1347,0.16,mb,mb90103103,2025-07-22T21:49:20.220Z,"11 km NE of Stanley, Idaho",earthquake,0.46,9.35,0.27923614835868,9,reviewed,mb,mb
 2025-07-22T19:36:12.980Z,38.838165283203,-122.82583618164,0.87000000476837,0.59,md,8,92,0.007549,0.01,nc,nc75213642,2025-07-22T19:37:47.846Z,"9 km NNW of The Geysers, CA",earthquake,0.83,1.79999995,0.35,8,automatic,nc,nc
-2025-07-22T19:26:49.140Z,33.8525,-117.4925,-0.5,1.55,ml,51,31,0.05278,0.21,ci,ci41028951,2025-07-22T21:27:50.480Z,"4 km SE of Home Gardens, CA",quarry blast,0.27,31.61,0.154,73,reviewed,ci,ci
