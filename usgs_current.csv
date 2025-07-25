@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-25T11:08:49.495Z,59.6548,-151.6166,62,3.7,ml,,,,0.38,ak,ak0259gvb2cb,2025-07-25T11:13:30.551Z,"4 km WNW of Homer, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-07-25T11:16:31.960Z,38.841999053955,-122.75583648682,1.789999961853,0.87,md,9,191,0.01592,0.05,nc,nc75214882,2025-07-25T11:18:07.031Z,"4 km NW of Cobb, CA",earthquake,0.64,0.639999986,0.35,9,automatic,nc,nc
+2025-07-25T11:08:49.495Z,59.6548,-151.6166,62,3.7,ml,,,,0.38,ak,ak0259gvb2cb,2025-07-25T11:28:49.815Z,"4 km WNW of Homer, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-25T10:56:45.960Z,35.867,-119.035,17.81,1.07,ml,17,122,0.04804,0.2,ci,ci41031751,2025-07-25T11:00:12.806Z,"22 km ENE of Delano, CA",earthquake,0.47,0.73,0.282,8,automatic,ci,ci
 2025-07-25T10:56:19.300Z,32.106,-101.923,3.6726,2,ml,78,33,0.1,0.5,tx,tx2025ondpoi,2025-07-25T11:01:17.795Z,"12 km WSW of Stanton, Texas",earthquake,0,0.62431621551514,0.1,49,automatic,tx,tx
 2025-07-25T10:56:19.031Z,32.105,-101.928,4.5984,2,ml,37,62,0.1,0.3,tx,tx2025ondpwc,2025-07-25T11:00:16.099Z,"13 km WSW of Stanton, Texas",earthquake,0,0.92039477825165,0.1,29,automatic,tx,tx
-2025-07-25T10:49:30.029Z,40.1578,-117.7258,4.6,2.8,ml,6,79.24,0.449,0.1962,nn,nn00901165,2025-07-25T11:11:33.683Z,"63 km E of Lovelock, Nevada",earthquake,,2.7,0.11,3,reviewed,nn,nn
+2025-07-25T10:49:30.125Z,40.1627,-117.7174,6.7,3.1,ml,11,79.3,0.457,0.1674,nn,nn00901165,2025-07-25T11:30:09.483Z,"64 km E of Lovelock, Nevada",earthquake,,2,0.15,7,reviewed,nn,nn
 2025-07-25T10:39:50.810Z,38.83483505249,-122.78466796875,1.5599999427795,0.21,md,7,106,0.005691,0.01,nc,nc75214862,2025-07-25T10:41:27.722Z,"6 km WNW of Cobb, CA",earthquake,0.62,1.22000003,0.12,6,automatic,nc,nc
 2025-07-25T10:29:06.450Z,37.43433380127,-119.68083190918,13.609999656677,2.47,md,13,78,0.05222,0.16,nc,nc75214852,2025-07-25T11:05:34.607Z,"9 km NE of Ahwahnee, CA",earthquake,0.54,1.24000001,0.32,11,automatic,nc,nc
 2025-07-25T10:28:04.321Z,65.4295,-148.1534,12.5,0.7,ml,,,,0.47,ak,ak0259gutu5s,2025-07-25T10:29:59.858Z,"20 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-25T10:21:54.086Z,31.257,-103.391,3.4851,1.5,ml,17,71,0,0.2,tx,tx2025oncmcq,2025-07-25T11:03:20.817Z,"18 km SE of Lindsay, Texas",earthquake,0.91824779537399,1.6167863069975,0.2,9,reviewed,tx,tx
 2025-07-25T10:10:47.870Z,33.332,-118.0681667,25.76,2.08,ml,5,287,0.432,0.06,ci,ci41031743,2025-07-25T10:14:35.656Z,"24 km E of Avalon, CA",earthquake,3.37,1.81,0.162,12,automatic,ci,ci
 2025-07-25T09:44:34.153Z,18.8058,145.5035,253.833,4.9,mb,86,83,3.556,0.91,us,us6000qv0l,2025-07-25T10:00:08.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.4,7.468,0.041,191,reviewed,us,us
-2025-07-25T09:43:49.947Z,31.072,-103.757,4.7216,1.5,ml,12,66,0.1,0.6,tx,tx2025onbfek,2025-07-25T10:01:47.489Z,"9 km N of Balmorhea, Texas",earthquake,0,1.7686086893082,0.2,9,automatic,tx,tx
+2025-07-25T09:43:49.454Z,31.05,-103.74,4.126,1.5,ml,17,84,0.1,0.2,tx,tx2025onbfek,2025-07-25T11:22:29.921Z,"7 km N of Balmorhea, Texas",earthquake,0.8410211060722,1.9376156240831,0.2,7,reviewed,tx,tx
 2025-07-25T09:40:49.940Z,35.8756667,-117.7205,8.76,1.13,ml,29,37,0.07606,0.12,ci,ci41031735,2025-07-25T09:44:14.595Z,"18 km ESE of Little Lake, CA",earthquake,0.14,0.37,0.174,24,automatic,ci,ci
 2025-07-25T09:38:27.871Z,15.2002,-45.7619,10,4.8,mb,114,67,12.096,0.42,us,us6000qv0j,2025-07-25T10:18:59.040Z,"northern Mid-Atlantic Ridge",earthquake,11.08,1.875,0.044,162,reviewed,us,us
 2025-07-25T09:37:18.810Z,35.6358333,-118.1376667,11.33,0.74,ml,23,67,0.099,0.12,ci,ci41031727,2025-07-25T09:40:45.424Z,"29 km ESE of Kernville, CA",earthquake,0.24,0.59,0.195,14,automatic,ci,ci
