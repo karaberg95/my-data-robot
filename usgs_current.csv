@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-25T11:42:45.180Z,33.4838333,-116.5553333,10.52,0.7,ml,33,49,0.04064,0.17,ci,ci41031783,2025-07-25T11:46:59.473Z,"14 km SE of Anza, CA",earthquake,0.19,0.33,0.176,21,automatic,ci,ci
-2025-07-25T11:41:33.550Z,35.3068333,-118.586,4.02,1.34,ml,39,46,0.1131,0.22,ci,ci41031775,2025-07-25T11:45:00.464Z,"23 km NNW of Tehachapi, CA",earthquake,0.22,0.86,0.207,27,automatic,ci,ci
+2025-07-25T11:41:33.550Z,35.3068333,-118.586,4.02,1.34,ml,39,46,0.1131,0.22,ci,ci41031775,2025-07-25T11:52:16.940Z,"23 km NNW of Tehachapi, CA",earthquake,0.22,0.86,0.207,27,automatic,ci,ci
 2025-07-25T11:35:57.630Z,35.3178333,-117.807,7.4,0.79,ml,29,85,0.05948,0.17,ci,ci41031767,2025-07-25T11:40:12.303Z,"17 km WSW of Johannesburg, CA",earthquake,0.21,0.57,0.083,12,automatic,ci,ci
 2025-07-25T11:31:12.781Z,61.3029,-152.4472,0,1.9,ml,,,,0.84,ak,ak0259gvfxke,2025-07-25T11:33:06.349Z,"75 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-25T11:30:17.670Z,35.8733333,-117.7185,10.03,0.48,ml,16,69,0.07482,0.1,ci,ci41031759,2025-07-25T11:33:47.240Z,"18 km ESE of Little Lake, CA",earthquake,0.18,0.4,0.089,7,automatic,ci,ci
