@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-24T13:47:26.650Z,34.2003333,-117.6756667,5.91,0.5,ml,11,68,0.01825,0.12,ci,ci41030791,2025-07-24T14:50:47.401Z,"12 km NNW of Upland, CA",earthquake,0.28,0.44,0.23,10,reviewed,ci,ci
 2025-07-24T13:43:52.066Z,54.4772,-159.7587,10,4.4,mb,30,152,2.476,0.7,us,us6000qull,2025-07-24T14:35:16.763Z,"106 km SSE of Sand Point, Alaska",earthquake,7.86,1.951,0.084,42,reviewed,us,us
 2025-07-24T13:29:31.869Z,36.4841,-115.4585,4,1.2,ml,22,124.35,0.19,0.1543,nn,nn00901103,2025-07-25T02:04:41.878Z,"21 km ESE of Indian Springs, Nevada",earthquake,,3.5,0.26,8,reviewed,nn,nn
-2025-07-24T13:23:24.363Z,61.6621,-149.6546,44.3,3.2,ml,,,,0.67,ak,ak0259f91rea,2025-07-25T05:17:25.738Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-07-24T13:23:24.363Z,61.6621,-149.6546,44.3,3.2,ml,,,,0.67,ak,ak0259f91rea,2025-07-25T07:49:39.625Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-07-24T13:19:13.005Z,61.1088,-152.2061,0,1.1,ml,,,,0.7,ak,ak0259f90vpg,2025-07-25T03:52:52.300Z,"57 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-24T13:08:19.521Z,-1.9968,120.6784,34.704,5.6,mww,26,55,0.666,0.97,us,us6000qulk,2025-07-24T14:55:25.851Z,"66 km S of Poso, Indonesia",earthquake,8.22,5.563,0.089,12,reviewed,us,us
 2025-07-24T13:07:45.651Z,58.8651,-151.2746,0,3,ml,,,,0.78,ak,ak0259f8ydn6,2025-07-24T13:34:26.011Z,"62 km SSE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
