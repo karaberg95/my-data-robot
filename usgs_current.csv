@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-28T07:55:46.695Z,61.1989,-151.4034,198.6,1.6,ml,,,,1.05,ak,ak0259lrtgfh,2025-07-28T07:57:53.010Z,"18 km WNW of Beluga, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2025-07-28T07:47:28.019Z,61.8013,-149.644,60,1.1,ml,,,,0.34,ak,ak0259lrrp9d,2025-07-28T07:49:04.797Z,"19 km N of Meadow Lakes, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-07-28T07:44:43.894Z,31.636,-104.278,4.2788,1.6,ml,25,69,0,0.3,tx,tx2025oskiyj,2025-07-28T07:47:18.063Z,"58 km NW of Toyah, Texas",earthquake,0,1.115664601326,0.2,19,automatic,tx,tx
 2025-07-28T07:14:40.020Z,38.824501037598,-122.84600067139,1.6100000143051,0.62,md,10,151,0.00868,0.04,nc,nc75216112,2025-07-28T07:16:16.779Z,"9 km NW of The Geysers, CA",earthquake,0.45,0.720000029,0.22,10,automatic,nc,nc
@@ -16,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T05:35:45.400Z,38.542499542236,-122.73883056641,3.1500000953674,1.35,md,7,204,0.04794,0.04,nc,nc75216077,2025-07-28T06:07:17.365Z,"3 km NNE of Larkfield-Wikiup, CA",earthquake,0.71,1.14999998,0.05,3,automatic,nc,nc
 2025-07-28T05:33:34.500Z,38.823501586914,-122.81016540527,2.960000038147,0.43,md,6,116,0.0001282,0.01,nc,nc75216072,2025-07-28T05:35:11.129Z,"7 km NNW of The Geysers, CA",earthquake,0.58,2.03999996,0.31,9,automatic,nc,nc
 2025-07-28T05:30:50.990Z,11.6353,42.8098,10,4.6,mb,21,118,0.11,0.48,us,us6000qvkg,2025-07-28T07:31:09.213Z,"12 km NNW of Arta, Djibouti",earthquake,5.72,1.906,0.146,14,reviewed,us,us
+2025-07-28T05:19:53.080Z,27.4923,52.6291,10,4.5,mb,85,79,4.092,0.53,us,us6000qvkf,2025-07-28T08:08:18.040Z,"26 km WSW of Mohr, Iran",earthquake,8.55,1.864,0.067,65,reviewed,us,us
 2025-07-28T05:19:44.340Z,34.0463333,-117.1143333,17.03,1.22,ml,26,88,0.01095,0.22,ci,ci41034103,2025-07-28T05:23:16.067Z,"3 km SE of Mentone, CA",earthquake,0.34,0.79,0.372,22,automatic,ci,ci
 2025-07-28T05:15:56.940Z,19.343166351318,-155.18099975586,4.1900000572205,1.76,ml,47,78,0.03774,0.209999993,hv,hv74737712,2025-07-28T05:19:30.870Z,"12 km SSE of Volcano, Hawaii",earthquake,0.36,1.07000005,0.61,12,automatic,hv,hv
 2025-07-28T05:11:08.688Z,37.2727,-114.9354,11.3,2.1,ml,30,134.92,0.162,0.3496,nn,nn00901294,2025-07-28T05:14:10.737Z,"22 km ESE of Alamo, Nevada",earthquake,,0.5,0.19,22,automatic,nn,nn
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T00:13:29.220Z,32.9196667,-115.5338333,7.62,1.22,ml,18,77,0.02899,0.21,ci,ci41034047,2025-07-28T00:17:01.574Z,"7 km S of Brawley, CA",earthquake,0.37,0.53,0.187,11,automatic,ci,ci
 2025-07-28T00:05:50.680Z,38.804164886475,-122.77766418457,3.579999923706,0.76,md,12,90,0.009383,0.01,nc,nc75216002,2025-07-28T00:07:26.412Z,"4 km NNW of The Geysers, CA",earthquake,0.5,1.11000001,0.18,12,automatic,nc,nc
 2025-07-28T00:01:06.150Z,35.6141667,-117.4905,7.35,1.91,ml,46,49,0.07446,0.12,ci,ci41034039,2025-07-28T00:11:29.150Z,"17 km E of Ridgecrest, CA",earthquake,0.12,0.49,0.241,26,automatic,ci,ci
-2025-07-27T23:48:12.652Z,32.097,-102.074,4.3631,1.7,ml,47,38,0,0.4,tx,tx2025oruqxq,2025-07-28T00:00:40.232Z,"11 km N of Midland, Texas",earthquake,0,0.78260409832001,0.1,29,automatic,tx,tx
+2025-07-27T23:48:13.040Z,32.096,-102.081,8.9111,1.6,ml,54,40,0,0.2,tx,tx2025oruqxq,2025-07-28T08:04:52.165Z,"10 km N of Midland, Texas",earthquake,0.2907633257836,0.60457929184215,0.1,28,reviewed,tx,tx
 2025-07-27T23:40:02.142Z,64.5646,-17.1862,10,5.1,mb,82,57,1.791,0.52,us,us6000qvj6,2025-07-28T05:18:30.040Z,"101 km WNW of Höfn, Iceland",earthquake,9.54,1.829,0.025,532,reviewed,us,us
 2025-07-27T23:00:29.550Z,38.807834625244,-122.78966522217,3.3199999332428,0.77,md,5,157,0.004407,0.01,nc,nc75215987,2025-07-27T23:02:05.877Z,"4 km NNW of The Geysers, CA",earthquake,3.03,2.21000004,0.14,9,automatic,nc,nc
 2025-07-27T22:47:05.079Z,54.0779,-166.5922,83,5.3,mww,138,45,0.122,0.8,us,us6000qvj2,2025-07-28T06:57:54.768Z,"21 km N of Dutch Harbor, Alaska",earthquake,6.15,1.786,0.062,25,reviewed,us,us
@@ -193,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T08:24:04.390Z,38.83466720581,-122.81083679199,2.2699999809265,0.71,md,16,53,0.01127,0.03,nc,nc75215722,2025-07-27T08:25:40.012Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.769999981,0.45,18,automatic,nc,nc
 2025-07-27T08:22:54.007Z,61.8245,-150.8257,56.6,1.5,ml,,,,0.36,ak,ak0259k4ohh4,2025-07-27T08:25:00.384Z,"35 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-27T08:19:31.180Z,32.9031667,-116.2703333,11.48,-0.04,ml,17,91,0.05834,0.17,ci,ci41033471,2025-07-27T08:22:59.822Z,"26 km ENE of Pine Valley, CA",earthquake,0.38,0.61,0.036,2,automatic,ci,ci
-2025-07-27T08:03:29.629Z,-20.6886,-68.6844,127.337,4.5,mb,29,56,0.7,1.05,us,us6000qvgf,2025-07-27T09:03:28.040Z,"74 km NW of Ollagüe, Chile",earthquake,5.74,5.57,0.118,21,reviewed,us,us
