@@ -179,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T22:06:08.316Z,31.965,-102.315,8.4473,1.2,ml,18,81,0,0.1,tx,tx2025otmzvm,2025-07-29T09:28:03.840Z,"8 km SE of Gardendale, Texas",earthquake,0.61455045676468,0.63663139705658,0.1,8,reviewed,tx,tx
 2025-07-28T22:04:15.180Z,38.829833984375,-122.81283569336,1.7599999904633,1.06,md,13,75,0.006782,0.01,nc,nc75216312,2025-07-28T22:05:52.898Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.610000014,0.21,14,automatic,nc,nc
 2025-07-28T22:03:33.510Z,35.30016708374,-120.69583129883,0.46000000834465,1.61,md,10,65,0.0235,0.1,nc,nc75216307,2025-07-28T22:46:37.671Z,"4 km NW of San Luis Obispo, CA",earthquake,0.41,1.12,0.12,9,automatic,nc,nc
-2025-07-28T22:01:28.900Z,33.4753333,-116.8871667,12.53,0.87,ml,41,31,0.02126,0.19,ci,ci41034967,2025-07-28T22:06:18.803Z,"4 km NNW of Aguanga, CA",earthquake,0.19,0.48,0.124,25,automatic,ci,ci
+2025-07-28T22:01:28.900Z,33.4753333,-116.8871667,12.53,0.87,ml,41,31,0.02126,0.19,ci,ci41034967,2025-07-29T15:58:58.401Z,"4 km NNW of Aguanga, CA",earthquake,0.19,0.48,0.124,25,automatic,ci,ci
 2025-07-28T21:54:38.008Z,28.652,-98.227,9.9854,1.5,ml,13,69,0.1,0.1,tx,tx2025otmpun,2025-07-29T11:36:40.000Z,"21 km NNW of Three Rivers, Texas",earthquake,0.46050334766896,0.84250388988501,0.2,5,reviewed,tx,tx
 2025-07-28T21:50:37.010Z,58.484666666667,-154.51683333333,11.29,0.88,ml,13,272,0.09913,0.25,av,av93693336,2025-07-29T03:30:19.070Z,"102 km N of Karluk, Alaska",earthquake,0.93,1.18,0.26233852342576,13,reviewed,av,av
 2025-07-28T21:49:50.207Z,42.5225,-111.2444,5,3,ml,61,50,0.265,0.47,us,us6000qvsb,2025-07-29T04:47:50.534Z,"11 km ENE of Georgetown, Idaho",earthquake,1.34,1.868,0.032,132,reviewed,us,us
@@ -197,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T21:01:13.560Z,59.9898,-147.9168,60.6,1.8,ml,,,,1,ak,ak0259lztvoc,2025-07-28T21:03:45.252Z,"10 km SSE of Chenega, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-28T21:00:56.780Z,51.888333333333,-176.646,0.26,0.37,ml,8,153,0.09609,0.08,av,av93693231,2025-07-29T03:22:26.710Z,"1 km NNW of Adak, Alaska",earthquake,0.39,0.53,0.38594637783063,8,reviewed,av,av
 2025-07-28T20:55:23.740Z,11.1548,-86.7883,49.85,4.9,mb,75,148,1.121,0.72,us,us6000qvrw,2025-07-29T13:52:35.040Z,"76 km SSW of Masachapa, Nicaragua",earthquake,6.46,8.182,0.025,496,reviewed,us,us
-2025-07-28T20:52:20.000Z,32.7793333,-116.602,12.3,1.35,ml,45,43,0.07506,0.17,ci,ci41034871,2025-07-28T21:03:08.440Z,"8 km SW of Pine Valley, CA",earthquake,0.16,0.41,0.264,32,automatic,ci,ci
+2025-07-28T20:52:20.000Z,32.7793333,-116.602,12.3,1.35,ml,45,43,0.07506,0.17,ci,ci41034871,2025-07-29T15:58:11.345Z,"8 km SW of Pine Valley, CA",earthquake,0.16,0.41,0.264,32,reviewed,ci,ci
 2025-07-28T20:51:53.848Z,-32.1402,-70.0627,122.918,4.1,mb,32,94,0.746,0.66,us,us6000qvrv,2025-07-29T14:19:16.040Z,"91 km NNE of Los Andes, Chile",earthquake,5.43,6.521,0.197,7,reviewed,us,us
 2025-07-28T20:51:49.335Z,52.8985,161.0604,10,4.1,mb,24,204,1.463,0.47,us,us6000qvxr,2025-07-29T14:15:50.040Z,"164 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,15.66,2.001,0.127,17,reviewed,us,us
 2025-07-28T20:50:18.059Z,36.728,-116.3033,8.1,0,ml,15,87.45,0.016,0.0849,nn,nn00901331,2025-07-29T00:24:01.977Z,"45 km ESE of Beatty, Nevada",earthquake,,1.3,0.15,3,reviewed,nn,nn
@@ -265,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T16:09:27.864Z,28.836,-98.958,7.257,1.9,ml,19,87,0.1,0.3,tx,tx2025otbems,2025-07-29T09:04:15.703Z,"14 km ESE of Pearsall, Texas",earthquake,2.8114001084095,0.84328353378124,0.2,14,reviewed,tx,tx
 2025-07-28T16:07:23.610Z,38.822666168213,-122.85216522217,2.4800000190735,0.29,md,8,176,0.01339,0.01,nc,nc75216212,2025-07-28T16:09:01.998Z,"10 km NW of The Geysers, CA",earthquake,0.48,1.45000005,0.18,9,automatic,nc,nc
 2025-07-28T16:03:48.140Z,37.315833333333,-121.67916666667,8.49,0.94,md,21,42,0.03892,0.06,nc,nc75216207,2025-07-28T18:26:46.560Z,"14 km SE of Alum Rock, CA",earthquake,0.23,0.39,0.212,17,reviewed,nc,nc
-2025-07-28T15:58:33.363Z,62.2607,-149.6562,57.5,1.2,ml,,,,0.29,ak,ak0259lwlje0,2025-07-28T15:59:48.935Z,"15 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2025-07-28T15:58:10.934Z,31.709,-104.158,7.8815,1.8,ml,29,51,0,0.1,tx,tx2025otaulr,2025-07-28T19:14:30.189Z,"52 km W of Mentone, Texas",earthquake,0.43710063396485,0.57640856849569,0.1,16,reviewed,tx,tx
-2025-07-28T15:48:33.279Z,31.714,-104.174,6.1639,1.3,ml,28,54,0,0.1,tx,tx2025otamlq,2025-07-28T20:14:30.684Z,"54 km W of Mentone, Texas",earthquake,0.50429143481266,0.5990335012787,0.2,18,reviewed,tx,tx
