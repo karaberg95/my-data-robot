@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T02:47:51.020Z,37.788501739502,-122.09283447266,10.439999580383,2.01,md,57,55,0.0552,0.11,nc,nc75217732,2025-08-01T02:57:40.944Z,"6 km SSE of Moraga, CA",earthquake,0.16,0.360000014,0.13,41,automatic,nc,nc
 2025-08-01T02:40:59.780Z,46.859333333333,-121.75766666667,-0.93,0.48,ml,15,79,0.02086,0.06,uw,uw62155357,2025-08-01T04:18:04.330Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.74,0.19558242009107,9,reviewed,uw,uw
 2025-08-01T02:39:15.237Z,50.4465,157.8336,43.568,4.6,mb,51,137,2.63,0.79,us,us6000qx6p,2025-08-01T02:55:12.040Z,"123 km ESE of Severo-Kuril’sk, Russia",earthquake,11.12,7.305,0.05,121,reviewed,us,us
-2025-08-01T02:25:45.322Z,39.2285,-120.0842,6.1,0.7,ml,11,66.67,0.038,0.146,nn,nn00901845,2025-08-01T02:27:47.261Z,"0 km NW of Carnelian Bay, California",earthquake,,0.5,0.34,9,automatic,nn,nn
+2025-08-01T02:25:45.812Z,39.2271,-120.0828,7.5,0.8,ml,13,64.27,0.039,0.1406,nn,nn00901845,2025-08-01T17:55:23.436Z,"0 km WNW of Carnelian Bay, California",earthquake,,1,0.28,8,reviewed,nn,nn
 2025-08-01T02:09:02.507Z,32.103,-102.119,7.8369,0.7,ml,25,73,0,0.2,tx,tx2025oziftc,2025-08-01T14:55:11.997Z,"12 km NNW of Midland, Texas",earthquake,0.56050032150215,0.76044965625599,0.2,13,reviewed,tx,tx
 2025-08-01T02:05:26.978Z,51.7464,158.3351,67.277,4.3,mb,44,124,1.293,0.68,us,us6000qx6k,2025-08-01T03:40:04.040Z,"130 km ENE of Ozernovskiy, Russia",earthquake,9.75,7.372,0.091,35,reviewed,us,us
 2025-08-01T02:04:48.820Z,39.244834899902,-123.19916534424,5.6300001144409,1.77,md,13,63,0.08828,0.06,nc,nc75217707,2025-08-01T02:06:24.441Z,"2 km S of Redwood Valley, CA",earthquake,0.28,1.25,0.08,11,automatic,nc,nc
@@ -314,5 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T18:10:07.715Z,52.3184,160.2984,10,4.9,mb,85,122,1.227,0.71,us,us6000qx0d,2025-07-31T18:35:51.040Z,"140 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.98,1.878,0.044,160,reviewed,us,us
 2025-07-31T18:08:27.460Z,32.9935,-116.3941667,10.44,1.05,ml,41,46,0.02568,0.21,ci,ci41249664,2025-08-01T17:11:31.180Z,"22 km ESE of Julian, CA",earthquake,0.21,0.4,0.136,21,reviewed,ci,ci
 2025-07-31T18:07:25.994Z,51.3809,159.5177,10,4.4,mb,40,158,1.73,0.96,us,us6000qx0c,2025-07-31T20:26:08.040Z,"188 km SSE of Vilyuchinsk, Russia",earthquake,9.43,1.934,0.069,60,reviewed,us,us
-2025-07-31T17:52:50.617Z,51.6668,159.6227,10,5.1,mb,89,133,1.484,0.7,us,us6000qx06,2025-07-31T18:10:00.040Z,"163 km SSE of Vilyuchinsk, Russia",earthquake,9.84,1.875,0.039,217,reviewed,us,us
-2025-07-31T17:51:31.649Z,51.7854,158.7971,10,4,mb,28,134,1.243,1.06,us,us6000qx07,2025-08-01T17:38:14.040Z,"130 km SSE of Vilyuchinsk, Russia",earthquake,10.01,1.937,0.119,19,reviewed,us,us
