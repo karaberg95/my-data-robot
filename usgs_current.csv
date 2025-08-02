@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-02T08:40:13.460Z,33.1021667,-116.5178333,11.03,0.57,ml,36,43,0.07018,0.16,ci,ci41251296,2025-08-02T08:43:50.317Z,"8 km ENE of Julian, CA",earthquake,0.2,0.44,0.075,8,automatic,ci,ci
+2025-08-02T08:35:00.930Z,38.822166442871,-122.7628326416,1.8899999856949,0.54,md,10,124,0.009967,0.01,nc,nc75218217,2025-08-02T08:36:39.157Z,"3 km WNW of Cobb, CA",earthquake,0.36,0.460000008,0.25,11,automatic,nc,nc
 2025-08-02T08:27:52.340Z,45.675666809082,-122.83616638184,20.559999465942,1.7753213047981,ml,57,46,,0.159999996,uw,uw62164316,2025-08-02T08:30:48.220Z,"9 km SSE of Scappoose, Oregon",earthquake,0.32,1.15999997,0.29156842827797,33,automatic,uw,uw
 2025-08-02T08:23:02.740Z,38.759834289551,-122.72383117676,2.2699999809265,0.8,md,7,180,0.001932,0.03,nc,nc75218212,2025-08-02T08:24:38.982Z,"3 km WSW of Anderson Springs, CA",earthquake,0.81,1.02999997,0.27,8,automatic,nc,nc
 2025-08-02T08:06:46.922Z,39.1591,-119.0576,0.8,1.5,ml,17,76.13,0.225,0.1328,nn,nn00901951,2025-08-02T08:09:28.674Z,"21 km NNE of Yerington, Nevada",earthquake,,18.9,0.24,10,automatic,nn,nn
@@ -8,6 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T07:48:32.946Z,31.597,-104.335,3.96,1.6,ml,32,82,0.1,0.5,tx,tx2025pbpffu,2025-08-02T08:00:53.337Z,"60 km WNW of Toyah, Texas",earthquake,0,1.0772715806961,0.2,23,automatic,tx,tx
 2025-08-02T07:47:40.090Z,34.4656667,-117.9625,8.92,0.79,ml,14,56,0.01768,0.09,ci,ci41251272,2025-08-02T07:51:05.182Z,"6 km SSE of Littlerock, CA",earthquake,0.2,0.37,0.423,22,automatic,ci,ci
 2025-08-02T07:44:34.530Z,33.2676667,-116.4143333,5.03,0.51,ml,36,77,0.002427,0.18,ci,ci41251264,2025-08-02T07:48:00.676Z,"4 km WNW of Borrego Springs, CA",earthquake,0.18,0.31,0.184,12,automatic,ci,ci
+2025-08-02T07:42:28.142Z,51.8032,160.1922,18.265,4.5,mb,36,126,1.545,0.89,us,us6000qxlq,2025-08-02T08:38:57.040Z,"174 km SE of Vilyuchinsk, Russia",earthquake,9.27,5.059,0.115,22,reviewed,us,us
+2025-08-02T07:37:47.424Z,51.9613,161.337,10,4.6,mb,122,119,1.957,0.57,us,us6000qxln,2025-08-02T08:37:46.040Z,"221 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.33,1.878,0.054,104,reviewed,us,us
+2025-08-02T07:34:51.234Z,52.8103,159.8208,46.989,4.2,mb,27,119,0.74,0.78,us,us6000qxlm,2025-08-02T08:31:12.040Z,"85 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.89,7.068,0.124,18,reviewed,us,us
 2025-08-02T06:58:47.925Z,60.3601,-141.3052,9.9,1.5,ml,,,,0.54,ak,ak0259u0xejc,2025-08-02T07:00:55.462Z,"126 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-02T06:57:28.922Z,60.6047,-147.024,21.6,1.8,ml,,,,0.75,ak,ak0259u0x5cs,2025-08-02T06:59:38.698Z,"34 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-02T06:57:23.340Z,38.814498901367,-122.81983184815,2.7300000190735,1.31,md,26,51,0.009216,0.03,nc,nc75218197,2025-08-02T06:58:57.438Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.430000007,0.07,26,automatic,nc,nc
@@ -268,9 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T08:57:34.038Z,61.8884,-149.9603,30.3,0.9,ml,,,,0.27,ak,ak0259sekogr,2025-08-01T08:59:27.571Z,"16 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-01T08:57:05.160Z,38.841999053955,-122.80216979981,2.6600000858307,0.74,md,7,213,0.009907,0.03,nc,nc75217827,2025-08-01T08:58:40.802Z,"7 km WNW of Cobb, CA",earthquake,1.15,1.80999994,0.32,8,automatic,nc,nc
 2025-08-01T08:55:16.026Z,52.7028,160.0398,37.048,4.3,mb,56,107,0.902,0.75,us,us6000qx8r,2025-08-02T05:00:00.040Z,"103 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.71,7.452,0.055,93,reviewed,us,us
-2025-08-01T08:44:57.873Z,51.9845,158.9609,58.67,4.7,mb,58,134,1.058,0.89,us,us6000qx8q,2025-08-01T09:11:36.040Z,"111 km SSE of Vilyuchinsk, Russia",earthquake,9.28,4.066,0.04,187,reviewed,us,us
-2025-08-01T08:40:56.920Z,37.319833333333,-113.82216666667,4.89,1.42,ml,13,74,0.1444,0.23,uu,uu80004308,2025-08-02T02:05:45.293Z,"11 km W of Veyo, Utah",earthquake,0.8,2.13,0.083609073123411,4,reviewed,uu,uu
-2025-08-01T08:34:26.273Z,52.8679,160.0266,35,5.7,mww,113,70,0.847,1.11,us,us6000qx8k,2025-08-01T11:02:22.336Z,"96 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.7,1.885,0.068,21,reviewed,us,us
-2025-08-01T08:34:22.540Z,36.0793333,-117.3685,1.24,1.28,ml,27,94,0.09993,0.14,ci,ci41250392,2025-08-01T22:48:42.307Z,"35 km N of Searles Valley, CA",earthquake,0.24,0.38,0.131,20,reviewed,ci,ci
-2025-08-01T08:33:58.970Z,40.467333333333,-111.941,7.47,0.53,md,16,77,0.01571,0.14,uu,uu80113031,2025-08-01T14:54:10.240Z,"2 km S of Bluffdale, Utah",earthquake,0.37,0.81,0.2403319833788,7,reviewed,uu,uu
-2025-08-01T08:31:53.124Z,51.0673,158.7145,10,5.2,mb,103,90,1.959,1.6,us,us6000qx8j,2025-08-01T09:00:55.040Z,"161 km ESE of Ozernovskiy, Russia",earthquake,8.96,1.78,0.023,599,reviewed,us,us
