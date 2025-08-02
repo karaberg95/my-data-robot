@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-02T20:49:43.190Z,36.569999694824,-121.15682983398,7.8699998855591,1.36,md,8,131,0.02306,0.08,nc,nc75218462,2025-08-02T20:51:19.805Z,"4 km  of Pinnacles, CA",earthquake,0.52,1.03999996,0.23,8,automatic,nc,nc
+2025-08-02T20:49:40.240Z,38.782665252685,-122.74433135986,0.43000000715256,1.02,md,11,78,0.005972,0.03,nc,nc75218457,2025-08-02T20:51:15.074Z,"1 km ENE of The Geysers, CA",earthquake,0.27,0.50999999,0.1,11,automatic,nc,nc
 2025-08-02T20:43:04.681Z,61.1318,-151.0517,59.6,1.4,ml,,,,0.2,ak,ak0259u965xg,2025-08-02T20:44:11.480Z,"1 km ESE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-08-02T20:42:07.900Z,36.0096667,-117.3933333,3.52,0.81,ml,23,81,0.09132,0.17,ci,ci41251648,2025-08-02T20:45:34.343Z,"27 km N of Searles Valley, CA",earthquake,0.24,0.67,0.24,11,automatic,ci,ci
 2025-08-02T20:35:23.310Z,38.844333648682,-122.81600189209,8.1800003051758,0.46,md,12,82,0.0118,0.05,nc,nc75218452,2025-08-02T20:37:00.040Z,"8 km WNW of Cobb, CA",earthquake,0.87,3.71000004,0.24,11,automatic,nc,nc
@@ -250,6 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T21:24:20.082Z,62.2773,-148.315,39,0.8,ml,,,,0.51,ak,ak0259sm47mg,2025-08-01T21:26:31.283Z,"54 km N of Chickaloon, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-01T21:18:20.296Z,43.2324,146.3549,78.072,4.7,mb,76,125,2.655,0.75,us,us6000qxiv,2025-08-01T22:06:35.040Z,"64 km E of Nemuro, Japan",earthquake,7.85,6.712,0.046,145,reviewed,us,us
 2025-08-01T21:03:34.893Z,36.0682,70.0528,122.578,5,mww,96,47,1.722,0.97,us,us6000qxit,2025-08-02T19:40:22.064Z,"58 km SSE of Farkhār, Afghanistan",earthquake,6.09,6.144,0.071,19,reviewed,us,us
-2025-08-01T20:58:39.140Z,58.1695,-155.3565,1.43,-0.33,ml,8,126,0.04355,0.06,av,av93047729,2025-08-02T02:18:21.130Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.47,0.17330306440682,8,reviewed,av,av
-2025-08-01T20:58:31.360Z,58.1685,-155.35366666667,1.36,-0.45,ml,9,75,0.04402,0.07,av,av93698673,2025-08-02T02:13:35.630Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.48,0.16607442363236,9,reviewed,av,av
-2025-08-01T20:53:21.317Z,63.4442,-149.5731,95.6,1.6,ml,,,,0.17,ak,ak0259slozvn,2025-08-01T20:55:57.349Z,"31 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
