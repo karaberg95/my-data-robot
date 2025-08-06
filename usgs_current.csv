@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-06T05:51:33.160Z,40.286666870117,-124.49749755859,7.4499998092651,2.86,md,28,263,0.1185,0.16,nc,nc75219877,2025-08-06T05:57:17.088Z,"19 km W of Petrolia, CA",earthquake,2.41,1.13999999,0.12,27,automatic,nc,nc
+2025-08-06T05:48:28.245Z,31.435,-103.745,7.0097,1.9,ml,21,61,0.1,0.4,tx,tx2025piudgv,2025-08-06T05:54:04.848Z,"14 km NNE of Toyah, Texas",earthquake,0,1.9087467193604,0.2,13,automatic,tx,tx
+2025-08-06T05:44:57.682Z,32.402,-101.923,4.3961,1.4,ml,41,41,0,0.5,tx,tx2025piuagj,2025-08-06T05:50:16.559Z,"23 km SW of Ackerly, Texas",earthquake,0,0.80435824394226,0.2,28,automatic,tx,tx
+2025-08-06T05:17:51.909Z,51.5556,159.3552,27.931,4.8,mb,64,123,1.533,1.04,us,us6000qygq,2025-08-06T05:44:56.040Z,"166 km SSE of Vilyuchinsk, Russia",earthquake,8.97,4.787,0.054,105,reviewed,us,us
 2025-08-06T05:07:31.717Z,31.634,-104.295,4.0617,1.5,ml,26,70,0,0.4,tx,tx2025pistrm,2025-08-06T05:09:49.342Z,"59 km NW of Toyah, Texas",earthquake,0,1.1289695501328,0.1,19,automatic,tx,tx
 2025-08-06T05:01:27.407Z,49.9415,158.8341,10,5.2,mww,82,82,3.088,0.87,us,us6000qygj,2025-08-06T05:18:11.040Z,"209 km ESE of Severo-Kuril’sk, Russia",earthquake,8.31,1.842,0.098,10,reviewed,us,us
 2025-08-06T04:45:49.200Z,17.945,-66.913333333333,10.68,3.18,md,33,194,0.02742,0.22,pr,pr71491688,2025-08-06T05:12:53.730Z,"3 km S of Guánica, Puerto Rico",earthquake,0.48,0.32,0.042899031448184,12,reviewed,pr,pr
@@ -45,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T23:47:49.300Z,60.485833333333,-152.76783333333,0.03,0.26,ml,7,89,0.03422,0.08,av,av93703943,2025-08-06T03:11:10.700Z,"77 km NW of Ninilchik, Alaska",earthquake,0.24,0.45,0.73993344420816,2,reviewed,av,av
 2025-08-05T23:46:33.600Z,52.076333333333,-176.13616666667,5.33,-0.46,ml,5,125,0.02112,0.31,av,av93703948,2025-08-06T03:06:39.370Z,"40 km ENE of Adak, Alaska",earthquake,1,1.85,0.1932458002208,5,reviewed,av,av
 2025-08-05T23:46:13.581Z,63.2792,-151.1033,0,1.7,ml,,,,0.78,ak,ak0259z9l626,2025-08-05T23:48:23.707Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-05T23:45:29.530Z,46.7905,-121.96983333333,8.02,-0.18,md,15,135,0.03827,0.07,uw,uw61504758,2025-08-06T05:44:57.760Z,"5 km NE of Ashford, Washington",earthquake,0.28,0.47,0.1606781373073,13,reviewed,uw,uw
 2025-08-05T23:45:15.820Z,46.790833333333,-121.96966666667,7.91,0.57,ml,18,134,0.03813,0.07,uw,uw62166556,2025-08-06T05:38:00.910Z,"5 km NE of Ashford, Washington",earthquake,0.29,0.45,0.13131358705185,9,reviewed,uw,uw
 2025-08-05T23:31:19.912Z,-8.7654,-80.3006,10,4.4,mb,21,117,4.672,0.82,us,us6000qyfe,2025-08-06T03:05:58.040Z,"147 km SW of Santiago de Cao, Peru",earthquake,9.18,1.935,0.161,11,reviewed,us,us
 2025-08-05T23:28:28.031Z,52.013,159.8245,35,4.2,mb,23,162,1.241,0.64,us,us6000qyff,2025-08-06T02:30:54.040Z,"140 km SE of Vilyuchinsk, Russia",earthquake,7.23,1.907,0.115,21,reviewed,us,us
@@ -89,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T19:49:33.575Z,61.958,-149.491,12.2,1.1,ml,,,,1.07,ak,ak0259z784bx,2025-08-05T19:51:24.927Z,"27 km NNW of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-05T19:31:04.474Z,-18.3187,-177.9345,531.257,4.4,mb,36,174,3.158,0.93,us,us6000qye7,2025-08-05T20:17:35.040Z,"292 km E of Levuka, Fiji",earthquake,20.09,10.45,0.098,30,reviewed,us,us
 2025-08-05T19:22:55.250Z,36.490333557129,-121.05982971191,8.0100002288818,1.82,md,21,126,0.03501,0.07,nc,nc75219692,2025-08-05T19:24:31.177Z,"9 km SE of Pinnacles, CA",earthquake,0.47,0.839999974,0.25,23,automatic,nc,nc
+2025-08-05T19:17:18.590Z,46.860333333333,-121.77166666667,0.62,0.43,ml,18,77,0.01742,0.08,uw,uw62166406,2025-08-06T05:54:15.170Z,"22 km ENE of Ashford, Washington",earthquake,0.22,0.54,0.28280224211914,10,reviewed,uw,uw
 2025-08-05T19:08:26.489Z,36.53366667,-97.719,9.66,1.84,ml,76,38,0.1367731604,0.21,ok,ok2025pgco,2025-08-05T19:20:31.064Z,"6 km WSW of Hunter, Oklahoma",earthquake,,1.4,0.24,32,reviewed,ok,ok
 2025-08-05T19:06:44.120Z,35.0513333,-118.3216667,0.28,1.51,ml,54,35,0.06275,0.24,ci,ci41253896,2025-08-05T19:17:01.120Z,"13 km W of Mojave, CA",earthquake,0.25,0.66,0.125,28,automatic,ci,ci
 2025-08-05T19:04:19.730Z,38.8205,-122.84233333333,2.16,0.27,md,19,87,0.006275,0.03,nc,nc75219682,2025-08-06T00:41:58.723Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.42,0.19,18,reviewed,nc,nc
