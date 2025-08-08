@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-08T22:43:27.314Z,31.207,-103.472,11.2184,1.6,ml,5,125,0.1,0.2,tx,tx2025pntfqx,2025-08-08T22:47:41.498Z,"19 km SSE of Lindsay, Texas",earthquake,0,7.0219883918762,0.3,5,automatic,tx,tx
 2025-08-08T22:33:39.700Z,38.830501556396,-122.81449890137,1.6399999856949,1.05,md,13,62,0.01765,0.02,nc,nc75220887,2025-08-08T22:35:18.043Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.600000024,0.18,12,automatic,nc,nc
-2025-08-08T22:18:32.328Z,9.5103,40.1191,10,4.6,mb,42,256,3.35,0.95,us,us6000qz8q,2025-08-08T22:47:19.734Z,"54 km SE of Debre Sīna, Ethiopia",earthquake,12.44,1.995,0.083,43,reviewed,us,us
+2025-08-08T22:18:32.328Z,9.5103,40.1191,10,4.6,mb,42,256,3.35,0.95,us,us6000qz8q,2025-08-08T22:55:34.758Z,"54 km SE of Debre Sīna, Ethiopia",earthquake,12.44,1.995,0.083,43,reviewed,us,us
 2025-08-08T22:11:33.840Z,34.0621667,-117.2523333,13.25,1.13,ml,46,33,0.1192,0.18,ci,ci41256824,2025-08-08T22:15:29.213Z,"2 km NNE of Loma Linda, CA",earthquake,0.18,0.44,0.247,31,automatic,ci,ci
 2025-08-08T21:54:32.590Z,38.724666595459,-122.9178314209,7.0500001907349,1.07,md,7,164,0.08719,0.05,nc,nc75220877,2025-08-08T21:56:07.753Z,"12 km SSE of Cloverdale, CA",earthquake,2.88,1.96000004,0.26,7,automatic,nc,nc
 2025-08-08T21:45:49.250Z,36.0255,-117.7718333,1.13,0.84,ml,17,51,0.005336,0.13,ci,ci41256816,2025-08-08T21:52:22.056Z,"16 km NE of Little Lake, CA",earthquake,0.18,0.2,0.086,14,automatic,ci,ci
@@ -267,6 +267,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T00:00:45.504Z,61.4267,-147.4499,24,1.6,ml,,,,0.59,ak,ak025a3u8g5i,2025-08-08T00:02:35.267Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-07T23:55:15.991Z,32.409,-101.922,7.8369,1.2,ml,35,66,0,0.1,tx,tx2025plzwrh,2025-08-08T08:30:10.705Z,"23 km SW of Ackerly, Texas",earthquake,0.27238958165354,0.51978178729021,0.1,19,reviewed,tx,tx
 2025-08-07T23:45:24.953Z,60.031,-151.4377,40.3,4,ml,,,,0.77,ak,ak025a2kno5b,2025-08-08T16:35:14.505Z,"13 km E of Ninilchik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-08-07T23:44:12.760Z,38.813331604004,-122.77400207519,0.34000000357628,0.72,md,8,128,0.005221,0.01,nc,nc75220602,2025-08-07T23:45:50.119Z,"4 km  of The Geysers, CA",earthquake,0.37,0.870000005,0.15,9,automatic,nc,nc
 2025-08-07T23:23:41.645Z,61.4349,-147.5362,32.1,2.9,ml,,,,0.31,ak,ak025a2kizqs,2025-08-07T23:25:06.274Z,"42 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-07T23:19:56.650Z,38.835166931152,-122.79399871826,2.2300000190735,0.77,md,8,91,0.004316,0.02,nc,nc75220597,2025-08-07T23:21:35.577Z,"6 km WNW of Cobb, CA",earthquake,0.56,1.75,0.17,10,automatic,nc,nc
 2025-08-07T23:09:22.563Z,32.127,-102.209,7.7393,2.1,ml,46,51,0,0.1,tx,tx2025plyjcy,2025-08-08T03:08:09.770Z,"18 km NW of Midland, Texas",earthquake,0.42596553884198,1.3382614439594,0.1,25,reviewed,tx,tx
@@ -275,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T23:01:46.950Z,17.959,-66.814,17.94,1.81,md,5,211,0.06413,0.02,pr,pr71492008,2025-08-07T23:41:13.030Z,"3 km S of Indios, Puerto Rico",earthquake,1.1,0.41,0.074636449825425,4,reviewed,pr,pr
 2025-08-07T22:57:42.719Z,54.4629,-159.9359,32.384,3.6,ml,12,228,0.42,0.75,us,us6000qyzk,2025-08-08T06:55:35.241Z,"103 km SSE of Sand Point, Alaska",earthquake,10.13,13.144,0.074,24,reviewed,us,us
 2025-08-07T22:56:35.650Z,36.0236667,-117.7795,1.88,1.86,ml,33,50,0.01165,0.16,ci,ci41255952,2025-08-07T23:38:13.283Z,"15 km NE of Little Lake, CA",earthquake,0.14,0.15,0.189,26,reviewed,ci,ci
-2025-08-07T22:52:43.590Z,36.029,-117.778,2.2,1.26,ml,5,213,0.011,0.05,ci,ci37738236,2025-08-08T17:26:02.152Z,"15 km E of Coso Junction, CA",earthquake,0.25,0.31,0.052,6,reviewed,ci,ci
-2025-08-07T22:52:32.370Z,36.022,-117.7766667,2.33,1.97,ml,29,41,0.009786,0.11,ci,ci41255944,2025-08-08T17:20:33.124Z,"15 km NE of Little Lake, CA",earthquake,0.12,0.1,0.146,25,reviewed,ci,ci
