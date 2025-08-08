@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T19:14:47.160Z,38.750999450684,-122.68516540527,-0.80000001192093,1,md,7,93,0.04645,0.17,nc,nc75220817,2025-08-08T19:16:22.389Z,"3 km S of Anderson Springs, CA",earthquake,0.63,4.28999996,0.09,9,automatic,nc,nc
 2025-08-08T19:10:23.361Z,62.3879,-151.8251,96.9,1.2,ml,,,,0.63,ak,ak025a45ls3k,2025-08-08T19:12:28.719Z,"49 km NNW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-08T19:06:18.600Z,33.9503333,-116.9498333,16.64,1.7,ml,80,22,0.03856,0.17,ci,ci41256648,2025-08-08T19:17:28.140Z,"3 km NE of Beaumont, CA",earthquake,0.12,0.38,0.229,28,automatic,ci,ci
+2025-08-08T19:04:07.660Z,37.431,-113.14566666667,6.2,2.01,ml,15,84,0.07649,0.15,uu,uu80113501,2025-08-08T19:44:37.350Z,"12 km SSE of Kanarraville, Utah",earthquake,0.34,0.98,0.11245129226064,9,reviewed,uu,uu
 2025-08-08T19:02:52.550Z,38.787334442139,-122.74516296387,1.6599999666214,0.92,md,14,85,0.007761,0.02,nc,nc75220812,2025-08-08T19:04:28.311Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.519999981,0.21,16,automatic,nc,nc
 2025-08-08T19:01:38.860Z,33.8708344,-117.519165,-0.3,1.16,ml,18,85,0.08153,0.3,ci,ci41256640,2025-08-08T19:03:41.372Z,"1 km S of Home Gardens, CA",earthquake,0.66,1.34,0.453,11,automatic,ci,ci
 2025-08-08T19:00:45.390Z,34.609333,-118.5988312,2.92,1.58,ml,24,86,0.1842,0.4,ci,ci41256632,2025-08-08T19:04:08.211Z,"14 km N of Castaic, CA",earthquake,0.78,3.37,0.335,28,automatic,ci,ci
@@ -90,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T11:10:48.940Z,60.843,-150.9852,48.2,1.6,ml,,,,0.38,ak,ak025a40ud8e,2025-08-08T11:12:36.927Z,"18 km WSW of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-08T11:07:51.992Z,31.54,-104.019,7.7533,1.9,ml,36,89,0,0.1,tx,tx2025pmwdgc,2025-08-08T11:56:25.234Z,"32 km NW of Toyah, Texas",earthquake,0.64347389699173,0.50257681571946,0.1,19,reviewed,tx,tx
 2025-08-08T11:03:19.307Z,32.411,-101.92,8.1787,0.7,ml,18,74,0,0.2,tx,tx2025pmwait,2025-08-08T12:52:52.558Z,"23 km SW of Ackerly, Texas",earthquake,0.4741788638786,1.5022629208113,0.2,14,reviewed,tx,tx
+2025-08-08T10:48:42.316Z,31.611,-103.944,8.1506,1.3,ml,31,71,0,0.1,tx,tx2025pmvntl,2025-08-08T19:46:10.084Z,"34 km WSW of Mentone, Texas",earthquake,0.49515057898457,0.43699146254753,0.2,27,reviewed,tx,tx
 2025-08-08T10:38:45.380Z,35.72,-117.5615,3.71,0.72,ml,23,58,0.09992,0.17,ci,ci41256272,2025-08-08T16:44:31.650Z,"15 km NE of Ridgecrest, CA",earthquake,0.26,0.74,0.261,13,reviewed,ci,ci
 2025-08-08T10:29:19.994Z,36.4616,141.6041,35.711,4.7,mb,86,121,2.737,0.55,us,us6000qz2l,2025-08-08T13:41:02.225Z,"84 km ESE of Takahagi, Japan",earthquake,7.49,6.97,0.069,65,reviewed,us,us
 2025-08-08T10:22:15.750Z,35.037,-97.839,7.85,1.32,ml,77,55,0.09718092979,0.35,ok,ok2025pkxs,2025-08-08T14:46:37.841Z,"9 km E of Chickasha, Oklahoma",earthquake,,0.8,0.24,30,reviewed,ok,ok
@@ -109,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T09:18:32.590Z,33.2446671,-116.3909988,12.18,1.16,ml,41,45,0.03211,0.22,ci,ci41256224,2025-08-08T09:20:38.076Z,"2 km SW of Borrego Springs, CA",earthquake,0.33,0.9,0.338,7,automatic,ci,ci
 2025-08-08T09:18:27.030Z,38.775165557861,-122.7576675415,1.2599999904633,0.38,md,6,174,0.01825,0.02,nc,nc75220687,2025-08-08T09:20:02.817Z,"0 km SW of The Geysers, CA",earthquake,0.43,0.720000029,0.14,6,automatic,nc,nc
 2025-08-08T09:16:56.383Z,32.407,-101.924,8.96,0.8,ml,16,71,0,0.1,tx,tx2025pmsmrj,2025-08-08T12:32:11.085Z,"23 km SW of Ackerly, Texas",earthquake,0.43542020042356,0.74700387099246,0.1,14,reviewed,tx,tx
-2025-08-08T09:12:02.560Z,33.8831667,-116.9006667,13.31,0.5,ml,27,101,0.09917,0.14,ci,ci41256216,2025-08-08T09:16:02.898Z,"5 km SSW of Banning, CA",earthquake,0.26,0.6,0.107,8,automatic,ci,ci
+2025-08-08T09:12:02.600Z,33.8821667,-116.903,13.25,0.5,ml,28,73,0.1004,0.15,ci,ci41256216,2025-08-08T19:40:22.610Z,"5 km SSW of Banning, CA",earthquake,0.25,0.58,0.111,8,reviewed,ci,ci
 2025-08-08T08:58:06.440Z,38.816833496094,-122.76583099365,1.8899999856949,0.27,md,7,109,0.01214,0.01,nc,nc75220682,2025-08-08T08:59:41.512Z,"4 km W of Cobb, CA",earthquake,0.56,0.779999971,0.06,8,automatic,nc,nc
 2025-08-08T08:51:18.950Z,33.1165,-116.4598333,10.78,0.54,ml,33,52,0.0431,0.2,ci,ci41256208,2025-08-08T08:54:50.578Z,"14 km ENE of Julian, CA",earthquake,0.29,0.45,0.146,7,automatic,ci,ci
 2025-08-08T08:44:14.682Z,31.655,-104.448,6.3049,1.5,ml,36,88,0,0.2,tx,tx2025pmrkml,2025-08-08T11:15:27.552Z,"58 km S of Whites City, New Mexico",earthquake,0.93539741683542,0.5622544245006,0.2,17,reviewed,tx,tx
@@ -178,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T03:24:16.868Z,36.797,-115.7084,4.7,0.4,ml,12,192.87,0.232,0.2623,nn,nn00902297,2025-08-08T03:26:36.343Z,"25 km N of Indian Springs, Nevada",earthquake,,3,0.31,7,automatic,nn,nn
 2025-08-08T03:24:03.166Z,63.4493,-148.4906,7.9,1.4,ml,,,,0.58,ak,ak025a3w5svw,2025-08-08T03:26:31.678Z,"23 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-08T03:09:46.736Z,32.126,-102.208,7.2754,0.6,ml,22,85,0,0.2,tx,tx2025pmgics,2025-08-08T10:22:16.895Z,"18 km NW of Midland, Texas",earthquake,0.89101644433241,0.85019268340609,0.1,13,reviewed,tx,tx
-2025-08-08T03:09:45.676Z,36.7616,-115.588,6.4,1.2,ml,38,93.04,0.198,0.1782,nn,nn00902295,2025-08-08T19:36:27.654Z,"22 km NNE of Indian Springs, Nevada",earthquake,,3.3,0.4,18,reviewed,nn,nn
+2025-08-08T03:09:45.710Z,36.7607,-115.5923,7.2,1.2,ml,37,92.5,0.196,0.1795,nn,nn00902295,2025-08-08T19:42:58.183Z,"22 km NNE of Indian Springs, Nevada",earthquake,,3.1,0.4,18,reviewed,nn,nn
 2025-08-08T03:08:45.168Z,63.2467,-151.4141,2.5,1.4,ml,,,,0.45,ak,ak025a3w2go4,2025-08-08T03:11:13.932Z,"36 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-08T03:04:14.307Z,67.4989,-152.0248,0,1.6,ml,,,,1.13,ak,ak025a3w1jfa,2025-08-08T03:07:17.687Z,"68 km NNW of Evansville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-08T03:02:00.790Z,58.172,-155.3645,0.06,-0.29,ml,9,78,0.04289,0.06,av,av93707653,2025-08-08T19:33:59.020Z,"86 km NW of Karluk, Alaska",earthquake,0.18,1.8,0.095446095611243,10,reviewed,av,av
@@ -224,7 +226,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T00:00:45.504Z,61.4267,-147.4499,24,1.6,ml,,,,0.59,ak,ak025a3u8g5i,2025-08-08T00:02:35.267Z,"43 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-07T23:55:15.991Z,32.409,-101.922,7.8369,1.2,ml,35,66,0,0.1,tx,tx2025plzwrh,2025-08-08T08:30:10.705Z,"23 km SW of Ackerly, Texas",earthquake,0.27238958165354,0.51978178729021,0.1,19,reviewed,tx,tx
 2025-08-07T23:45:24.953Z,60.031,-151.4377,40.3,4,ml,,,,0.77,ak,ak025a2kno5b,2025-08-08T16:35:14.505Z,"13 km E of Ninilchik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2025-08-07T23:44:12.760Z,38.813331604004,-122.77400207519,0.34000000357628,0.72,md,8,128,0.005221,0.01,nc,nc75220602,2025-08-07T23:45:50.119Z,"4 km  of The Geysers, CA",earthquake,0.37,0.870000005,0.15,9,automatic,nc,nc
 2025-08-07T23:23:41.645Z,61.4349,-147.5362,32.1,2.9,ml,,,,0.31,ak,ak025a2kizqs,2025-08-07T23:25:06.274Z,"42 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-07T23:19:56.650Z,38.835166931152,-122.79399871826,2.2300000190735,0.77,md,8,91,0.004316,0.02,nc,nc75220597,2025-08-07T23:21:35.577Z,"6 km WNW of Cobb, CA",earthquake,0.56,1.75,0.17,10,automatic,nc,nc
 2025-08-07T23:09:22.563Z,32.127,-102.209,7.7393,2.1,ml,46,51,0,0.1,tx,tx2025plyjcy,2025-08-08T03:08:09.770Z,"18 km NW of Midland, Texas",earthquake,0.42596553884198,1.3382614439594,0.1,25,reviewed,tx,tx
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T20:14:54.479Z,31.5338,66.9861,10,4.4,mb,39,180,3.478,0.65,us,us6000qyyw,2025-08-07T20:39:24.040Z,"63 km S of Qalāt, Afghanistan",earthquake,11.9,1.961,0.107,25,reviewed,us,us
 2025-08-07T20:01:23.980Z,33.6583333,-116.7576667,15.81,0.76,ml,20,89,0.07074,0.1,ci,ci41255752,2025-08-08T00:26:12.524Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.37,0.143,15,reviewed,ci,ci
 2025-08-07T19:48:10.110Z,37.828498840332,-121.99033355713,16.5,1,md,7,176,0.0588,0.05,nc,nc75220497,2025-08-07T19:49:49.116Z,"1 km ENE of Danville, CA",earthquake,2.37,1.5,0.14,2,automatic,nc,nc
-2025-08-07T19:47:15.230Z,34.0203333,-117.5905,4.91,1.44,ml,41,39,0.01896,0.14,ci,ci41255728,2025-08-08T00:19:59.856Z,"5 km SE of Ontario, CA",earthquake,0.17,0.27,0.109,23,reviewed,ci,ci
-2025-08-07T19:45:50.260Z,38.747501373291,-122.72550201416,1.8099999427795,1.39,md,14,79,0.01408,0.03,nc,nc75220492,2025-08-07T19:47:29.090Z,"4 km SW of Anderson Springs, CA",earthquake,0.28,0.389999986,0.12,14,automatic,nc,nc
