@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-09T10:46:56.050Z,33.9623337,-116.7881699,9.03,1.78,ml,90,49,0.04858,0.18,ci,ci41257136,2025-08-09T10:49:02.171Z,"5 km N of Cabazon, CA",earthquake,0.17,0.43,0.279,25,automatic,ci,ci
+2025-08-09T10:46:56.000Z,33.9638333,-116.788,10.53,1.75,ml,95,17,0.05006,0.16,ci,ci41257136,2025-08-09T10:51:22.581Z,"5 km N of Cabazon, CA",earthquake,0.1,0.21,0.174,25,automatic,ci,ci
 2025-08-09T10:40:19.260Z,33.5395,-116.7175,5.98,0.31,ml,21,76,0.03067,0.14,ci,ci41257128,2025-08-09T10:43:51.235Z,"4 km WSW of Anza, CA",earthquake,0.19,0.41,0.11,8,automatic,ci,ci
 2025-08-09T10:36:13.870Z,31.6893333,-115.9555,7.15,1.23,ml,7,102,0.2073,0.08,ci,ci41257120,2025-08-09T10:39:46.007Z,"58 km E of Maneadero, B.C., MX",earthquake,0.26,1.31,0.358,4,automatic,ci,ci
+2025-08-09T10:34:44.967Z,51.5144,159.6659,10,4.9,mb,67,121,1.635,0.97,us,us6000qzge,2025-08-09T10:52:42.045Z,"179 km SSE of Vilyuchinsk, Russia",earthquake,8.53,1.874,0.045,153,reviewed,us,us
 2025-08-09T10:33:29.390Z,37.299167633057,-117.94899749756,3.8499999046326,1.88,md,9,179,0.2751,0.06,nc,nc75221067,2025-08-09T10:36:28.585Z,"9 km S of Deep Springs, CA",earthquake,0.76,4.57000017,0.13,4,automatic,nc,nc
 2025-08-09T10:26:53.358Z,37.0158,-116.3679,7.9,-0.3,ml,9,90.99,0.036,0.1649,nn,nn00902327,2025-08-09T10:28:42.960Z,"36 km ENE of Beatty, Nevada",earthquake,,1,0.6,6,automatic,nn,nn
 2025-08-09T10:04:29.162Z,48.8919,156.2036,37.544,4.5,mb,45,185,4.326,0.61,us,us6000qzga,2025-08-09T10:23:26.040Z,"198 km S of Severo-Kuril’sk, Russia",earthquake,10.09,8.229,0.077,49,reviewed,us,us
