@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T14:21:48.433Z,58.2871,-154.9575,2.5,1.3,ml,,,,0.66,ak,ak025a5q8ddn,2025-08-09T14:23:52.564Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-09T14:12:56.804Z,60.8265,-144.0217,226,2,ml,,,,0.96,ak,ak025a5q6gkw,2025-08-09T14:16:06.323Z,"80 km SSE of Chitina, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-08-09T14:12:14.863Z,36.3883,-115.6178,8.9,0.8,ml,14,204.62,0.389,0.2611,nn,nn00902331,2025-08-09T14:14:35.436Z,"14 km N of Mount Charleston, Nevada",earthquake,,13.2,0.32,10,automatic,nn,nn
-2025-08-09T14:04:07.066Z,50.0599,159.7681,10,6,mww,88,44,3.049,0.74,us,us6000qzh9,2025-08-09T14:21:14.040Z,"267 km ESE of Severo-Kuril’sk, Russia",earthquake,8.3,1.858,0.036,73,reviewed,us,us
+2025-08-09T14:04:07.066Z,50.0599,159.7681,10,6,mww,88,44,3.049,0.74,us,us6000qzh9,2025-08-09T15:51:08.040Z,"267 km ESE of Severo-Kuril’sk, Russia",earthquake,8.3,1.858,0.036,73,reviewed,us,us
 2025-08-09T13:55:31.659Z,62.8667,-150.742,90.4,1.9,ml,,,,0.29,ak,ak025a5pu6tp,2025-08-09T13:57:23.565Z,"41 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-09T13:54:36.549Z,59.6498,-152.9097,96.8,1.6,ml,,,,0.31,ak,ak025a5ptzhn,2025-08-09T13:57:03.722Z,"62 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-09T13:47:05.464Z,51.0835,157.8227,59.255,4.2,mb,24,128,2.009,0.48,us,us6000qzh7,2025-08-09T14:37:12.040Z,"102 km ESE of Ozernovskiy, Russia",earthquake,11.42,9.041,0.089,35,reviewed,us,us
@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T16:02:38.833Z,50.5215,159.8992,40.064,4.5,mb,33,216,2.623,0.59,us,us6000qz5u,2025-08-08T16:43:02.040Z,"261 km ESE of Ozernovskiy, Russia",earthquake,12.48,9.914,0.057,90,reviewed,us,us
 2025-08-08T16:02:05.540Z,58.174333333333,-155.363,0.22,-0.05,ml,10,80,0.04044,0.09,av,av93708228,2025-08-09T00:03:59.420Z,"86 km NW of Karluk, Alaska",earthquake,0.22,1.76,0.21433757547869,10,reviewed,av,av
 2025-08-08T16:01:24.830Z,38.817832946777,-122.82150268555,2.4800000190735,0.35,md,9,81,0.01077,0.01,nc,nc75220747,2025-08-08T16:03:03.045Z,"7 km NW of The Geysers, CA",earthquake,0.41,1.09000003,0.24,10,automatic,nc,nc
-2025-08-08T15:50:06.430Z,33.776,-116.126,3.58,0.82,ml,26,76,0.08221,0.17,ci,ci41256448,2025-08-08T16:41:35.351Z,"10 km NE of Indio, CA",earthquake,0.2,0.81,0.156,11,reviewed,ci,ci
-2025-08-08T15:46:05.190Z,35.8665,-117.6901667,7.84,0.39,ml,15,85,0.08383,0.12,ci,ci41256440,2025-08-08T16:41:38.110Z,"21 km ESE of Little Lake, CA",earthquake,0.24,0.66,0.074,5,reviewed,ci,ci
