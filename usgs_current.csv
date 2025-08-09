@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T08:14:26.267Z,51.3312,158.0376,60.009,4.4,mb,42,134,1.736,0.66,us,us6000qz23,2025-08-08T08:32:19.040Z,"108 km E of Ozernovskiy, Russia",earthquake,10.85,7.638,0.069,61,reviewed,us,us
 2025-08-08T08:10:15.554Z,31.612,-103.984,6.7279,1.5,ml,43,61,0,0.2,tx,tx2025pmqhft,2025-08-08T12:11:16.375Z,"37 km NNW of Toyah, Texas",earthquake,0.45408275965053,0.41200783949146,0.1,21,reviewed,tx,tx
 2025-08-08T08:00:33.900Z,33.5378333,-116.669,13,0.54,ml,23,45,0.0431,0.11,ci,ci41256192,2025-08-08T19:29:41.430Z,"2 km SSE of Anza, CA",earthquake,0.21,0.37,0.242,15,reviewed,ci,ci
-2025-08-08T07:44:17.330Z,35.383,-118.484,6.86,1.2,ml,38,59,0.1051,0.17,ci,ci41256184,2025-08-08T19:25:46.073Z,"23 km S of Bodfish, CA",earthquake,0.18,0.65,0.236,19,reviewed,ci,ci
