@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-09T22:43:13.268Z,37.5184,-117.8178,1.7,1.4,ml,13,243.37,0.194,0.1839,nn,nn00902354,2025-08-09T22:45:58.351Z,"27 km SE of Dyer, Nevada",earthquake,,2.9,0.46,10,automatic,nn,nn
+2025-08-09T22:36:28.460Z,17.8985,-66.863833333333,16.24,2.11,md,7,236,0.07361,0.12,pr,pr71492333,2025-08-09T23:29:02.730Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.8,0.61,0.093208620759779,5,reviewed,pr,pr
 2025-08-09T22:32:00.580Z,33.704,-116.7521667,15.16,1.26,ml,60,21,0.05226,0.21,ci,ci41257576,2025-08-09T22:36:05.497Z,"5 km SW of Idyllwild, CA",earthquake,0.17,0.37,0.208,27,automatic,ci,ci
 2025-08-09T22:28:28.240Z,34.1711667,-117.274,6.38,1.39,ml,77,27,0.03518,0.19,ci,ci41257568,2025-08-09T22:38:56.300Z,"5 km NNE of San Bernardino, CA",earthquake,0.13,0.38,0.156,26,automatic,ci,ci
 2025-08-09T22:17:08.690Z,34.1435,-117.4205,3.28,1.07,ml,45,50,0.04636,0.21,ci,ci41257552,2025-08-09T22:20:54.399Z,"6 km NE of Fontana, CA",earthquake,0.21,0.48,0.327,5,automatic,ci,ci
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T23:54:14.926Z,62.3336,-149.0886,44.4,2.3,ml,,,,0.79,ak,ak025a488xck,2025-08-08T23:55:54.316Z,"44 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-08T23:51:40.050Z,33.5286667,-116.7231667,5.16,1.81,ml,84,13,0.03849,0.2,ci,ci41256872,2025-08-09T00:02:42.130Z,"5 km WSW of Anza, CA",earthquake,0.12,0.39,0.205,25,automatic,ci,ci
 2025-08-08T23:45:50.520Z,17.995166666667,-66.833666666667,16.43,2.03,md,10,159,0.04,0.08,pr,pr71492188,2025-08-08T23:56:27.640Z,"1 km W of Indios, Puerto Rico",earthquake,0.5,0.69,0.017961967483604,6,reviewed,pr,pr
-2025-08-08T23:33:15.527Z,61.8432,-152.2792,134.3,1.4,ml,,,,0.2,ak,ak025a484fds,2025-08-08T23:35:18.875Z,"49 km WSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-08-08T23:32:29.860Z,38.786666870117,-122.74683380127,1.8099999427795,0.76,md,7,96,0.008611,0.01,nc,nc75220902,2025-08-08T23:34:08.333Z,"1 km NE of The Geysers, CA",earthquake,0.39,0.779999971,0.04,6,automatic,nc,nc
-2025-08-08T23:32:15.550Z,18.288166666667,-66.647666666667,12.78,1.97,md,8,143,0.07738,0.12,pr,pr71492178,2025-08-08T23:42:59.800Z,"6 km ENE of Utuado, Puerto Rico",earthquake,0.38,0.49,0.13135240895064,3,reviewed,pr,pr
