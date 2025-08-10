@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-10T14:37:16.950Z,36.088,-117.8518333,2.57,0.58,ml,17,76,0.02962,0.1,ci,ci41257880,2025-08-10T14:40:42.763Z,"10 km ENE of Coso Junction, CA",earthquake,0.15,0.18,0.161,9,automatic,ci,ci
 2025-08-10T14:30:46.880Z,35.3404541,-97.8870163,4.64659214,1.53,ml,10,124.1104889,0.05506266281,0.3603176968,ok,ok2025powx,2025-08-10T14:35:37.960Z,"6 km ENE of Minco, Oklahoma",earthquake,5.79200231,2.924424467,0.1,8,automatic,ok,ok
 2025-08-10T14:25:10.130Z,38.822834014893,-122.84483337402,2.039999961853,0.73,md,8,87,0.007663,0.01,nc,nc75221417,2025-08-10T14:26:47.000Z,"9 km NW of The Geysers, CA",earthquake,0.5,0.99000001,0.34,8,automatic,nc,nc
 2025-08-10T14:21:27.510Z,33.4696667,-116.4601667,3.53,0.46,ml,21,69,0.1213,0.15,ci,ci41257864,2025-08-10T14:25:34.580Z,"22 km ESE of Anza, CA",earthquake,0.17,0.78,0.092,9,automatic,ci,ci
