@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-10T16:59:26.670Z,33.5155,-116.5625,14.02,0.47,ml,28,48,0.03912,0.14,ci,ci41257960,2025-08-10T17:02:54.905Z,"11 km ESE of Anza, CA",earthquake,0.19,0.38,0.137,12,automatic,ci,ci
 2025-08-10T16:34:02.300Z,33.3431667,-116.2395,10.87,0.82,ml,50,39,0.06172,0.21,ci,ci41257952,2025-08-10T16:37:33.687Z,"16 km NE of Borrego Springs, CA",earthquake,0.18,0.41,0.101,22,automatic,ci,ci
 2025-08-10T16:32:30.190Z,33.467,-116.5246667,9.37,0.64,ml,20,64,0.07044,0.16,ci,ci41257944,2025-08-10T16:36:01.219Z,"17 km SE of Anza, CA",earthquake,0.33,1.1,0.105,16,automatic,ci,ci
 2025-08-10T16:24:55.410Z,61.2967,-152.5134,2.6,1.5,ml,,,,0.39,ak,ak025a7ez8rp,2025-08-10T16:26:58.745Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -186,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T17:14:33.150Z,33.5316667,-118.3081667,22.71,1.85,ml,35,85,0.1573,0.35,ci,ci41257392,2025-08-09T17:18:19.750Z,"21 km N of Avalon, CA",earthquake,0.89,2.32,0.173,33,automatic,ci,ci
 2025-08-09T17:14:10.913Z,39.1265,-119.088,1.6,2,ml,18,97.03,0.184,0.1511,nn,nn00902345,2025-08-09T17:16:28.604Z,"16 km NNE of Yerington, Nevada",earthquake,,4.6,0.22,11,automatic,nn,nn
 2025-08-09T17:08:42.253Z,61.6105,-149.9415,33,1.4,ml,,,,0.63,ak,ak025a5rxvep,2025-08-09T17:10:30.913Z,"6 km WSW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-09T17:05:02.620Z,47.7495,-122.70383333333,20.1,0.56,ml,7,180,0.07739,0.09,uw,uw62168511,2025-08-10T00:31:58.690Z,"3 km NNE of Bangor Trident Base, Washington",earthquake,0.62,0.92,0.094519938943555,4,reviewed,uw,uw
-2025-08-09T17:04:27.275Z,31.543,-104.048,4.3981,1.6,ml,27,76,0,0.5,tx,tx2025ppdsjl,2025-08-09T18:02:04.453Z,"35 km NW of Toyah, Texas",earthquake,0,1.091875910759,0.1,18,automatic,tx,tx
-2025-08-09T17:02:07.120Z,33.0173333,-116.3628333,2.97,1.23,ml,47,67,0.06062,0.21,ci,ci41257384,2025-08-09T17:13:07.390Z,"23 km ESE of Julian, CA",earthquake,0.18,0.3,0.195,8,automatic,ci,ci
