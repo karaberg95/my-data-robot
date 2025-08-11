@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T17:47:37.054Z,31.685,-104.349,6.7407,1.4,ml,16,84,0.1,0.1,tx,tx2025pswpjo,2025-08-11T19:49:51.565Z,"54 km S of Whites City, New Mexico",earthquake,0.82371207146358,0.76682028414356,0.2,26,reviewed,tx,tx
 2025-08-11T17:46:48.475Z,15.1553,-94.1815,35,4.5,mb,44,144,2.265,0.92,us,us6000qzum,2025-08-11T18:32:04.040Z,"96 km SSW of Doctor Belisario Domínguez (La Barra), Mexico",earthquake,4.98,1.963,0.056,95,reviewed,us,us
 2025-08-11T17:43:21.550Z,44.806833333333,-111.51583333333,13.28,0.82,ml,11,104,0.03267,0.14,mb,mb90106858,2025-08-11T22:26:03.230Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.41,0.85,0.2461879002194,8,reviewed,mb,mb
+2025-08-11T17:31:45.513Z,32.066,-103.727,7.1124,1.2,ml,13,66,0,0.1,tx,tx2025pswalh,2025-08-11T23:49:48.538Z,"37 km ESE of Malaga, New Mexico",earthquake,0.44237116391752,0.75080071361384,0.1,11,reviewed,tx,tx
 2025-08-11T17:25:35.078Z,50.2401,156.9271,53.371,5.1,mww,84,88,2.912,0.64,us,us6000qzuk,2025-08-11T17:43:54.040Z,"74 km SE of Severo-Kuril’sk, Russia",earthquake,8.71,6.072,0.089,12,reviewed,us,us
 2025-08-11T17:14:55.670Z,37.282333374023,-121.66066741943,0.37999999523163,1.44,md,8,135,0.02534,0.01,nc,nc75221887,2025-08-11T17:16:32.961Z,"16 km ESE of Seven Trees, CA",earthquake,0.3,0.790000021,0.18,6,automatic,nc,nc
 2025-08-11T17:13:33.468Z,39.0735,28.0839,10,4.4,mwr,30,44,0.917,1.1,us,us6000qzui,2025-08-11T18:04:20.040Z,"20 km SSW of Sındırgı, Turkey",earthquake,3.69,1.808,0.069,20,reviewed,us,us
@@ -248,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T00:24:35.260Z,44.908166666667,-111.4995,5.24,-0.11,ml,5,168,0.09191,0.1,mb,mb90106918,2025-08-11T23:27:44.680Z,"28 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,4.57,0.13889392958323,3,reviewed,mb,mb
 2025-08-11T00:21:32.670Z,35.6591667,-117.4931667,9.88,1.45,ml,40,32,0.05687,0.13,ci,ci41258080,2025-08-11T13:01:50.360Z,"14 km SW of Searles Valley, CA",earthquake,0.13,0.34,0.199,27,reviewed,ci,ci
 2025-08-11T00:16:32.673Z,4.3502,-76.167,156.056,4.7,mww,70,106,1.904,0.95,us,us6000qzq9,2025-08-11T12:08:24.876Z,"2 km NE of Bolívar, Colombia",earthquake,8.17,6.816,0.11,8,reviewed,us,us
-2025-08-10T23:50:28.729Z,63.2045,-150.9276,25.8,1.6,ml,,,,0.87,ak,ak025a7jask8,2025-08-10T23:52:28.072Z,"54 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
