@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-15T23:53:45.870Z,38.802665710449,-122.81600189209,2.9000000953674,1.07,md,14,72,0.01201,0.03,nc,nc75224337,2025-08-15T23:55:24.225Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.75,0.31,15,automatic,nc,nc
+2025-08-15T23:28:06.746Z,27.3133,128.3046,46.462,4.4,mb,27,83,0.476,0.39,us,us6000r1iy,2025-08-15T23:50:12.040Z,"26 km W of China, Japan",earthquake,7.63,3.501,0.134,16,reviewed,us,us
 2025-08-15T23:28:00.890Z,38.8313331604,-122.81400299072,2.0099999904633,1.09,md,16,65,0.0085,0.01,nc,nc75224332,2025-08-15T23:29:38.049Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.550000012,0.19,16,automatic,nc,nc
 2025-08-15T23:26:39.280Z,38.794334411621,-122.78216552734,3.3099999427795,1.08,md,14,78,0.004641,0.03,nc,nc75224322,2025-08-15T23:28:13.301Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.699999988,0.21,15,automatic,nc,nc
 2025-08-15T23:24:22.192Z,62.7355,-150.3644,31.1,1.4,ml,,,,1.05,ak,ak025afstxwr,2025-08-15T23:26:27.916Z,"33 km NE of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T22:13:51.119Z,52.2344,160.5286,10,4.7,mb,37,170,1.391,0.94,us,us6000r1is,2025-08-15T22:41:57.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.22,1.947,0.074,55,reviewed,us,us
 2025-08-15T22:00:50.300Z,61.251,-152.37166666667,4.17,-0.54,ml,7,121,0.008133,0.31,av,av93717633,2025-08-15T23:32:37.850Z,"69 km WNW of Tyonek, Alaska",earthquake,1.77,1.18,0.20182274378501,7,reviewed,av,av
 2025-08-15T21:41:05.500Z,17.913833333333,-67.019833333333,12.79,2.24,md,7,247,0.05997,0.03,pr,pr71492938,2025-08-15T21:50:46.440Z,"7 km SSE of La Parguera, Puerto Rico",earthquake,0.9,0.4,0.070731179704734,5,reviewed,pr,pr
-2025-08-15T21:40:42.710Z,37.782001495361,-122.23867034912,5.9800000190735,2.11,md,37,40,0.04903,0.06,nc,nc75224257,2025-08-15T22:07:17.772Z,"2 km SW of Oakland, CA",earthquake,0.16,0.349999994,0.12,39,automatic,nc,nc
+2025-08-15T21:40:42.710Z,37.782001495361,-122.23867034912,5.9800000190735,2.11,md,37,40,0.04903,0.06,nc,nc75224257,2025-08-15T23:52:17.687Z,"2 km SW of Oakland, CA",earthquake,0.16,0.349999994,0.12,39,automatic,nc,nc
 2025-08-15T21:39:21.210Z,38.82799911499,-122.81883239746,1.3600000143051,1.06,md,14,73,0.008243,0.02,nc,nc75224252,2025-08-15T21:40:59.321Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.460000008,0.27,14,automatic,nc,nc
 2025-08-15T21:33:13.480Z,35.7536667,-117.5778333,8.08,0.87,ml,23,65,0.06397,0.16,ci,ci40399754,2025-08-15T21:39:28.267Z,"16 km W of Searles Valley, CA",earthquake,0.23,0.6,0.24,14,automatic,ci,ci
 2025-08-15T21:31:28.480Z,61.3285,-152.24383333333,-0.56,0.44,ml,11,128,0.06625,0.1,av,av93717613,2025-08-15T23:12:15.840Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,2.49,0.14076327871853,7,reviewed,av,av
@@ -99,7 +101,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T12:08:17.767Z,63.5011,-152.4468,5,2.2,ml,,,,1.22,ak,ak025afm6qgg,2025-08-15T12:10:43.676Z,"36 km W of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-15T12:04:46.850Z,35.0905,-119.0961667,14.8,1.88,ml,41,42,0.2117,0.24,ci,ci41261296,2025-08-15T19:16:14.586Z,"22 km NW of Grapevine, CA",earthquake,0.25,0.61,0.11,18,reviewed,ci,ci
 2025-08-15T12:03:36.817Z,39.4054,-119.8473,9.3,0.7,ml,18,78.87,0.061,0.1444,nn,nn00902629,2025-08-15T20:08:35.086Z,"13 km SSE of Mogul, Nevada",earthquake,,1.1,0.11,7,reviewed,nn,nn
-2025-08-15T12:01:53.870Z,33.7081667,-116.8445,13.32,0.88,ml,45,32,0.06939,0.25,ci,ci41261288,2025-08-15T12:05:26.264Z,"6 km SE of Valle Vista, CA",earthquake,0.24,0.51,0.19,29,automatic,ci,ci
+2025-08-15T12:01:53.720Z,33.709,-116.8401667,16.79,0.85,ml,19,88,0.07309,0.17,ci,ci37739052,2025-08-15T23:57:46.559Z,"6 km SE of Valle Vista, CA",earthquake,0.43,0.89,0.173,26,reviewed,ci,ci
+2025-08-15T12:01:53.370Z,33.714,-116.8365,16.3,0.64,ml,8,157,0.07759,0.04,ci,ci41261288,2025-08-15T23:53:28.529Z,"6 km SE of Valle Vista, CA",earthquake,0.35,0.42,0.165,5,reviewed,ci,ci
 2025-08-15T11:56:47.280Z,44.804,-110.85783333333,10.21,1.87,ml,29,69,0.1147,0.15,uu,uu80113851,2025-08-15T14:20:42.670Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.31,0.65,0.2346677474944,9,reviewed,uu,uu
 2025-08-15T11:55:41.360Z,33.6576667,-116.7165,14.15,0.61,ml,22,57,0.03734,0.17,ci,ci41261280,2025-08-15T17:53:17.796Z,"9 km S of Idyllwild, CA",earthquake,0.3,0.52,0.106,10,reviewed,ci,ci
 2025-08-15T11:53:19.410Z,47.116333333333,-123.95883333333,13.24,1.46,ml,22,161,0.03563,0.43,uw,uw62163497,2025-08-15T17:58:33.620Z,"12 km S of Humptulips, Washington",earthquake,0.84,1.21,0.20914838438011,15,reviewed,uw,uw
