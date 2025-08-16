@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-16T14:06:15.012Z,62.4839,-152.4309,0,1.5,ml,,,,1.43,ak,ak025ahawiil,2025-08-16T14:08:16.187Z,"76 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-16T13:48:48.285Z,58.3235,-154.9334,7.9,1.7,ml,,,,0.92,ak,ak025ahak5jw,2025-08-16T13:50:14.324Z,"88 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-16T12:59:21.272Z,63.2949,-145.1903,5.6,1,ml,,,,0.87,ak,ak025aha10qn,2025-08-16T13:04:45.008Z,"31 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-16T12:43:21.102Z,64.4766,-146.9609,6,0.9,ml,,,,0.33,ak,ak025ah9xl9q,2025-08-16T12:45:34.827Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T00:06:02.382Z,31.88,-101.741,7.8613,2.5,ml,30,58,0,0.1,tx,tx2025qasbdg,2025-08-16T12:08:04.141Z,"24 km W of Garden City, Texas",earthquake,0.34918063058481,0.66936845078151,0.1,24,reviewed,tx,tx
 2025-08-15T23:54:15.707Z,-34.4918,-73.9581,16.886,4.1,mb,29,192,2.116,0.71,us,us6000r1j4,2025-08-16T00:58:59.040Z,"169 km NW of Constitución, Chile",earthquake,8.12,6.696,0.233,5,reviewed,us,us
 2025-08-15T23:53:45.870Z,38.802665710449,-122.81600189209,2.9000000953674,1.07,md,14,72,0.01201,0.03,nc,nc75224337,2025-08-15T23:55:24.225Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.75,0.31,15,automatic,nc,nc
-2025-08-15T23:49:24.691Z,-26.4575,152.127,10,4.9,mww,77,29,7.573,0.95,us,us6000r1j3,2025-08-16T13:23:11.276Z,"20 km ENE of Booie, Australia",earthquake,7.92,1.853,0.083,14,reviewed,us,us
+2025-08-15T23:49:24.691Z,-26.4575,152.127,10,4.9,mww,77,29,7.573,0.95,us,us6000r1j3,2025-08-16T14:08:11.349Z,"20 km ENE of Booie, Australia",earthquake,7.92,1.853,0.083,14,reviewed,us,us
 2025-08-15T23:39:33.012Z,-25.7871,-69.2657,9.179,4.1,mb,15,140,0.688,1.02,us,us6000r1iz,2025-08-16T00:44:54.040Z,"102 km NE of Diego de Almagro, Chile",earthquake,5.32,5.983,0.301,3,reviewed,us,us
 2025-08-15T23:28:06.746Z,27.3133,128.3046,46.462,4.4,mb,27,83,0.476,0.39,us,us6000r1iy,2025-08-16T02:58:30.142Z,"26 km W of China, Japan",earthquake,7.63,3.501,0.134,16,reviewed,us,us
 2025-08-15T23:28:00.890Z,38.8313331604,-122.81400299072,2.0099999904633,1.09,md,16,65,0.0085,0.01,nc,nc75224332,2025-08-15T23:29:38.049Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.550000012,0.19,16,automatic,nc,nc
@@ -192,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T14:55:51.650Z,37.458333333333,-113.63933333333,0.78,0.9,md,4,155,0.1732,0.14,uu,uu80113861,2025-08-15T16:05:15.110Z,"4 km NNW of Central, Utah",earthquake,0.9,31.61,0.21362341577008,4,reviewed,uu,uu
 2025-08-15T14:48:05.820Z,62.1044,-150.2416,13.1,1.1,ml,,,,0.69,ak,ak025afnm5dy,2025-08-15T14:50:08.673Z,"21 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-15T14:43:00.220Z,35.7693333,-117.5956667,7.72,0.69,ml,27,54,0.04633,0.15,ci,ci41261392,2025-08-15T17:55:36.608Z,"17 km W of Searles Valley, CA",earthquake,0.19,0.55,0.174,13,reviewed,ci,ci
-2025-08-15T13:56:29.450Z,38.828834533691,-122.81733703613,1.4800000190735,0.42,md,7,75,0.007854,0.01,nc,nc75224102,2025-08-15T13:58:06.510Z,"8 km NNW of The Geysers, CA",earthquake,0.49,2.3599999,0.32,8,automatic,nc,nc
-2025-08-15T13:55:03.330Z,35.31783333,-97.9105,5,1.21,ml,60,84,0.07198587392,0.39,ok,ok2025pxzg,2025-08-15T14:07:36.072Z,"3 km E of Minco, Oklahoma",earthquake,,0.7,0.25,24,reviewed,ok,ok
