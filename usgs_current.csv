@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T09:14:47.881Z,60.6433,-149.632,29.2,1.8,ml,,,,0.22,ak,ak025anu4iqc,2025-08-20T09:16:27.567Z,"20 km NNE of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-20T09:12:00.265Z,-7.0344,129.7936,117.658,4.5,mb,40,93,2.498,0.61,us,us6000r2ab,2025-08-20T09:30:01.040Z,"Kepulauan Babar, Indonesia",earthquake,8.68,7.559,0.096,32,reviewed,us,us
 2025-08-20T08:49:08.450Z,58.9805,-154.501,117.2,1.3,ml,,,,0.19,ak,ak025antqi59,2025-08-20T08:50:35.976Z,"53 km SSE of Kokhanok, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-08-20T08:39:03.849Z,-24.4007,179.9572,515.99,4.4,mb,53,96,5.199,0.83,us,us6000r2a8,2025-08-20T09:42:30.040Z,"south of the Fiji Islands",earthquake,13.15,8.496,0.083,42,reviewed,us,us
 2025-08-20T08:32:48.580Z,38.836833953857,-122.78233337402,1.6599999666214,1.77,md,38,67,0.006451,0.04,nc,nc75226187,2025-08-20T08:35:45.540Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.25,0.09,38,automatic,nc,nc
 2025-08-20T08:20:17.230Z,35.7798333,-117.594,7.26,0.84,ml,27,59,0.03594,0.14,ci,ci40403666,2025-08-20T08:23:43.933Z,"17 km W of Searles Valley, CA",earthquake,0.19,0.33,0.132,15,automatic,ci,ci
 2025-08-20T08:16:22.209Z,61.6889,-149.586,35,1.6,ml,,,,0.4,ak,ak025antjgks,2025-08-20T08:18:04.107Z,"7 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T18:42:43.240Z,38.818000793457,-122.80950164795,5.8699998855591,0.76,md,9,95,0.005405,0.03,nc,nc75225902,2025-08-19T18:44:21.257Z,"6 km NW of The Geysers, CA",earthquake,0.78,2.8599999,0.07,10,automatic,nc,nc
 2025-08-19T18:34:43.160Z,35.353,-117.7833333,4.13,1.37,ml,45,37,0.09951,0.15,ci,ci40403034,2025-08-19T19:02:36.924Z,"14 km W of Johannesburg, CA",earthquake,0.16,0.49,0.156,25,reviewed,ci,ci
 2025-08-19T18:32:40.670Z,33.8743333,-116.841,15.31,1.08,ml,44,30,0.1628,0.15,ci,ci40403018,2025-08-19T18:43:48.120Z,"7 km SSE of Banning, CA",earthquake,0.17,0.52,0.288,29,automatic,ci,ci
-2025-08-19T18:28:28.380Z,32.245,-101.95,3.5296,1,mlv,29,117,0,0.3,tx,tx2025qhptnt,2025-08-19T23:14:01.176Z,"19 km NW of Stanton, Texas",earthquake,0,0.94171041250229,0.1,19,automatic,tx,tx
+2025-08-19T18:28:28.455Z,32.246,-101.943,8.0811,1,ml,38,31,0,0.1,tx,tx2025qhptnt,2025-08-20T09:48:32.020Z,"19 km NW of Stanton, Texas",earthquake,0.3391550440098,0.82946690778211,0.2,23,reviewed,tx,tx
 2025-08-19T18:19:50.645Z,56.811,-154.9501,38.5,1.6,ml,,,,1.1,ak,ak025ambz5h4,2025-08-19T18:23:13.939Z,"49 km WSW of Akhiok, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2025-08-19T18:17:09.873Z,39.319,-119.7039,1.4,1,ml,11,136.26,0.048,0.1315,nn,nn00902807,2025-08-19T18:19:41.356Z,"4 km WNW of Virginia City, Nevada",earthquake,,0.4,0.18,7,automatic,nn,nn
 2025-08-19T18:09:47.330Z,38.80350112915,-122.77583312988,2.3199999332428,1.18,md,25,72,0.01046,0.03,nc,nc75225892,2025-08-19T18:11:26.113Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.389999986,0.14,26,automatic,nc,nc
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T10:02:18.410Z,19.4815,-155.77333333333,8.92,2.89,ml,54,132,0.07036,0.18,hv,hv74755707,2025-08-19T18:25:15.116Z,"9 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.27,0.20081393187988,40,reviewed,hv,hv
 2025-08-19T09:58:45.799Z,62.4753,-150.1062,16.7,0.8,ml,,,,0.3,ak,ak025am6ulkz,2025-08-19T10:01:25.843Z,"2 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-19T09:54:53.390Z,33.4738333,-116.5551667,7.54,1.12,ml,66,26,0.04448,0.2,ci,ci40402514,2025-08-19T13:30:21.510Z,"14 km SE of Anza, CA",earthquake,0.16,0.47,0.224,26,reviewed,ci,ci
-2025-08-19T09:42:52.730Z,31.686,-104.407,5.8948,2.9,ml,39,85,0,0.2,tx,tx2025qgyisk,2025-08-19T10:13:56.451Z,"54 km S of Whites City, New Mexico",earthquake,1.9017240107474,1.0191596380768,0.2,25,reviewed,tx,tx
