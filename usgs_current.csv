@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-21T23:50:38.190Z,33.2283325,-116.7371674,11.51,1.38,ml,44,31,0.01964,0.15,ci,ci41271424,2025-08-21T23:52:44.699Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.22,0.56,0.311,12,automatic,ci,ci
+2025-08-21T23:48:04.530Z,35.6721667,-117.4761667,8.08,0.91,ml,27,40,0.04329,0.16,ci,ci41271416,2025-08-21T23:51:36.794Z,"12 km SSW of Searles Valley, CA",earthquake,0.23,0.54,0.14,15,automatic,ci,ci
 2025-08-21T23:25:04.980Z,38.828666687012,-122.78883361816,1.6699999570847,0.71,md,9,95,0.01697,0.01,nc,nc75226912,2025-08-21T23:26:40.903Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.629999995,0.22,10,automatic,nc,nc
 2025-08-21T23:24:25.640Z,33.5375,-116.7131667,5.89,0.59,ml,22,42,0.03436,0.18,ci,ci41271408,2025-08-21T23:27:55.119Z,"4 km WSW of Anza, CA",earthquake,0.23,0.51,0.114,13,automatic,ci,ci
 2025-08-21T23:14:53.381Z,61.4506,-150.8118,47.4,2.2,ml,,,,0.37,ak,ak025appzy4a,2025-08-21T23:16:23.823Z,"19 km WSW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -216,6 +218,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T04:20:51.091Z,31.648,-104.37,7.9712,2.8,ml,20,68,0.1,0.3,tx,tx2025qkfczp,2025-08-21T04:35:22.040Z,"58 km S of Whites City, New Mexico",earthquake,1.3200422331641,1.119814697505,0.1,16,reviewed,tx,tx
 2025-08-21T04:20:18.460Z,31.664,-104.368,6.0999,2.4,ml,28,85,0.1,0.2,tx,tx2025qkfcgy,2025-08-21T10:18:59.855Z,"56 km S of Whites City, New Mexico",earthquake,0.96569643076129,0.84832366661503,0.2,18,reviewed,tx,tx
 2025-08-21T04:12:28.211Z,31.671,-104.373,6.0999,1.7,ml,28,69,0,0.2,tx,tx2025qkevpo,2025-08-21T08:12:09.490Z,"55 km S of Whites City, New Mexico",earthquake,0.78160197530949,0.5306257988582,0.2,18,reviewed,tx,tx
+2025-08-21T04:11:19.530Z,53.8415,-166.8425,6.53,-0.72,ml,8,104,0.05257,0.19,av,av93725833,2025-08-21T23:52:45.260Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.43,1.04,0.27546819549988,8,reviewed,av,av
 2025-08-21T04:07:28.670Z,53.841833333333,-166.84383333333,6.74,-0.5,ml,8,105,0.05257,0.21,av,av93725828,2025-08-21T23:42:52.500Z,"20 km WSW of Dutch Harbor, Alaska",earthquake,0.47,1.22,0.31505907947185,8,reviewed,av,av
 2025-08-21T04:06:56.310Z,35.775,-117.6023333,9.85,0.61,ml,20,54,0.04084,0.13,ci,ci41270296,2025-08-21T16:21:50.329Z,"18 km W of Searles Valley, CA",earthquake,0.22,0.39,0.141,10,reviewed,ci,ci
 2025-08-21T04:05:54.938Z,60.1632,-152.5097,95.6,1.1,ml,,,,0.34,ak,ak025apemsat,2025-08-21T04:07:50.606Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
