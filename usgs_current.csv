@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-23T22:27:03.630Z,40.324333190918,-124.53566741943,10.560000419617,2.33,md,13,307,0.1519,0.05,nc,nc75227842,2025-08-23T22:28:39.422Z,"21 km W of Petrolia, CA",earthquake,2.08,0.699999988,0.06,10,automatic,nc,nc
+2025-08-23T22:36:55.191Z,63.1982,-150.6989,129.1,1.7,ml,,,,0.36,ak,ak025at0lxd5,2025-08-23T22:39:32.403Z,"63 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-08-23T22:35:06.560Z,36.544498443604,-121.10099792481,5.3600001335144,1.81,md,23,97,0.05997,0.23,nc,nc75227852,2025-08-23T22:36:48.613Z,"4 km E of Pinnacles, CA",earthquake,0.61,2.42000008,0.17,19,automatic,nc,nc
+2025-08-23T22:27:03.630Z,40.324333190918,-124.53566741943,10.560000419617,2.33,md,13,307,0.1519,0.05,nc,nc75227842,2025-08-23T22:32:17.309Z,"21 km W of Petrolia, CA",earthquake,2.08,0.699999988,0.06,10,automatic,nc,nc
 2025-08-23T22:12:24.705Z,60.9525,-147.705,6.5,0.7,ml,,,,0.84,ak,ak025at0gpuu,2025-08-23T22:14:46.720Z,"56 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T21:50:11.029Z,61.4648,-146.5233,29.4,1.3,ml,,,,0.39,ak,ak025at03eem,2025-08-23T21:51:51.285Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-23T21:29:36.280Z,52.1897,160.3967,43.132,5.4,mb,105,109,1.353,0.8,us,us6000r3dw,2025-08-23T22:03:10.692Z,"154 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.64,5.178,0.024,568,reviewed,us,us
@@ -176,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T00:10:54.761Z,-24.6639,-175.8988,10,5.5,mww,61,127,4.922,0.84,us,us6000r385,2025-08-23T17:17:59.040Z,"south of Tonga",earthquake,12.57,1.867,0.073,18,reviewed,us,us
 2025-08-23T00:09:51.600Z,38.838001251221,-122.78199768066,1.8500000238419,0.62,md,7,105,0.006343,0.01,nc,nc75227457,2025-08-23T00:11:26.709Z,"5 km WNW of Cobb, CA",earthquake,0.68,1.19000006,0.31,10,automatic,nc,nc
 2025-08-23T00:02:23.800Z,38.840667724609,-122.82266998291,1.1699999570847,1.26,md,7,99,0.01022,0.01,nc,nc75227447,2025-08-23T00:03:57.445Z,"9 km WNW of Cobb, CA",earthquake,0.82,1.97000003,,1,automatic,nc,nc
-2025-08-22T23:50:47.570Z,35.9355,-118.5371667,5.86,1.16,ml,28,74,0.1817,0.16,ci,ci41272104,2025-08-22T23:54:16.489Z,"22 km NNW of Kernville, CA",earthquake,0.22,1,0.163,19,automatic,ci,ci
+2025-08-22T23:50:47.590Z,35.9341667,-118.5356667,7.25,1.22,ml,27,109,0.1799,0.17,ci,ci41272104,2025-08-23T22:34:06.361Z,"22 km NNW of Kernville, CA",earthquake,0.24,1.29,0.191,13,reviewed,ci,ci
 2025-08-22T23:38:56.200Z,45.871166666667,-112.29933333333,7.03,1.69,ml,21,43,0.1145,0.09,mb,mb90108508,2025-08-23T14:00:26.450Z,"15 km W of Whitehall, Montana",earthquake,0.21,0.97,0.14484905847148,29,reviewed,mb,mb
 2025-08-22T23:37:56.448Z,37.3733,-117.131,7.1,1.1,ml,23,148.59,0.127,0.1842,nn,nn00903017,2025-08-23T00:49:45.624Z,"38 km SSE of Goldfield, Nevada",earthquake,,3.6,0.21,6,reviewed,nn,nn
 2025-08-22T23:28:05.600Z,38.841331481934,-122.82133483887,0.12999999523163,1,md,14,146,0.01139,0.03,nc,nc75227412,2025-08-22T23:29:42.245Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.569999993,0.26,14,automatic,nc,nc
