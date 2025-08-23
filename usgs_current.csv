@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-23T17:35:00.984Z,60.7774,-152.0714,9.7,1.7,ml,,,,0.29,ak,ak025asxmfgy,2025-08-23T17:36:36.874Z,"43 km WNW of Nikiski, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-08-23T16:33:15.703Z,36.7157,-115.8552,11.3,0.3,ml,16,125.2,0.101,0.1594,nn,nn00903078,2025-08-23T16:35:21.217Z,"23 km NW of Indian Springs, Nevada",earthquake,,0.8,0.33,10,automatic,nn,nn
 2025-08-23T16:23:16.256Z,60.3153,-153.0743,155.4,2.9,ml,,,,0.4,ak,ak025aswyglx,2025-08-23T16:24:52.440Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T16:21:37.590Z,33.6813333,-116.7653333,14.22,0.69,ml,22,49,0.07713,0.14,ci,ci41272480,2025-08-23T16:25:05.242Z,"8 km SSW of Idyllwild, CA",earthquake,0.31,0.56,0.149,16,automatic,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T15:32:00.949Z,65.0328,-152.252,1,1.5,ml,,,,0.53,ak,ak025aswex3y,2025-08-23T15:34:42.808Z,"17 km SSW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T15:28:54.380Z,35.0836667,-119.1545,10.12,1.32,ml,19,114,0.2259,0.27,ci,ci41272440,2025-08-23T15:35:57.098Z,"23 km E of Maricopa, CA",earthquake,0.5,1.61,0.338,31,automatic,ci,ci
 2025-08-23T15:19:53.888Z,61.4176,-149.867,31.8,2.2,ml,,,,0.42,ak,ak025aswc8vw,2025-08-23T15:34:02.292Z,"8 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-23T15:18:08.460Z,61.3928,-149.9002,21.9,2.9,ml,,,,0.39,ak,ak025aswbxpg,2025-08-23T15:59:53.008Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-23T15:18:10.062Z,61.4057,-149.8988,25.2,2.8,ml,,,,0.74,ak,ak025aswbxpg,2025-08-23T17:41:40.142Z,"6 km NE of Point MacKenzie, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-08-23T14:43:25.300Z,40.486167907715,-122.02166748047,11.470000267029,2.09,md,9,112,0.1006,0.08,nc,nc75227737,2025-08-23T14:44:58.515Z,"11 km W of Shingletown, CA",earthquake,0.73,1.74000001,0.09,8,automatic,nc,nc
 2025-08-23T14:38:18.350Z,33.285,-116.2476667,7.97,0.9,ml,53,40,0.09221,0.23,ci,ci41272400,2025-08-23T14:49:00.225Z,"12 km ENE of Borrego Springs, CA",earthquake,0.22,0.65,0.122,23,automatic,ci,ci
 2025-08-23T14:34:30.325Z,-60.0461,-61.4861,10,4.8,mb,21,96,4.893,0.95,us,us6000r3cf,2025-08-23T14:57:26.040Z,"Drake Passage",earthquake,11.55,1.905,0.134,17,reviewed,us,us
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-22T18:26:07.091Z,60.0935,-141.1712,13.7,1.4,ml,,,,1.29,ak,ak025aramllx,2025-08-22T18:27:54.372Z,"101 km NW of Yakutat, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-08-22T18:25:24.820Z,37.451333333333,-118.849,3.45,0.53,md,13,131,0.1394,0.07,nc,nc75227222,2025-08-23T06:27:01.089Z,"19 km WSW of Toms Place, CA",earthquake,0.66,2.28,0.218,8,reviewed,nc,nc
 2025-08-22T18:22:02.220Z,35.64466667,-98.037,7.55,1.64,ml,64,47,0.1520701586,0.51,ok,ok2025qlco,2025-08-22T18:35:15.326Z,"8 km ENE of Calumet, Oklahoma",earthquake,,1.2,0.25,32,reviewed,ok,ok
-2025-08-22T17:36:01.905Z,61.0005,-151.3396,61.1,1.4,ml,,,,0.34,ak,ak025ara3ari,2025-08-22T17:37:44.462Z,"13 km SW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
