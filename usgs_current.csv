@@ -162,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T13:59:49.462Z,59.8296,-153.4616,127.7,1.9,ml,,,,0.33,ak,ak025asvdxz6,2025-08-23T14:02:53.444Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-23T13:57:14.100Z,47.491333333333,-122.42883333333,26.31,1.19,ml,15,93,0.2585,0.19,uw,uw62175366,2025-08-23T19:08:58.400Z,"5 km NNE of Vashon, Washington",earthquake,0.42,1.15,0.10074239483578,8,reviewed,uw,uw
 2025-08-23T13:48:58.833Z,62.388,-151.0633,16.5,1.1,ml,,,,0.58,ak,ak025asvbltn,2025-08-23T13:51:01.124Z,"19 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-23T13:38:54.580Z,38.823001861572,-122.7868347168,1.2000000476837,0.4,md,10,57,0.01085,0.03,nc,nc75227707,2025-08-23T13:40:29.308Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.660000026,0.19,11,automatic,nc,nc
