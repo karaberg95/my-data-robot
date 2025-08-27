@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-27T16:48:05.740Z,33.5048333,-116.4633333,5.84,2.06,ml,94,24,0.1165,0.19,ci,ci41276648,2025-08-27T16:54:35.469Z,"20 km ESE of Anza, CA",earthquake,0.11,0.51,0.178,25,automatic,ci,ci
 2025-08-27T16:40:11.810Z,32.8888333,-116.598,8.49,1.11,ml,42,57,0.03002,0.17,ci,ci41276640,2025-08-27T16:44:17.167Z,"10 km NW of Pine Valley, CA",earthquake,0.16,0.33,0.388,27,automatic,ci,ci
 2025-08-27T16:35:14.730Z,38.834499359131,-122.80766296387,2.0999999046326,0.26,md,9,77,0.01408,0.02,nc,nc75229422,2025-08-27T16:36:52.186Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.34000003,0.17,10,automatic,nc,nc
 2025-08-27T16:31:15.200Z,39.944499969482,-120.61250305176,3.1099998950958,2,md,5,125,0.3294,0.01,nc,nc75229417,2025-08-27T16:32:51.337Z,"12 km NE of Cromberg, CA",earthquake,0.72,6.17000008,0.31,3,automatic,nc,nc
@@ -46,7 +47,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T11:34:26.830Z,38.837001800537,-122.79866790772,1.9400000572205,1.05,md,20,69,0.006651,0.02,nc,nc75229337,2025-08-27T11:36:03.845Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.550000012,0.06,21,automatic,nc,nc
 2025-08-27T11:07:20.450Z,34.2485,-117.028,1.07,1.02,ml,55,26,0.02046,0.19,ci,ci41276384,2025-08-27T13:53:19.039Z,"9 km ENE of Running Springs, CA",earthquake,0.14,0.2,0.136,26,automatic,ci,ci
 2025-08-27T10:52:58.340Z,39.504333333333,-110.343,-1.71,0.98,md,6,139,0.08132,0.05,uu,uu80004683,2025-08-27T16:04:14.330Z,"6 km SE of Sunnyside, Utah",earthquake,0.48,0.39,0.12979155726804,6,reviewed,uu,uu
+2025-08-27T10:45:36.670Z,34.2421667,-117.0231667,1.9,0.8,ml,9,128,0.02074,0.12,ci,ci37740012,2025-08-27T16:52:27.334Z,"9 km ENE of Running Springs, CA",earthquake,0.35,0.27,0.041,6,reviewed,ci,ci
 2025-08-27T10:45:26.690Z,34.2473333,-117.0271667,1.75,0.7,ml,21,49,0.02035,0.18,ci,ci41276376,2025-08-27T16:46:41.794Z,"9 km ENE of Running Springs, CA",earthquake,0.22,0.27,0.07,6,reviewed,ci,ci
+2025-08-27T10:45:16.360Z,34.2518333,-117.031,2.5,0.01,ml,5,200,0.02176,0.1,ci,ci37740004,2025-08-27T16:49:23.327Z,"9 km NE of Running Springs, CA",earthquake,0.5,0.62,0.057,4,reviewed,ci,ci
 2025-08-27T10:38:25.690Z,38.835166931152,-122.79983520508,2.1900000572205,0.72,md,10,83,0.008089,0.02,nc,nc75229322,2025-08-27T10:40:03.637Z,"7 km WNW of Cobb, CA",earthquake,0.58,1.70000005,0.07,11,automatic,nc,nc
 2025-08-27T10:35:47.420Z,38.787334442139,-122.74816894531,0.94999998807907,1.65,md,31,83,0.009835,0.04,nc,nc75229317,2025-08-27T10:37:23.576Z,"1 km NE of The Geysers, CA",earthquake,0.2,0.310000002,0.14,30,automatic,nc,nc
 2025-08-27T10:32:50.964Z,64.8328,-147.5783,3.4,1.8,ml,,,,0.47,ak,ak025azfl8x4,2025-08-27T12:44:25.863Z,"4 km NNW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
