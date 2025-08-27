@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T17:56:10.550Z,49.107666666667,-122.14166666667,-0.67,1.19,ml,7,261,0.1156,0.05,uw,uw62177141,2025-08-27T18:24:54.740Z,"9 km NE of Abbotsford, Canada",explosion,1.43,31.61,0.025834520249992,3,reviewed,uw,uw
 2025-08-27T17:51:59.695Z,58.1103,-154.696,81.8,1.5,ml,,,,0.13,ak,ak025azjvdfl,2025-08-27T17:53:10.878Z,"61 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2025-08-27T17:51:55.681Z,59.1024,-153.3231,130.3,2.5,ml,,,,0.6,ak,ak025azjvd4g,2025-08-27T17:54:36.818Z,"83 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-08-27T17:48:03.530Z,63.5112,-150.6974,9.7,2.4,ml,,,,0.58,ak,ak025azjuly9,2025-08-27T18:32:17.040Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-27T17:48:03.530Z,63.5112,-150.6974,9.7,2.4,ml,,,,0.58,ak,ak025azjuly9,2025-08-27T18:44:37.195Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-27T17:46:43.840Z,35.628,-98.029,5.18,1.7,ml,89,36,0.1619682163,0.4,ok,ok2025quex,2025-08-27T17:59:23.637Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.8,0.21,41,reviewed,ok,ok
 2025-08-27T17:32:20.260Z,35.31416667,-97.93666667,11.52,0.78,ml,28,86,0.07738481446,0.11,ok,ok2025quel,2025-08-27T17:49:13.136Z,"0 km ENE of Minco, Oklahoma",earthquake,,0.5,0.26,13,reviewed,ok,ok
 2025-08-27T17:09:31.590Z,33.7986667,-118.6295,5.71,1.37,ml,11,254,0.2528,0.28,ci,ci41276672,2025-08-27T17:33:13.533Z,"22 km W of Palos Verdes Estates, CA",earthquake,1.53,6.9,0.232,6,reviewed,ci,ci
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T05:34:06.539Z,-55.3723,-26.9603,31.162,5.1,mb,28,111,5.615,0.54,us,us7000qr91,2025-08-27T05:52:02.040Z,"South Sandwich Islands region",earthquake,13.57,6.878,0.109,27,reviewed,us,us
 2025-08-27T05:33:06.740Z,40.381999969482,-121.98400115967,4.2600002288818,2.18,md,14,105,0.1811,0.23,nc,nc75229272,2025-08-27T05:57:17.986Z,"11 km W of Manton, CA",earthquake,0.72,3.75999999,0.1,9,automatic,nc,nc
 2025-08-27T05:21:26.800Z,35.398,-84.185666666667,13.41,2.25,md,12,88,0.1278,0.09,se,se60613341,2025-08-27T13:46:32.190Z,"10 km ENE of Tellico Plains, Tennessee",earthquake,0.29,0.69,0.072999282154457,10,reviewed,se,se
-2025-08-27T05:17:50.750Z,35.0885,-119.0525,11.29,1.52,ml,41,63,0.1863,0.21,ci,ci41276232,2025-08-27T16:14:08.427Z,"20 km NW of Grapevine, CA",earthquake,0.21,1.12,0.178,52,reviewed,ci,ci
+2025-08-27T05:17:50.750Z,35.0885,-119.0525,11.29,1.52,ml,41,63,0.1863,0.21,ci,ci41276232,2025-08-27T18:43:38.845Z,"20 km NW of Grapevine, CA",earthquake,0.21,1.12,0.178,52,reviewed,ci,ci
 2025-08-27T05:16:05.060Z,33.0111667,-116.3621667,6.17,0.61,ml,12,75,0.05657,0.18,ci,ci37739876,2025-08-27T15:31:31.218Z,"24 km ESE of Julian, CA",earthquake,0.34,0.94,0.172,5,reviewed,ci,ci
 2025-08-27T05:15:23.140Z,33.6685,-116.7688333,15.94,0.36,ml,19,70,0.07625,0.12,ci,ci41276224,2025-08-27T15:25:55.189Z,"9 km SSW of Idyllwild, CA",earthquake,0.27,0.48,0.069,7,reviewed,ci,ci
 2025-08-27T05:02:14.450Z,36.0311667,-117.8123333,1.66,0.46,ml,13,57,0.03862,0.07,ci,ci41276208,2025-08-27T15:20:56.156Z,"12 km E of Coso Junction, CA",earthquake,0.13,0.17,0.217,6,reviewed,ci,ci
@@ -221,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T19:08:00.060Z,46.192833333333,-122.423,-0.85,1.57,ml,15,84,0.04634,0.27,uw,uw62176676,2025-08-26T22:56:42.480Z,"31 km N of Amboy, Washington",explosion,0.95,31.61,0.13155684646351,8,reviewed,uw,uw
 2025-08-26T19:01:30.430Z,33.872,-117.5061667,-0.53,1.06,ml,30,42,0.07452,0.22,ci,ci41275752,2025-08-27T14:09:13.738Z,"2 km ESE of Home Gardens, CA",quarry blast,0.39,31.61,0.143,23,reviewed,ci,ci
 2025-08-26T18:58:05.790Z,36.1316667,-117.8245,4.46,0.78,ml,13,138,0.02832,0.09,ci,ci41275744,2025-08-27T17:17:38.215Z,"15 km NE of Coso Junction, CA",earthquake,0.24,0.28,0.133,12,reviewed,ci,ci
-2025-08-26T18:50:25.490Z,46.666333333333,-121.88016666667,5.86,0.49,ml,14,124,0.06585,0.08,uw,uw62176671,2025-08-26T21:40:53.900Z,"15 km SE of Ashford, Washington",earthquake,0.25,0.62,0.075884451280606,3,reviewed,uw,uw
-2025-08-26T18:49:54.340Z,44.3285,-114.9875,4.45,1.53,ml,12,78,0.2442,0.09,mb,mb90108823,2025-08-26T21:22:14.580Z,"12 km NNW of Stanley, Idaho",earthquake,0.32,7.1,0.19843860459499,12,reviewed,mb,mb
-2025-08-26T18:48:25.410Z,36.888832092285,-121.61499786377,0.76999998092651,1.67,md,9,82,0.01898,0.07,nc,nc75229027,2025-08-26T19:03:37.139Z,"2 km E of Aromas, CA",earthquake,0.32,0.680000007,0.1,7,automatic,nc,nc
-2025-08-26T18:44:41.060Z,36.1286667,-117.8216667,2.78,1.21,ml,25,51,0.02906,0.15,ci,ci41275712,2025-08-26T20:16:27.022Z,"15 km NE of Coso Junction, CA",earthquake,0.19,0.35,0.119,17,reviewed,ci,ci
