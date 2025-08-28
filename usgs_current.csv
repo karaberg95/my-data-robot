@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-28T20:43:36.503Z,35.63819122,-98.02929688,3.357823849,2.32,ml,39,47.11114502,0.1593032479,0.6981022771,ok,ok2025qwgg,2025-08-28T20:47:04.868Z,"9 km ENE of Calumet, Oklahoma",earthquake,1.895724381,1.548488706,0.29,29,automatic,ok,ok
+2025-08-28T20:43:33.536Z,63.4854,-151.1009,1,2.3,ml,,,,0.73,ak,ak025b1958zt,2025-08-28T20:45:58.543Z,"31 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-28T20:31:25.404Z,64.9238,-147.7981,0.2,1.6,ml,,,,0.34,ak,ak025b192nrw,2025-08-28T20:33:27.559Z,"5 km WNW of Farmers Loop, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-28T20:30:10.150Z,35.5156667,-118.488,3.76,2.02,ml,47,33,0.1472,0.15,ci,ci41277640,2025-08-28T20:33:45.756Z,"8 km S of Bodfish, CA",earthquake,0.15,0.59,0.196,27,automatic,ci,ci
 2025-08-28T20:29:29.840Z,33.8198333,-116.9958333,12.62,0.96,ml,37,51,0.1115,0.15,ci,ci41277632,2025-08-28T20:32:53.751Z,"5 km NW of San Jacinto, CA",earthquake,0.19,0.5,0.105,28,automatic,ci,ci
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T17:26:53.134Z,31.589,-104.552,3.4307,1.6,ml,23,164,0.1,0.3,tx,tx2025qybgll,2025-08-28T18:00:55.203Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.7766678333282,0.1,12,automatic,tx,tx
 2025-08-28T17:26:46.921Z,36.9288,-115.2125,1.4,1,ml,12,328.24,0.626,0.2108,nn,nn00903299,2025-08-28T17:29:11.800Z,"48 km S of Alamo, Nevada",earthquake,,22.8,0.21,8,automatic,nn,nn
 2025-08-28T17:22:10.574Z,36.9153,-115.4796,1.3,0.5,ml,8,313.08,0.427,0.196,nn,nn00903297,2025-08-28T17:24:10.864Z,"41 km NNE of Indian Springs, Nevada",earthquake,,35.6,0.3,4,automatic,nn,nn
-2025-08-28T17:15:22.560Z,33.0421667,-114.9833333,4.61,1.56,ml,19,77,0.06989,0.2,ci,ci41277504,2025-08-28T17:19:06.216Z,"45 km NNW of Los Algodones, B.C., MX",earthquake,0.42,1.18,0.138,13,automatic,ci,ci
+2025-08-28T17:15:22.150Z,33.053,-114.9988333,-0.2,1.52,ml,13,80,0.08242,0.25,ci,ci41277504,2025-08-28T20:44:50.696Z,"45 km NE of Holtville, CA",quarry blast,0.61,31.61,0.105,12,reviewed,ci,ci
 2025-08-28T17:14:28.670Z,35.3165,-97.941,8.89,1.06,ml,27,98,0.07648499104,0.26,ok,ok2025qvzj,2025-08-28T17:44:50.356Z,"0 km NE of Minco, Oklahoma",earthquake,,1.4,0.21,12,reviewed,ok,ok
 2025-08-28T17:12:46.670Z,44.29,-115.18216666667,7.04,1.6,ml,16,67,0.3033,0.14,mb,mb90109153,2025-08-28T17:56:20.020Z,"21 km WNW of Stanley, Idaho",earthquake,0.39,1.38,0.22178105999924,15,reviewed,mb,mb
 2025-08-28T17:04:56.680Z,38.506333333333,-112.89216666667,1.65,1.49,ml,18,45,0.00594,0.11,uu,uu80115026,2025-08-28T19:45:56.410Z,"15 km NE of Milford, Utah",earthquake,0.24,0.4,0.31666497912165,3,reviewed,uu,uu
@@ -269,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T20:57:49.618Z,31.566,-104.176,6.8689,1.5,ml,36,70,0,0.2,tx,tx2025qwmnhk,2025-08-28T09:42:19.524Z,"45 km NW of Toyah, Texas",earthquake,0.69969036996383,0.64976500733963,0.1,14,reviewed,tx,tx
 2025-08-27T20:57:33.970Z,38.793167114258,-122.77783203125,2.8099999427795,0.85,md,18,89,0.007882,0.03,nc,nc75229512,2025-08-27T22:47:21.278Z,"3 km NW of The Geysers, CA",earthquake,0.29,0.589999974,0.23,17,automatic,nc,nc
 2025-08-27T20:56:49.770Z,35.7088333,-117.554,3.97,1,ml,30,47,0.1124,0.13,ci,ci41276888,2025-08-27T21:08:31.326Z,"15 km NE of Ridgecrest, CA",earthquake,0.16,0.45,0.091,18,reviewed,ci,ci
-2025-08-27T20:44:40.490Z,54.754833333333,-163.99183333333,-2.94,0.3,ml,6,99,0.04558,0.17,av,av93737708,2025-08-28T04:28:35.210Z,"38 km WSW of False Pass, Alaska",earthquake,0.34,0.76,0.16707506015657,6,reviewed,av,av
