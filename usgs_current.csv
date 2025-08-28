@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-28T15:48:08.550Z,38.826667785645,-122.79949951172,2.8499999046326,0.29,md,13,63,0.01896,0.01,nc,nc75229887,2025-08-28T15:49:43.184Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.899999976,0.15,13,automatic,nc,nc
 2025-08-28T15:37:58.090Z,36.492000579834,-121.0924987793,5.4000000953674,0.96,md,9,64,0.04601,0.25,nc,nc75229877,2025-08-28T15:39:32.324Z,"6 km SE of Pinnacles, CA",earthquake,0.85,2.66000009,0.23,7,automatic,nc,nc
 2025-08-28T15:31:34.793Z,64.7995,-149.5793,20.5,1.4,ml,,,,0.61,ak,ak025b163ih3,2025-08-28T15:33:32.272Z,"30 km NW of Four Mile Road, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-28T15:30:26.609Z,35.6275,-98.02766667,7,1.66,ml,28,59,0.1628680397,0.29,ok,ok2025qvvy,2025-08-28T15:40:06.928Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.9,0.28,19,reviewed,ok,ok
 2025-08-28T15:29:57.853Z,61.0302,-152.3408,111.1,1.9,ml,,,,0.47,ak,ak025b1634tl,2025-08-28T15:31:49.232Z,"65 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-08-28T15:29:36.140Z,38.836166381836,-122.78316497803,1.75,0.85,md,12,69,0.006037,0.01,nc,nc75229867,2025-08-28T15:31:13.086Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.469999999,0.16,13,automatic,nc,nc
+2025-08-28T15:29:36.140Z,38.836166381836,-122.78316497803,1.75,0.85,md,12,69,0.006037,0.01,nc,nc75229867,2025-08-28T15:47:19.628Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.469999999,0.16,13,automatic,nc,nc
 2025-08-28T15:26:47.230Z,34.1216667,-117.468,5.21,0.92,ml,12,127,0.05958,0.1,ci,ci41277432,2025-08-28T15:31:03.370Z,"3 km NNW of Fontana, CA",earthquake,0.31,0.64,0.302,15,automatic,ci,ci
 2025-08-28T15:25:29.770Z,33.0406667,-116.1945,4.05,1.09,ml,43,52,0.1169,0.2,ci,ci41277424,2025-08-28T15:30:16.236Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.72,0.164,27,automatic,ci,ci
 2025-08-28T15:21:30.760Z,33.998,-118.748,12,1.61,ml,15,206,0.04932,0.12,ci,ci41277416,2025-08-28T15:25:08.167Z,"6 km E of Malibu, CA",earthquake,0.73,0.4,0.469,38,automatic,ci,ci
