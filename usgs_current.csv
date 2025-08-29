@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T16:54:10.662Z,61.279,-152.3474,17.4,0.2,ml,,,,0.19,ak,ak025b2ud66i,2025-08-29T16:55:21.347Z,"69 km WNW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-08-29T16:51:00.782Z,37.2553,141.6984,44.24,5,mb,56,138,2.886,0.89,us,us7000qrw7,2025-08-29T17:08:48.040Z,"61 km E of Tomioka, Japan",earthquake,6.4,7.008,0.047,145,reviewed,us,us
 2025-08-29T16:50:28.780Z,44.3565,-115.16766666667,5.01,1.5,ml,10,71,0.3404,0.17,mb,mb90109473,2025-08-29T17:50:21.440Z,"23 km NW of Stanley, Idaho",earthquake,0.56,10.84,0.26074785830641,11,reviewed,mb,mb
-2025-08-29T16:37:59.764Z,31.599,-104.122,4.0379,1.7,ml,23,60,0,0.4,tx,tx2025qzvjfs,2025-08-29T17:00:55.933Z,"44 km NW of Toyah, Texas",earthquake,0,1.1220479011536,0.3,18,automatic,tx,tx
+2025-08-29T16:37:59.504Z,31.596,-104.114,6.4587,1.7,ml,27,69,0,0.1,tx,tx2025qzvjfs,2025-08-29T19:46:17.715Z,"43 km NW of Toyah, Texas",earthquake,0.54952748763394,0.51313389918542,0.2,24,reviewed,tx,tx
 2025-08-29T16:29:32.980Z,33.4728333,-116.5145,6.53,1.3,ml,63,27,0.07647,0.23,ci,ci41278472,2025-08-29T16:40:11.150Z,"17 km ESE of Anza, CA",earthquake,0.17,0.46,0.191,28,automatic,ci,ci
 2025-08-29T16:29:21.285Z,38.3686,142.1629,44.41,5.5,mww,51,100,2.562,0.86,us,us7000qrw3,2025-08-29T18:54:54.662Z,"63 km E of Onagawa Chō, Japan",earthquake,7.74,7.342,0.059,28,reviewed,us,us
 2025-08-29T16:17:24.030Z,33.8065,-116.9495,11.93,0.9,ml,34,63,0.1073,0.15,ci,ci41278456,2025-08-29T16:22:29.829Z,"3 km NNE of San Jacinto, CA",earthquake,0.2,0.46,0.146,27,automatic,ci,ci
@@ -194,6 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T02:44:25.644Z,31.523,-104.14,7.561,0.7,ml,11,65,0.1,0.2,tx,tx2025qytsxs,2025-08-29T14:56:09.802Z,"40 km NW of Toyah, Texas",earthquake,1.3799149895487,1.4821707544538,0.2,13,reviewed,tx,tx
 2025-08-29T02:41:15.280Z,44.814,-111.538,11.63,1.13,ml,17,69,0.01948,0.19,mb,mb90109358,2025-08-29T13:46:06.720Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.39,0.55,0.26467903378647,19,reviewed,mb,mb
 2025-08-29T02:38:19.646Z,31.662,-104.386,5.6384,1.6,ml,27,87,0,0.2,tx,tx2025qytnqx,2025-08-29T08:39:34.999Z,"56 km S of Whites City, New Mexico",earthquake,0.86141037318809,0.93796080101925,0.1,18,reviewed,tx,tx
+2025-08-29T02:33:37.420Z,54.7465,-163.993,-0.6,0.77,ml,4,105,0.0372,0.14,av,av93739853,2025-08-29T19:45:04.890Z,"39 km WSW of False Pass, Alaska",earthquake,0.32,0.37,0.28636024239389,4,reviewed,av,av
 2025-08-29T02:31:11.162Z,31.603,-103.95,8.5608,1.3,ml,25,62,0,0.1,tx,tx2025qythnd,2025-08-29T14:03:57.837Z,"35 km WSW of Mentone, Texas",earthquake,0.487206923155,0.5865750327306,0.2,31,reviewed,tx,tx
 2025-08-29T02:29:50.500Z,38.794166564941,-122.80999755859,3.2300000190735,0.76,md,15,93,0.007957,0.02,nc,nc75230177,2025-08-29T02:47:19.380Z,"5 km WNW of The Geysers, CA",earthquake,0.31,0.810000002,0.05,18,automatic,nc,nc
 2025-08-29T02:28:42.627Z,32.356,-102.102,8.1299,1.3,ml,52,37,0,0.2,tx,tx2025qytfjn,2025-08-29T07:31:51.442Z,"38 km NW of Stanton, Texas",earthquake,0.30889182337016,0.36464460727572,0.2,31,reviewed,tx,tx
@@ -278,4 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T20:29:29.700Z,33.8261667,-116.9955,12.87,0.95,ml,28,46,0.09579,0.13,ci,ci41277632,2025-08-28T21:48:00.931Z,"6 km NW of San Jacinto, CA",earthquake,0.22,0.46,0.099,20,reviewed,ci,ci
 2025-08-28T20:28:34.979Z,35.63016667,-98.03383333,6.8,1.56,ml,72,113,0.1574690992,0.17,ok,ok2025qwft,2025-08-29T00:02:26.233Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.9,0.26,31,reviewed,ok,ok
 2025-08-28T19:55:13.930Z,35.059,-118.3438333,-0.93,1.1,ml,18,61,0.06827,0.18,ci,ci41277616,2025-08-28T21:42:11.901Z,"13 km SE of Tehachapi, CA",quarry blast,0.38,31.61,0.128,22,reviewed,ci,ci
-2025-08-28T19:41:34.200Z,38.838500976562,-122.7825012207,1.9199999570847,0.54,md,10,111,0.006126,0.01,nc,nc75229967,2025-08-28T20:32:20.641Z,"5 km WNW of Cobb, CA",earthquake,0.4,0.50999999,0.24,10,automatic,nc,nc
