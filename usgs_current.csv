@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-30T03:54:23.290Z,37.542167663574,-118.82733154297,3.8800001144409,2.4,md,30,63,0.0478,0.05,nc,nc75230617,2025-08-30T03:55:58.462Z,"13 km W of Toms Place, CA",earthquake,0.21,0.709999979,0.21,34,automatic,nc,nc
 2025-08-30T03:26:38.170Z,38.842166900635,-122.88083648682,2.1400001049042,0.92,md,9,135,0.01682,0.02,nc,nc75230612,2025-08-30T03:28:12.290Z,"12 km E of Cloverdale, CA",earthquake,0.45,0.910000026,0.21,11,automatic,nc,nc
 2025-08-30T03:25:36.540Z,39.2244,-120.0838,7,0.5,ml,9,130.86,0.037,0.0776,nn,nn00903420,2025-08-30T03:27:32.241Z,"0 km SSW of Carnelian Bay, California",earthquake,,0.9,0.32,4,automatic,nn,nn
 2025-08-30T03:08:41.580Z,39.916168212891,-123.53333282471,3.75,1.87,md,17,72,0.04885,0.1,nc,nc75230607,2025-08-30T03:22:18.115Z,"26 km N of Laytonville, CA",earthquake,0.34,0.819999993,0.1,12,automatic,nc,nc
