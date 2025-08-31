@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-31T15:19:23.080Z,38.785331726074,-122.74716949463,2.5099999904633,0.76,md,12,81,0.008427,0.02,nc,nc75231262,2025-08-31T15:20:58.932Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.709999979,0.07,12,automatic,nc,nc
-2025-08-31T15:18:57.890Z,39.292999267578,-122.88549804688,0.54000002145767,1.61,md,10,148,0.1722,0.11,nc,nc75231257,2025-08-31T15:20:34.232Z,"14 km SSE of Lake Pillsbury, CA",earthquake,0.48,9.18000031,0.31,4,automatic,nc,nc
+2025-08-31T15:18:57.890Z,39.292999267578,-122.88549804688,0.54000002145767,1.61,md,10,148,0.1722,0.11,nc,nc75231257,2025-08-31T15:27:18.786Z,"14 km SSE of Lake Pillsbury, CA",earthquake,0.48,9.18000031,0.31,4,automatic,nc,nc
 2025-08-31T15:07:00.003Z,65.5284,-150.9657,11.8,1.7,ml,,,,0.56,ak,ak025b64kc34,2025-08-31T15:09:02.703Z,"36 km W of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-31T14:59:55.810Z,38.822166442871,-122.78600311279,9.3999996185303,0.94,md,8,98,0.009817,0.04,nc,nc75231252,2025-08-31T15:01:28.930Z,"5 km WNW of Cobb, CA",earthquake,1.45,7.48999977,0.14,7,automatic,nc,nc
 2025-08-31T14:58:13.260Z,32.4553337,-115.1126633,9.62,3,ml,36,57,0.00785,0.4,ci,ci41280072,2025-08-31T15:08:49.420Z,"14 km NE of Delta, B.C., MX",earthquake,0.58,1.28,0.225,22,reviewed,ci,ci
