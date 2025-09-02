@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T12:53:14.715Z,63.3405,-145.4055,3.9,1.4,ml,,,,0.34,ak,ak025b9e4mbz,2025-09-02T12:55:05.708Z,"29 km NNE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-02T12:48:52.498Z,43.5974,-126.608,10,2.5,ml,35,282,1.258,0.95,us,us7000qt8z,2025-09-02T13:34:31.040Z,"186 km WNW of Bandon, Oregon",earthquake,9.82,2.024,0.043,72,reviewed,us,us
 2025-09-02T12:47:43.211Z,56.1296,-151.9363,81.4,3,ml,,,,0.37,ak,ak025b9e3e8h,2025-09-02T12:51:43.454Z,"146 km SE of Old Harbor, Alaska",earthquake,,5.5,,,automatic,ak,ak
+2025-09-02T12:46:03.561Z,32.182,-101.193,5.9326,1.8,ml,36,61,0.1,0.1,tx,tx2025rgwlxh,2025-09-02T15:56:20.810Z,"16 km SE of Coahoma, Texas",earthquake,0.54103986441948,1.3506909535167,0.1,19,reviewed,tx,tx
 2025-09-02T12:45:30.072Z,61.6543,-148.4186,14.9,1.8,ml,,,,1.36,ak,ak025b9e2xsf,2025-09-02T12:48:13.164Z,"16 km S of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-02T12:42:11.610Z,38.833168029785,-122.7988357544,2.25,1.03,md,12,67,0.008448,0.02,nc,nc75232102,2025-09-02T13:22:16.989Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.610000014,0.11,15,automatic,nc,nc
 2025-09-02T12:29:38.908Z,34.6749,70.6807,10,5.2,mb,98,86,1.285,1.07,us,us7000qt8u,2025-09-02T13:05:30.733Z,"34 km NE of Jalālābād, Afghanistan",earthquake,5.62,1.755,0.043,179,reviewed,us,us
