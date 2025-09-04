@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T08:10:43.975Z,61.2626,-151.5252,77.3,0.4,ml,,,,0.13,ak,ak025baz12vh,2025-09-03T08:12:23.252Z,"27 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-03T08:09:16.029Z,60.4773,-143.7072,8.9,2.3,ml,,,,0.66,ak,ak025baz0t02,2025-09-03T08:11:15.978Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-03T08:01:18.770Z,33.244,-116.383,4.72,0.7,ml,48,33,0.03744,0.2,ci,ci41282056,2025-09-03T13:04:09.280Z,"2 km SSW of Borrego Springs, CA",earthquake,0.18,0.37,0.114,11,reviewed,ci,ci
-2025-09-03T07:53:02.950Z,38.835834503174,-122.79766845703,1.8600000143051,1.08,md,18,65,0.006271,0.01,nc,nc75232557,2025-09-03T08:37:17.350Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.5,0.12,20,automatic,nc,nc
