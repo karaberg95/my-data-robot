@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-08T11:53:08.570Z,33.4796667,-116.5211667,11.96,0.98,ml,49,54,0.06936,0.17,ci,ci41286016,2025-09-08T11:57:09.481Z,"16 km ESE of Anza, CA",earthquake,0.16,0.4,0.234,26,automatic,ci,ci
+2025-09-08T11:49:59.700Z,38.833999633789,-122.81500244141,1.789999961853,0.72,md,12,72,0.01664,0.02,nc,nc75234877,2025-09-08T11:51:37.896Z,"8 km WNW of Cobb, CA",earthquake,0.27,1.00999999,0.14,13,automatic,nc,nc
 2025-09-08T11:49:24.200Z,38.833667755127,-122.81549835205,1.8300000429153,0.66,md,12,56,0.01637,0.02,nc,nc75234872,2025-09-08T11:51:03.194Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.870000005,0.17,12,automatic,nc,nc
 2025-09-08T11:32:31.947Z,52.5236,160.8244,10,5.2,mb,116,139,1.413,0.6,us,us7000quqk,2025-09-08T11:50:49.040Z,"159 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.83,1.9,0.028,421,reviewed,us,us
 2025-09-08T11:16:15.636Z,62.5456,-148.7583,33.9,2.5,ml,,,,0.92,ak,ak025bjajc8r,2025-09-08T11:17:46.883Z,"70 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
