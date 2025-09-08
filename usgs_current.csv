@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-08T19:28:13.845Z,31.594,-104.197,4.299,1.8,ml,28,69,0.1,0.2,tx,tx2025rskgsr,2025-09-08T19:31:52.613Z,"49 km NW of Toyah, Texas",earthquake,0,1.0800935029984,0.2,20,automatic,tx,tx
+2025-09-08T19:17:18.360Z,17.944333333333,-66.932166666667,12.72,2.15,md,10,216,0.05891,0.18,pr,pr71495133,2025-09-08T19:28:44.750Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.82,0.35,0.15298139541153,6,reviewed,pr,pr
 2025-09-08T19:12:52.890Z,35.8998333,-117.679,2.79,1.07,ml,26,64,0.05329,0.16,ci,ci41286432,2025-09-08T19:16:18.384Z,"21 km E of Little Lake, CA",earthquake,0.17,0.34,0.144,21,automatic,ci,ci
 2025-09-08T19:02:41.220Z,35.8996667,-117.6755,3.42,1.51,ml,31,48,0.05227,0.13,ci,ci41286424,2025-09-08T19:06:15.243Z,"21 km E of Little Lake, CA",earthquake,0.13,0.38,0.2,26,automatic,ci,ci
 2025-09-08T18:59:14.660Z,38.837833404541,-122.80816650391,1.7300000190735,0.73,md,13,61,0.01393,0.01,nc,nc75235097,2025-09-08T19:00:52.610Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.819999993,0.13,14,automatic,nc,nc
@@ -7,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T18:38:05.960Z,32.6098333,-116.9801667,2.77,1.13,ml,25,106,0.04223,0.15,ci,ci41286408,2025-09-08T18:57:47.745Z,"7 km ESE of Chula Vista, CA",quarry blast,0.32,0.33,0.197,8,automatic,ci,ci
 2025-09-08T18:37:54.240Z,33.0306667,-116.4088333,10.5,1.05,ml,44,43,0.05264,0.17,ci,ci41286400,2025-09-08T18:42:38.282Z,"19 km ESE of Julian, CA",earthquake,0.17,0.32,0.192,30,automatic,ci,ci
 2025-09-08T18:27:00.946Z,31.674,-104.415,6.7407,1.8,ml,30,80,0,0.1,tx,tx2025rsifvq,2025-09-08T19:22:03.502Z,"55 km S of Whites City, New Mexico",earthquake,0.85820237864471,0.64995938762352,0.1,32,reviewed,tx,tx
+2025-09-08T18:26:20.615Z,31.673,-104.316,6.51,1.3,ml,17,67,0,0.1,tx,tx2025rsifjv,2025-09-08T19:27:43.563Z,"56 km S of Whites City, New Mexico",earthquake,0.99749136466797,1.2342698737003,0.2,14,reviewed,tx,tx
 2025-09-08T18:22:58.538Z,4.8758,123.0971,580.508,4.2,mb,39,55,2.378,0.75,us,us7000quul,2025-09-08T18:39:19.040Z,"184 km SE of Tabiauan, Philippines",earthquake,13.61,9.211,0.096,30,reviewed,us,us
 2025-09-08T18:17:50.821Z,28.767,-99.218,4.5705,2.1,ml,6,224,0.4,0.4,tx,tx2025rshych,2025-09-08T18:21:08.095Z,"9 km NNW of Hilltop, Texas",earthquake,0,3.5675661563873,0.3,4,automatic,tx,tx
 2025-09-08T18:17:02.650Z,36.001499176025,-121.01066589356,12.079999923706,0.76,md,9,130,0.1011,0.19,nc,nc75235057,2025-09-08T19:07:19.990Z,"10 km W of San Ardo, CA",earthquake,0.89,2.1099999,0.14,3,automatic,nc,nc
@@ -146,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T03:44:40.380Z,33.9871667,-116.6355,15.07,0.84,ml,43,32,0.05226,0.15,ci,ci41285880,2025-09-08T03:48:08.878Z,"8 km SW of Morongo Valley, CA",earthquake,0.14,0.43,0.151,27,automatic,ci,ci
 2025-09-08T03:40:59.780Z,17.925666666667,-66.971833333333,13.5,2.07,md,6,242,0.0815,0.13,pr,pr71495043,2025-09-08T03:55:25.610Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.9,0.45,0.048344612049506,4,reviewed,pr,pr
 2025-09-08T03:28:52.230Z,40.328834533691,-124.92433166504,11.430000305176,2.37,md,23,268,0.4467,0.25,nc,nc75234787,2025-09-08T03:57:20.411Z,"54 km WNW of Petrolia, CA",earthquake,4.7,4.46000004,0.04,3,automatic,nc,nc
+2025-09-08T03:12:09.520Z,47.618666666667,-121.76933333333,16,1.06,ml,16,135,0.09214,0.11,uw,uw62184651,2025-09-08T19:23:41.330Z,"10 km ENE of Fall City, Washington",earthquake,0.31,0.45,0.10489736810793,9,reviewed,uw,uw
 2025-09-08T03:09:58.705Z,-58.3414,-15.8639,10,5.1,mb,69,101,14.41,0.7,us,us7000qunb,2025-09-08T03:28:48.040Z,"east of the South Sandwich Islands",earthquake,12.6,1.89,0.068,70,reviewed,us,us
 2025-09-08T03:05:30.450Z,33.6893333,-116.712,15.22,0.29,ml,21,175,0.03782,0.11,ci,ci41285864,2025-09-08T12:54:28.212Z,"6 km S of Idyllwild, CA",earthquake,0.31,0.42,0.119,7,reviewed,ci,ci
 2025-09-08T02:50:27.797Z,39.489,-99.2831,12.32,3.3,mb_lg,21,63,1.155,0.24,us,us7000qun8,2025-09-08T17:32:21.796Z,"5 km NNW of Stockton, Kansas",earthquake,4.76,8.555,0.044,134,reviewed,us,us
