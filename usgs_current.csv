@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T07:15:33.350Z,35.61366667,-98.04,5.37,2.43,ml,93,36,0,0.24,ok,ok2025rpid,2025-09-08T11:03:26.964Z,"7 km E of Calumet, Oklahoma",earthquake,,0.5,0.23,38,reviewed,ok,ok
 2025-09-08T07:11:36.449Z,-8.4201,119.4621,171.906,4.4,mb,30,67,1.49,0.79,us,us7000qupn,2025-09-08T10:15:05.040Z,"19 km N of Komodo, Indonesia",earthquake,6.49,4.35,0.149,13,reviewed,us,us
 2025-09-08T07:07:44.080Z,35.264,-118.555,7.55,1.12,ml,34,63,0.1131,0.14,ci,ci41285936,2025-09-08T12:53:49.109Z,"18 km NNW of Tehachapi, CA",earthquake,0.17,0.68,0.292,25,reviewed,ci,ci
-2025-09-08T07:04:00.010Z,18.4798,-67.2661,97,3.68,md,24,288,0.1554,0.17,pr,pr2025251001,2025-09-08T07:30:48.535Z,"13 km WNW of Aguadilla, Puerto Rico",earthquake,1.44,0.77,0.07,19,reviewed,pr,pr
+2025-09-08T07:04:00.010Z,18.4798,-67.2661,97,3.68,md,24,288,0.1554,0.17,pr,pr2025251001,2025-09-08T13:58:13.040Z,"13 km WNW of Aguadilla, Puerto Rico",earthquake,1.44,0.77,0.07,19,reviewed,pr,pr
 2025-09-08T06:58:59.903Z,44.5399,-112.2477,9.851,3.9,mwr,45,36,0.293,0.47,us,us7000qup7,2025-09-08T09:17:50.836Z,"20 km NNW of Spencer, Idaho",earthquake,2.32,8.45,0.03,108,reviewed,us,us
 2025-09-08T06:57:22.998Z,44.571,-112.2207,10,3.7,ml,32,67,0.306,0.47,us,us7000qup5,2025-09-08T09:52:50.397Z,"23 km N of Spencer, Idaho",earthquake,1.6,2.01,0.028,164,reviewed,us,us
 2025-09-08T06:36:50.660Z,38.58150100708,-122.78633117676,6.4000000953674,1.23,md,12,69,0.0662,0.07,nc,nc75234817,2025-09-08T08:07:20.213Z,"5 km NE of Windsor, CA",earthquake,0.38,0.879999995,0.1,8,automatic,nc,nc
