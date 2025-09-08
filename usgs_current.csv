@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-08T20:32:05.951Z,-17.8995,-178.5112,590.647,4.2,mb,53,85,2.47,0.78,us,us7000quvd,2025-09-08T20:47:30.040Z,"230 km E of Levuka, Fiji",earthquake,13.89,9.092,0.051,106,reviewed,us,us
-2025-09-08T20:19:36.800Z,38.822498321533,-122.81099700928,2.9800000190735,0.79,md,15,58,0.00115,0.02,nc,nc75235127,2025-09-08T20:21:13.193Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.709999979,0.15,17,automatic,nc,nc
+2025-09-08T20:29:36.360Z,18.192,-67.0625,16.62,2.84,md,17,71,0.02744,0.15,pr,pr71495143,2025-09-08T20:57:20.510Z,"8 km E of Mayagüez, Puerto Rico",earthquake,0.3,0.47,0.13566757221297,8,reviewed,pr,pr
+2025-09-08T20:19:36.800Z,38.822498321533,-122.81099700928,2.9800000190735,0.79,md,15,58,0.00115,0.02,nc,nc75235127,2025-09-08T20:57:18.797Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.709999979,0.15,17,automatic,nc,nc
 2025-09-08T20:10:15.264Z,62.3587,-151.2134,86.1,2,ml,,,,0.31,ak,ak025bjfuydy,2025-09-08T20:12:03.058Z,"27 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-08T20:07:42.297Z,61.5603,-151.5192,66.1,1,ml,,,,0.38,ak,ak025bjfudbp,2025-09-08T20:08:53.949Z,"48 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-08T19:47:37.530Z,37.626998901367,-119.11416625977,4,0.61,md,6,186,0.02814,0.03,nc,nc75235122,2025-09-08T20:47:20.721Z,"12 km W of Mammoth Lakes, CA",earthquake,1.81,1.75,0.46,2,automatic,nc,nc
@@ -12,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T19:02:41.220Z,35.8996667,-117.6755,3.42,1.51,ml,31,48,0.05227,0.13,ci,ci41286424,2025-09-08T19:40:21.351Z,"21 km E of Little Lake, CA",earthquake,0.13,0.38,0.2,26,reviewed,ci,ci
 2025-09-08T18:59:14.660Z,38.837833404541,-122.80816650391,1.7300000190735,0.73,md,13,61,0.01393,0.01,nc,nc75235097,2025-09-08T19:52:19.306Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.819999993,0.13,14,automatic,nc,nc
 2025-09-08T18:52:08.270Z,9.904,125.5155,122.138,5.3,mww,89,50,2.817,0.98,us,us7000quup,2025-09-08T19:08:02.040Z,"10 km SW of Dinagat, Philippines",earthquake,9.11,6.444,0.057,30,reviewed,us,us
+2025-09-08T18:52:02.120Z,49.109666666667,-122.024,10.1,1.61,ml,7,297,0.4362,0.27,uw,uw62185006,2025-09-08T20:57:37.210Z,"8 km SW of Chilliwack, Canada",earthquake,1.43,31.61,0.10979555790739,5,reviewed,uw,uw
 2025-09-08T18:38:22.388Z,-20.4944,-178.4958,589.971,4.4,mb,31,121,4.257,0.71,us,us7000quun,2025-09-08T18:55:24.040Z,"Fiji region",earthquake,15.72,10.029,0.093,33,reviewed,us,us
 2025-09-08T18:38:05.960Z,32.6098333,-116.9801667,2.77,1.13,ml,25,106,0.04223,0.15,ci,ci41286408,2025-09-08T18:57:47.745Z,"7 km ESE of Chula Vista, CA",quarry blast,0.32,0.33,0.197,8,automatic,ci,ci
 2025-09-08T18:37:54.240Z,33.0306667,-116.4088333,10.5,1.05,ml,44,43,0.05264,0.17,ci,ci41286400,2025-09-08T18:42:38.282Z,"19 km ESE of Julian, CA",earthquake,0.17,0.32,0.192,30,automatic,ci,ci
@@ -54,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T14:05:31.020Z,35.8991667,-117.6733333,3.04,0.65,ml,14,91,0.05208,0.09,ci,ci41286144,2025-09-08T14:08:59.020Z,"21 km E of Little Lake, CA",earthquake,0.14,0.59,0.111,6,automatic,ci,ci
 2025-09-08T14:04:15.120Z,37.028,141.9062,46.013,4.5,mb,50,116,3.007,0.71,us,us7000qus5,2025-09-08T14:59:33.040Z,"85 km ESE of Tomioka, Japan",earthquake,9.7,2.632,0.088,38,reviewed,us,us
 2025-09-08T14:03:34.891Z,62.4144,-148.7876,41.7,1.5,ml,,,,0.35,ak,ak025bjc8w9d,2025-09-08T14:05:16.277Z,"61 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-09-08T14:00:01.130Z,34.0221667,-118.3691667,10.96,2.34,ml,101,42,0.02297,0.21,ci,ci41286136,2025-09-08T18:48:10.723Z,"2 km N of Baldwin Hills, CA",earthquake,0.14,0.24,0.182,183,reviewed,ci,ci
+2025-09-08T14:00:01.130Z,34.0221667,-118.3691667,10.96,2.34,ml,101,42,0.02297,0.21,ci,ci41286136,2025-09-08T20:53:17.654Z,"2 km N of Baldwin Hills, CA",earthquake,0.14,0.24,0.182,183,reviewed,ci,ci
 2025-09-08T13:57:13.730Z,18.112,-67.158833333333,17.36,2.26,md,8,212,0.09401,0.18,pr,pr71495103,2025-09-08T14:11:48.640Z,"3 km NNW of Cabo Rojo, Puerto Rico",earthquake,0.81,0.6,0.070401248098081,4,reviewed,pr,pr
 2025-09-08T13:53:29.470Z,44.571333333333,-112.21516666667,5.46,1.89,ml,30,73,0.1299,0.16,mb,mb90110878,2025-09-08T16:06:26.050Z,"23 km N of Spencer, Idaho",earthquake,0.26,1.24,0.16331667072973,31,reviewed,mb,mb
 2025-09-08T13:39:40.456Z,32.885,-100.97,4.8096,1.8,ml,23,71,0,0.2,tx,tx2025rrysja,2025-09-08T14:08:19.207Z,"19 km NNW of Snyder, Texas",earthquake,0.57970530404198,1.143979759648,0.1,13,reviewed,tx,tx
@@ -224,7 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T21:25:00.850Z,50.9644,156.9651,88.136,5,mb,96,84,2.194,0.57,us,us7000qulz,2025-09-08T02:56:15.040Z,"67 km ENE of Severo-Kuril’sk, Russia",earthquake,7.74,4.654,0.022,635,reviewed,us,us
 2025-09-07T21:17:45.110Z,38.820999145508,-122.8056640625,3.2999999523163,0.76,md,12,58,0.01532,0.01,nc,nc75234672,2025-09-07T22:47:20.164Z,"6 km NNW of The Geysers, CA",earthquake,0.38,1.80999994,0.13,12,automatic,nc,nc
 2025-09-07T21:01:49.550Z,35.0288333,-119.0401667,14.81,1.11,ml,27,79,0.04652,0.19,ci,ci41285760,2025-09-07T21:05:50.816Z,"14 km NW of Grapevine, CA",earthquake,0.3,0.39,0.136,28,automatic,ci,ci
-2025-09-07T20:55:34.162Z,61.3121,-141.1399,11.3,1.5,ml,,,,0.32,ak,ak025bhslako,2025-09-07T20:58:10.070Z,"96 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-07T20:54:39.574Z,31.65,-104.416,6.0999,1.5,ml,34,85,0,0.2,tx,tx2025rqrkhw,2025-09-08T10:09:35.095Z,"58 km S of Whites City, New Mexico",earthquake,0.84080425833048,0.56180056837556,0.2,13,reviewed,tx,tx
-2025-09-07T20:51:51.940Z,33.2208333,-117.4263333,15.44,1.02,ml,24,202,0.1475,0.13,ci,ci41285752,2025-09-08T12:55:56.428Z,"4 km W of Camp Pendleton South, CA",earthquake,0.29,0.26,0.248,18,reviewed,ci,ci
-2025-09-07T20:51:39.919Z,61.3318,-141.1784,9.1,1.9,ml,,,,0.42,ak,ak025bhskg5j,2025-09-07T20:53:11.942Z,"93 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
