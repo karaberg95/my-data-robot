@@ -225,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T08:13:35.820Z,31.707,-104.181,6.2537,1.2,ml,26,57,0.1,0.1,tx,tx2025rrnxjs,2025-09-08T17:54:42.927Z,"55 km W of Mentone, Texas",earthquake,0.57336926297701,0.74919210468345,0.2,23,reviewed,tx,tx
 2025-09-08T08:12:08.480Z,46.205333333333,-122.188,3,-0.71,md,6,128,0.005899,0.05,uw,uw62184741,2025-09-08T20:17:21.720Z,"38 km NNE of Amboy, Washington",earthquake,0.31,0.84,0.023361865668147,4,reviewed,uw,uw
 2025-09-08T07:56:05.790Z,18.248833333333,-66.4235,37.8,2.4,md,11,102,0.1016,0.08,pr,pr71495083,2025-09-08T08:10:54.660Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.42,0.65,0.11868684227778,6,reviewed,pr,pr
-2025-09-08T07:46:54.570Z,36.2213333,-118.3176667,4.63,-0.06,ml,5,162,0.06921,0.07,ci,ci41285984,2025-09-08T17:53:30.770Z,"29 km WSW of Olancha, CA",earthquake,1.32,2.1,0.041,3,reviewed,ci,ci
-2025-09-08T07:42:48.770Z,35.61516667,-98.0455,5.28,1.56,ml,67,55,0.1529699821,0.38,ok,ok2025rpja,2025-09-08T17:01:59.663Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.9,0.23,24,reviewed,ok,ok
-2025-09-08T07:41:09.839Z,63.5826,-147.4064,3.5,1.2,ml,,,,0.92,ak,ak025bj8ayav,2025-09-08T07:42:53.443Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
