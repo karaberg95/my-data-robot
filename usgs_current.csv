@@ -217,6 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T22:00:41.030Z,35.32166667,-97.9365,5.95,1.02,ml,45,63,0.07018622707,0.26,ok,ok2025ruch,2025-09-11T12:49:39.448Z,"1 km NE of Minco, Oklahoma",earthquake,,0.5,0.21,19,reviewed,ok,ok
 2025-09-10T22:00:40.380Z,37.467834472656,-118.81199645996,2.2300000190735,2.13,md,25,105,0.1227,0.06,nc,nc75236112,2025-09-10T23:47:20.001Z,"16 km WSW of Toms Place, CA",earthquake,0.23,1.46000004,0.15,22,automatic,nc,nc
 2025-09-10T22:00:29.770Z,46.189666666667,-122.19433333333,7.52,0.14,ml,8,109,0.01219,0.11,uw,uw62178622,2025-09-11T18:25:31.550Z,"36 km NNE of Amboy, Washington",earthquake,0.39,0.65,0.13820550436776,4,reviewed,uw,uw
+2025-09-10T21:59:11.170Z,33.0383333,-115.0055,-0.18,1.47,ml,11,74,0.1504,0.1,ci,ci41288560,2025-09-11T20:45:39.113Z,"43 km NE of Holtville, CA",quarry blast,0.29,31.61,0.149,12,reviewed,ci,ci
 2025-09-10T21:58:58.784Z,31.568,-104.064,6.6638,0.7,ml,18,59,0,0.1,tx,tx2025rwgskm,2025-09-11T14:35:21.833Z,"38 km NW of Toyah, Texas",earthquake,0.5677167631782,0.43698094151974,0.2,18,reviewed,tx,tx
 2025-09-10T21:50:42.061Z,-8.0866,115.5079,227.353,4.5,mb,20,129,1.395,0.91,us,us7000qvch,2025-09-10T22:12:37.040Z,"41 km NNW of Bedugul, Indonesia",earthquake,6.73,8.824,0.135,16,reviewed,us,us
 2025-09-10T21:46:15.159Z,52.4452,158.7287,85.163,4.8,mb,40,162,0.581,0.9,us,us7000qvcg,2025-09-10T22:06:32.040Z,"58 km SSE of Vilyuchinsk, Russia",earthquake,9.82,6.964,0.083,45,reviewed,us,us
@@ -229,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T20:54:24.377Z,61.1134,-148.0094,28.3,1.7,ml,,,,0.5,ak,ak025bmr73l1,2025-09-10T20:55:58.529Z,"52 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T20:51:47.300Z,51.8545,179.57666666667,9.77,1.08,ml,5,284,0.04645,0.22,av,av93760283,2025-09-10T23:54:06.320Z,"261 km W of Adak, Alaska",earthquake,2.08,0.95,0.19930787897073,5,reviewed,av,av
 2025-09-10T20:46:44.500Z,35.0565,-118.341,-0.99,1.24,ml,20,44,0.06575,0.17,ci,ci41288520,2025-09-10T20:50:09.568Z,"13 km SE of Tehachapi, CA",earthquake,0.24,0.59,0.231,27,automatic,ci,ci
-2025-09-10T20:45:34.820Z,46.206833333333,-122.145,7.04,-0.22,md,10,134,0.01058,0.1,uw,uw62178512,2025-09-11T17:53:23.750Z,"40 km SSE of Morton, Washington",earthquake,0.48,0.52,0.16829026789806,6,reviewed,uw,uw
-2025-09-10T20:42:40.650Z,33.7083333,-116.7261667,17.83,0.78,ml,21,82,0.05877,0.12,ci,ci41288504,2025-09-10T20:46:18.548Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.52,0.157,14,automatic,ci,ci
