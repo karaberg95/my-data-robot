@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T05:14:18.200Z,63.0947,-151.4245,1.5,1.6,ml,,,,0.72,ak,ak025bo5kcvw,2025-09-11T05:16:16.619Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-11T05:06:44.390Z,38.813835144043,-122.79866790772,3.25,0.78,md,18,57,0.006421,0.01,nc,nc75236222,2025-09-11T05:52:16.392Z,"5 km NNW of The Geysers, CA",earthquake,0.29,0.529999971,0.08,18,automatic,nc,nc
 2025-09-11T05:05:54.396Z,51.4168,159.6228,35.508,4.8,mb,34,98,1.717,0.71,us,us7000qvdq,2025-09-11T05:30:45.040Z,"187 km SSE of Vilyuchinsk, Russia",earthquake,9.55,6.768,0.103,29,reviewed,us,us
-2025-09-11T04:57:59.310Z,36.580665588379,-121.16033172607,9.039999961853,1.66,md,24,58,0.02208,0.26,nc,nc75236212,2025-09-11T05:32:16.252Z,"6 km  of Pinnacles, CA",earthquake,0.51,1.35000002,0.19,16,automatic,nc,nc
+2025-09-11T04:57:59.310Z,36.580665588379,-121.16033172607,9.039999961853,1.66,md,24,58,0.02208,0.26,nc,nc75236212,2025-09-11T06:52:16.804Z,"6 km  of Pinnacles, CA",earthquake,0.51,1.35000002,0.19,16,automatic,nc,nc
 2025-09-11T04:54:21.990Z,51.5117,159.8403,10,5.3,mb,61,121,1.681,1.18,us,us7000qvdj,2025-09-11T05:13:57.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.97,1.873,0.039,222,reviewed,us,us
 2025-09-11T04:54:11.361Z,36.4322,-116.5858,3.9,0.8,ml,21,131.82,0.155,0.1815,nn,nn00904138,2025-09-11T04:56:18.595Z,"24 km E of Furnace Creek, California",earthquake,,17.3,0.17,14,automatic,nn,nn
 2025-09-11T04:53:55.986Z,51.4916,159.6916,10,5,mb,33,164,1.662,1.41,us,us7000qvdn,2025-09-11T05:21:46.040Z,"182 km SSE of Vilyuchinsk, Russia",earthquake,10.6,1.9,0.072,62,reviewed,us,us
@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T07:07:51.140Z,46.012166666667,-110.95916666667,14.08,1.44,ml,26,123,0.2215,0.15,mb,mb90111103,2025-09-10T14:08:08.620Z,"10 km NW of Sedan, Montana",earthquake,0.36,0.53,0.13570438649768,23,reviewed,mb,mb
 2025-09-10T07:03:53.780Z,32.09,-101.656,8.667,1.4,ml,51,48,0,0.2,tx,tx2025rvdbbu,2025-09-10T07:25:44.288Z,"13 km ESE of Stanton, Texas",earthquake,0.34362508006118,0.62915532026916,0.2,25,reviewed,tx,tx
 2025-09-10T06:56:40.130Z,19.4115,-155.26283333333,1.88,0.88,ml,15,89,0.002851,0.25,hv,hv74772072,2025-09-11T01:52:18.040Z,"4 km SW of Volcano, Hawaii",earthquake,0.29,0.33,0.21400525288712,14,reviewed,hv,hv
-2025-09-10T06:51:25.132Z,50.7386,157.1086,53.104,4.8,mb,58,129,2.401,0.68,us,us7000qv69,2025-09-10T07:20:01.040Z,"69 km E of Severo-Kuril’sk, Russia",earthquake,9.31,7.252,0.031,322,reviewed,us,us
