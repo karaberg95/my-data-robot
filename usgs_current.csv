@@ -1,9 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-12T04:10:02.150Z,46.652168273926,-120.54650115967,6.8299999237061,1.825822353363,ml,49,53,,0.150000006,uw,uw62179552,2025-09-12T04:13:09.250Z,"1 km W of Selah, Washington",earthquake,0.17,0.25,0.17163264751434,21,automatic,uw,uw
+2025-09-12T04:09:41.185Z,59.4829,-153.7065,125.4,2.2,ml,,,,0.6,ak,ak025bpsh8yo,2025-09-12T04:13:13.652Z,"40 km SSE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-12T04:06:24.140Z,38.81583404541,-122.81133270264,2.7699999809265,1.09,md,27,45,0.007614,0.03,nc,nc75236757,2025-09-12T04:08:01.366Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.14,29,automatic,nc,nc
+2025-09-12T04:02:54.710Z,35.7083333,-117.5118333,6.78,1.91,ml,42,57,0.08371,0.15,ci,ci41289608,2025-09-12T04:13:44.640Z,"12 km SW of Searles Valley, CA",earthquake,0.14,0.48,0.248,25,automatic,ci,ci
+2025-09-12T03:54:34.338Z,63.4187,-151.1152,0,2.1,ml,,,,0.84,ak,ak025bps5g21,2025-09-12T03:57:07.503Z,"33 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-12T03:45:39.030Z,35.366,-117.8026667,3.54,0.79,ml,26,71,0.1045,0.15,ci,ci41289600,2025-09-12T03:49:08.492Z,"15 km W of Johannesburg, CA",earthquake,0.23,0.79,0.168,12,automatic,ci,ci
 2025-09-12T03:40:56.000Z,33.0201667,-116.283,5.04,0.73,ml,33,55,0.06759,0.18,ci,ci41289592,2025-09-12T03:44:21.910Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.23,0.46,0.224,12,automatic,ci,ci
 2025-09-12T03:31:04.243Z,-56.3186,-27.81,10,5.3,mww,33,87,5.36,0.75,us,us7000qvly,2025-09-12T03:47:45.040Z,"South Sandwich Islands region",earthquake,5.64,1.88,0.11,8,reviewed,us,us
 2025-09-12T03:26:19.329Z,63.2683,-150.6322,121.7,1.5,ml,,,,0.26,ak,ak025bprzeuk,2025-09-12T03:29:02.699Z,"62 km ESE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-09-12T03:26:11.130Z,38.833168029785,-122.87516784668,2.5499999523163,0.77,md,14,123,0.008207,0.02,nc,nc75236747,2025-09-12T03:27:45.823Z,"12 km NW of The Geysers, CA",earthquake,0.37,0.579999983,0.12,15,automatic,nc,nc
+2025-09-12T03:26:11.130Z,38.833168029785,-122.87516784668,2.5499999523163,0.77,md,14,123,0.008207,0.02,nc,nc75236747,2025-09-12T03:57:19.755Z,"12 km NW of The Geysers, CA",earthquake,0.37,0.579999983,0.12,15,automatic,nc,nc
 2025-09-12T03:25:24.970Z,40.431999206543,-125.10766601562,0.019999999552965,3.19,md,27,301,0.6019,0.38,nc,nc75236742,2025-09-12T03:42:19.653Z,"71 km WNW of Petrolia, CA",earthquake,7.97,14.5100002,0.14,20,automatic,nc,nc
 2025-09-12T03:14:17.004Z,61.6219,-149.9756,33.3,1.4,ml,,,,0.52,ak,ak025bprwu2s,2025-09-12T03:16:21.402Z,"8 km W of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-12T02:54:46.630Z,35.8571667,-117.6915,6.71,0.7,ml,20,56,0.07686,0.16,ci,ci41289584,2025-09-12T02:58:13.222Z,"21 km ESE of Little Lake, CA",earthquake,0.23,0.49,0.17,16,automatic,ci,ci
@@ -22,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T01:38:39.282Z,-22.94,-66.6606,222.2,4.5,mb,47,49,1.399,1,us,us7000qvlg,2025-09-12T01:55:12.040Z,"101 km WSW of Abra Pampa, Argentina",earthquake,8.55,7.545,0.068,65,reviewed,us,us
 2025-09-12T01:35:44.598Z,61.3112,-146.872,13.1,2,ml,,,,0.75,ak,ak025bpquj17,2025-09-12T01:37:47.546Z,"34 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-12T01:32:06.993Z,61.5136,-149.8622,35.4,1.5,ml,,,,0.52,ak,ak025bpqtszf,2025-09-12T01:38:38.083Z,"4 km E of Big Lake, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2025-09-12T01:24:00.400Z,35.485168457031,-120.74266815185,5.5500001907349,1.55,md,12,103,0.09667,0.04,nc,nc75236702,2025-09-12T02:07:16.993Z,"7 km W of Atascadero, CA",earthquake,0.31,0.899999976,0.15,10,automatic,nc,nc
+2025-09-12T01:24:00.400Z,35.485168457031,-120.74266815185,5.5500001907349,1.55,md,12,103,0.09667,0.04,nc,nc75236702,2025-09-12T04:12:16.852Z,"7 km W of Atascadero, CA",earthquake,0.31,0.899999976,0.15,10,automatic,nc,nc
 2025-09-12T01:21:55.815Z,36.427,-116.5986,0,0.3,ml,8,138.06,0.155,0.2347,nn,nn00904200,2025-09-12T01:24:00.875Z,"22 km E of Furnace Creek, California",earthquake,,18.3,0.21,7,automatic,nn,nn
 2025-09-12T01:20:54.058Z,36.4346,-116.5869,0,0.8,ml,19,121.04,0.153,0.2564,nn,nn00904198,2025-09-12T01:23:03.058Z,"23 km E of Furnace Creek, California",earthquake,,13.9,0.15,13,automatic,nn,nn
 2025-09-12T01:19:34.987Z,36.4388,-116.5772,3.8,1.2,ml,26,103.69,0.154,0.1754,nn,nn00904196,2025-09-12T01:21:44.165Z,"24 km E of Furnace Creek, California",earthquake,,5,0.15,16,automatic,nn,nn
@@ -258,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T04:27:16.010Z,33.5875,-116.618,12.64,0.45,ml,28,42,0.02327,0.13,ci,ci41288712,2025-09-11T04:40:04.016Z,"6 km NE of Anza, CA",earthquake,0.18,0.29,0.268,10,automatic,ci,ci
 2025-09-11T04:23:42.870Z,35.1678333,-119.2328333,24.11,2.47,ml,65,33,0.1545,0.26,ci,ci41288704,2025-09-11T21:39:57.040Z,"20 km NE of Maricopa, CA",earthquake,0.2,0.65,0.208,25,reviewed,ci,ci
 2025-09-11T04:20:38.530Z,33.3351667,-116.146,6.92,1.1,ml,51,58,0.1396,0.23,ci,ci41288696,2025-09-11T04:29:56.879Z,"15 km SSW of Oasis, CA",earthquake,0.19,0.82,0.155,25,automatic,ci,ci
-2025-09-11T04:14:50.360Z,53.877166666667,-166.98,7.07,0.19,ml,4,233,0.07301,0.1,av,av93049774,2025-09-11T22:02:25.340Z,"28 km W of Dutch Harbor, Alaska",earthquake,1.26,1.08,0.24583177527514,4,reviewed,av,av
