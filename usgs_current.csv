@@ -170,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T08:58:25.573Z,31.704,-104.283,7.4841,0.9,ml,18,63,0,0.2,tx,tx2025ryyhnn,2025-09-12T14:48:01.352Z,"53 km S of Whites City, New Mexico",earthquake,0.98869604548584,0.79028263293995,0.2,19,reviewed,tx,tx
 2025-09-12T08:58:00.887Z,-21.7798,170.8323,174.862,4.7,mb,32,78,3.245,1.26,us,us7000qvnd,2025-09-12T09:18:13.040Z,"295 km SSE of Isangel, Vanuatu",earthquake,11.09,9.587,0.108,26,reviewed,us,us
 2025-09-12T08:51:11.996Z,31.713,-104.292,6.3562,0.9,ml,12,70,0,0.1,tx,tx2025ryybhn,2025-09-12T14:58:26.144Z,"51 km S of Whites City, New Mexico",earthquake,0.84628371020918,1.0405465716207,0.1,23,reviewed,tx,tx
+2025-09-12T08:45:36.790Z,61.318333333333,-152.26066666667,1.47,1.67,ml,10,125,0.08022,0.08,av,av93762528,2025-09-12T23:53:18.620Z,"66 km WNW of Beluga, Alaska",earthquake,0.2,0.67,0.1699211478382,11,reviewed,av,av
 2025-09-12T08:41:36.539Z,31.667,-104.367,5.177,1.1,ml,14,67,0.1,0.1,tx,tx2025ryxtae,2025-09-12T15:16:55.695Z,"56 km S of Whites City, New Mexico",earthquake,1.0391548740815,1.3809032709564,0.2,21,reviewed,tx,tx
 2025-09-12T08:24:46.679Z,38.0294,-118.7916,14.1,1.2,ml,11,92.43,0.317,0.1542,nn,nn00904214,2025-09-12T17:01:16.942Z,"30 km ENE of Lee Vining, California",earthquake,,1.8,0.28,5,reviewed,nn,nn
 2025-09-12T08:18:48.640Z,35.8598333,-118.4163333,5.62,0.97,ml,26,74,0.08648,0.16,ci,ci41289720,2025-09-12T08:22:13.013Z,"12 km N of Kernville, CA",earthquake,0.22,0.87,0.226,13,automatic,ci,ci
