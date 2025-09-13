@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T23:46:38.220Z,38.827835083008,-122.81583404541,1.7799999713898,1.14,md,20,44,0.006317,0.02,nc,nc75237092,2025-09-13T01:37:21.604Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.349999994,0.18,21,automatic,nc,nc
 2025-09-12T23:38:05.290Z,46.902166666667,-112.51983333333,9.35,1.72,ml,16,126,0.06087,0.1,mb,mb90111518,2025-09-13T13:10:47.390Z,"13 km ESE of Lincoln, Montana",earthquake,0.43,0.56,0.19418300373575,22,reviewed,mb,mb
 2025-09-12T23:36:53.330Z,36.938167572021,-120.19300079346,13.029999732971,2.13,md,14,138,0.2328,0.2,nc,nc75237087,2025-09-13T01:12:17.301Z,"12 km W of Madera, CA",earthquake,0.67,1.12,0.2,11,automatic,nc,nc
-2025-09-12T23:35:53.858Z,14.7067,-94.245,10,4.6,mb,48,155,2.566,0.81,us,us7000qvvg,2025-09-13T00:06:17.040Z,"140 km SSW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,8.63,1.939,0.043,159,reviewed,us,us
