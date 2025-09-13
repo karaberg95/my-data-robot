@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-13T05:44:24.750Z,33.1021667,-116.5143333,11.26,0.39,ml,30,44,0.06856,0.17,ci,ci41290392,2025-09-13T05:48:03.233Z,"9 km ENE of Julian, CA",earthquake,0.27,0.5,0.054,6,automatic,ci,ci
 2025-09-13T05:40:34.260Z,36.0625,-117.4435,4.17,1.18,ml,29,78,0.03715,0.16,ci,ci41290384,2025-09-13T05:43:59.066Z,"33 km N of Searles Valley, CA",earthquake,0.22,0.36,0.178,22,automatic,ci,ci
 2025-09-13T05:35:16.049Z,31.608,-103.974,4.2476,1.5,ml,40,45,0,0.4,tx,tx2025sanhir,2025-09-13T05:39:46.543Z,"36 km NNW of Toyah, Texas",earthquake,0,0.85575139522552,0.2,30,automatic,tx,tx
 2025-09-13T05:23:29.205Z,54.4995,-159.85,29.993,4.3,mb,66,162,0.365,0.52,us,us7000qvxi,2025-09-13T05:34:05.040Z,"102 km SSE of Sand Point, Alaska",earthquake,7.99,8.758,0.238,5,reviewed,us,us
@@ -282,6 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T05:57:09.440Z,38.832164764404,-122.80883026123,2.2599999904633,1.09,md,22,46,0.008811,0.02,nc,nc75236807,2025-09-12T06:37:18.365Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.50999999,0.16,22,automatic,nc,nc
 2025-09-12T05:53:34.817Z,32.108,-102.141,5.4443,0.5,ml,15,76,0,0.2,tx,tx2025rysefl,2025-09-12T13:37:39.770Z,"13 km NNW of Midland, Texas",earthquake,0.52379887586523,0.71813029316369,0.1,13,reviewed,tx,tx
 2025-09-12T05:52:14.440Z,35.8126667,-117.6328333,1.36,0.81,ml,20,51,0.02887,0.21,ci,ci41289672,2025-09-12T05:58:57.948Z,"21 km WNW of Searles Valley, CA",earthquake,0.29,0.36,0.093,18,automatic,ci,ci
-2025-09-12T05:50:52.200Z,31.625,-104.107,8.0481,1.2,ml,16,76,0,0.1,tx,tx2025rysbte,2025-09-12T13:04:30.050Z,"45 km NW of Toyah, Texas",earthquake,0.90054062857143,1.1773739035492,0.2,29,reviewed,tx,tx
-2025-09-12T05:48:08.710Z,32.348,-102.076,8.5205,0.4,ml,11,72,0,0.1,tx,tx2025ryrzof,2025-09-12T13:42:08.874Z,"36 km NW of Stanton, Texas",earthquake,0.88753174009257,1.1528673886079,0.2,9,reviewed,tx,tx
-2025-09-12T05:45:31.258Z,31.876,-103.922,6.9202,1.4,ml,25,45,0.1,0.1,tx,tx2025ryrwxs,2025-09-12T12:46:26.575Z,"35 km WNW of Mentone, Texas",earthquake,0.55679976423691,0.8227528492908,0.2,35,reviewed,tx,tx
