@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-14T14:28:39.459Z,58.2354,-155.0648,0,0.5,ml,,,,0.4,ak,ak025bt9mch5,2025-09-14T14:30:34.352Z,"82 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-09-14T14:27:06.060Z,36.786499023438,-121.30783081055,7.7600002288818,1.37,md,9,151,0.01288,0.07,nc,nc75237707,2025-09-14T14:28:43.512Z,"1 km ESE of Tres Pinos, CA",earthquake,0.51,1.07000005,0.24,8,automatic,nc,nc
 2025-09-14T14:05:34.310Z,37.113998413086,-118.47783660889,8.6000003814697,2.56,md,33,53,0.1944,0.08,nc,nc75237702,2025-09-14T14:17:23.265Z,"18 km W of Big Pine, CA",earthquake,0.26,1.46000004,0.29,25,automatic,nc,nc
 2025-09-14T14:03:31.270Z,33.246,-116.4003333,2.22,1.11,ml,65,25,0.02625,0.2,ci,ci41291304,2025-09-14T14:14:19.090Z,"3 km WSW of Borrego Springs, CA",earthquake,0.14,0.25,0.113,24,automatic,ci,ci
 2025-09-14T14:02:56.197Z,60.4275,-147.3443,15,1.6,ml,,,,0.72,ak,ak025bt9gt5f,2025-09-14T14:20:23.838Z,"54 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T11:39:00.520Z,33.471,-116.5081667,7.89,0.83,ml,50,57,0.08207,0.21,ci,ci41291280,2025-09-14T13:49:37.950Z,"18 km ESE of Anza, CA",earthquake,0.18,0.59,0.14,25,reviewed,ci,ci
 2025-09-14T11:32:02.930Z,18.023333333333,-65.6295,6.67,2.1,md,8,226,0.1036,0.17,pr,pr71495653,2025-09-14T12:13:36.810Z,"18 km WSW of Esperanza, Puerto Rico",earthquake,0.8,0.92,0.20201140306567,4,reviewed,pr,pr
 2025-09-14T11:17:48.621Z,63.3722,-149.8128,103.1,2.6,ml,,,,0.34,ak,ak025bt7rph6,2025-09-14T11:19:42.012Z,"43 km W of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-14T11:11:51.105Z,26.6066,92.1963,29,5.5,mww,203,27,3.226,1.05,us,us7000qw56,2025-09-14T14:01:06.702Z,"10 km NNE of Khārupatia, India",earthquake,7.39,1.802,0.103,9,reviewed,us,us
+2025-09-14T11:11:51.105Z,26.6066,92.1963,29,5.5,mww,203,27,3.226,1.05,us,us7000qw56,2025-09-14T14:34:38.270Z,"10 km NNE of Khārupatia, India",earthquake,7.39,1.802,0.103,9,reviewed,us,us
 2025-09-14T11:06:12.010Z,33.8805,-116.202,8.21,0.83,ml,45,72,0.05075,0.16,ci,ci41291272,2025-09-14T11:15:34.104Z,"18 km N of Indio, CA",earthquake,0.18,0.44,0.136,20,automatic,ci,ci
 2025-09-14T10:29:17.226Z,37.1531,-116.2372,5.6,0.3,ml,16,121.9,0.056,0.0921,nn,nn00904336,2025-09-14T13:23:33.178Z,"53 km ENE of Beatty, Nevada",earthquake,,2.3,0.35,7,reviewed,nn,nn
 2025-09-14T10:11:32.120Z,46.18733215332,-122.31700134277,9.1199998855591,0.769999981,md,11,255,,0.0399999991,uw,uw62180617,2025-09-14T10:13:29.660Z,"32 km NNE of Amboy, Washington",earthquake,1.83,2.1400001,,1,automatic,uw,uw
@@ -210,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T14:50:01.111Z,60.9734,-147.7215,9.1,1.6,ml,,,,0.62,ak,ak025brm7hty,2025-09-13T14:53:32.787Z,"56 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-13T14:42:01.375Z,53.5842,160.0476,64.689,4.1,mb,39,168,1.01,0.7,us,us7000qvzv,2025-09-13T15:28:02.040Z,"110 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,12.01,10.935,0.082,41,reviewed,us,us
 2025-09-13T14:36:08.284Z,32.386,-101.727,1.5129,1.1,ml,10,134,0,0.6,tx,tx2025sbffkw,2025-09-13T15:00:14.562Z,"15 km S of Ackerly, Texas",earthquake,0,4.859441280365,0.5,7,automatic,tx,tx
-2025-09-13T14:33:52.000Z,36.131168365479,-120.27500152588,10.970000267029,1.46,md,13,186,0.01732,0.11,nc,nc75237387,2025-09-13T15:52:18.650Z,"8 km ESE of Coalinga, CA",earthquake,1.22,1.10000002,0.23,6,automatic,nc,nc
