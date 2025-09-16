@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T23:08:34.130Z,35.8996667,-117.6753333,2.69,1.01,ml,26,50,0.05222,0.18,ci,ci41292008,2025-09-16T13:35:14.202Z,"21 km E of Little Lake, CA",earthquake,0.18,0.41,0.155,22,reviewed,ci,ci
 2025-09-15T23:07:57.380Z,38.821166992188,-122.81383514404,2.579999923706,1.08,md,12,75,0.003685,0.01,nc,nc75238147,2025-09-15T23:32:19.746Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.600000024,0.3,13,automatic,nc,nc
 2025-09-15T23:07:28.420Z,37.9265,-121.8465,4.2,1.9,md,61,52,0.05001,0.19,nc,nc75238142,2025-09-16T10:52:19.635Z,"8 km ESE of Clayton, CA",earthquake,0.16,0.44,0.186,42,reviewed,nc,nc
-2025-09-15T22:56:34.862Z,64.931,-147.7522,0,1.4,ml,,,,0.47,ak,ak025bv235i6,2025-09-15T22:58:23.044Z,"3 km NW of Farmers Loop, Alaska",earthquake,,0.5,,,automatic,ak,ak
