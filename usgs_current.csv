@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T19:10:30.323Z,51.6649,178.1724,111.493,4.5,mb,81,84,0.382,0.56,us,us7000qwjm,2025-09-16T20:36:01.151Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.6,5.193,0.054,101,reviewed,us,us
 2025-09-16T19:02:24.510Z,45.649333333333,-111.59466666667,2.58,0.67,ml,8,171,0.05784,0.04,mb,mb90112128,2025-09-16T22:21:29.320Z,"15 km ESE of Harrison, Montana",earthquake,0.41,0.49,0.23659554933831,4,reviewed,mb,mb
 2025-09-16T19:01:59.123Z,63.1206,-150.7935,115.6,1.8,ml,,,,0.34,ak,ak025bwnigo8,2025-09-16T19:04:11.988Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-09-16T18:41:59.260Z,36.545166015625,-121.08899688721,5.6300001144409,2.04,md,30,59,0.05186,0.16,nc,nc75238507,2025-09-16T20:17:26.733Z,"5 km E of Pinnacles, CA",earthquake,0.35,1.23000002,0.24,33,automatic,nc,nc
