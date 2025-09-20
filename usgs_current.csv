@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-20T18:45:29.710Z,34.0008316,-116.1721649,13.49,1.27,ml,18,91,0.0752,0.12,ci,ci40447098,2025-09-20T18:47:35.183Z,"18 km SSW of Twentynine Palms, CA",earthquake,0.45,0.74,0.161,6,automatic,ci,ci
+2025-09-20T18:45:29.810Z,33.9975,-116.1806667,12.25,0.88,ml,38,51,0.07212,0.17,ci,ci40447098,2025-09-20T18:49:04.191Z,"19 km SSW of Twentynine Palms, CA",earthquake,0.18,0.46,0.224,14,automatic,ci,ci
 2025-09-20T18:37:38.992Z,39.0684,-119.0201,5.7,1.1,ml,10,79.39,0.19,0.1469,nn,nn00904715,2025-09-20T18:40:02.217Z,"15 km NE of Yerington, Nevada",earthquake,,1.6,0.29,5,automatic,nn,nn
 2025-09-20T18:30:36.770Z,46.234664916992,-122.32033538818,-1.0199999809265,0.769999981,md,12,165,,0.230000004,uw,uw62192031,2025-09-20T18:32:46.030Z,"35 km SSE of Mossyrock, Washington",earthquake,1.22,2.77999997,,1,automatic,uw,uw
 2025-09-20T18:30:00.970Z,29.073,-97.812,5.8034,3.3,ml,30,79,0,0.3,tx,tx2025sojbdj,2025-09-20T18:44:41.636Z,"22 km SSW of Nixon, Texas",earthquake,0.97565667785453,1.1965209155975,0.2,24,reviewed,tx,tx
@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T17:09:10.910Z,19.351499557495,-155.14250183106,4.5900001525879,1.73,ml,47,91,0.03689,0.189999998,hv,hv74780507,2025-09-20T17:13:14.530Z,"12 km S of Fern Forest, Hawaii",earthquake,0.43,0.99000001,0.05,4,automatic,hv,hv
 2025-09-20T17:05:37.736Z,60.9959,-146.9048,20.9,1.8,ml,,,,0.5,ak,ak025c38hsnh,2025-09-20T17:07:32.712Z,"19 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-20T16:51:37.489Z,62.5688,-151.1984,77.7,1.7,ml,,,,0.75,ak,ak025c3867ys,2025-09-20T16:54:11.305Z,"23 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-20T16:39:40.940Z,-14.8983,-177.5002,372.075,4.6,mb,102,62,3.398,1.06,us,us7000qxkv,2025-09-20T18:53:13.040Z,"92 km SE of Alo, Wallis and Futuna",earthquake,6.39,6.431,0.035,251,reviewed,us,us
 2025-09-20T16:36:41.938Z,53.0948,160.8744,40.571,4.6,mb,131,106,1.344,0.65,us,us7000qxku,2025-09-20T18:33:17.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.06,7.326,0.047,134,reviewed,us,us
 2025-09-20T16:25:00.179Z,60.7318,-150.4001,34.4,1.6,ml,,,,0.62,ak,ak025c380kgx,2025-09-20T16:26:50.227Z,"26 km SE of Point Possession, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-09-20T15:59:20.245Z,39.1997,-119.6085,3,1,ml,10,109.46,0.101,0.0462,nn,nn00904711,2025-09-20T16:01:51.702Z,"4 km SSW of Dayton, Nevada",earthquake,,0.8,0.55,6,automatic,nn,nn
