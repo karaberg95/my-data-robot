@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T17:51:50.670Z,38.787498474121,-122.76683044434,2.5999999046326,0.51,md,9,96,0.01424,0.02,nc,nc75239587,2025-09-19T18:12:17.192Z,"1 km NNW of The Geysers, CA",earthquake,0.34,1.09000003,0.23,9,automatic,nc,nc
 2025-09-19T17:46:31.826Z,32.079,-101.363,8.7646,1.4,ml,14,87,0.1,0.3,tx,tx2025smlwti,2025-09-20T15:34:03.656Z,"3 km S of Forsan, Texas",earthquake,0.94909699113595,1.9035498158002,0.2,6,reviewed,tx,tx
 2025-09-19T17:45:29.393Z,62.3213,-149.8458,13,1.6,ml,,,,0.46,ak,ak025c1l705n,2025-09-19T17:47:37.211Z,"13 km E of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-19T17:38:30.226Z,53.0955,159.8743,48.761,4.9,mb,119,125,0.742,0.64,us,us7000qxek,2025-09-20T14:06:16.040Z,"83 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.76,6.437,0.046,149,reviewed,us,us
-2025-09-19T17:37:15.339Z,35.049,-97.83183333,9.16,0.89,ml,36,63,0.1097784577,0.22,ok,ok2025skfe,2025-09-19T18:11:18.593Z,"9 km E of Chickasha, Oklahoma",earthquake,,1.4,0.2,18,reviewed,ok,ok
