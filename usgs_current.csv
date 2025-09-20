@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-20T08:44:24.948Z,59.8752,-152.8988,93.2,2.6,ml,,,,0.25,ak,ak025c33d844,2025-09-20T08:45:42.402Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-20T08:32:38.047Z,57.1225,-157.5699,5.3,2.3,ml,,,,0.69,ak,ak025c33aokc,2025-09-20T08:34:55.685Z,"44 km SSW of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-20T08:26:25.464Z,65.7196,-145.6962,0,1.6,ml,,,,0.87,ak,ak025c339daq,2025-09-20T08:28:58.493Z,"44 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-20T08:22:18.278Z,61.3768,-150.9434,53.8,1.6,ml,,,,0.47,ak,ak025c338hvn,2025-09-20T08:24:11.318Z,"27 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
