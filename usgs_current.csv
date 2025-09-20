@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-20T10:44:32.080Z,32.9465,-116.465,7.76,1.43,ml,66,30,0.05221,0.19,ci,ci40446786,2025-09-20T10:48:08.387Z,"15 km NNE of Pine Valley, CA",earthquake,0.14,0.47,0.161,29,automatic,ci,ci
 2025-09-20T10:24:36.710Z,35.7748333,-117.594,10.35,1.46,ml,37,55,0.04092,0.17,ci,ci40446778,2025-09-20T10:28:11.532Z,"17 km W of Searles Valley, CA",earthquake,0.16,0.36,0.183,25,automatic,ci,ci
 2025-09-20T10:18:23.384Z,51.4433,159.3189,30.061,5.1,mb,71,114,1.635,1.01,us,us7000qxjq,2025-09-20T10:35:35.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.86,5.303,0.039,213,reviewed,us,us
 2025-09-20T10:07:04.582Z,36.4737,-116.0811,0,0.5,ml,19,221.48,0.163,0.2609,nn,nn00904705,2025-09-20T10:09:11.537Z,"30 km NNW of Pahrump, Nevada",earthquake,,10.1,0.24,11,automatic,nn,nn
@@ -118,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T19:08:04.770Z,38.793834686279,-122.80166625977,3.2599999904633,1.13,md,21,56,0.005609,0.03,nc,nc75239617,2025-09-19T22:07:19.909Z,"4 km NW of The Geysers, CA",earthquake,0.33,0.479999989,0.15,22,automatic,nc,nc
 2025-09-19T18:58:02.660Z,38.835334777832,-122.78350067139,1.9400000572205,0.74,md,9,130,0.006163,0.01,nc,nc75239607,2025-09-19T19:17:20.642Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.569999993,0.14,9,automatic,nc,nc
 2025-09-19T18:40:44.389Z,52.9661,160.607,31.921,4.9,mb,70,134,1.184,0.68,us,us7000qxex,2025-09-19T20:03:27.040Z,"133 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.59,5.456,0.035,259,reviewed,us,us
+2025-09-19T18:32:02.940Z,37.987833333333,-122.45033333333,-0.03,1.47,md,18,87,0.02386,0.1,nc,nc75239602,2025-09-20T10:42:36.141Z,"7 km E of Santa Venetia, CA",quarry blast,0.22,31.61,0.191,14,reviewed,nc,nc
 2025-09-19T18:27:13.735Z,59.5855,-151.9641,42.3,2,ml,,,,0.6,ak,ak025c1lojnx,2025-09-19T18:29:28.835Z,"21 km NW of Seldovia Village, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-19T18:21:23.170Z,34.51366667,-97.26033333,0,1.18,ml,32,76,0.09268181267,0.37,ok,ok2025skgq,2025-09-19T18:35:51.513Z,"11 km SE of Katie, Oklahoma",quarry blast,,0.6,0.29,12,reviewed,ok,ok
 2025-09-19T18:17:01.040Z,58.386,-154.78316666667,5.43,1.06,ml,16,154,0.01001,0.2,av,av93779508,2025-09-19T22:44:11.815Z,"93 km NNW of Karluk, Alaska",earthquake,0.5,0.65,0.25830801744925,16,reviewed,av,av
