@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-22T04:13:43.663Z,31.636,-104.38,4.022,2,ml,32,76,0,0.3,tx,tx2025sqycyl,2025-09-22T04:18:10.173Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0636599063873,0.2,23,automatic,tx,tx
 2025-09-22T04:12:49.757Z,63.0801,-144.281,3.7,1.4,ml,,,,0.56,ak,ak025c6bvdpr,2025-09-22T04:15:02.937Z,"31 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-22T03:59:07.220Z,11.9746,142.2153,13.291,5,mb,56,54,3.045,0.78,us,us7000qxs1,2025-09-22T04:19:14.590Z,"south of the Mariana Islands",earthquake,8.96,4.62,0.066,72,reviewed,us,us
+2025-09-22T03:59:07.220Z,11.9746,142.2153,13.291,5,mb,56,54,3.045,0.78,us,us7000qxs1,2025-09-22T04:39:16.094Z,"south of the Mariana Islands",earthquake,8.96,4.62,0.066,72,reviewed,us,us
 2025-09-22T03:45:12.260Z,34.0448333,-117.2505,15.09,0.81,ml,42,70,0.09581,0.14,ci,ci40447810,2025-09-22T03:50:16.012Z,"1 km ESE of Loma Linda, CA",earthquake,0.16,0.3,0.161,26,automatic,ci,ci
 2025-09-22T03:39:38.710Z,38.777000427246,-122.75133514404,0.17000000178814,0.51,md,8,74,0.01289,0.06,nc,nc75240432,2025-09-22T04:07:25.209Z,"0 km ESE of The Geysers, CA",earthquake,0.35,0.769999981,0.24,7,automatic,nc,nc
 2025-09-22T03:38:18.890Z,38.777332305908,-122.75633239746,-0.050000000745058,2.34,md,42,35,0.009886,0.07,nc,nc75240427,2025-09-22T03:52:20.103Z,"0 km ENE of The Geysers, CA",earthquake,0.15,0.25999999,0.16,50,automatic,nc,nc
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T01:47:08.006Z,60.0645,-141.3222,16.7,2.9,ml,,,,0.65,ak,ak025c6aahqo,2025-09-22T02:26:05.040Z,"106 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-22T01:46:56.210Z,33.5028333,-116.5011667,14.43,0.33,ml,18,64,0.08481,0.1,ci,ci40447762,2025-09-22T01:50:45.237Z,"17 km ESE of Anza, CA",earthquake,0.2,0.43,0.058,5,automatic,ci,ci
 2025-09-22T01:39:09.691Z,59.2661,-153.7088,116.9,1.7,ml,,,,0.36,ak,ak025c6a8s55,2025-09-22T01:40:58.349Z,"55 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-22T01:20:01.115Z,40.2851,24.0985,12.194,4.9,mww,46,57,1.246,0.71,us,us7000qxrh,2025-09-22T04:36:28.770Z,"11 km ESE of Ouranoupolis, Greece",earthquake,5.13,5.187,0.053,34,reviewed,us,us
+2025-09-22T01:20:01.115Z,40.2851,24.0985,12.194,4.9,mww,46,57,1.246,0.71,us,us7000qxrh,2025-09-22T04:44:32.097Z,"11 km ESE of Ouranoupolis, Greece",earthquake,5.13,5.187,0.053,34,reviewed,us,us
 2025-09-22T01:18:33.892Z,43.6832,-70.6414,10.647,1.9,ml,19,131,0.37,0.5,us,us7000qxrf,2025-09-22T03:31:28.325Z,"7 km SE of Limington, Maine",earthquake,1.23,8.494,0.105,12,reviewed,us,us
 2025-09-22T01:07:40.062Z,64.6762,-150.9294,17,1.1,ml,,,,0.46,ak,ak025c6a1zkm,2025-09-22T01:09:23.134Z,"38 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-22T00:24:55.660Z,33.49,-116.4501667,12.22,0.95,ml,55,31,0.1271,0.18,ci,ci40447746,2025-09-22T00:28:46.698Z,"22 km ESE of Anza, CA",earthquake,0.17,0.43,0.14,27,automatic,ci,ci
@@ -58,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T20:37:27.323Z,32.103,-101.913,9.0088,1.3,ml,35,38,0.1,0.1,tx,tx2025sqizvf,2025-09-22T01:02:41.395Z,"12 km WSW of Stanton, Texas",earthquake,0.30684051768544,0.67652515012405,0.1,25,reviewed,tx,tx
 2025-09-21T20:17:57.095Z,6.5408,-76.22,10,4.9,mb,55,86,2.531,1.17,us,us7000qxqs,2025-09-21T22:55:21.316Z,"19 km WSW of Abriaquí, Colombia",earthquake,7.3,1.892,0.033,282,reviewed,us,us
 2025-09-21T19:42:27.340Z,37.621334075928,-118.82416534424,7.4499998092651,1.2,md,11,181,0.01902,0.02,nc,nc75240337,2025-09-21T22:17:19.703Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.01,1.13999999,0.09,11,automatic,nc,nc
+2025-09-21T19:33:01.780Z,48.239166666667,-122.76383333333,23.1,2.07,ml,54,32,0.09147,0.16,uw,uw62192316,2025-09-22T04:44:15.800Z,"6 km WNW of Coupeville, Washington",earthquake,0.21,0.4,0.17512542199933,38,reviewed,uw,uw
 2025-09-21T19:30:46.750Z,33.5351667,-116.7265,3.25,0.42,ml,20,45,0.03147,0.13,ci,ci40447618,2025-09-21T20:03:47.113Z,"5 km WSW of Anza, CA",earthquake,0.17,0.39,0.068,10,reviewed,ci,ci
 2025-09-21T19:20:14.733Z,23.7642,120.906,30.206,4.4,mb,47,78,0.05,0.61,us,us7000qxqr,2025-09-21T21:53:26.879Z,"15 km E of Lugu, Taiwan",earthquake,3.32,5.498,0.103,27,reviewed,us,us
 2025-09-21T19:13:57.567Z,19.1763,-155.4658,35,2.6,ml,13,158,0.174,0.2,us,us7000qxqq,2025-09-21T19:47:59.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,6.25,3.717,0.081,20,reviewed,us,us
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T04:53:49.963Z,63.3747,-145.8591,8.7,1.2,ml,,,,0.48,ak,ak025c4oktlg,2025-09-21T04:55:39.776Z,"34 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-21T04:48:44.160Z,36.1001667,-117.8963333,6.48,0.61,ml,14,136,0.03781,0.08,ci,ci37743836,2025-09-21T16:17:31.869Z,"8 km NE of Coso Junction, CA",earthquake,0.18,0.25,0.109,6,reviewed,ci,ci
 2025-09-21T04:47:13.450Z,35.884666442871,-121.47650146484,9.210000038147,2.59,md,44,195,0.09327,0.14,nc,nc75240117,2025-09-21T05:23:51.536Z,"17 km SSE of Lopez Point, CA",earthquake,0.59,0.779999971,0.11,47,automatic,nc,nc
-2025-09-21T04:39:23.500Z,33.7831667,-116.0448333,7.91,1.1,ml,41,53,0.1356,0.15,ci,ci40447354,2025-09-21T04:42:50.974Z,"16 km NE of Coachella, CA",earthquake,0.15,0.69,0.136,27,automatic,ci,ci
