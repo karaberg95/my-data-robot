@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-23T22:46:12.670Z,38.836833953857,-122.78233337402,1.8500000238419,1.83,md,32,66,0.006451,0.03,nc,nc75241132,2025-09-23T22:47:47.148Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.280000001,0.12,31,automatic,nc,nc
 2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8,104,0.008628,0.01,nc,nc75241122,2025-09-23T22:32:19.675Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7,automatic,nc,nc
 2025-09-23T22:06:46.560Z,38.802665710449,-122.77983093262,0.80000001192093,0.75,md,10,112,0.0106,0.02,nc,nc75241117,2025-09-23T22:22:16.593Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.709999979,0.4,11,automatic,nc,nc
 2025-09-23T22:03:50.995Z,3.8617,127.1634,43.606,4.5,mb,23,171,1.89,0.29,us,us6000rcf7,2025-09-23T22:24:37.040Z,"253 km NNW of Tobelo, Indonesia",earthquake,8.9,10.413,0.14,15,reviewed,us,us
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T23:03:41.620Z,19.133333333333,-155.49066666667,34.72,1.73,md,24,255,0.0348,0.11,hv,hv74782557,2025-09-23T21:30:20.940Z,"7 km S of Pāhala, Hawaii",earthquake,0.95,0.82,0.16359689096161,12,reviewed,hv,hv
 2025-09-22T23:02:59.809Z,64.7965,-149.0477,18.4,0.9,ml,,,,0.13,ak,ak025c6n4hto,2025-09-22T23:04:25.503Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-22T22:57:57.650Z,37.743000030518,-122.54183197022,13,1.02,md,9,194,0.07438,0.03,nc,nc75240672,2025-09-23T01:57:58.994Z,"4 km WNW of San Francisco Zoo, CA",earthquake,1.74,2.4000001,0.24,5,automatic,nc,nc
-2025-09-22T22:42:34.100Z,35.626,-117.4678333,7.37,1.18,ml,39,48,0.05305,0.15,ci,ci40448346,2025-09-23T15:49:07.872Z,"17 km SSW of Searles Valley, CA",earthquake,0.15,0.51,0.147,23,automatic,ci,ci
