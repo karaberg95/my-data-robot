@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-23T11:27:08.860Z,35.4598351,-119.3280029,26.52,1.8,ml,29,99,0.1303,0.25,ci,ci40448698,2025-09-23T11:29:46.750Z,"7 km SW of Shafter, CA",earthquake,0.51,0.81,0.358,22,automatic,ci,ci
 2025-09-23T11:20:55.990Z,37.857666015625,-122.24566650391,7.3600001335144,1.99,md,58,35,0.01503,0.11,nc,nc75240872,2025-09-23T11:30:36.542Z,"3 km SE of Berkeley, CA",earthquake,0.16,0.349999994,0.2,46,automatic,nc,nc
-2025-09-23T11:20:50.670Z,37.85599899292,-122.24349975586,7.0599999427795,2.3,md,18,65,0.02114,0.04,nc,nc75240867,2025-09-23T11:33:43.878Z,"3 km SE of Berkeley, CA",earthquake,0.23,0.449999988,0.19,14,automatic,nc,nc
+2025-09-23T11:20:50.670Z,37.85599899292,-122.24349975586,7.0599999427795,2.3,md,18,65,0.02114,0.04,nc,nc75240867,2025-09-23T11:47:19.991Z,"3 km SE of Berkeley, CA",earthquake,0.23,0.449999988,0.19,14,automatic,nc,nc
 2025-09-23T11:17:35.130Z,33.7043343,-116.8170013,15.66,1.2,ml,34,44,0.0907,0.19,ci,ci40448682,2025-09-23T11:19:38.394Z,"9 km SE of Valle Vista, CA",earthquake,0.29,0.6,0.288,9,automatic,ci,ci
 2025-09-23T11:06:48.200Z,33.9718323,-116.6776657,12.52,0.97,ml,20,123,0.07095,0.14,ci,ci40448674,2025-09-23T11:08:51.428Z,"12 km ENE of Cabazon, CA",earthquake,0.46,1.14,0.421,4,automatic,ci,ci
 2025-09-23T10:50:33.247Z,34.5763,70.6337,10,4.9,mb,75,61,1.239,0.89,us,us6000rc98,2025-09-23T11:36:03.040Z,"23 km NE of Jalālābād, Afghanistan",earthquake,7.06,1.845,0.047,141,reviewed,us,us
@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-22T12:13:38.480Z,44.765666666667,-112.7505,9.12,1.63,ml,24,64,0.0935,0.11,mb,mb90112883,2025-09-22T14:01:25.270Z,"19 km NW of Lima, Montana",earthquake,0.26,0.68,0.2730298127472,40,reviewed,mb,mb
 2025-09-22T12:11:37.080Z,36.481,-89.564333333333,10.07,1.47,md,20,58,0.05993,0.07,nm,nm60614076,2025-09-22T16:07:01.670Z,"6 km SE of Marston, Missouri",earthquake,0.2,0.46,0.12734301474322,14,reviewed,nm,nm
 2025-09-22T11:56:33.340Z,10.7273,-86.4702,10,4.6,mb,135,170,1.133,0.84,us,us7000qxte,2025-09-22T12:22:05.040Z,"83 km NW of Tamarindo, Costa Rica",earthquake,7.38,1.927,0.042,168,reviewed,us,us
-2025-09-22T11:45:40.319Z,62.3649,-150.0776,14.6,1.4,ml,,,,0.55,ak,ak025c6g8gun,2025-09-22T11:47:24.175Z,"4 km NNE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
