@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-23T10:39:14.639Z,66.0675,-149.1299,2.4,1.7,ml,,,,0.69,ak,ak025c8351gn,2025-09-23T10:41:51.547Z,"7 km NNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-23T10:26:10.740Z,36.7688,-116.2522,10.2,-0.2,ml,9,92.04,0.052,0.0837,nn,nn00904853,2025-09-23T10:27:59.508Z,"47 km ESE of Beatty, Nevada",earthquake,,1.5,0.31,5,automatic,nn,nn
 2025-09-23T10:14:27.050Z,36.0286674,-117.8951645,3.32,1.21,ml,15,78,0.02124,0.12,ci,ci40448658,2025-09-23T10:16:30.244Z,"5 km ESE of Coso Junction, CA",earthquake,0.55,0.63,0.337,6,automatic,ci,ci
 2025-09-23T10:00:09.163Z,32.233,-101.918,7.9346,1.6,ml,71,31,0,0.2,tx,tx2025stfikb,2025-09-23T10:24:50.008Z,"16 km NW of Stanton, Texas",earthquake,0.24702244066088,0.53068972824516,0.1,42,reviewed,tx,tx
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T07:55:31.590Z,35.6095009,-117.4276657,4.62,0.97,ml,10,96,0.05558,0.13,ci,ci40448570,2025-09-23T07:57:34.743Z,"18 km S of Searles Valley, CA",earthquake,0.54,1.05,0.13,4,automatic,ci,ci
 2025-09-23T07:47:02.427Z,61.6553,-150.8062,54.9,1.6,ml,,,,0.59,ak,ak025c81effm,2025-09-23T07:48:32.286Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-23T07:44:46.460Z,37.428333282471,-118.55133056641,13.979999542236,2.08,md,26,133,0.09731,0.05,nc,nc75240822,2025-09-23T09:22:19.891Z,"4 km E of Round Valley, CA",earthquake,0.46,1.60000002,0.2,22,automatic,nc,nc
-2025-09-23T07:20:31.110Z,37.854499816895,-122.24199676514,6.8899998664856,2.26,md,64,30,0.01903,0.07,nc,nc75240817,2025-09-23T10:01:28.614Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.25,0.15,66,automatic,nc,nc
+2025-09-23T07:20:31.110Z,37.854499816895,-122.24199676514,6.8899998664856,2.26,md,64,30,0.01903,0.07,nc,nc75240817,2025-09-23T10:40:23.036Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.25,0.15,66,automatic,nc,nc
 2025-09-23T07:17:16.740Z,33.5343323,-116.7178345,5.74,1.19,ml,44,36,0.0797,0.18,ci,ci40448554,2025-09-23T07:19:33.236Z,"5 km WSW of Anza, CA",earthquake,0.22,0.71,0.258,13,automatic,ci,ci
 2025-09-23T07:12:13.027Z,63.0962,-150.4237,86.1,1.6,ml,,,,0.59,ak,ak025c816y6u,2025-09-23T07:14:29.348Z,"69 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-23T06:57:10.083Z,61.6647,-150.3361,18.8,1.4,ml,,,,0.45,ak,ak025c80v5kw,2025-09-23T06:59:04.139Z,"16 km NE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -51,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T04:15:36.440Z,34.0073318,-117.2020035,5.74,1.26,ml,35,68,0.06454,0.15,ci,ci40448514,2025-09-23T04:17:39.642Z,"6 km SSW of Redlands, CA",earthquake,0.24,1.06,0.302,11,automatic,ci,ci
 2025-09-23T04:07:07.600Z,38.82799911499,-122.81266784668,0.81999999284744,1.04,md,14,76,0.005024,0.03,nc,nc75240762,2025-09-23T05:07:23.112Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.469999999,0.13,15,automatic,nc,nc
 2025-09-23T04:03:33.697Z,39.0773,-119.0409,9.5,1.1,ml,10,86.4,0.18,0.1602,nn,nn00904845,2025-09-23T04:05:47.667Z,"14 km NE of Yerington, Nevada",earthquake,,1.6,0.38,6,automatic,nn,nn
+2025-09-23T03:55:37.556Z,28.836,-99.098,8.3515,1.5,ml,13,83,0,0.3,tx,tx2025sstght,2025-09-23T10:46:54.243Z,"6 km S of Pearsall, Texas",earthquake,2.8320972458915,1.2521707711627,0.2,6,reviewed,tx,tx
 2025-09-23T03:51:17.982Z,38.123,-118.0744,2.3,1.8,ml,17,78.76,0.104,0.3454,nn,nn00904842,2025-09-23T03:54:09.841Z,"29 km S of Mina, Nevada",earthquake,,0.9,0.43,6,automatic,nn,nn
 2025-09-23T03:45:54.486Z,61.1081,-141.7837,3.5,1.4,ml,,,,0.35,ak,ak025c7z0dlk,2025-09-23T03:48:15.288Z,"70 km ESE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-23T03:41:11.138Z,35.9678421,-97.79800415,2.12741828,2.61,ml,71,34.00576782,0.1548761278,0.5024328641,ok,ok2025sqlp,2025-09-23T03:55:24.040Z,"10 km E of Dover, Oklahoma",earthquake,1.292935253,1.279990977,0.22,55,automatic,ok,ok
