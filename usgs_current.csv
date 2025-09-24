@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T10:24:34.576Z,31.717,-104.258,6.4972,1.6,ml,29,61,0,0.2,tx,tx2025svbwhj,2025-09-24T11:42:27.971Z,"52 km SSE of Whites City, New Mexico",earthquake,0.52886115753334,0.50680416381374,0,7,reviewed,tx,tx
 2025-09-24T10:23:15.883Z,37.183,-117.1183,0,1,ml,12,140.31,0.163,0.2393,nn,nn00904921,2025-09-24T10:25:27.367Z,"44 km NW of Beatty, Nevada",earthquake,,16.2,0.39,8,automatic,nn,nn
 2025-09-24T10:22:48.670Z,38.83483505249,-122.79582977295,0.81999999284744,0.21,md,8,98,0.005576,0.01,nc,nc75241282,2025-09-24T11:32:20.428Z,"6 km WNW of Cobb, CA",earthquake,0.34,1.01999998,0.08,8,automatic,nc,nc
+2025-09-24T10:22:27.843Z,31.711,-104.269,6.5613,1.3,ml,17,55,0,0.1,tx,tx2025svbumw,2025-09-24T14:35:00.781Z,"52 km S of Whites City, New Mexico",earthquake,0.85621122258186,0.82954651396124,0.1,20,reviewed,tx,tx
 2025-09-24T09:55:05.437Z,37.1647,69.1077,10,4.3,mb,13,266,1.49,0.8,us,us6000rci1,2025-09-24T11:15:57.040Z,"6 km WNW of Dasht-e Archī, Afghanistan",earthquake,4.96,2.001,0.267,4,reviewed,us,us
 2025-09-24T09:52:01.778Z,56.7784,-158.8009,3.3,2.3,ml,,,,0.88,ak,ak025c9q5po1,2025-09-24T09:54:07.672Z,"54 km NNW of Chignik Lagoon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-24T09:44:16.343Z,37.35,-117.7507,0.8,1.2,ml,7,229.38,1.007,0.1003,nn,nn00904920,2025-09-24T09:47:06.290Z,"44 km SE of Dyer, Nevada",earthquake,,125,0.43,6,automatic,nn,nn
@@ -93,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T04:41:42.880Z,32.6675,-115.656,9.16,1.25,ml,32,48,0.06207,0.22,ci,ci40449290,2025-09-24T04:45:12.990Z,"12 km NW of Progreso, B.C., MX",earthquake,0.25,0.57,0.216,17,automatic,ci,ci
 2025-09-24T04:38:16.700Z,19.40333366394,-155.42767333984,2.0599999427795,2.11,ml,51,29,0.04178,0.189999998,hv,hv74783912,2025-09-24T04:42:18.340Z,"20 km WSW of Volcano, Hawaii",earthquake,0.25,0.860000014,0.27,19,automatic,hv,hv
 2025-09-24T04:30:16.967Z,62.4498,-152.0656,0,1.6,ml,,,,0.94,ak,ak025c9n1v28,2025-09-24T04:32:29.882Z,"61 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-24T04:13:36.280Z,32.7583333,-115.415,14.96,1.31,ml,26,64,0.05397,0.28,ci,ci40449282,2025-09-24T14:40:24.824Z,"7 km SSW of Holtville, CA",earthquake,0.59,0.78,0.27,15,reviewed,ci,ci
 2025-09-24T04:10:57.294Z,37.1797,-117.1246,2.2,1,ml,16,158.38,0.162,0.1716,nn,nn00904908,2025-09-24T04:13:26.777Z,"44 km NW of Beatty, Nevada",earthquake,,8.3,0.55,6,automatic,nn,nn
 2025-09-24T03:58:30.880Z,33.505,-116.502,14.43,0.52,ml,21,65,0.08435,0.18,ci,ci40449266,2025-09-24T13:21:53.677Z,"17 km ESE of Anza, CA",earthquake,0.36,0.67,0.097,11,reviewed,ci,ci
 2025-09-24T03:52:33.020Z,38.773998260498,-122.77500152588,4.210000038147,0.76,md,11,137,0.00794,0.17,nc,nc75241207,2025-09-24T04:52:17.460Z,"2 km W of The Geysers, CA",earthquake,0.99,1.15999997,0.05,12,automatic,nc,nc
@@ -104,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T02:22:58.964Z,36.7112,-115.9428,0.5,-0.4,ml,8,247.3,0.038,0.2207,nn,nn00904907,2025-09-24T02:25:14.349Z,"28 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.57,4,automatic,nn,nn
 2025-09-24T02:15:58.661Z,64.6819,-150.8299,13.3,1,ml,,,,0.83,ak,ak025c9lrvbu,2025-09-24T02:17:58.667Z,"36 km SSW of Manley Hot Springs, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-24T02:11:32.310Z,35.9498333,-117.368,2.06,0.57,ml,16,159,0.09043,0.13,ci,ci40449234,2025-09-24T02:15:12.732Z,"20 km N of Searles Valley, CA",earthquake,0.35,0.43,0.115,8,automatic,ci,ci
+2025-09-24T02:10:43.940Z,35.9016667,-117.6688333,4.05,-0.09,ml,11,102,0.04851,0.09,ci,ci40449226,2025-09-24T14:34:53.825Z,"22 km E of Little Lake, CA",earthquake,0.2,0.63,0.067,7,reviewed,ci,ci
 2025-09-24T01:55:45.970Z,32.118,-101.041,6.0303,1.1,ml,13,75,0.2,0.1,tx,tx2025sukzwu,2025-09-24T10:57:51.211Z,"26 km S of Westbrook, Texas",earthquake,0.9230614231387,2.6845207616255,0.1,7,reviewed,tx,tx
 2025-09-24T01:32:13.318Z,31.601,-104.19,6.0999,1.4,ml,23,67,0.1,0.1,tx,tx2025sukfpd,2025-09-24T14:26:10.727Z,"49 km NW of Toyah, Texas",earthquake,0.70950907328996,0.81643881507441,0.2,21,reviewed,tx,tx
 2025-09-24T01:20:39.704Z,58.7318,-152.796,66,1.7,ml,,,,0.76,ak,ak025c9l7gua,2025-09-24T01:22:32.167Z,"75 km N of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -129,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T22:34:55.609Z,35.34916667,-97.92616667,7.14,1.32,ml,72,54,0.04229170093,0.4,ok,ok2025srxa,2025-09-24T14:15:51.144Z,"4 km NNE of Minco, Oklahoma",earthquake,,0.5,0.21,34,reviewed,ok,ok
 2025-09-23T22:27:48.697Z,39.1701,28.1482,12.108,4.6,mww,38,43,0.972,0.7,us,us6000rcfc,2025-09-24T08:07:01.751Z,"8 km SSW of Sındırgı, Turkey",earthquake,3.77,2.939,0.11,8,reviewed,us,us
 2025-09-23T22:26:03.580Z,35.763666666667,-84.594333333333,8.67,2.29,md,17,78,0.01509,0.05,se,se60614261,2025-09-24T12:03:59.350Z,"13 km SSW of Midtown, Tennessee",earthquake,0.36,0.47,0.087113076246971,13,reviewed,se,se
-2025-09-23T22:12:39.303Z,32.118,-101.043,6.4209,1.7,ml,20,69,0.2,0.1,tx,tx2025sudpqe,2025-09-24T14:09:47.616Z,"26 km S of Westbrook, Texas",earthquake,0.77406520290747,1.693225453909,0.1,27,reviewed,tx,tx
+2025-09-23T22:12:40.146Z,32.127,-101.043,3.2481,1.7,ml,24,62,0.2,0.3,tx,tx2025sudpqe,2025-09-24T14:36:01.789Z,"25 km S of Westbrook, Texas",earthquake,1.0948264040277,2.3543379478619,0.1,19,reviewed,tx,tx
 2025-09-23T22:07:35.783Z,31.652,-104.431,5.8179,1.8,ml,24,89,0,0.1,tx,tx2025sudkvn,2025-09-24T10:06:20.688Z,"58 km S of Whites City, New Mexico",earthquake,1.1573465880543,0.60320260583057,0,6,reviewed,tx,tx
 2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8,104,0.008628,0.01,nc,nc75241122,2025-09-23T22:32:19.675Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7,automatic,nc,nc
 2025-09-23T22:06:46.560Z,38.802665710449,-122.77983093262,0.80000001192093,0.75,md,10,112,0.0106,0.02,nc,nc75241117,2025-09-23T22:22:16.593Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.709999979,0.4,11,automatic,nc,nc
