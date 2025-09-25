@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-25T20:39:20.660Z,63.5856,-148.0019,4.7,2.9,ml,,,,0.85,ak,ak025cbk62vn,2025-09-25T20:41:10.417Z,"48 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T20:33:19.092Z,61.4422,-151.9848,5.3,1.2,ml,,,,0.26,ak,ak025cbk4sjp,2025-09-25T20:34:41.727Z,"58 km NW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-09-25T20:23:34.933Z,59.5915,-143.1194,6.3,2.5,ml,,,,0.92,ak,ak025cbk2olx,2025-09-25T20:25:38.637Z,"181 km SE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-25T20:20:45.450Z,31.6033325,-115.5764999,8.48,3.18,ml,14,173,0.4183,0.1,ci,ci41097783,2025-09-25T20:22:57.061Z,"79 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,2.07,0.267,26,automatic,ci,ci
+2025-09-25T20:20:45.390Z,31.5965,-115.5796667,7.51,3.28,ml,12,116,0.2688,0.15,ci,ci41097783,2025-09-25T20:47:14.188Z,"80 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.28,2.62,0.146,84,reviewed,ci,ci
 2025-09-25T20:05:24.358Z,52.3425,159.9704,35,4.7,mb,64,143,1.054,0.74,us,us6000rcxd,2025-09-25T20:36:47.040Z,"121 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.74,1.924,0.065,72,reviewed,us,us
 2025-09-25T20:04:07.956Z,38.7352,-117.0932,15.5,1.7,ml,10,123.47,0.524,0.3574,nn,nn00905016,2025-09-25T20:06:56.781Z,"52 km S of Kingston, Nevada",earthquake,,1.7,0.62,5,automatic,nn,nn
 2025-09-25T19:53:45.103Z,63.1509,-147.6975,7.6,1.9,ml,,,,0.51,ak,ak025cbjnp9q,2025-09-25T19:55:22.337Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
