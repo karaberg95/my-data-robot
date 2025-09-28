@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-28T14:31:29.174Z,60.3717,-150.7887,41,1.7,ml,,,,0.49,ak,ak025cgf5tqt,2025-09-28T14:34:25.751Z,"14 km S of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-28T14:01:04.740Z,32.8138333,-116.1301667,8.02,1.37,ml,50,50,0.03539,0.2,ci,ci41100167,2025-09-28T14:04:38.713Z,"16 km NW of Ocotillo, CA",earthquake,0.2,0.61,0.175,25,automatic,ci,ci
 2025-09-28T13:54:19.725Z,31.901,-101.503,4.678,1,ml,15,116,0.2,0.7,tx,tx2025tcrsps,2025-09-28T13:56:27.034Z,"4 km NNW of Garden City, Texas",earthquake,0,1.6523611545563,0.2,9,automatic,tx,tx
 2025-09-28T13:53:26.140Z,32.921,-116.2368333,8.56,0.89,ml,41,45,0.06523,0.17,ci,ci41100159,2025-09-28T13:56:54.444Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.48,0.246,15,automatic,ci,ci
