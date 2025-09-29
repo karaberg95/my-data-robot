@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-29T14:52:59.600Z,38.816833496094,-122.79650115967,2.4800000190735,1.07,md,13,78,0.008902,0.02,nc,nc75243367,2025-09-29T14:54:34.075Z,"6 km NNW of The Geysers, CA",earthquake,0.31,0.670000017,0.16,15,automatic,nc,nc
+2025-09-29T14:48:16.130Z,34.007,-116.78,10.7,1.09,ml,46,39,0.03634,0.14,ci,ci41100559,2025-09-29T14:51:57.355Z,"10 km N of Cabazon, CA",earthquake,0.15,0.28,0.19,27,automatic,ci,ci
 2025-09-29T14:23:06.106Z,60.5481,-152.7922,10.7,1.3,ml,,,,0.31,ak,ak025ci2neqa,2025-09-29T14:25:13.438Z,"81 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-29T14:12:59.524Z,37.174,-116.7385,0.6,1.4,ml,28,156.36,0.033,0.227,nn,nn00905158,2025-09-29T14:15:23.471Z,"29 km N of Beatty, Nevada",earthquake,,0.2,0.16,16,automatic,nn,nn
 2025-09-29T14:06:38.780Z,36.766666412354,-121.40766906738,9.75,1.55,md,17,88,0.03187,0.1,nc,nc75243347,2025-09-29T14:42:19.818Z,"6 km SW of Ridgemark, CA",earthquake,0.4,0.660000026,0.18,15,automatic,nc,nc
@@ -113,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T23:02:48.940Z,46.183833333333,-122.20316666667,4.03,0.29,ml,7,153,0.07524,0.09,uw,uw62195511,2025-09-29T06:26:56.060Z,"35 km NNE of Amboy, Washington",earthquake,0.41,2.51,0.12334843634153,5,reviewed,uw,uw
 2025-09-28T23:01:21.190Z,34.6715,-120.2593333,5.19,1.69,ml,22,60,0.06608,0.16,ci,ci41100367,2025-09-29T14:01:35.066Z,"8 km SSE of Los Alamos, CA",earthquake,0.26,0.54,0.129,34,reviewed,ci,ci
 2025-09-28T23:00:40.470Z,38.821666717529,-122.83850097656,1.5599999427795,0.32,md,8,143,0.003073,0.01,nc,nc75243147,2025-09-28T23:27:17.358Z,"9 km NW of The Geysers, CA",earthquake,0.42,0.939999998,0.2,8,automatic,nc,nc
+2025-09-28T22:59:52.620Z,44.757666666667,-110.86466666667,4.71,1.67,ml,23,85,0.03228,0.13,uu,uu80118291,2025-09-29T14:51:47.610Z,"21 km ENE of West Yellowstone, Montana",earthquake,0.25,0.37,0.28009957991077,8,reviewed,uu,uu
 2025-09-28T22:56:32.520Z,38.778999328613,-122.72299957275,1.8200000524521,1.03,md,12,79,0.01153,0.01,nc,nc75243142,2025-09-28T23:17:19.287Z,"3 km WNW of Anderson Springs, CA",earthquake,0.29,0.600000024,0.18,11,automatic,nc,nc
 2025-09-28T22:54:55.900Z,45.952,-122.09083333333,7.87,0.95,ml,13,104,0.1681,0.09,uw,uw62195506,2025-09-29T06:37:49.690Z,"26 km ENE of Yacolt, Washington",earthquake,0.26,0.36,0.18444441550411,7,reviewed,uw,uw
 2025-09-28T22:53:02.750Z,33.1926667,-115.6,2.75,0.87,ml,9,137,0.02004,0.22,ci,ci41100359,2025-09-29T13:33:30.954Z,"9 km SW of Niland, CA",earthquake,0.49,0.31,0.072,5,reviewed,ci,ci
