@@ -46,4 +46,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T07:06:02.672Z,60.3703,-143.0703,21.1,1.4,ml,,,,0.48,ak,ak025cgaudkb,2025-09-28T07:08:04.473Z,"118 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-28T06:57:08.310Z,37.3001,-116.611,0,0,ml,9,170.12,0.241,0.2635,nn,nn00905108,2025-09-28T06:59:32.223Z,"45 km NNE of Beatty, Nevada",earthquake,,1764.4,0.34,4,automatic,nn,nn
 2025-09-28T06:51:33.470Z,63.3334,-145.5739,8.1,1.5,ml,,,,0.47,ak,ak025cgaink3,2025-09-28T06:53:03.662Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-28T06:37:48.911Z,31.803,-101.669,3.1567,1.1,ml,10,89,0.1,0.3,tx,tx2025tcdgll,2025-09-28T06:39:42.543Z,"19 km WSW of Garden City, Texas",earthquake,0,1.8779647350311,0.2,8,automatic,tx,tx
