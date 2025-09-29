@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-29T05:41:18.650Z,33.3639984,-116.6956635,13.95,1.11,ml,30,50,0.113,0.12,ci,ci41100423,2025-09-29T05:43:21.153Z,"11 km NNW of Warner Springs, CA",earthquake,0.27,0.71,0.157,3,automatic,ci,ci
+2025-09-29T05:39:25.185Z,61.948,-148.0268,32.1,1.9,ml,,,,0.55,ak,ak025chxdz7q,2025-09-29T05:41:08.148Z,"25 km NW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-09-29T04:52:58.632Z,63.2683,-149.2462,77.4,2,ml,,,,0.37,ak,ak025chwvehz,2025-09-29T04:55:08.606Z,"20 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-29T04:33:40.275Z,36.7682,-116.2552,11.8,0.1,ml,17,90.76,0.049,0.1248,nn,nn00905146,2025-09-29T04:35:38.355Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.29,8,automatic,nn,nn
 2025-09-29T04:19:43.130Z,33.9178333,-116.723,14,1.38,ml,72,18,0.1044,0.15,ci,ci41100407,2025-09-29T04:23:15.725Z,"6 km E of Cabazon, CA",earthquake,0.12,0.26,0.146,27,automatic,ci,ci
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T05:55:16.360Z,35.8806667,-117.7031667,4.04,0.82,ml,26,58,0.07961,0.11,ci,ci41100015,2025-09-28T13:41:19.631Z,"19 km ESE of Little Lake, CA",earthquake,0.13,0.33,0.131,15,reviewed,ci,ci
 2025-09-28T05:50:43.480Z,38.828834533691,-122.86849975586,2.8399999141693,1.46,md,28,66,0.009172,0.03,nc,nc75242857,2025-09-28T06:37:16.993Z,"11 km NW of The Geysers, CA",earthquake,0.22,0.379999995,0.15,28,automatic,nc,nc
 2025-09-28T05:48:22.403Z,64.489,-146.9058,0,1.2,ml,,,,0.52,ak,ak025cg9wjy8,2025-09-28T05:49:51.922Z,"3 km S of Salcha, Alaska",earthquake,,3.7,,,automatic,ak,ak
-2025-09-28T05:41:34.820Z,17.805666666667,-66.8785,9.12,2.89,md,19,236,0.1681,0.37,pr,pr71496648,2025-09-28T06:02:05.680Z,"18 km S of Guánica, Puerto Rico",earthquake,0.92,1.23,0.11304249239939,14,reviewed,pr,pr
