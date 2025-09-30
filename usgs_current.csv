@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T23:19:01.213Z,60.2142,-150.1821,38.2,1.7,ml,,,,0.53,ak,ak025ci7zfxl,2025-09-29T23:21:33.042Z,"36 km SSW of Cooper Landing, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-09-29T23:18:00.375Z,32.116,-102.156,5.7861,0.9,ml,14,71,0,0.2,tx,tx2025tfgcrm,2025-09-30T02:35:11.745Z,"15 km NNW of Midland, Texas",earthquake,1.5667894647168,1.6190601421029,0.1,10,reviewed,tx,tx
 2025-09-29T23:09:38.186Z,32.092,-101.484,3.3463,1.2,mlv,14,96,0.1,0.3,tx,tx2025tffwcc,2025-09-30T11:24:22.321Z,"11 km W of Forsan, Texas",earthquake,0,1.4822007417679,0.3,7,automatic,tx,tx
+2025-09-29T23:07:07.419Z,35.32133333,-97.918,6.85,1.39,ml,74,50,0.06838658022,0.26,ok,ok2025tcxa,2025-09-30T11:55:42.896Z,"2 km ENE of Minco, Oklahoma",earthquake,,0.4,0.22,35,reviewed,ok,ok
 2025-09-29T22:54:16.534Z,32.352,-102.061,7.0068,0.8,ml,15,59,0,0.2,tx,tx2025tffhrm,2025-09-30T02:25:46.700Z,"35 km NW of Stanton, Texas",earthquake,0.62623352323174,0.81460674410356,0.1,7,reviewed,tx,tx
 2025-09-29T22:48:54.342Z,-5.3606,151.72,68.174,5,mb,50,86,1.243,0.74,us,us6000rdp3,2025-09-30T00:42:39.040Z,"127 km SSW of Kokopo, Papua New Guinea",earthquake,9.94,5.598,0.073,60,reviewed,us,us
 2025-09-29T22:48:53.649Z,35.321,-97.92716667,6.85,1.47,ml,55,91,0.06928640364,0.15,ok,ok2025tcwm,2025-09-29T23:13:39.905Z,"1 km ENE of Minco, Oklahoma",earthquake,,0.2,0.23,26,reviewed,ok,ok
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T12:05:35.019Z,41.2035,-116.7185,6.1,2.1,ml,10,160.49,0.318,0.1608,nn,nn00905181,2025-09-29T21:36:12.579Z,"57 km NE of Valmy, Nevada",earthquake,,4,0.33,4,reviewed,nn,nn
 2025-09-29T12:03:40.050Z,46.429833333333,-113.19133333333,4.83,1.45,ml,21,61,0.1492,0.12,mb,mb90113773,2025-09-29T17:14:54.800Z,"5 km SE of Maxville, Montana",earthquake,0.28,2.26,0.21700574777231,15,reviewed,mb,mb
 2025-09-29T12:00:40.513Z,28.811,-99.105,6.8359,1.7,ml,16,86,0.1,0.3,tx,tx2025tejrmx,2025-09-29T22:26:13.190Z,"9 km S of Pearsall, Texas",earthquake,2.4208284071374,1.5863295775564,0.1,8,reviewed,tx,tx
-2025-09-29T11:56:04.747Z,31.649,-103.129,4.3823,1.5,ml,22,56,0.1,0.3,tx,tx2025tejnoy,2025-09-29T22:41:37.284Z,"11 km SSE of Wink, Texas",earthquake,0.93163609011201,2.2284192148846,0.1,9,reviewed,tx,tx
-2025-09-29T11:55:45.390Z,38.84349822998,-122.81683349609,2.0499999523163,0.22,md,7,140,0.01225,0.01,nc,nc75243302,2025-09-29T12:32:16.923Z,"8 km WNW of Cobb, CA",earthquake,0.54,1.09000003,0.12,9,automatic,nc,nc
