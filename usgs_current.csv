@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-30T13:51:03.413Z,61.4533,-150.0008,35.6,2.8,ml,,,,0.84,ak,ak025cjprbfj,2025-09-30T13:54:43.072Z,"7 km SSW of Big Lake, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-09-30T13:49:42.291Z,61.3043,-147.631,20,1.5,ml,,,,0.62,ak,ak025cjpqz11,2025-09-30T13:51:38.751Z,"56 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T13:40:27.266Z,61.2318,-147.6971,12,3.3,ml,,,,0.83,ak,ak025cjpp0fn,2025-09-30T13:44:44.791Z,"64 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-30T13:34:10.890Z,34.0216667,-116.7593333,15.8,0.97,ml,43,57,0.04242,0.14,ci,ci41100895,2025-09-30T13:38:10.056Z,"12 km NNE of Cabazon, CA",earthquake,0.16,0.4,0.122,27,automatic,ci,ci
 2025-09-30T13:32:50.472Z,61.3406,-151.866,87.1,1.4,ml,,,,0.46,ak,ak025cjpnchj,2025-09-30T13:35:00.045Z,"47 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T14:04:45.670Z,45.276,-112.87683333333,9.79,0.77,ml,7,136,0.2159,0.08,mb,mb90113803,2025-09-29T14:43:59.090Z,"19 km WNW of Dillon, Montana",earthquake,0.36,1.03,0.20718774326454,6,reviewed,mb,mb
 2025-09-29T14:01:11.020Z,38.826999664307,-122.80266571045,1.7599999904633,0.27,md,7,82,0.006815,0.01,nc,nc75243342,2025-09-29T14:27:18.706Z,"7 km NNW of The Geysers, CA",earthquake,0.45,1.13,0.07,9,automatic,nc,nc
 2025-09-29T14:00:06.940Z,38.827835083008,-122.80133056641,1.539999961853,0.26,md,9,71,0.008142,0.01,nc,nc75243337,2025-09-29T15:22:16.084Z,"7 km WNW of Cobb, CA",earthquake,0.46,0.860000014,0.16,9,automatic,nc,nc
-2025-09-29T13:58:48.727Z,60.4489,-143.7548,19.7,1.5,ml,,,,0.18,ak,ak025ci29kh4,2025-09-29T14:00:26.237Z,"110 km E of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
