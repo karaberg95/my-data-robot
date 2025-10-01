@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-01T20:56:00.009Z,61.783,-150.1843,34.3,2.1,ml,,,,0.34,ak,ak025clhhoek,2025-10-01T20:57:25.583Z,"8 km WNW of Willow, Alaska",earthquake,,2330.1,,,automatic,ak,ak
+2025-10-01T20:55:13.041Z,31.561,-104.018,4.628,1.7,ml,35,56,0,0.5,tx,tx2025tisvun,2025-10-01T20:57:53.421Z,"34 km NW of Toyah, Texas",earthquake,0,0.96654236316681,0.2,23,automatic,tx,tx
 2025-10-01T20:23:43.380Z,36.0643333,-117.6386667,2.27,1,ml,18,83,0.1098,0.11,ci,ci41101439,2025-10-01T20:43:51.991Z,"28 km E of Coso Junction, CA",earthquake,0.17,0.37,0.232,16,reviewed,ci,ci
-2025-10-01T20:22:28.125Z,59.7815,-150.8752,36.4,3.6,ml,,,,0.75,ak,ak025clhajal,2025-10-01T20:47:30.040Z,"9 km SSE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-01T20:22:28.125Z,59.7815,-150.8752,36.4,3.6,ml,,,,0.75,ak,ak025clhajal,2025-10-01T20:56:06.663Z,"9 km SSE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-01T20:06:04.756Z,31.648,-104.367,3.7814,2,ml,28,71,0.1,0.3,tx,tx2025tirfou,2025-10-01T20:09:15.254Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0843871831894,0.2,21,automatic,tx,tx
 2025-10-01T19:41:15.190Z,38.794334411621,-122.77716827393,2.4000000953674,0.77,md,8,156,0.008479,0.01,nc,nc75243606,2025-10-01T20:07:18.649Z,"3 km NW of The Geysers, CA",earthquake,0.65,0.959999979,0.06,9,automatic,nc,nc
 2025-10-01T19:34:36.907Z,62.6274,-150.4595,75.2,1.4,ml,,,,0.52,ak,ak025clgrozt,2025-10-01T19:46:53.983Z,"21 km NE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -131,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T07:29:07.952Z,41.1781,-116.734,8.7,3,ml,19,124.03,0.312,0.1823,nn,nn00905254,2025-10-01T16:30:48.444Z,"54 km NE of Valmy, Nevada",earthquake,,1.9,0.22,11,reviewed,nn,nn
 2025-10-01T07:24:24.563Z,61.0207,-147.0462,16.1,1.5,ml,,,,0.62,ak,ak025cl9kbmi,2025-10-01T07:26:59.348Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-01T07:22:54.691Z,54.4887,-159.8855,25.972,4,ml,42,200,0.384,1.1,us,us6000rdyd,2025-10-01T19:53:31.198Z,"102 km SSE of Sand Point, Alaska",earthquake,7.89,10.901,0.062,34,reviewed,us,us
+2025-10-01T07:20:37.320Z,46.715333333333,-121.11583333333,-0.1,1.19,ml,18,125,0.201,0.22,uw,uw62188132,2025-10-01T20:56:43.320Z,"17 km SW of Nile, Washington",earthquake,0.59,2.19,0.20696847677365,11,reviewed,uw,uw
 2025-10-01T07:14:26.890Z,32.4935,-115.2093333,15.1,1.88,ml,24,51,0.09614,0.3,ci,ci41101247,2025-10-01T15:46:21.488Z,"16 km N of Delta, B.C., MX",earthquake,0.41,0.87,0.17,16,reviewed,ci,ci
 2025-10-01T06:57:31.290Z,18.071833333333,-68.309666666667,46.99,3.44,md,20,187,0.4454,0.37,pr,pr71496808,2025-10-01T07:36:56.410Z,"46 km SE of Boca de Yuma, Dominican Republic",earthquake,2.08,3.35,0.12697806813113,14,reviewed,pr,pr
 2025-10-01T06:47:40.140Z,32.118,-102.188,6.0791,0.7,ml,21,79,0,0.1,tx,tx2025thqtoy,2025-10-01T15:17:30.321Z,"16 km NW of Midland, Texas",earthquake,0.57682123584887,0.746406729597,0.1,7,reviewed,tx,tx
@@ -229,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-30T21:02:49.009Z,63.111,-151.5088,0,1.7,ml,,,,0.75,ak,ak025cju8dqg,2025-09-30T21:08:11.538Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T20:59:58.770Z,53.963166666667,-166.45733333333,12.36,0.39,ml,10,140,0.1215,0.31,av,av93799098,2025-10-01T07:44:39.400Z,"9 km NE of Dutch Harbor, Alaska",earthquake,1.02,2.67,0.14845232890165,10,reviewed,av,av
 2025-09-30T20:58:02.108Z,62.9298,-149.6906,68.9,1.5,ml,,,,0.54,ak,ak025cjtyulu,2025-09-30T21:00:05.399Z,"57 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-09-30T20:56:52.090Z,17.921,-65.973166666667,12.88,1.55,md,5,262,0.1073,0.08,pr,pr71496803,2025-09-30T21:07:02.510Z,"6 km SSE of Lamboglia, Puerto Rico",earthquake,0.65,0.94,0.1160522443571,4,reviewed,pr,pr
