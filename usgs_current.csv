@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-02T19:42:31.860Z,38.776332855225,-122.75783538818,0.95999997854233,1.07,md,13,69,0.008345,0.03,nc,nc75244026,2025-10-02T19:45:14.819Z,"0 km SW of The Geysers, CA",earthquake,0.25,0.439999998,0.36,12,automatic,nc,nc
+2025-10-02T19:40:37.200Z,38.123832702637,-122.15866851807,2.920000076294,2.13,md,11,114,0.007524,0.08,nc,nc75244021,2025-10-02T19:42:15.255Z,"7 km E of Vallejo, CA",earthquake,0.75,0.790000021,0.12,11,automatic,nc,nc
 2025-10-02T19:25:58.747Z,32.117,-102.203,8.2617,1.1,ml,14,82,0,0.5,tx,tx2025tklpyq,2025-10-02T19:28:48.845Z,"17 km NW of Midland, Texas",earthquake,0,2.3466472625732,0.1,6,automatic,tx,tx
 2025-10-02T19:24:17.330Z,33.9049988,-116.5906677,9.83,0.98,ml,14,69,0.08757,0.1,ci,ci41101887,2025-10-02T19:26:42.210Z,"4 km W of Garnet, CA",earthquake,0.41,1.29,0.251,7,automatic,ci,ci
 2025-10-02T19:22:51.880Z,33.9828339,-116.8040009,20.66,1.13,ml,19,85,0.05228,0.19,ci,ci41101871,2025-10-02T19:25:15.565Z,"7 km NNW of Cabazon, CA",earthquake,0.45,1.32,0.078,4,automatic,ci,ci
@@ -231,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T20:22:28.235Z,59.823,-150.8455,35,3.5,ml,,,,0.61,ak,ak025clhajal,2025-10-01T22:08:56.675Z,"7 km ESE of Fox River, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-10-01T20:06:04.684Z,31.673,-104.361,6.0999,2,ml,40,71,0.1,0.2,tx,tx2025tirfou,2025-10-01T21:40:50.637Z,"55 km S of Whites City, New Mexico",earthquake,0.63714625529998,0.54282023127948,0.2,19,reviewed,tx,tx
 2025-10-01T20:00:51.120Z,48.8765,-117.3695,-0.94,1.47,md,5,282,0.06714,0.2,uw,uw61504818,2025-10-02T18:36:39.730Z,"1 km N of Metaline Falls, Washington",explosion,1.19,31.61,0.1769409786221,4,reviewed,uw,uw
-2025-10-01T19:41:15.190Z,38.794334411621,-122.77716827393,2.4000000953674,0.77,md,8,156,0.008479,0.01,nc,nc75243606,2025-10-01T21:07:19.076Z,"3 km NW of The Geysers, CA",earthquake,0.65,0.959999979,0.06,9,automatic,nc,nc
