@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-03T20:45:37.210Z,36.0058333,-117.7995,1.56,0.93,ml,15,53,0.0245,0.11,ci,ci41102279,2025-10-03T20:49:08.365Z,"12 km NE of Little Lake, CA",earthquake,0.16,0.21,0.32,14,automatic,ci,ci
 2025-10-03T20:39:24.099Z,57.975,-155.3039,86.7,1,ml,,,,0.07,ak,ak025cosgv6h,2025-10-03T20:41:11.861Z,"67 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-10-03T20:37:54.370Z,19.420833587646,-155.38383483887,6.3699998855591,2.1,ml,50,45,0.06333,0.150000006,hv,hv74791862,2025-10-03T20:41:40.200Z,"15 km W of Volcano, Hawaii",earthquake,0.24,0.639999986,0.18,15,automatic,hv,hv
 2025-10-03T20:09:48.963Z,31.625,-104.011,6.8602,2.3,ml,39,40,0,0.4,tx,tx2025tmisof,2025-10-03T20:17:51.451Z,"40 km WSW of Mentone, Texas",earthquake,0,1.604597568512,0.2,30,automatic,tx,tx
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T19:09:25.572Z,57.6483,-155.3762,11,1.6,ml,,,,0.31,ak,ak025corp07h,2025-10-03T19:10:53.502Z,"55 km W of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-10-03T19:01:27.590Z,33.8545,-117.5168333,1.64,1.04,ml,34,89,0.04246,0.27,ci,ci41102223,2025-10-03T19:05:06.787Z,"3 km S of Home Gardens, CA",earthquake,0.38,0.47,0.168,33,automatic,ci,ci
 2025-10-03T18:56:24.650Z,37.32833480835,-122.21666717529,8.6499996185303,2.15,md,30,76,0.03852,0.11,nc,nc75244416,2025-10-03T20:12:16.441Z,"6 km SSE of Portola Valley, CA",earthquake,0.24,0.379999995,0.15,28,automatic,nc,nc
+2025-10-03T18:52:31.970Z,46.008666666667,-112.4645,-2,1.08,ml,13,72,0.06266,0.11,mb,mb90115323,2025-10-03T20:47:39.290Z,"5 km E of Butte, Montana",quarry blast,0.33,31.61,0.24552720010953,9,reviewed,mb,mb
 2025-10-03T18:39:53.920Z,40.363834381104,-121.97467041016,21.690000534058,2.3,md,6,191,0.1587,0.08,nc,nc75244406,2025-10-03T19:57:19.326Z,"11 km WSW of Manton, CA",earthquake,1.28,3.08999991,0.12,12,automatic,nc,nc
 2025-10-03T18:34:12.932Z,62.4357,-148.401,34.1,1.5,ml,,,,1.02,ak,ak025cor8wi0,2025-10-03T18:37:54.922Z,"71 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-03T18:26:35.976Z,32.119,-102.187,6.4941,1,ml,30,79,0,0.2,tx,tx2025tmfjpt,2025-10-03T19:23:17.369Z,"16 km NW of Midland, Texas",earthquake,0.57275099146134,0.80349771375887,0.1,25,reviewed,tx,tx
@@ -228,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T20:56:06.280Z,34.0113333,-116.7703333,15.55,0.9,ml,12,82,0.03914,0.1,ci,ci41101927,2025-10-03T15:55:47.557Z,"10 km N of Cabazon, CA",earthquake,0.23,0.45,0.127,13,reviewed,ci,ci
 2025-10-02T20:52:27.820Z,54.750833333333,-163.96266666667,-1.89,0.27,ml,5,106,0.04604,0.21,av,av93802338,2025-10-02T22:44:11.550Z,"37 km WSW of False Pass, Alaska",earthquake,0.32,0.54,0.24601686741973,5,reviewed,av,av
 2025-10-02T20:51:17.670Z,33.1653333,-116.4191667,9.15,1.02,ml,41,44,0.08923,0.21,ci,ci41101919,2025-10-03T16:59:12.759Z,"11 km SSW of Borrego Springs, CA",earthquake,0.2,0.75,0.112,18,reviewed,ci,ci
-2025-10-02T20:49:15.490Z,56.137833333333,-159.15183333333,7.3,0.57,ml,6,120,0.03823,0.25,av,av93050464,2025-10-03T06:00:45.590Z,"25 km N of Perryville, Alaska",earthquake,0.81,1.61,0.21334927924598,6,reviewed,av,av
-2025-10-02T20:43:33.560Z,46.207333333333,-122.16816666667,8.85,0.46,ml,17,90,0.01399,0.13,uw,uw62188397,2025-10-02T22:29:10.200Z,"39 km NNE of Amboy, Washington",earthquake,0.39,0.51,0.16968366301083,8,reviewed,uw,uw
-2025-10-02T20:43:26.982Z,59.8033,-152.3872,84.6,1.6,ml,,,,0.37,ak,ak025cn4ydru,2025-10-02T20:45:29.323Z,"31 km W of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
