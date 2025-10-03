@@ -109,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T09:10:10.990Z,47.788166666667,-122.00833333333,25.61,0.42,md,7,183,0.05071,0.06,uw,uw62188542,2025-10-03T19:08:14.290Z,"2 km E of Echo Lake, Washington",earthquake,0.71,0.59,0.066892915324918,4,reviewed,uw,uw
 2025-10-03T09:07:26.369Z,61.6108,-149.7286,42,1.4,ml,,,,0.78,ak,ak025colq8sc,2025-10-03T09:09:14.698Z,"5 km ESE of Houston, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-03T09:07:05.400Z,33.2655,-116.6125,17,3.18,ml,117,12,0.0723,0.2,ci,ci41102063,2025-10-03T21:11:43.503Z,"3 km SE of Warner Springs, CA",earthquake,0.12,0.31,0.171,30,reviewed,ci,ci
+2025-10-03T09:02:45.380Z,61.469666666667,-151.92583333333,-0.22,0.31,ml,7,161,0.0522,0.15,av,av93803233,2025-10-03T22:52:03.780Z,"58 km NW of Beluga, Alaska",earthquake,0.9,2.26,0.14920748163806,7,reviewed,av,av
 2025-10-03T08:46:04.380Z,35.896,-117.6748333,3.91,0.7,ml,11,110,0.05546,0.05,ci,ci41102055,2025-10-03T15:41:51.347Z,"21 km ESE of Little Lake, CA",earthquake,0.14,0.32,0.09,8,reviewed,ci,ci
 2025-10-03T08:38:09.592Z,37.0285,-118.3309,7.8,0.8,ml,4,256.82,0.085,0.0916,nn,nn00905372,2025-10-03T21:13:33.534Z,"15 km SSW of Big Pine, California",earthquake,,8.5,0,1,reviewed,nn,nn
 2025-10-03T08:31:45.730Z,45.643666666667,-113.53416666667,10.32,1.03,ml,12,167,0.1318,0.2,mb,mb90115273,2025-10-03T14:17:13.520Z,"7 km WNW of Wisdom, Montana",earthquake,1.11,1.73,0.096534431950888,10,reviewed,mb,mb
@@ -229,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T23:12:08.818Z,64.9727,-147.4451,0.7,1.3,ml,,,,0.71,ak,ak025cn6jzzl,2025-10-02T23:14:00.926Z,"8 km E of Fox, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-02T23:11:21.990Z,63.0757,-149.9296,66.7,1.7,ml,,,,0.44,ak,ak025cn6jtaf,2025-10-02T23:13:11.851Z,"60 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-02T23:02:38.158Z,-2.9722,136.3306,10,4.5,mb,27,57,1.825,0.78,us,us6000redf,2025-10-02T23:23:07.040Z,"101 km ENE of Nabire, Indonesia",earthquake,5.15,1.767,0.121,21,reviewed,us,us
-2025-10-02T22:50:50.370Z,33.85,-117.4885,-0.52,1.36,ml,38,45,0.04864,0.3,ci,ci41101975,2025-10-03T16:51:52.497Z,"4 km SE of Home Gardens, CA",quarry blast,0.42,31.61,0.204,16,reviewed,ci,ci
-2025-10-02T22:50:32.588Z,41.1997,-116.6757,11.1,2.7,ml,10,161.44,0.291,0.1402,nn,nn00905344,2025-10-03T04:50:26.778Z,"59 km NE of Valmy, Nevada",earthquake,,2,0.25,5,reviewed,nn,nn
