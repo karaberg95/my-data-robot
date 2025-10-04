@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-04T23:34:56.480Z,38.82799911499,-122.811668396,1.2000000476837,1.14,md,20,58,0.004763,0.02,nc,nc75244896,2025-10-04T23:36:33.051Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.389999986,0.13,22,automatic,nc,nc
+2025-10-04T23:34:31.753Z,38.3859,-116.6353,5.2,2.2,ml,18,171.82,0.996,0.2902,nn,nn00905444,2025-10-04T23:37:26.173Z,"62 km NE of Tonopah, Nevada",earthquake,,0.8,0.14,13,automatic,nn,nn
+2025-10-04T23:30:21.326Z,37.3286,-117.5771,2.1,1.3,ml,11,307.58,0.373,0.1534,nn,nn00905443,2025-10-04T23:33:03.617Z,"47 km S of Silver Peak, Nevada",earthquake,,14.1,0.27,6,automatic,nn,nn
 2025-10-04T23:09:43.553Z,64.9743,-147.4101,0,1.4,ml,,,,0.72,ak,ak025cqhm4j7,2025-10-04T23:13:15.293Z,"10 km E of Fox, Alaska",earthquake,,28.8,,,automatic,ak,ak
 2025-10-04T22:36:17.625Z,31.731,-104.1,4.5033,1.5,ml,33,50,0,0.4,tx,tx2025tojjrb,2025-10-04T23:00:48.707Z,"47 km W of Mentone, Texas",earthquake,0,0.90505510568619,0.2,25,automatic,tx,tx
 2025-10-04T22:19:59.450Z,45.577499389648,-122.37616729736,21.299999237061,2.1345570087433,ml,9,137,0.5016,0.389999986,uw,uw62189542,2025-10-04T22:43:09.190Z,"1 km WSW of Washougal, Washington",earthquake,1.96,5.67000008,0.45718652009964,8,reviewed,uw,uw
