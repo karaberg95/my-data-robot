@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T00:21:41.190Z,36.1775,-89.6465,10.26,2.1,md,31,51,0.07287,0.05,nm,nm60614551,2025-10-04T13:37:07.340Z,"1 km SSE of Caruthersville, Missouri",earthquake,0.39,0.78,0.059150698840401,25,reviewed,nm,nm
 2025-10-04T00:18:48.894Z,59.8073,-152.171,65.5,1.9,ml,,,,0.52,ak,ak025cq3z3gf,2025-10-04T00:31:14.693Z,"19 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-04T00:05:51.125Z,64.9231,-147.2878,0,1.5,ml,,,,1.01,ak,ak025cq3wba2,2025-10-04T00:15:10.533Z,"13 km WNW of Two Rivers, Alaska",earthquake,,29.4,,,automatic,ak,ak
-2025-10-03T23:43:39.598Z,38.0879,-116.2224,5.9,2,ml,12,138.63,0.565,0.1879,nn,nn00905403,2025-10-04T01:09:11.277Z,"64 km NW of Rachel, Nevada",earthquake,,6.7,0.33,3,reviewed,nn,nn
-2025-10-03T23:42:12.680Z,10.4147,126.9002,10,5,mb,42,84,3.571,0.79,us,us6000renv,2025-10-04T00:03:45.040Z,"104 km ENE of Santa Monica, Philippines",earthquake,9.2,1.883,0.074,58,reviewed,us,us
