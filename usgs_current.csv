@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-06T20:56:15.223Z,57.6258,-155.3649,3,2.6,ml,,,,0.32,ak,ak025ctr6j5e,2025-10-06T20:58:00.025Z,"54 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-06T20:47:23.870Z,38.823665618896,-122.81517028809,9.329999923706,0.72,md,10,97,0.01839,0.05,nc,nc75245701,2025-10-06T20:49:01.687Z,"7 km NW of The Geysers, CA",earthquake,1.09,1.39999998,0.18,9,automatic,nc,nc
 2025-10-06T20:43:01.835Z,28.756,-98.464,11.5853,1.5,ml,5,124,0,0.1,tx,tx2025trxbvf,2025-10-06T20:45:35.135Z,"4 km SE of Christine, Texas",earthquake,0,10.729960441589,0.3,4,automatic,tx,tx
-2025-10-06T20:39:11.370Z,38.873001098633,-123.01599884033,5.9400000572205,1.21,md,9,116,0.06114,0.02,nc,nc75245696,2025-10-06T20:40:47.665Z,"8 km N of Cloverdale, CA",earthquake,0.39,1.30999994,0.12,8,automatic,nc,nc
+2025-10-06T20:39:11.370Z,38.873001098633,-123.01599884033,5.9400000572205,1.21,md,9,116,0.06114,0.02,nc,nc75245696,2025-10-06T20:57:18.452Z,"8 km N of Cloverdale, CA",earthquake,0.39,1.30999994,0.12,8,automatic,nc,nc
 2025-10-06T20:38:29.570Z,19.417499542236,-154.85383605957,7.6500000953674,2.24,ml,34,278,0.1005,0.189999998,hv,hv74795307,2025-10-06T20:41:39.090Z,"8 km SE of Leilani Estates, Hawaii",earthquake,0.89,0.469999999,0.73,4,automatic,hv,hv
 2025-10-06T20:38:17.460Z,36.0091667,-117.8078333,1.87,0.13,ml,5,153,0.02663,0.02,ci,ci41104087,2025-10-06T20:41:46.380Z,"12 km NE of Little Lake, CA",earthquake,0.28,0.62,0.123,6,automatic,ci,ci
 2025-10-06T20:23:40.026Z,28.75,-98.465,6.3285,2.5,ml,17,48,0,0.5,tx,tx2025trwldr,2025-10-06T20:27:36.018Z,"5 km SE of Christine, Texas",earthquake,0,2.019602060318,0.1,13,automatic,tx,tx
