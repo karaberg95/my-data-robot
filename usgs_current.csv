@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-07T17:53:28.871Z,60.4235,-152.5482,90.1,1.7,ml,,,,0.73,ak,ak025cvcwyqf,2025-10-07T17:56:05.093Z,"64 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-10-07T17:50:36.113Z,28.754,-98.47,11.1056,1.5,ml,8,117,0,0.2,tx,tx2025ttnccx,2025-10-07T17:52:58.949Z,"4 km SE of Christine, Texas",earthquake,0,6.9748826026917,0.1,7,automatic,tx,tx
 2025-10-07T17:38:33.242Z,39.2301,-119.6977,0,1.2,ml,13,68.62,0.075,0.251,nn,nn00905588,2025-10-07T17:40:34.014Z,"9 km W of Dayton, Nevada",earthquake,,3,0.28,9,automatic,nn,nn
 2025-10-07T17:34:20.749Z,38.4249,-116.5055,4,1.9,ml,11,172.28,1.257,0.3528,nn,nn00905587,2025-10-07T17:37:12.989Z,"74 km ENE of Tonopah, Nevada",earthquake,,2.7,0.2,8,automatic,nn,nn
 2025-10-07T17:27:29.000Z,38.796165466309,-122.77416992188,3.079999923706,1.29,md,27,74,0.01115,0.02,nc,nc75246181,2025-10-07T17:47:20.411Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.12,27,automatic,nc,nc
@@ -163,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T04:01:37.450Z,33.165,-116.4256667,8.33,1.49,ml,58,28,0.08809,0.24,ci,ci37745604,2025-10-07T16:30:06.736Z,"11 km SSW of Borrego Springs, CA",earthquake,0.2,0.77,0.162,65,reviewed,ci,ci
 2025-10-07T04:01:29.000Z,33.1616667,-116.4241667,8.73,1.56,ml,77,21,0.08496,0.2,ci,ci41104271,2025-10-07T16:13:33.375Z,"11 km SSW of Borrego Springs, CA",earthquake,0.13,0.55,0.177,67,reviewed,ci,ci
 2025-10-07T03:50:29.140Z,33.1505,-116.6995,16.92,1.15,ml,62,21,0.06537,0.19,ci,ci41104263,2025-10-07T17:35:47.461Z,"12 km SSE of Lake Henshaw, CA",earthquake,0.16,0.38,0.214,43,reviewed,ci,ci
+2025-10-07T03:50:20.210Z,33.1501667,-116.6916667,17.26,0.45,ml,26,43,0.06142,0.17,ci,ci37745620,2025-10-07T17:54:12.353Z,"12 km NW of Julian, CA",earthquake,0.25,0.59,0.212,16,reviewed,ci,ci
 2025-10-07T03:48:44.380Z,17.841166666667,-66.8505,5.65,2.17,md,6,223,0.2243,0.1,pr,pr71497328,2025-10-07T04:58:38.920Z,"15 km SSE of Guánica, Puerto Rico",earthquake,0.66,0.51,0.18415353928559,5,reviewed,pr,pr
 2025-10-07T03:47:06.140Z,17.811,-66.8495,12.53,2.4,md,7,264,0.1615,0.05,pr,pr71497323,2025-10-07T03:54:25.000Z,"18 km SSE of Guánica, Puerto Rico",earthquake,0.65,0.47,0.021384325033761,5,reviewed,pr,pr
 2025-10-07T03:43:25.340Z,35.6393333,-117.6143333,9.35,1.49,ml,39,53,0.09413,0.13,ci,ci41104255,2025-10-07T15:24:51.091Z,"6 km ENE of Ridgecrest, CA",earthquake,0.13,0.37,0.232,23,reviewed,ci,ci
@@ -178,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T02:58:31.125Z,45.1659,149.5408,79.652,4.7,mb,62,129,5.048,0.79,us,us6000rf8r,2025-10-07T03:15:20.040Z,"130 km E of Kuril’sk, Russia",earthquake,11.09,7.856,0.055,101,reviewed,us,us
 2025-10-07T02:53:27.120Z,38.812999725342,-122.78666687012,1.2799999713898,1.43,md,23,49,0.00468,0.02,nc,nc75245846,2025-10-07T03:42:20.354Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.310000002,0.16,23,automatic,nc,nc
 2025-10-07T02:49:59.454Z,31.652,-104.358,6.2024,1.6,ml,30,70,0.1,0.2,tx,tx2025tsjgaw,2025-10-07T07:07:21.719Z,"58 km S of Whites City, New Mexico",earthquake,0.85655033743989,0.87715925262392,0.1,19,reviewed,tx,tx
-2025-10-07T02:44:36.970Z,40.149501800537,-121.05966949463,-1.25,2.22,md,14,95,0.1853,0.22,nc,nc75245841,2025-10-07T03:17:21.169Z,"3 km SSE of Canyondam, CA",earthquake,0.67,15.1400003,0.2,11,automatic,nc,nc
+2025-10-07T02:44:36.970Z,40.149501800537,-121.05966949463,-1.25,2.22,md,14,95,0.1853,0.22,nc,nc75245841,2025-10-07T17:56:22.102Z,"3 km SSE of Canyondam, CA",earthquake,0.67,15.1400003,0.2,11,automatic,nc,nc
 2025-10-07T02:36:33.360Z,33.8921667,-117.8275,12.23,1.1,ml,17,177,0.04106,0.16,ci,ci41104231,2025-10-07T02:40:30.623Z,"1 km WNW of Yorba Linda, CA",earthquake,1.63,1,0.317,32,automatic,ci,ci
 2025-10-07T02:27:46.560Z,33.2668333,-116.4158333,4.73,0.52,ml,33,75,0.001759,0.19,ci,ci41104223,2025-10-07T02:31:25.436Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.35,0.141,12,automatic,ci,ci
 2025-10-07T02:26:38.180Z,17.809333333333,-66.855833333333,7.76,2.56,md,13,233,0.1626,0.13,pr,pr71497303,2025-10-07T02:54:59.820Z,"18 km SSE of Guánica, Puerto Rico",earthquake,0.52,1.18,0.20791522216781,11,reviewed,pr,pr
@@ -312,4 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T18:11:05.463Z,-17.5613,-178.4192,529.98,4.3,mb,50,78,2.374,0.69,us,us6000rf5j,2025-10-06T18:26:51.040Z,"246 km ENE of Levuka, Fiji",earthquake,14.24,8.699,0.064,70,reviewed,us,us
 2025-10-06T18:10:56.668Z,28.758,-98.46,8.8749,1.7,ml,17,53,0,0.1,tx,tx2025trsauj,2025-10-07T13:54:23.042Z,"5 km SE of Christine, Texas",earthquake,0.56526849800551,0.65939167523821,0.1,11,reviewed,tx,tx
 2025-10-06T18:06:48.104Z,28.763,-98.455,8.6816,1.3,ml,11,64,0,0.1,tx,tx2025trrxfa,2025-10-07T13:59:37.080Z,"5 km SE of Christine, Texas",earthquake,0.6019944043271,0.78922835721346,0.1,6,reviewed,tx,tx
-2025-10-06T17:51:56.809Z,28.75,-98.456,8.8509,1.3,ml,11,76,0.1,0.1,tx,tx2025trrkkg,2025-10-07T16:34:51.509Z,"5 km SE of Christine, Texas",earthquake,1.1518843676437,1.0845209847007,0.1,7,reviewed,tx,tx
