@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-07T23:50:08.153Z,28.747,-98.481,7.1075,1.7,ml,12,87,0,0.4,tx,tx2025ttyzxw,2025-10-07T23:51:53.176Z,"4 km SSE of Christine, Texas",earthquake,0,2.6679039001465,0.3,6,automatic,tx,tx
-2025-10-07T23:48:57.823Z,28.741,-98.431,5.255,1.4,ml,12,66,0.1,0.5,tx,tx2025ttyyxq,2025-10-07T23:51:47.172Z,"8 km SE of Christine, Texas",earthquake,0,2.2311761379242,0.2,8,automatic,tx,tx
-2025-10-07T23:46:48.352Z,56.3496,-156.5842,36.7,3.1,ml,,,,0.45,ak,ak025cvgg3qw,2025-10-07T23:49:58.965Z,"112 km E of Chignik, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2025-10-07T23:50:08.144Z,28.747,-98.481,7.152,1.7,ml,13,87,0,0.4,tx,tx2025ttyzxw,2025-10-07T23:54:23.193Z,"4 km SSE of Christine, Texas",earthquake,0,2.4960908889771,0.2,10,automatic,tx,tx
+2025-10-07T23:48:57.823Z,28.741,-98.431,5.255,1.4,ml,12,66,0.1,0.5,tx,tx2025ttyyxq,2025-10-07T23:59:05.223Z,"8 km SE of Christine, Texas",earthquake,0,2.2311761379242,0.2,8,automatic,tx,tx
+2025-10-07T23:46:48.352Z,56.3496,-156.5842,36.7,3.1,ml,,,,0.45,ak,ak025cvgg3qw,2025-10-07T23:58:46.299Z,"112 km E of Chignik, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2025-10-07T23:44:31.711Z,31.657,-104.35,4.0679,1.9,ml,33,70,0.1,0.2,tx,tx2025ttyuzz,2025-10-07T23:49:54.663Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0403025150299,0.1,21,automatic,tx,tx
 2025-10-07T23:44:23.430Z,32.809,-117.597,11.18,1.74,ml,29,168,0.3833,0.23,ci,ci41104943,2025-10-07T23:47:53.550Z,"30 km W of La Jolla, CA",earthquake,0.49,1.05,0.151,29,automatic,ci,ci
 2025-10-07T23:37:51.717Z,62.2832,-149.2804,18.6,1.4,ml,,,,0.39,ak,ak025cvge6nn,2025-10-07T23:40:12.807Z,"32 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T22:44:46.720Z,33.74,-117.5316667,4.04,0.87,ml,25,50,0.08485,0.19,ci,ci41104911,2025-10-07T22:48:09.340Z,"10 km NNE of Trabuco Canyon, CA",earthquake,0.24,0.66,0.214,21,automatic,ci,ci
 2025-10-07T22:36:22.098Z,-15.6589,168.0918,35,5.7,mww,97,22,6.063,1.05,us,us6000rfhk,2025-10-07T23:35:16.040Z,"86 km ENE of Norsup, Vanuatu",earthquake,7.38,1.681,0.052,36,reviewed,us,us
 2025-10-07T22:34:41.820Z,38.821998596191,-122.81283569336,2.960000038147,0.88,md,10,68,0.01737,0.01,nc,nc75246311,2025-10-07T22:52:17.601Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.879999995,0.26,9,automatic,nc,nc
-2025-10-07T22:30:26.008Z,35.4764,-115.5363,5,2.5,ml,17,88,0.016,0.23,us,us6000rfhi,2025-10-07T23:40:44.040Z,"38 km SSE of Sandy Valley, Nevada",earthquake,1.63,1.232,0.034,116,reviewed,us,us
+2025-10-07T22:30:26.008Z,35.4764,-115.5363,5,2.5,ml,17,88,0.016,0.23,us,us6000rfhi,2025-10-07T23:58:34.670Z,"38 km SSE of Sandy Valley, Nevada",earthquake,1.63,1.232,0.034,116,reviewed,us,us
 2025-10-07T22:23:35.331Z,38.1811,-116.6772,16,1.9,ml,14,226.48,0.994,0.3025,nn,nn00905599,2025-10-07T22:26:26.869Z,"50 km ENE of Tonopah, Nevada",earthquake,,1.3,0.28,10,automatic,nn,nn
 2025-10-07T22:17:57.765Z,28.759,-98.455,8.4067,1.6,ml,9,76,0,0.2,tx,tx2025ttvyni,2025-10-07T23:00:10.159Z,"5 km SE of Christine, Texas",earthquake,0,5.9200229644775,0.2,6,automatic,tx,tx
 2025-10-07T22:09:35.890Z,18.1625,-67.094833333333,34.81,2.22,md,7,172,0.01571,0.15,pr,pr71497433,2025-10-07T22:16:18.100Z,"4 km NE of Hormigueros, Puerto Rico",earthquake,0.77,1.11,0.1545887870682,7,reviewed,pr,pr
@@ -300,4 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T00:17:50.954Z,28.756,-98.458,8.1161,1.6,ml,19,53,0,0.2,tx,tx2025tseeys,2025-10-07T11:56:23.114Z,"5 km SE of Christine, Texas",earthquake,0.54224551457834,0.69154409911914,0.2,10,reviewed,tx,tx
 2025-10-07T00:06:13.925Z,28.757,-98.458,8.9054,1.7,ml,23,53,0,0.2,tx,tx2025tsduyp,2025-10-07T12:05:16.629Z,"5 km SE of Christine, Texas",earthquake,0.51697828519584,0.61165924366728,0.1,13,reviewed,tx,tx
 2025-10-07T00:03:59.552Z,10.0191,122.1505,10,4.9,mww,67,77,4.481,0.39,us,us6000rf7d,2025-10-07T01:38:38.431Z,"32 km WNW of Bulata, Philippines",earthquake,12.66,1.874,0.089,12,reviewed,us,us
-2025-10-06T23:58:12.387Z,3.3406,127.3639,38.097,4.7,mb,47,88,2.334,0.72,us,us6000rf7b,2025-10-07T01:32:07.040Z,"192 km NNW of Tobelo, Indonesia",earthquake,6.75,7.625,0.096,33,reviewed,us,us
