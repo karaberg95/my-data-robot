@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-08T23:48:42.660Z,38.830665588379,-122.82666778565,2.3499999046326,1.19,md,5,114,0.009975,0.02,nc,nc75246796,2025-10-08T23:50:17.706Z,"9 km NW of The Geysers, CA",earthquake,2.1,5.73999977,0.29,4,automatic,nc,nc
 2025-10-08T23:38:55.020Z,38.799331665039,-122.74783325195,0.76999998092651,0.76,md,12,100,0.01827,0.03,nc,nc75246786,2025-10-08T23:40:32.359Z,"3 km NNE of The Geysers, CA",earthquake,0.29,1.12,0.13,11,automatic,nc,nc
 2025-10-08T23:33:55.270Z,19.109832763672,-155.47999572754,31.030000686646,2.47,ml,29,229,0.04839,0.150000006,hv,hv74798752,2025-10-08T23:38:03.170Z,"10 km S of Pāhala, Hawaii",earthquake,0.84,1.13999999,0.27,7,automatic,hv,hv
 2025-10-08T23:22:25.920Z,32.7185,-115.93,9.8,0.76,ml,15,72,0.07108,0.18,ci,ci41105487,2025-10-08T23:26:22.394Z,"6 km ESE of Ocotillo, CA",earthquake,0.32,0.86,0.3,6,automatic,ci,ci
 2025-10-08T23:21:07.559Z,38.3587,-116.7059,0,2,ml,14,168.84,1.186,0.2213,nn,nn00905683,2025-10-08T23:24:05.430Z,"56 km NE of Tonopah, Nevada",earthquake,,4.8,0.25,10,automatic,nn,nn
-2025-10-08T23:18:25.680Z,38.852001190185,-122.46050262451,7.7399997711182,1.67,md,8,140,0.03007,0.09,nc,nc75246776,2025-10-08T23:37:17.370Z,"10 km ENE of Hidden Valley Lake, CA",earthquake,0.7,1.17999995,0.12,10,automatic,nc,nc
+2025-10-08T23:18:25.680Z,38.852001190185,-122.46050262451,7.7399997711182,1.67,md,8,140,0.03007,0.09,nc,nc75246776,2025-10-08T23:52:18.478Z,"10 km ENE of Hidden Valley Lake, CA",earthquake,0.7,1.17999995,0.12,10,automatic,nc,nc
 2025-10-08T23:00:13.728Z,31.758,-101.86,5.8824,1.2,ml,14,80,0.1,0.7,tx,tx2025tvtbuv,2025-10-08T23:02:36.511Z,"33 km SE of Midland, Texas",earthquake,0,2.2914197444916,0.2,11,automatic,tx,tx
 2025-10-08T22:59:27.928Z,38.4655,-116.4826,8.5,2,ml,7,115.12,0.514,0.0985,nn,nn00905680,2025-10-08T23:41:22.922Z,"78 km NE of Tonopah, Nevada",earthquake,,5.3,0.16,4,reviewed,nn,nn
 2025-10-08T22:53:47.527Z,38.4653,-116.4701,7.7,3.3,ml,9,77.04,0.523,0.1347,nn,nn00905675,2025-10-08T23:16:49.817Z,"79 km ENE of Tonopah, Nevada",earthquake,,5.7,0.36,5,reviewed,nn,nn
@@ -12,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T22:43:33.740Z,34.269,-117.1826667,2.4,2.12,ml,87,29,0.05657,0.17,ci,ci41105471,2025-10-08T22:49:31.141Z,"2 km NNE of Lake Arrowhead, CA",earthquake,0.11,0.24,0.164,25,automatic,ci,ci
 2025-10-08T22:42:21.560Z,34.2665,-117.1856667,2.58,1.23,ml,40,70,0.05307,0.2,ci,ci41105463,2025-10-08T22:47:31.482Z,"2 km N of Lake Arrowhead, CA",earthquake,0.21,0.55,0.168,31,automatic,ci,ci
 2025-10-08T22:38:03.420Z,36.0971667,-117.9001667,5.85,1.02,ml,26,77,0.04197,0.14,ci,ci41105455,2025-10-08T22:41:27.040Z,"7 km NE of Coso Junction, CA",earthquake,0.2,0.44,0.211,21,automatic,ci,ci
+2025-10-08T22:35:26.310Z,19.273166666667,-155.496,7.61,0.71,ml,14,70,0.02482,0.12,hv,hv74798657,2025-10-08T23:46:13.400Z,"7 km NNW of Pāhala, Hawaii",earthquake,0.32,0.86,0.052841108442026,4,reviewed,hv,hv
 2025-10-08T22:24:05.294Z,31.529,-104.027,4.3569,1.8,ml,28,59,0,0.3,tx,tx2025tvrwmx,2025-10-08T23:01:10.943Z,"32 km NW of Toyah, Texas",earthquake,0,1.0926377773285,0.2,20,automatic,tx,tx
 2025-10-08T22:23:18.746Z,57.4427,-155.7542,129.3,1.8,ml,,,,1.44,ak,ak025cx39102,2025-10-08T22:30:05.090Z,"79 km W of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-08T22:20:35.346Z,31.59,-104.201,3.9734,2.3,ml,40,69,0.1,0.3,tx,tx2025tvrtqt,2025-10-08T22:24:55.703Z,"49 km NW of Toyah, Texas",earthquake,0,0.95960021018982,0.2,30,automatic,tx,tx
@@ -233,8 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T00:38:47.758Z,38.4249,-116.4734,0,1.2,ml,6,160.57,0.505,0.1914,nn,nn00905611,2025-10-08T18:16:29.664Z,"77 km ENE of Tonopah, Nevada",earthquake,,0,0.13,4,reviewed,nn,nn
 2025-10-08T00:31:42.096Z,61.4783,-149.8481,43.8,1.3,ml,,,,0.6,ak,ak025cwq797l,2025-10-08T00:33:29.494Z,"6 km WNW of Knik, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-08T00:10:07.445Z,28.751,-98.463,8.293,1.6,ml,19,49,0,0.2,tx,tx2025ttzreg,2025-10-08T10:52:34.059Z,"5 km SE of Christine, Texas",earthquake,0.47060040441662,0.69312675584783,0.1,13,reviewed,tx,tx
-2025-10-07T23:52:59.650Z,58.162166666667,-155.3225,2.42,0.04,ml,7,80,0.04845,0.05,av,av93810248,2025-10-08T01:34:17.600Z,"83 km NW of Karluk, Alaska",earthquake,0.19,0.39,0.34046786092369,7,reviewed,av,av
-2025-10-07T23:52:12.516Z,23.9407,121.6037,10,5.1,mb,50,69,0.232,0.57,us,us6000rfi6,2025-10-08T12:17:49.492Z,"4 km S of Hualien City, Taiwan",earthquake,2.32,1.815,0.045,163,reviewed,us,us
-2025-10-07T23:50:06.803Z,28.751,-98.463,8.7435,1.6,ml,20,49,0,0.1,tx,tx2025ttyzxw,2025-10-08T11:01:26.117Z,"5 km SE of Christine, Texas",earthquake,0.41553966719278,0.59106371987979,0.1,15,reviewed,tx,tx
-2025-10-07T23:48:56.365Z,28.752,-98.459,8.9196,1.4,ml,14,57,0.1,0.1,tx,tx2025ttyyxq,2025-10-08T11:56:22.485Z,"5 km SE of Christine, Texas",earthquake,0.72469465044521,0.80098726721328,0.1,8,reviewed,tx,tx
-2025-10-07T23:46:48.352Z,56.3496,-156.5842,36.7,3.1,ml,,,,0.45,ak,ak025cvgg3qw,2025-10-08T04:44:23.040Z,"112 km E of Chignik, Alaska",earthquake,,4.6,,,automatic,ak,ak
