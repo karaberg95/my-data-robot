@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-09T17:52:40.427Z,61.1981,-141.1427,13.3,1.4,ml,,,,1.22,ak,ak025cynzgrt,2025-10-09T17:56:28.595Z,"98 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T17:42:44.673Z,32.1321,-101.9142,4.733,3,mb_lg,35,60,0.214,0.36,us,us6000rfv4,2025-10-09T17:48:05.040Z,"11 km W of Stanton, Texas",earthquake,1.51,4.656,0.063,67,reviewed,us,us
 2025-10-09T17:38:08.493Z,64.1988,-145.6812,19.9,1.1,ml,,,,0.24,ak,ak025cynweep,2025-10-09T17:40:20.038Z,"9 km ENE of Big Delta, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T17:29:34.900Z,46.205333333333,-122.16433333333,5.72,0.62,ml,17,111,0.01224,0.09,uw,uw62191442,2025-10-09T17:43:14.958Z,"39 km NNE of Amboy, Washington",earthquake,0.33,0.42,0.123538014685,7,reviewed,uw,uw
