@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T14:46:09.644Z,31.595,-104.206,6.0999,1.5,ml,31,69,0.1,0.1,tx,tx2025twykyr,2025-10-09T17:57:43.335Z,"50 km NW of Toyah, Texas",earthquake,0.5151743133717,0.72065721661207,0.1,17,reviewed,tx,tx
 2025-10-09T14:45:06.944Z,-52.0044,14.604,10,5.2,mb,69,65,20.128,0.6,us,us6000rfux,2025-10-09T17:23:45.040Z,"southwest of Africa",earthquake,9.78,1.801,0.088,42,reviewed,us,us
 2025-10-09T14:41:21.686Z,63.1584,-147.6852,3.2,1.7,ml,,,,1,ak,ak025cym4rrb,2025-10-09T14:46:20.499Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-09T14:35:05.029Z,28.669,-98.228,14.8781,1.5,ml,5,97,0.1,0,tx,tx2025twybkf,2025-10-09T15:00:15.378Z,"22 km W of Pawnee, Texas",earthquake,0,6.8234896659851,0.1,5,automatic,tx,tx
+2025-10-09T14:35:05.294Z,28.676,-98.226,7.8013,1.4,ml,13,63,0.2,0.2,tx,tx2025twybkf,2025-10-09T19:16:48.862Z,"21 km W of Pawnee, Texas",earthquake,0.73806945656228,3.7743424283677,0.1,9,reviewed,tx,tx
 2025-10-09T14:16:34.673Z,39.4028,-119.7869,6.4,0.9,ml,14,86.66,0.022,0.1029,nn,nn00905705,2025-10-09T18:23:37.109Z,"14 km S of Reno, Nevada",earthquake,,1.1,0.38,7,reviewed,nn,nn
 2025-10-09T13:58:56.699Z,31.613,-104.243,6.0999,2.3,ml,40,69,0.1,0.2,tx,tx2025twwwew,2025-10-09T14:55:23.334Z,"54 km NW of Toyah, Texas",earthquake,0.56409201624674,0.66935594972207,0.2,27,reviewed,tx,tx
 2025-10-09T13:36:26.213Z,59.8926,-153.1809,131.7,2.6,ml,,,,1.21,ak,ak025cyli9wj,2025-10-09T14:39:02.040Z,"53 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -77,9 +77,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T09:52:17.892Z,28.691,-98.23,8.0334,1.3,ml,16,57,0.1,0.2,tx,tx2025tworsk,2025-10-09T16:12:34.593Z,"22 km W of Pawnee, Texas",earthquake,1.2028477653586,1.598126540264,0.1,13,reviewed,tx,tx
 2025-10-09T09:40:15.350Z,63.1157,-151.6669,18.8,1.7,ml,,,,1.16,ak,ak025cyj5dix,2025-10-09T09:42:39.026Z,"47 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-09T09:32:32.600Z,32.948,-115.4496667,5.16,2.34,ml,42,41,0.08669,0.29,ci,ci41105655,2025-10-09T09:43:28.790Z,"8 km ESE of Brawley, CA",earthquake,0.28,0.82,0.237,27,automatic,ci,ci
-2025-10-09T09:24:17.609Z,61.6103,-149.8887,38.1,3.7,ml,,,,0.78,ak,ak025cyj1y8u,2025-10-09T18:48:36.050Z,"4 km WSW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-10-09T09:24:17.609Z,61.6103,-149.8887,38.1,3.7,ml,,,,0.78,ak,ak025cyj1y8u,2025-10-09T19:18:08.445Z,"4 km WSW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-10-09T09:18:57.270Z,38.802165985107,-122.78182983398,2.9700000286102,1.07,md,13,114,0.01016,0.03,nc,nc75246886,2025-10-09T09:52:17.724Z,"4 km NW of The Geysers, CA",earthquake,0.4,0.720000029,0.35,17,automatic,nc,nc
 2025-10-09T09:13:53.080Z,44.737166666667,-112.86366666667,3.68,0.67,ml,7,143,0.09111,0.03,mb,mb90116158,2025-10-09T14:51:26.230Z,"24 km WNW of Lima, Montana",earthquake,0.33,0.63,0.27968638834886,10,reviewed,mb,mb
+2025-10-09T09:02:41.830Z,51.790666666667,-178.825,5.19,0.49,ml,5,145,0.02355,0.07,av,av93811983,2025-10-09T19:15:28.470Z,"151 km W of Adak, Alaska",earthquake,0.56,1.13,0.20989215204017,5,reviewed,av,av
 2025-10-09T08:38:56.620Z,46.205333333333,-122.161,6.34,0.84,md,9,181,0.01472,0.06,uw,uw62191362,2025-10-09T19:09:35.460Z,"39 km NE of Amboy, Washington",earthquake,0.44,0.4,0.20580586559045,4,reviewed,uw,uw
 2025-10-09T08:37:34.400Z,33.8476667,-117.7685,9.32,1.22,ml,44,54,0.02596,0.2,ci,ci41105647,2025-10-09T08:41:08.832Z,"6 km NE of Villa Park, CA",earthquake,0.22,0.42,0.343,35,automatic,ci,ci
 2025-10-09T08:36:30.840Z,19.060833333333,-65.374166666667,72.97,3.38,md,11,238,0.9573,0.38,pr,pr71497578,2025-10-09T08:55:11.980Z,"84 km N of Culebra, Puerto Rico",earthquake,3.71,6.41,0.083542501626589,8,reviewed,pr,pr
@@ -195,6 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T19:38:50.708Z,51.5537,-175.2508,35,4.5,mb,58,156,0.738,1.05,us,us6000rfp7,2025-10-08T21:15:19.292Z,"101 km SW of Atka, Alaska",earthquake,7.42,1.944,0.058,88,reviewed,us,us
 2025-10-08T19:35:18.750Z,38.824001312256,-122.84266662598,1.8600000143051,0.26,md,8,143,0.00603,0.02,nc,nc75246696,2025-10-08T19:52:16.721Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.709999979,0.14,8,automatic,nc,nc
 2025-10-08T19:26:43.833Z,53.1995,159.7713,65.314,4.6,mb,35,177,0.699,0.61,us,us6000rfp5,2025-10-08T20:41:48.040Z,"78 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.69,9.116,0.095,33,reviewed,us,us
-2025-10-08T19:14:54.250Z,33.1843333,-116.4206667,10.75,1.01,ml,46,59,0.08369,0.22,ci,ci41105343,2025-10-08T20:20:52.001Z,"9 km SSW of Borrego Springs, CA",earthquake,0.2,0.49,0.194,28,reviewed,ci,ci
-2025-10-08T19:13:36.260Z,33.184,-116.4163333,11.38,0.75,ml,34,60,0.08398,0.19,ci,ci41105335,2025-10-08T19:17:26.362Z,"9 km SSW of Borrego Springs, CA",earthquake,0.22,0.58,0.088,17,automatic,ci,ci
-2025-10-08T19:13:00.700Z,33.1848333,-116.4175,11.54,0.74,ml,37,60,0.08314,0.19,ci,ci41105327,2025-10-08T19:16:31.356Z,"9 km SSW of Borrego Springs, CA",earthquake,0.23,0.59,0.17,14,automatic,ci,ci
