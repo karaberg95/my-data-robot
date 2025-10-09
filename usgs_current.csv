@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-09T20:35:48.748Z,64.7612,-146.9578,2.5,2.1,ml,,,,0.33,ak,ak025cypo56i,2025-10-09T20:37:27.212Z,"10 km ENE of Moose Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-09T20:34:26.230Z,38.791831970215,-122.76100158691,1.3400000333786,0.24,md,8,79,0.02082,0.03,nc,nc75247091,2025-10-09T20:36:02.857Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.910000026,0.07,8,automatic,nc,nc
 2025-10-09T20:29:22.480Z,19.305500030518,-155.28317260742,9.789999961853,1.94,ml,26,125,0.02473,0.140000001,hv,hv74799767,2025-10-09T20:32:21.470Z,"16 km SSW of Volcano, Hawaii",earthquake,0.4,0.589999974,0.28,4,automatic,hv,hv
 2025-10-09T20:24:36.820Z,32.9616667,-115.5818333,10.88,1.32,ml,21,64,0.0626,0.25,ci,ci41105887,2025-10-09T20:28:05.250Z,"5 km WSW of Brawley, CA",earthquake,0.35,0.74,0.264,17,automatic,ci,ci
-2025-10-09T20:11:52.810Z,38.833831787109,-122.78433227539,2.1900000572205,0.77,md,14,68,0.006552,0.02,nc,nc75247086,2025-10-09T20:13:26.462Z,"5 km WNW of Cobb, CA",earthquake,0.27,0.49000001,0.1,16,automatic,nc,nc
+2025-10-09T20:11:52.810Z,38.833831787109,-122.78433227539,2.1900000572205,0.77,md,14,68,0.006552,0.02,nc,nc75247086,2025-10-09T20:37:17.372Z,"5 km WNW of Cobb, CA",earthquake,0.27,0.49000001,0.1,16,automatic,nc,nc
 2025-10-09T20:09:38.540Z,37.502166748047,-118.85399627685,4.6700000762939,1.51,md,12,205,0.08991,0.03,nc,nc75247081,2025-10-09T20:27:19.314Z,"17 km WSW of Toms Place, CA",earthquake,0.68,1.50999999,0.1,11,automatic,nc,nc
 2025-10-09T20:08:45.508Z,-15.3721,167.4705,142.628,4.8,mb,42,117,5.975,0.81,us,us6000rfvu,2025-10-09T20:25:03.040Z,"36 km ENE of Luganville, Vanuatu",earthquake,11.62,7.682,0.116,23,reviewed,us,us
 2025-10-09T20:08:06.270Z,33.534,-116.7211667,6.05,0.76,ml,36,27,0.03409,0.14,ci,ci41105879,2025-10-09T20:11:33.671Z,"5 km WSW of Anza, CA",earthquake,0.13,0.32,0.149,23,automatic,ci,ci
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T18:56:05.740Z,38.827835083008,-122.82233428955,0.81000000238419,1.04,md,17,72,0.01055,0.02,nc,nc75247061,2025-10-09T19:32:17.943Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.50999999,0.09,17,automatic,nc,nc
 2025-10-09T18:41:31.028Z,31.654,-104.398,6.4694,2.6,ml,24,69,0,0.2,tx,tx2025txgftp,2025-10-09T18:56:56.371Z,"57 km S of Whites City, New Mexico",earthquake,1.0857304598673,0.76437696452881,0.1,19,reviewed,tx,tx
 2025-10-09T18:39:14.611Z,32.107,-101.927,7.515,2,ml,27,66,0.1,0.1,tx,tx2025txgduj,2025-10-09T19:28:30.958Z,"13 km W of Stanton, Texas",earthquake,0.44524281661729,0.54900261469953,0.1,23,reviewed,tx,tx
-2025-10-09T18:29:15.496Z,32.194,-101.404,3.4771,1.2,ml,22,77,0.1,0.5,tx,tx2025txfvda,2025-10-09T19:03:28.001Z,"9 km SE of Big Spring, Texas",earthquake,0,1.2660816907883,0.1,12,automatic,tx,tx
+2025-10-09T18:29:15.792Z,32.189,-101.401,5.4932,1.3,ml,29,79,0.1,0.1,tx,tx2025txfvda,2025-10-09T20:44:36.539Z,"9 km NNW of Forsan, Texas",earthquake,0.337362789107,0.75045205427859,0.1,11,reviewed,tx,tx
 2025-10-09T18:20:22.740Z,36.0095,-117.8111667,1.46,0.84,ml,24,52,0.02702,0.11,ci,ci41105855,2025-10-09T18:23:50.249Z,"12 km NE of Little Lake, CA",earthquake,0.12,0.16,0.124,15,automatic,ci,ci
 2025-10-09T18:20:09.483Z,39.1606,-119.0317,11.6,2.5,ml,35,74.87,0.239,0.1348,nn,nn00905714,2025-10-09T18:42:05.689Z,"22 km NNE of Yerington, Nevada",earthquake,,1.1,0.21,16,reviewed,nn,nn
 2025-10-09T18:19:02.260Z,19.428333282471,-155.263671875,0.93000000715256,1.74,ml,13,137,0.003985,0.310000002,hv,hv74799652,2025-10-09T18:21:53.200Z,"3 km WSW of Volcano, Hawaii",earthquake,0.35,0.430000007,0.19,14,automatic,hv,hv
@@ -26,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T17:38:08.493Z,64.1988,-145.6812,19.9,1.1,ml,,,,0.24,ak,ak025cynweep,2025-10-09T17:40:20.038Z,"9 km ENE of Big Delta, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T17:29:34.900Z,46.205333333333,-122.16433333333,5.72,0.62,ml,17,111,0.01224,0.09,uw,uw62191442,2025-10-09T17:43:14.958Z,"39 km NNE of Amboy, Washington",earthquake,0.33,0.42,0.123538014685,7,reviewed,uw,uw
 2025-10-09T16:57:59.610Z,34.2661667,-117.0806667,5.42,0.8,ml,18,63,0.063,0.19,ci,ci41105799,2025-10-09T17:19:36.433Z,"7 km NNE of Running Springs, CA",earthquake,0.28,0.74,0.07,10,reviewed,ci,ci
-2025-10-09T16:49:15.580Z,34.395,-116.8803333,4.63,1.48,ml,51,43,0.06409,0.15,ci,ci41105791,2025-10-09T16:52:43.235Z,"10 km SE of Lucerne Valley, CA",earthquake,0.15,0.44,0.163,27,automatic,ci,ci
+2025-10-09T16:49:15.500Z,34.3953333,-116.8805,5.67,1.43,ml,48,43,0.06443,0.14,ci,ci41105791,2025-10-09T20:36:48.601Z,"10 km SE of Lucerne Valley, CA",earthquake,0.13,0.35,0.136,22,reviewed,ci,ci
 2025-10-09T16:46:18.596Z,36.6024,-117.6806,14.4,2.2,ml,14,69.97,0.361,0.1671,nn,nn00905711,2025-10-09T18:57:30.629Z,"21 km NE of Keeler, California",earthquake,,2.1,0.11,2,reviewed,nn,nn
 2025-10-09T16:00:37.240Z,38.821666717529,-122.76716613769,2.0299999713898,0.76,md,12,109,0.009049,0.02,nc,nc75247011,2025-10-09T16:17:19.503Z,"4 km W of Cobb, CA",earthquake,0.27,0.629999995,0.07,12,automatic,nc,nc
 2025-10-09T15:51:38.223Z,61.6918,-150.1295,16.7,2.1,ml,,,,0.84,ak,ak025cymsdu9,2025-10-09T16:04:10.652Z,"7 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -124,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T05:26:35.661Z,64.5116,-146.8675,5.1,1.8,ml,,,,0.68,ak,ak025cygoonj,2025-10-09T05:56:19.453Z,"2 km SE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-09T05:25:33.830Z,34.2665,-117.0765,4.2,1.02,ml,53,30,0.05965,0.17,ci,ci41105583,2025-10-09T05:29:06.371Z,"7 km NNE of Running Springs, CA",earthquake,0.14,0.41,0.128,29,automatic,ci,ci
 2025-10-09T05:21:30.725Z,57.1811,-157.1617,34.8,2.2,ml,,,,1.16,ak,ak025cygnln2,2025-10-09T05:26:20.218Z,"39 km SSE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-10-09T05:17:40.733Z,30.9113,99.92,10,5.5,mww,126,22,5.939,0.57,us,us6000rfs1,2025-10-09T10:01:57.692Z,"210 km N of Daocheng, China",earthquake,7.46,1.754,0.063,24,reviewed,us,us
+2025-10-09T05:17:40.733Z,30.9113,99.92,10,5.5,mww,126,22,5.939,0.57,us,us6000rfs1,2025-10-09T20:39:46.439Z,"210 km N of Daocheng, China",earthquake,7.46,1.754,0.063,24,reviewed,us,us
 2025-10-09T05:09:42.100Z,33.536,-117.0295,14.45,1.64,ml,71,20,0.05278,0.2,ci,ci41105575,2025-10-09T18:45:27.025Z,"12 km ENE of Temecula, CA",earthquake,0.15,0.37,0.264,26,reviewed,ci,ci
 2025-10-09T05:04:10.807Z,57.6501,-155.4038,17.1,1.8,ml,,,,0.21,ak,ak025cygjwzc,2025-10-09T05:05:32.104Z,"57 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T04:44:52.242Z,38.4304,-116.4877,7.2,1.7,ml,9,137.85,0.496,0.1688,nn,nn00905696,2025-10-09T16:54:36.608Z,"76 km ENE of Tonopah, Nevada",earthquake,,5.1,0.3,4,reviewed,nn,nn
@@ -147,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T03:03:35.590Z,33.3321667,-116.6818333,11.54,0.82,ml,78,19,0.1026,0.19,ci,ci41105551,2025-10-09T03:07:05.400Z,"7 km NW of Warner Springs, CA",earthquake,0.14,0.43,0.207,23,automatic,ci,ci
 2025-10-09T02:51:04.260Z,57.7518,-155.643,87.6,1.7,ml,,,,0.27,ak,ak025cyf1obe,2025-10-09T02:53:07.039Z,"73 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T02:49:33.530Z,36.744167327881,-121.45950317383,7.0700001716614,1.95,md,36,36,0.01179,0.15,nc,nc75246836,2025-10-09T03:22:18.036Z,"11 km SW of Ridgemark, CA",earthquake,0.3,0.5,0.17,32,automatic,nc,nc
+2025-10-09T02:48:59.420Z,53.845833333333,-166.93533333333,3.27,-0.51,ml,4,226,0.03791,0.09,av,av93050679,2025-10-09T20:42:04.110Z,"26 km W of Dutch Harbor, Alaska",earthquake,0.66,1.44,0.1328574694624,4,reviewed,av,av
 2025-10-09T02:10:13.440Z,34.8563333,-119.2466667,10.18,1.22,ml,22,128,0.01951,0.21,ci,ci41105535,2025-10-09T15:25:03.629Z,"9 km W of Pine Mountain Club, CA",earthquake,0.35,0.36,0.204,13,reviewed,ci,ci
 2025-10-09T01:56:01.404Z,32.13,-101.497,7.0801,1.7,ml,49,79,0.1,0.1,tx,tx2025tvyxhi,2025-10-09T07:55:24.032Z,"12 km W of Forsan, Texas",earthquake,0.37464485272334,0.70183337718598,0.1,34,reviewed,tx,tx
 2025-10-09T01:52:57.910Z,19.400333333333,-154.9775,5.27,1.42,ml,17,119,0.0221,0.24,hv,hv74798852,2025-10-09T18:19:21.890Z,"9 km SW of Leilani Estates, Hawaii",earthquake,0.95,1.53,0.1525851785664,9,reviewed,hv,hv
@@ -198,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T21:13:08.700Z,36.092,-91.421333333333,13.13,1.92,md,9,120,0.2177,0.11,nm,nm60504268,2025-10-09T13:13:58.540Z,"10 km W of Smithville, Arkansas",earthquake,0.33,0.65,0.18536168617151,8,reviewed,nm,nm
 2025-10-08T21:10:47.221Z,36.1943,-115.2636,8.7,1.6,ml,12,244.98,0.322,0.3286,nn,nn00905671,2025-10-08T21:13:23.873Z,"9 km N of Spring Valley, Nevada",earthquake,,1.5,0.34,11,automatic,nn,nn
 2025-10-08T21:09:50.602Z,62.0071,-151.4179,83.2,1.8,ml,,,,0.72,ak,ak025cx2kntg,2025-10-08T21:13:05.718Z,"2 km NNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-10-08T20:43:10.620Z,60.0375,-152.7597,107.8,2.2,ml,,,,0.39,ak,ak025cx26fig,2025-10-08T20:46:46.294Z,"58 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-08T20:36:48.220Z,44.7905,-110.843,4.82,1.66,ml,18,105,0.005764,0.18,uu,uu80119011,2025-10-08T20:57:34.010Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.42,0.24296517171029,5,reviewed,uu,uu
