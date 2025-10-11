@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-11T04:32:14.240Z,38.833667755127,-122.81716918945,1.9099999666214,0.39,md,10,86,0.01166,0.02,nc,nc75247681,2025-10-11T04:33:50.621Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.819999993,0.24,10,automatic,nc,nc
 2025-10-11T04:24:36.919Z,63.8161,-149.1447,67.4,1.2,ml,,,,1.88,ak,ak025d1r5ip7,2025-10-11T04:27:03.762Z,"9 km WSW of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-11T04:18:48.231Z,63.1268,-149.157,77.1,1.5,ml,,,,0.62,ak,ak025d1r499e,2025-10-11T04:21:16.113Z,"31 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-11T04:01:34.240Z,36.959999084473,-121.5898361206,5.2699999809265,1.45,md,15,74,0.007806,0.09,nc,nc75247671,2025-10-11T04:27:19.049Z,"5 km SSW of Gilroy, CA",earthquake,0.28,0.529999971,0.19,16,automatic,nc,nc
 2025-10-11T03:54:51.380Z,37.875499725342,-122.24949645996,8.6800003051758,0.74,md,10,95,0.002077,0.03,nc,nc75247666,2025-10-11T04:17:21.974Z,"2 km E of Berkeley, CA",earthquake,0.38,0.629999995,0.09,6,automatic,nc,nc
 2025-10-11T03:51:18.670Z,61.5998,-150.0587,43.5,1.3,ml,,,,0.6,ak,ak025d1qpu0r,2025-10-11T03:53:28.900Z,"10 km NNW of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2025-10-11T03:38:16.150Z,38.79349899292,-122.76116943359,0.55000001192093,1.16,md,14,81,0.02091,0.03,nc,nc75247661,2025-10-11T04:07:18.900Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.629999995,0.25,15,automatic,nc,nc
+2025-10-11T03:38:16.150Z,38.79349899292,-122.76116943359,0.55000001192093,1.16,md,14,81,0.02091,0.03,nc,nc75247661,2025-10-11T04:42:21.167Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.629999995,0.25,15,automatic,nc,nc
 2025-10-11T03:28:32.707Z,60.0947,-153.6794,14.5,1.1,ml,,,,0.47,ak,ak025d1qkxmq,2025-10-11T03:41:27.641Z,"37 km ESE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-11T03:22:00.952Z,30.3456,138.4539,432.857,4.8,mb,71,49,2.994,0.63,us,us6000rghz,2025-10-11T03:38:55.040Z,"Izu Islands, Japan region",earthquake,8.96,6.664,0.028,385,reviewed,us,us
 2025-10-11T03:18:16.562Z,27.1032,103.4597,10,5.2,mb,49,50,6.783,1.16,us,us6000rgi0,2025-10-11T03:38:22.040Z,"34 km SW of Zhaotong, China",earthquake,10.07,1.884,0.057,102,reviewed,us,us
@@ -262,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T04:56:16.238Z,38.3732,-116.4635,11.9,1.4,ml,6,152.22,0.496,0.1396,nn,nn00905741,2025-10-10T18:15:34.486Z,"75 km ENE of Tonopah, Nevada",earthquake,,8.7,0.16,3,reviewed,nn,nn
 2025-10-10T04:53:36.830Z,46.505,-122.325,16.32,0.92,ml,25,68,0.1239,0.07,uw,uw62191617,2025-10-10T16:34:44.980Z,"7 km SSW of Morton, Washington",earthquake,0.22,0.48,0.12810262352099,7,reviewed,uw,uw
 2025-10-10T04:43:46.640Z,36.0343333,-117.7795,3.05,0.91,ml,19,62,0.0147,0.11,ci,ci41106023,2025-10-10T04:47:12.312Z,"15 km E of Coso Junction, CA",earthquake,0.18,0.26,0.241,12,automatic,ci,ci
-2025-10-10T04:41:26.890Z,17.994333333333,-66.848666666667,16.81,2.38,md,21,112,0.02874,0.21,pr,pr71497663,2025-10-10T05:01:41.200Z,"3 km W of Indios, Puerto Rico",earthquake,0.39,0.38,0.055414610807936,4,reviewed,pr,pr
-2025-10-10T04:39:09.790Z,36.0355,-117.7805,2.79,2.83,ml,39,34,0.01606,0.15,ci,ci41106015,2025-10-10T17:09:51.706Z,"15 km E of Coso Junction, CA",earthquake,0.16,0.31,0.164,25,reviewed,ci,ci
-2025-10-10T04:32:59.523Z,28.654,-98.449,14.1451,1.5,ml,6,139,0.1,0.5,tx,tx2025txzvlg,2025-10-10T04:36:13.793Z,"15 km SSE of Christine, Texas",earthquake,0,6.5982904434204,0.5,6,automatic,tx,tx
