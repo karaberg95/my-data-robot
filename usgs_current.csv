@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T10:02:51.536Z,-6.9375,129.544,158.185,5.5,mb,92,26,4.816,0.57,us,us6000rg2a,2025-10-10T12:24:56.167Z,"Banda Sea",earthquake,7.99,6.923,0.073,64,reviewed,us,us
 2025-10-10T10:01:03.714Z,7.1952,126.8738,81.933,5.1,mb,53,114,1.291,0.63,us,us6000rg2b,2025-10-10T10:19:29.040Z,"34 km ESE of Santiago, Philippines",earthquake,8.19,5.909,0.083,47,reviewed,us,us
 2025-10-10T09:53:12.079Z,32.105,-101.933,8.7158,0.8,ml,26,84,0.1,0.2,tx,tx2025tykljd,2025-10-10T11:41:36.650Z,"13 km W of Stanton, Texas",earthquake,0.75393172073024,1.9376687705415,0,6,reviewed,tx,tx
-2025-10-10T09:43:40.641Z,11.4553,141.5675,10,5.6,mb,68,69,3.858,0.67,us,us6000rg29,2025-10-11T03:53:44.268Z,"219 km NNE of Fais, Micronesia",earthquake,8.59,1.878,0.066,81,reviewed,us,us
-2025-10-10T09:43:32.966Z,6.9978,126.89,73.244,5.2,mb,69,103,1.303,0.79,us,us6000rg28,2025-10-10T10:03:00.040Z,"45 km ESE of Manay, Philippines",earthquake,8.04,6.875,0.072,64,reviewed,us,us
