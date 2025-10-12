@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-12T09:43:06.863Z,60.1112,-141.3458,20,1.6,ml,,,,0.36,ak,ak025d3hs1i6,2025-10-12T09:44:50.729Z,"110 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-12T09:41:55.402Z,31.349,-103.491,9.1143,1.7,ml,30,59,0.1,0.5,tx,tx2025ucbnch,2025-10-12T09:44:58.593Z,"5 km ESE of Lindsay, Texas",earthquake,0,2.1217889785767,0.1,22,automatic,tx,tx
 2025-10-12T09:24:54.034Z,62.1737,-148.2785,230.7,1.7,ml,,,,0.75,ak,ak025d3ho2jf,2025-10-12T09:27:59.052Z,"43 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-12T09:13:43.999Z,60.6607,-152.5238,103.4,1.5,ml,,,,0.34,ak,ak025d3hlovz,2025-10-12T09:15:47.173Z,"66 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-12T08:54:15.266Z,62.235,-150.2765,6.1,1.6,ml,,,,0.85,ak,ak025d3h8zfj,2025-10-12T09:04:08.289Z,"9 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
