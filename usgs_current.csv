@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-12T09:43:15.059Z,63.0293,-151.0644,113.9,1.8,ml,,,,0.28,ak,ak025d3hs24x,2025-10-12T09:45:47.734Z,"61 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-10-12T09:43:06.863Z,60.1112,-141.3458,20,1.6,ml,,,,0.36,ak,ak025d3hs1i6,2025-10-12T09:44:50.729Z,"110 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-12T09:41:55.402Z,31.349,-103.491,9.1143,1.7,ml,30,59,0.1,0.5,tx,tx2025ucbnch,2025-10-12T09:44:58.593Z,"5 km ESE of Lindsay, Texas",earthquake,0,2.1217889785767,0.1,22,automatic,tx,tx
+2025-10-12T09:42:06.400Z,33.5346667,-116.7195,5.79,0.43,ml,34,41,0.03407,0.12,ci,ci41107095,2025-10-12T09:45:28.199Z,"5 km WSW of Anza, CA",earthquake,0.13,0.32,0.15,10,automatic,ci,ci
+2025-10-12T09:41:55.405Z,31.349,-103.491,9.113,1.7,ml,31,50,0.1,0.5,tx,tx2025ucbnch,2025-10-12T09:46:03.600Z,"5 km ESE of Lindsay, Texas",earthquake,0,2.1216793060303,0.2,23,automatic,tx,tx
 2025-10-12T09:24:54.034Z,62.1737,-148.2785,230.7,1.7,ml,,,,0.75,ak,ak025d3ho2jf,2025-10-12T09:27:59.052Z,"43 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-12T09:13:43.999Z,60.6607,-152.5238,103.4,1.5,ml,,,,0.34,ak,ak025d3hlovz,2025-10-12T09:15:47.173Z,"66 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-12T08:54:15.266Z,62.235,-150.2765,6.1,1.6,ml,,,,0.85,ak,ak025d3h8zfj,2025-10-12T09:04:08.289Z,"9 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-11T09:55:05.420Z,33.8278333,-117.0016667,11.98,0.87,ml,46,45,0.03438,0.21,ci,ci41106647,2025-10-11T09:58:36.614Z,"6 km NW of San Jacinto, CA",earthquake,0.21,0.6,0.154,28,automatic,ci,ci
 2025-10-11T09:53:10.050Z,33.8256667,-117.0006667,12.43,0.73,ml,40,45,0.1173,0.19,ci,ci41106639,2025-10-11T09:56:37.457Z,"6 km NW of San Jacinto, CA",earthquake,0.21,0.59,0.174,20,automatic,ci,ci
 2025-10-11T09:52:46.800Z,35.743166666667,-82.622333333333,11.72,2.09,md,9,100,0.1713,0.15,se,se60504293,2025-10-11T13:40:51.020Z,"7 km NW of Weaverville, North Carolina",earthquake,1.43,4.32,0.03903325360592,7,reviewed,se,se
-2025-10-11T09:49:47.700Z,33.825,-116.9998333,12.24,1.17,ml,63,31,0.03153,0.18,ci,ci41106631,2025-10-11T10:00:15.030Z,"6 km NW of San Jacinto, CA",earthquake,0.16,0.45,0.129,26,automatic,ci,ci
-2025-10-11T09:49:40.470Z,19.209833145142,-155.48815917969,34.409999847412,2.14,ml,56,81,0.03968,0.129999995,hv,hv74802051,2025-10-11T09:53:26.910Z,"1 km NW of Pāhala, Hawaii",earthquake,0.43,0.479999989,1.12,7,automatic,hv,hv
