@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-12T11:20:26.953Z,61.6407,-148.1637,17.6,1.1,ml,,,,0.55,ak,ak025d3iu0sn,2025-10-12T11:22:22.578Z,"23 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-12T10:50:50.250Z,19.096,-64.666833333333,44.87,3.44,md,17,265,0.6526,0.26,pr,pr71497803,2025-10-12T11:29:32.880Z,"85 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.43,6.41,0.01680636196593,7,reviewed,pr,pr
 2025-10-12T10:25:16.710Z,38.841167449951,-122.81016540527,1.9299999475479,1.07,md,18,50,0.01572,0.02,nc,nc75248166,2025-10-12T10:47:22.209Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.479999989,0.26,17,automatic,nc,nc
 2025-10-12T10:23:59.337Z,1.5366,126.9549,101.872,4.5,mb,60,78,0.864,1.08,us,us6000rgq7,2025-10-12T11:02:01.040Z,"95 km NNW of Ternate, Indonesia",earthquake,4.65,7.713,0.085,40,reviewed,us,us
 2025-10-12T10:21:23.846Z,63.4466,-150.6308,0,2.1,ml,,,,1.01,ak,ak025d3i8smr,2025-10-12T10:23:54.133Z,"55 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T01:48:30.190Z,38.724166870117,-122.81216430664,5.210000038147,1.12,md,11,216,0.04494,0.02,nc,nc75248051,2025-10-12T02:42:16.791Z,"8 km SW of The Geysers, CA",earthquake,0.84,1.41999996,0.13,12,automatic,nc,nc
 2025-10-12T01:44:30.880Z,38.836334228516,-122.78649902344,2.0899999141693,0.72,md,11,75,0.003648,0.02,nc,nc75248046,2025-10-12T02:17:21.610Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.589999974,0.1,13,automatic,nc,nc
 2025-10-12T01:35:27.998Z,61.2196,-147.1599,21.8,1.1,ml,,,,0.49,ak,ak025d3cywli,2025-10-12T01:38:11.552Z,"44 km WNW of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-10-12T01:27:52.973Z,31.619,-104.008,7.1543,1.6,ml,40,36,0,0.4,tx,tx2025ubldrx,2025-10-12T02:01:11.757Z,"39 km NNW of Toyah, Texas",earthquake,0,1.6618888378143,0.2,27,automatic,tx,tx
+2025-10-12T01:27:53.333Z,31.618,-104.006,7.9071,1.7,ml,32,55,0,0.1,tx,tx2025ubldrx,2025-10-12T11:28:39.605Z,"39 km NNW of Toyah, Texas",earthquake,0.37661647800967,0.36075000185497,0.2,25,reviewed,tx,tx
 2025-10-12T01:25:54.290Z,33.4381667,-116.7235,12.35,0.56,ml,28,41,0.06955,0.15,ci,ci41106991,2025-10-12T01:29:42.965Z,"13 km E of Aguanga, CA",earthquake,0.18,0.44,0.138,16,automatic,ci,ci
 2025-10-12T01:25:34.632Z,7.2427,127.0336,35,4.6,mb,52,92,1.453,1.33,us,us6000rgn3,2025-10-12T01:55:04.040Z,"51 km E of Santiago, Philippines",earthquake,8.49,1.921,0.082,44,reviewed,us,us
 2025-10-12T01:20:54.860Z,35.8658333,-117.6931667,7.52,1.22,ml,30,54,0.08162,0.15,ci,ci41106983,2025-10-12T01:24:21.391Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.5,0.224,26,automatic,ci,ci
