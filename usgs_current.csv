@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-12T13:28:53.828Z,57.4338,-153.1285,33.3,3,ml,,,,0.46,ak,ak025d3k2nt9,2025-10-12T13:38:59.040Z,"27 km NNE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-12T13:28:53.828Z,57.4338,-153.1285,33.3,3,ml,,,,0.46,ak,ak025d3k2nt9,2025-10-12T13:41:45.561Z,"27 km NNE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-12T12:51:27.250Z,17.929333333333,-65.709833333333,6,2.35,md,7,235,0.2242,0.17,pr,pr71497813,2025-10-12T13:07:43.870Z,"19 km SE of El Negro, Puerto Rico",earthquake,1.87,2.12,0.12599390048043,5,reviewed,pr,pr
-2025-10-12T12:48:26.240Z,38.790500640869,-122.77633666992,0.62000000476837,1.16,md,20,80,0.009437,0.03,nc,nc75248196,2025-10-12T13:07:19.177Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.14,21,automatic,nc,nc
+2025-10-12T12:48:26.240Z,38.790500640869,-122.77633666992,0.62000000476837,1.16,md,20,80,0.009437,0.03,nc,nc75248196,2025-10-12T13:42:16.431Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.14,21,automatic,nc,nc
 2025-10-12T12:41:28.060Z,38.808666229248,-122.79399871826,6.539999961853,0.22,md,7,221,0.001235,0.06,nc,nc75248191,2025-10-12T13:17:17.248Z,"5 km NW of The Geysers, CA",earthquake,1.39,3.95000005,0.13,8,automatic,nc,nc
 2025-10-12T12:27:33.660Z,35.7066667,-117.6011667,7.5,1.41,ml,36,45,0.1089,0.15,ci,ci41107127,2025-10-12T12:38:32.870Z,"12 km NE of Ridgecrest, CA",earthquake,0.14,0.76,0.182,26,automatic,ci,ci
 2025-10-12T12:20:51.180Z,37.567001342773,-119.02716827393,3.7400000095367,0.86,md,15,145,0.03962,0.03,nc,nc75248186,2025-10-12T12:52:18.062Z,"9 km SSW of Mammoth Lakes, CA",earthquake,0.38,0.889999986,0.18,13,automatic,nc,nc
@@ -40,10 +40,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T07:06:12.237Z,60.3184,-148.6511,17.3,2.1,ml,,,,0.54,ak,ak025d3gd985,2025-10-12T07:14:57.678Z,"38 km E of Primrose, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-12T06:45:40.680Z,34.8401667,-118.8995,11.96,1.12,ml,18,55,0.04167,0.15,ci,ci41107039,2025-10-12T06:49:47.220Z,"3 km W of Lebec, CA",earthquake,0.3,0.56,0.327,24,automatic,ci,ci
 2025-10-12T06:23:38.617Z,61.6267,-146.4455,35.2,1.6,ml,,,,0.87,ak,ak025d3fvirh,2025-10-12T06:34:04.670Z,"44 km SSE of Nelchina, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-10-12T06:22:17.614Z,32.33,-101.069,1.7759,1.8,mlv,29,92,0.2,0.5,tx,tx2025ubuxjv,2025-10-12T11:36:01.173Z,"5 km WSW of Westbrook, Texas",earthquake,0,1.2196316719055,0.1,20,automatic,tx,tx
+2025-10-12T06:22:17.576Z,32.335,-101.072,8.9355,1.7,ml,33,55,0.2,0.1,tx,tx2025ubuxjv,2025-10-12T13:46:55.802Z,"5 km WSW of Westbrook, Texas",earthquake,0.60440966142633,1.0967762269758,0.2,22,reviewed,tx,tx
 2025-10-12T06:20:06.136Z,61.7496,-150.0423,33.3,2.1,ml,,,,0.58,ak,ak025d3funcj,2025-10-12T06:27:19.831Z,"0 km NW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-12T06:15:39.970Z,32.338,-101.072,2.9903,1.6,mlv,13,120,0.2,0.2,tx,tx2025uburrf,2025-10-12T11:19:29.250Z,"5 km WSW of Westbrook, Texas",earthquake,0,1.8438324928284,0.3,11,automatic,tx,tx
-2025-10-12T06:08:59.092Z,32.336,-101.07,5.2734,4.3,ml,21,55,0.2,0.1,tx,tx2025ubulqx,2025-10-12T13:32:37.113Z,"5 km WSW of Westbrook, Texas",earthquake,0.55913576955233,2.2336808834886,0.1,25,reviewed,tx,tx
+2025-10-12T06:08:59.092Z,32.336,-101.07,5.2734,4.3,ml,21,55,0.2,0.1,tx,tx2025ubulqx,2025-10-12T13:46:14.976Z,"5 km WSW of Westbrook, Texas",earthquake,0.55913576955233,2.2336808834886,0.1,25,reviewed,tx,tx
 2025-10-12T06:08:22.983Z,38.6694,-119.5236,13.2,2.1,ml,24,80.97,0.139,0.2986,nn,nn00905845,2025-10-12T07:17:19.678Z,"3 km SSE of Topaz Lake, Nevada",earthquake,,0.6,0.42,11,automatic,nn,nn
 2025-10-12T06:05:19.810Z,38.814666748047,-122.8184967041,2.8199999332428,1.38,md,28,52,0.01016,0.02,nc,nc75248106,2025-10-12T07:07:17.613Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.14,29,automatic,nc,nc
 2025-10-12T06:03:55.310Z,38.820499420166,-122.81233215332,2.7300000190735,1.07,md,20,50,0.003387,0.02,nc,nc75248101,2025-10-12T06:37:19.519Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.540000021,0.28,21,automatic,nc,nc
