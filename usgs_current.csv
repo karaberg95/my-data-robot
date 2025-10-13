@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T03:14:24.570Z,19.366666666667,-155.282,28.97,1.81,ml,49,53,0.01817,0.12,hv,hv74803496,2025-10-13T18:22:51.590Z,"9 km SSW of Volcano, Hawaii",earthquake,0.54,0.39,0.28369668190842,28,reviewed,hv,hv
 2025-10-13T03:06:54.179Z,55.4768,-158.6394,20.4,3.4,ml,,,,0.58,ak,ak025d51iyjv,2025-10-13T03:10:29.070Z,"57 km SSE of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-13T03:01:09.250Z,17.963666666667,-66.81,11.9,2.29,md,7,209,0.06689,0.12,pr,pr71497898,2025-10-13T03:12:15.650Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.6,0.83,0.23634920047844,6,reviewed,pr,pr
-2025-10-13T02:52:30.772Z,60.2202,-150.7827,45.9,4.2,ml,,,,0.67,ak,ak025d517bzx,2025-10-13T22:37:59.471Z,"30 km ESE of Kasilof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-10-13T02:52:30.772Z,60.2202,-150.7827,45.9,4.2,ml,,,,0.67,ak,ak025d517bzx,2025-10-13T22:46:56.463Z,"30 km ESE of Kasilof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-10-13T02:43:34.440Z,34.0973333,-118.4005,8.79,1.08,ml,32,92,0.02144,0.18,ci,ci41107343,2025-10-13T02:47:05.134Z,"3 km N of Beverly Hills, CA",earthquake,0.38,0.37,0.197,31,automatic,ci,ci
 2025-10-13T02:43:00.810Z,36.285166666667,-89.518,9.11,2.37,md,33,38,0.02965,0.07,nm,nm60614746,2025-10-13T12:05:49.120Z,"3 km NW of Ridgely, Tennessee",earthquake,0.16,0.34,0.096707416467466,26,reviewed,nm,nm
 2025-10-13T02:40:34.154Z,-58.9889,-25.4247,35,4.9,mb,40,79,7.705,0.6,us,us6000rgt5,2025-10-13T03:02:14.040Z,"South Sandwich Islands region",earthquake,8.28,1.918,0.09,39,reviewed,us,us
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T23:11:16.415Z,34.0312,23.2968,35,4,mb,37,215,3.333,0.83,us,us6000rgsf,2025-10-13T00:08:26.040Z,"114 km SW of Kastrí, Greece",earthquake,9.78,2.004,0.122,18,reviewed,us,us
 2025-10-12T23:03:39.094Z,-7.2289,120.4138,578.858,4.2,mb,59,67,2.296,0.84,us,us6000rgse,2025-10-12T23:48:26.040Z,"151 km NNE of Labuan Bajo, Indonesia",earthquake,11.55,7.524,0.089,35,reviewed,us,us
 2025-10-12T23:00:06.517Z,32.326,-101.082,7.9346,2.9,ml,17,66,0.2,0.1,tx,tx2025udbzfd,2025-10-12T23:27:02.194Z,"7 km WSW of Westbrook, Texas",earthquake,0.61865136610842,1.7856344244274,0.1,32,reviewed,tx,tx
-2025-10-12T22:41:56.790Z,38.827666666667,-122.80533333333,0.26,0.23,md,13,62,0.005649,0.03,nc,nc75248391,2025-10-13T07:17:20.890Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.64,0.346,13,reviewed,nc,nc
