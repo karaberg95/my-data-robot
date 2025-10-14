@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-14T15:27:58.050Z,33.0771667,-116.4885,13.16,1.04,ml,40,54,0.04223,0.2,ci,ci41108215,2025-10-14T15:31:21.871Z,"11 km E of Julian, CA",earthquake,0.22,0.49,0.268,18,automatic,ci,ci
 2025-10-14T15:19:39.720Z,32.258,-101.936,3.7003,1,ml,23,70,0,0.7,tx,tx2025ugeefb,2025-10-14T15:23:11.327Z,"19 km NW of Stanton, Texas",earthquake,0,1.1337934732437,0.2,15,automatic,tx,tx
 2025-10-14T15:16:50.853Z,60.6064,-151.4583,34.7,2.1,ml,,,,0.83,ak,ak025d6w9n5e,2025-10-14T15:21:15.894Z,"7 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-14T15:01:40.370Z,36.564334869385,-121.16366577148,4.5700001716614,2.13,md,36,60,0.01898,0.16,nc,nc75249131,2025-10-14T15:16:48.791Z,"4 km NNW of Pinnacles, CA",earthquake,0.3,0.839999974,0.13,34,automatic,nc,nc
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T15:42:05.890Z,33.7131667,-116.8298333,17.2,1.8,ml,70,19,0.08256,0.18,ci,ci41107703,2025-10-13T15:55:42.818Z,"7 km ESE of Valle Vista, CA",earthquake,0.14,0.28,0.219,26,reviewed,ci,ci
 2025-10-13T15:39:26.020Z,19.413666666667,-155.27633333333,5.07,1.33,ml,11,126,0.0111,0.12,hv,hv74803981,2025-10-13T19:36:58.200Z,"5 km SW of Volcano, Hawaii",earthquake,0.77,0.67,0.24942896339271,9,reviewed,hv,hv
 2025-10-13T15:38:20.730Z,33.9181667,-118.3083333,21.28,2.15,ml,77,79,0.01572,0.26,ci,ci41107695,2025-10-13T18:16:15.981Z,"3 km N of Gardena, CA",earthquake,0.23,0.42,0.154,25,reviewed,ci,ci
-2025-10-13T15:35:19.090Z,19.419166666667,-155.25716666667,3.05,1.86,ml,16,124,0.007493,0.14,hv,hv74803976,2025-10-13T18:54:23.230Z,"3 km SW of Volcano, Hawaii",earthquake,0.46,0.33,0.16404653482226,13,reviewed,hv,hv
-2025-10-13T15:29:13.044Z,59.827,-153.2965,127.4,2.3,ml,,,,0.94,ak,ak025d58szxm,2025-10-14T15:07:29.040Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
