@@ -94,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-18T07:15:44.220Z,41.04683303833,-122.17333221435,3.75,1.47,md,7,96,0.1546,0.06,nc,nc75250921,2025-10-18T08:27:19.805Z,"20 km SSE of Dunsmuir, CA",earthquake,1.27,8.48999977,0.07,3,automatic,nc,nc
 2025-10-18T07:08:15.260Z,33.113,-115.6146667,10.11,1.02,ml,25,74,0.03007,0.2,ci,ci41110591,2025-10-18T07:11:59.265Z,"8 km N of Westmorland, CA",earthquake,0.25,0.44,0.213,8,automatic,ci,ci
 2025-10-18T06:16:35.545Z,63.3666,-147.4806,64,1.8,ml,,,,0.53,ak,ak025ddd23j6,2025-10-18T06:18:37.703Z,"73 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-18T06:16:24.290Z,46.942333333333,-120.7135,-0.89,0.12,ml,6,119,0.01165,0.57,uw,uw62203751,2025-10-18T22:29:12.170Z,"13 km WSW of Ellensburg, Washington",earthquake,1.41,3.4,0.33687984074571,3,reviewed,uw,uw
 2025-10-18T06:12:33.860Z,34.0208333,-117.1515,14.86,0.97,ml,17,131,0.0356,0.19,ci,ci41110575,2025-10-18T06:16:06.364Z,"5 km SE of Redlands, CA",earthquake,0.57,1.02,0.167,27,automatic,ci,ci
 2025-10-18T05:42:44.720Z,34.0493333,-116.813,12.88,1.35,ml,62,41,0.0148,0.17,ci,ci41110567,2025-10-18T05:46:21.154Z,"15 km N of Cabazon, CA",earthquake,0.15,0.33,0.156,26,automatic,ci,ci
 2025-10-18T05:26:36.166Z,6.6862,126.8501,78.212,4.8,mb,24,134,1.318,0.46,us,us6000ri05,2025-10-18T05:42:34.040Z,"59 km SE of Lukatan, Philippines",earthquake,11.07,8.197,0.124,20,reviewed,us,us
