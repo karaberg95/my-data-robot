@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T18:45:38.015Z,62.2604,-150.3321,13,1.6,ml,,,,0.93,ak,ak025ddkdiqx,2025-10-18T18:47:57.663Z,"8 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-10-18T18:43:33.440Z,33.9983333,-116.7611667,14.18,1.11,ml,13,158,0.05336,0.11,ci,ci41110911,2025-10-18T18:47:18.470Z,"9 km NNE of Cabazon, CA",earthquake,0.5,0.61,0.218,27,automatic,ci,ci
+2025-10-18T18:42:41.233Z,62.0729,-149.1936,33.5,1.6,ml,,,,0.77,ak,ak025ddkcvuj,2025-10-18T18:44:45.434Z,"35 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-18T18:33:27.557Z,62.3443,-150.3583,14.9,2.4,ml,,,,0.86,ak,ak025ddkaxad,2025-10-18T18:40:28.879Z,"7 km WNW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-18T18:20:09.910Z,63.0847,-149.8265,75.7,2.1,ml,,,,0.83,ak,ak025ddk83ma,2025-10-18T18:24:39.909Z,"55 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-18T18:01:29.830Z,38.786998748779,-122.7705001831,1.289999961853,1.73,md,29,76,0.01667,0.03,nc,nc75251106,2025-10-18T18:27:18.936Z,"2 km NW of The Geysers, CA",earthquake,0.18,0.330000013,0.14,30,automatic,nc,nc
@@ -161,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T19:03:22.395Z,61.5582,-146.5407,44.1,1.5,ml,,,,1.01,ak,ak025dbx6kkv,2025-10-17T19:04:53.528Z,"48 km NNW of Valdez, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-10-17T19:00:29.000Z,46.008666666667,-112.47083333333,-2,1.51,ml,8,118,0.05826,0.1,mb,mb90117768,2025-10-17T21:55:26.550Z,"4 km E of Butte, Montana",quarry blast,0.46,31.61,0.15015819860199,12,reviewed,mb,mb
 2025-10-17T18:58:12.600Z,61.6899,-149.8888,29.1,1.7,ml,,,,0.65,ak,ak025dbwwwlo,2025-10-17T19:00:40.702Z,"7 km NNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-17T18:51:19.660Z,39.1286,-104.6402,7.811,3,ml,15,65,0.429,0.94,us,us6000rhxs,2025-10-18T15:59:25.715Z,"13 km SW of Elbert, Colorado",earthquake,2.6,5.418,0.148,6,reviewed,us,us
