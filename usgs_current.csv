@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-19T11:30:23.220Z,33.498333,-116.4788361,15.78,1.33,ml,12,175,0.1241,0.08,ci,ci41111215,2025-10-19T11:32:30.348Z,"19 km ESE of Anza, CA",earthquake,0.75,0.95,0.422,11,automatic,ci,ci
+2025-10-19T11:34:18.500Z,35.3553333,-117.7906667,5.08,1,ml,39,76,0.09863,0.17,ci,ci41111223,2025-10-19T11:38:00.331Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.94,0.149,20,automatic,ci,ci
+2025-10-19T11:30:23.290Z,33.4936667,-116.4891667,14.6,0.41,ml,22,71,0.09446,0.1,ci,ci41111215,2025-10-19T11:34:31.359Z,"18 km ESE of Anza, CA",earthquake,0.18,0.41,0.054,7,automatic,ci,ci
 2025-10-19T11:27:04.488Z,31.645,-104.371,4.2606,1.9,ml,25,71,0.1,0.3,tx,tx2025upbceh,2025-10-19T11:30:35.410Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1815373897552,0.2,19,automatic,tx,tx
 2025-10-19T11:22:28.077Z,63.0232,-149.8509,76.1,1.5,ml,,,,0.4,ak,ak025df3lvrr,2025-10-19T11:24:01.907Z,"61 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-19T11:22:08.597Z,37.4548,-115.6287,0.0043,1.53,ml,23,192,0.461,0.3825,nn,nn00906105,2025-10-19T11:24:26.962Z,"23 km SSE of Rachel, Nevada",earthquake,,27.4372,0.24,17,automatic,nn,nn
