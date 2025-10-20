@@ -151,5 +151,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-19T11:39:11.070Z,33.7,-116.7616667,15.65,1.45,ml,88,19,0.0438,0.2,ci,ci41111231,2025-10-19T13:25:48.960Z,"6 km SW of Idyllwild, CA",earthquake,0.13,0.29,0.245,27,reviewed,ci,ci
 2025-10-19T11:34:18.500Z,35.3553333,-117.7906667,5.08,1,ml,39,76,0.09863,0.17,ci,ci41111223,2025-10-19T11:38:00.331Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.94,0.149,20,automatic,ci,ci
 2025-10-19T11:30:23.290Z,33.4936667,-116.4891667,14.6,0.41,ml,22,71,0.09446,0.1,ci,ci41111215,2025-10-19T13:25:15.257Z,"18 km ESE of Anza, CA",earthquake,0.18,0.41,0.054,7,reviewed,ci,ci
-2025-10-19T11:27:04.305Z,31.659,-104.367,7.4329,1.9,ml,17,73,0.1,0.3,tx,tx2025upbceh,2025-10-20T10:36:49.932Z,"57 km S of Whites City, New Mexico",earthquake,0.9321751485796,0.88894806966045,0.1,13,reviewed,tx,tx
-2025-10-19T11:24:45.740Z,18.6918,-68.2928,72,3.53,md,19,155,0.1987,0.38,pr,pr2025292000,2025-10-19T12:18:56.303Z,"16 km NE of Punta Cana, Dominican Republic",earthquake,5.26,2.98,0.07,7,reviewed,pr,pr
