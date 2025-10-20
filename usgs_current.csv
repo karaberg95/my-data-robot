@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-20T18:51:05.948Z,64.7617,-149.6674,0,2,ml,,,,1.13,ak,ak025dgvhfkb,2025-10-20T18:54:44.886Z,"31 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-20T18:34:28.280Z,34.3466667,-116.8863333,-1.42,1.42,ml,46,47,0.04872,0.22,ci,ci41111775,2025-10-20T18:38:13.896Z,"10 km NNW of Big Bear City, CA",earthquake,0.24,0.49,0.133,33,automatic,ci,ci
 2025-10-20T18:12:19.658Z,60.18,-152.6847,111.1,2.3,ml,,,,0.5,ak,ak025dgv93pp,2025-10-20T18:15:22.675Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-20T17:57:01.779Z,57.6573,-155.3742,7,2.2,ml,,,,0.35,ak,ak025dgux9x3,2025-10-20T18:00:05.555Z,"55 km W of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
