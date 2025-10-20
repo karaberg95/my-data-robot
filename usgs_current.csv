@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T19:39:08.690Z,46.310833333333,-122.21416666667,2.83,0.67,ml,6,233,0.03569,0.08,uw,uw61504853,2025-10-20T20:30:53.940Z,"27 km S of Morton, Washington",earthquake,0.52,0.84,0.18086514388154,6,reviewed,uw,uw
 2025-10-20T19:38:57.150Z,46.3025,-122.21666666667,3.4,-0.66,md,4,224,0.02726,0.07,uw,uw61504843,2025-10-20T20:28:33.260Z,"28 km S of Morton, Washington",earthquake,0.76,0.92,,1,reviewed,uw,uw
 2025-10-20T19:38:50.360Z,46.311,-122.21416666667,2.67,0.43,ml,7,233,0.03585,0.06,uw,uw62205051,2025-10-20T20:25:07.310Z,"27 km S of Morton, Washington",earthquake,0.54,0.81,0.079216692920939,5,reviewed,uw,uw
-2025-10-20T19:13:46.014Z,18.5775,-70.6429,10,5,mb,45,104,0.732,1.13,us,us6000rich,2025-10-20T21:40:22.220Z,"13 km N of Estebanía, Dominican Republic",earthquake,5.68,1.882,0.059,91,reviewed,us,us
+2025-10-20T19:13:46.014Z,18.5775,-70.6429,10,5,mb,45,104,0.732,1.13,us,us6000rich,2025-10-20T21:50:36.666Z,"13 km N of Estebanía, Dominican Republic",earthquake,5.68,1.882,0.059,91,reviewed,us,us
 2025-10-20T19:13:07.237Z,31.611,-104.338,7.9489,1.6,ml,22,79,0.1,0.3,tx,tx2025urmgpj,2025-10-20T20:44:22.266Z,"61 km WNW of Toyah, Texas",earthquake,1.0162426667784,1.3686790496076,0.2,18,reviewed,tx,tx
 2025-10-20T19:04:51.781Z,31.608,-104.099,5.5712,1.8,ml,25,65,0,0.1,tx,tx2025urlzmd,2025-10-20T20:34:57.104Z,"43 km NW of Toyah, Texas",earthquake,0.46794249359259,0.42036983464514,0.1,29,reviewed,tx,tx
 2025-10-20T19:04:06.080Z,35.4058,135.4838,359.663,5.1,mww,94,29,1.264,0.69,us,us6000ricg,2025-10-20T19:34:44.040Z,"11 km SSW of Takahama, Japan",earthquake,7.65,5.64,0.073,18,reviewed,us,us
