@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-21T15:35:27.914Z,32.291,-101.792,4.4487,1.2,ml,26,41,0,0.5,tx,tx2025utatzo,2025-10-21T15:39:50.332Z,"17 km N of Stanton, Texas",earthquake,0,1.0074130296707,0.2,18,automatic,tx,tx
+2025-10-21T15:31:13.647Z,61.9654,-148.5469,11.2,1.5,ml,,,,0.63,ak,ak025dih47ic,2025-10-21T15:32:53.078Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-21T15:25:10.790Z,35.7098333,-117.5661667,7.25,0.51,ml,19,69,0.1087,0.16,ci,ci41112263,2025-10-21T15:28:40.881Z,"14 km NE of Ridgecrest, CA",earthquake,0.28,0.55,0.184,9,automatic,ci,ci
-2025-10-21T15:22:08.710Z,38.785667419434,-122.73349761963,1.6399999856949,0.76,md,8,86,0.0035,0.01,nc,nc75252381,2025-10-21T15:23:46.343Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.730000019,0.12,7,automatic,nc,nc
+2025-10-21T15:22:08.710Z,38.785667419434,-122.73349761963,1.6399999856949,0.76,md,8,86,0.0035,0.01,nc,nc75252381,2025-10-21T15:37:18.258Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.730000019,0.12,7,automatic,nc,nc
 2025-10-21T15:09:52.580Z,63.2818,-150.3565,7.9,1.7,ml,,,,0.65,ak,ak025digzkre,2025-10-21T15:12:35.680Z,"71 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-21T14:22:20.220Z,38.829833984375,-122.87933349609,2.829999923706,1.03,md,12,89,0.008973,0.02,nc,nc75252371,2025-10-21T14:42:16.879Z,"12 km WNW of The Geysers, CA",earthquake,0.53,0.620000005,0.14,15,automatic,nc,nc
 2025-10-21T14:08:37.150Z,-32.3416,-69.7204,122.014,4.9,mww,106,69,0.818,1.15,us,us6000rigb,2025-10-21T15:17:26.914Z,"98 km ENE of Los Andes, Chile",earthquake,4.81,5.271,0.089,12,reviewed,us,us
@@ -128,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T22:31:55.989Z,-6.8516,125.7785,514.359,4.8,mb,84,28,3.249,0.77,us,us6000rid1,2025-10-20T23:06:17.040Z,"185 km N of Manatutu, Timor Leste",earthquake,9.55,6.543,0.08,48,reviewed,us,us
 2025-10-20T22:30:29.996Z,46.1988,153.1502,10,5,mb,47,126,7.518,0.69,us,us6000rid2,2025-10-20T23:30:18.040Z,"Kuril Islands",earthquake,11.18,1.91,0.058,94,reviewed,us,us
 2025-10-20T22:28:43.200Z,33.3443333,-116.8208333,4.53,1.03,ml,54,25,0.0362,0.21,ci,ci41111927,2025-10-21T13:25:40.210Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.16,0.41,0.128,25,reviewed,ci,ci
-2025-10-20T22:22:22.270Z,35.678,-117.4743333,6.44,1.4,ml,40,48,0.04318,0.14,ci,ci41111919,2025-10-20T22:26:06.037Z,"12 km SSW of Searles Valley, CA",earthquake,0.15,0.44,0.175,26,automatic,ci,ci
+2025-10-20T22:22:22.230Z,35.6765,-117.4735,6.49,1.36,ml,35,67,0.0421,0.12,ci,ci41111919,2025-10-21T15:36:30.353Z,"12 km SSW of Searles Valley, CA",earthquake,0.14,0.4,0.14,31,reviewed,ci,ci
 2025-10-20T21:56:27.322Z,37.2758,72.482,10,4.2,mb,15,190,1.035,0.82,us,us6000ricz,2025-10-21T00:12:47.040Z,"38 km NNE of Khandūd, Afghanistan",earthquake,9.95,1.972,0.136,15,reviewed,us,us
 2025-10-20T21:55:51.990Z,61.302833333333,-152.30116666667,2.05,-0.6,ml,5,220,0.05571,0.15,av,av93051109,2025-10-21T01:56:57.720Z,"67 km WNW of Tyonek, Alaska",earthquake,0.8,2.46,0.1854161098624,6,reviewed,av,av
 2025-10-20T21:51:41.140Z,61.319666666667,-152.29066666667,-2.38,-0.12,ml,9,182,0.07242,0.29,av,av93051104,2025-10-21T01:51:27.350Z,"67 km WNW of Beluga, Alaska",earthquake,0.65,2.68,0.19735509431675,9,reviewed,av,av
