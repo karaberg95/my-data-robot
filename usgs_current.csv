@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-22T07:22:31.390Z,54.753666666667,-164.04216666667,3.16,0.52,ml,5,142,0.05142,0.29,av,av93837591,2025-10-22T17:46:25.470Z,"42 km WSW of False Pass, Alaska",earthquake,0.66,1.5,0.21118557341965,5,reviewed,av,av
 2025-10-22T07:14:02.790Z,46.786333333333,-112.66633333333,-0.23,1.2,ml,15,52,0.1243,0.14,mb,mb90118153,2025-10-22T14:15:09.600Z,"18 km S of Lincoln, Montana",earthquake,0.31,1.23,0.13235170708516,12,reviewed,mb,mb
 2025-10-22T07:12:01.573Z,55.5808,-158.8634,34.3,3.1,ml,,,,0.72,ak,ak025djzrzpb,2025-10-22T08:57:58.040Z,"40 km SSE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-10-22T06:56:45.510Z,35.352,-117.7921667,6.71,2.27,ml,55,32,0.09511,0.17,ci,ci41112591,2025-10-22T15:16:04.236Z,"14 km W of Johannesburg, CA",earthquake,0.14,0.45,0.186,22,reviewed,ci,ci
-2025-10-22T06:54:06.330Z,34.7,-116.3626667,7.08,1.23,ml,26,56,0.1311,0.12,ci,ci41112583,2025-10-22T06:57:35.626Z,"19 km W of Ludlow, CA",earthquake,0.15,0.54,0.166,19,automatic,ci,ci
