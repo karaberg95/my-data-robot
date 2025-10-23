@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-23T17:48:28.080Z,60.789,-152.0959,39.4,1.5,ml,,,,0.64,ak,ak025dlthfzs,2025-10-23T17:50:46.327Z,"45 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-23T17:42:38.110Z,37.945499420166,-122.1566696167,13.949999809265,0.79,md,12,207,0.02633,0.02,nc,nc75253396,2025-10-23T17:44:12.829Z,"7 km NNW of Lafayette, CA",earthquake,0.81,1.11000001,0.09,4,automatic,nc,nc
 2025-10-23T17:34:59.730Z,33.819,-117.483,2.77,1.85,ml,75,23,0.03167,0.2,ci,ci41113311,2025-10-23T17:39:34.769Z,"7 km SSE of Home Gardens, CA",earthquake,0.15,0.23,0.183,32,automatic,ci,ci
+2025-10-23T17:23:43.422Z,31.673,-104.339,4.7947,1.6,ml,28,94,0.1,0.4,tx,tx2025uwvvbe,2025-10-23T17:43:15.303Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0326898097992,0.2,20,automatic,tx,tx
 2025-10-23T17:05:04.530Z,38.787666320801,-122.76782989502,2.329999923706,1.06,md,15,80,0.01664,0.02,nc,nc75253366,2025-10-23T17:27:19.475Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.600000024,0.16,14,automatic,nc,nc
 2025-10-23T16:52:43.650Z,38.831665039062,-122.80883026123,1.9199999570847,0.18,md,8,108,0.01593,0.01,nc,nc75253356,2025-10-23T17:32:18.512Z,"8 km W of Cobb, CA",earthquake,0.6,1.66999996,0.06,8,automatic,nc,nc
 2025-10-23T16:41:42.950Z,33.5084991,-117.3816681,25.19,1.31,ml,18,130,0.1724,0.42,ci,ci41113295,2025-10-23T16:45:23.121Z,"14 km SW of Wildomar, CA",earthquake,1.2,2.44,0.53,8,automatic,ci,ci
@@ -60,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T06:42:12.360Z,33.998,-116.9965,10.13,1.19,ml,68,27,0.07755,0.18,ci,ci41113159,2025-10-23T06:45:40.372Z,"5 km ENE of Calimesa, CA",earthquake,0.13,0.37,0.151,26,automatic,ci,ci
 2025-10-23T06:39:15.030Z,34,-116.9975,10.61,0.88,ml,44,36,0.1018,0.17,ci,ci41113151,2025-10-23T12:59:01.540Z,"5 km ENE of Calimesa, CA",earthquake,0.17,0.44,0.188,28,reviewed,ci,ci
 2025-10-23T06:37:44.500Z,32.9525,-116.459,8.8,0.73,ml,35,50,0.04499,0.18,ci,ci41113143,2025-10-23T06:41:45.004Z,"16 km NNE of Pine Valley, CA",earthquake,0.28,0.59,0.181,12,automatic,ci,ci
+2025-10-23T06:37:19.540Z,46.193166666667,-122.19266666667,6.32,0.13,ml,10,94,0.02077,0.12,uw,uw62197687,2025-10-23T17:49:38.200Z,"37 km NNE of Amboy, Washington",earthquake,0.39,0.92,0.14908919689757,5,reviewed,uw,uw
 2025-10-23T06:35:20.100Z,33.6673333,-116.7691667,14.3,0.95,ml,39,39,0.06675,0.18,ci,ci41113135,2025-10-23T12:58:34.095Z,"9 km SSW of Idyllwild, CA",earthquake,0.18,0.32,0.337,33,reviewed,ci,ci
 2025-10-23T06:32:26.149Z,32.006,-103.816,5.7922,1,ml,11,91,0,0.1,tx,tx2025uwafdk,2025-10-23T10:59:39.716Z,"34 km SE of Malaga, New Mexico",earthquake,0.45680062554476,1.0424471752668,0.1,7,reviewed,tx,tx
 2025-10-23T06:31:37.975Z,31.726,-101.691,7.8369,0.8,ml,11,81,0.1,0.1,tx,tx2025uwafcs,2025-10-23T14:38:30.901Z,"25 km SW of Garden City, Texas",earthquake,0.93793101773506,1.5023853698907,0.1,7,reviewed,tx,tx
