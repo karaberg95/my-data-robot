@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-25T15:33:12.191Z,65.2565,-144.6175,0,1.4,ml,,,,0.51,ak,ak025dp3a0sz,2025-10-25T15:35:38.824Z,"36 km SSE of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-25T15:31:26.560Z,34.0228333,-117.1265,17.65,1.98,ml,108,23,0.0172,0.18,ci,ci41319752,2025-10-25T15:35:03.195Z,"5 km S of Mentone, CA",earthquake,0.11,0.26,0.199,25,automatic,ci,ci
+2025-10-25T15:39:31.860Z,33.6131668,-116.6744995,14.05,0.97,ml,22,81,0.05913,0.15,ci,ci41319768,2025-10-25T15:41:36.397Z,"6 km N of Anza, CA",earthquake,0.39,0.65,0.367,8,automatic,ci,ci
+2025-10-25T15:33:12.347Z,65.2716,-144.6576,5.4,1.4,ml,,,,0.99,ak,ak025dp3a0sz,2025-10-25T15:36:43.879Z,"34 km SSE of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-25T15:31:26.560Z,34.0228333,-117.1265,17.65,1.98,ml,108,23,0.0172,0.18,ci,ci41319752,2025-10-25T15:42:13.760Z,"5 km S of Mentone, CA",earthquake,0.11,0.26,0.199,25,automatic,ci,ci
 2025-10-25T15:17:23.465Z,30.869,-103.568,4.4282,1.9,ml,15,111,0.2,1,tx,tx2025vajbxt,2025-10-25T15:20:08.883Z,"21 km SE of Balmorhea, Texas",earthquake,0,1.6166716814041,0.3,4,automatic,tx,tx
 2025-10-25T15:11:46.630Z,19.316165924072,-155.24867248535,-0.77999997138977,2.06,ml,14,95,0.04151,0.129999995,hv,hv74815261,2025-10-25T15:14:58.340Z,"14 km S of Volcano, Hawaii",earthquake,0.23,0.280000001,0.69,3,automatic,hv,hv
 2025-10-25T15:09:46.960Z,38.798999786377,-122.78133392334,3.079999923706,0.6,md,8,99,0.01412,0.01,nc,nc75254461,2025-10-25T15:32:19.359Z,"3 km NW of The Geysers, CA",earthquake,0.43,1.35000002,0.15,8,automatic,nc,nc
