@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T21:33:37.620Z,33.2198333,-116.0666667,5.46,1.02,ml,48,35,0.08772,0.24,ci,ci41320032,2025-10-25T21:37:17.443Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.2,0.54,0.133,25,automatic,ci,ci
 2025-10-25T21:32:03.668Z,-25.9409,-178.7304,347.966,4.4,mb,47,126,10.621,0.94,us,us6000rjhc,2025-10-25T22:27:52.040Z,"south of the Fiji Islands",earthquake,14.61,7.442,0.095,34,reviewed,us,us
 2025-10-25T20:53:33.604Z,63.5697,-150.772,15.7,1.5,ml,,,,0.86,ak,ak025dp6dir9,2025-10-25T20:56:15.864Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-25T20:50:49.950Z,37.131332397461,-121.95950317383,8.8000001907349,1.15,md,5,128,0.05804,0.05,nc,nc75254531,2025-10-25T21:07:19.658Z,"4 km SSE of Lexington Hills, CA",earthquake,2.98,6.61000013,0.18,8,automatic,nc,nc
+2025-10-25T20:50:49.950Z,37.131332397461,-121.95950317383,8.8000001907349,1.15,md,5,128,0.05804,0.05,nc,nc75254531,2025-10-25T22:47:19.329Z,"4 km SSE of Lexington Hills, CA",earthquake,2.98,6.61000013,0.18,8,automatic,nc,nc
 2025-10-25T20:37:13.976Z,61.447,-150.7561,72.8,1.6,ml,,,,0.12,ak,ak025dp6a1tx,2025-10-25T20:38:46.675Z,"16 km SW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-10-25T20:36:29.247Z,32.481,-101.177,2.3898,1.2,ml,16,64,0,0.4,tx,tx2025vatqxh,2025-10-25T21:00:18.617Z,"20 km NW of Westbrook, Texas",earthquake,0,1.4539525508881,0.3,12,automatic,tx,tx
 2025-10-25T20:25:18.750Z,33.494,-116.4228333,7.55,0.87,ml,28,81,0.1499,0.14,ci,ci41319984,2025-10-25T20:29:08.597Z,"22 km SSW of La Quinta, CA",earthquake,0.18,1.17,0.125,10,automatic,ci,ci
