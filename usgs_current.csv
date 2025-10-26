@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-26T07:34:28.190Z,38.811332702637,-122.79616546631,2.3199999332428,0.97,md,18,43,0.003427,0.02,nc,nc75254671,2025-10-26T07:36:04.019Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.5,0.29,18,automatic,nc,nc
+2025-10-26T07:33:51.590Z,38.811332702637,-122.79616546631,2.1800000667572,1.48,md,21,54,0.003427,0.02,nc,nc75254666,2025-10-26T07:35:29.238Z,"5 km NW of The Geysers, CA",earthquake,0.23,0.379999995,0.13,22,automatic,nc,nc
 2025-10-26T07:27:59.067Z,64.8129,-147.7727,9.3,0.7,ml,,,,0.53,ak,ak025dqm0ps2,2025-10-26T07:29:45.766Z,"0 km ENE of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-26T07:27:39.330Z,35.08,-118.727,9.46,0.93,ml,17,93,0.05442,0.17,ci,ci41320272,2025-10-26T07:31:05.442Z,"17 km SSE of Arvin, CA",earthquake,0.3,0.57,0.285,5,automatic,ci,ci
 2025-10-26T07:08:57.729Z,60.5119,-150.8637,34.9,1.6,ml,,,,0.54,ak,ak025dqlwn2k,2025-10-26T07:21:01.844Z,"5 km W of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -170,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T08:03:51.070Z,36.591331481934,-121.1943359375,7.1700000762939,1.22,md,9,141,0.02087,0.02,nc,nc75254321,2025-10-25T09:27:17.909Z,"8 km NW of Pinnacles, CA",earthquake,0.38,0.709999979,0.29,7,automatic,nc,nc
 2025-10-25T07:55:51.425Z,63.0303,-150.5536,100.3,1.9,ml,,,,0.32,ak,ak025doyncqu,2025-10-25T07:58:00.726Z,"60 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-25T07:54:25.370Z,38.817665100098,-122.79566955566,2.1900000572205,2.38,md,61,21,0.009687,0.07,nc,nc75254316,2025-10-25T09:07:17.775Z,"6 km NW of The Geysers, CA",earthquake,0.12,0.209999993,0.14,66,automatic,nc,nc
-2025-10-25T07:40:25.590Z,38.84033203125,-122.87633514404,2.4000000953674,1.22,md,13,134,0.005944,0.02,nc,nc75254306,2025-10-25T08:22:18.461Z,"13 km NW of The Geysers, CA",earthquake,0.36,0.589999974,0.11,14,automatic,nc,nc
