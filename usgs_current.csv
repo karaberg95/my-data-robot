@@ -166,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T11:55:53.520Z,39.0149,-116.8573,1.289,2.49,ml,15,213,1.231,0.3262,nn,nn00906335,2025-10-25T11:59:25.673Z,"28 km SE of Kingston, Nevada",earthquake,,8.1483,0.2,11,automatic,nn,nn
 2025-10-25T11:52:06.172Z,65.2406,-144.6112,0,2.7,ml,,,,0.6,ak,ak025dp10cg6,2025-10-25T11:54:59.681Z,"38 km SSE of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-25T11:45:23.124Z,43.0788,131.0017,561.686,5.2,mb,95,30,1.33,0.51,us,us6000rjf6,2025-10-25T12:56:28.501Z,"39 km NW of Slavyanka, Russia",earthquake,10.22,7.854,0.021,742,reviewed,us,us
-2025-10-25T11:30:38.786Z,62.0591,-149.0376,20,1.2,ml,,,,0.37,ak,ak025dp0vpae,2025-10-25T11:32:24.639Z,"34 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-10-25T11:26:00.420Z,54.741833333333,-163.99416666667,4.88,0.95,ml,5,108,0.03249,0.25,av,av93844041,2025-10-26T05:34:29.050Z,"39 km WSW of False Pass, Alaska",earthquake,0.68,2.12,0.43969303590859,5,reviewed,av,av
