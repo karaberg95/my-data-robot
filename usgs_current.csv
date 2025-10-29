@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-29T07:31:40.211Z,61.0226,-149.9762,40.6,1.7,ml,,,,0.51,ak,ak025dvknko5,2025-10-29T07:32:56.102Z,"21 km WNW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-29T07:16:59.170Z,33.9393333,-117.0101667,3.96,1.12,ml,61,20,0.03042,0.19,ci,ci41321984,2025-10-29T07:20:35.737Z,"3 km WNW of Beaumont, CA",earthquake,0.14,0.36,0.224,27,automatic,ci,ci
 2025-10-29T07:10:33.020Z,33.0761667,-115.5773333,10.08,0.81,ml,23,61,0.04468,0.2,ci,ci41321976,2025-10-29T07:13:59.963Z,"6 km NE of Westmorland, CA",earthquake,0.29,0.54,0.332,8,automatic,ci,ci
 2025-10-29T06:56:35.169Z,51.4764,159.7307,10,5.1,mb,64,103,2.056,1.65,us,us6000rk4j,2025-10-29T07:17:35.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.68,1.858,0.057,99,reviewed,us,us
 2025-10-29T06:16:45.375Z,-47.1106,-12.2411,10,5.4,mb,33,96,16.897,0.75,us,us6000rk4f,2025-10-29T06:42:17.162Z,"southern Mid-Atlantic Ridge",earthquake,8.43,1.846,0.071,67,reviewed,us,us
@@ -156,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T10:45:22.780Z,38.778331756592,-122.76599884033,1.3700000047684,0.77,md,10,91,0.02266,0.02,nc,nc75255651,2025-10-28T11:22:22.986Z,"1 km W of The Geysers, CA",earthquake,0.35,0.930000007,0.17,9,automatic,nc,nc
 2025-10-28T10:39:33.350Z,38.787334442139,-122.75733184815,1.8600000143051,1.12,md,16,77,0.01662,0.03,nc,nc75255646,2025-10-28T13:17:20.732Z,"1 km N of The Geysers, CA",earthquake,0.3,0.600000024,0.12,16,automatic,nc,nc
 2025-10-28T10:27:11.250Z,54.739666666667,-163.9645,4.93,1.08,ml,4,118,0.03572,0.23,av,av93851856,2025-10-29T00:33:52.170Z,"37 km WSW of False Pass, Alaska",earthquake,0.79,2.13,0.27608801749785,4,reviewed,av,av
-2025-10-28T10:18:23.744Z,60.3012,-152.7816,113.4,0.9,ml,,,,0.22,ak,ak025dtytpeu,2025-10-28T10:20:04.933Z,"67 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-10-28T10:18:23.744Z,60.3012,-152.7816,113.4,0.9,ml,,,,0.22,ak,ak025dtytpeu,2025-10-28T10:20:04.933Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-28T10:17:57.630Z,44.750666666667,-111.3165,9.27,0.37,md,13,145,0.06851,0.12,uu,uu80120456,2025-10-28T15:22:56.020Z,"10 km WSW of Hebgen Lake Estates, Montana",earthquake,0.54,0.83,0.077580304559573,8,reviewed,uu,uu
 2025-10-28T10:16:01.120Z,44.749666666667,-111.31333333333,10.82,0.99,ml,16,145,0.06611,0.19,uu,uu80120451,2025-10-28T15:20:03.030Z,"9 km WSW of Hebgen Lake Estates, Montana",earthquake,0.61,0.58,0.47529968281195,4,reviewed,uu,uu
 2025-10-28T10:05:20.480Z,54.754166666667,-164.01883333333,9.49,0.77,ml,4,122,0.04654,0.3,av,av93851801,2025-10-29T00:31:20.950Z,"40 km WSW of False Pass, Alaska",earthquake,1.16,1.87,0.20884501774112,4,reviewed,av,av
@@ -189,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T07:44:31.100Z,37.931499481201,-121.99183654785,10.920000076294,1.02,md,7,200,0.06965,0.04,nc,nc75255591,2025-10-28T08:22:17.787Z,"5 km SSE of Concord, CA",earthquake,0.68,1.38999999,0.08,7,automatic,nc,nc
 2025-10-28T07:42:12.190Z,38.791831970215,-122.7551651001,0.46000000834465,0.76,md,9,84,0.01677,0.02,nc,nc75255586,2025-10-28T10:17:20.565Z,"2 km N of The Geysers, CA",earthquake,0.32,0.980000019,0.4,9,automatic,nc,nc
 2025-10-28T07:40:51.660Z,38.794998168945,-122.75316619873,-0.050000000745058,1.79,md,28,52,0.01741,0.03,nc,nc75255581,2025-10-28T09:52:16.387Z,"2 km N of The Geysers, CA",earthquake,0.16,0.389999986,0.16,28,automatic,nc,nc
-2025-10-28T07:28:19.965Z,56.3495,-159.0201,126.7,1.7,ml,,,,0.39,ak,ak025dtx3jgs,2025-10-28T07:31:22.745Z,"19 km WNW of Chignik Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-28T07:25:44.220Z,38.810832977295,-122.79000091553,3.2599999904633,0.27,md,8,136,0.005034,0.01,nc,nc75255576,2025-10-28T09:27:17.208Z,"5 km NW of The Geysers, CA",earthquake,0.4,1.34000003,0.04,8,automatic,nc,nc
-2025-10-28T07:23:52.640Z,17.931333333333,-66.081666666667,13.81,2.01,md,6,258,0.05086,0.14,pr,pr71499088,2025-10-28T07:31:35.230Z,"4 km SSW of Arroyo, Puerto Rico",earthquake,0.93,0.34,0.037179550070324,3,reviewed,pr,pr
