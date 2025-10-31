@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T23:00:28.588Z,60.436,-151.1927,55.7,2,ml,,,,0.65,ak,ak025dz52j8q,2025-10-31T23:02:12.009Z,"5 km ENE of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-31T22:46:47.657Z,61.08,-152.0296,119.7,2.5,ml,,,,0.28,ak,ak025dz4r04l,2025-10-31T22:52:43.884Z,"48 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-31T22:31:15.280Z,36.717666625977,-120.81783294678,13.819999694824,1.85,md,7,175,0.3255,0.38,nc,nc75257316,2025-10-31T22:47:21.116Z,"31 km SSW of South Dos Palos, CA",earthquake,4.5,6.80999994,0.2,5,automatic,nc,nc
-2025-10-31T22:30:33.570Z,34.3088333,-116.4495,8.61,1.33,ml,39,50,0.05806,0.13,ci,ci41323480,2025-10-31T22:41:28.010Z,"22 km N of Yucca Valley, CA",earthquake,0.14,0.32,0.137,27,automatic,ci,ci
+2025-10-31T22:30:33.580Z,34.3081667,-116.4508333,8.47,1.33,ml,33,70,0.05892,0.11,ci,ci41323480,2025-10-31T23:32:44.116Z,"22 km N of Yucca Valley, CA",earthquake,0.15,0.34,0.128,17,reviewed,ci,ci
 2025-10-31T22:27:19.150Z,40.876666666667,-111.5335,11.32,1.42,ml,23,61,0.07388,0.1,uu,uu80120936,2025-10-31T22:40:48.710Z,"12 km WSW of Coalville, Utah",earthquake,0.26,0.85,0.003623263497262,2,reviewed,uu,uu
 2025-10-31T22:19:35.120Z,44.625333333333,-110.723,6.46,0.55,md,13,62,0.06042,0.15,uu,uu80120931,2025-10-31T22:35:14.030Z,"30 km E of West Yellowstone, Montana",earthquake,0.4,1.1,0.26926802134818,7,reviewed,uu,uu
 2025-10-31T22:13:03.230Z,44.632833333333,-110.72166666667,7.31,0.25,md,8,109,0.06244,0.13,uu,uu80120926,2025-10-31T22:30:55.140Z,"30 km E of West Yellowstone, Montana",earthquake,0.59,2.04,0.29265419207713,5,reviewed,uu,uu
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T20:32:41.763Z,63.3798,-151.6189,4.5,1.8,ml,,,,1.37,ak,ak025dz3h4ga,2025-10-31T20:35:18.058Z,"18 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-31T20:09:38.870Z,44.6235,-110.72483333333,5.5,0.48,md,8,88,0.06109,0.1,uu,uu80120906,2025-10-31T20:28:17.630Z,"30 km E of West Yellowstone, Montana",earthquake,0.51,1.81,0.31280678172767,7,reviewed,uu,uu
 2025-10-31T20:02:28.330Z,35.3535,-117.7931667,6.08,1.4,ml,48,47,0.09607,0.16,ci,ci41323416,2025-10-31T20:06:03.976Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.53,0.133,24,automatic,ci,ci
-2025-10-31T19:55:03.670Z,35.62,-117.482,7.1,0.87,ml,31,52,0.06542,0.14,ci,ci41323408,2025-10-31T19:58:33.925Z,"18 km E of Ridgecrest, CA",earthquake,0.18,0.42,0.24,13,automatic,ci,ci
+2025-10-31T19:55:03.630Z,35.6213333,-117.4798333,7.78,1.08,ml,23,51,0.06323,0.12,ci,ci41323408,2025-10-31T23:37:02.386Z,"18 km SSW of Searles Valley, CA",earthquake,0.2,0.52,0.204,9,reviewed,ci,ci
 2025-10-31T19:51:43.970Z,36.457164764404,-121.06616973877,6.4400000572205,1.35,md,11,62,0.006869,0.2,nc,nc75257271,2025-10-31T22:12:19.860Z,"11 km SE of Pinnacles, CA",earthquake,0.68,1.41999996,0.3,9,automatic,nc,nc
 2025-10-31T19:39:54.360Z,36.2691,-115.4182,6.7431,1.81,ml,20,192,0.588,0.3223,nn,nn00906645,2025-10-31T19:44:03.491Z,"18 km NNW of Summerlin South, Nevada",earthquake,,9.3952,0.28,14,automatic,nn,nn
 2025-10-31T19:37:39.903Z,32.098,-101.928,4.0309,1.1,ml,25,42,0.1,0.4,tx,tx2025vlsbmv,2025-10-31T23:14:56.426Z,"13 km WSW of Stanton, Texas",earthquake,0,1.1115698814392,0.2,18,automatic,tx,tx
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-30T23:51:44.892Z,61.2932,-151.7963,80.6,1.6,ml,,,,0.66,ak,ak025dxhu5ix,2025-10-30T23:54:45.535Z,"41 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-30T23:46:55.197Z,41.2334,-116.6715,6.3283,2.04,ml,6,266,0.337,0.1514,nn,nn00906619,2025-10-31T00:59:43.036Z,"62 km NE of Valmy, Nevada",earthquake,,3.8869,0.26,3,reviewed,nn,nn
 2025-10-30T23:44:27.200Z,44.922166666667,-123.39133333333,-0.38,1.63,ml,11,63,0.1509,0.11,uw,uw62201257,2025-10-31T04:33:43.700Z,"5 km W of Dallas, Oregon",explosion,0.39,31.61,0.051924468748585,5,reviewed,uw,uw
-2025-10-30T23:35:39.880Z,44.797666666667,-110.851,5,1.55,ml,23,110,0.009343,0.15,uu,uu80120791,2025-10-31T16:23:06.940Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.25,0.58,0.49033323612431,6,reviewed,uu,uu
