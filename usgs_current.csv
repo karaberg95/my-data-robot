@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-31T18:49:40.550Z,38.821166992188,-122.80316925049,1.7799999713898,1.08,md,17,55,0.01454,0.01,nc,nc75257256,2025-10-31T18:51:15.535Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.5,0.06,17,automatic,nc,nc
 2025-10-31T18:40:48.604Z,32.083,-102.19,8.4974,1.9,ml,6,140,0,0.4,tx,tx2025vlqenh,2025-10-31T18:42:35.510Z,"14 km NW of Midland, Texas",earthquake,0,4.94304895401,0.2,6,automatic,tx,tx
 2025-10-31T18:34:36.180Z,33.0743333,-116.655,0.38,1.59,ml,15,69,0.2293,0.28,ci,ci41323344,2025-10-31T18:42:22.440Z,"5 km W of Julian, CA",earthquake,0.51,1.09,0.137,26,automatic,ci,ci
 2025-10-31T18:31:21.870Z,33.8896667,-116.9451667,9.85,0.86,ml,35,73,0.1351,0.14,ci,ci41323328,2025-10-31T18:34:44.397Z,"5 km SSE of Beaumont, CA",earthquake,0.17,0.48,0.177,29,automatic,ci,ci
@@ -8,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T18:25:28.250Z,19.133,-66.867333333333,31.74,3.15,md,18,289,0.7011,0.52,pr,pr71499413,2025-10-31T18:50:06.680Z,"71 km N of Hatillo, Puerto Rico",earthquake,2.04,13.4,0.060756447594827,12,reviewed,pr,pr
 2025-10-31T18:23:51.470Z,32.8878333,-116.2146667,10.83,1.28,ml,43,50,0.1,0.16,ci,ci41323320,2025-10-31T18:27:26.245Z,"27 km NW of Ocotillo, CA",earthquake,0.16,0.39,0.232,25,automatic,ci,ci
 2025-10-31T18:22:48.900Z,32.7743333,-115.514,15.96,1.51,ml,24,66,0.0645,0.24,ci,ci41323312,2025-10-31T18:26:34.344Z,"4 km ESE of El Centro, CA",earthquake,0.49,0.47,0.355,16,automatic,ci,ci
+2025-10-31T18:04:02.630Z,37.816166666667,-113.71933333333,1.43,1.83,ml,9,121,0.3702,0.15,uu,uu80120886,2025-10-31T18:51:06.940Z,"13 km NNW of Beryl Junction, Utah",earthquake,0.73,10.33,0.2069224135991,7,reviewed,uu,uu
 2025-10-31T18:02:19.807Z,31.611,-103.992,8.407,0.6,ml,16,73,0,0.2,tx,tx2025vloxhx,2025-10-31T18:06:35.412Z,"37 km NNW of Toyah, Texas",earthquake,1.0896392184508,0.96647095673386,0.1,12,reviewed,tx,tx
 2025-10-31T17:58:37.980Z,38.79700088501,-122.74083709717,1.289999961853,1.74,md,32,100,0.01411,0.05,nc,nc75257236,2025-10-31T18:37:17.364Z,"3 km NNE of The Geysers, CA",earthquake,0.21,0.310000002,0.14,34,automatic,nc,nc
 2025-10-31T17:56:40.981Z,-23.4944,179.9835,522.682,5.4,mww,101,33,5.999,0.6,us,us6000rkpc,2025-10-31T18:20:53.980Z,"south of the Fiji Islands",earthquake,11.28,7.522,0.11,8,reviewed,us,us
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T16:52:02.810Z,33.2405,-116.777,15.46,0.65,ml,30,34,0.01594,0.18,ci,ci41323280,2025-10-31T16:55:53.208Z,"1 km W of Lake Henshaw, CA",earthquake,0.23,0.47,0.106,11,automatic,ci,ci
 2025-10-31T16:44:30.850Z,38.821166992188,-122.80433654785,2.5499999523163,1.07,md,21,45,0.01495,0.02,nc,nc75257191,2025-10-31T17:22:19.850Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.09,21,automatic,nc,nc
 2025-10-31T16:42:16.866Z,64.7405,-147.8447,18.6,1.3,ml,,,,0.23,ak,ak025dz15h95,2025-10-31T16:44:35.941Z,"8 km SSW of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-31T16:35:46.900Z,38.789333343506,-122.76866912842,1.8200000524521,1.06,md,18,79,0.01327,0.03,nc,nc75257181,2025-10-31T17:07:19.742Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.419999987,0.05,16,automatic,nc,nc
+2025-10-31T16:35:46.900Z,38.789333343506,-122.76866912842,1.8200000524521,1.06,md,18,79,0.01327,0.03,nc,nc75257181,2025-10-31T18:57:17.474Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.419999987,0.05,16,automatic,nc,nc
 2025-10-31T16:35:16.147Z,53.1367,159.8077,53.534,4.8,mb,50,127,1.271,0.81,us,us6000rkla,2025-10-31T16:58:18.040Z,"79 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.11,7.078,0.051,116,reviewed,us,us
 2025-10-31T16:19:21.141Z,63.9282,-146.6144,16.9,1.6,ml,,,,0.35,ak,ak025dz10k1e,2025-10-31T16:20:42.664Z,"42 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-31T16:15:24.110Z,61.43,-147.2473,31.3,1.9,ml,,,,0.36,ak,ak025dz0zpeo,2025-10-31T16:18:17.981Z,"47 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -31,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T15:55:05.670Z,35.6788333,-118.105,8.14,0.96,ml,25,47,0.1131,0.12,ci,ci41323264,2025-10-31T15:58:29.290Z,"27 km W of Inyokern, CA",earthquake,0.17,0.64,0.194,13,automatic,ci,ci
 2025-10-31T15:54:26.440Z,38.837001800537,-122.78182983398,2.0699999332428,1.07,md,17,70,0.006796,0.03,nc,nc75257161,2025-10-31T18:07:20.170Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.439999998,0.33,17,automatic,nc,nc
 2025-10-31T15:53:37.792Z,60.7495,-150.0428,37.7,2.4,ml,,,,0.33,ak,ak025dz0mg2b,2025-10-31T17:01:20.040Z,"28 km SW of Hope, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-31T15:50:44.830Z,33.9495,-116.7931667,16.22,1.95,ml,88,25,0.03645,0.19,ci,ci41323256,2025-10-31T15:54:17.263Z,"4 km N of Cabazon, CA",earthquake,0.12,0.35,0.256,26,automatic,ci,ci
+2025-10-31T15:50:44.760Z,33.9495,-116.7908333,16.58,1.95,ml,76,25,0.0361,0.16,ci,ci41323256,2025-10-31T18:57:07.875Z,"4 km N of Cabazon, CA",earthquake,0.12,0.34,0.176,25,reviewed,ci,ci
 2025-10-31T15:31:38.640Z,34.0126667,-116.3228333,9.1,1.08,ml,32,37,0.07935,0.13,ci,ci41323248,2025-10-31T15:35:13.042Z,"14 km S of Joshua Tree, CA",earthquake,0.16,0.36,0.214,20,automatic,ci,ci
 2025-10-31T15:20:46.260Z,33.1913333,-115.5956667,3.84,1.79,ml,20,87,0.02172,0.17,ci,ci41323232,2025-10-31T15:27:29.116Z,"9 km SW of Niland, CA",earthquake,0.26,0.18,0.399,22,automatic,ci,ci
 2025-10-31T15:19:43.067Z,60.8704,-146.8692,20.2,2.4,ml,,,,1.03,ak,ak025dz0f637,2025-10-31T15:22:02.665Z,"10 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
