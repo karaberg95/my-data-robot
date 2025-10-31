@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-31T16:52:02.810Z,33.2405,-116.777,15.46,0.65,ml,30,34,0.01594,0.18,ci,ci41323280,2025-10-31T16:55:53.208Z,"1 km W of Lake Henshaw, CA",earthquake,0.23,0.47,0.106,11,automatic,ci,ci
 2025-10-31T16:44:30.850Z,38.821166992188,-122.80433654785,2.5499999523163,1.07,md,21,45,0.01495,0.02,nc,nc75257191,2025-10-31T16:46:06.633Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.09,21,automatic,nc,nc
 2025-10-31T16:42:16.866Z,64.7405,-147.8447,18.6,1.3,ml,,,,0.23,ak,ak025dz15h95,2025-10-31T16:44:35.941Z,"8 km SSW of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-31T16:35:46.900Z,38.789333343506,-122.76866912842,1.8200000524521,1.06,md,18,79,0.01327,0.03,nc,nc75257181,2025-10-31T16:37:20.512Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.419999987,0.05,16,automatic,nc,nc
+2025-10-31T16:35:16.147Z,53.1367,159.8077,53.534,4.8,mb,50,127,1.271,0.81,us,us6000rkla,2025-10-31T16:58:18.040Z,"79 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.11,7.078,0.051,116,reviewed,us,us
 2025-10-31T16:19:21.141Z,63.9282,-146.6144,16.9,1.6,ml,,,,0.35,ak,ak025dz10k1e,2025-10-31T16:20:42.664Z,"42 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-31T16:15:24.110Z,61.43,-147.2473,31.3,1.9,ml,,,,0.36,ak,ak025dz0zpeo,2025-10-31T16:18:17.981Z,"47 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-31T16:07:24.960Z,38.791168212891,-122.75949859619,1.25,0.96,md,18,68,0.009444,0.02,nc,nc75257171,2025-10-31T16:42:19.584Z,"2 km N of The Geysers, CA",earthquake,0.22,0.400000006,0.18,17,automatic,nc,nc
