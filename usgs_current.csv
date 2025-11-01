@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-01T22:26:26.450Z,39.510501861572,-123.63083648682,-0.43999999761581,1.99,md,11,148,0.1051,0.33,nc,nc75257751,2025-11-01T22:28:24.417Z,"17 km ENE of Fort Bragg, CA",earthquake,1.16,10.75,0.08,4,automatic,nc,nc
+2025-11-01T22:46:05.620Z,36.832000732422,-121.45166778565,8.3000001907349,1.15,md,7,116,0.0437,0.06,nc,nc75257756,2025-11-01T22:47:44.367Z,"5 km WSW of Hollister, CA",earthquake,0.49,1.49000001,0.19,5,automatic,nc,nc
+2025-11-01T22:45:15.806Z,60.7342,-151.7933,76,2.3,ml,,,,0.59,ak,ak025e0sa2c2,2025-11-01T22:47:35.552Z,"27 km W of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-11-01T22:26:26.450Z,39.510501861572,-123.63083648682,-0.43999999761581,1.99,md,11,148,0.1051,0.33,nc,nc75257751,2025-11-01T22:42:18.804Z,"17 km ENE of Fort Bragg, CA",earthquake,1.16,10.75,0.08,4,automatic,nc,nc
 2025-11-01T21:56:01.370Z,35.3581667,-117.8081667,8.36,0.9,ml,29,65,0.09563,0.13,ci,ci41324224,2025-11-01T21:59:38.572Z,"16 km W of Johannesburg, CA",earthquake,0.19,0.57,0.148,18,automatic,ci,ci
 2025-11-01T21:54:13.736Z,64.977,-147.3847,4.9,1.4,ml,,,,0.92,ak,ak025e0rqk1p,2025-11-01T21:56:19.452Z,"11 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-01T21:44:08.990Z,54.759833333333,-164.032,5.42,0.7,ml,4,125,0.05438,0.04,av,av93862131,2025-11-01T22:02:19.670Z,"41 km WSW of False Pass, Alaska",earthquake,0.34,1.02,0.28796744999268,4,reviewed,av,av
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T21:00:41.390Z,38.817333221435,-122.84233093262,10.789999961853,0.75,md,10,119,0.008116,0.13,nc,nc75257741,2025-11-01T21:17:20.173Z,"9 km WNW of The Geysers, CA",earthquake,1.85,0.75999999,0.38,9,automatic,nc,nc
 2025-11-01T21:00:09.961Z,3.9701,95.9535,61.242,4.9,mb,67,138,1.595,1,us,us6000rkyv,2025-11-01T21:46:37.692Z,"27 km SW of Meulaboh, Indonesia",earthquake,7.95,6.576,0.056,99,reviewed,us,us
 2025-11-01T20:48:02.360Z,34.2903333,-116.8426667,6.78,1.66,ml,75,24,0.05891,0.17,ci,ci41324048,2025-11-01T20:58:48.750Z,"3 km N of Big Bear City, CA",earthquake,0.11,0.41,0.121,28,automatic,ci,ci
-2025-11-01T20:35:15.830Z,38.833332061768,-122.81183624268,2.2000000476837,0.21,md,7,79,0.01753,0.01,nc,nc75257731,2025-11-01T21:07:18.098Z,"8 km W of Cobb, CA",earthquake,0.44,2.11999989,0.12,8,automatic,nc,nc
+2025-11-01T20:35:15.830Z,38.833332061768,-122.81183624268,2.2000000476837,0.21,md,7,79,0.01753,0.01,nc,nc75257731,2025-11-01T22:47:22.842Z,"8 km W of Cobb, CA",earthquake,0.44,2.11999989,0.12,8,automatic,nc,nc
 2025-11-01T20:31:33.569Z,61.5066,-146.5149,27.6,2,ml,,,,0.68,ak,ak025e0r08i4,2025-11-01T20:33:36.949Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T20:18:51.423Z,60.8939,-148.9079,20,2.2,ml,,,,0.72,ak,ak025e0qxhjq,2025-11-01T20:31:05.068Z,"15 km ESE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-01T20:05:42.770Z,54.758666666667,-164.03616666667,9.23,0.81,ml,4,130,0.05404,0.31,av,av93862026,2025-11-01T21:54:19.200Z,"41 km WSW of False Pass, Alaska",earthquake,1.27,1.98,0.23889477477348,4,reviewed,av,av
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T18:01:46.076Z,42.656,-111.8966,14.672,2.8,ml,73,35,0.546,0.66,us,us6000rky7,2025-11-01T20:44:31.040Z,"7 km S of Bancroft, Idaho",earthquake,1.95,7.106,0.028,168,reviewed,us,us
 2025-11-01T17:46:32.620Z,34.0621667,-116.7433333,2.5,0.73,ml,28,43,0.05991,0.16,ci,ci41323968,2025-11-01T17:50:03.381Z,"15 km W of Morongo Valley, CA",earthquake,0.23,0.56,0.149,16,automatic,ci,ci
 2025-11-01T17:42:41.766Z,16.8722,-93.5997,170.151,4.5,mb,114,107,1.521,0.65,us,us6000rky8,2025-11-01T19:16:45.040Z,"18 km ENE of Francisco I. Madero, Mexico",earthquake,8.98,7.645,0.054,107,reviewed,us,us
-2025-11-01T17:42:38.520Z,35.2545,-92.1505,5.51,2.27,md,11,145,0.0834,0.3,nm,nm60504438,2025-11-01T21:43:03.130Z,"3 km NW of Mount Vernon, Arkansas",earthquake,0.83,1.79,0.070747213616342,9,reviewed,nm,nm
+2025-11-01T17:42:38.520Z,35.2545,-92.1505,5.51,2.27,md,11,145,0.0834,0.3,nm,nm60504438,2025-11-01T22:46:41.378Z,"3 km NW of Mount Vernon, Arkansas",earthquake,0.83,1.79,0.070747213616342,9,reviewed,nm,nm
 2025-11-01T17:22:41.340Z,33.369,-116.8901667,5.03,1.99,ml,96,27,0.02768,0.24,ci,ci41323960,2025-11-01T17:33:36.470Z,"3 km WNW of Palomar Observatory, CA",earthquake,0.14,0.37,0.133,25,automatic,ci,ci
 2025-11-01T17:11:45.720Z,33.0366667,-116.447,6.96,1.75,ml,26,89,0.04119,0.12,ci,ci41323944,2025-11-01T17:15:21.722Z,"15 km ESE of Julian, CA",earthquake,0.48,0.42,0.17,26,automatic,ci,ci
 2025-11-01T17:11:45.690Z,33.0400009,-116.4451675,7.42,1.87,ml,68,39,0.03765,0.2,ci,ci41323952,2025-11-01T17:22:32.680Z,"15 km ESE of Julian, CA",earthquake,0.2,1.01,0.351,24,automatic,ci,ci
@@ -149,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T00:45:14.222Z,38.471,-116.4862,5.2997,1.7,ml,12,164,0.514,0.3253,nn,nn00906653,2025-11-01T00:48:13.703Z,"79 km NE of Tonopah, Nevada",earthquake,,0.8374,0.23,5,automatic,nn,nn
 2025-11-01T00:29:39.027Z,64.5935,-146.5286,14.8,1.4,ml,,,,0.79,ak,ak025e0f35e6,2025-11-01T00:39:47.618Z,"19 km ENE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-01T00:27:56.297Z,61.4148,-146.5953,8.4,1.8,ml,,,,0.66,ak,ak025e0f2r6u,2025-11-01T00:37:44.502Z,"34 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-01T00:27:37.524Z,31.931,-101.7,3.9261,1.7,ml,53,53,0.1,0.3,tx,tx2025vmbrim,2025-11-01T11:13:27.157Z,"21 km WNW of Garden City, Texas",earthquake,0,0.81785464286804,0.1,38,automatic,tx,tx
+2025-11-01T00:27:38.019Z,31.932,-101.702,7.373,1.7,ml,38,53,0.1,0.1,tx,tx2025vmbrim,2025-11-01T22:47:56.818Z,"22 km WNW of Garden City, Texas",earthquake,0.44430534906202,0.9402960955952,0.1,25,reviewed,tx,tx
 2025-11-01T00:27:11.442Z,64.5987,-146.9883,10.1,2.7,ml,,,,1.11,ak,ak025e0f2nu0,2025-11-01T00:30:21.295Z,"7 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T00:18:03.770Z,36.1316667,-117.9571667,7.63,1.01,ml,27,52,0.02209,0.15,ci,ci41323520,2025-11-01T00:21:30.946Z,"10 km N of Coso Junction, CA",earthquake,0.21,0.41,0.282,15,automatic,ci,ci
 2025-11-01T00:16:08.000Z,35.7686667,-117.5848333,6.1,0.61,ml,27,55,0.04809,0.16,ci,ci41323512,2025-11-01T00:19:54.551Z,"16 km W of Searles Valley, CA",earthquake,0.2,0.45,0.112,11,automatic,ci,ci
@@ -164,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T23:15:20.167Z,64.9592,-147.3162,0,2,ml,,,,0.85,ak,ak025dz55qbx,2025-10-31T23:17:37.548Z,"14 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-31T23:09:15.080Z,17.9975,-66.789333333333,11.7,2.36,md,15,143,0.08845,0.27,pr,pr71499438,2025-10-31T23:24:30.010Z,"2 km S of Guayanilla, Puerto Rico",earthquake,0.56,0.77,0.21303866243128,10,reviewed,pr,pr
 2025-10-31T23:00:28.588Z,60.436,-151.1927,55.7,2,ml,,,,0.65,ak,ak025dz52j8q,2025-10-31T23:02:12.009Z,"5 km ENE of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-10-31T22:46:47.657Z,61.08,-152.0296,119.7,2.5,ml,,,,0.28,ak,ak025dz4r04l,2025-10-31T22:52:43.884Z,"48 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
