@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-01T11:22:49.050Z,36.546165466309,-121.39333343506,13.270000457764,1.41,md,12,50,0.05231,0.06,nc,nc75257511,2025-11-01T11:24:25.794Z,"6 km NE of Gonzales, CA",earthquake,0.35,1.45000005,0.24,10,automatic,nc,nc
+2025-11-01T11:39:07.400Z,40.300498962402,-124.36367034912,7.4499998092651,1.48,md,9,289,0.02013,0.05,nc,nc75257516,2025-11-01T11:40:45.858Z,"7 km WSW of Petrolia, CA",earthquake,1.64,1,0.08,5,automatic,nc,nc
+2025-11-01T11:33:55.177Z,32.397,-102.137,5.2597,1.1,ml,16,136,0,0.5,tx,tx2025vmxtnl,2025-11-01T11:36:46.516Z,"38 km ENE of McKinney Acres, Texas",earthquake,0,1.5093911886215,0.3,10,automatic,tx,tx
+2025-11-01T11:22:49.050Z,36.546165466309,-121.39333343506,13.270000457764,1.41,md,12,50,0.05231,0.06,nc,nc75257511,2025-11-01T11:42:19.276Z,"6 km NE of Gonzales, CA",earthquake,0.35,1.45000005,0.24,10,automatic,nc,nc
 2025-11-01T11:10:51.161Z,59.5592,-152.308,64.8,2.8,ml,,,,0.46,ak,ak025e0livc2,2025-11-01T11:15:01.032Z,"31 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-01T10:53:33.401Z,31.79,-101.906,4.0548,1.5,ml,45,50,0,0.3,tx,tx2025vmwktc,2025-11-01T11:15:37.952Z,"28 km SE of Midland, Texas",earthquake,0,0.90699636936188,0.2,31,automatic,tx,tx
 2025-11-01T10:46:33.159Z,59.0256,-154.0646,121.1,2.4,ml,,,,0.37,ak,ak025e0l547z,2025-11-01T10:58:41.776Z,"61 km SE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
