@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-01T18:47:50.420Z,33.4953333,-116.5365,10.84,0.43,ml,21,65,0.0549,0.17,ci,ci41323976,2025-11-01T18:51:20.737Z,"14 km ESE of Anza, CA",earthquake,0.28,0.53,0.12,14,automatic,ci,ci
 2025-11-01T18:41:05.581Z,61.3572,-147.8034,20,2.1,ml,,,,1.1,ak,ak025e0pvgam,2025-11-01T18:43:26.701Z,"50 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-01T18:33:01.760Z,38.822166442871,-122.83999633789,1.9900000095367,0.67,md,8,145,0.003994,0.01,nc,nc75257661,2025-11-01T18:34:36.897Z,"9 km NW of The Geysers, CA",earthquake,0.6,1.16999996,0.06,9,automatic,nc,nc
 2025-11-01T18:18:08.640Z,38.82149887085,-122.84216308594,2.539999961853,1.34,md,23,103,0.005801,0.02,nc,nc75257656,2025-11-01T18:42:18.069Z,"9 km WNW of The Geysers, CA",earthquake,0.24,0.379999995,0.1,22,automatic,nc,nc
@@ -164,6 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T19:07:17.090Z,38.809665679932,-122.83850097656,4.3000001907349,0.44,md,7,151,0.007327,0.02,nc,nc75257266,2025-10-31T19:32:18.715Z,"8 km WNW of The Geysers, CA",earthquake,0.86,1.60000002,0.19,6,automatic,nc,nc
 2025-10-31T19:06:23.840Z,38.798667907715,-122.73416900635,0.87999999523163,1.27,md,20,147,0.01554,0.04,nc,nc75257261,2025-10-31T21:47:20.674Z,"3 km SSW of Cobb, CA",earthquake,0.38,0.400000006,0.17,18,automatic,nc,nc
 2025-10-31T19:00:35.756Z,59.7236,-153.1915,107.3,2,ml,,,,0.39,ak,ak025dz2otdj,2025-10-31T19:02:41.665Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-31T18:51:46.080Z,44.796,-110.8525,4.8,1.54,ml,20,109,0.007801,0.15,uu,uu80120896,2025-10-31T19:16:58.870Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.26,0.39,0.56141721847898,5,reviewed,uu,uu
-2025-10-31T18:49:40.550Z,38.821166992188,-122.80316925049,1.7799999713898,1.08,md,17,55,0.01454,0.01,nc,nc75257256,2025-10-31T19:07:19.539Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.5,0.06,17,automatic,nc,nc
-2025-10-31T18:44:03.660Z,57.694666666667,-155.96866666667,4.04,0.55,ml,5,224,0.1617,0.17,av,av93860121,2025-10-31T22:39:10.870Z,"87 km ENE of Ugashik, Alaska",earthquake,2.13,3.09,0.17364165499875,5,reviewed,av,av
