@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-01T23:11:20.790Z,34.2891655,-116.8444977,5.25,1.76,ml,75,37,0.06039,0.16,ci,ci41324240,2025-11-01T23:13:29.628Z,"3 km N of Big Bear City, CA",earthquake,0.18,0.59,0.238,26,automatic,ci,ci
+2025-11-01T23:24:32.740Z,38.796333312988,-122.76233673096,0.87999999523163,0.81,md,9,75,0.004751,0.02,nc,nc75257781,2025-11-01T23:26:09.093Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.689999998,0.14,11,automatic,nc,nc
+2025-11-01T23:11:20.770Z,34.2905,-116.8438333,6.67,1.79,ml,71,37,0.05896,0.15,ci,ci41324240,2025-11-01T23:14:54.592Z,"3 km N of Big Bear City, CA",earthquake,0.11,0.37,0.206,26,automatic,ci,ci
 2025-11-01T23:10:32.810Z,38.826999664307,-122.79916381836,3.3099999427795,0.65,md,10,98,0.01331,0.01,nc,nc75257771,2025-11-01T23:12:09.594Z,"7 km W of Cobb, CA",earthquake,0.44,2.00999999,0.16,10,automatic,nc,nc
 2025-11-01T22:53:51.613Z,64.8514,-149.1141,15.2,1.4,ml,,,,0.35,ak,ak025e0sbuux,2025-11-01T22:55:17.298Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-01T22:47:29.485Z,62.1484,-147.6862,31.8,1.7,ml,,,,0.48,ak,ak025e0saius,2025-11-01T22:49:42.732Z,"35 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -174,6 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-31T23:52:26.379Z,31.614,-104.241,7.4329,2.5,ml,36,69,0.1,0.1,tx,tx2025vmanbf,2025-11-01T14:44:19.807Z,"53 km NW of Toyah, Texas",earthquake,0.63955090275311,1.1414467782644,0.2,34,reviewed,tx,tx
 2025-10-31T23:49:35.090Z,60.4323,-150.6314,32.2,2.4,ml,,,,0.57,ak,ak025dz5d1tc,2025-11-01T00:02:12.322Z,"10 km SE of Funny River, Alaska",earthquake,,223.4,,,automatic,ak,ak
 2025-10-31T23:44:16.658Z,64.5895,-146.5633,19.9,1.4,ml,,,,0.57,ak,ak025dz5bxtt,2025-10-31T23:45:52.742Z,"17 km ENE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-10-31T23:17:24.409Z,21.1415,121.104,30.115,4.4,mb,34,120,1.668,1.07,us,us6000rkv8,2025-11-01T04:02:35.040Z,"102 km SSE of Hengchun, Taiwan",earthquake,8.69,7.077,0.123,19,reviewed,us,us
-2025-10-31T23:16:33.130Z,46.972666666667,-122.2125,-0.54,1.74,ml,31,71,0.01482,0.12,uw,uw62201507,2025-11-01T00:15:37.570Z,"1 km SE of Kapowsin, Washington",explosion,0.31,31.61,0.17459447492434,13,reviewed,uw,uw
-2025-10-31T23:15:20.167Z,64.9592,-147.3162,0,2,ml,,,,0.85,ak,ak025dz55qbx,2025-10-31T23:17:37.548Z,"14 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
