@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T18:50:23.158Z,58.3932,-154.3818,250,1.9,ml,,,,0.58,ak,ak025e41042z,2025-11-03T18:52:34.766Z,"91 km N of Karluk, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2025-11-03T18:42:33.350Z,38.798000335693,-122.77416992188,3.6800000667572,0.39,md,10,111,0.01177,0.01,nc,nc75258606,2025-11-03T18:44:12.721Z,"3 km NW of The Geysers, CA",earthquake,0.48,1.16999996,0.19,10,automatic,nc,nc
 2025-11-03T18:42:18.220Z,38.784332275391,-122.74449920654,0.43999999761581,0.52,md,7,117,0.006174,0.02,nc,nc75258601,2025-11-03T18:43:57.716Z,"1 km NE of The Geysers, CA",earthquake,0.42,0.769999981,0.21,6,automatic,nc,nc
 2025-11-03T18:40:51.400Z,35.3593333,-117.8036667,6.7,1.42,ml,36,73,0.09797,0.18,ci,ci41324952,2025-11-03T18:44:23.091Z,"15 km W of Johannesburg, CA",earthquake,0.22,0.61,0.211,4,automatic,ci,ci
+2025-11-03T18:39:47.344Z,-16.3756,-177.2528,419.904,4.6,mb,59,79,3.242,1.06,us,us6000rl81,2025-11-03T18:55:52.040Z,"246 km SSE of Alo, Wallis and Futuna",earthquake,6.88,8.158,0.041,179,reviewed,us,us
 2025-11-03T18:21:05.661Z,32.431,-102.139,3.8666,1.5,ml,31,58,0,0.6,tx,tx2025vrcsdw,2025-11-03T18:25:15.575Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,0.97171813249588,0.2,16,automatic,tx,tx
 2025-11-03T18:20:36.100Z,34.0001667,-116.751,17.61,1.4,ml,57,37,0.05867,0.16,ci,ci41324944,2025-11-03T18:24:11.764Z,"10 km NNE of Cabazon, CA",earthquake,0.15,0.35,0.185,26,automatic,ci,ci
 2025-11-03T18:05:00.060Z,35.3583333,-117.8056667,7.01,1.12,ml,32,73,0.09647,0.16,ci,ci41324928,2025-11-03T18:08:49.203Z,"16 km W of Johannesburg, CA",earthquake,0.19,0.82,0.167,26,automatic,ci,ci
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T17:32:18.150Z,38.821334838867,-122.84366607666,1.5800000429153,0.64,md,8,130,0.006977,0.02,nc,nc75258551,2025-11-03T17:57:20.313Z,"9 km WNW of The Geysers, CA",earthquake,0.41,0.779999971,0.17,8,automatic,nc,nc
 2025-11-03T17:20:45.430Z,38.836498260498,-122.81683349609,2.2699999809265,0.93,md,11,118,0.01884,0.02,nc,nc75258546,2025-11-03T17:42:19.216Z,"8 km W of Cobb, CA",earthquake,0.38,1.29999995,0.22,11,automatic,nc,nc
 2025-11-03T17:08:18.423Z,38.4723,-116.4907,8.0299,2.05,ml,8,182,0.512,0.1748,nn,nn00906775,2025-11-03T17:37:28.344Z,"78 km NE of Tonopah, Nevada",earthquake,,2.1589,0.08,3,reviewed,nn,nn
-2025-11-03T17:03:46.670Z,33.0431667,-116.4381667,7.68,0.72,ml,35,47,0.03404,0.19,ci,ci41324904,2025-11-03T17:07:12.191Z,"16 km ESE of Julian, CA",earthquake,0.2,0.69,0.102,12,automatic,ci,ci
+2025-11-03T17:03:46.660Z,33.0435,-116.439,7.55,0.72,ml,27,81,0.03371,0.17,ci,ci41324904,2025-11-03T18:50:15.090Z,"16 km ESE of Julian, CA",earthquake,0.23,0.63,0.082,10,reviewed,ci,ci
 2025-11-03T16:56:43.589Z,64.9434,-148.6778,11.6,1.5,ml,,,,0.71,ak,ak025e3zukqf,2025-11-03T16:59:52.108Z,"33 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-03T16:54:24.430Z,52.3842,160.2232,24.348,4.9,mb,99,121,1.697,1.03,us,us6000rl7l,2025-11-03T17:23:43.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.17,6.336,0.051,122,reviewed,us,us
 2025-11-03T16:53:29.237Z,32.128,-101.489,3.7944,1.5,ml,25,76,0.1,0.3,tx,tx2025vqzuqt,2025-11-03T16:56:03.219Z,"11 km W of Forsan, Texas",earthquake,0,1.2211753129959,0.1,17,automatic,tx,tx
@@ -213,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T19:23:20.200Z,33.354,-116.2456667,9.03,0.51,ml,12,73,0.05416,0.11,ci,ci41324616,2025-11-03T15:36:16.908Z,"16 km NE of Borrego Springs, CA",earthquake,0.29,0.66,0.064,6,reviewed,ci,ci
 2025-11-02T19:06:56.707Z,9.642,122.8092,141.463,5.5,mww,88,37,3.747,0.88,us,us6000rl2n,2025-11-03T02:59:34.079Z,"13 km SW of Mabinay, Philippines",earthquake,9.25,6.44,0.049,40,reviewed,us,us
 2025-11-02T19:06:39.880Z,38.802165985107,-122.80533599853,2.1400001049042,1.07,md,13,53,0.009748,0.02,nc,nc75258091,2025-11-02T19:32:21.077Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.639999986,0.16,13,automatic,nc,nc
-2025-11-02T18:55:48.490Z,34.0335,-117.252,2.85,1.1,ml,54,38,0.07615,0.2,ci,ci41324608,2025-11-02T21:34:11.589Z,"2 km SSE of Loma Linda, CA",earthquake,0.16,0.37,0.154,30,reviewed,ci,ci
-2025-11-02T18:51:46.506Z,-36.9168,-73.9572,10,4.7,mb,44,123,2.351,0.8,us,us6000rl2m,2025-11-02T19:44:50.758Z,"67 km WNW of Arauco, Chile",earthquake,6.34,1.877,0.11,25,reviewed,us,us
