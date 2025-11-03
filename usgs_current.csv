@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T22:52:57.263Z,64.7637,-149.2326,17.4,1.2,ml,,,,0.8,ak,ak025e43ecke,2025-11-03T22:54:53.534Z,"18 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-03T22:47:49.200Z,19.387666702271,-155.03916931152,1.7300000190735,2.13,ml,47,149,0.03695,0.319999993,hv,hv74822846,2025-11-03T22:52:03.260Z,"13 km SSE of Eden Roc, Hawaii",earthquake,0.65,0.560000002,1.04,5,automatic,hv,hv
 2025-11-03T22:20:09.371Z,60.0154,-145.5258,16,1.9,ml,,,,0.66,ak,ak025e437dyh,2025-11-03T22:22:16.879Z,"60 km SSE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-03T22:18:46.100Z,49.378166666667,-120.49283333333,-0.37,2.12,ml,22,183,0.57,0.46,uw,uw62210566,2025-11-03T22:31:49.580Z,"8 km S of Princeton, Canada",explosion,2.38,31.61,0.12166047845687,14,reviewed,uw,uw
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T23:19:30.415Z,17.7673,-94.1893,191.709,5,mb,75,63,2.457,0.58,us,us6000rl3p,2025-11-03T00:14:35.660Z,"18 km SSW of Las Choapas, Mexico",earthquake,9.54,5.962,0.025,529,reviewed,us,us
 2025-11-02T23:18:45.260Z,62.9298,-151.3199,105.9,2,ml,,,,0.42,ak,ak025e2g94e6,2025-11-02T23:21:38.414Z,"56 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-02T23:03:42.933Z,30.99,-103.596,1.8958,1.7,ml,15,77,0.2,0.2,tx,tx2025vpqivr,2025-11-03T10:37:37.548Z,"14 km E of Balmorhea, Texas",earthquake,0.9052943057448,1.0418599257046,0.2,6,reviewed,tx,tx
-2025-11-02T22:59:37.245Z,-8.1113,128.7148,35,4.4,mb,31,51,3.756,0.93,us,us6000rl3i,2025-11-02T23:50:10.040Z,"194 km ENE of Lospalos, Timor Leste",earthquake,7.62,1.946,0.134,16,reviewed,us,us
-2025-11-02T22:56:01.120Z,37.490665435791,-118.84716796875,6.960000038147,2.22,md,23,69,0.1002,0.06,nc,nc75258136,2025-11-02T23:52:18.873Z,"17 km WSW of Toms Place, CA",earthquake,0.29,1.28999996,0.2,26,automatic,nc,nc
