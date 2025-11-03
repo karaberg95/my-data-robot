@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-03T11:35:23.060Z,38.788501739502,-122.76899719238,0.6700000166893,1.04,md,12,80,0.01411,0.02,nc,nc75258366,2025-11-03T11:37:00.567Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.540000021,0.06,12,automatic,nc,nc
 2025-11-03T11:33:39.500Z,57.7737,-155.3498,20.6,1.3,ml,,,,0.07,ak,ak025e3wqgxq,2025-11-03T11:35:03.826Z,"58 km WNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-11-03T11:11:44.610Z,18.055333333333,-66.792166666667,10.4,2.05,md,7,134,0.1151,0.29,pr,pr71499593,2025-11-03T11:48:08.090Z,"4 km N of Guayanilla, Puerto Rico",earthquake,0.81,3.36,0.21952487584519,4,reviewed,pr,pr
 2025-11-03T10:59:06.240Z,38.832332611084,-122.81449890137,2.0499999523163,0.72,md,12,71,0.01754,0.01,nc,nc75258346,2025-11-03T11:32:19.662Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.779999971,0.4,13,automatic,nc,nc
 2025-11-03T10:50:30.920Z,38.831832885742,-122.81416320801,1.9099999666214,1.48,md,25,50,0.01797,0.02,nc,nc75258341,2025-11-03T11:17:22.548Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.340000004,0.14,27,automatic,nc,nc
 2025-11-03T10:39:21.530Z,33.4558333,-116.6236667,8.83,0.74,ml,45,39,0.04271,0.17,ci,ci41324832,2025-11-03T10:42:57.484Z,"12 km SSE of Anza, CA",earthquake,0.17,0.41,0.178,21,automatic,ci,ci
