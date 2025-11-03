@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T07:37:21.750Z,33.111,-115.969,7.17,0.89,ml,45,51,0.06275,0.21,ci,ci41324792,2025-11-03T07:40:49.578Z,"16 km ESE of Ocotillo Wells, CA",earthquake,0.19,0.54,0.24,17,automatic,ci,ci
+2025-11-03T07:37:07.810Z,34.2475,-118.969,16,1.53,ml,58,47,0.04272,0.22,ci,ci41324784,2025-11-03T07:40:48.586Z,"7 km ENE of Camarillo, CA",earthquake,0.19,0.41,0.289,29,automatic,ci,ci
 2025-11-03T07:10:24.455Z,52.1988,160.0369,23.982,5.8,mb,114,76,1.691,0.64,us,us6000rl55,2025-11-03T07:36:14.474Z,"135 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,5.049,0.024,656,reviewed,us,us
 2025-11-03T07:06:06.721Z,59.0841,-152.3775,74.8,1.8,ml,,,,0.65,ak,ak025e3u6vnk,2025-11-03T07:08:26.909Z,"40 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-03T07:01:19.070Z,38.823001861572,-122.79550170898,2.5,0.76,md,14,58,0.01501,0.02,nc,nc75258286,2025-11-03T07:17:20.911Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.720000029,0.06,15,automatic,nc,nc
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T05:35:49.500Z,33.6616667,-116.769,11.39,0.89,ml,49,39,0.07072,0.15,ci,ci41324768,2025-11-03T05:39:19.065Z,"10 km SSW of Idyllwild, CA",earthquake,0.16,0.32,0.23,29,automatic,ci,ci
 2025-11-03T05:31:14.658Z,32.107,-101.924,3.7049,2,ml,72,33,0.1,0.5,tx,tx2025vqddhg,2025-11-03T05:35:33.811Z,"13 km W of Stanton, Texas",earthquake,0,0.6140416264534,0.2,48,automatic,tx,tx
 2025-11-03T05:18:02.518Z,63.3565,-149.59,97.8,2.5,ml,,,,0.54,ak,ak025e3t2ko0,2025-11-03T05:29:08.606Z,"32 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-11-03T05:16:52.210Z,38.836334228516,-122.78233337402,1.8799999952316,0.71,md,10,74,0.00659,0.01,nc,nc75258276,2025-11-03T05:32:17.190Z,"5 km WNW of Cobb, CA",earthquake,0.39,0.569999993,0.18,10,automatic,nc,nc
+2025-11-03T05:16:52.210Z,38.836334228516,-122.78233337402,1.8799999952316,0.71,md,10,74,0.00659,0.01,nc,nc75258276,2025-11-03T07:37:21.047Z,"5 km WNW of Cobb, CA",earthquake,0.39,0.569999993,0.18,10,automatic,nc,nc
 2025-11-03T05:11:16.610Z,35.356,-117.801,6.75,1.18,ml,42,36,0.09568,0.14,ci,ci41324760,2025-11-03T05:14:42.388Z,"15 km W of Johannesburg, CA",earthquake,0.14,0.39,0.219,26,automatic,ci,ci
 2025-11-03T04:42:38.450Z,33.7088333,-116.7331667,17.6,0.95,ml,53,23,0.01849,0.14,ci,ci41324752,2025-11-03T04:53:01.170Z,"4 km SSW of Idyllwild, CA",earthquake,0.14,0.23,0.229,26,automatic,ci,ci
 2025-11-03T04:41:44.229Z,61.1198,-149.3468,27.3,1.1,ml,,,,0.44,ak,ak025e3sm5sm,2025-11-03T04:44:24.235Z,"21 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.8,,,automatic,ak,ak
