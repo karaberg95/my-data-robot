@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-03T15:55:17.680Z,40.403167724609,-124.25533294678,15.069999694824,1.42,md,9,249,0.06505,0.17,nc,nc75258491,2025-11-03T15:56:55.631Z,"9 km NNE of Petrolia, CA",earthquake,2.89,3.33999991,0.12,6,automatic,nc,nc
+2025-11-03T15:49:05.600Z,57.8511,-156.1289,8.7,1.2,ml,,,,0.2,ak,ak025e3z7k74,2025-11-03T15:50:14.600Z,"84 km ESE of Egegik, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-11-03T15:44:37.030Z,38.784999847412,-122.77149963379,1,0.51,md,7,116,0.01495,0.01,nc,nc75258486,2025-11-03T15:46:16.156Z,"2 km WNW of The Geysers, CA",earthquake,0.59,0.889999986,0.24,8,automatic,nc,nc
 2025-11-03T15:39:18.210Z,33.6648333,-116.7156667,14.32,0.76,ml,21,58,0.03515,0.11,ci,ci41324896,2025-11-03T15:42:50.644Z,"8 km S of Idyllwild, CA",earthquake,0.22,0.38,0.233,18,automatic,ci,ci
 2025-11-03T15:24:32.890Z,38.821334838867,-122.77583312988,0.75,0.76,md,14,69,0.00891,0.02,nc,nc75258466,2025-11-03T15:26:10.507Z,"5 km W of Cobb, CA",earthquake,0.26,0.479999989,0.07,14,automatic,nc,nc
@@ -195,6 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-02T16:40:34.122Z,63.2718,-151.7334,4.6,1.9,ml,,,,0.67,ak,ak025e2c7s2c,2025-11-02T16:42:51.616Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-02T16:30:16.847Z,60.0904,-152.778,106.7,1.5,ml,,,,0.3,ak,ak025e2c5lkk,2025-11-02T16:32:57.735Z,"60 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-11-02T16:11:34.725Z,32.362,-102.18,7.7148,0.8,ml,17,73,0,0.2,tx,tx2025vpcron,2025-11-03T14:23:26.107Z,"33 km ENE of McKinney Acres, Texas",earthquake,0.78645680640703,0.92902681404101,0.1,7,reviewed,tx,tx
-2025-11-02T15:54:17.931Z,63.8744,-148.3814,5.4,1.7,ml,,,,0.4,ak,ak025e2bpb8h,2025-11-02T15:57:04.341Z,"28 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-02T15:52:01.332Z,61.8608,-150.0177,29.2,1.9,ml,,,,0.59,ak,ak025e2bouit,2025-11-02T15:54:04.437Z,"12 km N of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-02T15:52:01.100Z,38.84033203125,-122.87550354004,2.710000038147,0.72,md,8,155,0.006556,0.01,nc,nc75258026,2025-11-02T17:37:19.324Z,"12 km NW of The Geysers, CA",earthquake,0.58,0.74000001,0.12,8,automatic,nc,nc
