@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-04T23:16:10.497Z,60.9014,-151.4087,64.5,1.5,ml,,,,0.93,ak,ak025e5rbb9s,2025-11-04T23:19:01.634Z,"23 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-11-04T23:16:10.497Z,60.9014,-151.4087,64.5,1.5,ml,,,,0.93,ak,ak025e5rbb9s,2025-11-04T23:28:41.708Z,"23 km SW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-04T22:55:06.790Z,36.619998931885,-121.23783111572,8.9799995422363,1.74,md,4,182,0.06249,0,nc,nc75259196,2025-11-04T23:17:23.350Z,"13 km NW of Pinnacles, CA",earthquake,0.92,1.57000005,0.38,2,automatic,nc,nc
 2025-11-04T22:51:24.906Z,31.571,-103.94,3.7754,1.5,ml,26,61,0,0.4,tx,tx2025vthjzg,2025-11-04T23:01:02.909Z,"31 km NNW of Toyah, Texas",earthquake,0,1.0859588384628,0.2,19,automatic,tx,tx
 2025-11-04T22:45:52.500Z,33.952331542969,-117.202003479,-0.37000000476837,1.1741643657665,ml,25,60,0.0905,0.379999995,ci,ci41118151,2025-11-04T22:47:54.531Z,"4 km NE of Moreno Valley, CA",earthquake,0.51,1.40999997,0.17115454375744,6,automatic,ci,ci
