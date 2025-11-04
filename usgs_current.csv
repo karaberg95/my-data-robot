@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-04T19:50:44.943Z,60.3634,-150.1777,32.9,2.1,ml,,,,0.43,ak,ak025e5p4xv2,2025-11-04T19:52:41.618Z,"23 km SW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-04T19:31:08.626Z,67.6033,142.7771,10,4.8,mww,98,51,6.311,0.7,us,us6000rlh2,2025-11-04T19:53:13.040Z,"176 km SW of Belaya Gora, Russia",earthquake,7.5,1.671,0.093,11,reviewed,us,us
 2025-11-04T19:21:33.581Z,38.1474,-116.5565,6.2915,2.17,ml,20,237,0.415,0.2208,nn,nn00906853,2025-11-04T19:24:27.416Z,"59 km E of Tonopah, Nevada",earthquake,,1.3677,0.24,11,automatic,nn,nn
 2025-11-04T19:16:24.150Z,40.938667297363,-123.53949737549,24.909999847412,2.93,ml,23,37,0.1442,0.15,nc,nc75259101,2025-11-04T19:22:16.760Z,"8 km E of Willow Creek, CA",earthquake,0.45,1.40999997,0.413,8,automatic,nc,nc
 2025-11-04T18:50:14.090Z,38.833667755127,-122.81449890137,1.6599999666214,1.93,md,40,34,0.01711,0.04,nc,nc75259081,2025-11-04T19:07:19.664Z,"8 km W of Cobb, CA",earthquake,0.14,0.239999995,0.15,37,automatic,nc,nc
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-04T07:54:51.940Z,34.288333892822,-116.8441696167,5.0799999237061,1.5371648964855,ml,48,43,0.06113,0.140000001,ci,ci41117943,2025-11-04T07:56:57.952Z,"3 km N of Big Bear City, CA",earthquake,0.21,0.610000014,0.19031196832657,7,automatic,ci,ci
 2025-11-04T07:54:51.890Z,34.29,-116.8416667,6.52,1.42,ml,64,29,0.05907,0.14,ci,ci40480874,2025-11-04T14:52:24.450Z,"3 km N of Big Bear City, CA",earthquake,0.12,0.4,0.201,29,reviewed,ci,ci
 2025-11-04T07:46:29.940Z,39.003333333333,-111.39383333333,-1.24,0.88,ml,12,81,0.02784,0.13,uu,uu80005343,2025-11-04T14:17:11.610Z,"15 km NW of Emery, Utah",earthquake,0.54,0.33,0.12672147741071,2,reviewed,uu,uu
-2025-11-04T07:37:23.161Z,12.386,143.1363,65.991,5.9,mww,113,57,2.069,1.14,us,us6000rlcd,2025-11-04T17:20:10.951Z,"192 km WSW of Merizo Village, Guam",earthquake,8.02,6.406,0.045,47,reviewed,us,us
+2025-11-04T07:37:23.161Z,12.386,143.1363,65.991,5.9,mww,113,57,2.069,1.14,us,us6000rlcd,2025-11-04T19:47:34.551Z,"192 km WSW of Merizo Village, Guam",earthquake,8.02,6.406,0.045,47,reviewed,us,us
 2025-11-04T07:30:08.893Z,32.35,-102.096,6.665,0.7,ml,20,50,0,0.2,tx,tx2025vscwaf,2025-11-04T12:31:04.435Z,"37 km NW of Stanton, Texas",earthquake,0.69329407000755,0.96693502133166,0.1,6,reviewed,tx,tx
 2025-11-04T07:19:37.940Z,32.9871667,-116.293,6.39,0.65,ml,31,101,0.03363,0.18,ci,ci40480866,2025-11-04T14:51:56.912Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.24,0.45,0.219,8,reviewed,ci,ci
 2025-11-04T07:16:35.074Z,57.3371,-156.6938,135.4,1.7,ml,,,,0.86,ak,ak025e5hsfhv,2025-11-04T07:19:55.674Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
