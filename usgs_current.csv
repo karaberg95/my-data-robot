@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-06T07:47:12.555Z,31.657,-104.344,4.2351,1.6,ml,30,79,0.1,0.3,tx,tx2025vvuwos,2025-11-06T07:49:53.481Z,"57 km S of Whites City, New Mexico",earthquake,0,1.091786980629,0.2,6,automatic,tx,tx
 2025-11-06T07:23:56.527Z,63.2949,-148.8229,10.5,1.5,ml,,,,0.87,ak,ak025e8swo5f,2025-11-06T07:36:25.288Z,"12 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T07:04:24.920Z,38.258,-118.8415,6.9626,1.94,ml,13,101,0.264,0.3604,nn,nn00906955,2025-11-06T07:07:18.936Z,"34 km E of Bridgeport, California",earthquake,,1.3535,0.3,8,automatic,nn,nn
 2025-11-06T06:54:23.040Z,38.803001403809,-122.80699920654,1.4500000476837,1.07,md,16,66,0.0104,0.02,nc,nc75259716,2025-11-06T07:17:19.454Z,"5 km WNW of The Geysers, CA",earthquake,0.22,0.50999999,0.09,16,automatic,nc,nc
@@ -196,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T08:14:55.370Z,38.754833221435,-122.70400238037,1.2999999523163,1.15,md,7,129,0.01383,0.02,nc,nc75259381,2025-11-05T09:47:21.597Z,"2 km SSW of Anderson Springs, CA",earthquake,0.4,0.560000002,0.12,7,automatic,nc,nc
 2025-11-05T07:59:27.020Z,44.740666666667,-110.868,8.94,0.4,md,8,93,0.04926,0.09,uu,uu80121296,2025-11-05T14:59:12.540Z,"20 km ENE of West Yellowstone, Montana",earthquake,0.38,1.21,0.29714483281747,6,reviewed,uu,uu
 2025-11-05T07:52:21.217Z,32.283,-101.145,6.5918,1.6,ml,26,66,0.1,0.2,tx,tx2025vtzicm,2025-11-05T10:30:35.379Z,"14 km WSW of Westbrook, Texas",earthquake,0.74030855835899,1.0246778867705,0.2,19,reviewed,tx,tx
-2025-11-05T07:48:22.730Z,52.002166666667,178.41,7.7,1.25,ml,4,344,0.0727,0.29,av,av93870126,2025-11-06T01:42:24.200Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.74,3.24,0.2090280100967,4,reviewed,av,av
-2025-11-05T07:45:43.540Z,51.9575,178.38716666667,2.91,1.41,ml,4,339,0.07738,0.15,av,av93870116,2025-11-06T01:39:23.930Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.63,4.47,0.11910639190688,4,reviewed,av,av
-2025-11-05T07:45:42.050Z,35.3581667,-117.7926667,5.56,1.05,ml,37,75,0.1004,0.21,ci,ci40481370,2025-11-05T23:37:34.407Z,"14 km W of Johannesburg, CA",earthquake,0.22,0.84,0.15,15,reviewed,ci,ci
-2025-11-05T07:43:09.280Z,54.765666666667,-163.88966666667,6.16,0.96,ml,4,165,0.07798,0.29,av,av93870101,2025-11-05T20:16:38.190Z,"32 km WSW of False Pass, Alaska",earthquake,1.17,3.45,0.17948832908368,4,reviewed,av,av
