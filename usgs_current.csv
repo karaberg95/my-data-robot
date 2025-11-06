@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-06T21:30:31.178Z,31.819,-101.668,2.0628,1.3,ml,5,229,0.1,0.5,tx,tx2025vwweap,2025-11-06T21:35:19.264Z,"18 km WSW of Garden City, Texas",earthquake,0,3.2494645118713,1,5,automatic,tx,tx
 2025-11-06T21:06:35.800Z,33.1938333,-115.6,3.48,1.22,ml,10,111,0.02094,0.15,ci,ci40482010,2025-11-06T21:10:04.527Z,"9 km SW of Niland, CA",earthquake,1.05,0.78,0.3,11,automatic,ci,ci
+2025-11-06T21:02:03.700Z,31.5051667,-115.625,2.41,3.33,ml,10,107,0.177,0.14,ci,ci40482002,2025-11-06T21:27:21.862Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.27,1.29,0.153,81,reviewed,ci,ci
 2025-11-06T20:59:38.404Z,61.5054,-149.7451,19.8,2.4,ml,,,,0.54,ak,ak025e90uzg7,2025-11-06T21:11:34.160Z,"5 km N of Knik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-06T20:50:35.477Z,58.3024,-157.4563,201.9,2.9,ml,,,,0.97,ak,ak025e90t1q3,2025-11-06T21:03:55.511Z,"10 km NNW of Egegik, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-11-06T20:49:19.580Z,35.3583333,-117.7921667,5.64,1.11,ml,38,49,0.1008,0.17,ci,ci40481994,2025-11-06T20:52:43.547Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.7,0.189,27,automatic,ci,ci
-2025-11-06T20:42:29.740Z,34.2156667,-116.8455,1.61,0.95,ml,25,83,0.07778,0.15,ci,ci40481978,2025-11-06T20:45:53.504Z,"5 km S of Big Bear City, CA",earthquake,0.21,0.56,0.303,24,automatic,ci,ci
+2025-11-06T20:49:19.580Z,35.3583333,-117.7921667,5.64,1.11,ml,38,49,0.1008,0.17,ci,ci40481994,2025-11-06T21:28:03.755Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.7,0.189,27,reviewed,ci,ci
+2025-11-06T20:42:29.740Z,34.2156667,-116.8455,1.61,0.95,ml,25,83,0.07778,0.15,ci,ci40481978,2025-11-06T21:27:48.755Z,"5 km S of Big Bear City, CA",earthquake,0.21,0.56,0.303,24,reviewed,ci,ci
 2025-11-06T20:09:17.929Z,59.3244,-153.5622,114.1,2.1,ml,,,,0.52,ak,ak025e90k80g,2025-11-06T20:11:12.808Z,"58 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-06T20:07:15.538Z,31.667,-104.339,6.784,1.7,ml,19,86,0.1,0.5,tx,tx2025vwtkho,2025-11-06T21:00:15.016Z,"56 km S of Whites City, New Mexico",earthquake,0,2.6223545074463,0.2,12,automatic,tx,tx
 2025-11-06T19:45:55.854Z,57.4496,-151.303,12.3,3.5,ml,,,,0.6,ak,ak025e906kzi,2025-11-06T19:59:19.225Z,"61 km ESE of Chiniak, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -11,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T19:35:56.240Z,35.922500610352,-120.47716522217,4.75,2.19,md,24,83,0.01396,0.06,nc,nc75259906,2025-11-06T20:32:17.892Z,"5 km WNW of Parkfield, CA",earthquake,0.28,0.360000014,0.25,17,automatic,nc,nc
 2025-11-06T19:34:44.320Z,38.786167144775,-122.74649810791,0.33000001311302,1.33,md,10,130,0.008179,0.02,nc,nc75259901,2025-11-06T20:17:20.790Z,"1 km NE of The Geysers, CA",earthquake,0.37,0.469999999,0.14,12,automatic,nc,nc
 2025-11-06T19:30:05.389Z,60.1982,-151.7206,64.6,1.9,ml,,,,0.43,ak,ak025e9039h6,2025-11-06T19:32:15.937Z,"16 km N of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-11-06T19:28:48.840Z,34.4176667,-119.2445,10.07,0.89,ml,5,219,0.09395,0.17,ci,ci40481970,2025-11-06T21:34:04.822Z,"3 km S of Ojai, CA",earthquake,1.02,1.5,0.245,4,reviewed,ci,ci
 2025-11-06T19:25:55.464Z,31.9814,131.7958,41.431,4.5,mb,43,125,1.237,0.88,us,us6000rlyz,2025-11-06T19:50:37.040Z,"32 km ESE of Takanabe, Japan",earthquake,7.93,8.49,0.096,32,reviewed,us,us
 2025-11-06T19:19:49.001Z,63.4728,-148.9551,77.9,2.2,ml,,,,0.76,ak,ak025e900zwu,2025-11-06T19:26:44.513Z,"9 km N of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-06T19:17:02.674Z,62.0378,-147.8397,37.9,1.7,ml,,,,0.59,ak,ak025e900gyj,2025-11-06T19:19:08.567Z,"27 km NNW of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -170,7 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T22:03:49.280Z,-58.0489,-25.2007,33.229,5.7,mb,65,69,7.342,1.15,us,us6000rls2,2025-11-06T14:09:40.040Z,"South Sandwich Islands region",earthquake,10.8,5.231,0.049,147,reviewed,us,us
 2025-11-05T22:02:23.312Z,51.7677,160.0336,35,4.6,mb,37,151,1.961,1.04,us,us6000rls3,2025-11-05T22:41:13.040Z,"170 km SE of Vilyuchinsk, Russia",earthquake,10.34,1.957,0.095,33,reviewed,us,us
 2025-11-05T21:42:09.630Z,36.1205,-118.0543333,3.99,0.82,ml,14,70,0.07996,0.11,ci,ci40481602,2025-11-05T23:22:01.433Z,"13 km NW of Coso Junction, CA",earthquake,0.26,0.56,0.131,11,reviewed,ci,ci
-2025-11-05T21:35:45.705Z,60.16,-150.9718,19.7,2.1,ml,,,,0.68,ak,ak025e7drxws,2025-11-05T21:44:47.734Z,"24 km ESE of Clam Gulch, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-11-05T21:26:41.460Z,38.836166381836,-122.78150177002,1.6000000238419,1.31,md,15,74,0.00726,0.04,nc,nc75259596,2025-11-06T00:12:17.512Z,"5 km WNW of Cobb, CA",earthquake,0.27,0.330000013,0.1,18,automatic,nc,nc
-2025-11-05T21:26:32.986Z,32.072,-101.658,6.0791,0.8,ml,11,87,0,0.1,tx,tx2025vvahqn,2025-11-06T17:24:47.546Z,"13 km ESE of Stanton, Texas",earthquake,1.4648329105628,1.1675265637738,0.2,9,reviewed,tx,tx
-2025-11-05T21:25:58.120Z,33.6478333,-117.0108333,12.79,0.85,ml,22,50,0.002451,0.16,ci,ci40481594,2025-11-05T21:56:37.770Z,"10 km SE of Winchester, CA",earthquake,0.26,0.44,0.167,23,reviewed,ci,ci
