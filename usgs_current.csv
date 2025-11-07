@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-07T19:32:28.661Z,32.354,-102.168,8.1565,1,ml,12,109,0,0.6,tx,tx2025vynzey,2025-11-07T19:34:48.168Z,"34 km E of McKinney Acres, Texas",earthquake,0,2.187194108963,0.2,6,automatic,tx,tx
 2025-11-07T19:28:48.257Z,61.4159,-149.9546,41.1,2,ml,,,,0.61,ak,ak025eanm9uh,2025-11-07T19:30:31.106Z,"6 km NNE of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-11-07T19:23:22.470Z,35.0551667,-118.3455,0.3,1.25,ml,33,43,0.0645,0.17,ci,ci40482314,2025-11-07T19:27:01.455Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.51,0.115,32,automatic,ci,ci
 2025-11-07T18:57:08.434Z,64.8513,-147.7688,14.6,1.4,ml,,,,0.92,ak,ak025ean6yxn,2025-11-07T18:59:28.424Z,"1 km ESE of College, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -170,6 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T20:09:17.929Z,59.3244,-153.5622,114.1,2.1,ml,,,,0.52,ak,ak025e90k80g,2025-11-06T20:11:12.808Z,"58 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-06T20:07:15.902Z,31.672,-104.334,7.074,1.7,ml,24,85,0.1,0.1,tx,tx2025vwtkho,2025-11-07T00:03:49.016Z,"55 km S of Whites City, New Mexico",earthquake,0.66740333358812,0.8420514499145,0.1,14,reviewed,tx,tx
 2025-11-06T19:45:55.991Z,57.3463,-151.1371,18.6,3.5,ml,,,,0.69,ak,ak025e906kzi,2025-11-07T10:01:13.093Z,"74 km ESE of Chiniak, Alaska",earthquake,,3.4,,,reviewed,ak,ak
-2025-11-06T19:37:12.950Z,35.927665710449,-120.47566986084,4.2199997901917,0.94,md,13,77,0.019,0.05,nc,nc75259911,2025-11-06T20:57:17.056Z,"5 km NW of Parkfield, CA",earthquake,0.34,0.529999971,0.22,3,automatic,nc,nc
-2025-11-06T19:35:56.240Z,35.922500610352,-120.47716522217,4.75,2.19,md,24,83,0.01396,0.06,nc,nc75259906,2025-11-06T20:32:17.892Z,"5 km WNW of Parkfield, CA",earthquake,0.28,0.360000014,0.25,17,automatic,nc,nc
-2025-11-06T19:34:44.320Z,38.786167144775,-122.74649810791,0.33000001311302,1.33,md,10,130,0.008179,0.02,nc,nc75259901,2025-11-06T20:17:20.790Z,"1 km NE of The Geysers, CA",earthquake,0.37,0.469999999,0.14,12,automatic,nc,nc
