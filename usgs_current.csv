@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-07T20:32:57.720Z,38.829498291016,-122.81483459473,2.1300001144409,1.08,md,12,63,0.01701,0.01,nc,nc75260281,2025-11-07T20:34:33.798Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.970000029,0.14,12,automatic,nc,nc
+2025-11-07T20:32:57.720Z,38.829498291016,-122.81483459473,2.1300001144409,1.08,md,12,63,0.01701,0.01,nc,nc75260281,2025-11-07T20:52:18.865Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.970000029,0.14,12,automatic,nc,nc
 2025-11-07T20:32:55.620Z,34.8765,-118.8,0.37,1.2,ml,36,63,0.08847,0.33,ci,ci40482338,2025-11-07T20:36:25.274Z,"7 km ENE of Lebec, CA",earthquake,0.44,0.87,0.136,30,automatic,ci,ci
 2025-11-07T20:32:39.670Z,40.7455,-112.04133333333,8.25,0.4,md,10,94,0.01899,0.06,uu,uu80121616,2025-11-07T20:45:48.310Z,"6 km NE of Magna, Utah",earthquake,0.4,0.73,0.37387461728622,4,reviewed,uu,uu
 2025-11-07T20:28:16.940Z,36.02716667,-96.54483333,0,1.62,ml,55,113,0.195261683,0.35,ok,ok2025vvym,2025-11-07T20:33:59.126Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.23,25,reviewed,ok,ok
 2025-11-07T20:24:13.714Z,31.8,-101.582,7.0176,1.1,ml,6,247,0.1,0.5,tx,tx2025vyprud,2025-11-07T20:26:44.116Z,"11 km SW of Garden City, Texas",earthquake,0,16.025020599365,0.5,5,automatic,tx,tx
 2025-11-07T20:16:16.928Z,62.8826,-151.0875,119.4,2.2,ml,,,,0.53,ak,ak025eao52d3,2025-11-07T20:26:21.135Z,"46 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-11-07T20:03:28.770Z,38.12816619873,-122.15567016602,3.1800000667572,2.1,md,13,152,0.00738,0.08,nc,nc75260276,2025-11-07T20:47:19.834Z,"7 km ENE of Vallejo, CA",earthquake,0.51,0.49000001,0.17,12,automatic,nc,nc
+2025-11-07T20:03:28.770Z,38.12816619873,-122.15567016602,3.1800000667572,2.1,md,13,152,0.00738,0.08,nc,nc75260276,2025-11-07T20:52:57.994Z,"7 km ENE of Vallejo, CA",earthquake,0.51,0.49000001,0.17,12,automatic,nc,nc
 2025-11-07T20:03:21.770Z,33.8698333,-117.5188333,1.37,1.13,ml,31,61,0.08067,0.26,ci,ci40482330,2025-11-07T20:06:52.762Z,"1 km SSE of Home Gardens, CA",earthquake,0.35,0.51,0.352,31,automatic,ci,ci
 2025-11-07T20:01:05.020Z,44.661,-110.68633333333,4.01,0.67,md,10,100,0.0521,0.15,uu,uu80121611,2025-11-07T20:31:30.460Z,"33 km E of West Yellowstone, Montana",earthquake,0.31,1.11,0.54710713807131,6,reviewed,uu,uu
 2025-11-07T19:58:56.790Z,44.665333333333,-110.6765,4.82,0.17,md,9,109,0.04748,0.14,uu,uu80121601,2025-11-07T20:27:34.600Z,"33 km E of West Yellowstone, Montana",earthquake,0.47,0.69,0.25111179020439,5,reviewed,uu,uu
@@ -60,6 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T13:39:46.100Z,35.2765,-117.8776667,11.95,0.98,ml,8,201,0.0276,0.19,ci,ci40482258,2025-11-07T13:43:14.450Z,"19 km NNE of California City, CA",earthquake,2.59,1.78,0.185,17,automatic,ci,ci
 2025-11-07T13:23:31.275Z,61.9271,-151.8214,100.7,2,ml,,,,0.85,ak,ak025eak0kbr,2025-11-07T13:25:27.069Z,"23 km WSW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-07T12:59:21.389Z,27.9291,-111.9045,10,4.6,mb,12,118,0.676,0.69,us,us6000rm33,2025-11-07T14:33:57.040Z,"74 km NNE of Santa Rosalía, Mexico",earthquake,6.65,2.016,0.045,144,reviewed,us,us
+2025-11-07T12:57:42.110Z,54.753333333333,-163.984,-1.18,0.72,ml,5,93,0.04463,0.14,av,av93874406,2025-11-07T20:56:59.620Z,"38 km WSW of False Pass, Alaska",earthquake,0.27,0.43,0.37642445421568,5,reviewed,av,av
 2025-11-07T12:48:07.014Z,62.9979,-148.7718,63.6,2.1,ml,,,,0.66,ak,ak025eajkfr1,2025-11-07T12:50:04.951Z,"44 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-07T12:48:03.590Z,41.881666666667,-112.33716666667,9.04,0.91,md,10,87,0.04853,0.15,uu,uu80121561,2025-11-07T16:34:15.700Z,"13 km NE of Howell, Utah",earthquake,0.44,1.01,0.34588624259561,7,reviewed,uu,uu
 2025-11-07T12:42:47.860Z,34.0981667,-116.8666667,6.55,1.01,ml,51,34,0.05762,0.14,ci,ci40482242,2025-11-07T12:46:18.717Z,"17 km SSE of Big Bear Lake, CA",earthquake,0.13,0.43,0.185,26,automatic,ci,ci
