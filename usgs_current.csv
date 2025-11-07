@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-07T21:42:24.140Z,38.823165893555,-122.80950164795,2.7599999904633,0.72,md,12,81,0.0188,0.01,nc,nc75260296,2025-11-07T21:43:59.612Z,"7 km NW of The Geysers, CA",earthquake,0.33,1.01999998,0.17,14,automatic,nc,nc
+2025-11-07T21:35:46.428Z,29.106,-98.104,5,1.6,ml,6,154,0.2,0.5,tx,tx2025vysblh,2025-11-07T21:39:29.793Z,"4 km NNW of Poth, Texas",earthquake,0,,0.4,6,automatic,tx,tx
 2025-11-07T21:24:11.170Z,29.446,-97.528,5,2.2,ml,5,168,0.3,0.1,tx,tx2025vyrrln,2025-11-07T21:27:35.695Z,"9 km SW of Gonzales, Texas",earthquake,0,,0.4,5,automatic,tx,tx
 2025-11-07T21:15:02.640Z,34.1768333,-117.9245,0.43,1.23,ml,26,104,0.04605,0.17,ci,ci40482386,2025-11-07T21:18:34.227Z,"5 km NNW of Azusa, CA",earthquake,0.24,0.39,0.293,35,automatic,ci,ci
 2025-11-07T21:14:24.222Z,31.633,-104.385,4.3644,2.7,ml,38,79,0,0.3,tx,tx2025vyriwc,2025-11-07T21:18:31.637Z,"60 km S of Whites City, New Mexico",earthquake,0,0.98210501670837,0.1,26,automatic,tx,tx
 2025-11-07T21:05:07.370Z,33.7073333,-116.7536667,15.68,0.77,ml,26,69,0.03546,0.12,ci,ci40482362,2025-11-07T21:08:30.777Z,"5 km SW of Idyllwild, CA",earthquake,0.23,0.37,0.261,22,automatic,ci,ci
-2025-11-07T21:03:39.140Z,38.811332702637,-122.78433227539,2.539999961853,2.65,md,68,24,0.003438,0.07,nc,nc75260286,2025-11-07T21:12:18.999Z,"4 km NNW of The Geysers, CA",earthquake,0.13,0.189999998,0.15,84,automatic,nc,nc
+2025-11-07T21:03:39.140Z,38.811332702637,-122.78433227539,2.539999961853,2.65,md,68,24,0.003438,0.07,nc,nc75260286,2025-11-07T21:42:17.202Z,"4 km NNW of The Geysers, CA",earthquake,0.13,0.189999998,0.15,84,automatic,nc,nc
 2025-11-07T20:59:27.740Z,62.9724,-150.0468,64.5,2.1,ml,,,,0.58,ak,ak025eaoeb2e,2025-11-07T21:01:31.075Z,"58 km N of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-11-07T20:32:57.720Z,38.829498291016,-122.81483459473,2.1300001144409,1.08,md,12,63,0.01701,0.01,nc,nc75260281,2025-11-07T21:12:19.090Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.970000029,0.14,12,automatic,nc,nc
 2025-11-07T20:32:55.620Z,34.8765,-118.8,0.37,1.2,ml,36,63,0.08847,0.33,ci,ci40482338,2025-11-07T20:36:25.274Z,"7 km ENE of Lebec, CA",earthquake,0.44,0.87,0.136,30,automatic,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T20:28:16.940Z,36.02716667,-96.54483333,0,1.62,ml,55,113,0.195261683,0.35,ok,ok2025vvym,2025-11-07T20:33:59.126Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.23,25,reviewed,ok,ok
 2025-11-07T20:24:13.714Z,31.8,-101.582,7.0176,1.1,ml,6,247,0.1,0.5,tx,tx2025vyprud,2025-11-07T20:26:44.116Z,"11 km SW of Garden City, Texas",earthquake,0,16.025020599365,0.5,5,automatic,tx,tx
 2025-11-07T20:16:16.928Z,62.8826,-151.0875,119.4,2.2,ml,,,,0.53,ak,ak025eao52d3,2025-11-07T20:26:21.135Z,"46 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-11-07T20:03:28.770Z,38.12816619873,-122.15567016602,3.1800000667572,2.1,md,13,152,0.00738,0.08,nc,nc75260276,2025-11-07T20:52:57.994Z,"7 km ENE of Vallejo, CA",earthquake,0.51,0.49000001,0.17,12,automatic,nc,nc
+2025-11-07T20:03:28.770Z,38.12816619873,-122.15567016602,3.1800000667572,2.1,md,13,152,0.00738,0.08,nc,nc75260276,2025-11-07T21:39:03.397Z,"7 km ENE of Vallejo, CA",earthquake,0.51,0.49000001,0.17,12,automatic,nc,nc
 2025-11-07T20:03:21.770Z,33.8698333,-117.5188333,1.37,1.13,ml,31,61,0.08067,0.26,ci,ci40482330,2025-11-07T20:06:52.762Z,"1 km SSE of Home Gardens, CA",earthquake,0.35,0.51,0.352,31,automatic,ci,ci
 2025-11-07T20:01:05.020Z,44.661,-110.68633333333,4.01,0.67,md,10,100,0.0521,0.15,uu,uu80121611,2025-11-07T20:31:30.460Z,"33 km E of West Yellowstone, Montana",earthquake,0.31,1.11,0.54710713807131,6,reviewed,uu,uu
 2025-11-07T19:58:56.790Z,44.665333333333,-110.6765,4.82,0.17,md,9,109,0.04748,0.14,uu,uu80121601,2025-11-07T20:27:34.600Z,"33 km E of West Yellowstone, Montana",earthquake,0.47,0.69,0.25111179020439,5,reviewed,uu,uu
