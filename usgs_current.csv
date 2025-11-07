@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-07T09:36:22.070Z,35.6203333,-117.4503333,6.02,0.96,ml,27,50,0.04966,0.13,ci,ci40482210,2025-11-07T09:39:48.192Z,"17 km SSW of Searles Valley, CA",earthquake,0.16,0.47,0.196,12,automatic,ci,ci
 2025-11-07T09:33:35.940Z,38.832668304443,-122.80783081055,1.9199999570847,1.48,md,22,94,0.02239,0.02,nc,nc75260101,2025-11-07T09:35:13.424Z,"7 km W of Cobb, CA",earthquake,0.23,0.379999995,0.18,22,automatic,nc,nc
 2025-11-07T09:33:18.413Z,55.4605,-158.5095,13.7,2.8,ml,,,,0.39,ak,ak025eahoy2p,2025-11-07T09:35:04.889Z,"64 km SE of Perryville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-07T09:24:19.960Z,38.804164886475,-122.77866363525,3.3599998950958,0.85,md,12,89,0.009217,0.01,nc,nc75260091,2025-11-07T09:25:58.190Z,"4 km NNW of The Geysers, CA",earthquake,0.35,0.959999979,0.22,14,automatic,nc,nc
