@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-09T13:51:06.130Z,19.199666976929,-155.34700012207,28.670000076294,2.34,md,53,208,0.06078,0.119999997,hv,hv74825922,2025-11-09T13:55:09.190Z,"13 km E of Pāhala, Hawaii",earthquake,0.45,0.460000008,0.097815921563997,14,automatic,hv,hv
 2025-11-09T13:34:24.409Z,63.3483,-151.1679,2,2.1,ml,,,,0.87,ak,ak025edv5lju,2025-11-09T13:46:38.035Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-09T13:23:19.755Z,58.7812,-154.1254,4.8,1.9,ml,,,,1.26,ak,ak025edv38aq,2025-11-09T13:27:20.533Z,"82 km SSE of Kokhanok, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-11-09T13:15:09.797Z,31.272,-103.414,6.9224,1.9,ml,21,108,0.1,0.6,tx,tx2025wbsxug,2025-11-09T13:17:49.822Z,"15 km SE of Lindsay, Texas",earthquake,0,3.4952075481415,0.1,17,automatic,tx,tx
