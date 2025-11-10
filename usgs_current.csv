@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-10T20:38:11.000Z,33.9681667,-117.2246667,11.13,1.15,ml,47,62,0.04785,0.18,ci,ci40483498,2025-11-10T20:41:58.952Z,"5 km N of Moreno Valley, CA",earthquake,0.17,0.31,0.208,30,automatic,ci,ci
+2025-11-10T20:34:17.390Z,33.3628333,-116.3111667,11.44,1.12,ml,56,26,0.00139,0.2,ci,ci40483490,2025-11-10T20:37:46.150Z,"13 km NNE of Borrego Springs, CA",earthquake,0.18,0.29,0.161,28,automatic,ci,ci
+2025-11-10T20:31:22.587Z,63.094,-150.9336,15.2,2,ml,,,,1.11,ak,ak025efmuc3m,2025-11-10T20:34:02.128Z,"63 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-10T19:52:30.485Z,61.6075,-147.3515,32.5,1.5,ml,,,,0.94,ak,ak025efmdf4p,2025-11-10T19:54:59.553Z,"27 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-10T19:38:49.721Z,-15.6448,-74.2123,58.249,4.3,mb,25,140,4.443,0.34,us,us6000rmnc,2025-11-10T19:56:58.040Z,"13 km W of Tocota, Peru",earthquake,6.04,9.623,0.148,13,reviewed,us,us
 2025-11-10T19:38:16.970Z,33.7973333,-116.0805,1.26,1.34,ml,42,39,0.1174,0.19,ci,ci40483458,2025-11-10T19:41:45.308Z,"15 km NE of Indio, CA",earthquake,0.17,0.37,0.17,27,automatic,ci,ci
@@ -115,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T04:25:04.450Z,59.6623,-150.2411,22.1,2.1,ml,,,,0.63,ak,ak025efda2ps,2025-11-10T04:33:44.816Z,"45 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-10T04:21:01.230Z,33.668,-116.7633333,14.59,0.57,ml,27,89,0.06287,0.14,ci,ci40483186,2025-11-10T14:16:00.919Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.32,0.292,13,reviewed,ci,ci
 2025-11-10T04:19:48.622Z,60.2263,-153.9439,203.4,3,ml,,,,0.84,ak,ak025efd8vwy,2025-11-10T04:37:28.040Z,"20 km E of Port Alsworth, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-10T04:17:52.760Z,32.903166666667,-80.215,7.86,1.75,md,8,112,0.02089,0.3,se,se60504468,2025-11-10T19:42:59.386Z,"11 km SSW of Centerville, South Carolina",earthquake,0.8,0.62,0.2270306094581,8,reviewed,se,se
+2025-11-10T04:17:52.760Z,32.903166666667,-80.215,7.86,1.75,md,8,112,0.02089,0.3,se,se60504468,2025-11-10T20:42:09.417Z,"11 km SSW of Centerville, South Carolina",earthquake,0.8,0.62,0.2270306094581,8,reviewed,se,se
 2025-11-10T04:11:45.200Z,35.036,-119.0116667,13.55,0.93,ml,20,103,0.06333,0.27,ci,ci40483178,2025-11-10T17:11:20.215Z,"13 km NW of Grapevine, CA",earthquake,0.49,1.09,0.177,9,reviewed,ci,ci
 2025-11-10T04:08:23.970Z,38.78150177002,-122.73733520508,-0.72000002861023,1.62,md,8,111,0.05244,0.19,nc,nc75261436,2025-11-10T06:57:19.353Z,"2 km ENE of The Geysers, CA",earthquake,0.54,2.30999994,0.08,6,automatic,nc,nc
 2025-11-10T04:07:10.940Z,44.793666666667,-110.8435,4.05,0.52,md,9,229,0.007302,0.15,uu,uu80121816,2025-11-10T16:45:53.610Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.67,0.58,0.22407782440605,6,reviewed,uu,uu
