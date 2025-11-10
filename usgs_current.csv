@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-10T18:45:07.520Z,37.760665893555,-121.94400024414,6.0999999046326,1.53,md,12,108,0.02783,0.1,nc,nc75261601,2025-11-10T18:46:44.414Z,"4 km SE of San Ramon, CA",earthquake,0.46,0.699999988,0.09,10,automatic,nc,nc
+2025-11-10T18:45:07.520Z,37.760665893555,-121.94400024414,6.0999999046326,1.53,md,12,108,0.02783,0.1,nc,nc75261601,2025-11-10T18:55:28.940Z,"4 km SE of San Ramon, CA",earthquake,0.46,0.699999988,0.09,10,automatic,nc,nc
 2025-11-10T18:26:36.182Z,26.6744,130.2387,10,4.9,mb,73,95,1.765,0.85,us,us6000rmmz,2025-11-10T18:47:15.040Z,"170 km SE of Isen, Japan",earthquake,8.19,1.87,0.063,78,reviewed,us,us
 2025-11-10T18:24:51.318Z,61.5396,-148.3584,22.1,1.1,ml,,,,0.07,ak,ak025eflm13f,2025-11-10T18:26:24.946Z,"29 km S of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-11-10T18:20:51.798Z,39.2889,28.1088,10,4.8,mwr,57,39,0.932,0.73,us,us6000rmmy,2025-11-10T18:46:11.641Z,"8 km NW of Sındırgı, Turkey",earthquake,5.19,1.872,0.057,30,reviewed,us,us
+2025-11-10T18:20:51.798Z,39.2889,28.1088,10,4.8,mwr,57,39,0.932,0.73,us,us6000rmmy,2025-11-10T18:55:07.610Z,"8 km NW of Sındırgı, Turkey",earthquake,5.19,1.872,0.057,30,reviewed,us,us
 2025-11-10T18:09:27.184Z,32.035,-101.634,9.7901,1.1,ml,16,89,0.2,0.6,tx,tx2025wdykhc,2025-11-10T18:12:12.309Z,"17 km SE of Stanton, Texas",earthquake,0,8.5222034454346,0.3,13,automatic,tx,tx
-2025-11-10T18:03:24.920Z,37.758666992188,-121.94100189209,8.4300003051758,2.62,md,43,47,0.02894,0.05,nc,nc75261581,2025-11-10T18:44:12.020Z,"4 km SE of San Ramon, CA",earthquake,0.14,0.360000014,0.1,49,automatic,nc,nc
+2025-11-10T18:03:24.920Z,37.758666992188,-121.94100189209,8.4300003051758,2.62,md,43,47,0.02894,0.05,nc,nc75261581,2025-11-10T18:54:25.528Z,"4 km SE of San Ramon, CA",earthquake,0.14,0.360000014,0.1,49,automatic,nc,nc
 2025-11-10T17:37:25.892Z,10.6085,-42.6487,10,4.9,mb,74,34,11.306,0.73,us,us6000rmmu,2025-11-10T18:06:04.040Z,"northern Mid-Atlantic Ridge",earthquake,10.45,1.856,0.057,96,reviewed,us,us
 2025-11-10T17:24:43.500Z,44.795333333333,-110.84983333333,4.8,1.36,ml,17,108,0.007019,0.18,uu,uu80121871,2025-11-10T18:16:47.850Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.32,0.4,0.34750688295745,3,reviewed,uu,uu
 2025-11-10T16:57:18.390Z,44.794166666667,-110.8475,4.95,1.16,ml,18,108,0.006215,0.19,uu,uu80121866,2025-11-10T18:05:14.610Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.28,0.38,0.49811271625925,4,reviewed,uu,uu
@@ -34,7 +34,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T13:00:23.525Z,64.4634,-147.9281,13.6,0.9,ml,,,,0.27,ak,ak025efihnqo,2025-11-10T13:02:36.924Z,"39 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-10T12:58:12.860Z,33.8998333,-116.827,14.53,0.73,ml,35,59,0.07052,0.14,ci,ci40483298,2025-11-10T13:01:38.799Z,"4 km WSW of Cabazon, CA",earthquake,0.16,0.29,0.198,22,automatic,ci,ci
 2025-11-10T12:51:15.895Z,59.8885,-151.5085,58.2,1.5,ml,,,,0.16,ak,ak025efi752d,2025-11-10T12:53:11.645Z,"10 km NE of Nikolaevsk, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-11-10T12:50:41.984Z,61.3026,-152.0656,44.4,0.8,ml,,,,1.13,ak,ak025efi6yz0,2025-11-10T12:53:01.686Z,"55 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-10T12:47:48.580Z,33.611,-116.8066667,14.91,0.85,ml,46,29,0.03921,0.16,ci,ci40483290,2025-11-10T14:13:12.560Z,"14 km WNW of Anza, CA",earthquake,0.15,0.3,0.177,26,reviewed,ci,ci
 2025-11-10T12:38:22.053Z,32.773,-100.627,5.8838,1.6,ml,23,53,0,0.2,tx,tx2025wdnkzi,2025-11-10T14:48:38.791Z,"17 km WSW of Rotan, Texas",earthquake,0.85475566370125,1.8423183167728,0.2,12,reviewed,tx,tx
 2025-11-10T12:29:44.300Z,19.163333892822,-155.49833679199,30.680000305176,1.83,md,28,157,0.03514,0.129999995,hv,hv74826787,2025-11-10T12:34:00.210Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.18616325922945,18,automatic,hv,hv
@@ -66,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T09:10:20.930Z,-37.6159,-69.9249,212.348,4.9,mb,67,100,2.309,0.74,us,us6000rmka,2025-11-10T16:59:26.298Z,"40 km SE of Chos Malal, Argentina",earthquake,8.87,7.35,0.069,65,reviewed,us,us
 2025-11-10T09:08:53.760Z,46.202166666667,-122.18783333333,3.97,0.23,ml,15,100,0.002549,0.1,uw,uw62203747,2025-11-10T17:37:39.180Z,"38 km NNE of Amboy, Washington",earthquake,0.34,0.51,0.046887669644379,6,reviewed,uw,uw
 2025-11-10T08:51:11.780Z,46.201833333333,-122.31333333333,11.72,0.21,ml,10,81,0.03239,0.12,uw,uw62203742,2025-11-10T17:46:41.290Z,"34 km NNE of Amboy, Washington",earthquake,0.46,0.73,0.061940758862394,3,reviewed,uw,uw
-2025-11-10T08:46:16.330Z,33.1898333,-115.5925,3.41,1.14,ml,32,44,0.02299,0.18,ci,ci40483242,2025-11-10T08:49:45.957Z,"9 km SW of Niland, CA",earthquake,0.2,0.14,0.206,16,automatic,ci,ci
+2025-11-10T08:46:16.360Z,33.1921667,-115.5988333,3.41,1.11,ml,27,88,0.02033,0.18,ci,ci40483242,2025-11-10T18:49:12.787Z,"9 km SW of Niland, CA",earthquake,0.27,0.18,0.081,9,reviewed,ci,ci
 2025-11-10T08:20:14.995Z,58.5704,-153.7513,0,2.1,ml,,,,0.66,ak,ak025effmrdn,2025-11-10T08:22:26.702Z,"75 km NW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-10T07:50:42.268Z,62.401,-151.2899,89.1,2,ml,,,,0.49,ak,ak025eff7thk,2025-11-10T07:53:17.169Z,"29 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-10T07:46:09.176Z,58.5139,-154.6867,4.4,1.7,ml,,,,0.34,ak,ak025eff6vhg,2025-11-10T07:48:39.544Z,"103 km S of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -93,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-10T06:18:41.059Z,39.3126,143.5042,23.792,4.8,mb,72,114,2.384,1.25,us,us6000rmju,2025-11-10T07:04:10.040Z,"134 km E of Yamada, Japan",earthquake,8.22,6.069,0.065,73,reviewed,us,us
 2025-11-10T05:58:10.870Z,36.292667388916,-120.9178314209,4.8699998855591,1.4,md,6,162,0.04023,0.02,nc,nc75261451,2025-11-10T07:37:19.632Z,"20 km NNE of San Lucas, CA",earthquake,0.51,1.02999997,0.43,6,automatic,nc,nc
 2025-11-10T05:51:24.134Z,61.2073,-149.1764,34.5,1.2,ml,,,,0.55,ak,ak025efe14gt,2025-11-10T05:54:12.911Z,"24 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-10T05:49:36.390Z,33.0013333,-116.336,10.09,0.54,ml,31,77,0.05407,0.2,ci,ci40483210,2025-11-10T05:52:59.799Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.25,0.48,0.092,8,automatic,ci,ci
+2025-11-10T05:49:36.390Z,32.9993333,-116.3335,10.15,0.55,ml,31,91,0.05129,0.19,ci,ci40483210,2025-11-10T18:53:49.083Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.27,0.45,0.119,7,reviewed,ci,ci
 2025-11-10T05:42:26.891Z,61.3403,-152.388,0.3,0.8,ml,,,,0.25,ak,ak025efdz78h,2025-11-10T05:44:02.120Z,"73 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-10T05:38:05.470Z,33.0271667,-116.2926667,7.19,0.45,ml,24,56,0.07293,0.16,ci,ci40483202,2025-11-10T17:30:14.452Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.25,0.51,0.189,4,reviewed,ci,ci
 2025-11-10T05:33:19.560Z,39.76233291626,-120.66432952881,-0.56999999284744,2.44,md,13,112,0.2568,0.13,nc,nc75261446,2025-11-10T07:12:20.460Z,"3 km SE of Johnsville, CA",earthquake,0.55,10.1999998,0.07,6,automatic,nc,nc
@@ -207,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-09T19:09:31.190Z,44.7995,-110.84366666667,4.87,0.44,md,13,109,0.01218,0.12,uu,uu80121771,2025-11-10T14:22:27.240Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.48,0.58,0.14761311672521,8,reviewed,uu,uu
 2025-11-09T19:02:12.990Z,37.759334564209,-121.95466613769,9.1199998855591,1.05,md,6,127,0.03305,0.05,nc,nc75261076,2025-11-09T20:04:56.114Z,"3 km SE of San Ramon, CA",earthquake,0.39,1.19000006,0.19,6,automatic,nc,nc
 2025-11-09T18:55:50.790Z,37.761501312256,-121.94233703613,6.539999961853,1.36,md,9,82,0.02658,0.03,nc,nc75261061,2025-11-09T20:07:17.025Z,"4 km ESE of San Ramon, CA",earthquake,0.32,0.709999979,0.1,9,automatic,nc,nc
-2025-11-09T18:55:28.090Z,34.0236667,-117.2531667,16.94,1.42,ml,69,27,0.07914,0.17,ci,ci40483010,2025-11-09T19:06:00.330Z,"3 km SSE of Loma Linda, CA",earthquake,0.15,0.3,0.278,27,automatic,ci,ci
