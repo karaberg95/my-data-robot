@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T20:21:34.940Z,33.6821667,-116.0188333,10.22,2.51,ml,71,38,0.03607,0.19,ci,ci40484482,2025-11-12T20:32:18.620Z,"12 km ENE of Thermal, CA",earthquake,0.14,0.36,0.158,26,reviewed,ci,ci
+2025-11-12T20:12:26.590Z,38.827167510986,-122.81533050537,2.0699999332428,0.45,md,7,186,0.005572,0.01,nc,nc75262531,2025-11-12T20:32:19.559Z,"8 km NW of The Geysers, CA",earthquake,0.69,1.26999998,0.19,8,automatic,nc,nc
 2025-11-12T19:55:27.449Z,61.4112,-150.0861,35.3,1.6,ml,,,,0.96,ak,ak025eixgr1k,2025-11-12T19:57:29.029Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,18.6,,,automatic,ak,ak
 2025-11-12T19:32:09.784Z,61.2149,-152.1011,106.6,0.8,ml,,,,0.33,ak,ak025eixbnrk,2025-11-12T19:40:54.603Z,"54 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-11-12T19:27:22.597Z,67.0657,-155.0678,0,2.9,ml,,,,0.75,ak,ak025eixaqmd,2025-11-12T19:31:16.494Z,"81 km ENE of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T15:18:22.940Z,33.0285,-116.2888333,6.89,0.47,ml,21,63,0.0747,0.17,ci,ci40484274,2025-11-12T16:50:56.221Z,"19 km SW of Ocotillo Wells, CA",earthquake,0.27,0.62,0.169,7,reviewed,ci,ci
 2025-11-12T15:18:14.412Z,58.8019,-151.7999,34.9,2.1,ml,,,,1.05,ak,ak025eiuv24h,2025-11-12T15:20:31.117Z,"61 km S of Port Graham, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2025-11-12T15:15:49.920Z,34.0076667,-116.7635,17.91,1.21,ml,34,56,0.04587,0.14,ci,ci40484266,2025-11-12T16:39:05.373Z,"10 km NNE of Cabazon, CA",earthquake,0.18,0.41,0.243,27,reviewed,ci,ci
-2025-11-12T15:11:46.334Z,32.007,-103.796,7.8815,1.3,ml,21,76,0,0.1,tx,tx2025whjyyd,2025-11-12T15:45:23.876Z,"New Mexico",earthquake,0.52405928113031,0.58054339800563,0.2,12,reviewed,tx,tx
+2025-11-12T15:11:46.334Z,32.007,-103.796,7.8815,1.3,ml,21,76,0,0.1,tx,tx2025whjyyd,2025-11-12T15:45:23.876Z,"35 km SE of Malaga, New Mexico",earthquake,0.52405928113031,0.58054339800563,0.2,12,reviewed,tx,tx
 2025-11-12T15:08:11.850Z,54.680833333333,-164.04766666667,4.64,1.32,ml,6,233,0.04102,0.32,av,av93884191,2025-11-12T20:01:29.880Z,"45 km WSW of False Pass, Alaska",earthquake,1.55,2.34,0.48798941124014,6,reviewed,av,av
 2025-11-12T14:54:18.370Z,38.829666137695,-122.81266784668,2,1.05,md,18,45,0.006582,0.01,nc,nc75262421,2025-11-12T15:17:20.407Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.15,18,automatic,nc,nc
 2025-11-12T14:46:28.030Z,35.999332427979,-120.56116485596,1.0700000524521,1.42,md,13,85,0.02231,0.09,nc,nc75262416,2025-11-12T16:47:19.018Z,"16 km NW of Parkfield, CA",earthquake,0.31,0.649999976,0.09,3,automatic,nc,nc
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T20:45:12.376Z,31.667,-104.329,6.0999,1.9,ml,38,68,0.1,0.3,tx,tx2025wfzhkc,2025-11-11T20:58:53.587Z,"56 km S of Whites City, New Mexico",earthquake,0.6604912875931,0.59759368177966,0.1,25,reviewed,tx,tx
 2025-11-11T20:42:59.940Z,38.787998199463,-122.74449920654,1.5199999809265,0.76,md,11,86,0.007715,0.02,nc,nc75262101,2025-11-11T22:12:19.493Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.699999988,0.2,11,automatic,nc,nc
 2025-11-11T20:39:56.191Z,31.613,-104.186,5.946,1.5,ml,30,66,0.1,0.2,tx,tx2025wfzcvs,2025-11-11T21:07:48.663Z,"49 km NW of Toyah, Texas",earthquake,0.60791231687588,1.0481857052663,0.1,18,reviewed,tx,tx
-2025-11-11T20:16:33.600Z,34.1335,-117.0623333,7.83,1.57,ml,68,24,0.04017,0.16,ci,ci40483866,2025-11-11T21:38:56.460Z,"9 km SSE of Running Springs, CA",earthquake,0.12,0.3,0.167,21,reviewed,ci,ci
