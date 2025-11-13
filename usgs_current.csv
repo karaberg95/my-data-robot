@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-13T04:37:37.700Z,39.247333526611,-123.46866607666,2.4500000476837,1.75,md,12,69,0.03647,0.08,nc,nc75262676,2025-11-13T04:39:13.579Z,"20 km SSW of Willits, CA",earthquake,0.31,1.24000001,0.05,9,automatic,nc,nc
+2025-11-13T05:21:48.206Z,60.1027,-151.5085,45.7,1.5,ml,,,,0.53,ak,ak025ekcgsbo,2025-11-13T05:23:40.898Z,"10 km ENE of Ninilchik, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2025-11-13T05:12:38.280Z,38.799167633057,-122.81349945068,3.5099999904633,1.04,md,8,100,0.01355,0.01,nc,nc75262691,2025-11-13T05:14:14.017Z,"6 km WNW of The Geysers, CA",earthquake,0.51,1.58000004,0.31,10,automatic,nc,nc
+2025-11-13T04:37:37.700Z,39.247333526611,-123.46866607666,2.4500000476837,1.75,md,12,69,0.03647,0.08,nc,nc75262676,2025-11-13T05:12:19.109Z,"20 km SSW of Willits, CA",earthquake,0.31,1.24000001,0.05,9,automatic,nc,nc
 2025-11-13T04:28:24.930Z,38.822166442871,-122.84533691406,1.960000038147,1.08,md,11,105,0.008107,0.02,nc,nc75262666,2025-11-13T04:47:19.928Z,"9 km WNW of The Geysers, CA",earthquake,0.42,0.639999986,0.15,12,automatic,nc,nc
 2025-11-13T03:58:03.120Z,36.00016784668,-120.55966949463,2.4700000286102,0.44,md,8,180,0.02085,0.03,nc,nc75262656,2025-11-13T04:37:17.985Z,"16 km NW of Parkfield, CA",earthquake,0.8,1.34000003,0.34,2,automatic,nc,nc
 2025-11-13T03:37:27.650Z,37.593166351318,-122.45449829102,8.329999923706,1.6,md,13,80,0.02945,0.02,nc,nc75262651,2025-11-13T04:12:18.693Z,"4 km SE of Pacifica, CA",earthquake,0.39,0.620000005,0.16,12,automatic,nc,nc
@@ -224,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T05:30:56.440Z,19.348,-155.11533333333,6.15,2.47,ml,34,117,0.03789,0.12,hv,hv74827692,2025-11-12T20:36:17.050Z,"13 km S of Fern Forest, Hawaii",earthquake,0.38,0.67,0.12212542206833,28,reviewed,hv,hv
 2025-11-12T05:26:00.160Z,44.794166666667,-110.84583333333,4.99,2.02,ml,24,120,0.006716,0.14,uu,uu80122001,2025-11-12T14:43:56.640Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.24,0.37,0.13697638180864,5,reviewed,uu,uu
 2025-11-12T05:25:38.562Z,61.0743,-150.7153,4.3,3.7,ml,,,,0.76,ak,ak025eioy9xw,2025-11-13T04:33:59.817Z,"16 km N of Point Possession, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2025-11-12T05:17:34.037Z,62.3633,-150.9037,21.6,1.1,ml,,,,0.42,ak,ak025eiowjvf,2025-11-12T05:19:40.556Z,"16 km SSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-12T05:05:16.120Z,38.821834564209,-122.80516815185,2.3699998855591,0.52,md,6,95,0.01585,0.01,nc,nc75262226,2025-11-12T05:37:16.460Z,"7 km NW of The Geysers, CA",earthquake,1.15,5.9000001,0.29,8,automatic,nc,nc
-2025-11-12T05:01:50.980Z,33.4591667,-116.4393333,2.44,0.76,ml,44,75,0.1407,0.2,ci,ci40484066,2025-11-12T23:56:44.980Z,"23 km NNW of Borrego Springs, CA",earthquake,0.21,0.79,0.084,18,reviewed,ci,ci
