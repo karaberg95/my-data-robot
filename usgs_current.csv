@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T18:52:31.640Z,19.173500061035,-155.49716186523,32.090000152588,1.86,md,35,150,0.0377,0.150000006,hv,hv74832887,2025-11-17T18:56:14.160Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.87,0.74000001,0.19722848825756,14,automatic,hv,hv
 2025-11-17T18:43:44.530Z,35.3306667,-118.64,3.64,1.38,ml,25,92,0.1071,0.2,ci,ci40486370,2025-11-17T18:47:06.341Z,"22 km NE of Arvin, CA",earthquake,0.24,0.96,0.249,32,automatic,ci,ci
 2025-11-17T18:39:56.782Z,31.726,-101.691,9.1064,1.4,ml,9,81,0.1,0.1,tx,tx2025wqvmmi,2025-11-17T19:25:58.188Z,"25 km SW of Garden City, Texas",earthquake,0.88043045359621,1.3872769705796,0.2,12,reviewed,tx,tx
+2025-11-17T18:30:20.638Z,8.8413,-83.9849,10,4.7,mb,52,142,0.895,0.75,us,us6000rntr,2025-11-17T19:53:12.040Z,"52 km WSW of Puerto Cortés, Costa Rica",earthquake,6.85,1.888,0.082,45,reviewed,us,us
 2025-11-17T18:27:20.284Z,31.715,-101.685,1.0127,1.7,ml,22,62,0.1,0.7,tx,tx2025wqvbvx,2025-11-17T18:31:25.272Z,"25 km SW of Garden City, Texas",earthquake,0,1.2947233915329,0.2,13,automatic,tx,tx
 2025-11-17T18:24:16.626Z,60.6189,-151.1724,55.5,2,ml,,,,0.43,ak,ak025er6ddvi,2025-11-17T18:25:57.866Z,"8 km E of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-11-17T18:20:20.260Z,32.9905,-116.2953333,5.56,0.84,ml,30,55,0.03643,0.2,ci,ci40486346,2025-11-17T18:23:50.201Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.26,0.61,0.129,11,automatic,ci,ci
