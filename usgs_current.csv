@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-17T17:52:35.010Z,34.8493333,-118.9011667,11.49,1.5,ml,32,65,0.04988,0.19,ci,ci40486306,2025-11-17T17:56:09.025Z,"3 km WNW of Lebec, CA",earthquake,0.22,0.46,0.276,27,automatic,ci,ci
 2025-11-17T17:39:53.037Z,62.2194,-150.6436,42.1,2.2,ml,,,,0.67,ak,ak025er5v8s1,2025-11-17T17:52:07.070Z,"23 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-17T17:34:11.707Z,31.639,-104.398,4.0303,2.3,ml,34,78,0,0.3,tx,tx2025wqthwc,2025-11-17T17:37:52.702Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0988001823425,0.1,21,automatic,tx,tx
-2025-11-17T17:23:03.682Z,12.1277,-86.4514,128.024,5.3,mww,66,126,0.793,1.18,us,us6000rnrz,2025-11-17T17:50:42.692Z,"12 km WSW of Ciudad Sandino, Nicaragua",earthquake,7.91,5.336,0.056,31,reviewed,us,us
+2025-11-17T17:23:03.682Z,12.1277,-86.4514,128.024,5.3,mww,66,126,0.793,1.18,us,us6000rnrz,2025-11-17T17:56:04.457Z,"12 km WSW of Ciudad Sandino, Nicaragua",earthquake,7.91,5.336,0.056,31,reviewed,us,us
 2025-11-17T17:00:46.630Z,38.823833465576,-122.84216308594,1.8500000238419,0.68,md,11,91,0.005618,0.01,nc,nc75264806,2025-11-17T17:17:22.219Z,"9 km NW of The Geysers, CA",earthquake,0.33,0.709999979,0.44,11,automatic,nc,nc
 2025-11-17T16:56:01.370Z,33.047,-116.4373333,6.82,0.44,ml,24,83,0.03023,0.19,ci,ci40486250,2025-11-17T17:46:54.765Z,"16 km ESE of Julian, CA",earthquake,0.26,0.52,0.087,7,reviewed,ci,ci
 2025-11-17T16:55:54.955Z,59.8206,-153.1889,109.9,1.7,ml,,,,0.45,ak,ak025er5d8tj,2025-11-17T16:58:22.027Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
