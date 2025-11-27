@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-27T08:54:36.945Z,31.637,-104.277,3.7734,1.7,ml,37,69,0,0.3,tx,tx2025xiljdf,2025-11-27T08:57:56.267Z,"58 km NW of Toyah, Texas",earthquake,0,0.98347091674805,0.2,25,automatic,tx,tx
 2025-11-27T08:34:17.730Z,32.13,-101.493,2.9287,1.9,ml,63,68,0.1,0.4,tx,tx2025xikrpw,2025-11-27T08:38:05.058Z,"12 km W of Forsan, Texas",earthquake,0,0.76835191249847,0.1,41,automatic,tx,tx
 2025-11-27T08:29:47.810Z,38.841331481934,-122.81099700928,2.0299999713898,0.72,md,12,63,0.01639,0.01,nc,nc75269916,2025-11-27T08:32:33.286Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.860000014,0.07,12,automatic,nc,nc
 2025-11-27T07:53:16.650Z,38.770500183105,-122.72750091553,1.2300000190735,1.03,md,10,71,0.00913,0.02,nc,nc75269911,2025-11-27T07:55:57.989Z,"3 km ESE of The Geysers, CA",earthquake,0.28,0.5,0.37,8,automatic,nc,nc
