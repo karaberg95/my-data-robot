@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-04T11:45:05.530Z,19.136833190918,-155.38333129883,30.930000305176,1.92,md,43,182,0.07674,0.140000001,hv,hv74845232,2025-12-04T11:48:52.930Z,"12 km SE of Pāhala, Hawaii",earthquake,0.71,0.660000026,0.077724032228001,17,automatic,hv,hv
 2025-12-04T11:29:34.980Z,38.798000335693,-122.81083679199,3.2599999904633,0.8,md,12,77,0.01141,0.02,nc,nc75274236,2025-12-04T11:31:11.259Z,"5 km WNW of The Geysers, CA",earthquake,0.41,1.04999995,0.14,13,automatic,nc,nc
 2025-12-04T11:16:19.697Z,32.14,-101.992,2.8673,1.7,ml,52,40,0,0.6,tx,tx2025xvmdfw,2025-12-04T11:20:18.101Z,"17 km NNE of Midland, Texas",earthquake,0,0.69261598587036,0.2,31,automatic,tx,tx
 2025-12-04T11:03:42.590Z,39.845165252685,-122.88366699219,-0.79000002145767,2.13,md,19,43,0.1787,0.24,nc,nc75274231,2025-12-04T11:27:19.307Z,"25 km NNW of Alder Springs, CA",earthquake,0.5,15.79,0.19,15,automatic,nc,nc
