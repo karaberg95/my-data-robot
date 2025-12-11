@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-12-11T23:43:15.890Z,33.260665893555,-116.02166748047,9.6499996185303,0.95364069707073,ml,19,94,0.09442,0.159999996,ci,ci41349920,2025-12-11T23:45:20.907Z,"7 km SW of Salton City, CA",earthquake,0.34,1.10000002,0.15233983099461,4,automatic,ci,ci
+2025-12-11T23:43:16.000Z,33.257333333333,-116.01916666667,8.72,0.61,ml,34,83,0.09054,0.22,ci,ci41349920,2025-12-11T23:46:59.063Z,"7 km SW of Salton City, CA",earthquake,0.24,0.85,0.15786747117218,10,automatic,ci,ci
+2025-12-11T23:35:06.030Z,49.495333333333,-123.74516666667,-0.13,1.49,ml,13,150,0.312,0.26,uw,uw62209402,2025-12-11T23:50:17.640Z,"2 km NNE of Sechelt, Canada",explosion,0.63,31.61,0.31497493352181,4,reviewed,uw,uw
 2025-12-11T23:30:29.210Z,41.021499633789,-124.01100158691,12.75,1.78,md,4,260,0.08203,0,nc,nc75278491,2025-12-11T23:32:01.680Z,"8 km ESE of Westhaven-Moonstone, CA",earthquake,5.21,0.870000005,0.13,2,automatic,nc,nc
 2025-12-11T23:16:01.920Z,38.822166442871,-122.80533599853,3.039999961853,1.05,md,14,96,0.003899,0.01,nc,nc75278486,2025-12-11T23:25:36.569Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.939999998,0.29,15,automatic,nc,nc
 2025-12-11T23:14:00.090Z,46.344,-122.819,-0.47,1.1,ml,16,57,0.1103,0.17,uw,uw62209392,2025-12-11T23:30:22.470Z,"10 km NE of Castle Rock, Washington",explosion,0.46,31.61,0.25355499824087,5,reviewed,uw,uw
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-11T00:08:33.390Z,36.012666666667,-118.97383333333,3.82,0.98,ml,14,138,0.09394,0.21,ci,ci41137055,2025-12-11T00:12:17.767Z,"7 km SSE of Porterville, CA",earthquake,0.43,1.49,0.16581527258472,5,automatic,ci,ci
 2025-12-10T23:59:30.941Z,59.917,-153.397,152.7,2.4,ml,52,153,0.1,0.6,ak,ak2025yhlupr,2025-12-11T00:02:50.801Z,"42 km ENE of Pedro Bay, Alaska",earthquake,0,2.9192,0.5,8,automatic,ak,ak
 2025-12-10T23:58:56.980Z,37.750667572021,-121.9323348999,1.1699999570847,1.82,md,6,112,0.1058,0.03,nc,nc75278051,2025-12-11T00:21:46.137Z,"5 km SE of San Ramon, CA",earthquake,0.29,7.19000006,0.06,6,automatic,nc,nc
-2025-12-10T23:52:41.667Z,62.965,-150.765,104,2.5,ml,61,87,0.4,0.7,ak,ak2025yhloma,2025-12-10T23:56:27.772Z,"52 km N of Petersville, Alaska",earthquake,0,2.5959,0.4,25,automatic,ak,ak
-2025-12-10T23:50:28.957Z,60.771,-141.622,13.6,1.5,ml,19,241,0.1,0.9,ak,ak2025yhlmid,2025-12-10T23:52:21.746Z,"101 km SE of McCarthy, Alaska",earthquake,0,2.9869,0.4,5,automatic,ak,ak
