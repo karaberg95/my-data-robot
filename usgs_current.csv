@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-13T14:46:33.000Z,35.942333221435,-117.71216583252,2.2000000476837,1.2949475103858,ml,15,98,0.05044,0.140000001,ci,ci41350952,2025-12-13T14:50:11.885Z,"18 km E of Little Lake, CA",earthquake,0.39,0.360000014,0.12089867144823,5,automatic,ci,ci
 2025-12-13T14:26:04.240Z,17.959,-66.9415,8.76,2.21,md,10,198,0.06136,0.19,pr,pr71502168,2025-12-13T14:38:59.770Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.59,0.96,0.17189229622995,4,reviewed,pr,pr
 2025-12-13T14:18:27.020Z,37.600498199463,-118.79033660889,6.2800002098083,0.96,md,12,229,0.03252,0.02,nc,nc75279131,2025-12-13T14:20:04.843Z,"11 km WNW of Toms Place, CA",earthquake,1.23,0.970000029,0.11,11,automatic,nc,nc
 2025-12-13T14:04:33.795Z,-58.9067,-25.7707,74.821,5,mb,33,87,18.753,0.7,us,us6000runq,2025-12-13T14:18:46.040Z,"South Sandwich Islands region",earthquake,13.94,8.377,0.068,72,reviewed,us,us
@@ -8,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-13T13:24:31.050Z,38.927833557129,-123.02400207519,4.3299999237061,1.67,md,14,132,0.07562,0.04,nc,nc75279121,2025-12-13T13:26:09.382Z,"14 km N of Cloverdale, CA",earthquake,0.38,1.38,0.09,13,automatic,nc,nc
 2025-12-13T13:20:20.690Z,33.193668365479,-116.38966369629,12.510000228882,1.3875051910893,ml,53,49,0.07782,0.230000004,ci,ci41350928,2025-12-13T13:31:05.030Z,"7 km S of Borrego Springs, CA",earthquake,0.26,0.860000014,0.28887417912483,8,automatic,ci,ci
 2025-12-13T13:12:16.693Z,59.836,-153.281,141.2,2.1,ml,16,168,0.1,0.4,ak,ak2025ymdngd,2025-12-13T13:15:53.611Z,"46 km E of Pedro Bay, Alaska",earthquake,0,5.7668,0.6,4,automatic,ak,ak
+2025-12-13T13:09:31.286Z,-17.2242,-178.7745,556.21,4.3,mb,21,132,1.925,0.47,us,us6000runk,2025-12-13T14:52:16.040Z,"216 km ESE of Labasa, Fiji",earthquake,13.67,10.916,0.129,17,reviewed,us,us
 2025-12-13T13:08:28.042Z,62.049,-149.306,4.2,3.5,ml,41,68,0.3,0.7,ak,ak2025ymdjyz,2025-12-13T13:24:30.317Z,"31 km ESE of Susitna North, Alaska",earthquake,0,1.957,0.7,4,automatic,ak,ak
 2025-12-13T13:07:55.240Z,19.420000076294,-155.39616394043,6.460000038147,1.83,md,46,44,0.07342,0.129999995,hv,hv74851622,2025-12-13T13:11:26.290Z,"17 km W of Volcano, Hawaii",earthquake,0.27,0.720000029,0.22820616319013,14,automatic,hv,hv
 2025-12-13T13:06:57.952Z,31.597,-104.279,4.5705,1.6,ml,23,74,0.1,0.3,tx,tx2025ymdiae,2025-12-13T14:00:31.970Z,"55 km NW of Toyah, Texas",earthquake,0,1.1841965913773,0.2,19,automatic,tx,tx
@@ -150,6 +152,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-12T14:59:57.177Z,56.008,-158.558,73.8,1.8,ml,22,112,0.4,0.5,ak,ak2025ykljdz,2025-12-12T15:02:47.151Z,"30 km SSE of Chignik Lake, Alaska",earthquake,0,4.4144,0.3,6,automatic,ak,ak
 2025-12-12T14:59:27.840Z,38.8313331604,-122.81983184815,2,0.76,md,11,77,0.011,0.01,nc,nc75278746,2025-12-12T15:01:05.578Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.790000021,0.17,11,automatic,nc,nc
 2025-12-12T14:59:09.693Z,62.966,-150.812,113.4,2.4,ml,43,49,0.4,0.4,ak,ak2025yklimb,2025-12-12T15:00:55.075Z,"52 km N of Petersville, Alaska",earthquake,0,3.1781,0.4,4,automatic,ak,ak
-2025-12-12T14:49:56.888Z,-3.034,130.2623,32.819,4.6,mb,40,47,1.521,0.7,us,us6000rufa,2025-12-12T15:14:24.040Z,"146 km ENE of Masohi, Indonesia",earthquake,5.91,5.037,0.088,39,reviewed,us,us
-2025-12-12T14:49:14.532Z,60.506,-140.0532,5,2.7,ml,13,210,0.423,0.85,us,us6000ruf9,2025-12-12T15:02:24.040Z,"108 km N of Yakutat, Alaska",earthquake,7.53,2.012,0.052,48,reviewed,us,us
-2025-12-12T14:47:19.112Z,31.657,-104.334,6.7151,2,ml,36,69,0.1,0.2,tx,tx2025ykkwep,2025-12-12T15:04:02.403Z,"57 km S of Whites City, New Mexico",earthquake,0.65739767609333,0.7471552004198,0.2,25,reviewed,tx,tx
