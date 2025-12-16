@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-16T11:43:35.435Z,60.17,-151.869,79.8,3.8,ml,68,37,0.5,0.6,ak,ak2025yrntlw,2025-12-16T11:45:13.928Z,"17 km NW of Ninilchik, Alaska",earthquake,0,2.3702,0.4,4,automatic,ak,ak
 2025-12-16T11:20:34.079Z,63.019,-151.546,5,1.4,ml,17,69,0.3,0.5,ak,ak2025yrmzqh,2025-12-16T11:22:37.952Z,"58 km S of Denali National Park, Alaska",earthquake,0,,0.3,4,automatic,ak,ak
 2025-12-16T11:04:45.490Z,38.798999786377,-122.81416320801,3.0999999046326,1.08,md,16,81,0.01374,0.02,nc,nc75280736,2025-12-16T11:06:22.791Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.75999999,0.17,17,automatic,nc,nc
 2025-12-16T11:01:04.640Z,38.798168182373,-122.81366729736,3.2400000095367,0.85,md,20,83,0.01285,0.02,nc,nc75280726,2025-12-16T11:02:42.952Z,"5 km WNW of The Geysers, CA",earthquake,0.31,0.600000024,0.21,20,automatic,nc,nc
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-16T10:43:37.730Z,37.50899887085,-118.40883636475,9.7399997711182,1.89,md,8,129,0.06073,0.07,nc,nc75280681,2025-12-16T10:45:12.777Z,"14 km N of Dixon Lane-Meadow Creek, CA",earthquake,0.9,1.62,0.09,5,automatic,nc,nc
 2025-12-16T10:18:32.379Z,32.242,-101.951,2.7198,1.3,ml,39,33,0.1,0.6,tx,tx2025yrkyet,2025-12-16T11:00:23.736Z,"19 km NW of Stanton, Texas",earthquake,0,0.81387519836426,0.2,24,automatic,tx,tx
 2025-12-16T10:16:21.330Z,32.984833333333,-116.293,7.43,0.91,ml,44,41,0.03139,0.2,ci,ci41352768,2025-12-16T10:19:59.495Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.21,0.41,0.19852328025156,19,automatic,ci,ci
-2025-12-16T10:14:01.869Z,31.94,-103.408,3.5893,2.1,ml,30,219,0.2,0.5,tx,tx2025yrkuhr,2025-12-16T11:00:25.735Z,"27 km SW of Jal, New Mexico",earthquake,0,1.1980767250061,0.2,17,automatic,tx,tx
+2025-12-16T10:14:02.105Z,31.944,-103.377,7.7405,2.3,ml,26,49,0,0.2,tx,tx2025yrkuhr,2025-12-16T11:34:08.965Z,"25 km SW of Jal, New Mexico",earthquake,0.60010312749006,0.65026421440876,0.2,13,reviewed,tx,tx
 2025-12-16T10:03:00.853Z,31.546,-104.169,0,1.4,ml,21,72,0,0.8,tx,tx2025yrkjmw,2025-12-16T11:00:30.736Z,"43 km NW of Toyah, Texas",earthquake,0,,0.3,14,automatic,tx,tx
 2025-12-16T10:02:35.804Z,31.92,-103.548,2.1957,1.6,ml,5,171,0.1,0.6,tx,tx2025yrkkjz,2025-12-16T11:00:09.730Z,"24 km NNE of Mentone, Texas",earthquake,0,3.5771610736847,0.2,5,automatic,tx,tx
 2025-12-16T09:57:19.240Z,36.680000305176,-121.35933685303,3.3199999332428,1.52,md,12,60,0.02928,0.17,nc,nc75280676,2025-12-16T09:58:58.418Z,"13 km SSW of Tres Pinos, CA",earthquake,0.51,1.53999996,0.24,10,automatic,nc,nc
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-15T12:03:31.430Z,60.3918,-139.5841,5,2.9,ml,18,97,0.446,0.91,us,us6000ruyy,2025-12-15T15:20:25.040Z,"94 km N of Yakutat, Alaska",earthquake,2.86,1.979,0.041,78,reviewed,us,us
 2025-12-15T11:56:56.910Z,38.860168457031,-122.82350158691,1.4900000095367,0.8,md,7,180,0.005502,0.03,nc,nc75280276,2025-12-15T11:58:30.962Z,"10 km WNW of Cobb, CA",earthquake,0.76,1.65999997,0.14,8,automatic,nc,nc
 2025-12-15T11:47:01.540Z,34.236666666667,-117.89083333333,1.9,1.22,ml,47,39,0.06363,0.17,ci,ci41352128,2025-12-15T13:55:58.657Z,"11 km NNW of Glendora, CA",earthquake,0.14,0.23,0.22020758904766,27,reviewed,ci,ci
-2025-12-15T11:44:54.800Z,38.56816482544,-122.32883453369,-0.17000000178814,1.45,md,10,112,0.08383,0.06,nc,nc75280266,2025-12-15T11:46:30.471Z,"11 km E of Angwin, CA",earthquake,0.44,2.97000003,0.06,10,automatic,nc,nc
-2025-12-15T11:43:13.240Z,38.799167633057,-122.74816894531,1.4800000190735,0.54,md,7,133,0.009136,0.01,nc,nc75280261,2025-12-15T11:44:50.647Z,"3 km NNE of The Geysers, CA",earthquake,0.46,0.689999998,0.25,8,automatic,nc,nc
