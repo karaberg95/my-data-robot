@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-12-18T07:31:42.970Z,34.806666666667,-118.91016666667,15.25,1.47,ml,22,61,0.03492,0.16,ci,ci41141919,2025-12-18T07:35:31.218Z,"4 km ESE of Frazier Park, CA",earthquake,0.27,0.45,0.44327293079851,30,automatic,ci,ci
-2025-12-18T07:27:47.218Z,19.9069,121.2425,40.051,5.5,mww,32,106,2.9,0.78,us,us6000rvmn,2025-12-18T07:46:06.392Z,"96 km SW of Basco, Philippines",earthquake,11.59,9.525,0.073,18,reviewed,us,us
+2025-12-18T07:27:47.218Z,19.9069,121.2425,40.051,5.5,mww,32,106,2.9,0.78,us,us6000rvmn,2025-12-18T07:52:49.946Z,"96 km SW of Basco, Philippines",earthquake,11.59,9.525,0.073,18,reviewed,us,us
 2025-12-18T07:18:46.321Z,61.593,-146.196,13.4,2.3,ml,29,60,0.5,0.9,ak,ak2025yuwlam,2025-12-18T07:20:46.026Z,"52 km N of Valdez, Alaska",earthquake,0,1.8575,0.3,4,automatic,ak,ak
 2025-12-18T07:14:12.150Z,37.001335144043,-121.46649932861,5.0199999809265,1.5,md,15,118,0.028,0.12,nc,nc75281916,2025-12-18T07:15:50.304Z,"9 km E of Gilroy, CA",earthquake,0.44,0.810000002,0.12,11,automatic,nc,nc
 2025-12-18T07:12:34.790Z,38.828998565674,-122.81950378418,1.1000000238419,0.4,md,7,133,0.00925,0.02,nc,nc75281911,2025-12-18T07:14:10.194Z,"8 km NW of The Geysers, CA",earthquake,0.4,0.99000001,0.16,6,automatic,nc,nc
