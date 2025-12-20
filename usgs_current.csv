@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-12-20T21:36:43.403Z,63.163,-147.724,11.5,1.5,ml,23,49,0.2,0.6,ak,ak2025yzqick,2025-12-20T21:38:27.487Z,"66 km ESE of Cantwell, Alaska",earthquake,0,1.892,0,4,automatic,ak,ak
+2025-12-20T21:23:42.890Z,17.9195,-66.966333333333,13.53,2.47,md,12,233,0.08924,0.14,pr,pr71502713,2025-12-20T21:41:54.670Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.67,0.3,0.12356860141504,4,reviewed,pr,pr
 2025-12-20T21:18:26.080Z,38.865001678467,-122.77100372315,9.4499998092651,0.51,md,7,220,0.02276,0.02,nc,nc75283606,2025-12-20T21:19:59.969Z,"6 km NW of Cobb, CA",earthquake,2.71,2.23000002,0.29,4,automatic,nc,nc
 2025-12-20T20:57:31.374Z,59.636,-152.857,95.7,2.6,ml,117,83,0.2,0.6,ak,ak2025yzpahz,2025-12-20T21:00:31.302Z,"59 km WSW of Anchor Point, Alaska",earthquake,0,1.5979,0.2,18,automatic,ak,ak
 2025-12-20T20:46:06.820Z,38.822334289551,-122.84466552734,2.1900000572205,1.48,md,23,104,0.007567,0.03,nc,nc75283581,2025-12-20T20:47:43.617Z,"9 km WNW of The Geysers, CA",earthquake,0.25,0.340000004,0.2,25,automatic,nc,nc
