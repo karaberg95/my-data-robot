@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-22T20:47:48.560Z,17.9335,-66.835166666667,10.45,1.95,md,6,222,0.04991,0.13,pr,pr71502888,2025-12-22T20:53:35.450Z,"6 km SSW of Indios, Puerto Rico",earthquake,1.38,0.67,0.16679195089766,5,reviewed,pr,pr
 2025-12-22T20:42:27.740Z,34.522666666667,-118.92816666667,-0.37,1.41,ml,33,70,0.04428,0.24,ci,ci41145599,2025-12-22T20:46:13.706Z,"14 km N of Fillmore, CA",earthquake,0.25,0.58,0.23173394058902,31,automatic,ci,ci
 2025-12-22T20:38:18.490Z,37.257499694824,-118.36183166504,14.319999694824,2.61,md,10,86,0.06838,0.07,nc,nc75284916,2025-12-22T20:41:05.887Z,"3 km SE of Wilkerson, CA",earthquake,0.63,1.23000002,0.31,5,automatic,nc,nc
 2025-12-22T20:34:18.506Z,64.492,-146.917,0.4,1.5,ml,19,45,0.1,0.6,ak,ak2025zdfsbu,2025-12-22T20:35:35.640Z,"3 km SSW of Salcha, Alaska",earthquake,0,4.8696,0.6,4,automatic,ak,ak
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-21T21:26:13.916Z,60.5759,-139.665,5,3.4,ml,42,68,0.563,0.88,us,us6000rwdr,2025-12-21T22:21:58.040Z,"114 km N of Yakutat, Alaska",earthquake,3.67,2.002,0.036,104,reviewed,us,us
 2025-12-21T21:22:01.060Z,38.846168518066,-122.81999969482,-0.25999999046326,1.11,md,8,229,0.02584,0.36,nc,nc75284331,2025-12-21T21:23:38.458Z,"9 km WNW of Cobb, CA",earthquake,3.42,4.75,0.32,8,automatic,nc,nc
 2025-12-21T21:16:46.049Z,41.2976,78.8088,10,4.5,mb,72,88,0.322,1.06,us,us6000rwdq,2025-12-21T22:10:02.040Z,"117 km WNW of Aykol, China",earthquake,6.53,1.88,0.079,47,reviewed,us,us
-2025-12-21T20:54:33.070Z,34.4045,-118.41916666667,9.45,1.97,ml,98,19,0.04774,0.21,ci,ci41144775,2025-12-21T21:17:55.550Z,"8 km E of Santa Clarita, CA",earthquake,0.13,0.35,0.11488072361217,26,reviewed,ci,ci
