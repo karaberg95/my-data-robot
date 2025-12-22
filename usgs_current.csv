@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-22T11:24:31.860Z,34.152333333333,-118.36533333333,15.8,1.24,ml,25,77,0.03918,0.12,ci,ci41145087,2025-12-22T11:28:11.203Z,"2 km NW of Universal City, CA",earthquake,0.23,0.33,0.3846854569397,27,automatic,ci,ci
+2025-12-22T11:21:57.460Z,33.073833333333,-116.47683333333,13.33,0.4,ml,31,72,0.1016,0.16,ci,ci41145079,2025-12-22T11:25:38.848Z,"12 km E of Julian, CA",earthquake,0.21,0.53,0.062711132869715,8,automatic,ci,ci
 2025-12-22T11:07:05.377Z,62.961,-151.024,116.8,2.8,ml,59,47,0.5,0.5,ak,ak2025zcmxhc,2025-12-22T11:08:55.401Z,"53 km NNW of Petersville, Alaska",earthquake,0,2.6672,0.3,4,automatic,ak,ak
 2025-12-22T11:03:38.540Z,34.164166666667,-118.1535,6.2,0.79,ml,31,64,0.02728,0.14,ci,ci41145071,2025-12-22T11:07:17.313Z,"2 km WNW of Pasadena, CA",earthquake,0.19,0.29,0.17785755244578,25,automatic,ci,ci
 2025-12-22T11:03:35.836Z,61.112,-147.466,5,1.5,ml,7,93,0.3,0.7,ak,ak2025zcmuhc,2025-12-22T11:06:47.391Z,"50 km WNW of Tatitlek, Alaska",earthquake,0,,0.2,4,automatic,ak,ak
