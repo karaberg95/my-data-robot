@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-24T09:47:43.390Z,19.158666610718,-155.51016235352,30.549999237061,2.01,md,18,178,0.04554,0.180000007,hv,hv74859267,2025-12-24T09:51:56.030Z,"5 km SW of Pāhala, Hawaii",earthquake,0.86,0.850000024,0.17369369036007,15,automatic,hv,hv
 2025-12-24T08:58:50.225Z,58.393,-154.621,5.9,1.6,ml,27,97,0.1,0.4,ak,ak2025zgablu,2025-12-24T09:01:37.259Z,"92 km N of Karluk, Alaska",earthquake,0,3.084,0.5,5,automatic,ak,ak
 2025-12-24T08:45:12.020Z,33.096166666667,-116.036,9.66,0.86,ml,34,41,0.0913,0.19,ci,ci41146583,2025-12-24T08:48:53.267Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.2,0.66,0.13490363827915,13,automatic,ci,ci
 2025-12-24T08:42:20.630Z,35.3385,-117.79516666667,5.8,1.11,ml,38,81,0.08213,0.18,ci,ci41146575,2025-12-24T08:46:02.142Z,"15 km WSW of Johannesburg, CA",earthquake,0.18,0.6,0.17016119633887,18,automatic,ci,ci
