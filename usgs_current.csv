@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-25T12:05:25.720Z,33.484666666667,-116.94366666667,4.57,0.37,ml,27,36,0.02712,0.18,ci,ci41147007,2025-12-25T12:09:01.094Z,"9 km WNW of Aguanga, CA",earthquake,0.21,0.41,0.061857596165973,12,automatic,ci,ci
+2025-12-25T12:00:08.883Z,60.372,-152.075,86.7,2,ml,47,50,0.3,0.5,ak,ak2025zibvmq,2025-12-25T12:02:14.225Z,"40 km WNW of Clam Gulch, Alaska",earthquake,0,2.4209,0.5,5,automatic,ak,ak
+2025-12-25T11:59:31.660Z,60.742,-141.695,10.7,1.2,ml,6,240,0,0.3,ak,ak2025zibvcw,2025-12-25T12:02:56.226Z,"101 km SE of McCarthy, Alaska",earthquake,0,11.5948,0.4,4,automatic,ak,ak
 2025-12-25T11:42:20.186Z,61.195,-150.05,19.3,2,ml,25,112,0.1,0.8,ak,ak2025zibght,2025-12-25T11:44:33.135Z,"8 km WSW of Anchorage, Alaska",earthquake,0,2.089,0.3,6,automatic,ak,ak
 2025-12-25T11:22:26.970Z,33.993166666667,-116.797,17.9,0.79,ml,35,89,0.1318,0.18,ci,ci41146999,2025-12-25T11:26:03.906Z,"8 km N of Cabazon, CA",earthquake,0.28,0.62,0.16523061253832,19,automatic,ci,ci
 2025-12-25T10:58:43.640Z,35.695666666667,-117.532,6.61,1.07,ml,22,54,0.09329,0.15,ci,ci41146991,2025-12-25T11:02:24.620Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.74,0.23978559585164,8,automatic,ci,ci
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-25T09:52:31.290Z,37.879333496094,-122.24549865723,9.829999923706,1.04,md,8,73,0.003237,0.02,nc,nc75286036,2025-12-25T11:32:19.930Z,"3 km ENE of Berkeley, CA",earthquake,0.86,0.680000007,0.25,6,automatic,nc,nc
 2025-12-25T09:52:00.241Z,32.149,-101.058,0.1595,2.2,ml,50,103,0.2,0.6,tx,tx2025zhxpfn,2025-12-25T10:00:26.338Z,"23 km S of Westbrook, Texas",earthquake,0,0.98464381694794,0.1,29,automatic,tx,tx
 2025-12-25T09:51:48.200Z,37.875667572021,-122.25050354004,9.4799995422363,2.39,md,49,29,0.00225,0.07,nc,nc75286031,2025-12-25T11:23:00.840Z,"2 km ENE of Berkeley, CA",earthquake,0.15,0.310000002,0.16,43,automatic,nc,nc
-2025-12-25T09:34:49.911Z,60.766,-139.9832,1.452,3.9,mb,40,48,0.504,0.59,us,us7000rkpm,2025-12-25T10:21:33.161Z,"136 km N of Yakutat, Alaska",earthquake,4.91,9.505,0.257,4,reviewed,us,us
+2025-12-25T09:34:49.911Z,60.766,-139.9832,1.452,3.9,mb,40,48,0.504,0.59,us,us7000rkpm,2025-12-25T12:06:42.638Z,"136 km N of Yakutat, Alaska",earthquake,4.91,9.505,0.257,4,reviewed,us,us
 2025-12-25T09:03:13.640Z,62.255,-150.999,75,1.4,ml,22,79,0.3,0.4,ak,ak2025zhvzfb,2025-12-25T09:05:44.204Z,"29 km SSW of Petersville, Alaska",earthquake,0,3.8328,0.3,7,automatic,ak,ak
 2025-12-25T08:56:32.205Z,64.758,-150.999,9.9,1.7,ml,15,68,0.7,1,ak,ak2025zhvtlb,2025-12-25T08:58:33.189Z,"32 km SSW of Manley Hot Springs, Alaska",earthquake,0,2.7523,0.2,4,automatic,ak,ak
 2025-12-25T08:49:27.450Z,33.687833333333,-116.79316666667,16.92,0.75,ml,28,117,0.07264,0.18,ci,ci41146983,2025-12-25T08:53:07.129Z,"9 km SW of Idyllwild, CA",earthquake,0.32,0.49,0.14169559299709,18,automatic,ci,ci
@@ -34,8 +37,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-25T06:30:05.690Z,37.849834442139,-122.24433135986,13.260000228882,1.87,md,13,224,0.02506,0.09,nc,nc75286006,2025-12-25T09:17:21.982Z,"3 km NNW of Piedmont, CA",earthquake,1.38,1.52999997,0.32,5,automatic,nc,nc
 2025-12-25T06:28:49.810Z,38.830333709717,-122.81833648682,1.7699999809265,1.18,md,11,78,0.0149,0.01,nc,nc75286001,2025-12-25T08:52:18.816Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.910000026,0.2,11,automatic,nc,nc
 2025-12-25T06:25:57.544Z,60.6364,-139.9167,2.69,2.5,ml,18,109,0.567,0.74,us,us7000rknw,2025-12-25T06:47:05.040Z,"121 km N of Yakutat, Alaska",earthquake,2.31,11.004,0.056,42,reviewed,us,us
-2025-12-25T06:20:47.256Z,32.126,-101.52,2.6809,1.1,ml,17,72,0.1,0.5,tx,tx2025zhqpfr,2025-12-25T07:00:17.006Z,"14 km SSW of Big Spring, Texas",earthquake,0,1.4831712245941,0.2,12,automatic,tx,tx
-2025-12-25T06:13:28.319Z,32.112,-101.527,1.2819,1.1,ml,16,105,0.1,0.6,tx,tx2025zhqixp,2025-12-25T06:17:09.729Z,"15 km W of Forsan, Texas",earthquake,0,1.5240699052811,0.2,8,automatic,tx,tx
+2025-12-25T06:20:47.174Z,32.119,-101.539,3.2985,1.2,ml,28,70,0,0.4,tx,tx2025zhqpfr,2025-12-25T12:17:22.026Z,"15 km SSW of Big Spring, Texas",earthquake,0,1.1107412576675,0.2,19,automatic,tx,tx
+2025-12-25T06:13:27.633Z,32.122,-101.522,3.7721,1.1,ml,29,72,0,0.4,tx,tx2025zhqixp,2025-12-25T12:16:50.028Z,"14 km W of Forsan, Texas",earthquake,0,1.2210566997528,0.2,22,automatic,tx,tx
 2025-12-25T06:00:15.408Z,60.258,-152.215,99.6,2,ml,61,57,0.3,0.6,ak,ak2025zhpxnn,2025-12-25T06:03:01.706Z,"38 km NW of Ninilchik, Alaska",earthquake,0,2.0563,0.3,16,automatic,ak,ak
 2025-12-25T05:49:56.080Z,33.504166666667,-116.68816666667,12.45,1.22,ml,68,26,0.07245,0.2,ci,ci41146959,2025-12-25T06:00:33.270Z,"6 km SSW of Anza, CA",earthquake,0.14,0.36,0.19490059717405,27,automatic,ci,ci
 2025-12-25T05:41:44.504Z,60.4139,-139.5141,6.692,2.5,ml,19,103,0.487,0.81,us,us7000rkns,2025-12-25T06:43:38.040Z,"97 km N of Yakutat, Alaska",earthquake,2.15,9.316,0.052,48,reviewed,us,us
@@ -181,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-24T12:19:09.563Z,32.411,-101.924,8.9111,2.4,ml,54,44,0.1,0.1,tx,tx2025zggtdm,2025-12-24T13:09:29.730Z,"23 km WSW of Ackerly, Texas",earthquake,0.26611036914718,0.46581796047272,0.2,32,reviewed,tx,tx
 2025-12-24T12:18:18.838Z,-32.4057,-71.3988,45.214,4.2,mb,22,131,0.51,0.53,us,us7000rkk2,2025-12-24T13:36:58.040Z,"16 km WNW of La Ligua, Chile",earthquake,4.28,9.257,0.305,3,reviewed,us,us
 2025-12-24T12:18:06.710Z,51.854166666667,-177.80366666667,8.21,0.41,ml,4,258,0.04051,0.04,av,av93053674,2025-12-24T23:20:36.650Z,"80 km W of Adak, Alaska",earthquake,0.55,0.65,0.23330612714707,4,reviewed,av,av
-2025-12-24T12:17:13.610Z,51.8555,-177.80833333333,8.11,1.33,ml,4,254,0.04144,0.04,av,av93962326,2025-12-24T23:16:35.390Z,"80 km W of Adak, Alaska",earthquake,0.54,0.67,0.22247297344958,4,reviewed,av,av
-2025-12-24T12:12:18.353Z,-18.6761,-175.6667,275.894,4.4,mb,33,149,5.214,0.87,us,us7000rkk5,2025-12-24T12:29:30.040Z,"177 km W of Neiafu, Tonga",earthquake,14.57,9.122,0.098,30,reviewed,us,us
