@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-25T10:54:26.240Z,19.135000228882,-155.36549377441,35.369998931885,1.81,md,13,225,0.09357,0.340000004,hv,hv74860077,2025-12-25T10:57:56.880Z,"14 km ESE of Pāhala, Hawaii",earthquake,2.08,3.1500001,0.18632580005059,18,automatic,hv,hv
 2025-12-25T10:47:21.360Z,19.166666030884,-155.41900634766,41.29999923706,1.79,md,11,212,0.07334,0.0900000036,hv,hv74860057,2025-12-25T10:51:38.860Z,"7 km ESE of Pāhala, Hawaii",earthquake,1.07,1.88999999,0.12170169355979,14,automatic,hv,hv
 2025-12-25T10:44:31.210Z,19.175832748413,-155.44917297363,41.270000457764,1.81,md,10,167,0.02371,0.180000007,hv,hv74860052,2025-12-25T10:48:07.860Z,"4 km SE of Pāhala, Hawaii",earthquake,1.02,1.13999999,0.10265641376292,16,automatic,hv,hv
 2025-12-25T10:32:11.368Z,57.539,-155.919,19.1,1.4,ml,9,254,0.2,0.2,ak,ak2025zhyxwd,2025-12-25T10:37:09.412Z,"87 km W of Karluk, Alaska",earthquake,0,8.496,0.4,4,automatic,ak,ak
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-24T11:19:00.960Z,33.368833333333,-116.76566666667,11.51,0.45,ml,30,41,0.08257,0.13,ci,ci41146655,2025-12-24T17:10:56.438Z,"9 km E of Palomar Observatory, CA",earthquake,0.17,0.51,0.18868445646797,11,reviewed,ci,ci
 2025-12-24T11:17:26.556Z,59.845,-152.787,102.4,1.9,ml,57,76,0.1,0.6,ak,ak2025zgerjb,2025-12-24T11:20:20.651Z,"54 km W of Anchor Point, Alaska",earthquake,0,2.0312,0.8,13,automatic,ak,ak
 2025-12-24T11:12:27.670Z,38.832668304443,-122.81266784668,1.8600000143051,1.77,md,22,60,0.009479,0.02,nc,nc75285636,2025-12-24T12:57:18.724Z,"8 km W of Cobb, CA",earthquake,0.19,0.449999988,0.14,22,automatic,nc,nc
-2025-12-24T10:57:04.439Z,51.4172,-174.9359,41.684,4.8,mb,116,151,0.909,0.59,us,us7000rkjw,2025-12-24T20:51:15.447Z,"100 km SSW of Atka, Alaska",earthquake,8.45,7.432,0.045,155,reviewed,us,us
