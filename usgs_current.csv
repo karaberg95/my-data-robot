@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-26T17:56:58.960Z,33.502998352051,-116.48217010498,14.119999885559,1.0867336138438,ml,18,63,0.1006,0.100000001,ci,ci41147447,2025-12-26T17:59:05.016Z,"19 km ESE of Anza, CA",earthquake,0.41,0.860000014,0.15543714165688,7,automatic,ci,ci
 2025-12-26T17:46:51.939Z,56.811,-155.945,30.9,2.7,ml,30,189,0.9,0.5,ak,ak2025zkjbhp,2025-12-26T17:49:09.148Z,"109 km W of Akhiok, Alaska",earthquake,0,8.3102,0.5,4,automatic,ak,ak
 2025-12-26T17:44:38.490Z,19.337165832519,-155.12384033203,3.710000038147,2.06,ml,50,114,0.04747,0.189999998,hv,hv74860792,2025-12-26T17:49:32.510Z,"14 km S of Fern Forest, Hawaii",earthquake,0.42,1.27999997,0.63,11,automatic,hv,hv
 2025-12-26T17:33:53.146Z,60.112,-152.681,106.1,1.8,ml,37,63,0.2,0.5,ak,ak2025zkipwb,2025-12-26T17:36:56.994Z,"55 km WNW of Happy Valley, Alaska",earthquake,0,2.5408,0.5,12,automatic,ak,ak
