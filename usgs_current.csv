@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-26T08:03:00.586Z,30.3492,138.425,436.54,4.3,mb,69,89,3.001,0.65,us,us7000rkv9,2025-12-26T08:15:07.040Z,"Izu Islands, Japan region",earthquake,10.91,8.772,0.06,79,reviewed,us,us
 2025-12-26T07:49:50.790Z,45.961833333333,-122.69366666667,17.01,1.03,ml,13,87,0.0418,0.14,uw,uw62211697,2025-12-26T17:42:30.580Z,"7 km NNE of Woodland, Washington",earthquake,0.39,0.89,0.16257620384978,8,reviewed,uw,uw
 2025-12-26T07:45:39.275Z,-21.0834,168.6752,10,4.9,mb,37,92,1.902,0.89,us,us7000rkv8,2025-12-26T08:01:12.040Z,"97 km ENE of Tadine, New Caledonia",earthquake,7.83,1.587,0.114,24,reviewed,us,us
-2025-12-26T07:43:10.575Z,35.44688797,-98.16827393,10.17768955,1.99,ml,12,95.32142639,0.0876602456,1.180527769,ok,ok2025zgmw,2025-12-26T07:47:20.271Z,"17 km E of Hinton, Oklahoma",earthquake,5.157177302,4.239081264,0.12,9,automatic,ok,ok
-2025-12-26T07:42:09.397Z,60.873,-147.698,27.1,1.4,ml,12,84,0.3,0.3,ak,ak2025zjpadm,2025-12-26T07:45:10.541Z,"54 km E of Whittier, Alaska",earthquake,0,3.1971,0.4,4,automatic,ak,ak
