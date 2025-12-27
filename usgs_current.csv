@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-27T10:51:56.841Z,61.192,-149.818,27.2,1.9,ml,28,80,0.1,0.6,ak,ak2025zlraqp,2025-12-27T10:53:42.958Z,"5 km ESE of Anchorage, Alaska",earthquake,0,2.4357,0.3,4,automatic,ak,ak
 2025-12-27T10:37:56.652Z,62.526,-149.493,45.6,2.1,ml,30,69,0.4,0.8,ak,ak2025zlqooe,2025-12-27T10:41:18.903Z,"32 km ENE of Chase, Alaska",earthquake,0,5.8929,0.5,6,automatic,ak,ak
 2025-12-27T10:24:36.490Z,38.792999267578,-122.77850341797,1.1299999952316,0.26,md,10,102,0.007359,0.03,nc,nc75287026,2025-12-27T10:26:14.229Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.670000017,0.15,9,automatic,nc,nc
 2025-12-27T10:07:07.510Z,38.809833526611,-122.80117034912,0.54000002145767,1.06,md,13,51,0.004948,0.03,nc,nc75287016,2025-12-27T10:42:20.121Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.519999981,0.24,13,automatic,nc,nc
