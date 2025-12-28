@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-27T08:26:56.075Z,64.722,-149.041,2.3,1.6,ml,17,84,0.1,1,ak,ak2025zlmfrt,2025-12-27T08:28:23.799Z,"13 km NNE of Four Mile Road, Alaska",earthquake,0,2.8946,0.2,5,automatic,ak,ak
 2025-12-27T08:18:17.199Z,-6.3206,147.6422,62.335,4.7,mb,47,38,3.101,0.62,us,us7000rl18,2025-12-28T05:03:49.040Z,"34 km NW of Finschhafen, Papua New Guinea",earthquake,7.86,6.938,0.092,36,reviewed,us,us
 2025-12-27T08:14:57.290Z,58.202,-155.944,158.1,2.2,ml,46,149,0.2,0.7,ak,ak2025zllvgz,2025-12-27T08:21:31.040Z,"68 km SE of King Salmon, Alaska",earthquake,0,2.6235,0.6,9,automatic,ak,ak
-2025-12-27T07:56:01.265Z,61.746,-149.65,27.8,1.9,ml,26,42,0.3,0.6,ak,ak2025zllfax,2025-12-27T07:57:30.906Z,"13 km N of Meadow Lakes, Alaska",earthquake,0,1.9906,0.4,4,automatic,ak,ak
