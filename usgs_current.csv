@@ -217,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-01T10:07:01.304Z,59.178,-152.414,54,2.5,ml,69,104,0.5,0.7,ak,ak2026aaudbq,2026-01-01T13:16:03.040Z,"34 km SW of Nanwalek, Alaska",earthquake,0,2.5897,0.3,24,reviewed,ak,ak
 2026-01-01T10:05:52.813Z,60.583,-139.963,2.4,2.4,ml,18,84,0.5,0.9,ak,ak2026aauccg,2026-01-01T11:45:42.029Z,"116 km N of Yakutat, Alaska",earthquake,0,3.5164,0.1,10,reviewed,ak,ak
 2026-01-01T10:02:49.580Z,18.000166666667,-66.7635,13.28,2.87,md,17,142,0.113,0.25,pr,pr71503568,2026-01-01T10:32:41.770Z,"2 km SSE of Magas Arriba, Puerto Rico",earthquake,0.38,0.52,0.11970639521493,12,reviewed,pr,pr
-2026-01-01T09:54:34.158Z,60.5365,-140.1553,5,2.8,ml,20,79,0.445,0.76,us,us7000rlvh,2026-01-01T10:29:10.040Z,"112 km NNW of Yakutat, Alaska",earthquake,2.41,1.67,0.048,56,reviewed,us,us
-2026-01-01T09:51:38.343Z,60.581,-140.049,5.5,1.8,ml,8,160,0.5,0.9,ak,ak2026aatpvj,2026-01-01T11:44:54.026Z,"116 km N of Yakutat, Alaska",earthquake,0,3.6279,0.3,5,reviewed,ak,ak
