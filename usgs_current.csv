@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-01-06T22:48:22.225Z,31.658,-104.374,6.2974,1.8,ml,23,97,0,0.3,tx,tx2026akxzop,2026-01-06T22:51:11.852Z,"57 km S of Whites City, New Mexico",earthquake,0,2.5091910362244,0.1,15,automatic,tx,tx
+2026-01-06T22:58:04.670Z,38.830833435059,-122.79516601562,1.2400000095367,0.77,md,10,81,0.00845,0.01,nc,nc75291741,2026-01-06T22:59:38.972Z,"6 km W of Cobb, CA",earthquake,0.29,0.479999989,0.2,11,automatic,nc,nc
+2026-01-06T22:50:04.920Z,33.5565,-115.90033333333,2.95,1.05,ml,39,50,0.03803,0.18,ci,ci41153271,2026-01-06T22:53:52.047Z,"5 km NE of North Shore, CA",earthquake,0.15,0.2,0.1412415674834,27,automatic,ci,ci
+2026-01-06T22:48:22.388Z,31.652,-104.378,4.9101,1.8,ml,24,98,0,0.4,tx,tx2026akxzop,2026-01-06T22:52:27.475Z,"58 km S of Whites City, New Mexico",earthquake,0,1.2333163022995,0.1,15,automatic,tx,tx
 2026-01-06T22:48:07.630Z,38.822334289551,-122.84366607666,1.4800000190735,0.55,md,7,89,0.006791,0.03,nc,nc75291736,2026-01-06T22:49:43.949Z,"9 km WNW of The Geysers, CA",earthquake,0.48,1.09000003,0.39,8,automatic,nc,nc
 2026-01-06T22:43:17.084Z,31.654,-104.358,13.0242,1.5,ml,14,176,0.1,0.9,tx,tx2026akxvfk,2026-01-06T22:48:31.628Z,"57 km S of Whites City, New Mexico",earthquake,0,3.3430457115173,0.2,10,automatic,tx,tx
 2026-01-06T22:08:45.700Z,36.1138,-115.4603,3.4577,2.09,ml,15,298,0.681,0.3454,nn,nn00909263,2026-01-06T22:11:37.610Z,"9 km NW of Blue Diamond, Nevada",earthquake,,0.0423,0.32,8,automatic,nn,nn
@@ -17,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T20:19:40.499Z,58.176,-150.934,21.6,3,ml,47,184,0.9,0.9,ak,ak2026aktbiv,2026-01-06T20:22:10.605Z,"96 km ENE of Ouzinkie, Alaska",earthquake,0,5.5994,0.6,4,automatic,ak,ak
 2026-01-06T20:17:06.866Z,64.635,-149.093,0.1,1.2,ml,15,87,0,0.9,ak,ak2026akszfu,2026-01-06T20:19:33.802Z,"3 km NNE of Four Mile Road, Alaska",earthquake,0,2.9214,0.2,5,automatic,ak,ak
 2026-01-06T20:06:02.370Z,33.864,-117.50766666667,1.89,1,ml,25,57,0.06984,0.21,ci,ci41153183,2026-01-06T20:09:43.283Z,"2 km SE of Home Gardens, CA",earthquake,0.28,0.41,0.26365869206864,29,automatic,ci,ci
+2026-01-06T19:57:11.610Z,46.569833333333,-120.84283333333,10.88,1.25,ml,8,126,0.183,0.07,uw,uw62221841,2026-01-06T22:54:14.490Z,"4 km NNE of Tampico, Washington",earthquake,0.37,1.81,0.13977216095901,4,reviewed,uw,uw
 2026-01-06T19:55:41.026Z,58.282,-155.038,0.6,1.6,ml,13,124,0,0.6,ak,ak2026aksgtj,2026-01-06T19:56:54.689Z,"86 km NNW of Karluk, Alaska",earthquake,0,10.0864,0.5,7,automatic,ak,ak
 2026-01-06T19:52:32.474Z,58.243,-155.152,2.5,1.5,ml,12,71,0,0.2,ak,ak2026akseax,2026-01-06T19:53:53.672Z,"85 km NNW of Karluk, Alaska",earthquake,0,12.4692,0.4,6,automatic,ak,ak
 2026-01-06T19:46:46.680Z,36.457832336426,-121.08499908447,5.8800001144409,1.83,md,29,77,0.02194,0.2,nc,nc75291691,2026-01-06T21:37:18.965Z,"10 km SSE of Pinnacles, CA",earthquake,0.37,1.01999998,0.23,23,automatic,nc,nc
