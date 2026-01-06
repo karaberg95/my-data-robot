@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-06T19:26:39.050Z,32.682,-116.09816666667,12.91,1.15,ml,7,163,0.03319,0.1,ci,ci41153151,2026-01-06T19:30:16.553Z,"11 km WSW of Ocotillo, CA",earthquake,1.07,1.92,0.23281610705421,21,automatic,ci,ci
+2026-01-06T19:17:09.696Z,37.2523,74.6137,10,5.2,mb,112,54,1.991,0.88,us,us7000rmzt,2026-01-06T19:35:12.040Z,"103 km N of Barishal, Pakistan",earthquake,6.54,1.848,0.049,136,reviewed,us,us
 2026-01-06T19:15:00.070Z,38.776500701904,-122.7174987793,1.9299999475479,0.6,md,6,101,0.01596,0.02,nc,nc75291681,2026-01-06T19:16:38.339Z,"2 km W of Anderson Springs, CA",earthquake,0.51,1.12,0.28,6,automatic,nc,nc
+2026-01-06T19:01:40.750Z,19.059333333333,-66.4975,13.76,2.96,md,15,280,0.5799,0.13,pr,pr71504313,2026-01-06T19:36:30.410Z,"66 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.13,1.6,0.11301689839574,10,reviewed,pr,pr
 2026-01-06T18:59:26.617Z,32.87,-100.546,2.7341,1.5,ml,12,97,0.1,0.3,tx,tx2026akqkht,2026-01-06T19:04:03.711Z,"7 km WNW of Rotan, Texas",earthquake,0,2.0230872631073,0.2,10,automatic,tx,tx
 2026-01-06T18:47:27.710Z,38.778167724609,-122.81349945068,0.70999997854233,0.75,md,7,136,0.01301,0.18,nc,nc75291676,2026-01-06T18:50:43.219Z,"5 km W of The Geysers, CA",earthquake,0.72,1.25999999,0.05,7,automatic,nc,nc
 2026-01-06T18:46:02.590Z,19.031,-66.486166666667,13.81,2.98,md,12,282,0.5525,0.19,pr,pr71504293,2026-01-06T19:10:59.070Z,"62 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.13,2.91,0.046979660075781,9,reviewed,pr,pr
@@ -11,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T18:35:55.380Z,19.088,-66.505166666667,20.05,3.18,md,15,282,0.6081,0.17,pr,pr71504278,2026-01-06T19:11:26.030Z,"69 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.8,16.32,0.089923659939157,9,reviewed,pr,pr
 2026-01-06T18:30:28.530Z,20.413333892822,-155.69566345215,13.390000343323,2.03,md,14,313,0.6209,0.310000002,hv,hv74869697,2026-01-06T18:34:35.050Z,"21 km NNE of Hala‘ula, Hawaii",earthquake,10.49,19.8999996,0.13369879912875,17,automatic,hv,hv
 2026-01-06T18:18:47.951Z,51.8612,159.8596,41.976,5.2,mww,71,94,1.38,1.02,us,us7000rmzf,2026-01-06T18:39:02.040Z,"154 km SE of Vilyuchinsk, Russia",earthquake,9.35,6.526,0.11,8,reviewed,us,us
+2026-01-06T18:18:08.731Z,56.149,-149.246,5.7,3.5,ml,41,243,2.5,0.8,ak,ak2026akpasi,2026-01-06T19:38:43.910Z,"246 km SE of Chiniak, Alaska",earthquake,0,8.9297,0.3,31,reviewed,ak,ak
 2026-01-06T18:18:08.270Z,19.093833333333,-66.500333333333,20.07,2.89,md,11,285,0.6141,0.28,pr,pr71504258,2026-01-06T18:42:55.020Z,"69 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.3,24.52,0.14732936025557,6,reviewed,pr,pr
 2026-01-06T18:04:44.862Z,41.4358,142.0717,60.011,4.8,mww,79,122,0.997,1.07,us,us7000rmza,2026-01-06T18:27:47.040Z,"73 km ENE of Mutsu, Japan",earthquake,6.36,6.108,0.086,13,reviewed,us,us
 2026-01-06T17:52:42.880Z,32.821,-115.465,8.25,1.24,ml,27,75,0.0219,0.26,ci,ci41153111,2026-01-06T17:56:20.294Z,"8 km W of Holtville, CA",earthquake,0.5,0.71,0.25235563389468,17,automatic,ci,ci
@@ -55,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T14:23:13.530Z,18.999166666667,-66.528166666667,29.81,3.08,md,10,292,0.5193,0.17,pr,pr71504218,2026-01-06T14:38:34.390Z,"59 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.99,4.71,0.078026913569828,7,reviewed,pr,pr
 2026-01-06T14:15:44.005Z,58.278,-155.116,7.9,1.5,ml,8,138,0,0.1,ak,ak2026akgzuy,2026-01-06T14:16:31.793Z,"88 km NNW of Karluk, Alaska",earthquake,0,8.7575,0.4,4,automatic,ak,ak
 2026-01-06T14:13:13.190Z,19.04,-66.5155,36.05,3.28,md,9,286,0.5601,0.19,pr,pr71504228,2026-01-06T14:46:25.600Z,"64 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.3,4.19,0.027560447751457,4,reviewed,pr,pr
-2026-01-06T14:11:12.570Z,19.17516708374,-155.49983215332,30.680000305176,2.19,md,41,186,0.04071,0.129999995,hv,hv74869622,2026-01-06T14:15:07.240Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.689999998,0.21140182300684,12,automatic,hv,hv
+2026-01-06T14:11:12.650Z,19.184,-155.49016666667,30.96,1.86,ml,36,161,0.03888,0.1,hv,hv74869622,2026-01-06T19:40:50.020Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.48,0.52,0.14351548682644,5,reviewed,hv,hv
 2026-01-06T14:08:30.190Z,35.6775,-117.49533333333,5.53,0.69,ml,18,99,0.05961,0.11,ci,ci41152935,2026-01-06T14:56:05.842Z,"13 km SW of Searles Valley, CA",earthquake,0.2,0.66,0.093770843422291,6,reviewed,ci,ci
 2026-01-06T14:02:25.720Z,32.735,-116.0585,8.45,1.13,ml,29,46,0.03532,0.16,ci,ci41152927,2026-01-06T14:56:21.101Z,"6 km W of Ocotillo, CA",earthquake,0.19,0.41,0.24902584377792,19,reviewed,ci,ci
 2026-01-06T13:57:43.080Z,36.682,-89.778333333333,4.57,1.64,md,17,72,0.02777,0.06,nm,nm60616641,2026-01-06T17:41:12.280Z,"8 km NNE of Parma, Missouri",earthquake,0.24,0.25,0.066926961535138,14,reviewed,nm,nm
@@ -145,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T06:24:56.410Z,38.81600189209,-122.82199859619,2.0999999046326,0.79,md,16,52,0.01189,0.02,nc,nc75291416,2026-01-06T06:26:31.719Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.610000014,0.13,17,automatic,nc,nc
 2026-01-06T06:22:44.080Z,19.047833333333,-66.4775,41.18,3.02,md,12,242,0.5698,0.23,pr,pr71504098,2026-01-06T06:53:04.480Z,"64 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.19,3.85,0.026945490011788,7,reviewed,pr,pr
 2026-01-06T06:17:42.516Z,59.182,-152.502,63.6,2.9,ml,33,117,0.5,0.5,ak,ak2026ajrdws,2026-01-06T16:04:34.040Z,"38 km WSW of Nanwalek, Alaska",earthquake,0,4.2426,0.2,5,automatic,ak,ak
-2026-01-06T06:16:49.700Z,19.548500061035,-155.64999389648,12.029999732971,2.63,ml,44,56,0.009199,0.239999995,hv,hv74869502,2026-01-06T16:01:27.040Z,"24 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.340000004,0.53,9,automatic,hv,hv
+2026-01-06T06:16:49.590Z,19.548666666667,-155.65466666667,11.33,2.54,ml,46,55,0.01249,0.28,hv,hv74869502,2026-01-06T19:33:49.480Z,"24 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.56,0.24,0.19418232711249,26,reviewed,hv,hv
 2026-01-06T06:07:07.440Z,61.183,-152.395,140.6,2,ml,43,92,0,0.7,ak,ak2026ajqutj,2026-01-06T06:09:55.588Z,"69 km W of Tyonek, Alaska",earthquake,0,3.25,1.2,4,automatic,ak,ak
 2026-01-06T05:41:10.180Z,19.132,-65.989333333333,25.67,3.05,md,14,249,0.8234,0.14,pr,pr71504088,2026-01-06T05:59:02.520Z,"74 km N of San Juan, Puerto Rico",earthquake,0.73,11.12,0.017257619947243,10,reviewed,pr,pr
 2026-01-06T05:30:38.292Z,52.7471,-167.6017,35,3.2,mb,16,245,0.69,0.37,us,us7000rmsl,2026-01-06T15:56:18.040Z,"87 km ESE of Nikolski, Alaska",earthquake,4.9,2.012,0.215,5,reviewed,us,us
@@ -168,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T03:05:35.980Z,46.459,-122.3155,16.98,0.29,ml,13,72,0.1226,0.08,uw,uw62221751,2026-01-06T04:57:08.600Z,"11 km SSW of Morton, Washington",earthquake,0.33,0.92,0.079157431602171,3,reviewed,uw,uw
 2026-01-06T02:58:00.108Z,-17.7188,-178.6589,563.892,4.8,mb,60,117,2.253,0.88,us,us7000rmrb,2026-01-06T03:15:22.040Z,"217 km E of Levuka, Fiji",earthquake,11.78,8.608,0.036,243,reviewed,us,us
 2026-01-06T02:53:33.759Z,35.55566667,-96.74616667,5.36,2.82,ml,96,45,0,0.17,ok,ok2026ajjg,2026-01-06T05:20:28.126Z,"8 km SE of Sparks, Oklahoma",earthquake,,0.2,0.21,40,reviewed,ok,ok
-2026-01-06T02:43:55.486Z,58.278,-154.978,5,1.3,ml,12,133,0,0.3,ak,ak2026ajkbdb,2026-01-06T02:44:45.424Z,"84 km NNW of Karluk, Alaska",earthquake,0,,0.4,4,automatic,ak,ak
+2026-01-06T02:43:55.486Z,58.278,-154.978,5,1.3,ml,12,133,0,0.3,ak,ak2026ajkbdb,2026-01-06T19:42:30.330Z,"84 km NNW of Karluk, Alaska",earthquake,0,,0.4,4,automatic,ak,ak
 2026-01-06T02:13:01.420Z,19.155166625977,-155.41416931152,30.190000534058,1.76,md,31,216,0.04532,0.0900000036,hv,hv74869462,2026-01-06T02:16:32.250Z,"8 km SE of Pāhala, Hawaii",earthquake,0.76,0.899999976,0.16834357985756,16,automatic,hv,hv
 2026-01-06T02:03:25.802Z,38.1528,-117.889,12.6468,2.09,ml,13,114,0.089,0.1576,nn,nn00909238,2026-01-06T17:22:10.526Z,"32 km SE of Mina, Nevada",earthquake,,1.0616,0.22,9,reviewed,nn,nn
 2026-01-06T02:01:16.610Z,34.0405,-117.12183333333,5.27,2.03,ml,102,17,0.009296,0.16,ci,ci41152687,2026-01-06T14:59:48.330Z,"3 km SSE of Mentone, CA",earthquake,0.09,0.23,0.096015672334396,24,reviewed,ci,ci
