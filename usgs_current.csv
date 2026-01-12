@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-12T08:40:06.930Z,38.831001281738,-122.81733703613,1.4099999666214,0.27,md,10,81,0.00948,0.02,nc,nc75294511,2026-01-12T08:41:41.598Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.970000029,0.15,11,automatic,nc,nc
+2026-01-12T08:37:10.747Z,60.017,-152.672,96.8,1.5,ml,28,107,0.2,0.4,ak,ak2026auwdix,2026-01-12T08:39:13.678Z,"53 km W of Happy Valley, Alaska",earthquake,0,3.1247,1,4,automatic,ak,ak
 2026-01-12T08:05:47.280Z,38.775833129883,-122.71350097656,2.6900000572205,0.93,md,6,179,0.01349,0.01,nc,nc75294496,2026-01-12T08:07:20.638Z,"2 km W of Anderson Springs, CA",earthquake,0.87,1.91999996,0.27,7,automatic,nc,nc
 2026-01-12T08:04:10.694Z,57.806,-154.032,57.4,2.3,ml,14,199,0.6,0.3,ak,ak2026auvaxw,2026-01-12T08:07:02.597Z,"29 km N of Larsen Bay, Alaska",earthquake,0,8.5172,0.3,4,automatic,ak,ak
 2026-01-12T07:27:00.436Z,37.5341,-114.6836,1.9963,1.77,ml,17,290,1.124,0.3006,nn,nn00909449,2026-01-12T07:29:55.515Z,"17 km WSW of Caliente, Nevada",earthquake,,4.9722,0.4,6,automatic,nn,nn
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-12T07:02:46.740Z,35.062000274658,-119.00450134277,14.85000038147,3.140221366109,ml,102,36,0.06514,0.310000002,ci,ci41155919,2026-01-12T07:24:25.712Z,"15 km NNW of Grapevine, CA",earthquake,0.25,0.689999998,0.2447035908699,25,automatic,ci,ci
 2026-01-12T06:35:19.010Z,18.121666666667,-66.690333333333,19.97,2.71,md,23,84,0.112,0.17,pr,pr71504978,2026-01-12T06:53:34.900Z,"5 km SE of Adjuntas, Puerto Rico",earthquake,0.32,0.56,0.063939245029354,8,reviewed,pr,pr
 2026-01-12T06:34:14.290Z,18.128,-66.681833333333,20.07,2.17,md,13,115,0.111,0.22,pr,pr71504968,2026-01-12T06:44:40.080Z,"5 km SE of Adjuntas, Puerto Rico",earthquake,0.53,0.79,0.063710783713629,6,reviewed,pr,pr
-2026-01-12T06:28:50.643Z,45.8673,6.7993,10,4.2,mb,44,65,0.606,0.87,us,us7000rp4v,2026-01-12T07:19:36.526Z,"2 km S of Les Houches, France",earthquake,4.64,1.967,0.2,8,reviewed,us,us
+2026-01-12T06:28:50.643Z,45.8673,6.7993,10,4.2,mb,44,65,0.606,0.87,us,us7000rp4v,2026-01-12T08:40:40.212Z,"2 km S of Les Houches, France",earthquake,4.64,1.967,0.2,8,reviewed,us,us
 2026-01-12T06:28:24.640Z,36.965999603271,-121.58533477783,3.9300000667572,0.97,md,6,112,0.011,0.03,nc,nc75294476,2026-01-12T06:45:51.708Z,"5 km SSW of Gilroy, CA",earthquake,0.39,0.779999971,0.24,8,automatic,nc,nc
 2026-01-12T06:21:45.942Z,52.8719,159.3155,75.475,4.8,mb,143,118,0.43,0.61,us,us7000rp4u,2026-01-12T07:48:41.040Z,"50 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.83,6.359,0.034,274,reviewed,us,us
 2026-01-12T06:17:10.480Z,38.826499938965,-122.85250091553,1.5900000333786,1.09,md,18,90,0.003571,0.02,nc,nc75294471,2026-01-12T06:18:45.799Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.400000006,0.28,19,automatic,nc,nc
@@ -174,8 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-11T09:05:00.969Z,36.8062,-115.7174,4.1937,2.13,ml,32,161,0.181,0.2623,nn,nn00909428,2026-01-11T09:07:24.192Z,"26 km N of Indian Springs, Nevada",earthquake,,0.7727,0.29,17,automatic,nn,nn
 2026-01-11T09:02:12.193Z,38.5102,-116.3945,7.9211,1.69,ml,9,234,1.3,0.2023,nn,nn00909427,2026-01-11T09:05:11.129Z,"88 km ENE of Tonopah, Nevada",earthquake,,1.06,0.31,4,automatic,nn,nn
 2026-01-11T09:00:40.600Z,35.722166666667,-84.508166666667,14.8,2.16,md,16,93,0.07041,0.04,se,se60616806,2026-01-11T14:31:24.890Z,"10 km WNW of Philadelphia, Tennessee",earthquake,0.29,0.71,0.068400787750734,11,reviewed,se,se
-2026-01-11T08:56:04.050Z,38.802833557129,-122.73183441162,1.6699999570847,0.71,md,9,119,0.01994,0.04,nc,nc75294061,2026-01-11T08:57:38.579Z,"2 km SSW of Cobb, CA",earthquake,0.34,0.839999974,0.1,9,automatic,nc,nc
-2026-01-11T08:54:23.355Z,32.218,-101.998,3.8019,1.4,ml,71,38,0,0.5,tx,tx2026atazhu,2026-01-11T12:16:58.241Z,"22 km WNW of Stanton, Texas",earthquake,0,0.59970659017563,0.2,49,automatic,tx,tx
-2026-01-11T08:54:22.027Z,62.919,-151.247,106.7,1.9,ml,28,62,0.4,0.6,ak,ak2026atazgv,2026-01-11T08:56:46.623Z,"53 km NNW of Petersville, Alaska",earthquake,0,3.5845,0.2,4,automatic,ak,ak
-2026-01-11T08:46:42.915Z,61.915,-149.189,0.7,2.1,ml,27,45,0.2,0.9,ak,ak2026atasrw,2026-01-11T08:48:17.586Z,"19 km N of Fishhook, Alaska",earthquake,0,2.349,0.5,4,automatic,ak,ak
-2026-01-11T08:45:15.044Z,3.3194,126.852,52.167,4.6,mb,41,84,1.961,0.76,us,us7000rp1b,2026-01-11T09:33:08.040Z,"217 km NW of Tobelo, Indonesia",earthquake,6.7,8.632,0.101,29,reviewed,us,us
