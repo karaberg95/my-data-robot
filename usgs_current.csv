@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T18:47:57.270Z,36.89049911499,-121.24099731445,6.1900000572205,1.93,md,36,152,0.04814,0.07,nc,nc75296641,2026-01-16T18:51:16.060Z,"13 km NNE of Tres Pinos, CA",earthquake,0.27,0.550000012,0.17,36,automatic,nc,nc
 2026-01-16T18:36:34.010Z,33.57,-117.054,11.21,0.91,ml,23,72,0.04355,0.18,ci,ci41159775,2026-01-16T18:40:17.637Z,"10 km E of Murrieta Hot Springs, CA",earthquake,0.25,0.6,0.20945424601818,24,automatic,ci,ci
 2026-01-16T18:36:15.944Z,32.109,-101.917,8.1849,1.4,ml,19,48,0.1,0.4,tx,tx2026bcyxam,2026-01-16T19:00:23.678Z,"12 km W of Stanton, Texas",earthquake,0,2.3660669326782,0.1,13,automatic,tx,tx
-2026-01-16T18:35:41.532Z,58.364,-137.014,1.7,3.8,ml,41,140,0.6,0.7,ak,ak2026bcyvlu,2026-01-16T19:48:03.381Z,"43 km WNW of Elfin Cove, Alaska",earthquake,5.3,2.987,0.3,27,reviewed,ak,ak
+2026-01-16T18:35:41.532Z,58.364,-137.014,1.7,3.8,ml,41,140,0.6,0.7,ak,ak2026bcyvlu,2026-01-16T21:47:54.064Z,"43 km WNW of Elfin Cove, Alaska",earthquake,5.3,2.987,0.3,27,reviewed,ak,ak
 2026-01-16T17:57:18.607Z,31.644,-104.456,4.1089,1.8,ml,26,90,0,0.4,tx,tx2026bcxnzu,2026-01-16T18:02:28.209Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2484810352325,0.2,18,automatic,tx,tx
 2026-01-16T17:55:20.160Z,19.226,-155.53083333333,4.36,3.2,ml,55,71,0.03743,0.15,hv,hv74877777,2026-01-16T19:19:51.040Z,"6 km WNW of Pāhala, Hawaii",earthquake,0.26,0.61,0.19669280636438,39,reviewed,hv,hv
 2026-01-16T17:53:13.500Z,38.823165893555,-122.84566497803,2.3499999046326,0.89,md,7,127,0.008308,0.01,nc,nc75296621,2026-01-16T17:54:49.815Z,"9 km WNW of The Geysers, CA",earthquake,0.52,1.19000006,0.25,9,automatic,nc,nc
