@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T00:31:01.207Z,32.5003,-104.6322,5,3.4,ml,40,76,0.673,0.62,us,us7000rpzc,2026-01-16T00:45:50.040Z,"35 km SSE of Hope, New Mexico",earthquake,2.39,1.97,0.06,80,reviewed,us,us
 2026-01-16T00:23:36.685Z,65.245,-148.894,5,0.7,ml,8,192,0.2,0.5,ak,ak2026bborob,2026-01-16T00:24:35.609Z,"23 km ENE of Minto, Alaska",earthquake,7.4,,0,1,automatic,ak,ak
 2026-01-16T00:03:53.800Z,39.370166778565,-123.23183441162,6.6100001335144,1.6,md,11,77,0.07053,0.02,nc,nc75296316,2026-01-16T00:05:32.169Z,"12 km ESE of Willits, CA",earthquake,0.27,1.01999998,0.19,10,automatic,nc,nc
-2026-01-15T23:57:14.399Z,31.626,-104.291,4.2796,1.5,ml,23,91,0.1,0.5,tx,tx2026bbnuns,2026-01-16T01:00:22.922Z,"58 km NW of Toyah, Texas",earthquake,0,1.3090957403183,0.2,13,automatic,tx,tx
