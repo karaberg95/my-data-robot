@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-24T23:49:38.457Z,64.984,-147.374,5,1.1,ml,8,123,0.1,0.2,ak,ak2026bsbcez,2026-01-24T23:50:26.962Z,"11 km ENE of Fox, Alaska",earthquake,7.5,,0,1,automatic,ak,ak
 2026-01-24T23:43:20.447Z,61.217,-147.178,5,1.8,ml,10,72,0.3,0.3,ak,ak2026bsawtw,2026-01-24T23:45:14.109Z,"45 km WNW of Valdez, Alaska",earthquake,4.3,,0.5,6,automatic,ak,ak
 2026-01-24T23:35:54.560Z,19.314167022705,-155.26832580566,29.370000839233,1.91,md,16,111,0.04105,0.150000006,hv,hv74884112,2026-01-24T23:41:04.290Z,"14 km SSW of Volcano, Hawaii",earthquake,0.72,1.00999999,0.14294009585858,13,automatic,hv,hv
 2026-01-24T23:28:15.540Z,19.156000137329,-155.48583984375,26.239999771118,1.74,md,12,251,0.09273,0.119999997,hv,hv74884102,2026-01-24T23:31:49.270Z,"5 km S of Pāhala, Hawaii",earthquake,0.83,1.80999994,0.18253328900866,17,automatic,hv,hv
@@ -200,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-24T00:08:00.474Z,40.6004,-119.608,10.5957,2.47,ml,6,169,0.441,0.1991,nn,nn00909889,2026-01-24T00:26:01.539Z,"22 km WSW of Gerlach, Nevada",earthquake,,3.3783,0.4,4,reviewed,nn,nn
 2026-01-24T00:03:21.220Z,35.655166666667,-117.54983333333,6.28,0.58,ml,15,82,0.1032,0.12,ci,ci41170311,2026-01-24T00:06:56.561Z,"12 km ENE of Ridgecrest, CA",earthquake,0.25,0.98,0.13438358832936,6,automatic,ci,ci
 2026-01-24T00:00:24.720Z,38.473834991455,-122.3946685791,4.3800001144409,1.95,md,7,175,0.3786,0.1,nc,nc75300771,2026-01-24T00:02:01.857Z,"7 km ESE of St. Helena, CA",earthquake,3.44,9.10000038,,1,automatic,nc,nc
-2026-01-23T23:51:48.780Z,19.465665817261,-155.88467407227,9.5600004196167,1.73,md,12,274,0.1759,0.180000007,hv,hv74883552,2026-01-23T23:55:22.240Z,"2 km WNW of Honaunau-Napoopoo, Hawaii",earthquake,1.35,0.730000019,0.12158301050544,17,automatic,hv,hv
