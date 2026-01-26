@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-26T11:53:17.580Z,33.483166666667,-116.43066666667,14.11,0.58,ml,41,74,0.1438,0.15,ci,ci41172591,2026-01-26T11:57:02.585Z,"23 km SSW of La Quinta, CA",earthquake,0.19,0.45,0.12874440601041,17,automatic,ci,ci
+2026-01-26T11:52:32.093Z,59.818,-152.924,97.8,2.2,ml,43,104,0.1,0.5,ak,ak2026buuuap,2026-01-26T11:53:34.000Z,"61 km W of Anchor Point, Alaska",earthquake,5,2.1028,0,1,automatic,ak,ak
 2026-01-26T11:47:30.770Z,35.357333333333,-117.8035,7.85,0.97,ml,29,85,0.09615,0.16,ci,ci41172583,2026-01-26T11:51:15.498Z,"15 km W of Johannesburg, CA",earthquake,0.23,0.86,0.21418450375517,13,automatic,ci,ci
 2026-01-26T11:45:51.902Z,32.563,-101.082,2.9883,1,ml,8,129,0.2,0.2,tx,tx2026buuofb,2026-01-26T11:48:18.032Z,"23 km SW of Snyder, Texas",earthquake,0,2.2428991794586,0.2,7,automatic,tx,tx
 2026-01-26T11:42:42.330Z,38.827331542969,-122.79850006103,0.93999999761581,0.7,md,9,61,0.01276,0.04,nc,nc75301916,2026-01-26T11:44:19.174Z,"7 km W of Cobb, CA",earthquake,0.32,1.64999998,0.41,10,automatic,nc,nc
