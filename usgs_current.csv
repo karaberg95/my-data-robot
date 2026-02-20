@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-20T10:00:58.861Z,32.015,-103.733,7.2589,1.6,ml,16,82,0,0.5,tx,tx2026dooeey,2026-02-20T10:04:06.684Z,"36 km NNW of Mentone, Texas",earthquake,0,2.6362202167511,0.2,10,automatic,tx,tx
+2026-02-20T09:53:48.690Z,33.210166666667,-116.067,9.71,1.5,ml,56,24,0.0833,0.21,ci,ci41400336,2026-02-20T09:57:16.177Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.17,0.54,0.19966918834922,28,automatic,ci,ci
+2026-02-20T09:50:57.690Z,33.876,-116.18433333333,2.84,1.4,ml,42,59,0.05015,0.17,ci,ci41400328,2026-02-20T09:54:29.512Z,"18 km N of Indio, CA",earthquake,0.17,0.25,0.19532564349166,27,automatic,ci,ci
+2026-02-20T09:40:55.930Z,36.745998382568,-121.31033325195,4.0900001525879,1.64,md,12,61,0.02811,0.09,nc,nc75316257,2026-02-20T09:42:31.590Z,"5 km S of Tres Pinos, CA",earthquake,0.34,0.620000005,0.16,11,automatic,nc,nc
 2026-02-20T08:55:37.609Z,31.421,-103.854,6.5355,1.7,ml,31,66,0.1,0.3,tx,tx2026domboy,2026-02-20T09:00:05.274Z,"13 km NNW of Toyah, Texas",earthquake,0,1.731906414032,0.1,18,automatic,tx,tx
 2026-02-20T08:46:07.730Z,37.879665374756,-122.07116699219,14.949999809265,2.41,md,71,58,0.06342,0.12,nc,nc75316242,2026-02-20T09:06:34.934Z,"3 km S of Walnut Creek, CA",earthquake,0.16,0.280000001,0.14,68,automatic,nc,nc
 2026-02-20T08:43:50.210Z,38.826000213623,-122.85433197022,2.0699999332428,1.08,md,14,101,0.002514,0.01,nc,nc75316232,2026-02-20T08:45:25.140Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.5,0.14,16,automatic,nc,nc
@@ -173,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T11:34:39.709Z,62.889,-148.915,0.9,2.2,ml,47,25,0.1,0.8,ak,aka2026dmvpsr,2026-02-19T22:55:51.872Z,"56 km S of Cantwell, Alaska",earthquake,2.3,1.8477,0.1,33,reviewed,ak,ak
 2026-02-19T11:28:20.200Z,33.829,-117.61816666667,9.93,1.02,ml,27,53,0.03446,0.14,ci,ci41187911,2026-02-19T14:03:36.610Z,"7 km SW of Corona, CA",earthquake,0.22,0.49,0.40406773796309,25,reviewed,ci,ci
 2026-02-19T11:27:06.056Z,31.652,-104.43,6.0999,1.6,ml,20,76,0,0.2,tx,tx2026dmvjfm,2026-02-19T16:04:35.042Z,"58 km S of Whites City, New Mexico",earthquake,0.82033336414297,0.50437058148168,0,6,reviewed,tx,tx
-2026-02-19T11:15:34.933Z,-39.5847,-56.6375,10,4.7,mb,40,70,9.897,1.6,us,us6000sa5t,2026-02-19T20:01:25.669Z,"193 km SSE of Mar del Plata, Argentina",earthquake,7.42,1.893,0.097,32,reviewed,us,us
+2026-02-19T11:15:34.933Z,-39.5847,-56.6375,10,4.7,mb,40,70,9.897,1.6,us,us6000sa5t,2026-02-20T09:56:35.394Z,"193 km SSE of Mar del Plata, Argentina",earthquake,7.42,1.893,0.097,32,reviewed,us,us
 2026-02-19T11:06:19.117Z,60.5149,-139.8033,5,2.7,ml,29,45,0.476,1.25,us,us6000sa5r,2026-02-20T08:24:07.040Z,"107 km N of Yakutat, Alaska",earthquake,1.42,1.978,0.041,80,reviewed,us,us
 2026-02-19T11:04:03.020Z,18.774499893189,-155.03149414062,12.539999961853,1.79,md,17,308,0.5762,0.170000002,hv,hv74903096,2026-02-19T11:07:44.980Z,"66 km ESE of Naalehu, Hawaii",earthquake,8.55,12.71,0.13942476082276,17,automatic,hv,hv
 2026-02-19T10:50:24.700Z,38.813999176025,-122.81749725342,1.6499999761581,1.45,md,13,99,0.01047,0.02,nc,nc75315822,2026-02-19T10:51:53.045Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.620000005,,1,automatic,nc,nc
@@ -187,13 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T10:17:43.723Z,51.1391,-178.3652,14.512,2.9,ml,19,214,0.501,0.88,us,us6000saaz,2026-02-20T08:09:10.040Z,"145 km SW of Adak, Alaska",earthquake,2.54,10.626,0.091,16,reviewed,us,us
 2026-02-19T10:17:42.509Z,60.743,-151.598,79.3,1.5,ml,22,63,0.5,0.4,ak,aka2026dmtblc,2026-02-19T22:45:14.416Z,"17 km WNW of Nikiski, Alaska",earthquake,4.6,4.3255,0.2,12,reviewed,ak,ak
 2026-02-19T10:08:39.120Z,38.778831481934,-122.76016998291,0.62000000476837,1.96,md,28,60,0.009197,0.05,nc,nc75315807,2026-02-19T10:10:12.854Z,"0 km WNW of The Geysers, CA",earthquake,0.22,0.330000013,0.1,30,automatic,nc,nc
-2026-02-19T10:05:48.386Z,32.991,-102.837,3.1494,3.1,ml,27,64,0.2,0.3,tx,tx2026dmspfw,2026-02-20T04:39:24.237Z,"3 km NNW of Denver City, Texas",earthquake,1.9612396251879,1.840117307623,0.1,30,reviewed,tx,tx
-2026-02-19T10:04:15.495Z,31.661,-104.121,4.2079,1.2,ml,17,48,0,0.1,tx,tx2026dmspwa,2026-02-19T18:07:17.620Z,"49 km NW of Toyah, Texas",earthquake,0,1.324368596077,0.2,12,automatic,tx,tx
-2026-02-19T09:59:47.573Z,63.252,-151.637,0.3,2.5,ml,45,44,0.3,0.7,ak,aka2026dmsmad,2026-02-19T22:42:51.939Z,"32 km S of Denali National Park, Alaska",earthquake,2.2,1.9025,0.2,33,reviewed,ak,ak
-2026-02-19T09:57:17.268Z,31.668,-104.118,3.9594,1.9,ml,31,84,0,0.1,tx,tx2026dmsjvr,2026-02-19T14:40:30.863Z,"49 km W of Mentone, Texas",earthquake,0.35423967813026,0.78455186102332,0,7,reviewed,tx,tx
-2026-02-19T09:54:15.818Z,51.6,-177.428,17.1,1.9,ml,15,200,0.2,0.3,ak,aka2026dmshfx,2026-02-19T22:40:59.928Z,"62 km WSW of Adak, Alaska",earthquake,13.1,4.1758,0.3,11,reviewed,ak,ak
-2026-02-19T09:39:52.020Z,36.029166666667,-117.81016666667,1.49,0.89,ml,17,51,0.03662,0.15,ci,ci41187879,2026-02-19T09:43:22.419Z,"13 km E of Coso Junction, CA",earthquake,0.18,0.24,0.2435428032068,12,automatic,ci,ci
-2026-02-19T09:39:07.661Z,60.997,-147.001,18.8,1.7,ml,37,56,0.1,0.7,ak,aka2026dmruef,2026-02-19T22:38:52.743Z,"22 km NW of Tatitlek, Alaska",earthquake,2.7,1.5494,0.3,18,reviewed,ak,ak
-2026-02-19T09:34:57.107Z,51.325,-176.102,28.1,2.3,ml,12,284,0.6,0.3,ak,aka2026dmrqoy,2026-02-19T22:11:22.608Z,"71 km SSE of Adak, Alaska",earthquake,11.7,6.3073,0.1,9,reviewed,ak,ak
-2026-02-19T09:33:43.540Z,62.885,-148.901,1,2,ml,38,27,0.1,0.7,ak,aka2026dmrpni,2026-02-19T22:09:22.603Z,"56 km S of Cantwell, Alaska",earthquake,2.2,1.8475,0.1,25,reviewed,ak,ak
-2026-02-19T09:32:35.535Z,32.483,-101.67,6.8359,1.3,ml,36,62,0.1,0.1,tx,tx2026dmrmyn,2026-02-19T13:15:38.688Z,"6 km SE of Ackerly, Texas",earthquake,0.36684361748354,0.52467841864405,0,7,reviewed,tx,tx
