@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-23T23:56:04.221Z,34.41547012,-97.44316864,4.202374458,2.38,ml,20,64.60206604,0.05750949308,0.7424656594,ok,ok2026dura,2026-02-23T23:58:03.161Z,"7 km ESE of Ratliff City, Oklahoma",earthquake,2.699962062,2.079042448,0.17,10,automatic,ok,ok
 2026-02-23T23:29:24.220Z,33.674833333333,-116.68266666667,16.34,0.98,ml,37,51,0.009472,0.14,ci,ci41402352,2026-02-23T23:32:53.998Z,"8 km SSE of Idyllwild, CA",earthquake,0.18,0.3,0.15968674199748,28,automatic,ci,ci
 2026-02-23T23:29:08.320Z,38.789165496826,-122.77200317383,0.72000002861023,1.03,md,15,80,0.01307,0.04,nc,nc75318187,2026-02-23T23:30:44.845Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.550000012,0.15,15,automatic,nc,nc
 2026-02-23T23:27:29.440Z,64.621,-153.465,5,2.5,ml,49,44,0.5,1.3,ak,aka2026dvcdnk,2026-02-23T23:30:10.139Z,"89 km SW of Tanana, Alaska",earthquake,3.7,,0.1,4,automatic,ak,ak
 2026-02-23T23:23:13.240Z,19.276666641235,-155.39016723633,28.969999313354,2.25,ml,54,103,0.03957,0.119999997,hv,hv74906911,2026-02-23T23:28:09.240Z,"12 km NE of Pāhala, Hawaii",earthquake,0.35,0.439999998,0.51,22,automatic,hv,hv
 2026-02-23T23:17:30.090Z,34.01,-116.74483333333,15.9,1.18,ml,44,38,0.05799,0.16,ci,ci41402320,2026-02-23T23:21:01.580Z,"11 km NNE of Cabazon, CA",earthquake,0.16,0.4,0.16305875133313,30,automatic,ci,ci
+2026-02-23T23:03:40.996Z,36.9958,137.0555,260.134,4.8,mww,95,54,1.026,0.55,us,us7000rzvv,2026-02-23T23:50:55.040Z,"9 km SE of Nanao, Japan",earthquake,6.02,5.114,0.089,12,reviewed,us,us
 2026-02-23T23:02:07.712Z,32.007,-103.811,8.4115,1.8,ml,29,45,0,0.4,tx,tx2026dvbhrj,2026-02-23T23:05:39.684Z,"34 km SE of Malaga, New Mexico",earthquake,0,2.1670005321503,0.2,19,automatic,tx,tx
 2026-02-23T22:59:37.257Z,61.81,-149.638,30.8,1.8,ml,29,46,0.3,0.6,ak,aka2026dvbfmt,2026-02-23T23:01:13.725Z,"20 km N of Meadow Lakes, Alaska",earthquake,2.9,4.4265,0.2,5,automatic,ak,ak
 2026-02-23T22:56:18.666Z,58.035,-154.876,29.9,0.8,ml,10,267,0.1,0.2,ak,aka2026dvbcrh,2026-02-23T22:58:05.705Z,"57 km NNW of Karluk, Alaska",earthquake,22,11.5705,0.3,4,automatic,ak,ak
@@ -177,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-23T07:04:14.265Z,57.525,-154.29,26.3,2.1,ml,23,203,0.7,0.4,ak,aka2026dtvofx,2026-02-23T07:06:20.611Z,"11 km ESE of Karluk, Alaska",earthquake,7,3.6611,0.1,9,automatic,ak,ak
 2026-02-23T07:03:05.048Z,61.874,-149.912,28.6,1.9,ml,29,44,0.5,0.6,ak,aka2026dtvnbm,2026-02-23T07:04:46.604Z,"15 km NNE of Willow, Alaska",earthquake,2.8,2.4309,0.4,4,automatic,ak,ak
 2026-02-23T07:02:08.888Z,32.464,-102.068,8.6182,1.4,ml,33,63,0.1,0.2,tx,tx2026dtvmkn,2026-02-23T16:22:13.985Z,"31 km SSW of Los Ybanez, Texas",earthquake,0.59919759531181,0.83626033374898,0.1,7,reviewed,tx,tx
-2026-02-23T06:59:28.370Z,19.011333465576,-155.35583496094,29.229999542236,2.06,md,43,222,0.175,0.150000006,hv,hv74906226,2026-02-23T07:03:21.000Z,"24 km ESE of Naalehu, Hawaii",earthquake,0.68,1.25999999,0.14296512626934,16,automatic,hv,hv
+2026-02-23T06:59:28.150Z,19.005166666667,-155.353,32.32,2.03,ml,40,222,0.1816,0.11,hv,hv74906226,2026-02-23T23:48:03.600Z,"24 km ESE of Naalehu, Hawaii",earthquake,0.48,0.96,0.11899290715096,8,reviewed,hv,hv
 2026-02-23T06:42:27.043Z,37.1225,-115.3101,10.0671,3.01,ml,20,198,0.269,0.1872,nn,nn00911101,2026-02-23T09:01:11.602Z,"29 km SSW of Alamo, Nevada",earthquake,,7.8381,0.22,14,reviewed,nn,nn
 2026-02-23T06:37:16.780Z,38.812999725342,-122.81517028809,3.0099999904633,1.3,md,26,54,0.01112,0.02,nc,nc75317907,2026-02-23T06:38:53.989Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.08,27,automatic,nc,nc
 2026-02-23T06:32:10.684Z,65.03,-147.038,2.1,1.3,ml,12,75,0.2,0.3,ak,aka2026dtumpk,2026-02-23T06:33:46.473Z,"17 km N of Two Rivers, Alaska",earthquake,3.1,19.2853,0.2,4,automatic,ak,ak
@@ -267,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-23T00:17:02.970Z,33.1655,-116.1045,10.31,1.74,ml,69,25,0.05407,0.2,ci,ci41401712,2026-02-23T16:18:02.940Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.16,0.41,0.16168176866816,61,reviewed,ci,ci
 2026-02-23T00:12:50.310Z,56.066,-159.37,122.3,1.6,ml,13,103,0,0.3,ak,aka2026dthxsh,2026-02-23T05:51:56.592Z,"19 km NNE of Ivanof Bay, Alaska",earthquake,38.8,4.0513,0.7,10,automatic,ak,ak
 2026-02-23T00:07:37.908Z,-23.146,-179.8623,561.485,4.8,mb,51,90,5.718,0.59,us,us6000sax9,2026-02-23T00:35:23.040Z,"south of the Fiji Islands",earthquake,12.82,7.99,0.088,40,reviewed,us,us
-2026-02-23T00:00:09.851Z,64.978,-147.448,9.5,0.9,ml,11,80,0.1,0.8,ak,aka2026dthmua,2026-02-23T00:01:39.664Z,"8 km ENE of Fox, Alaska",earthquake,6.8,6.5421,0.3,4,automatic,ak,ak
-2026-02-22T23:58:16.250Z,34.41316667,-97.44766667,5.47,1.59,ml,63,41,0.05398940544,0.34,ok,ok2026dsvp,2026-02-23T13:41:47.880Z,"6 km SE of Ratliff City, Oklahoma",earthquake,,0.7,0.25,31,reviewed,ok,ok
