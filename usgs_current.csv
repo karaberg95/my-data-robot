@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-07T11:48:12.560Z,38.834999084473,-122.79033660889,1.710000038147,2,md,30,41,0.003405,0.04,nc,nc75323792,2026-03-07T11:49:51.396Z,"6 km WNW of Cobb, CA",earthquake,0.17,0.270000011,0.11,36,automatic,nc,nc
+2026-03-07T11:46:55.090Z,62.741,-150.365,77.6,1.6,ml,14,93,0.3,0.6,ak,aka2026eqfqjp,2026-03-07T11:48:53.582Z,"34 km NE of Petersville, Alaska",earthquake,5.5,4.4605,0.4,5,automatic,ak,ak
+2026-03-07T11:36:39.356Z,32.007,-103.832,2.5956,1,ml,12,95,0,0.8,tx,tx2026eqfhow,2026-03-07T11:39:58.886Z,"33 km SE of Malaga, New Mexico",earthquake,0,1.7657617330551,0.2,9,automatic,tx,tx
 2026-03-07T11:32:31.751Z,36.6551,-116.2611,6.6257,0.55,ml,10,96,0.063,0.1006,nn,nn00912219,2026-03-07T11:34:19.223Z,"52 km ESE of Beatty, Nevada",earthquake,,1.297,0.15,5,automatic,nn,nn
 2026-03-07T11:22:58.070Z,19.301834106445,-155.43716430664,29.89999961853,1.93,md,38,56,0.0579,0.129999995,hv,hv74913487,2026-03-07T11:27:08.770Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.48,0.74000001,0.093917594259266,14,automatic,hv,hv
 2026-03-07T11:19:02.078Z,60.089,-152.795,114.2,2.1,ml,39,92,0.1,0.4,ak,aka2026eqesil,2026-03-07T11:23:18.864Z,"61 km WNW of Happy Valley, Alaska",earthquake,5.6,2.6052,0.4,27,automatic,ak,ak
@@ -246,7 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-06T12:00:50.260Z,33.786166666667,-117.5655,5.47,0.66,ml,15,95,0.0374,0.11,ci,ci41198607,2026-03-06T22:28:34.146Z,"9 km S of Corona, CA",earthquake,0.24,0.64,0.11998904468185,8,reviewed,ci,ci
 2026-03-06T12:00:41.831Z,64.282,-148.389,5,1.1,ml,13,82,0.2,0.4,ak,aka2026eokjjm,2026-03-06T12:02:02.174Z,"38 km E of Clear, Alaska",earthquake,3.5,,0.3,4,automatic,ak,ak
 2026-03-06T11:52:47.501Z,-15.2195,66.9879,10,5.2,mww,66,69,16.702,0.35,us,us7000s2hh,2026-03-06T12:33:08.040Z,"Mid-Indian Ridge",earthquake,11.9,1.868,0.068,21,reviewed,us,us
-2026-03-06T11:46:55.907Z,32.009,-101.728,8.7402,1,ml,19,74,0.1,0.1,tx,tx2026eojxmp,2026-03-06T14:03:56.709Z,"14 km SSE of Stanton, Texas",earthquake,0.92612687285684,1.4359980411846,0.2,12,reviewed,tx,tx
-2026-03-06T11:45:52.531Z,59.235,-153.431,96.3,2.5,ml,66,58,0.3,0.7,ak,aka2026eojwph,2026-03-06T13:09:50.040Z,"70 km ESE of Pope-Vannoy Landing, Alaska",earthquake,4.4,2.6149,0.3,39,automatic,ak,ak
-2026-03-06T11:43:30.283Z,61.883,-149.991,22,2.1,ml,53,57,0.5,0.9,ak,aka2026eojuog,2026-03-06T11:45:17.079Z,"15 km N of Willow, Alaska",earthquake,2.5,2.4372,0.1,7,automatic,ak,ak
-2026-03-06T11:38:39.420Z,32.936666666667,-116.33933333333,10.58,0.97,ml,44,40,0.03512,0.18,ci,ci41198599,2026-03-06T16:29:10.360Z,"22 km NE of Pine Valley, CA",earthquake,0.18,0.35,0.15812791368998,21,reviewed,ci,ci
