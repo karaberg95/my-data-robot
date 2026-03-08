@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-08T15:05:24.940Z,35.345666666667,-117.79816666667,6.1,1.21,ml,31,95,0.08726,0.21,ci,ci41200039,2026-03-08T15:08:50.358Z,"15 km WSW of Johannesburg, CA",earthquake,0.23,0.68,0.27646380729165,22,automatic,ci,ci
 2026-03-08T14:48:19.960Z,32.706166666667,-115.43483333333,13.65,1.47,ml,19,68,0.06084,0.27,ci,ci41200031,2026-03-08T14:51:51.720Z,"7 km ENE of Calexico, CA",earthquake,0.49,0.81,0.26015959381564,18,automatic,ci,ci
 2026-03-08T14:45:08.594Z,32.004,-103.837,8.4254,1.7,ml,24,60,0,0.6,tx,tx2026eshgvf,2026-03-08T14:50:03.350Z,"32 km SE of Malaga, New Mexico",earthquake,0,1.7824167013168,0.1,18,automatic,tx,tx
 2026-03-08T14:41:19.850Z,33.050666666667,-116.46416666667,8.45,0.91,ml,34,60,0.03436,0.18,ci,ci41200023,2026-03-08T14:44:53.677Z,"13 km ESE of Julian, CA",earthquake,0.18,0.63,0.26872488478416,19,automatic,ci,ci
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-08T13:57:55.626Z,64.319,-149.797,11.8,1.3,ml,9,84,0.4,0.4,ak,aka2026esfsdw,2026-03-08T13:59:32.173Z,"29 km W of Anderson, Alaska",earthquake,4.2,3.7364,0.3,4,automatic,ak,ak
 2026-03-08T13:48:13.045Z,62.204,-150.369,16.4,1.3,ml,17,87,0.2,0.6,ak,aka2026esfjuf,2026-03-08T13:49:56.117Z,"14 km SSW of Trapper Creek, Alaska",earthquake,3.6,2.8115,0.3,4,automatic,ak,ak
 2026-03-08T13:43:32.310Z,34.386,-116.45683333333,6.9,2.01,ml,52,52,0.1125,0.15,ci,ci41199975,2026-03-08T14:53:37.940Z,"30 km N of Yucca Valley, CA",earthquake,0.16,0.57,0.18179453470518,25,reviewed,ci,ci
+2026-03-08T13:38:52.580Z,42.137833333333,-120.963,7.47,1.45,ml,6,98,0.2551,0.11,uw,uw62231316,2026-03-08T15:19:26.520Z,"37 km E of Bonanza, Oregon",earthquake,0.4,31.61,0.16877580149532,3,reviewed,uw,uw
 2026-03-08T13:38:08.880Z,19.236333847046,-155.39349365234,33.360000610352,1.73,md,28,185,0.00396,0.109999999,hv,hv74913952,2026-03-08T13:41:59.330Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.82,0.639999986,0.073461974475275,13,automatic,hv,hv
 2026-03-08T13:33:32.300Z,38.800666809082,-122.81366729736,3.2300000190735,1.66,md,30,73,0.01463,0.05,nc,nc75324387,2026-03-08T13:52:19.378Z,"6 km WNW of The Geysers, CA",earthquake,0.21,0.370000005,0.15,31,automatic,nc,nc
 2026-03-08T13:30:20.232Z,32.141,-101.994,3.2481,1.5,ml,51,44,0,0.5,tx,tx2026eseuja,2026-03-08T13:34:24.768Z,"17 km NNE of Midland, Texas",earthquake,0,0.72853684425354,0.1,30,automatic,tx,tx
@@ -27,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-08T12:26:20.330Z,38.796501159668,-122.81616973877,3.460000038147,0.98,md,13,93,0.01309,0.02,nc,nc75324357,2026-03-08T13:07:20.062Z,"6 km WNW of The Geysers, CA",earthquake,0.34,0.790000021,0.12,14,automatic,nc,nc
 2026-03-08T12:16:27.790Z,35.682333333333,-117.54,6.47,1.11,ml,29,45,0.09623,0.12,ci,ci41199959,2026-03-08T14:53:14.834Z,"14 km ENE of Ridgecrest, CA",earthquake,0.15,0.54,0.16074999265804,15,reviewed,ci,ci
 2026-03-08T12:14:53.800Z,69.558,-143.448,19,3.5,ml,78,115,0.1,1.3,ak,aka2026eschkl,2026-03-08T14:14:44.040Z,"64 km S of Kaktovik, Alaska",earthquake,4.6,3.1513,0.2,45,automatic,ak,ak
-2026-03-08T12:10:56.360Z,37.77233505249,-121.94116973877,5.710000038147,1.41,md,8,108,0.01635,0.03,nc,nc75324352,2026-03-08T12:52:18.962Z,"3 km ESE of San Ramon, CA",earthquake,0.37,0.620000005,0.25,8,automatic,nc,nc
+2026-03-08T12:10:56.360Z,37.77233505249,-121.94116973877,5.710000038147,1.41,md,8,108,0.01635,0.03,nc,nc75324352,2026-03-08T15:07:21.905Z,"3 km ESE of San Ramon, CA",earthquake,0.37,0.620000005,0.25,8,automatic,nc,nc
 2026-03-08T12:09:40.340Z,38.80033493042,-122.81616973877,3.2999999523163,0.85,md,15,79,0.01326,0.02,nc,nc75324347,2026-03-08T12:11:16.039Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.709999979,0.21,17,automatic,nc,nc
 2026-03-08T12:09:09.520Z,38.79700088501,-122.81600189209,3.2599999904633,0.78,md,12,91,0.01331,0.02,nc,nc75324342,2026-03-08T12:37:22.851Z,"6 km WNW of The Geysers, CA",earthquake,0.37,1.25999999,0.17,13,automatic,nc,nc
 2026-03-08T12:05:54.870Z,38.812831878662,-122.81800079346,4.6300001144409,0.75,md,5,215,0.01839,0.02,nc,nc75324337,2026-03-08T12:07:34.840Z,"7 km NW of The Geysers, CA",earthquake,2.82,2.67000008,0.07,8,automatic,nc,nc
@@ -242,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-07T15:59:31.629Z,60.416,-151.046,59,2,ml,27,66,0.4,0.6,ak,aka2026eqoabb,2026-03-07T16:04:31.891Z,"8 km S of Soldotna, Alaska",earthquake,2.9,4.9251,0.1,19,reviewed,ak,ak
 2026-03-07T15:44:14.229Z,59.646,-153.368,125.5,2.5,ml,84,69,0.1,0.8,ak,aka2026eqnmwx,2026-03-07T21:43:56.040Z,"44 km ESE of Pedro Bay, Alaska",earthquake,3.6,1.5754,0.4,62,reviewed,ak,ak
 2026-03-07T15:24:58.668Z,59.968,-151.922,77.1,1.9,ml,21,78,0.6,0.4,ak,aka2026eqmwhe,2026-03-07T15:40:21.699Z,"10 km WNW of Happy Valley, Alaska",earthquake,4.3,4.1141,0.2,12,reviewed,ak,ak
-2026-03-07T15:23:16.094Z,62.168,-149.084,18.8,1.6,ml,14,74,0.5,0.3,ak,aka2026eqmuuz,2026-03-07T15:38:55.691Z,"39 km E of Susitna North, Alaska",earthquake,2.9,3.4535,0.2,10,reviewed,ak,ak
-2026-03-07T15:19:38.110Z,47.8185,-122.07733333333,22.45,1.44,ml,20,69,0.03478,0.16,uw,uw62231056,2026-03-07T18:13:02.080Z,"3 km ENE of Maltby, Washington",earthquake,0.34,0.45,0.23313835712343,11,reviewed,uw,uw
-2026-03-07T15:18:54.544Z,61.927,-149.175,0.8,2.2,ml,39,44,0.3,0.6,ak,aka2026eqmrbd,2026-03-07T15:37:43.685Z,"20 km N of Fishhook, Alaska",earthquake,2.2,1.9833,0.2,26,reviewed,ak,ak
