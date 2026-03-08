@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-03-08T19:10:49.690Z,33.246,-116.80283333333,12.06,0.95,ml,39,40,0.03826,0.14,ci,ci41200111,2026-03-08T19:14:21.027Z,"4 km W of Lake Henshaw, CA",earthquake,0.15,0.4,0.15221965592882,26,automatic,ci,ci
+2026-03-08T19:33:34.010Z,38.803665161133,-122.81266784668,2.9900000095367,1.12,md,27,63,0.01391,0.03,nc,nc75324537,2026-03-08T19:35:08.190Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.400000006,0.19,26,automatic,nc,nc
+2026-03-08T19:25:15.993Z,61.591,-149.733,18.2,1.7,ml,23,54,0.4,0.8,ak,aka2026esqoff,2026-03-08T19:27:40.214Z,"6 km SE of Houston, Alaska",earthquake,3.5,2.6972,0.2,9,automatic,ak,ak
+2026-03-08T19:10:49.690Z,33.246,-116.80283333333,12.06,0.95,ml,39,40,0.03826,0.14,ci,ci41200111,2026-03-08T19:24:10.098Z,"4 km W of Lake Henshaw, CA",earthquake,0.15,0.4,0.15221965592882,26,reviewed,ci,ci
+2026-03-08T19:08:04.188Z,21.6109,143.116,303.559,4.7,mb,94,96,6.824,0.6,us,us7000s30z,2026-03-08T19:24:01.040Z,"Mariana Islands region",earthquake,10.93,7.586,0.034,258,reviewed,us,us
+2026-03-08T19:06:26.522Z,51.5996,159.3437,35,4.8,mb,58,137,1.488,1.05,us,us7000s310,2026-03-08T19:31:07.040Z,"161 km SSE of Vilyuchinsk, Russia",earthquake,11.48,1.938,0.066,72,reviewed,us,us
 2026-03-08T18:43:18.315Z,51.3475,159.7416,10,4.4,mb,46,132,1.808,1.24,us,us7000s30x,2026-03-08T19:07:46.040Z,"198 km SSE of Vilyuchinsk, Russia",earthquake,10.91,1.894,0.086,39,reviewed,us,us
 2026-03-08T18:29:27.537Z,31.664,-104.38,4.4472,1.9,ml,30,70,0,0.4,tx,tx2026esosdf,2026-03-08T18:32:54.700Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0055373907089,0.1,23,automatic,tx,tx
 2026-03-08T18:25:21.600Z,38.820835113525,-122.84083557129,2.0699999332428,0.77,md,9,113,0.005075,0.01,nc,nc75324497,2026-03-08T19:07:18.478Z,"9 km WNW of The Geysers, CA",earthquake,0.59,0.970000029,0.17,10,automatic,nc,nc
@@ -24,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-08T17:21:34.686Z,31.538,-104.42,0,1.6,ml,18,223,0.1,0.9,tx,tx2026esmlbi,2026-03-08T18:00:47.500Z,"64 km WNW of Toyah, Texas",earthquake,0,,0.6,13,automatic,tx,tx
 2026-03-08T17:19:14.823Z,51.4956,159.5829,10,5.1,mb,71,121,1.634,0.66,us,us7000s302,2026-03-08T17:38:11.040Z,"178 km SSE of Vilyuchinsk, Russia",earthquake,8.94,1.883,0.059,93,reviewed,us,us
 2026-03-08T17:11:33.706Z,32.103,-101.912,4.7168,1.2,ml,28,42,0.1,0.4,tx,tx2026esmczb,2026-03-08T18:00:28.498Z,"12 km WSW of Stanton, Texas",earthquake,0,1.0527704954147,0.1,21,automatic,tx,tx
-2026-03-08T17:08:42.581Z,51.621,159.3956,16,5.9,mww,102,44,1.477,0.9,us,us7000s2zx,2026-03-08T18:01:04.379Z,"160 km SSE of Vilyuchinsk, Russia",earthquake,9.12,1.843,0.048,41,reviewed,us,us
+2026-03-08T17:08:42.581Z,51.621,159.3956,16,5.9,mww,102,44,1.477,0.9,us,us7000s2zx,2026-03-08T19:34:47.112Z,"160 km SSE of Vilyuchinsk, Russia",earthquake,9.12,1.843,0.048,41,reviewed,us,us
 2026-03-08T16:30:13.688Z,64.922,-150.385,16.3,3.4,ml,104,41,0.2,1.1,ak,aka2026esktkb,2026-03-08T17:01:13.145Z,"14 km SE of Manley Hot Springs, Alaska",earthquake,2.4,2.1217,0.1,72,reviewed,ak,ak
 2026-03-08T16:29:28.860Z,37.11600112915,-121.17866516113,7.8899998664856,1.6,md,13,168,0.1191,0.03,nc,nc75324437,2026-03-08T17:52:20.974Z,"22 km SW of Gustine, CA",earthquake,0.32,1.17999995,0.13,10,automatic,nc,nc
 2026-03-08T16:24:52.935Z,32.013,-103.814,6.962,1,ml,12,84,0,0.4,tx,tx2026eskoyu,2026-03-08T17:00:18.155Z,"33 km SE of Malaga, New Mexico",earthquake,0,3.101122379303,0.2,7,automatic,tx,tx
@@ -253,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-07T20:05:56.978Z,64.331,-149.514,11.5,1.8,ml,19,72,0.3,0.5,ak,aka2026eqwekj,2026-03-08T02:04:43.312Z,"15 km W of Anderson, Alaska",earthquake,3.1,2.4987,0.1,13,reviewed,ak,ak
 2026-03-07T19:58:58.410Z,19.133833333333,-66.598,44.05,3.38,md,11,231,0.7968,0.17,pr,pr71509278,2026-03-08T02:26:58.040Z,"74 km N of Arecibo, Puerto Rico",earthquake,1.43,5.41,0.048258736964083,7,reviewed,pr,pr
 2026-03-07T19:50:07.320Z,35.106333333333,-119.095,12.23,1.62,ml,37,57,0.0485,0.25,ci,ci41199663,2026-03-08T17:32:48.137Z,"24 km NW of Grapevine, CA",earthquake,0.31,0.66,0.13393181407349,20,reviewed,ci,ci
-2026-03-07T19:34:37.268Z,32.124,-102.209,4.2403,1.3,ml,47,105,0,0.4,tx,tx2026eqvdkc,2026-03-08T00:17:51.743Z,"18 km NW of Midland, Texas",earthquake,0,0.75833302736282,0.2,31,automatic,tx,tx
-2026-03-07T19:22:47.120Z,19.177165985107,-155.34866333008,28.270000457764,2.46,md,49,182,0.07571,0.140000001,hv,hv74913622,2026-03-07T19:27:11.990Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.52,0.560000002,0.13084439016391,13,automatic,hv,hv
-2026-03-07T19:15:41.440Z,40.308834075928,-124.41999816894,7.9800000190735,1.69,md,8,299,0.06261,0.06,nc,nc75323847,2026-03-07T20:52:21.452Z,"12 km W of Petrolia, CA",earthquake,3.45,1.21000004,0.15,6,automatic,nc,nc
