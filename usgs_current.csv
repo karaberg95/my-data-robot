@@ -246,8 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-21T12:16:46.736Z,23.8496,-45.8331,10,6.6,mww,114,31,16.131,0.68,us,us6000si5l,2026-03-22T05:08:57.576Z,"northern Mid-Atlantic Ridge",earthquake,9.59,1.851,0.054,33,reviewed,us,us
 2026-03-21T12:09:59.820Z,38.809833526611,-122.81199645996,3.3900001049042,1.08,md,19,59,0.01317,0.03,nc,nc75331007,2026-03-21T12:11:33.460Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.660000026,0.21,18,automatic,nc,nc
 2026-03-21T11:57:02.615Z,60.442,-139.588,9.1,2.1,ml,13,105,0.5,0.8,ak,aka2026fpydky,2026-03-22T07:56:17.471Z,"100 km N of Yakutat, Alaska",earthquake,4,2.8166,0.1,10,reviewed,ak,ak
-2026-03-21T11:54:07.340Z,60.296,-152.226,90.2,1.9,ml,32,54,0.4,0.5,ak,aka2026fpyaxm,2026-03-22T07:59:38.624Z,"41 km NW of Ninilchik, Alaska",earthquake,3.4,3.0529,0.2,22,reviewed,ak,ak
-2026-03-21T11:53:16.975Z,29.4304,130.6158,39.075,4.5,mb,58,127,2.077,0.45,us,us6000si5j,2026-03-21T12:54:45.040Z,"89 km S of Koshima, Japan",earthquake,7.74,7.603,0.079,47,reviewed,us,us
-2026-03-21T11:52:16.999Z,53.555,-165.671,23.1,2.7,ml,32,213,0.6,0.5,ak,aka2026fpxzhw,2026-03-22T07:10:07.823Z,"64 km S of Akutan, Alaska",earthquake,7.2,3.9775,0.1,24,reviewed,ak,ak
-2026-03-21T11:47:30.680Z,33.639333333333,-117.01433333333,13.34,0.85,ml,44,31,0.0114,0.17,ci,ci41421656,2026-03-21T11:50:55.348Z,"10 km SE of Winchester, CA",earthquake,0.18,0.33,0.17225820331899,25,automatic,ci,ci
-2026-03-21T11:43:31.170Z,55.374,-161.85616666667,14.31,0.36,ml,5,128,0.02803,0.12,av,av93057014,2026-03-22T05:35:02.740Z,"45 km NE of King Cove, Alaska",earthquake,1.07,0.78,0.076512581504569,5,reviewed,av,av
