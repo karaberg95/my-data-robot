@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-07-11T23:48:02.090Z,38.780166625977,-122.71583557129,1.2799999713898,0.96,md,7,95,0.01661,0.01,nc,nc75394171,2026-07-11T23:49:37.951Z,"2 km WNW of Anderson Springs, CA",earthquake,1.07,2.52999997,0.2,9,automatic,nc,nc
+2026-07-11T23:37:29.560Z,17.939666666667,-66.995333333333,11.11,2.15,md,7,227,0.05515,0.07,pr,pr71523443,2026-07-11T23:47:58.420Z,"6 km SE of La Parguera, Puerto Rico",earthquake,0.51,0.71,0.065293238993039,4,reviewed,pr,pr
+2026-07-11T23:34:24.030Z,19.17816734314,-155.41133117676,29.219999313354,1.76,md,17,209,0.06045,0.150000006,hv,hv75001036,2026-07-11T23:38:28.150Z,"7 km ESE of Pāhala, Hawaii",earthquake,1.16,0.899999976,0.14475607223333,13,automatic,hv,hv
+2026-07-11T23:22:17.520Z,18.007333333333,-66.851666666667,18.93,1.85,md,8,139,0.04148,0.15,pr,pr71523438,2026-07-11T23:36:06.080Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.65,0.62,0.1021164302035,5,reviewed,pr,pr
+2026-07-11T23:04:01.150Z,38.823333740234,-122.85182952881,2.1400001049042,0.75,md,8,166,0.005762,0.01,nc,nc75394156,2026-07-11T23:05:37.651Z,"10 km WNW of The Geysers, CA",earthquake,0.79,0.75999999,0.24,10,automatic,nc,nc
 2026-07-11T22:38:02.850Z,32.627333333333,-115.751,4.81,2.06,ml,45,47,0.03021,0.25,ci,ci41291671,2026-07-11T22:48:58.910Z,"17 km WNW of Progreso, B.C., MX",earthquake,0.25,0.56,0.21149280310555,27,automatic,ci,ci
 2026-07-11T22:26:14.444Z,61.776,-148.671,5.8,1.9,ml,20,102,0.1,0.7,ak,aka2026nqnbuu,2026-07-11T22:27:24.519Z,"4 km E of Sutton-Alpine, Alaska",earthquake,4,3.3119,0.2,4,automatic,ak,ak
 2026-07-11T22:10:30.800Z,17.961,-66.839166666667,15.46,2.47,md,14,188,0.04064,0.07,pr,pr71523423,2026-07-11T22:34:55.660Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.38,0.28,0.012256270637145,5,reviewed,pr,pr
@@ -205,8 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-11T00:24:58.481Z,31.533,-104.154,5.2712,2.2,ml,41,72,0.1,0.3,tx,tx2026nmqnpu,2026-07-11T01:01:05.866Z,"41 km NW of Toyah, Texas",earthquake,0,1.923273563385,0.2,30,automatic,tx,tx
 2026-07-11T00:14:44.570Z,38.824333190918,-122.84349822998,1.4800000190735,0.27,md,8,96,0.006726,0.02,nc,nc75393546,2026-07-11T00:47:25.396Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.860000014,0.15,9,automatic,nc,nc
 2026-07-11T00:03:24.930Z,33.5065,-116.44283333333,6.57,0.45,ml,14,73,0.1337,0.13,ci,ci41290967,2026-07-11T00:06:53.391Z,"21 km SW of La Quinta, CA",earthquake,0.22,1.18,0.074709137395925,6,automatic,ci,ci
-2026-07-10T23:44:04.913Z,60.233,-152.454,88.8,1.5,ml,42,75,0.2,0.5,ak,aka2026notqto,2026-07-10T23:45:53.236Z,"48 km WNW of Ninilchik, Alaska",earthquake,4,2.4203,0.4,12,automatic,ak,ak
-2026-07-10T23:41:33.747Z,31.527,-104.155,4.3042,1.8,ml,34,73,0.1,0.3,tx,tx2026nmpbza,2026-07-10T23:44:46.927Z,"41 km NW of Toyah, Texas",earthquake,0,1.0472795963287,0.2,24,automatic,tx,tx
-2026-07-10T23:26:05.020Z,17.884666666667,-66.8555,10.34,2.36,md,21,208,0.0927,0.14,pr,pr71523348,2026-07-10T23:39:55.550Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.39,0.47,0.20585392058132,6,reviewed,pr,pr
-2026-07-10T23:01:18.511Z,60.701,-147.043,19.5,3,ml,119,31,0.2,1.1,ak,aka2026nosfqw,2026-07-10T23:48:50.040Z,"26 km SW of Tatitlek, Alaska",earthquake,1.9,1.3968,0.2,30,automatic,ak,ak
-2026-07-10T22:59:34.691Z,-6.8003,105.0425,31.047,4.7,mb,48,135,2.67,1.19,us,us7000szla,2026-07-10T23:31:45.040Z,"98 km WSW of Labuan, Indonesia",earthquake,7.33,5.797,0.083,47,reviewed,us,us
