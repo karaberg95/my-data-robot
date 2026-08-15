@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-15T20:41:56.040Z,38.817832946777,-122.78983306885,2.5199999809265,2.13,md,50,54,0.008481,0.07,nc,nc75418992,2026-08-15T20:45:49.140Z,"5 km NNW of The Geysers, CA",earthquake,0.17,0.280000001,0.19,50,automatic,nc,nc
 2026-08-15T20:39:28.280Z,38.794334411621,-122.75916290283,1.1399999856949,1.1,md,15,74,0.006296,0.03,nc,nc75418982,2026-08-15T20:41:04.841Z,"2 km N of The Geysers, CA",earthquake,0.26,0.439999998,0.12,15,automatic,nc,nc
 2026-08-15T20:30:05.720Z,33.289,-116.7375,13.26,0.51,ml,33,34,0.0558,0.19,ci,ci40673362,2026-08-15T20:33:24.121Z,"6 km NNE of Lake Henshaw, CA",earthquake,0.23,0.57,0.11711205769932,10,automatic,ci,ci
 2026-08-15T20:26:44.276Z,63.567,-150.735,2.3,2.3,ml,21,47,0.5,0.7,ak,aka2026qczwcl,2026-08-15T20:27:52.744Z,"49 km E of Denali National Park, Alaska",earthquake,3.5,3.1781,0.1,5,automatic,ak,ak
@@ -260,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-14T21:17:06.300Z,52.100666666667,-176.17616666667,7.83,0.62,ml,6,267,0.007167,0.11,av,av94384108,2026-08-15T00:51:49.420Z,"40 km NE of Adak, Alaska",earthquake,0.64,0.77,0.23392053357248,6,reviewed,av,av
 2026-08-14T21:14:58.230Z,40.516498565674,-124.41249847412,16.979999542236,1.81,md,8,316,0.07031,0.09,nc,nc75418392,2026-08-14T22:27:23.318Z,"14 km WSW of Ferndale, CA",earthquake,3.3,1.25,0.03,6,automatic,nc,nc
 2026-08-14T21:05:55.620Z,36.01216506958,-120.57150268555,1.710000038147,0.91,md,7,118,0.02842,0.01,nc,nc75418382,2026-08-14T21:07:32.091Z,"18 km NW of Parkfield, CA",earthquake,0.35,0.99000001,0.19,2,automatic,nc,nc
-2026-08-14T20:50:02.890Z,17.997666666667,-66.7505,15.65,2.23,md,6,196,0.1246,0.1,pr,pr71528508,2026-08-14T21:06:56.810Z,"2 km SE of Magas Arriba, Puerto Rico",earthquake,0.57,1.26,0.096433423349517,6,reviewed,pr,pr
-2026-08-14T20:45:23.330Z,37.454498291016,-118.83799743652,6.4499998092651,2.4,md,11,97,0.1654,0.07,nc,nc75418372,2026-08-15T01:07:24.404Z,"18 km SW of Toms Place, CA",earthquake,0.83,4.11999989,0.26,13,automatic,nc,nc
-2026-08-14T20:43:36.317Z,61.944,-151.007,64.7,3.1,ml,143,19,0.3,1.2,ak,aka2026qbekdq,2026-08-15T14:59:24.040Z,"21 km ESE of Skwentna, Alaska",earthquake,1.8,2.8962,0.1,49,automatic,ak,ak
