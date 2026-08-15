@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-08-15T17:43:52.820Z,33.882833333333,-117.6975,4.55,1.23,ml,42,54,0.01714,0.18,ci,ci40673282,2026-08-15T17:47:16.339Z,"11 km E of Yorba Linda, CA",earthquake,0.19,0.31,0.34864158106677,31,automatic,ci,ci
 2026-08-15T17:21:49.960Z,34.197333333333,-117.3905,12.68,1.23,ml,66,37,0.02119,0.18,ci,ci40673274,2026-08-15T17:32:34.790Z,"3 km SSE of Devore, CA",earthquake,0.17,0.34,0.24573252367724,29,automatic,ci,ci
+2026-08-15T17:21:07.767Z,-8.3799,121.4952,10,4.5,mb,30,75,3.06,0.8,us,us6000tl2p,2026-08-15T17:53:13.040Z,"54 km NNW of Ende, Indonesia",earthquake,8.68,1.893,0.106,26,reviewed,us,us
 2026-08-15T17:20:51.698Z,31.625,-104.127,3.9406,1.9,ml,25,53,0,0.4,tx,tx2026qaepta,2026-08-15T17:28:39.650Z,"46 km NW of Toyah, Texas",earthquake,0,1.0496424436569,0.1,19,automatic,tx,tx
-2026-08-15T17:09:29.280Z,19.521,-156.40266666667,36.3,3.42,ml,58,239,0.3868,0.17,hv,hv75019242,2026-08-15T17:45:44.288Z,"44 km WSW of Kailua-Kona, Hawaii",earthquake,0.49,0.99,0.18093188954526,32,reviewed,hv,hv
+2026-08-15T17:09:29.280Z,19.521,-156.40266666667,36.3,3.42,ml,58,239,0.3868,0.17,hv,hv75019242,2026-08-15T17:51:29.138Z,"44 km WSW of Kailua-Kona, Hawaii",earthquake,0.49,0.99,0.18093188954526,32,reviewed,hv,hv
 2026-08-15T16:55:55.204Z,60.373,-151.077,54.7,2,ml,33,57,0.4,0.6,ak,aka2026qcsvho,2026-08-15T16:57:09.777Z,"11 km ENE of Kasilof, Alaska",earthquake,3.7,5.8769,0.1,12,automatic,ak,ak
 2026-08-15T16:47:40.064Z,61.217,-152.467,5,0.8,ml,6,213,0.1,0.9,ak,aka2026qcsodv,2026-08-15T16:50:41.833Z,"73 km WNW of Tyonek, Alaska",earthquake,20.2,,0.2,5,automatic,ak,ak
 2026-08-15T16:45:53.069Z,62.039,-152.492,19.2,1.2,ml,6,229,0.5,0.2,ak,aka2026qcsmpr,2026-08-15T16:47:03.039Z,"57 km W of Skwentna, Alaska",earthquake,11.7,5.7739,0.1,4,automatic,ak,ak
@@ -197,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-14T23:12:31.091Z,-8.1694,120.4166,10,5.1,mb,29,118,3.203,1.13,us,us6000tkv7,2026-08-14T23:38:30.040Z,"49 km N of Ruteng, Indonesia",earthquake,7.93,1.82,0.135,18,reviewed,us,us
 2026-08-14T23:06:24.735Z,64.019,-149.217,12.9,1.4,ml,9,120,0.3,0.3,ak,aka2026qbjdzh,2026-08-15T09:19:49.757Z,"4 km W of Ferry, Alaska",earthquake,4.5,3.4824,0,1,reviewed,ak,ak
 2026-08-14T23:05:19.840Z,64.974,-147.472,1.2,2.4,ml,18,49,0.1,0.5,ak,aka2026qbjdaz,2026-08-15T09:22:36.341Z,"7 km ENE of Fox, Alaska",earthquake,3.3,2.3035,0.4,12,reviewed,ak,ak
-2026-08-14T23:04:40.797Z,37.0789,-3.6486,10,5.2,mb,43,76,2.523,0.97,us,us6000tkv2,2026-08-15T16:36:44.542Z,"1 km SW of Otura, Spain",earthquake,6.94,1.862,0.057,103,reviewed,us,us
+2026-08-14T23:04:40.797Z,37.0789,-3.6486,10,5.2,mb,43,76,2.523,0.97,us,us6000tkv2,2026-08-15T17:59:46.171Z,"1 km SW of Otura, Spain",earthquake,6.94,1.862,0.057,103,reviewed,us,us
 2026-08-14T23:04:01.062Z,51.71,-176.114,73.6,2.2,ml,17,206,0.2,0.4,ak,aka2026qbjbxe,2026-08-15T09:14:59.416Z,"40 km ESE of Adak, Alaska",earthquake,26.8,6.7634,0.3,11,reviewed,ak,ak
 2026-08-14T23:02:54.074Z,31.412,-103.849,7.8609,1.5,ml,9,96,0,0.8,tx,tx2026pyufsf,2026-08-14T23:07:38.782Z,"12 km NNW of Toyah, Texas",earthquake,0,2.4811768531799,0.4,7,automatic,tx,tx
 2026-08-14T23:00:03.603Z,-8.2899,120.829,11.296,4.8,mb,33,61,3.426,1.12,us,us6000tl1g,2026-08-15T15:30:48.040Z,"53 km NE of Ruteng, Indonesia",earthquake,6.12,4.312,0.105,28,reviewed,us,us
@@ -270,6 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-14T18:11:56.950Z,36.031333333333,-117.78083333333,2.11,0.8,ml,20,66,0.01402,0.11,ci,ci40672746,2026-08-14T18:39:57.041Z,"15 km E of Coso Junction, CA",earthquake,0.13,0.12,0.16829180125183,13,reviewed,ci,ci
 2026-08-14T18:08:48.240Z,39.510333333333,-110.33966666667,-1.93,0.83,md,6,141,0.08686,0.05,uu,uu80148791,2026-08-14T18:48:48.200Z,"6 km SE of Sunnyside, Utah",earthquake,0.36,0.57,0.21690202603075,5,reviewed,uu,uu
 2026-08-14T18:03:54.327Z,4.2883,128.0475,10,4.7,mb,56,95,3.697,0.66,us,us6000tkrs,2026-08-14T18:28:29.040Z,"283 km N of Tobelo, Indonesia",earthquake,11.04,1.886,0.065,72,reviewed,us,us
-2026-08-14T17:55:22.749Z,31.637,-104.176,6.1127,1.5,ml,33,63,0.1,0.2,tx,tx2026pykask,2026-08-14T18:38:18.738Z,"50 km NW of Toyah, Texas",earthquake,0.55010202375262,0.53700354886026,0.1,19,reviewed,tx,tx
-2026-08-14T17:52:16.640Z,35.119,-118.20733333333,8.64,0.73,ml,18,42,0.16,0.11,ci,ci40672738,2026-08-14T23:12:09.251Z,"8 km NNW of Mojave, CA",earthquake,0.19,0.95,0.12482533536399,14,reviewed,ci,ci
-2026-08-14T17:51:00.190Z,18.4435,-64.1005,73.97,3.03,md,5,303,0.2903,0.14,pr,pr71528493,2026-08-14T18:37:55.040Z,"74 km E of Cruz Bay, U.S. Virgin Islands",earthquake,1.23,1.32,0.031802742398905,4,reviewed,pr,pr
