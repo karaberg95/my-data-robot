@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-20T10:58:54.951Z,63.198,-150.78,131.5,1.4,ml,24,63,0.6,0.4,ak,aka2026qlnaod,2026-08-20T11:00:42.372Z,"60 km SE of Denali National Park, Alaska",earthquake,6.2,3.8917,0.1,8,automatic,ak,ak
+2026-08-20T10:47:42.126Z,58.161,-155.335,5,0.4,ml,9,118,0,0.5,ak,aka2026qlmqwu,2026-08-20T10:48:29.980Z,"84 km NW of Karluk, Alaska",earthquake,7.1,,0.2,6,automatic,ak,ak
+2026-08-20T10:41:39.611Z,63.092,-151.472,5,1.7,ml,15,74,0.4,0.6,ak,aka2026qlmltb,2026-08-20T10:42:51.400Z,"51 km SSE of Denali National Park, Alaska",earthquake,4.4,,0.1,5,automatic,ak,ak
+2026-08-20T10:39:16.683Z,63.539,-147.362,0.3,1.5,ml,26,39,0.7,0.8,ak,aka2026qlmjpa,2026-08-20T10:41:05.741Z,"79 km ESE of Denali Park, Alaska",earthquake,2.7,2.3409,0.1,13,automatic,ak,ak
 2026-08-20T10:30:50.880Z,60.93,-147.417,0.2,2.5,ml,35,52,0.2,0.7,ak,aka2026qlmcgj,2026-08-20T10:31:54.751Z,"40 km W of Tatitlek, Alaska",earthquake,2.7,2.6003,0.4,7,automatic,ak,ak
 2026-08-20T10:04:44.570Z,33.421833333333,-116.61883333333,7.7,0.3,ml,39,27,0.07399,0.21,ci,ci41531048,2026-08-20T10:08:07.504Z,"16 km N of Warner Springs, CA",earthquake,0.22,0.56,0.15343588094371,8,automatic,ci,ci
 2026-08-20T10:01:15.560Z,38.788833618164,-122.74933624268,4.0599999427795,0.76,md,9,84,0.01133,0.01,nc,nc75421712,2026-08-20T10:02:51.089Z,"1 km NNE of The Geysers, CA",earthquake,0.43,1.16999996,0.18,11,automatic,nc,nc
@@ -64,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-20T04:05:38.550Z,38.792835235596,-122.75949859619,0.89999997615814,2.27,md,63,87,,0.06,nc,nc75421647,2026-08-20T06:17:24.623Z,"2 km N of The Geysers, CA",earthquake,0.13,0.180000007,0.14,63,automatic,nc,nc
 2026-08-20T04:03:38.530Z,36.065666666667,-117.83616666667,2.8,0.82,ml,19,61,0.05397,0.09,ci,ci41530856,2026-08-20T04:07:01.808Z,"10 km ENE of Coso Junction, CA",earthquake,0.13,0.41,0.17936653784305,12,automatic,ci,ci
 2026-08-20T04:00:44.338Z,36.7208,-115.7573,0.0378,2.1,ml,32,70,0.168,0.295,nn,nn00923544,2026-08-20T04:04:45.829Z,"18 km NNW of Indian Springs, Nevada",earthquake,,4.7161,0.2,15,automatic,nn,nn
+2026-08-20T03:57:05.120Z,18.743166666667,-67.600333333333,20.48,2.94,md,12,210,0.3749,0.22,pr,pr71529088,2026-08-20T10:46:08.130Z,"57 km NW of Rincón, Puerto Rico",earthquake,1.06,15.34,0.10572260520502,6,reviewed,pr,pr
 2026-08-20T03:54:52.450Z,19.418333053589,-155.58732604981,40.669998168945,2.11,md,25,61,0.03854,0.189999998,hv,hv75021097,2026-08-20T03:58:41.560Z,"26 km NNW of Pāhala, Hawaii",earthquake,0.66,1.22000003,0.2012943752919,11,automatic,hv,hv
 2026-08-20T03:54:39.460Z,18.941833333333,-64.723,26.94,2.77,md,4,284,0.5279,0.21,pr,pr71529118,2026-08-20T10:24:26.400Z,"67 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.1,18.89,0.074658724378162,3,reviewed,pr,pr
 2026-08-20T03:52:00.140Z,46.470664978027,-122.41733551025,21.89999961853,1.618458032608,ml,49,58,0.1346,0.0900000036,uw,uw714081862,2026-08-20T04:10:50.620Z,"8 km SE of Mossyrock, Washington",earthquake,0.25,0.620000005,0.23195616900921,22,reviewed,uw,uw
@@ -301,12 +306,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-19T11:10:11.661Z,51.881,-171.337,5.6,2.9,ml,17,231,1.3,0.7,ak,aka2026qjrjwb,2026-08-19T17:22:52.374Z,"199 km E of Atka, Alaska",earthquake,13.7,14.2607,0.1,13,reviewed,ak,ak
 2026-08-19T11:06:53.208Z,53.359,-165.533,26.2,2.1,ml,14,306,0.8,0.2,ak,aka2026qjrgxu,2026-08-19T17:15:11.653Z,"87 km SE of Unalaska, Alaska",earthquake,15.8,10.2699,0.1,11,reviewed,ak,ak
 2026-08-19T11:03:17.375Z,59.473,-152.745,74.4,1.7,ml,38,83,0.3,0.4,ak,aka2026qjrdvd,2026-08-19T17:06:39.693Z,"48 km WNW of Nanwalek, Alaska",earthquake,3.7,3.0903,0.1,29,reviewed,ak,ak
-2026-08-19T11:01:37.358Z,5.4275,125.2714,84.483,4.8,mb,67,81,1.66,0.79,us,us6000tlun,2026-08-19T11:52:06.437Z,"18 km SSW of Balangonan, Philippines",earthquake,8.67,7.619,0.06,86,reviewed,us,us
-2026-08-19T10:58:40.880Z,58.172166666667,-155.38083333333,1.69,-0.19,ml,12,69,0.04722,0.11,av,av94393133,2026-08-20T02:53:52.240Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.42,0.15076360550157,12,reviewed,av,av
-2026-08-19T10:57:40.301Z,58.779,-153.634,6.1,1.8,ml,39,49,0.2,0.7,ak,aka2026qjqyyu,2026-08-20T03:09:53.320Z,"90 km NNW of Aleneva, Alaska",earthquake,3.3,2.3485,0.2,31,reviewed,ak,ak
-2026-08-19T10:54:35.060Z,57.086,-156.253,4.3,1.8,ml,26,126,0.6,0.7,ak,aka2026qjqwgv,2026-08-19T17:03:43.784Z,"83 km SE of Ugashik, Alaska",earthquake,3.7,2.3789,0.1,20,reviewed,ak,ak
-2026-08-19T10:53:03.330Z,38.82833480835,-122.85233306885,2.0499999523163,0.68,md,10,71,0.003633,0.02,nc,nc75421182,2026-08-19T13:12:23.705Z,"10 km NW of The Geysers, CA",earthquake,0.41,0.689999998,0.3,10,automatic,nc,nc
-2026-08-19T10:47:40.310Z,33.320833333333,-116.32866666667,12.69,0.44,ml,35,98,0.03275,0.19,ci,ci41530040,2026-08-19T13:16:38.029Z,"8 km NNE of Borrego Springs, CA",earthquake,0.28,0.65,0.13585606556584,4,reviewed,ci,ci
-2026-08-19T10:44:59.407Z,-7.8858,120.4442,10.179,4.7,mb,42,64,2.935,0.51,us,us6000tlum,2026-08-19T11:08:15.040Z,"80 km N of Ruteng, Indonesia",earthquake,7.91,4.79,0.108,26,reviewed,us,us
-2026-08-19T10:44:48.220Z,51.4557,-177.9603,61.289,2.5,ml,32,201,0.303,0.31,us,us6000tly9,2026-08-20T06:24:00.040Z,"102 km WSW of Adak, Alaska",earthquake,8.11,15.467,0.091,16,reviewed,us,us
-2026-08-19T10:40:21.499Z,58.832,-154.503,121.1,1.3,ml,19,157,0.2,0.5,ak,aka2026qjqjyx,2026-08-19T17:00:48.676Z,"69 km SSE of Kokhanok, Alaska",earthquake,8.7,4.5222,0.3,15,reviewed,ak,ak
